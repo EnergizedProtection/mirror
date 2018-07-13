@@ -1,5 +1,3 @@
--rotation.de
--traffic.com
 005.free-counter.co.uk
 006.free-adult-counters.x-xtra.com
 006.free-counter.co.uk
@@ -52168,6 +52166,6 @@ zzz.clickbank.net
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/ck-ad-tracker.txt
 # Generated - 13.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 52165
+# Total Domains: 52163
 # License: MIT
 

@@ -1,8 +1,3 @@
--geoip.js
--logging.nextmedia.com
--scroll-tracker.js
--tracking.js?
--xtcore.js
 0emm.com
 0stats.com
 0x1f4b0.com
@@ -5303,6 +5298,6 @@ zvsuhljiha-a.akamaihd.net
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easyprivacy.txt
 # Generated - 13.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 5300
+# Total Domains: 5295
 # License: MIT
 

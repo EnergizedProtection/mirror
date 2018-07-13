@@ -1,4 +1,3 @@
--omniture.js
 adblockers-ns.servicebus.windows.net
 algorithmia.com
 areyouahuman.com
@@ -103,6 +102,6 @@ wurfl.io
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/fanboy-enhanced-stats.txt
 # Generated - 13.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 100
+# Total Domains: 99
 # License: MIT
 

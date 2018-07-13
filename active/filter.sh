@@ -98,8 +98,8 @@ tr '[:upper:]' '[:lower:]' < $temp > $atemp
 egrep -v "^[[:blank:]]*(::|localhost|#|&|;|%|!|/|@|\.|\$|$)" $atemp > $temp
 sed 's/^[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}//;/^\s*$/d;s/^localhost//;s/^,//;s/^-//;s/^_//;s/^;//;s/@//;s/;//;s/,//;s/+//;s/*//;s/=//;s/-$//;s/_$//;s/#.*//;s/##.*//;s/localhost$//;s/^[[:blank:]]*//;s/[[:blank:]]*$//' $temp > $atemp
 sort $atemp|uniq|tee > $temp
-# Remove IPs
-sed 's/^[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}.$//' $temp > $atemp
+# Remove IPs and extras
+sed 's/^[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}.$//;s/^[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}.$//;s/^-.*//' $temp > $atemp
 # Removes Blank - Beginning and Ending
 sed 's/^ *//; s/ *$//; /^$/d' $atemp > $temp
 # Removes Whitespace

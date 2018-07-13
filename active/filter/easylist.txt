@@ -1,25 +1,3 @@
--ad.jpg?
--ad.jsp|
--ad.php?
--ads.gif
--ads.js?
--ads.php?
--ads.swf
--ads1.htm
--ads2.htm
--ads3.htm
--ads3.jpg
--ads4.htm
--adtool.appspot.com
--adv.jpg
--adv.js
--advert.jpg?
--advert.swf
--api.adyoulike.com
--banner.swf?
--doubleclick.js
--doubleclick.min.js
--smartad.s3.amazonaws.com
 006a039c957c142bb.com
 0073dd485d46d930dd9.com
 00aaa2d81c1d174.com
@@ -10288,6 +10266,6 @@ zzkrxder.com
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easylist.txt
 # Generated - 13.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 10285
+# Total Domains: 10263
 # License: MIT
 
