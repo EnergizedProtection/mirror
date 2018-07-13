@@ -1,0 +1,58 @@
+adclick.g.doublecklick.net
+adeventtracker.spotify.com
+adnxs.com
+adnxs.comadplexmedia.adk2x.com
+analytics.spotify.com
+b.scorecardresearch.com
+bluekai.com
+bounceexchange.com
+bs.serving-sys.com
+cdn.amplitude.com
+cdn.optimizely.com
+content.bitsontherun.com
+core.insightexpressai.com
+crashdump.spotify.com
+cs126.wpc.edgecastcdn.net
+d2gi7ultltnc2u.cloudfront.net
+d3rt1990lpmkn.cloudfront.net
+desktop.spotify.com
+doubleclick.net
+ds.serving-sys.com
+gew1.ap.spotify.com
+googleads.g.doubleclick.net
+googleads4.g.doubleclick.net
+googleadservices.com
+gtssl2-ocsp.geotrust.com
+js.moatads.com
+log.spotify.com
+media-match.com
+omaze.com
+pagead2.googlesyndication.com
+partner.googleadservices.com
+pubads.g.doubleclick.net
+redirector.gvt1.com
+s0.2mdn.net
+sb.scorecardresearch.com
+secure.quantserve.com
+seen-on-screen.thewhizmarketing.com
+server-54-230-216-203.mrs50.r.cloudfront.net
+spclient.wg.spotify.com
+tpc.googlesyndication.com
+tracking.tidalhifi.com
+u.scdn.co
+upgrade.scdn.co
+upgrade.spotify.com
+video-ad-stats.googlesyndication.com
+vt.myvisualiq.net
+weblb-wg.gslb.spotify.com
+www.googleadservices.com
+www.googletagservices.com
+www.omaze.com
+
+# Hosts - streaming-ads
+# Source - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/StreamingAds/hosts
+# Generated - 13.07.2018
+# Created with Quizzer by @adroitadorkhan - nayemador.com
+# Total Domains: 50
+# License: MIT
+

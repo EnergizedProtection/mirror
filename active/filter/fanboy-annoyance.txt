@@ -1,0 +1,35 @@
+alerts.thedailystar.net
+cf-particle-html.eip.telegraph.co.uk
+cnil.links-lab.fr
+cookie.gazeta.pl
+cookies.fakt.pl
+cookies.forbes.pl
+cookies.innershed.co.uk
+cookies.leadplace.fr
+cookies.nos.nl
+cookies.unidadeditorial.es
+d5k6iufjynyu8.cloudfront.net
+dam.bbcchannels.com
+dhpikd1t89arn.cloudfront.net
+forms.windowsitpro.com
+gdpr.internetbrands.com
+gdpr.prisa.com
+mailmunch.s3.amazonaws.com
+mdsngpush.finanzen.net
+newsletter.bdnews24.com
+push.cnnindonesia.com
+rodo.agora.pl
+share.baidu.com
+social.dw.de
+sp.knowyourmeme.com
+twitter-badges.s3.amazonaws.com
+widgets.sprinkletxt.com
+zgody.infor.pl
+
+# Hosts - fanboy-annoyance
+# Source - https://raw.githubusercontent.com/hectorm/hMirror/master/data/fanboy-annoyance/list.txt
+# Generated - 13.07.2018
+# Created with Quizzer by @adroitadorkhan - nayemador.com
+# Total Domains: 27
+# License: MIT
+

@@ -1,0 +1,33 @@
+analytic-google.com
+avast-downloads.com
+blacksnake.com
+europcareer.com
+get-avast.com
+google-docs.info
+gooqleapi.com
+iphonegames3g.com
+jmp2click.com
+microsoft-update.name
+paypai.org
+sunonsunday.co.uk
+sunonsunday.com
+thesunonsunday.co.uk
+thesunonsunday.com
+toolbar.wibiya.com
+www.analytic-google.com
+www.avast-downloads.com
+www.europcareer.com
+www.get-avast.com
+www.google-docs.info
+www.iphonegames3g.com
+www.jmp2click.com
+www.microsoft-update.name
+wwwfacebook.com
+
+# Hosts - fademind-add.dead
+# Source - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Dead/hosts
+# Generated - 13.07.2018
+# Created with Quizzer by @adroitadorkhan - nayemador.com
+# Total Domains: 25
+# License: MIT
+
