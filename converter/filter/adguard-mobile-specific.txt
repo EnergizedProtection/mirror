@@ -1,0 +1,12 @@
+# adguard-mobile-specific Custom Build
+# Builds Maintainer: Nayem Ador
+# Converted From - https://github.com/AdguardTeam/AdguardFilters/raw/master/MobileFilter/sections/specific_app.txt
+# Last Converted - Fri, 13 Jul 2018 16:17:58 -0400
+# Energized - ad.porn.malware blocking.
+
+0.0.0.0 promotion.polarisoffice.com
+0.0.0.0 newad.ifeng.com
+0.0.0.0 afreeca-tag.ad-mapps.com
+0.0.0.0 mtag.mman.kr
+0.0.0.0 etl.tindersparks.com
+0.0.0.0 d27tpsznug51gz.cloudfront.net
