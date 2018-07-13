@@ -17,14 +17,14 @@ $lists = array(
 	// Adguard Spyware First Party
 	'adguard-spyware-firstparty' => 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers_firstparty.txt',
 
-     // Adguard Tracking
-	 'adguard-tracking-servers' => 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers.txt',
+  // Adguard Tracking
+	'adguard-tracking-servers' => 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers.txt',
 
-     // Airelle Sex Clean List
-     'airelle-sex' => 'https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Mirror/Airelle/SEX/sex.clean.txt',
+  // Airelle Sex Clean List
+  'airelle-sex' => 'https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Mirror/Airelle/SEX/sex.clean.txt',
   
-     // Blockzilla
-    'blockzilla' => 'https://raw.githubusercontent.com/zpacman/Blockzilla/master/Blockzilla.txt',
+  // Blockzilla
+  'blockzilla' => 'https://raw.githubusercontent.com/zpacman/Blockzilla/master/Blockzilla.txt',
   
 	// EasyPrivacy
 	'easyprivacy' => 'https://easylist.to/easylist/easyprivacy.txt',
@@ -41,20 +41,20 @@ $lists = array(
 	// EasyPrivacy Tracking
 	'easyprivacy-tracking-servers' => 'https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers.txt',
 
-    // Easylist Adult
+   // Easylist Adult
 	'easylist-adult-adservers' => 'https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_adservers.txt',
 
-    // Easylist Adult 3rd Party
+   // Easylist Adult 3rd Party
 	'easylist-adult-thirdparty' => 'https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_thirdparty.txt',
 
-    // Easylist Adult Specific
+  // Easylist Adult Specific
 	'easylist-adult-specific' => 'https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_specific_block.txt',
 	
 	// FanBoy EnhancedStats
 	'fanboy-enhanced-stats' => 'https://www.fanboy.co.nz/enhancedstats.txt',
 	
-    // MoaAB
-    'moaab' => 'https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Mirror/MoaAB/MoaAB.txt',
+  // MoaAB
+  'moaab' => 'https://raw.githubusercontent.com/EnergizedProtection/mirror/master/mirror/MoaAB.active.txt',
   
 	// Quidsup No Track
 	'quidsup-no-track' => 'https://raw.githubusercontent.com/quidsup/notrack/master/trackers.txt',
@@ -83,8 +83,8 @@ $lists = array(
 	// SquidBlacklist Malicious 
 	'squidblacklist-malicious' => 'https://www.squidblacklist.org/downloads/dg-malicious.acl',
 	
-    // Porn Top 1M
-    'porn-top1m' => 'https://raw.githubusercontent.com/chadmayfield/pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list',
+  // Porn Top 1M
+  'porn-top1m' => 'https://raw.githubusercontent.com/chadmayfield/pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list',
   
 	// Cybercrime Tracker
 	'cybercrime' => 'https://v.firebog.net/hosts/Cybercrime.txt',
