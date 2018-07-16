@@ -19,6 +19,7 @@
 0.0.0.0 aerkxydrptnv.com
 0.0.0.0 aeuiazspafmbu.com
 0.0.0.0 aeunorkjuqtn.com
+0.0.0.0 aezeluusbdajjx.com
 0.0.0.0 afbfoxmwzlqa.com
 0.0.0.0 afdyfxfrwbfy.com
 0.0.0.0 afqvtomlqjioeo.com
@@ -1191,6 +1192,7 @@
 0.0.0.0 ktbcsulyildmm.com
 0.0.0.0 ktexnnvlvhxa.com
 0.0.0.0 kthztsgfuygcw.com
+0.0.0.0 ktrgcpceilj.com
 0.0.0.0 ktrmzzrlkbet.com
 0.0.0.0 kttjowlrr.com
 0.0.0.0 kuaygqohsbeg.com
@@ -2752,6 +2754,6 @@
 # Source - https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts
 # Generated - 16.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 2749
+# Total Domains: 2751
 # License: MIT
 

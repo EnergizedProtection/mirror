@@ -119,9 +119,7 @@ comm -23 "$hosts" "$whitelist" >> "$fresh"
 # Add IP and Uncomment if you want Hosts
 awk '$0="0.0.0.0 "$0' $fresh > $active
 
-cat $active | tr -d '\r' > $fresh
-
-# mv -f $active $fresh
+mv -f $active $fresh
 
 # Read Total Domain Number
 totaldomains=$(awk 'END{print NR}' $fresh)

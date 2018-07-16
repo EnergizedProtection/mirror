@@ -64,7 +64,7 @@
   {"name": "malwaredomains.com-justdomains",     "enabled": true,  "format": "plain",   "url": "https://malwaredomains.usu.edu/justdomains"},
   {"name": "matomo.org-spammers",                "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt"},
   {"name": "mitchellkrogza-badd-boyz-hosts",     "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts"},
-  {"name": "moaab",                              "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/moaab.txt"},
+  {"name": "moaab",                              "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/EnergizedProtection/mirror/master/mirror/MoaAB.active.txt"},
   {"name": "molinero-hblock",                    "enabled": true,  "format": "plain",   "url": "https://hblock.molinero.xyz/hosts"},
   {"name": "neohost",                            "enabled": true,  "format": "plain",   "url": "https://hosts.nfz.moe/full/hosts"},
   {"name": "notracking",                         "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt"},
