@@ -1,7 +1,7 @@
 # easyprivacy Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - https://easylist.to/easylist/easyprivacy.txt
-# Last Converted - Mon, 16 Jul 2018 12:04:53 -0400
+# Last Converted - Mon, 16 Jul 2018 12:06:19 -0400
 # Energized - ad.porn.malware blocking.
 
 0.0.0.0 -geoIP.js
