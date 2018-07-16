@@ -54687,7 +54687,7 @@
 0.0.0.0 zzz.adx1.com
 0.0.0.0 zzz.clickbank.net
 
-# Hosts - sbc-fakewnews-gambling
+# Hosts - sbc-fakenews-gambling
 # Source - https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts
 # Generated - 16.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com

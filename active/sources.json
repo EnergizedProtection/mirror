@@ -81,7 +81,7 @@
   {"name": "squidblacklist-dg-ads",              "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/squidblacklist-ads.txt"},
   {"name": "squidblacklist-dg-malicious",        "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/squidblacklist-malicious.txt"},
   {"name": "sbc",                                "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts"},
-  {"name": "sbc-fakewnews-gambling",             "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts"},
+  {"name": "sbc-fakenews-gambling",             "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts"},
   {"name": "stopforumspam.com",                  "enabled": true,  "format": "plain",   "url": "https://stopforumspam.com/downloads/toxic_domains_whole.txt"},
   {"name": "streaming-ads",                      "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/StreamingAds/hosts"},
   {"name": "unchecky-ads",                       "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts"},

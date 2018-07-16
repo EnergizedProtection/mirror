@@ -461,6 +461,7 @@
 0.0.0.0 elvirvln.com
 0.0.0.0 elzmazpsbnwn.com
 0.0.0.0 emvdlnwph.com
+0.0.0.0 emxfructugey.com
 0.0.0.0 emzotevsto.com
 0.0.0.0 enfupatujiqb.com
 0.0.0.0 enhwftpkwvnb.com
@@ -2754,6 +2755,6 @@
 # Source - https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts
 # Generated - 16.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 2751
+# Total Domains: 2752
 # License: MIT
 
