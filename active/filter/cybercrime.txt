@@ -112,6 +112,7 @@
 0.0.0.0 ad.icab.pk
 0.0.0.0 adamlikes.com
 0.0.0.0 adexeintl.com
+0.0.0.0 adirektiva.com
 0.0.0.0 adkjt.3utilities.com
 0.0.0.0 admin.mediachakra.com
 0.0.0.0 adminhttp.eu
@@ -592,6 +593,7 @@
 0.0.0.0 borgesbrasil.com.br
 0.0.0.0 borgjoinery.com.au
 0.0.0.0 borstahusenscamping.se
+0.0.0.0 bosch-pharmia.com
 0.0.0.0 bosmax.ga
 0.0.0.0 bot-lab.tk
 0.0.0.0 bot.kodirov.ru
@@ -632,7 +634,9 @@
 0.0.0.0 browntor.trade
 0.0.0.0 brunvoll.co
 0.0.0.0 bstorepro.com
+0.0.0.0 btcbuying.ml
 0.0.0.0 btckomok.name
+0.0.0.0 bticoin.su
 0.0.0.0 btodata.net
 0.0.0.0 buachedhsp.com
 0.0.0.0 bubblelove85.altervista.org
@@ -1470,6 +1474,7 @@
 0.0.0.0 gabtlc.com
 0.0.0.0 gadgetbidkenya.com
 0.0.0.0 galanisjason.net
+0.0.0.0 gam-studio.ru
 0.0.0.0 gamale.bget.ru
 0.0.0.0 game-portal.su
 0.0.0.0 games-counter-csgo.royalwebhosting.net
@@ -1692,6 +1697,7 @@
 0.0.0.0 herminiametzler.com.br
 0.0.0.0 herora.in
 0.0.0.0 heroskatopirango.com
+0.0.0.0 herosoup.org
 0.0.0.0 hertrindidnted.com
 0.0.0.0 hgjfjg55555555555555.nl.ai
 0.0.0.0 hhamay.website
@@ -1748,6 +1754,8 @@
 0.0.0.0 hpglmail.com
 0.0.0.0 hptech.com.br
 0.0.0.0 hpzvexcfvyx9.cf
+0.0.0.0 hrsflows.com
+0.0.0.0 hs-bc-grps.com
 0.0.0.0 hsbconlineuk.com
 0.0.0.0 hta.duckdns.org
 0.0.0.0 htaccessdoc.com
@@ -1803,6 +1811,7 @@
 0.0.0.0 ijitm.com
 0.0.0.0 ike.kenal-cn.com
 0.0.0.0 ike.medai-gruop.com
+0.0.0.0 ikoimee.com.ng
 0.0.0.0 ilkalor.xyz
 0.0.0.0 ilkaymamaev.nov.ru
 0.0.0.0 iln.club
@@ -2138,6 +2147,7 @@
 0.0.0.0 lapomme.altervista.org
 0.0.0.0 laptree.ml
 0.0.0.0 laraspagnuinoxdadi.com
+0.0.0.0 larrydaves.cf
 0.0.0.0 laruotabio-gas.it
 0.0.0.0 lastlapsantos.info
 0.0.0.0 launchhotel.com
@@ -2209,6 +2219,7 @@
 0.0.0.0 lisgroup.info
 0.0.0.0 listing.co.il
 0.0.0.0 litehub.ga
+0.0.0.0 litemetajoiner.xyz
 0.0.0.0 littleindiadentist.com.sg
 0.0.0.0 livingwaterphotography.com
 0.0.0.0 ljelegroupltd.com
@@ -2577,6 +2588,7 @@
 0.0.0.0 nellisrealestate.com
 0.0.0.0 nelsonniga.biz
 0.0.0.0 nemmarchending.info
+0.0.0.0 neomarc.com.br
 0.0.0.0 neptuneek.pw
 0.0.0.0 nervozn.tk
 0.0.0.0 nestorlmports.com
@@ -2750,6 +2762,7 @@
 0.0.0.0 orangefeb.herobo.com
 0.0.0.0 orangefornowsee.webatu.com
 0.0.0.0 orangeisabitch.net16.net
+0.0.0.0 orderhrf.info
 0.0.0.0 oreax.com
 0.0.0.0 oredis.ma
 0.0.0.0 oregonwebworks.com
@@ -3227,6 +3240,7 @@
 0.0.0.0 seerahmission.com
 0.0.0.0 seerwty.ru
 0.0.0.0 sefanivc.com
+0.0.0.0 seganag.com
 0.0.0.0 seguralawfirm.com
 0.0.0.0 sehgtrade.pw
 0.0.0.0 seldomgate.com
@@ -3534,6 +3548,7 @@
 0.0.0.0 synclogs.com
 0.0.0.0 sysplugins.com
 0.0.0.0 systema-1.nichost.ru
+0.0.0.0 szccf361.com
 0.0.0.0 szevargrows.com
 0.0.0.0 t.m.u.radio.hi2.ro
 0.0.0.0 t00lz.sourceforge.net
@@ -4370,6 +4385,7 @@
 0.0.0.0 www.jeanbas.com
 0.0.0.0 www.jiahangshida.com.cn
 0.0.0.0 www.jirb.org.tw
+0.0.0.0 www.jjken.be
 0.0.0.0 www.jmhyoffice.com
 0.0.0.0 www.joker-tattoo.by
 0.0.0.0 www.joonprojek.com
@@ -4889,6 +4905,6 @@
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/cybercrime.txt
 # Generated - 16.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 4886
+# Total Domains: 4902
 # License: MIT
 

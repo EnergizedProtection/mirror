@@ -96,6 +96,7 @@
 0.0.0.0 dc.webtrends.com
 0.0.0.0 decide.mixpanel.com
 0.0.0.0 demdex.net
+0.0.0.0 detect.rayjump.com
 0.0.0.0 dispatcher.upmc.uc.cn
 0.0.0.0 do-not-tracker.org
 0.0.0.0 dsg.sc.omtrdc.net
@@ -258,6 +259,6 @@
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-mobile-spyware.txt
 # Generated - 16.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 255
+# Total Domains: 256
 # License: MIT
 

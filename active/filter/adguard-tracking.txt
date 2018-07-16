@@ -550,6 +550,7 @@
 0.0.0.0 collect.igodigital.com
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
+0.0.0.0 collector-analytics.efigence.com
 0.0.0.0 collector.bunchbox.co
 0.0.0.0 collector.roistat.com
 0.0.0.0 collector.schibsted.io
@@ -1528,6 +1529,7 @@
 0.0.0.0 marinsm.com
 0.0.0.0 market2lead.com
 0.0.0.0 marketing-page.de
+0.0.0.0 marketingautomation.services
 0.0.0.0 marketizator.com
 0.0.0.0 marketo.net
 0.0.0.0 marktest.pt
@@ -2361,6 +2363,7 @@
 0.0.0.0 stat.botdetector.ru
 0.0.0.0 stat.clickfrog.ru
 0.0.0.0 stat.eagleplatform.com
+0.0.0.0 stat.kununu.cz
 0.0.0.0 stat.media
 0.0.0.0 stat.rare.ru
 0.0.0.0 stat.sputnik.ru
@@ -3029,6 +3032,6 @@
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-tracking-servers.txt
 # Generated - 16.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 3026
+# Total Domains: 3029
 # License: MIT
 

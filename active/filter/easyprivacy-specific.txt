@@ -231,6 +231,7 @@
 0.0.0.0 log.vdn.apps.cntv.cn
 0.0.0.0 log.wat.tv
 0.0.0.0 log.webnovel.com
+0.0.0.0 logger.nerdwallet.com
 0.0.0.0 logger.viki.io
 0.0.0.0 logging.goodgamestudios.com
 0.0.0.0 loggly.cheatsheet.com
@@ -652,6 +653,6 @@
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easyprivacy-specific.txt
 # Generated - 16.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 649
+# Total Domains: 650
 # License: MIT
 

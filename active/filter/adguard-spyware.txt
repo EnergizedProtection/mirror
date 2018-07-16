@@ -101,6 +101,7 @@
 0.0.0.0 d23p9gffjvre9v.cloudfront.net
 0.0.0.0 d28g9g3vb08y70.cloudfront.net
 0.0.0.0 d2gfdmu30u15x7.cloudfront.net
+0.0.0.0 d2j3te7y7s8xxp.cloudfront.net
 0.0.0.0 d2lv4zbk7v5f93.cloudfront.net
 0.0.0.0 d2nxi61n77zqpl.cloudfront.net
 0.0.0.0 d2oh4tlt9mrke9.cloudfront.net
@@ -344,6 +345,6 @@
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-spyware-firstparty.txt
 # Generated - 16.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 341
+# Total Domains: 342
 # License: MIT
 

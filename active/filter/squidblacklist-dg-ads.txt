@@ -1378,6 +1378,7 @@
 0.0.0.0 aprtx.com
 0.0.0.0 apsmediaagency.com
 0.0.0.0 apture.com
+0.0.0.0 apugod.work
 0.0.0.0 apvdr.com
 0.0.0.0 apxlv.com
 0.0.0.0 arcadebannerexchange.org
@@ -1700,7 +1701,6 @@
 0.0.0.0 campaign.bharatmatrimony.com
 0.0.0.0 campanja.com
 0.0.0.0 caniamedia.com
-0.0.0.0 canoeklix.com
 0.0.0.0 capacitygrid.com
 0.0.0.0 captifymedia.com
 0.0.0.0 carbonads.com
@@ -2284,6 +2284,7 @@
 0.0.0.0 getclicky.com
 0.0.0.0 getpopunder.com
 0.0.0.0 getscorecash.com
+0.0.0.0 gettipsz.info
 0.0.0.0 giantaffiliates.com
 0.0.0.0 givingsol.com
 0.0.0.0 gklfs-idnhw.ads.tremorhub.com
@@ -2890,7 +2891,6 @@
 0.0.0.0 mobitracker.info
 0.0.0.0 mobivity.com
 0.0.0.0 mobixell.com
-0.0.0.0 mobpartner.mobi
 0.0.0.0 mobstac.com
 0.0.0.0 mobstitialtag.com
 0.0.0.0 mobyt.com
@@ -3165,7 +3165,6 @@
 0.0.0.0 parwrite.com
 0.0.0.0 pas-rahav.com
 0.0.0.0 passion-4.net
-0.0.0.0 passionfruitads.com
 0.0.0.0 passive-earner.com
 0.0.0.0 pay-click.ru
 0.0.0.0 paydotcom.com
@@ -3219,6 +3218,7 @@
 0.0.0.0 pixxur.com
 0.0.0.0 planniver.com
 0.0.0.0 platformiq-del.aquaplatform.com
+0.0.0.0 platinumadvertisement.com
 0.0.0.0 play4traffic.com
 0.0.0.0 playhaven.com
 0.0.0.0 playukinternet.com
@@ -3359,6 +3359,7 @@
 0.0.0.0 quakemarketing.com
 0.0.0.0 qualitypageviews.com
 0.0.0.0 quantcast.com
+0.0.0.0 quantserve.com
 0.0.0.0 quantumads.com
 0.0.0.0 quensillo.com
 0.0.0.0 questaffiliates.net
@@ -3432,6 +3433,7 @@
 0.0.0.0 reklama.reflektor.cz
 0.0.0.0 reklamcsere.hu
 0.0.0.0 reklame.unwired-i.net
+0.0.0.0 reklamz.com
 0.0.0.0 relatedweboffers.com
 0.0.0.0 relestar.com
 0.0.0.0 relevanti.com
@@ -3596,6 +3598,7 @@
 0.0.0.0 showyoursite.com
 0.0.0.0 siamzone.com
 0.0.0.0 sic-itur--ad-astra.tumblr.com
+0.0.0.0 siccash.com
 0.0.0.0 sidebar.angelfire.com
 0.0.0.0 similarsabine.com
 0.0.0.0 simpio.com
@@ -3903,7 +3906,6 @@
 0.0.0.0 track.adflare.com
 0.0.0.0 track.adform.net
 0.0.0.0 track.adrianalynnrush.net
-0.0.0.0 track.amateurhunks.com
 0.0.0.0 track.analhell.com
 0.0.0.0 track.anchorfree.com
 0.0.0.0 track.angelina-torres.com
@@ -4550,6 +4552,6 @@
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/squidblacklist-ads.txt
 # Generated - 16.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 4547
+# Total Domains: 4549
 # License: MIT
 

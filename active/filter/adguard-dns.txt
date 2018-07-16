@@ -2435,6 +2435,7 @@
 0.0.0.0 audienceiq.com
 0.0.0.0 audienceprofiler.com
 0.0.0.0 audiencerate.com
+0.0.0.0 audiens.com
 0.0.0.0 auditude.com
 0.0.0.0 audrte.com
 0.0.0.0 audtd.com
@@ -3385,6 +3386,7 @@
 0.0.0.0 c4p69ovw.science
 0.0.0.0 c4tracking01.com
 0.0.0.0 c4tw.net
+0.0.0.0 c704655a9050bdcc.com
 0.0.0.0 c71a045530f0c1c8.com
 0.0.0.0 c75b9ac5103e5d125b8.com
 0.0.0.0 c8.net.ua
@@ -4474,6 +4476,7 @@
 0.0.0.0 d2ghscazvn398x.cloudfront.net
 0.0.0.0 d2hluuq2g8gwrv.cloudfront.net
 0.0.0.0 d2i54aseqwhx68.cloudfront.net
+0.0.0.0 d2j3te7y7s8xxp.cloudfront.net
 0.0.0.0 d2jn12r3o7an7z.cloudfront.net
 0.0.0.0 d2kz60b0gq4lg.cloudfront.net
 0.0.0.0 d2l8bbn629wykr.cloudfront.net
@@ -4922,6 +4925,7 @@
 0.0.0.0 dnqejgrbtlxe.com
 0.0.0.0 dnrtjavop.com
 0.0.0.0 dnrzajdjq.com
+0.0.0.0 dnsapimzlvmcis.com
 0.0.0.0 dnsqqdordvpv.com
 0.0.0.0 dntlpwpjwcfu.com
 0.0.0.0 dnudg.com
@@ -5468,6 +5472,7 @@
 0.0.0.0 etbrjgpsadke.com
 0.0.0.0 etcodes.com
 0.0.0.0 etgdta.com
+0.0.0.0 etggealva.com
 0.0.0.0 etglnloj.com
 0.0.0.0 eth-pocket.com
 0.0.0.0 eth-pocket.de
@@ -8836,6 +8841,7 @@
 0.0.0.0 marketing-page.de
 0.0.0.0 marketing-profis.net
 0.0.0.0 marketing.modalife.com
+0.0.0.0 marketingautomation.services
 0.0.0.0 marketingenhanced.com
 0.0.0.0 marketingsolutions.yahoo.com
 0.0.0.0 marketizator.com
@@ -10246,7 +10252,6 @@
 0.0.0.0 online-adnetwork.com
 0.0.0.0 online-media-stats.com
 0.0.0.0 online-media24.de
-0.0.0.0 online-metrix.net
 0.0.0.0 online-path.com
 0.0.0.0 online.koko-ko.com
 0.0.0.0 online.mik123.com
@@ -16153,6 +16158,6 @@
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-dns.txt
 # Generated - 16.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 16150
+# Total Domains: 16155
 # License: MIT
 

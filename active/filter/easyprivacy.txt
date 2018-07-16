@@ -2562,6 +2562,7 @@
 0.0.0.0 logdy.com
 0.0.0.0 logentries.com
 0.0.0.0 logger.co.kr
+0.0.0.0 logger.nerdwallet.com
 0.0.0.0 logger.rm.uol.com.br
 0.0.0.0 logger.snackly.co
 0.0.0.0 logger.su
@@ -3414,7 +3415,6 @@
 0.0.0.0 quaintcan.com
 0.0.0.0 quantcount.com
 0.0.0.0 quantummetric.com
-0.0.0.0 quartic.pl
 0.0.0.0 qubitanalytics.appspot.com
 0.0.0.0 qubitproducts.com
 0.0.0.0 questionpro.com
