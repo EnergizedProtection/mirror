@@ -11,7 +11,7 @@
   {"name": "adguard-spyware",                    "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-spyware-firstparty.txt"},
   {"name": "adguard-tracking",                   "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-tracking-servers.txt"},
   {"name": "airelle-rsk",                        "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/EnergizedProtection/mirror/master/mirror/airelle-rsk.txt"},
-  {"name": "airelle-sex",                        "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/airelle-sex.txt"},
+  {"name": "airelle-sex",                        "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/EnergizedProtection/mirror/master/mirror/airelle-sex.txt"},
   {"name": "antipopads",                         "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts"},
   {"name": "blockzilla",                         "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/blockzilla.txt"},
   {"name": "cameleon",                           "enabled": true,  "format": "plain",   "url": "http://sysctl.org/cameleon/hosts"},

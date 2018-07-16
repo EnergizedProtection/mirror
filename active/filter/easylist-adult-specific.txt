@@ -1,48 +1,48 @@
-a.eporner.com
-a.heavy-r.com
-ad.eporner.com
-ad.slutload.com
-ad.thisav.com
-ad.userporn.com
-ads.xxxbunker.com
-affiliates.goodvibes.com
-anyporn.com
-ashot.txxx.com
-b.xcafe.com
-banner1.pornhost.com
-banners.cams.com
-brcache.madthumbs.com
-bugel.pronpic.org
-cams.pornrabbit.com
-creatives.cliphunter.com
-creatives.pichunter.com
-d1wi563t0137vz.cloudfront.net
-d2q52i8yx3j68p.cloudfront.net
-d39hdzmeufnl50.cloudfront.net
-delivery.porn.com
-dildo.tnaflix.com
-dot.eporner.com
-dot2.eporner.com
-dyn.tnaflix.com
-fritchy.com
-lw1.cdmediaworld.com
-newmail.pronpic.org
-ox2.pron.tv
-ox3.pron.tv
-partners.keezmovies.com
-planetsuzy.org
-pr-static.empflix.com
-r.radikal.ru
-rev.fapdu.com
-s.xvideos.com
-static.kinghost.com
-t.xtubetv.net
-www.youjizz.com
-youjizz.com
+0.0.0.0 a.eporner.com
+0.0.0.0 a.heavy-r.com
+0.0.0.0 ad.eporner.com
+0.0.0.0 ad.slutload.com
+0.0.0.0 ad.thisav.com
+0.0.0.0 ad.userporn.com
+0.0.0.0 ads.xxxbunker.com
+0.0.0.0 affiliates.goodvibes.com
+0.0.0.0 anyporn.com
+0.0.0.0 ashot.txxx.com
+0.0.0.0 b.xcafe.com
+0.0.0.0 banner1.pornhost.com
+0.0.0.0 banners.cams.com
+0.0.0.0 brcache.madthumbs.com
+0.0.0.0 bugel.pronpic.org
+0.0.0.0 cams.pornrabbit.com
+0.0.0.0 creatives.cliphunter.com
+0.0.0.0 creatives.pichunter.com
+0.0.0.0 d1wi563t0137vz.cloudfront.net
+0.0.0.0 d2q52i8yx3j68p.cloudfront.net
+0.0.0.0 d39hdzmeufnl50.cloudfront.net
+0.0.0.0 delivery.porn.com
+0.0.0.0 dildo.tnaflix.com
+0.0.0.0 dot.eporner.com
+0.0.0.0 dot2.eporner.com
+0.0.0.0 dyn.tnaflix.com
+0.0.0.0 fritchy.com
+0.0.0.0 lw1.cdmediaworld.com
+0.0.0.0 newmail.pronpic.org
+0.0.0.0 ox2.pron.tv
+0.0.0.0 ox3.pron.tv
+0.0.0.0 partners.keezmovies.com
+0.0.0.0 planetsuzy.org
+0.0.0.0 pr-static.empflix.com
+0.0.0.0 r.radikal.ru
+0.0.0.0 rev.fapdu.com
+0.0.0.0 s.xvideos.com
+0.0.0.0 static.kinghost.com
+0.0.0.0 t.xtubetv.net
+0.0.0.0 www.youjizz.com
+0.0.0.0 youjizz.com
 
 # Hosts - easylist-adult-specific
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easylist-adult-specific.txt
-# Generated - 13.07.2018
+# Generated - 16.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 41
 # License: MIT

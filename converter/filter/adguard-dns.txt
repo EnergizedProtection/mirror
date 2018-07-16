@@ -1,9 +1,10 @@
 # adguard-dns Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - https://filters.adtidy.org/extension/chromium/filters/15.txt
-# Last Converted - Fri, 13 Jul 2018 16:18:00 -0400
+# Last Converted - Mon, 16 Jul 2018 11:23:56 -0400
 # Energized - ad.porn.malware blocking.
 
+0.0.0.0 c704655a9050bdcc.com
 0.0.0.0 ipml-qvr8go.ru
 0.0.0.0 revart.trade
 0.0.0.0 mdvkn.com
@@ -11811,6 +11812,7 @@
 0.0.0.0 dnqejgrbtlxe.com
 0.0.0.0 dnrtjavop.com
 0.0.0.0 dnrzajdjq.com
+0.0.0.0 dnsapimzlvmcis.com
 0.0.0.0 dnsqqdordvpv.com
 0.0.0.0 dntlpwpjwcfu.com
 0.0.0.0 dnxpseduuehm.com
@@ -12001,6 +12003,7 @@
 0.0.0.0 esznfpbro.com
 0.0.0.0 etbmvqjnfxtk.com
 0.0.0.0 etbrjgpsadke.com
+0.0.0.0 etggealva.com
 0.0.0.0 etggiddfdaqd.com
 0.0.0.0 etglnloj.com
 0.0.0.0 ettamscqyvocxz.com
@@ -16427,6 +16430,8 @@
 0.0.0.0 i-bims-ein-shopper.de
 0.0.0.0 ichkaufehierein.de
 0.0.0.0 meinelieblingsprodukte.de
+0.0.0.0 marketingautomation.services
+0.0.0.0 audiens.com
 0.0.0.0 t.kctag.net
 0.0.0.0 mpc.nicequest.com
 0.0.0.0 acquia.com
@@ -18362,7 +18367,6 @@
 0.0.0.0 onetag-sys.com
 0.0.0.0 ongsono.com
 0.0.0.0 online-media-stats.com
-0.0.0.0 online-metrix.net
 0.0.0.0 online-right-now.net
 0.0.0.0 onlinewebstat.com
 0.0.0.0 onlinewebstats.com
@@ -19656,6 +19660,7 @@
 0.0.0.0 um-public-panel-prod.s3.amazonaws.com
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
+0.0.0.0 d2j3te7y7s8xxp.cloudfront.net
 0.0.0.0 logql.yahoo.co.jp
 0.0.0.0 ybx.yahoo.co.jp
 0.0.0.0 stats.vidyome.com

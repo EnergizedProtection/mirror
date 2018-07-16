@@ -1,32 +1,32 @@
-analytic-google.com
-avast-downloads.com
-blacksnake.com
-europcareer.com
-get-avast.com
-google-docs.info
-gooqleapi.com
-iphonegames3g.com
-jmp2click.com
-microsoft-update.name
-paypai.org
-sunonsunday.co.uk
-sunonsunday.com
-thesunonsunday.co.uk
-thesunonsunday.com
-toolbar.wibiya.com
-www.analytic-google.com
-www.avast-downloads.com
-www.europcareer.com
-www.get-avast.com
-www.google-docs.info
-www.iphonegames3g.com
-www.jmp2click.com
-www.microsoft-update.name
-wwwfacebook.com
+0.0.0.0 analytic-google.com
+0.0.0.0 avast-downloads.com
+0.0.0.0 blacksnake.com
+0.0.0.0 europcareer.com
+0.0.0.0 get-avast.com
+0.0.0.0 google-docs.info
+0.0.0.0 gooqleapi.com
+0.0.0.0 iphonegames3g.com
+0.0.0.0 jmp2click.com
+0.0.0.0 microsoft-update.name
+0.0.0.0 paypai.org
+0.0.0.0 sunonsunday.co.uk
+0.0.0.0 sunonsunday.com
+0.0.0.0 thesunonsunday.co.uk
+0.0.0.0 thesunonsunday.com
+0.0.0.0 toolbar.wibiya.com
+0.0.0.0 www.analytic-google.com
+0.0.0.0 www.avast-downloads.com
+0.0.0.0 www.europcareer.com
+0.0.0.0 www.get-avast.com
+0.0.0.0 www.google-docs.info
+0.0.0.0 www.iphonegames3g.com
+0.0.0.0 www.jmp2click.com
+0.0.0.0 www.microsoft-update.name
+0.0.0.0 wwwfacebook.com
 
 # Hosts - fademind-add.dead
 # Source - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Dead/hosts
-# Generated - 13.07.2018
+# Generated - 16.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 25
 # License: MIT

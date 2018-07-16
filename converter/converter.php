@@ -19,9 +19,6 @@ $lists = array(
 
   // Adguard Tracking
 	'adguard-tracking-servers' => 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers.txt',
-
-  // Airelle Sex Clean List
-  'airelle-sex' => 'https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Mirror/Airelle/SEX/sex.clean.txt',
   
   // Blockzilla
   'blockzilla' => 'https://raw.githubusercontent.com/zpacman/Blockzilla/master/Blockzilla.txt',

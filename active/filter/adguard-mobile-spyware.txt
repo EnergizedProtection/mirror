@@ -1,262 +1,262 @@
-26f396e0b71780f057be4d4af8ebe55b.com
-2o7.net
-4seeresults.com
-a.appbaqend.com
-a.bitmango.com
-abtest.mistat.xiaomi.com
-ad-analytics-bootstrap.metaps.com
-adeventtracker.spotify.com
-adfuture.cn
-adj.st
-adserver.snapads.com
-adsunflower.com
-adv.sec.miui.com
-advmob.cn
-aftonbladetnya.sc.omtrdc.net
-alog.umeng.com
-alog.umengcloud.com
-alogs.umeng.com
-alogs.umengcloud.com
-amdc.m.taobao.com
-amp-error-reporting.appspot.com
-amptrack-dailymail-co-uk.cdn.ampproject.org
-an.batmobi.net
-analy.qq.com
-analysis.polarisoffice.com
-analysys.cn
-analytics-events.inshorts.com
-analytics-server.gimbal.com
-analytics-tracker.thescore.com
-analytics.ad.daum.net
-analytics.any.do
-analytics.ff.avast.com
-analytics.liftoff.io
-analytics.mobile.yandex.net
-analytics.mopub.com
-analytics.query.yahoo.com
-analytics.rayjump.com
-andmlb.kshwtj.com
-android.bugly.qq.com
-api-analytics-bootstrap.metaps.com
-api-analytics.metaps.com
-api.ad.intl.xiaomi.com
-api.ad.xiaomi.com
-api.amplitude.com
-api.analytics.omgpop.com
-api.appsee.com
-api.appsflyer.com
-api.apptentive.com
-api.branch.io
-api.crittercism.com
-api.gameanalytics.com
-api.gameofwhales.com
-api.gimbal.com
-api.instabug.com
-api.miui.security.xiaomi.com
-api.oneaudience.com
-api.safedk.com
-api.sec.miui.com
-api.taplytics.com
-api.uca.cloud.unity3d.com
-apiv2.moengage.com
-app.adjust.com
-app.roximity.com
-applog.uc.cn
-appmetrica.yandex.com
-ar.umeng.com
-astat.bugly.qq.com
-auth.be.sec.miui.com
-beacon.carfax.com
-beacon.qq.com
-beacon.shazam.com
-beha.ksmobile.com
-bidder.mdspinc.com
-brahe.apptimize.com
-c.bigmir.net
-carfax.sc.omtrdc.net
-cb.ksmobile.com
-cedexis-radar.net
-cedexis.com
-clientmetrics-augmentum.kik.com
-clientmetrics.kik.com
-clktrk.display.io
-collector-axa.cloud.ca.com
-collector.brandify.com
-config.safedk.com
-config.uca.cloud.unity3d.com
-config2.mparticle.com
-counter.hdvb.info
-counter.kingsoft.com
-crasheye.cn
-crwdcntrl.net
-d.applvn.com
-data.mistat.intl.xiaomi.com
-data.mistat.xiaomi.com
-data.sec.miui.com
-dc.webtrends.com
-decide.mixpanel.com
-demdex.net
-dispatcher.upmc.uc.cn
-do-not-tracker.org
-dsg.sc.omtrdc.net
-e-ssl.apsalar.com
-e.crashlytics.com
-elephantdata.net
-engine.mobileapptracking.com
-ep.xone.com
-etl.xlmc.sandai.net
-event.allnews.uodoo.com
-events.appsflyer.com
-events.lbesecapi.com
-eviltracker.net
-fdplttrk.com
-fraudmetrix.cn
-gate.hockeyapp.net
-gcm.ksmobile.com
-geoip.fotoable.net
-geoip.ifunny.co
-geoplugin.net
-gj.applog.uc.cn
-gjapplog.uc.cn
-google-analytics.com
-googleadapis.l.google.com
-iam-agof-app.irquest.com
-ilyonanalytics.herokuapp.com
-imp.apprevolve.com
-imp.startappservice.com
-installtracker.com
-io.narrative.io
-ios.bugly.qq.com
-ipify.org
-kaffnet.com
-krxd.net
-lepodownload.mediatek.com
-lhzbdvm.com
-loadus.exelator.com
-localytics.com
-log.droid4x.cn
-log.umsns.com
-logcollector.viewster.com
-logconfig.polarisoffice.com
-logger.cloudmobi.net
-logger.ntracecloud.com
-logs.supersonic.com
-logupdate.avlyun.sec.miui.com
-lp4.io
-m.vpadn.com
-mazu.sec.miui.com
-measuread.com
-metok.sys.miui.com
-metrics-cbslocal-com.cdn.ampproject.org
-metrics.adflake.com
-metrics.bestbuy.com
-metrics.macys.net
-metrics.sdkbox.com
-metrics.timewarnercable.com
-mlb.did.ijinshan.com
-mobile-collector.newrelic.com
-mobileapptracking.com
-mobilelog.upqzfile.com
-ms.cmcm.com
-mtlog.droid4x.cn
-nativesdks.mparticle.com
-ninja.onap.io
-nlog.droid4x.cn
-npario-inc.net
-nrc.tapas.net
-o2o.api.xiaomi.com
-oc.umeng.com
-omni-ads.omni.news
-online-metrix.net
-open.oneplus.net
-openstat.net
-patriot.cs.pp.cn
-ping.taplytics.com
-ping.xlmc.sandai.net
-pingma.qq.com
-pippio.com
-plbslog.umeng.com
-ploy.batmobi.net
-pps-log.op-mobile.opera.com
-prugskh.com
-prugskh.net
-puds.ucweb.com
-quantcount.com
-r.browser.miui.com
-rc.dxsvr.com
-register.appsflyer.com
-report.appmetrica.yandex.net
-resolver.gslb.mi-idc.com
-resolver.msg.xiaomi.net
-rlog-api.under9.co
-rlog.9gag.com
-rt.applovin.com
-rt.applvn.com
-rts.mobula.sdk.duapps.com
-sc-analytics.appspot.com
-sdk-orion.appboy.com
-sdk.api.kaffnet.com
-sdk.stats-locations.com
-sdkconfig.ad.intl.xiaomi.com
-sdkconfig.ad.xiaomi.com
-sdklogs.avocarrot.com
-sdks.stats-locations.com
-shenghuo.xiaomi.com
-ssl-google-analytics.l.google.com
-startup.mobile.yandex.net
-stat.duokanbox.com
-stats.appsflyer.com
-stats.popcap.com
-stats.unity3d.com
-storeconfig.mistat.intl.xiaomi.com
-sts.batmobi.net
-sync.adotmob.com
-sypi.gpshopper.com
-t.appsflyer.com
-tapjoy.com
-tapjoy.net
-taurus.iad.appboy.com
-tknet.rayjump.com
-tkrecorder.aotter.net
-tktracker.aotter.net
-tns.simba.taobao.com
-track.adform.net
-track.appsflyer.com
-track.pingstart.com
-track.uc.cn
-tracker-api.my.com
-tracker.adotmob.com
-trackersimulator.org
-tracking-server-prod-1.zenmxapps.com
-tracking.directservices.it
-tracking.intl.miui.com
-tracking.lenzmx.com
-tracking.miui.com
-tracking.trnox.com
-tracking.viewster.com
-trk.pinterest.com
-tu.dxcnd.cn
-tunein.adswizz.com
-uc.ucweb.com
-ue.flipboard.com
-upalytics.com
-upoll.umengcloud.com
-ups.ksmobile.net
-urbanairship.com
-utop.umengcloud.com
-vortex.data.microsoft.com
-ws.ksmobile.net
-www-google-analytics.l.google.com
-wzrkt.com
-xiti.com
-yadro.ru
-ymtracking.com
-zdbb.net
-zeus.ad.intl.xiaomi.com
+0.0.0.0 26f396e0b71780f057be4d4af8ebe55b.com
+0.0.0.0 2o7.net
+0.0.0.0 4seeresults.com
+0.0.0.0 a.appbaqend.com
+0.0.0.0 a.bitmango.com
+0.0.0.0 abtest.mistat.xiaomi.com
+0.0.0.0 ad-analytics-bootstrap.metaps.com
+0.0.0.0 adeventtracker.spotify.com
+0.0.0.0 adfuture.cn
+0.0.0.0 adj.st
+0.0.0.0 adserver.snapads.com
+0.0.0.0 adsunflower.com
+0.0.0.0 adv.sec.miui.com
+0.0.0.0 advmob.cn
+0.0.0.0 aftonbladetnya.sc.omtrdc.net
+0.0.0.0 alog.umeng.com
+0.0.0.0 alog.umengcloud.com
+0.0.0.0 alogs.umeng.com
+0.0.0.0 alogs.umengcloud.com
+0.0.0.0 amdc.m.taobao.com
+0.0.0.0 amp-error-reporting.appspot.com
+0.0.0.0 amptrack-dailymail-co-uk.cdn.ampproject.org
+0.0.0.0 an.batmobi.net
+0.0.0.0 analy.qq.com
+0.0.0.0 analysis.polarisoffice.com
+0.0.0.0 analysys.cn
+0.0.0.0 analytics-events.inshorts.com
+0.0.0.0 analytics-server.gimbal.com
+0.0.0.0 analytics-tracker.thescore.com
+0.0.0.0 analytics.ad.daum.net
+0.0.0.0 analytics.any.do
+0.0.0.0 analytics.ff.avast.com
+0.0.0.0 analytics.liftoff.io
+0.0.0.0 analytics.mobile.yandex.net
+0.0.0.0 analytics.mopub.com
+0.0.0.0 analytics.query.yahoo.com
+0.0.0.0 analytics.rayjump.com
+0.0.0.0 andmlb.kshwtj.com
+0.0.0.0 android.bugly.qq.com
+0.0.0.0 api-analytics-bootstrap.metaps.com
+0.0.0.0 api-analytics.metaps.com
+0.0.0.0 api.ad.intl.xiaomi.com
+0.0.0.0 api.ad.xiaomi.com
+0.0.0.0 api.amplitude.com
+0.0.0.0 api.analytics.omgpop.com
+0.0.0.0 api.appsee.com
+0.0.0.0 api.appsflyer.com
+0.0.0.0 api.apptentive.com
+0.0.0.0 api.branch.io
+0.0.0.0 api.crittercism.com
+0.0.0.0 api.gameanalytics.com
+0.0.0.0 api.gameofwhales.com
+0.0.0.0 api.gimbal.com
+0.0.0.0 api.instabug.com
+0.0.0.0 api.miui.security.xiaomi.com
+0.0.0.0 api.oneaudience.com
+0.0.0.0 api.safedk.com
+0.0.0.0 api.sec.miui.com
+0.0.0.0 api.taplytics.com
+0.0.0.0 api.uca.cloud.unity3d.com
+0.0.0.0 apiv2.moengage.com
+0.0.0.0 app.adjust.com
+0.0.0.0 app.roximity.com
+0.0.0.0 applog.uc.cn
+0.0.0.0 appmetrica.yandex.com
+0.0.0.0 ar.umeng.com
+0.0.0.0 astat.bugly.qq.com
+0.0.0.0 auth.be.sec.miui.com
+0.0.0.0 beacon.carfax.com
+0.0.0.0 beacon.qq.com
+0.0.0.0 beacon.shazam.com
+0.0.0.0 beha.ksmobile.com
+0.0.0.0 bidder.mdspinc.com
+0.0.0.0 brahe.apptimize.com
+0.0.0.0 c.bigmir.net
+0.0.0.0 carfax.sc.omtrdc.net
+0.0.0.0 cb.ksmobile.com
+0.0.0.0 cedexis-radar.net
+0.0.0.0 cedexis.com
+0.0.0.0 clientmetrics-augmentum.kik.com
+0.0.0.0 clientmetrics.kik.com
+0.0.0.0 clktrk.display.io
+0.0.0.0 collector-axa.cloud.ca.com
+0.0.0.0 collector.brandify.com
+0.0.0.0 config.safedk.com
+0.0.0.0 config.uca.cloud.unity3d.com
+0.0.0.0 config2.mparticle.com
+0.0.0.0 counter.hdvb.info
+0.0.0.0 counter.kingsoft.com
+0.0.0.0 crasheye.cn
+0.0.0.0 crwdcntrl.net
+0.0.0.0 d.applvn.com
+0.0.0.0 data.mistat.intl.xiaomi.com
+0.0.0.0 data.mistat.xiaomi.com
+0.0.0.0 data.sec.miui.com
+0.0.0.0 dc.webtrends.com
+0.0.0.0 decide.mixpanel.com
+0.0.0.0 demdex.net
+0.0.0.0 dispatcher.upmc.uc.cn
+0.0.0.0 do-not-tracker.org
+0.0.0.0 dsg.sc.omtrdc.net
+0.0.0.0 e-ssl.apsalar.com
+0.0.0.0 e.crashlytics.com
+0.0.0.0 elephantdata.net
+0.0.0.0 engine.mobileapptracking.com
+0.0.0.0 ep.xone.com
+0.0.0.0 etl.xlmc.sandai.net
+0.0.0.0 event.allnews.uodoo.com
+0.0.0.0 events.appsflyer.com
+0.0.0.0 events.lbesecapi.com
+0.0.0.0 eviltracker.net
+0.0.0.0 fdplttrk.com
+0.0.0.0 fraudmetrix.cn
+0.0.0.0 gate.hockeyapp.net
+0.0.0.0 gcm.ksmobile.com
+0.0.0.0 geoip.fotoable.net
+0.0.0.0 geoip.ifunny.co
+0.0.0.0 geoplugin.net
+0.0.0.0 gj.applog.uc.cn
+0.0.0.0 gjapplog.uc.cn
+0.0.0.0 google-analytics.com
+0.0.0.0 googleadapis.l.google.com
+0.0.0.0 iam-agof-app.irquest.com
+0.0.0.0 ilyonanalytics.herokuapp.com
+0.0.0.0 imp.apprevolve.com
+0.0.0.0 imp.startappservice.com
+0.0.0.0 installtracker.com
+0.0.0.0 io.narrative.io
+0.0.0.0 ios.bugly.qq.com
+0.0.0.0 ipify.org
+0.0.0.0 kaffnet.com
+0.0.0.0 krxd.net
+0.0.0.0 lepodownload.mediatek.com
+0.0.0.0 lhzbdvm.com
+0.0.0.0 loadus.exelator.com
+0.0.0.0 localytics.com
+0.0.0.0 log.droid4x.cn
+0.0.0.0 log.umsns.com
+0.0.0.0 logcollector.viewster.com
+0.0.0.0 logconfig.polarisoffice.com
+0.0.0.0 logger.cloudmobi.net
+0.0.0.0 logger.ntracecloud.com
+0.0.0.0 logs.supersonic.com
+0.0.0.0 logupdate.avlyun.sec.miui.com
+0.0.0.0 lp4.io
+0.0.0.0 m.vpadn.com
+0.0.0.0 mazu.sec.miui.com
+0.0.0.0 measuread.com
+0.0.0.0 metok.sys.miui.com
+0.0.0.0 metrics-cbslocal-com.cdn.ampproject.org
+0.0.0.0 metrics.adflake.com
+0.0.0.0 metrics.bestbuy.com
+0.0.0.0 metrics.macys.net
+0.0.0.0 metrics.sdkbox.com
+0.0.0.0 metrics.timewarnercable.com
+0.0.0.0 mlb.did.ijinshan.com
+0.0.0.0 mobile-collector.newrelic.com
+0.0.0.0 mobileapptracking.com
+0.0.0.0 mobilelog.upqzfile.com
+0.0.0.0 ms.cmcm.com
+0.0.0.0 mtlog.droid4x.cn
+0.0.0.0 nativesdks.mparticle.com
+0.0.0.0 ninja.onap.io
+0.0.0.0 nlog.droid4x.cn
+0.0.0.0 npario-inc.net
+0.0.0.0 nrc.tapas.net
+0.0.0.0 o2o.api.xiaomi.com
+0.0.0.0 oc.umeng.com
+0.0.0.0 omni-ads.omni.news
+0.0.0.0 online-metrix.net
+0.0.0.0 open.oneplus.net
+0.0.0.0 openstat.net
+0.0.0.0 patriot.cs.pp.cn
+0.0.0.0 ping.taplytics.com
+0.0.0.0 ping.xlmc.sandai.net
+0.0.0.0 pingma.qq.com
+0.0.0.0 pippio.com
+0.0.0.0 plbslog.umeng.com
+0.0.0.0 ploy.batmobi.net
+0.0.0.0 pps-log.op-mobile.opera.com
+0.0.0.0 prugskh.com
+0.0.0.0 prugskh.net
+0.0.0.0 puds.ucweb.com
+0.0.0.0 quantcount.com
+0.0.0.0 r.browser.miui.com
+0.0.0.0 rc.dxsvr.com
+0.0.0.0 register.appsflyer.com
+0.0.0.0 report.appmetrica.yandex.net
+0.0.0.0 resolver.gslb.mi-idc.com
+0.0.0.0 resolver.msg.xiaomi.net
+0.0.0.0 rlog-api.under9.co
+0.0.0.0 rlog.9gag.com
+0.0.0.0 rt.applovin.com
+0.0.0.0 rt.applvn.com
+0.0.0.0 rts.mobula.sdk.duapps.com
+0.0.0.0 sc-analytics.appspot.com
+0.0.0.0 sdk-orion.appboy.com
+0.0.0.0 sdk.api.kaffnet.com
+0.0.0.0 sdk.stats-locations.com
+0.0.0.0 sdkconfig.ad.intl.xiaomi.com
+0.0.0.0 sdkconfig.ad.xiaomi.com
+0.0.0.0 sdklogs.avocarrot.com
+0.0.0.0 sdks.stats-locations.com
+0.0.0.0 shenghuo.xiaomi.com
+0.0.0.0 ssl-google-analytics.l.google.com
+0.0.0.0 startup.mobile.yandex.net
+0.0.0.0 stat.duokanbox.com
+0.0.0.0 stats.appsflyer.com
+0.0.0.0 stats.popcap.com
+0.0.0.0 stats.unity3d.com
+0.0.0.0 storeconfig.mistat.intl.xiaomi.com
+0.0.0.0 sts.batmobi.net
+0.0.0.0 sync.adotmob.com
+0.0.0.0 sypi.gpshopper.com
+0.0.0.0 t.appsflyer.com
+0.0.0.0 tapjoy.com
+0.0.0.0 tapjoy.net
+0.0.0.0 taurus.iad.appboy.com
+0.0.0.0 tknet.rayjump.com
+0.0.0.0 tkrecorder.aotter.net
+0.0.0.0 tktracker.aotter.net
+0.0.0.0 tns.simba.taobao.com
+0.0.0.0 track.adform.net
+0.0.0.0 track.appsflyer.com
+0.0.0.0 track.pingstart.com
+0.0.0.0 track.uc.cn
+0.0.0.0 tracker-api.my.com
+0.0.0.0 tracker.adotmob.com
+0.0.0.0 trackersimulator.org
+0.0.0.0 tracking-server-prod-1.zenmxapps.com
+0.0.0.0 tracking.directservices.it
+0.0.0.0 tracking.intl.miui.com
+0.0.0.0 tracking.lenzmx.com
+0.0.0.0 tracking.miui.com
+0.0.0.0 tracking.trnox.com
+0.0.0.0 tracking.viewster.com
+0.0.0.0 trk.pinterest.com
+0.0.0.0 tu.dxcnd.cn
+0.0.0.0 tunein.adswizz.com
+0.0.0.0 uc.ucweb.com
+0.0.0.0 ue.flipboard.com
+0.0.0.0 upalytics.com
+0.0.0.0 upoll.umengcloud.com
+0.0.0.0 ups.ksmobile.net
+0.0.0.0 urbanairship.com
+0.0.0.0 utop.umengcloud.com
+0.0.0.0 vortex.data.microsoft.com
+0.0.0.0 ws.ksmobile.net
+0.0.0.0 www-google-analytics.l.google.com
+0.0.0.0 wzrkt.com
+0.0.0.0 xiti.com
+0.0.0.0 yadro.ru
+0.0.0.0 ymtracking.com
+0.0.0.0 zdbb.net
+0.0.0.0 zeus.ad.intl.xiaomi.com
 
 # Hosts - adguard-mobile-spyware
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-mobile-spyware.txt
-# Generated - 13.07.2018
+# Generated - 16.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 255
 # License: MIT

@@ -1,34 +1,34 @@
-alerts.thedailystar.net
-cf-particle-html.eip.telegraph.co.uk
-cnil.links-lab.fr
-cookie.gazeta.pl
-cookies.fakt.pl
-cookies.forbes.pl
-cookies.innershed.co.uk
-cookies.leadplace.fr
-cookies.nos.nl
-cookies.unidadeditorial.es
-d5k6iufjynyu8.cloudfront.net
-dam.bbcchannels.com
-dhpikd1t89arn.cloudfront.net
-forms.windowsitpro.com
-gdpr.internetbrands.com
-gdpr.prisa.com
-mailmunch.s3.amazonaws.com
-mdsngpush.finanzen.net
-newsletter.bdnews24.com
-push.cnnindonesia.com
-rodo.agora.pl
-share.baidu.com
-social.dw.de
-sp.knowyourmeme.com
-twitter-badges.s3.amazonaws.com
-widgets.sprinkletxt.com
-zgody.infor.pl
+0.0.0.0 alerts.thedailystar.net
+0.0.0.0 cf-particle-html.eip.telegraph.co.uk
+0.0.0.0 cnil.links-lab.fr
+0.0.0.0 cookie.gazeta.pl
+0.0.0.0 cookies.fakt.pl
+0.0.0.0 cookies.forbes.pl
+0.0.0.0 cookies.innershed.co.uk
+0.0.0.0 cookies.leadplace.fr
+0.0.0.0 cookies.nos.nl
+0.0.0.0 cookies.unidadeditorial.es
+0.0.0.0 d5k6iufjynyu8.cloudfront.net
+0.0.0.0 dam.bbcchannels.com
+0.0.0.0 dhpikd1t89arn.cloudfront.net
+0.0.0.0 forms.windowsitpro.com
+0.0.0.0 gdpr.internetbrands.com
+0.0.0.0 gdpr.prisa.com
+0.0.0.0 mailmunch.s3.amazonaws.com
+0.0.0.0 mdsngpush.finanzen.net
+0.0.0.0 newsletter.bdnews24.com
+0.0.0.0 push.cnnindonesia.com
+0.0.0.0 rodo.agora.pl
+0.0.0.0 share.baidu.com
+0.0.0.0 social.dw.de
+0.0.0.0 sp.knowyourmeme.com
+0.0.0.0 twitter-badges.s3.amazonaws.com
+0.0.0.0 widgets.sprinkletxt.com
+0.0.0.0 zgody.infor.pl
 
 # Hosts - fanboy-annoyance
 # Source - https://raw.githubusercontent.com/hectorm/hMirror/master/data/fanboy-annoyance/list.txt
-# Generated - 13.07.2018
+# Generated - 16.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 27
 # License: MIT

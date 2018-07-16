@@ -1,7 +1,7 @@
 # squidblacklist-ads Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - http://www.squidblacklist.org/downloads/dg-ads.acl
-# Last Converted - Fri, 13 Jul 2018 16:18:12 -0400
+# Last Converted - Mon, 16 Jul 2018 11:24:07 -0400
 # Energized - ad.porn.malware blocking.
 
 0.0.0.0 0icep80f.com
@@ -374,6 +374,7 @@
 0.0.0.0 ad.ksyun.com
 0.0.0.0 adlabs.ru
 0.0.0.0 adland.ru
+0.0.0.0 adlantic.nl
 0.0.0.0 adlead.com
 0.0.0.0 adledge.com
 0.0.0.0 adlegend.com
@@ -1378,6 +1379,7 @@
 0.0.0.0 aprtx.com
 0.0.0.0 apsmediaagency.com
 0.0.0.0 apture.com
+0.0.0.0 apugod.work
 0.0.0.0 apvdr.com
 0.0.0.0 apxlv.com
 0.0.0.0 a.raasnet.com
@@ -1705,7 +1707,6 @@
 0.0.0.0 campaign.bharatmatrimony.com
 0.0.0.0 campanja.com
 0.0.0.0 caniamedia.com
-0.0.0.0 canoeklix.com
 0.0.0.0 capacitygrid.com
 0.0.0.0 captifymedia.com
 0.0.0.0 carbonads.com
@@ -2291,6 +2292,7 @@
 0.0.0.0 getclicky.com
 0.0.0.0 getpopunder.com
 0.0.0.0 getscorecash.com
+0.0.0.0 gettipsz.info
 0.0.0.0 giantaffiliates.com
 0.0.0.0 givingsol.com
 0.0.0.0 gklfs-idnhw.ads.tremorhub.com
@@ -2582,6 +2584,7 @@
 0.0.0.0 joetec.net
 0.0.0.0 joytocash.com
 0.0.0.0 jque.net
+0.0.0.0 js.cdn.ac
 0.0.0.0 jscount.com
 0.0.0.0 jsretra.com
 0.0.0.0 jssearch.net
@@ -2897,7 +2900,6 @@
 0.0.0.0 mobitracker.info
 0.0.0.0 mobivity.com
 0.0.0.0 mobixell.com
-0.0.0.0 mobpartner.mobi
 0.0.0.0 mobstac.com
 0.0.0.0 mobstitialtag.com
 0.0.0.0 mobyt.com
@@ -3172,7 +3174,6 @@
 0.0.0.0 parwrite.com
 0.0.0.0 pas-rahav.com
 0.0.0.0 passion-4.net
-0.0.0.0 passionfruitads.com
 0.0.0.0 passive-earner.com
 0.0.0.0 pay-click.ru
 0.0.0.0 paydotcom.com
@@ -3226,6 +3227,7 @@
 0.0.0.0 pixxur.com
 0.0.0.0 planniver.com
 0.0.0.0 platformiq-del.aquaplatform.com
+0.0.0.0 platinumadvertisement.com
 0.0.0.0 play4traffic.com
 0.0.0.0 playhaven.com
 0.0.0.0 playukinternet.com
@@ -3367,6 +3369,7 @@
 0.0.0.0 quakemarketing.com
 0.0.0.0 qualitypageviews.com
 0.0.0.0 quantcast.com
+0.0.0.0 quantserve.com
 0.0.0.0 quantumads.com
 0.0.0.0 quensillo.com
 0.0.0.0 questaffiliates.net
@@ -3440,6 +3443,7 @@
 0.0.0.0 reklamcsere.hu
 0.0.0.0 reklame.unwired-i.net
 0.0.0.0 reklam.rfsl.se
+0.0.0.0 reklamz.com
 0.0.0.0 relatedweboffers.com
 0.0.0.0 relestar.com
 0.0.0.0 relevanti.com
@@ -3604,6 +3608,7 @@
 0.0.0.0 shopzyapp.com
 0.0.0.0 showyoursite.com
 0.0.0.0 siamzone.com
+0.0.0.0 siccash.com
 0.0.0.0 sic-itur--ad-astra.tumblr.com
 0.0.0.0 sidebar.angelfire.com
 0.0.0.0 similarsabine.com
@@ -3914,7 +3919,6 @@
 0.0.0.0 track.adrianalynnrush.net
 0.0.0.0 trackaffpix.com
 0.0.0.0 trackalyzer.com
-0.0.0.0 track.amateurhunks.com
 0.0.0.0 track.analhell.com
 0.0.0.0 track.anchorfree.com
 0.0.0.0 track.angelina-torres.com
@@ -4240,6 +4244,7 @@
 0.0.0.0 turbotraff.net
 0.0.0.0 turn.com
 0.0.0.0 tur-tur-key.com
+0.0.0.0 tvas-c.pw
 0.0.0.0 tweard.com
 0.0.0.0 twinpinenetwork.com
 0.0.0.0 twistads.com

@@ -1,7 +1,7 @@
 # easyprivacy Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - https://easylist.to/easylist/easyprivacy.txt
-# Last Converted - Fri, 13 Jul 2018 16:18:04 -0400
+# Last Converted - Mon, 16 Jul 2018 11:23:57 -0400
 # Energized - ad.porn.malware blocking.
 
 0.0.0.0 -geoIP.js
@@ -3371,7 +3371,6 @@
 0.0.0.0 ngacm.com
 0.0.0.0 ngastatic.com
 0.0.0.0 nsaudience.pl
-0.0.0.0 quartic.pl
 0.0.0.0 rejestr.org
 0.0.0.0 stat.4u.pl
 0.0.0.0 stat.pl
@@ -5294,6 +5293,7 @@
 0.0.0.0 log1.24liveplus.com
 0.0.0.0 logdev.openload.co
 0.0.0.0 logger.dailymotion.com
+0.0.0.0 logger.nerdwallet.com
 0.0.0.0 logger.viki.io
 0.0.0.0 logging.goodgamestudios.com
 0.0.0.0 loggingservices.tribune.com
