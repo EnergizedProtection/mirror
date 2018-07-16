@@ -9507,6 +9507,7 @@
 0.0.0.0 wcqlebpges.com
 0.0.0.0 wct.click
 0.0.0.0 wdaomluuf.com
+0.0.0.0 wdnflsjig.com
 0.0.0.0 wealth-at-home-millions.com
 0.0.0.0 weareheard.org
 0.0.0.0 web-bird.jp
@@ -10291,6 +10292,6 @@
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easylist.txt
 # Generated - 16.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 10288
+# Total Domains: 10289
 # License: MIT
 
