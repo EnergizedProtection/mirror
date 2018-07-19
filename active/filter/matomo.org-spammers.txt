@@ -1,3 +1,4 @@
+0.0.0.0 03e.info
 0.0.0.0 0n-line.tv
 0.0.0.0 1-99seo.com
 0.0.0.0 1-free-share-buttons.com
@@ -55,6 +56,7 @@
 0.0.0.0 arkkivoltti.net
 0.0.0.0 artpaint-market.ru
 0.0.0.0 artparquet.ru
+0.0.0.0 atleticpharm.org
 0.0.0.0 atyks.ru
 0.0.0.0 auto-complex.by
 0.0.0.0 auto-kia-fulldrive.ru
@@ -91,6 +93,7 @@
 0.0.0.0 bizru.info
 0.0.0.0 black-friday.ga
 0.0.0.0 blackhatworth.com
+0.0.0.0 blog100.org
 0.0.0.0 blogtotal.de
 0.0.0.0 blue-square.biz
 0.0.0.0 bluerobot.info
@@ -284,9 +287,11 @@
 0.0.0.0 ilovevitaly.ru
 0.0.0.0 iminent.com
 0.0.0.0 imperiafilm.ru
+0.0.0.0 impotentik.com
 0.0.0.0 incitystroy.ru
 0.0.0.0 incomekey.net
 0.0.0.0 inet-shop.su
+0.0.0.0 infektsii.com
 0.0.0.0 infodocsportal.com
 0.0.0.0 inform-ua.info
 0.0.0.0 insider.pro
@@ -379,6 +384,7 @@
 0.0.0.0 meduza-consult.ru
 0.0.0.0 megapolis-96.ru
 0.0.0.0 metallo-konstruktsii.ru
+0.0.0.0 metallosajding.ru
 0.0.0.0 mifepriston.net
 0.0.0.0 mikozstop.com
 0.0.0.0 mikrocement.com.ua
@@ -394,6 +400,7 @@
 0.0.0.0 monetizationking.net
 0.0.0.0 money-for-placing-articles.com
 0.0.0.0 moneytop.ru
+0.0.0.0 moneyzzz.ru
 0.0.0.0 mosrif.ru
 0.0.0.0 mostorgnerud.ru
 0.0.0.0 moy-dokument.com
@@ -459,6 +466,7 @@
 0.0.0.0 popads.net
 0.0.0.0 popugaychiki.com
 0.0.0.0 pornhub-forum.ga
+0.0.0.0 porno-chaman.info
 0.0.0.0 pornoforadult.com
 0.0.0.0 pornogig.com
 0.0.0.0 pornohd1080.online
@@ -494,8 +502,10 @@
 0.0.0.0 releshop.ru
 0.0.0.0 remkompov.ru
 0.0.0.0 remont-kvartirspb.com
+0.0.0.0 rent2spb.ru
 0.0.0.0 replica-watch.ru
 0.0.0.0 research.ifmo.ru
+0.0.0.0 resell-seo-services.com
 0.0.0.0 resellerclub.com
 0.0.0.0 responsive-test.net
 0.0.0.0 reversing.cc
@@ -505,8 +515,10 @@
 0.0.0.0 rospromtest.ru
 0.0.0.0 ru-lk-rt.ru
 0.0.0.0 ruinfocomp.ru
+0.0.0.0 rulate.ru
 0.0.0.0 rumamba.com
 0.0.0.0 rupolitshow.ru
+0.0.0.0 russian-postindex.ru
 0.0.0.0 sad-torg.com.ua
 0.0.0.0 sady-urala.ru
 0.0.0.0 saltspray.ru
@@ -591,6 +603,7 @@
 0.0.0.0 tattoo-stickers.ru
 0.0.0.0 tattooha.com
 0.0.0.0 td-perimetr.ru
+0.0.0.0 technika-remont.ru
 0.0.0.0 tedxrj.com
 0.0.0.0 tentcomplekt.ru
 0.0.0.0 teplohod-gnezdo.ru
@@ -617,6 +630,7 @@
 0.0.0.0 ua.tc
 0.0.0.0 uasb.ru
 0.0.0.0 ucoz.ru
+0.0.0.0 udav.net
 0.0.0.0 ufa.dienai.ru
 0.0.0.0 ul-potolki.ru
 0.0.0.0 unibus.su
@@ -659,6 +673,7 @@
 0.0.0.0 www-lk-rt.ru
 0.0.0.0 xkaz.org
 0.0.0.0 xn-------53dbcapga5atlplfdm6ag1ab1bvehl0b7toa0k.xn--p1ai
+0.0.0.0 xn-----6kcamwewcd9bayelq.xn--p1ai
 0.0.0.0 xn-----7kcaaxchbbmgncr7chzy0k0hk.xn--p1ai
 0.0.0.0 xn-----clckdac3bsfgdft3aebjp5etek.xn--p1ai
 0.0.0.0 xn----7sbabhjc3ccc5aggbzfmfi.xn--p1ai
@@ -666,6 +681,7 @@
 0.0.0.0 xn----7sbabn5abjehfwi8bj.xn--p1ai
 0.0.0.0 xn----7sbbpe3afguye.xn--p1ai
 0.0.0.0 xn----8sbaki4azawu5b.xn--p1ai
+0.0.0.0 xn----8sblgmbj1a1bk8l.xn----161-4vemb6cjl7anbaea3afninj.xn--p1ai
 0.0.0.0 xn----ctbfcdjl8baejhfb1oh.xn--p1ai
 0.0.0.0 xn----ftbeoaiyg1ak1cb7d.xn--p1ai
 0.0.0.0 xn----itbbudqejbfpg3l.com
@@ -694,8 +710,8 @@
 
 # Hosts - matomo.org-spammers
 # Source - https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt
-# Generated - 16.07.2018
+# Generated - 19.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 693
+# Total Domains: 709
 # License: MIT
 

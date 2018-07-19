@@ -774,7 +774,6 @@
 0.0.0.0 trackla.stackla.com
 0.0.0.0 traffic.acwebconnecting.com
 0.0.0.0 traffic.prod.cobaltgroup.com
-0.0.0.0 traffic.pubexchange.com
 0.0.0.0 traffic.shareaholic.com
 0.0.0.0 trafficfuelpixel.s3-us-west-2.amazonaws.com
 0.0.0.0 trakksocial.googlecode.com
@@ -823,8 +822,8 @@
 
 # Hosts - easyprivacy-thirdparty
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easyprivacy-thirdparty.txt
-# Generated - 16.07.2018
+# Generated - 19.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 822
+# Total Domains: 821
 # License: MIT
 

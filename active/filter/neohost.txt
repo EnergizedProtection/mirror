@@ -3130,7 +3130,7 @@
 
 # Hosts - neohost
 # Source - https://hosts.nfz.moe/full/hosts
-# Generated - 16.07.2018
+# Generated - 19.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 3129
 # License: MIT

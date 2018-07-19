@@ -211,6 +211,7 @@
 0.0.0.0 advanced-web-analytics.com
 0.0.0.0 advancedtracker.appspot.com
 0.0.0.0 advconversion.com
+0.0.0.0 advertising.com
 0.0.0.0 adx.com.ru
 0.0.0.0 adxvip.com
 0.0.0.0 adyapper.com
@@ -3233,6 +3234,7 @@
 0.0.0.0 pixel.bild.de
 0.0.0.0 pixel.condenastdigital.com
 0.0.0.0 pixel.cpex.cz
+0.0.0.0 pixel.europapress.net
 0.0.0.0 pixel.facebook.com
 0.0.0.0 pixel.fanbridge.com
 0.0.0.0 pixel.glimr.io
@@ -3813,6 +3815,7 @@
 0.0.0.0 smartlook.com
 0.0.0.0 smartnews-ads.com
 0.0.0.0 smartracker.net
+0.0.0.0 smartsuppchat.com
 0.0.0.0 smartzonessva.com
 0.0.0.0 smct.co
 0.0.0.0 smetrics.att.com
@@ -4143,6 +4146,7 @@
 0.0.0.0 stats.miarroba.info
 0.0.0.0 stats.milenio.com
 0.0.0.0 stats.mituyu.com
+0.0.0.0 stats.mos.ru
 0.0.0.0 stats.nebula.fi
 0.0.0.0 stats.netbopdev.co.uk
 0.0.0.0 stats.nymag.com
@@ -4769,7 +4773,6 @@
 0.0.0.0 traffic.bokecc.com
 0.0.0.0 traffic.buyservices.com
 0.0.0.0 traffic.prod.cobaltgroup.com
-0.0.0.0 traffic.pubexchange.com
 0.0.0.0 traffic.shareaholic.com
 0.0.0.0 traffic4u.nl
 0.0.0.0 trafficby.net
@@ -5296,8 +5299,8 @@
 
 # Hosts - easyprivacy
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easyprivacy.txt
-# Generated - 16.07.2018
+# Generated - 19.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 5295
+# Total Domains: 5298
 # License: MIT
 

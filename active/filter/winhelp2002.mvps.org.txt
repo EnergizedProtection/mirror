@@ -12412,7 +12412,7 @@
 
 # Hosts - winhelp2002.mvps.org
 # Source - http://winhelp2002.mvps.org/hosts.txt
-# Generated - 16.07.2018
+# Generated - 19.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 12411
 # License: MIT

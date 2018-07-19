@@ -16344,7 +16344,6 @@
 0.0.0.0 adreactor.com
 0.0.0.0 adready.com
 0.0.0.0 adreadytractions.com
-0.0.0.0 adremover.org
 0.0.0.0 adrent.net
 0.0.0.0 adrepo.singlehop.com
 0.0.0.0 adreporting.com
@@ -31312,6 +31311,7 @@
 0.0.0.0 money.2cnt.net
 0.0.0.0 money4exit.de
 0.0.0.0 moneyempire.go2cloud.org
+0.0.0.0 moneymakercdn.com
 0.0.0.0 moneyup.justclick.ru
 0.0.0.0 mongoosemetrics.com
 0.0.0.0 monitor-old.adition.com
@@ -41983,7 +41983,6 @@
 0.0.0.0 www.adotsolution.com
 0.0.0.0 www.adprudence.com
 0.0.0.0 www.adreadytractions.com
-0.0.0.0 www.adremover.org
 0.0.0.0 www.adrevmedia.com
 0.0.0.0 www.adrtrklnk.com
 0.0.0.0 www.ads.bitservices.no
@@ -43533,6 +43532,7 @@
 0.0.0.0 www.mokono.com
 0.0.0.0 www.mondainefpjwdelvr.download
 0.0.0.0 www.money4exit.de
+0.0.0.0 www.moneymakercdn.com
 0.0.0.0 www.mongoosemetrics.com
 0.0.0.0 www.monteyxnmhx.download
 0.0.0.0 www.moonmarketing.com
@@ -45105,7 +45105,7 @@
 
 # Hosts - hosts-file.net-ats
 # Source - https://hosts-file.net/ad_servers.txt
-# Generated - 16.07.2018
+# Generated - 19.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 45104
 # License: MIT

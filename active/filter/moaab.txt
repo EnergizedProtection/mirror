@@ -160732,7 +160732,7 @@
 
 # Hosts - moaab
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/mirror/MoaAB.active.txt
-# Generated - 16.07.2018
+# Generated - 19.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 160731
 # License: MIT

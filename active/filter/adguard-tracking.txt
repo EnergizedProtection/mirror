@@ -10,6 +10,7 @@
 0.0.0.0 123count.com
 0.0.0.0 12fou.com
 0.0.0.0 12mnkys.com
+0.0.0.0 13p76nnir.de
 0.0.0.0 168logger.com
 0.0.0.0 1freecounter.com
 0.0.0.0 1pel.com
@@ -225,6 +226,7 @@
 0.0.0.0 api.exc.mob.com
 0.0.0.0 api.flocktory.com
 0.0.0.0 api.segment.io
+0.0.0.0 api2.poperblocker.com
 0.0.0.0 apicit.net
 0.0.0.0 apkonline.ru
 0.0.0.0 apm.crittercism.com
@@ -246,6 +248,7 @@
 0.0.0.0 arpxs.com
 0.0.0.0 arrowpushengine.com
 0.0.0.0 artefact.is
+0.0.0.0 artfut.com
 0.0.0.0 assoctrac.com
 0.0.0.0 astro-way.com
 0.0.0.0 atatus.com
@@ -326,6 +329,7 @@
 0.0.0.0 belstat.de
 0.0.0.0 belstat.fr
 0.0.0.0 belstat.nl
+0.0.0.0 ben.crxmouse.com
 0.0.0.0 benchit.com
 0.0.0.0 berg-6-82.com
 0.0.0.0 best-top.de
@@ -1469,6 +1473,7 @@
 0.0.0.0 localytics.com
 0.0.0.0 lockview.cn
 0.0.0.0 log.go.com
+0.0.0.0 log.hira-meki.jp
 0.0.0.0 log.invodo.com
 0.0.0.0 log.iyunmai.com
 0.0.0.0 log.krs-ix.ru
@@ -1910,6 +1915,7 @@
 0.0.0.0 pings.conviva.com
 0.0.0.0 pippio.com
 0.0.0.0 piwik.org
+0.0.0.0 piwik.pro
 0.0.0.0 pix.sniperlog.ru
 0.0.0.0 pixanalytics.com
 0.0.0.0 pixel.ad
@@ -2019,6 +2025,7 @@
 0.0.0.0 qdtracking.com
 0.0.0.0 qoijertneio.com
 0.0.0.0 qsstats.com
+0.0.0.0 quadran.eu
 0.0.0.0 quaintcan.com
 0.0.0.0 qualtrics.com
 0.0.0.0 quantcount.com
@@ -2303,6 +2310,7 @@
 0.0.0.0 smartzonessva.com
 0.0.0.0 smfsvc.com
 0.0.0.0 smileyhost.net
+0.0.0.0 smrtb.com
 0.0.0.0 smrtlnks.com
 0.0.0.0 smrtrdrct.com
 0.0.0.0 snakesort.com
@@ -2480,6 +2488,7 @@
 0.0.0.0 swfstats.com
 0.0.0.0 swiss-counter.com
 0.0.0.0 sxtracking.com
+0.0.0.0 sync.1dmp.io
 0.0.0.0 sync.morgdm.ru
 0.0.0.0 synergy-e.com
 0.0.0.0 synthasite.net
@@ -2514,6 +2523,7 @@
 0.0.0.0 tapstream.com
 0.0.0.0 target.ukr.net
 0.0.0.0 targetfuel.com
+0.0.0.0 taskapi.net
 0.0.0.0 tcactivity.net
 0.0.0.0 tcimg.com
 0.0.0.0 tctm.co
@@ -2536,6 +2546,7 @@
 0.0.0.0 terribleturkey.com
 0.0.0.0 tetigi.com
 0.0.0.0 tetoolbox.com
+0.0.0.0 tgdaudience.com
 0.0.0.0 theadex.com
 0.0.0.0 thebestlinks.com
 0.0.0.0 thebrighttag.com
@@ -3007,6 +3018,7 @@
 0.0.0.0 youmetrix.co.uk
 0.0.0.0 your-counter.be
 0.0.0.0 youramigo.com
+0.0.0.0 yourblocksite.com
 0.0.0.0 yunit.org
 0.0.0.0 zaehler.tv
 0.0.0.0 zanox-affiliate.de
@@ -3030,8 +3042,8 @@
 
 # Hosts - adguard-tracking
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-tracking-servers.txt
-# Generated - 16.07.2018
+# Generated - 19.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 3029
+# Total Domains: 3041
 # License: MIT
 

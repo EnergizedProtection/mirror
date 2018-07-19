@@ -2693,6 +2693,7 @@
 0.0.0.0 getnaltrexone.com
 0.0.0.0 getnetworkx724.ru
 0.0.0.0 getnow.slimbodlly.host
+0.0.0.0 getroman.com
 0.0.0.0 getrxbest724.ru
 0.0.0.0 gffmgr.salehousetop.su
 0.0.0.0 ggtree.xn--80aglaiio2ee.xn--p1ai
@@ -3622,6 +3623,7 @@
 0.0.0.0 masalladelclick.win
 0.0.0.0 maskarad-trc.ru
 0.0.0.0 massadvantagepayroll.com
+0.0.0.0 masteram.us
 0.0.0.0 matchadult.com
 0.0.0.0 mateldaaleda.be
 0.0.0.0 mattyhillary.ru
@@ -3838,6 +3840,7 @@
 0.0.0.0 my-reorder.com
 0.0.0.0 myactivity.su
 0.0.0.0 mybestmart.com
+0.0.0.0 mybestprice.su
 0.0.0.0 mybestrxmeds.com
 0.0.0.0 mybestrxstore.net
 0.0.0.0 mybestsaleg.su
@@ -4328,6 +4331,7 @@
 0.0.0.0 overthecounterstore.com
 0.0.0.0 ovipharmacy.com
 0.0.0.0 ovuobvaeiya.bestwebstart.su
+0.0.0.0 oyyqieocay.topcluba.su
 0.0.0.0 oz-rx-au.net
 0.0.0.0 ozpills.com
 0.0.0.0 pagekalindi.ru
@@ -5351,6 +5355,7 @@
 0.0.0.0 topbrandspharmacy.com
 0.0.0.0 topcanadadrugs.net
 0.0.0.0 topcanadiandrugs24rx7.com
+0.0.0.0 topclubb.su
 0.0.0.0 topclubsale.ru
 0.0.0.0 topdiscountclub.com
 0.0.0.0 topdiscountedrx.ru
@@ -5808,6 +5813,7 @@
 0.0.0.0 vipstoreb.su
 0.0.0.0 vipstorec.su
 0.0.0.0 vipsuccessx.su
+0.0.0.0 viptracker.info
 0.0.0.0 visabano.com
 0.0.0.0 visualmediaquest.com
 0.0.0.0 vitalitepill.com
@@ -8170,6 +8176,7 @@
 0.0.0.0 www.getbest.su
 0.0.0.0 www.getnaltrexone.com
 0.0.0.0 www.getnetworkx724.ru
+0.0.0.0 www.getroman.com
 0.0.0.0 www.getrxbest724.ru
 0.0.0.0 www.ggtree.xn--80aglaiio2ee.xn--p1ai
 0.0.0.0 www.giesothylru.net46.net
@@ -9050,6 +9057,7 @@
 0.0.0.0 www.maryjanedee.su
 0.0.0.0 www.marylandrealestateattorney.com
 0.0.0.0 www.maryslakelodge.com
+0.0.0.0 www.masteram.us
 0.0.0.0 www.matchadult.com
 0.0.0.0 www.mateldaaleda.be
 0.0.0.0 www.mattyhillary.ru
@@ -11038,6 +11046,7 @@
 0.0.0.0 www.vipstoreb.su
 0.0.0.0 www.vipstorec.su
 0.0.0.0 www.vipsuccessx.su
+0.0.0.0 www.viptracker.info
 0.0.0.0 www.visualmediaquest.com
 0.0.0.0 www.vitalitepill.com
 0.0.0.0 www.vittoriadarline.su
@@ -11726,8 +11735,8 @@
 
 # Hosts - hosts-file.net-pha
 # Source - https://hosts-file.net/pha.txt
-# Generated - 16.07.2018
+# Generated - 19.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 11725
+# Total Domains: 11734
 # License: MIT
 

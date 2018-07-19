@@ -2622,6 +2622,7 @@
 0.0.0.0 cookiecontainer.blox.pl
 0.0.0.0 cookies.cmpnet.com
 0.0.0.0 cookingtiprewards.com
+0.0.0.0 coolbotsearch4.info
 0.0.0.0 coolsavings.com
 0.0.0.0 coordino.com
 0.0.0.0 copyright-reform.info
@@ -7441,6 +7442,7 @@
 0.0.0.0 www.888casino.com
 0.0.0.0 www.888poker.com
 0.0.0.0 www.961.com
+0.0.0.0 www.a2uu36g43l.download
 0.0.0.0 www.abetterinternet.com
 0.0.0.0 www.actiondesk.com
 0.0.0.0 www.activeindexer.com
@@ -8492,8 +8494,8 @@
 
 # Hosts - someonewhocares.org
 # Source - http://someonewhocares.org/hosts/hosts
-# Generated - 16.07.2018
+# Generated - 19.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 8491
+# Total Domains: 8493
 # License: MIT
 

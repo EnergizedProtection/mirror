@@ -9,6 +9,9 @@
 0.0.0.0 adclear.teufel.de
 0.0.0.0 ads-trk.vidible.tv
 0.0.0.0 adtm.chip.de
+0.0.0.0 affiliate.gameladen.com
+0.0.0.0 affiliate.gamesdeal.com
+0.0.0.0 affiliates.cdkeys.com
 0.0.0.0 an.reflektion.com
 0.0.0.0 analytics-ingress.bitmovin.com
 0.0.0.0 analytics-static.ugc.bazaarvoice.com
@@ -29,6 +32,7 @@
 0.0.0.0 analytics.spankbang.com
 0.0.0.0 analytics.thevideo.me
 0.0.0.0 analytics.tout.com
+0.0.0.0 analytics.twitter.com
 0.0.0.0 analytics.vesti-ukr.com
 0.0.0.0 analytics.vooxe.com
 0.0.0.0 analytics.xyscdn.com
@@ -42,6 +46,8 @@
 0.0.0.0 beacon.gu-web.net
 0.0.0.0 beacon.livefyre.com
 0.0.0.0 beacon.riskified.com
+0.0.0.0 beacon.toyota.co.jp
+0.0.0.0 beacon.tws.toyota.jp
 0.0.0.0 beacon.walmart.ca
 0.0.0.0 bi-pipeline-collector.stylight.net
 0.0.0.0 bonfire.spklw.com
@@ -136,6 +142,7 @@
 0.0.0.0 d8rk54i4mohrb.cloudfront.net
 0.0.0.0 daq0d0aotgq0f.cloudfront.net
 0.0.0.0 data-collector.wefi.com
+0.0.0.0 dd6zx4ibq538k.cloudfront.net
 0.0.0.0 djtflbt20bdde.cloudfront.net
 0.0.0.0 dp1fzft1fdb84.cloudfront.net
 0.0.0.0 e.reddit.com
@@ -198,6 +205,7 @@
 0.0.0.0 mevents.trusteer.com
 0.0.0.0 mormont.gamer-network.net
 0.0.0.0 mtp.spaces.ru
+0.0.0.0 mybbc-analytics.files.bbci.co.uk
 0.0.0.0 ngagement-engine.mobify.com
 0.0.0.0 notify-bugs-fra1.rtl.de
 0.0.0.0 o.addthis.com
@@ -207,14 +215,16 @@
 0.0.0.0 pb.i.sogou.com
 0.0.0.0 perr.h-cdn.com
 0.0.0.0 perr.hola.org
-0.0.0.0 pi.pardot.com
 0.0.0.0 ping.hellobar.com
 0.0.0.0 ping.smyte.com
 0.0.0.0 pingback.sogou.com
 0.0.0.0 pix.telekom.de
+0.0.0.0 pixel.1und1.de
 0.0.0.0 pixel.4players.de
 0.0.0.0 pixel.bullion.media
 0.0.0.0 pixel.carambo.la
+0.0.0.0 pixel.cdnwidget.com
+0.0.0.0 pixel.quantserve.com
 0.0.0.0 pixel.roymorgan.com
 0.0.0.0 pixelhere.com
 0.0.0.0 pixiedust.buzzfeed.com
@@ -226,6 +236,7 @@
 0.0.0.0 r.remarketingpixel.com
 0.0.0.0 ramp.purch.com
 0.0.0.0 recs.atgsvcs.com
+0.0.0.0 reveal.clearbit.com
 0.0.0.0 rt.visilabs.net
 0.0.0.0 rtb.softcube.com
 0.0.0.0 s.frida.vse42.ru
@@ -301,6 +312,9 @@
 0.0.0.0 trac.oferting.net
 0.0.0.0 trac.oferting.org
 0.0.0.0 track.dictionary.com
+0.0.0.0 track.express.de
+0.0.0.0 track.mopo.de
+0.0.0.0 track.noz.de
 0.0.0.0 track.price.ru
 0.0.0.0 track.tiara.daum.net
 0.0.0.0 track.tooplay.com
@@ -343,8 +357,8 @@
 
 # Hosts - adguard-spyware
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-spyware-firstparty.txt
-# Generated - 16.07.2018
+# Generated - 19.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 342
+# Total Domains: 356
 # License: MIT
 

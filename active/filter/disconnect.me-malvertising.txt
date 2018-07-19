@@ -1727,7 +1727,6 @@
 0.0.0.0 guangdelvyou.com
 0.0.0.0 guihua-china.com
 0.0.0.0 guppymedia.com
-0.0.0.0 guyouellette.org
 0.0.0.0 gxatatuning.cn
 0.0.0.0 gxqyyq.com
 0.0.0.0 gzdywz.com
@@ -1751,7 +1750,6 @@
 0.0.0.0 heywire.com
 0.0.0.0 hgads.com
 0.0.0.0 hhj3.cn
-0.0.0.0 hi8.ss.la
 0.0.0.0 hidden.gogoceleb.com
 0.0.0.0 hightrafficads.com
 0.0.0.0 hihimn.com
@@ -2858,7 +2856,6 @@
 0.0.0.0 urbanityadnetwork.com
 0.0.0.0 urlcash.net
 0.0.0.0 us.a1.yimg.com
-0.0.0.0 usa-jiaji.com
 0.0.0.0 usapromotravel.com
 0.0.0.0 usergrid.com
 0.0.0.0 utarget.co.uk
@@ -2886,7 +2883,6 @@
 0.0.0.0 view4cash.de
 0.0.0.0 viewpoint.com
 0.0.0.0 viewwonder.com
-0.0.0.0 vilagnomad.com
 0.0.0.0 vip.dns-vip.net
 0.0.0.0 vipprojects.cn
 0.0.0.0 virtual-pcb.com
@@ -2965,7 +2961,6 @@
 0.0.0.0 wtdpcb.com
 0.0.0.0 wtlive.com
 0.0.0.0 wtr1.ru
-0.0.0.0 wushirongye.com
 0.0.0.0 wwgin.com
 0.0.0.0 www-banner.chat.ru
 0.0.0.0 www.4009997279.com
@@ -2978,7 +2973,6 @@
 0.0.0.0 www.gdby.com.cn
 0.0.0.0 www.kaplanindex.com
 0.0.0.0 www.money4exit.de
-0.0.0.0 www.montacarichi.it
 0.0.0.0 www.photo-ads.co.uk
 0.0.0.0 www.qqkabb.com
 0.0.0.0 www.rsrly.com
@@ -3022,7 +3016,6 @@
 0.0.0.0 xtendmedia.com
 0.0.0.0 xtremetop100.com
 0.0.0.0 xtxgsx.com
-0.0.0.0 xxi.ss.la
 0.0.0.0 xxxcounter.com
 0.0.0.0 xxxmyself.com
 0.0.0.0 xy-cs.net
@@ -3076,7 +3069,6 @@
 0.0.0.0 zeus.developershed.com
 0.0.0.0 zeusclicks.com
 0.0.0.0 zhaopai020.com
-0.0.0.0 zhidao.yxad.com
 0.0.0.0 zhongpandz.com
 0.0.0.0 ziheyuan.com
 0.0.0.0 zintext.com
@@ -3087,8 +3079,8 @@
 
 # Hosts - disconnect.me-malvertising
 # Source - https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
-# Generated - 16.07.2018
+# Generated - 19.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 3086
+# Total Domains: 3078
 # License: MIT
 

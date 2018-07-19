@@ -41,6 +41,7 @@
 0.0.0.0 filmsworlds.blogspot.co.uk
 0.0.0.0 filmsworlds.blogspot.com
 0.0.0.0 findnaughtybabesonline.com
+0.0.0.0 formatting231-info.gq
 0.0.0.0 freetube.com
 0.0.0.0 furtherpipit.men
 0.0.0.0 getupdateff.com
@@ -73,6 +74,7 @@
 0.0.0.0 localhost
 0.0.0.0 lycos.com.org
 0.0.0.0 maxis5018.space
+0.0.0.0 meet754seeuye.info
 0.0.0.0 meetyourmessenger.co.uk
 0.0.0.0 mega-track.info
 0.0.0.0 megatons.stream
@@ -112,6 +114,7 @@
 0.0.0.0 server4.beginanywhere.info
 0.0.0.0 server4.convertsrvr.com
 0.0.0.0 server4.inagentleway.info
+0.0.0.0 server4.jeeperskeepers.info
 0.0.0.0 server4.justthinkdifferent.info
 0.0.0.0 server4.maketodayamazing.info
 0.0.0.0 server4.perfectlyfabulous.info
@@ -213,12 +216,13 @@
 0.0.0.0 www.www4search.net
 0.0.0.0 www4search.net
 0.0.0.0 xml.rxfclk3.com
+0.0.0.0 zanthoxylum.stream
 0.0.0.0 zincify.stream
 
 # Hosts - hosts-file.net-hjk
 # Source - https://hosts-file.net/hjk.txt
-# Generated - 16.07.2018
+# Generated - 19.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 216
+# Total Domains: 220
 # License: MIT
 

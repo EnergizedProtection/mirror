@@ -32,6 +32,7 @@
 0.0.0.0 dyoravdkiavfkbkx.pw
 0.0.0.0 eaxpifdtwsv.biz
 0.0.0.0 egerdpkvutvodmtsy.pw
+0.0.0.0 eppilxqwyqdhmpdsn.pw
 0.0.0.0 eqtrtdavtnr.pw
 0.0.0.0 euduudaehipk.pw
 0.0.0.0 eypdxikxsufj.pw
@@ -224,8 +225,8 @@
 
 # Hosts - ransomwaretracker.abuse.ch
 # Source - https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt
-# Generated - 16.07.2018
+# Generated - 19.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 223
+# Total Domains: 224
 # License: MIT
 

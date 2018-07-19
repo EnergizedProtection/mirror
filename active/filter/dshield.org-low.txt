@@ -690,6 +690,7 @@
 0.0.0.0 anvikbiotech.com
 0.0.0.0 anzhuo6.com
 0.0.0.0 anzshoesoriginal.co.id
+0.0.0.0 aobyp1una641o8.com
 0.0.0.0 aonegroup.in
 0.0.0.0 aonikesi.com
 0.0.0.0 aontoyangfortcnewhclenw.com
@@ -3166,6 +3167,7 @@
 0.0.0.0 epicparty.info
 0.0.0.0 epochtimeschicago.com
 0.0.0.0 epomeolagrotta.com
+0.0.0.0 eppilxqwyqdhmpdsn.pw
 0.0.0.0 epraja1.com.br
 0.0.0.0 eproperties.com.mx
 0.0.0.0 epsihologie.com
@@ -5146,6 +5148,7 @@
 0.0.0.0 justsayjanet23.com
 0.0.0.0 jutuanmei.com
 0.0.0.0 jviaa.jp
+0.0.0.0 jwellersonlinshop.xyz
 0.0.0.0 jwpooleinc.com
 0.0.0.0 jwpray.com
 0.0.0.0 jwsc.cn
@@ -5609,6 +5612,7 @@
 0.0.0.0 liderkirici.com
 0.0.0.0 lidertakipci.com
 0.0.0.0 lidgeys.ru
+0.0.0.0 life-is-beautiful.in
 0.0.0.0 lifestyleagrotech.com
 0.0.0.0 lighthousetravel.co.uk
 0.0.0.0 lightsoundstore.com
@@ -7324,6 +7328,7 @@
 0.0.0.0 polandsad.com.ua
 0.0.0.0 polaraya.co.id
 0.0.0.0 polbouwtech.com
+0.0.0.0 poleznoevseti.ru
 0.0.0.0 policy-updatos.com
 0.0.0.0 policyforlife.com
 0.0.0.0 polinef.id
@@ -8235,7 +8240,6 @@
 0.0.0.0 secnet.co.zw
 0.0.0.0 secur-app-webapps.com
 0.0.0.0 secure-account-verification.com
-0.0.0.0 secure-bankofamerica.com.checking-accounts.insidmaldesign.com
 0.0.0.0 secure-bmo2.info
 0.0.0.0 secure-capital.one.checking.accounts.insidmaldesign.com
 0.0.0.0 secure-check-your-payment.com
@@ -8540,6 +8544,7 @@
 0.0.0.0 sinembargo.tk
 0.0.0.0 sing-in-online-id.000webhostapp.com
 0.0.0.0 singaporeproperty.review
+0.0.0.0 singatradeing.com
 0.0.0.0 singhaniawires.com
 0.0.0.0 singneett.info
 0.0.0.0 singtelmedia.com
@@ -10645,8 +10650,8 @@
 
 # Hosts - dshield.org-low
 # Source - https://www.dshield.org/feeds/suspiciousdomains_Low.txt
-# Generated - 16.07.2018
+# Generated - 19.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 10644
+# Total Domains: 10649
 # License: MIT
 

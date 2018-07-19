@@ -136,6 +136,7 @@
 0.0.0.0 adunity.com
 0.0.0.0 advanced-web-analytics.com
 0.0.0.0 advconversion.com
+0.0.0.0 advertising.com
 0.0.0.0 adyapper.com
 0.0.0.0 afairweb.com
 0.0.0.0 affilae.com
@@ -1956,6 +1957,7 @@
 0.0.0.0 smarterremarketer.net
 0.0.0.0 smartlook.com
 0.0.0.0 smartracker.net
+0.0.0.0 smartsuppchat.com
 0.0.0.0 smartzonessva.com
 0.0.0.0 smct.co
 0.0.0.0 smfsvc.com
@@ -2492,8 +2494,8 @@
 
 # Hosts - easyprivacy-tracking-servers
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easyprivacy-tracking-servers.txt
-# Generated - 16.07.2018
+# Generated - 19.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 2491
+# Total Domains: 2493
 # License: MIT
 

@@ -11,7 +11,7 @@
 
 # Hosts - unchecky-ads
 # Source - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts
-# Generated - 16.07.2018
+# Generated - 19.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 10
 # License: MIT

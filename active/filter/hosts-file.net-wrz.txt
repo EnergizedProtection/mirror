@@ -455,7 +455,6 @@
 0.0.0.0 kotargyiee.com
 0.0.0.0 kubalibre.com
 0.0.0.0 laser-dentaire.org
-0.0.0.0 latestkeys.com
 0.0.0.0 leakshare.net
 0.0.0.0 leechfree.com
 0.0.0.0 leechmod.us
@@ -728,6 +727,7 @@
 0.0.0.0 rardownload.net
 0.0.0.0 red.hlusoe.info
 0.0.0.0 reloaded-games.org
+0.0.0.0 repack.me
 0.0.0.0 requestcracks.com
 0.0.0.0 reverendmike.org
 0.0.0.0 rexdl.com
@@ -776,7 +776,6 @@
 0.0.0.0 sensation.id-t.com
 0.0.0.0 serial4ik.ru
 0.0.0.0 serialcoded.com
-0.0.0.0 serialcrack.org
 0.0.0.0 serialfan.com
 0.0.0.0 serialkeyguru.blogspot.in
 0.0.0.0 serialkeypc.com
@@ -1703,7 +1702,6 @@
 0.0.0.0 www.seey0u.info
 0.0.0.0 www.serial4ik.ru
 0.0.0.0 www.serialcoded.com
-0.0.0.0 www.serialcrack.org
 0.0.0.0 www.serialfan.com
 0.0.0.0 www.serialkeyguru.blogspot.in
 0.0.0.0 www.serialkeypc.com
@@ -2039,8 +2037,8 @@
 
 # Hosts - hosts-file.net-wrz
 # Source - https://hosts-file.net/wrz.txt
-# Generated - 16.07.2018
+# Generated - 19.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 2038
+# Total Domains: 2036
 # License: MIT
 
