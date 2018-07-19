@@ -1,7 +1,7 @@
 # easyprivacy-tracking-servers Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers.txt
-# Last Converted - Mon, 16 Jul 2018 12:06:21 -0400
+# Last Converted - Thu, 19 Jul 2018 10:22:41 -0400
 # Energized - ad.porn.malware blocking.
 
 0.0.0.0 0emm.com
@@ -137,6 +137,7 @@
 0.0.0.0 adunity.com
 0.0.0.0 advanced-web-analytics.com
 0.0.0.0 advconversion.com
+0.0.0.0 advertising.com
 0.0.0.0 adyapper.com
 0.0.0.0 afairweb.com
 0.0.0.0 affilae.com
@@ -1820,6 +1821,7 @@
 0.0.0.0 smartlook.com
 0.0.0.0 smartology.co
 0.0.0.0 smartracker.net
+0.0.0.0 smartsuppchat.com
 0.0.0.0 smartzonessva.com
 0.0.0.0 smct.co
 0.0.0.0 smfsvc.com

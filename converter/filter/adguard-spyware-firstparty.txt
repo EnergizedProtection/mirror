@@ -1,9 +1,24 @@
 # adguard-spyware-firstparty Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers_firstparty.txt
-# Last Converted - Mon, 16 Jul 2018 12:06:18 -0400
+# Last Converted - Thu, 19 Jul 2018 10:22:39 -0400
 # Energized - ad.porn.malware blocking.
 
+0.0.0.0 beacon.tws.toyota.jp
+0.0.0.0 beacon.toyota.co.jp
+0.0.0.0 dd6zx4ibq538k.cloudfront.net
+0.0.0.0 track.express.de
+0.0.0.0 track.mopo.de
+0.0.0.0 track.noz.de
+0.0.0.0 pixel.1und1.de
+0.0.0.0 mybbc-analytics.files.bbci.co.uk
+0.0.0.0 reveal.clearbit.com
+0.0.0.0 analytics.twitter.com
+0.0.0.0 pixel.quantserve.com
+0.0.0.0 affiliates.cdkeys.com
+0.0.0.0 pixel.cdnwidget.com
+0.0.0.0 affiliate.gamesdeal.com
+0.0.0.0 affiliate.gameladen.com
 0.0.0.0 d2j3te7y7s8xxp.cloudfront.net
 0.0.0.0 logql.yahoo.co.jp
 0.0.0.0 ybx.yahoo.co.jp
@@ -338,7 +353,6 @@
 0.0.0.0 o.addthis.com
 0.0.0.0 onclickpredictiv.com
 0.0.0.0 perr.h-cdn.com
-0.0.0.0 pi.pardot.com
 0.0.0.0 ping.hellobar.com
 0.0.0.0 pixelhere.com
 0.0.0.0 put.qostore.daumkakao.io

@@ -1,9 +1,17 @@
 # adguard-tracking-servers Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers.txt
-# Last Converted - Mon, 16 Jul 2018 12:06:18 -0400
+# Last Converted - Thu, 19 Jul 2018 10:22:39 -0400
 # Energized - ad.porn.malware blocking.
 
+0.0.0.0 artfut.com
+0.0.0.0 13p76nnir.de
+0.0.0.0 sync.1dmp.io
+0.0.0.0 smrtb.com
+0.0.0.0 tgdaudience.com
+0.0.0.0 log.hira-meki.jp
+0.0.0.0 quadran.eu
+0.0.0.0 piwik.pro
 0.0.0.0 collector-analytics.efigence.com
 0.0.0.0 stat.kununu.cz
 0.0.0.0 marketingautomation.services
@@ -3371,3 +3379,8 @@
 0.0.0.0 um-public-panel-prod.s3.amazonaws.com
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
+0.0.0.0 api2.poperblocker.com
+0.0.0.0 yourblocksite.com
+0.0.0.0 ben.crxmouse.com
+0.0.0.0 taskapi.net
+0.0.0.0 artfut.com

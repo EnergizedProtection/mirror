@@ -1,7 +1,7 @@
 # easyprivacy Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - https://easylist.to/easylist/easyprivacy.txt
-# Last Converted - Mon, 16 Jul 2018 12:06:19 -0400
+# Last Converted - Thu, 19 Jul 2018 10:22:39 -0400
 # Energized - ad.porn.malware blocking.
 
 0.0.0.0 -geoIP.js
@@ -142,6 +142,7 @@
 0.0.0.0 adunity.com
 0.0.0.0 advanced-web-analytics.com
 0.0.0.0 advconversion.com
+0.0.0.0 advertising.com
 0.0.0.0 adyapper.com
 0.0.0.0 afairweb.com
 0.0.0.0 affilae.com
@@ -1825,6 +1826,7 @@
 0.0.0.0 smartlook.com
 0.0.0.0 smartology.co
 0.0.0.0 smartracker.net
+0.0.0.0 smartsuppchat.com
 0.0.0.0 smartzonessva.com
 0.0.0.0 smct.co
 0.0.0.0 smfsvc.com
@@ -4541,7 +4543,6 @@
 0.0.0.0 traffic.acwebconnecting.com
 0.0.0.0 traffic.belaydevelopment.com
 0.0.0.0 traffic.prod.cobaltgroup.com
-0.0.0.0 traffic.pubexchange.com
 0.0.0.0 traffic.shareaholic.com
 0.0.0.0 trafficfuelpixel.s3-us-west-2.amazonaws.com
 0.0.0.0 trakksocial.googlecode.com
@@ -6110,6 +6111,7 @@
 0.0.0.0 stat.russianfood.com
 0.0.0.0 stat.woman-announce.ru
 0.0.0.0 stats.lifenews.ru
+0.0.0.0 stats.mos.ru
 0.0.0.0 sync.rambler.ru
 0.0.0.0 tracker.tiu.ru
 0.0.0.0 yast.rutube.ru
@@ -6122,6 +6124,7 @@
 0.0.0.0 estadonline.publiguias.cl
 0.0.0.0 g.siliconweek.es
 0.0.0.0 hits.antena3.com
+0.0.0.0 pixel.europapress.net
 0.0.0.0 stats.milenio.com
 0.0.0.0 ai.idg.se
 0.0.0.0 beacon.mtgx.tv

@@ -1,7 +1,7 @@
 # squidblacklist-ads Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - http://www.squidblacklist.org/downloads/dg-ads.acl
-# Last Converted - Mon, 16 Jul 2018 12:06:26 -0400
+# Last Converted - Thu, 19 Jul 2018 10:22:45 -0400
 # Energized - ad.porn.malware blocking.
 
 0.0.0.0 0icep80f.com
@@ -2204,6 +2204,7 @@
 0.0.0.0 fenixm.com
 0.0.0.0 ffxcam.fairfax.com.au
 0.0.0.0 fiksu.com
+0.0.0.0 filadmir.site
 0.0.0.0 filetarget.com
 0.0.0.0 fimserve.com
 0.0.0.0 findyourcasino.com
@@ -2260,6 +2261,7 @@
 0.0.0.0 fusionads.net
 0.0.0.0 fxyc0dwa.com
 0.0.0.0 g17media.com
+0.0.0.0 ga87z2o.com
 0.0.0.0 gagacon.com
 0.0.0.0 gainmoneyfast.com
 0.0.0.0 galleyn.com
@@ -2569,6 +2571,7 @@
 0.0.0.0 javacript.cf
 0.0.0.0 javacript.ga
 0.0.0.0 javacript.gq
+0.0.0.0 javacript.tk
 0.0.0.0 jcnqc.us
 0.0.0.0 jcount.com
 0.0.0.0 jeetyetmedia.com
@@ -2584,7 +2587,6 @@
 0.0.0.0 joetec.net
 0.0.0.0 joytocash.com
 0.0.0.0 jque.net
-0.0.0.0 js.cdn.ac
 0.0.0.0 jscount.com
 0.0.0.0 jsretra.com
 0.0.0.0 jssearch.net
@@ -2621,6 +2623,7 @@
 0.0.0.0 kiosked.com
 0.0.0.0 kissmetrics.com
 0.0.0.0 kitnmedia.com
+0.0.0.0 kkddlt2f.site
 0.0.0.0 kliks.nl
 0.0.0.0 klixfeed.com
 0.0.0.0 knowd.com
@@ -2665,7 +2668,6 @@
 0.0.0.0 lepinsar.com
 0.0.0.0 lepintor.com
 0.0.0.0 letsgoshopping.tk
-0.0.0.0 letysheeps.ru
 0.0.0.0 levelrate.de
 0.0.0.0 lfstmedia.com
 0.0.0.0 lgse.com
@@ -2900,6 +2902,7 @@
 0.0.0.0 mobitracker.info
 0.0.0.0 mobivity.com
 0.0.0.0 mobixell.com
+0.0.0.0 mobpartner.mobi
 0.0.0.0 mobstac.com
 0.0.0.0 mobstitialtag.com
 0.0.0.0 mobyt.com
@@ -2994,6 +2997,7 @@
 0.0.0.0 netshelter.net
 0.0.0.0 netsolads.com
 0.0.0.0 networkplay.in
+0.0.0.0 networkxi.com
 0.0.0.0 networld.hk
 0.0.0.0 neudesicmediagroup.com
 0.0.0.0 new17write.com
@@ -3510,6 +3514,7 @@
 0.0.0.0 rtk.io
 0.0.0.0 ruamupr.com
 0.0.0.0 rubiconproject.com
+0.0.0.0 ruckusschroederraspberry.com
 0.0.0.0 rue1mi4.bid
 0.0.0.0 rummyaffiliates.com
 0.0.0.0 ru-traffic.com
@@ -3652,6 +3657,7 @@
 0.0.0.0 smilered.com
 0.0.0.0 smintmouse.com
 0.0.0.0 smrt-view.com
+0.0.0.0 sn00.net
 0.0.0.0 sndkorea.co.kr
 0.0.0.0 sneakystamp.com
 0.0.0.0 snoobi.com
