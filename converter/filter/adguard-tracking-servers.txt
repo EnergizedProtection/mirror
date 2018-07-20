@@ -1,9 +1,11 @@
 # adguard-tracking-servers Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers.txt
-# Last Converted - Thu, 19 Jul 2018 10:22:39 -0400
+# Last Converted - Fri, 20 Jul 2018 16:23:43 -0400
 # Energized - ad.porn.malware blocking.
 
+0.0.0.0 mindtake.com
+0.0.0.0 leadlab.click
 0.0.0.0 artfut.com
 0.0.0.0 13p76nnir.de
 0.0.0.0 sync.1dmp.io

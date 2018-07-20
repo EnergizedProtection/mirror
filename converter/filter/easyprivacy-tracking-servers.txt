@@ -1,7 +1,7 @@
 # easyprivacy-tracking-servers Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers.txt
-# Last Converted - Thu, 19 Jul 2018 10:22:41 -0400
+# Last Converted - Fri, 20 Jul 2018 16:23:44 -0400
 # Energized - ad.porn.malware blocking.
 
 0.0.0.0 0emm.com

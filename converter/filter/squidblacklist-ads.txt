@@ -1,7 +1,7 @@
 # squidblacklist-ads Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - http://www.squidblacklist.org/downloads/dg-ads.acl
-# Last Converted - Thu, 19 Jul 2018 10:22:45 -0400
+# Last Converted - Fri, 20 Jul 2018 16:23:49 -0400
 # Energized - ad.porn.malware blocking.
 
 0.0.0.0 0icep80f.com
@@ -257,7 +257,6 @@
 0.0.0.0 adextent.com
 0.0.0.0 adext.inkclub.com
 0.0.0.0 adf01.net
-0.0.0.0 ad.f1cd.ru
 0.0.0.0 adfactor.nl
 0.0.0.0 adfactory88.com
 0.0.0.0 adfarm.mediaplex.com
@@ -1238,7 +1237,6 @@
 0.0.0.0 adxprtz.com
 0.0.0.0 adxvalue.com
 0.0.0.0 ad.yahoo.com
-0.0.0.0 ad.yieldpartners.com
 0.0.0.0 ad.yourmedia.com
 0.0.0.0 adzbazar.com
 0.0.0.0 adz.co.zw
@@ -1973,6 +1971,7 @@
 0.0.0.0 das5ku9q.com
 0.0.0.0 data.adroll.com
 0.0.0.0 data-data-vac.com
+0.0.0.0 datashreddergold.com
 0.0.0.0 datawrkz.com
 0.0.0.0 dataxu.com
 0.0.0.0 dating-banners.com
@@ -2311,7 +2310,6 @@
 0.0.0.0 gmads.net
 0.0.0.0 go2jump.org
 0.0.0.0 goadservices.com
-0.0.0.0 goember.com
 0.0.0.0 gogoplexer.com
 0.0.0.0 gogvo.com
 0.0.0.0 goldspotmedia.com
@@ -3379,7 +3377,6 @@
 0.0.0.0 questaffiliates.net
 0.0.0.0 questionmarket.com
 0.0.0.0 questus.com
-0.0.0.0 quicktask.xyz
 0.0.0.0 quigo.com
 0.0.0.0 quinst.com
 0.0.0.0 quinstreet.com
@@ -4091,7 +4088,6 @@
 0.0.0.0 track.mrskininteractive.com
 0.0.0.0 track.mypcbackup.com
 0.0.0.0 trackmysales.com
-0.0.0.0 track.myvoluum.website
 0.0.0.0 track.natassia-dreams.com
 0.0.0.0 track.naturalxl.pl
 0.0.0.0 track.naughtynati.com
@@ -4245,7 +4241,6 @@
 0.0.0.0 tubberlo.com
 0.0.0.0 tubedspots.com
 0.0.0.0 tubemogul.com
-0.0.0.0 tubereplay.com
 0.0.0.0 turboadv.com
 0.0.0.0 turbotraff.net
 0.0.0.0 turn.com
@@ -4486,7 +4481,6 @@
 0.0.0.0 xplusone.com
 0.0.0.0 xrea.com
 0.0.0.0 x.shopsavvy.com
-0.0.0.0 xtendadvert.com
 0.0.0.0 x-traceur.com
 0.0.0.0 xtremetop100.com
 0.0.0.0 xubob.com
