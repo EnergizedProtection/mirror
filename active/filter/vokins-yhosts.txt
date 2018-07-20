@@ -6397,7 +6397,7 @@
 
 # Hosts - vokins-yhosts
 # Source - https://raw.githubusercontent.com/vokins/yhosts/master/hosts
-# Generated - 19.07.2018
+# Generated - 20.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 6396
 # License: MIT

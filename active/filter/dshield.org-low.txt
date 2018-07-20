@@ -5625,6 +5625,7 @@
 0.0.0.0 lily-ksa.com
 0.0.0.0 lilyjewellers.com
 0.0.0.0 limemusiclibrary.com
+0.0.0.0 limerick.ga
 0.0.0.0 limited-summaryservafreenode.com
 0.0.0.0 limitedeservecelock.ddns.net
 0.0.0.0 limpezadefossas.com
@@ -10650,8 +10651,8 @@
 
 # Hosts - dshield.org-low
 # Source - https://www.dshield.org/feeds/suspiciousdomains_Low.txt
-# Generated - 19.07.2018
+# Generated - 20.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 10649
+# Total Domains: 10650
 # License: MIT
 

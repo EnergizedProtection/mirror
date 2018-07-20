@@ -90,7 +90,6 @@
 0.0.0.0 ad.digitallook.com
 0.0.0.0 ad.doctissimo.fr
 0.0.0.0 ad.domainfactory.de
-0.0.0.0 ad.f1cd.ru
 0.0.0.0 ad.flurry.com
 0.0.0.0 ad.foxnetworks.com
 0.0.0.0 ad.freecity.de
@@ -2586,8 +2585,8 @@
 
 # Hosts - pgl.yoyo.org
 # Source - https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&mimetype=plaintext
-# Generated - 19.07.2018
+# Generated - 20.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 2585
+# Total Domains: 2584
 # License: MIT
 

@@ -4903,7 +4903,7 @@
 
 # Hosts - cybercrime
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/cybercrime.txt
-# Generated - 19.07.2018
+# Generated - 20.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 4902
 # License: MIT

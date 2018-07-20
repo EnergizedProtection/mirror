@@ -1914,6 +1914,7 @@
 0.0.0.0 crestorqbt.com
 0.0.0.0 crestortgt.com
 0.0.0.0 crinjuanita.ru
+0.0.0.0 crosscountry5k.com
 0.0.0.0 cruickshankscatering.co.uk
 0.0.0.0 ctyncazeeh.tradeplacem.su
 0.0.0.0 curativeaidstore.ru
@@ -11735,8 +11736,8 @@
 
 # Hosts - hosts-file.net-pha
 # Source - https://hosts-file.net/pha.txt
-# Generated - 19.07.2018
+# Generated - 20.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 11734
+# Total Domains: 11735
 # License: MIT
 

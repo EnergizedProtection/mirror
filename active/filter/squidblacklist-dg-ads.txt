@@ -178,7 +178,6 @@
 0.0.0.0 ad.eluosi.cn
 0.0.0.0 ad.entgroup.cn
 0.0.0.0 ad.etaocms.com
-0.0.0.0 ad.f1cd.ru
 0.0.0.0 ad.flurry.com
 0.0.0.0 ad.foxnetworks.com
 0.0.0.0 ad.freecity.de
@@ -245,7 +244,6 @@
 0.0.0.0 ad.wsod.com
 0.0.0.0 ad.wz.cz
 0.0.0.0 ad.yahoo.com
-0.0.0.0 ad.yieldpartners.com
 0.0.0.0 ad.yourmedia.com
 0.0.0.0 ad0.bigmir.net
 0.0.0.0 ad01.mediacorpsingapore.com
@@ -1965,6 +1963,7 @@
 0.0.0.0 das5ku9q.com
 0.0.0.0 data-data-vac.com
 0.0.0.0 data.adroll.com
+0.0.0.0 datashreddergold.com
 0.0.0.0 datawrkz.com
 0.0.0.0 dataxu.com
 0.0.0.0 dating-banners.com
@@ -2303,7 +2302,6 @@
 0.0.0.0 go.searchlock.com
 0.0.0.0 go2jump.org
 0.0.0.0 goadservices.com
-0.0.0.0 goember.com
 0.0.0.0 gogoplexer.com
 0.0.0.0 gogvo.com
 0.0.0.0 goldspotmedia.com
@@ -3368,7 +3366,6 @@
 0.0.0.0 questaffiliates.net
 0.0.0.0 questionmarket.com
 0.0.0.0 questus.com
-0.0.0.0 quicktask.xyz
 0.0.0.0 quigo.com
 0.0.0.0 quinst.com
 0.0.0.0 quinstreet.com
@@ -4022,7 +4019,6 @@
 0.0.0.0 track.motormobile.com
 0.0.0.0 track.mrskininteractive.com
 0.0.0.0 track.mypcbackup.com
-0.0.0.0 track.myvoluum.website
 0.0.0.0 track.natassia-dreams.com
 0.0.0.0 track.naturalxl.pl
 0.0.0.0 track.naughtynati.com
@@ -4233,7 +4229,6 @@
 0.0.0.0 tubberlo.com
 0.0.0.0 tubedspots.com
 0.0.0.0 tubemogul.com
-0.0.0.0 tubereplay.com
 0.0.0.0 tur-tur-key.com
 0.0.0.0 turboadv.com
 0.0.0.0 turbotraff.net
@@ -4473,7 +4468,6 @@
 0.0.0.0 xmaswrite.com
 0.0.0.0 xplusone.com
 0.0.0.0 xrea.com
-0.0.0.0 xtendadvert.com
 0.0.0.0 xtremetop100.com
 0.0.0.0 xubob.com
 0.0.0.0 xvika.com
@@ -4555,8 +4549,8 @@
 
 # Hosts - squidblacklist-dg-ads
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/squidblacklist-ads.txt
-# Generated - 19.07.2018
+# Generated - 20.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 4554
+# Total Domains: 4548
 # License: MIT
 

@@ -309,7 +309,7 @@
 
 # Hosts - zerodot1-coinblockerlists-optional
 # Source - https://zerodot1.gitlab.io/CoinBlockerLists/hosts_optional
-# Generated - 19.07.2018
+# Generated - 20.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 308
 # License: MIT

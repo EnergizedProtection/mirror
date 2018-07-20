@@ -853,7 +853,7 @@
 
 # Hosts - eth-phishing-detect
 # Source - https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/master/src/hosts.txt
-# Generated - 19.07.2018
+# Generated - 20.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 852
 # License: MIT

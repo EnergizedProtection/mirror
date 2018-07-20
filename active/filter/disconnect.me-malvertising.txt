@@ -1496,7 +1496,6 @@
 0.0.0.0 downlaod.vstart.net
 0.0.0.0 downloadally.com
 0.0.0.0 downloadcypher.com
-0.0.0.0 downloadedsoftware.com
 0.0.0.0 dpgjjs.com
 0.0.0.0 drawbrid.ge
 0.0.0.0 drteachme.com
@@ -1610,7 +1609,6 @@
 0.0.0.0 fabiocaminero.com
 0.0.0.0 faloge.com
 0.0.0.0 falsewi.com
-0.0.0.0 fancycake.net
 0.0.0.0 fangqianghuaye.com
 0.0.0.0 fas.nirmala.life
 0.0.0.0 fast-adv.it
@@ -2317,7 +2315,6 @@
 0.0.0.0 paypopup.com
 0.0.0.0 payserve.com
 0.0.0.0 pbnet.ru
-0.0.0.0 pc-pointers.com
 0.0.0.0 pcash.imlive.com
 0.0.0.0 pcbangv.com
 0.0.0.0 pdk.lcn.cc
@@ -3050,7 +3047,6 @@
 0.0.0.0 ysbbcrypsc.com
 0.0.0.0 yserch.com
 0.0.0.0 yttestsite.com
-0.0.0.0 ytx360.com
 0.0.0.0 yuejinjx.com
 0.0.0.0 yuilop.com
 0.0.0.0 yume.com
@@ -3079,8 +3075,8 @@
 
 # Hosts - disconnect.me-malvertising
 # Source - https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
-# Generated - 19.07.2018
+# Generated - 20.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 3078
+# Total Domains: 3074
 # License: MIT
 

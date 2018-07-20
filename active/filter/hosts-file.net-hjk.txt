@@ -11,6 +11,8 @@
 0.0.0.0 aoasa.com
 0.0.0.0 api.toptenreviews.com
 0.0.0.0 apiurl.org
+0.0.0.0 bigbil33.club
+0.0.0.0 bimegg5.info
 0.0.0.0 biology-chidden.stream
 0.0.0.0 booting522-info.ml
 0.0.0.0 casual.civilizatory.stream
@@ -221,8 +223,8 @@
 
 # Hosts - hosts-file.net-hjk
 # Source - https://hosts-file.net/hjk.txt
-# Generated - 19.07.2018
+# Generated - 20.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 220
+# Total Domains: 222
 # License: MIT
 

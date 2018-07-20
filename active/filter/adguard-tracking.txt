@@ -1433,6 +1433,7 @@
 0.0.0.0 leadin.com
 0.0.0.0 leadintelligence.co.uk
 0.0.0.0 leadium.com
+0.0.0.0 leadlab.click
 0.0.0.0 leadlife.com
 0.0.0.0 leadmanagerfx.com
 0.0.0.0 leadsius.com
@@ -1599,6 +1600,7 @@
 0.0.0.0 midas-i.com
 0.0.0.0 midkotatraffic.net
 0.0.0.0 millioncounter.com
+0.0.0.0 mindtake.com
 0.0.0.0 minewhat.com
 0.0.0.0 mixedreading.com
 0.0.0.0 mixpanel.com
@@ -3042,8 +3044,8 @@
 
 # Hosts - adguard-tracking
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-tracking-servers.txt
-# Generated - 19.07.2018
+# Generated - 20.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 3041
+# Total Domains: 3043
 # License: MIT
 

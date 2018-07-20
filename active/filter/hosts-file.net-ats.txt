@@ -34223,6 +34223,7 @@
 0.0.0.0 sact.atdmt.com
 0.0.0.0 sad1.adriver.ru
 0.0.0.0 sadv.dadapro.com
+0.0.0.0 safarids.com
 0.0.0.0 safe.net-az83.stream
 0.0.0.0 safelinking.net
 0.0.0.0 safelinktracker.com
@@ -45105,8 +45106,8 @@
 
 # Hosts - hosts-file.net-ats
 # Source - https://hosts-file.net/ad_servers.txt
-# Generated - 19.07.2018
+# Generated - 20.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 45104
+# Total Domains: 45105
 # License: MIT
 

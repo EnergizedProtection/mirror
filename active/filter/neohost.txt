@@ -117,6 +117,7 @@
 0.0.0.0 acookie.alimama.com
 0.0.0.0 acookie.linezing.com
 0.0.0.0 acs4baichuan.m.taobao.com
+0.0.0.0 acstatic-dun.126.net
 0.0.0.0 act.commercial.shouji.360.cn
 0.0.0.0 activate-sea.adobe.com
 0.0.0.0 activate-sjc0.adobe.com
@@ -622,6 +623,7 @@
 0.0.0.0 cdn.flurry.com
 0.0.0.0 cdn.hyperpromote.com
 0.0.0.0 cdn.lu.sogoucdn.com
+0.0.0.0 cdn.newapi.com
 0.0.0.0 cdn.optaim.com
 0.0.0.0 cdn.popcash.net
 0.0.0.0 cdn.popmyads.com
@@ -811,7 +813,6 @@
 0.0.0.0 cpc.click.alimama.com
 0.0.0.0 cpc.haohaowan8.com
 0.0.0.0 cpc.sogou.com
-0.0.0.0 cpro.9xu.com
 0.0.0.0 cpro.baidu.com
 0.0.0.0 cpro.baidustatic.com
 0.0.0.0 cpro.zhidao.baidu.com
@@ -832,7 +833,6 @@
 0.0.0.0 crs.baidu.com
 0.0.0.0 cs.dqwjzm.com
 0.0.0.0 cs.twcczhu.com
-0.0.0.0 cszlks.com
 0.0.0.0 ct.210189.com
 0.0.0.0 ct.niu.xunlei.com
 0.0.0.0 cti.w55c.net
@@ -1530,6 +1530,7 @@
 0.0.0.0 log.voicecloud.cn
 0.0.0.0 log.web.kugou.com
 0.0.0.0 log2.air.yoyi.com.cn
+0.0.0.0 logs.newapi.com
 0.0.0.0 logupdate.avlyun.sec.miui.com
 0.0.0.0 ls.l.qq.com
 0.0.0.0 lu.sogou.com
@@ -1624,6 +1625,7 @@
 0.0.0.0 mc.yandex.ru
 0.0.0.0 mclick.simba.taobao.com
 0.0.0.0 mcore.vcgame.cn
+0.0.0.0 md.1drj.com
 0.0.0.0 md.he9630.com
 0.0.0.0 md.sh5e.com
 0.0.0.0 mdap.alipaylog.com
@@ -1922,6 +1924,7 @@
 0.0.0.0 puds.ucweb.com
 0.0.0.0 pull.push.sogou.com
 0.0.0.0 pups.bdimg.com
+0.0.0.0 push.5z5zw.com
 0.0.0.0 push.mobile.kugou.com
 0.0.0.0 push.res.meizu.com
 0.0.0.0 push.wandoujia.com
@@ -2986,6 +2989,7 @@
 0.0.0.0 www.ipinyou.com
 0.0.0.0 www.ipinyou.com.cn
 0.0.0.0 www.jisucn.com
+0.0.0.0 www.jiubuhua.com
 0.0.0.0 www.jizzads.com
 0.0.0.0 www.keyrun.cn
 0.0.0.0 www.kuguopush.com
@@ -3046,6 +3050,7 @@
 0.0.0.0 xinhuanet.adsame.com
 0.0.0.0 xinsheng.net
 0.0.0.0 xji.qwxcs.com
+0.0.0.0 xs.1drj.com
 0.0.0.0 xs.he9630.com
 0.0.0.0 xtruh.uranus.sogou.com
 0.0.0.0 xunlei.adx.admaster.com.cn
@@ -3072,10 +3077,10 @@
 0.0.0.0 yt.mmstat.com
 0.0.0.0 yuanming.net
 0.0.0.0 yun.lvehaisen.com
-0.0.0.0 yun.rili.cn
 0.0.0.0 yun.tuia.cn
 0.0.0.0 yun.yuyiya.com
 0.0.0.0 yyffeicd.m.qxs.la
+0.0.0.0 z.clickvip.shop
 0.0.0.0 z.sora.yoyi.com.cn
 0.0.0.0 z1.cnzz.com
 0.0.0.0 z11.cnzz.com
@@ -3130,8 +3135,8 @@
 
 # Hosts - neohost
 # Source - https://hosts.nfz.moe/full/hosts
-# Generated - 19.07.2018
+# Generated - 20.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 3129
+# Total Domains: 3134
 # License: MIT
 

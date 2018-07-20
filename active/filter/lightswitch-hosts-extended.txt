@@ -29,6 +29,7 @@
 0.0.0.0 3pt.placelocal.com
 0.0.0.0 3sixty.exacttarget.com
 0.0.0.0 4292932.fls.doubleclick.net
+0.0.0.0 4645336.fls.doubleclick.net
 0.0.0.0 48544d4c5.adready.com
 0.0.0.0 5g.adx1.com
 0.0.0.0 5rocks.io
@@ -694,6 +695,7 @@
 0.0.0.0 app.jivox.com
 0.0.0.0 app.kargo.com
 0.0.0.0 app.mopub.com
+0.0.0.0 app.pathful.com
 0.0.0.0 app.preview.exacttarget.com
 0.0.0.0 app.returnpath.net
 0.0.0.0 app.s1.exacttarget.com
@@ -721,6 +723,7 @@
 0.0.0.0 approval.qwapi.com
 0.0.0.0 apps.adtz.com
 0.0.0.0 apps.artifacts.adis.ws
+0.0.0.0 apps.bizible.com
 0.0.0.0 apps.demo.dynatrace.com
 0.0.0.0 apps.dev-artifacts.adis.ws
 0.0.0.0 apps.panadvert.com
@@ -840,6 +843,7 @@
 0.0.0.0 autodiscover.tritondigital.com
 0.0.0.0 av.foresee.com
 0.0.0.0 aviasales.ru
+0.0.0.0 awesome.bizible.com
 0.0.0.0 aws-production-banner-server-eu-west-1.banner-server.fyber.com
 0.0.0.0 aws-production-banner-server-us-west-2.banner-server.fyber.com
 0.0.0.0 aws.footprintdns.com
@@ -1043,6 +1047,7 @@
 0.0.0.0 bis.placeyourview.com
 0.0.0.0 bis.shoofle.tv
 0.0.0.0 bit.imprev.net
+0.0.0.0 bizible.com
 0.0.0.0 bkp.emea.mxptint.net
 0.0.0.0 bkp.mxptint.net
 0.0.0.0 bksn.se
@@ -1228,6 +1233,7 @@
 0.0.0.0 cdn.appsflyer.com
 0.0.0.0 cdn.au1.gigya.com
 0.0.0.0 cdn.best-tv.com.c.footprint.net
+0.0.0.0 cdn.bizible.com
 0.0.0.0 cdn.cmp.advertising.com
 0.0.0.0 cdn.conversant.mgr.consensu.org
 0.0.0.0 cdn.dev.paperg.com
@@ -2078,6 +2084,7 @@
 0.0.0.0 data.franklyinc.com
 0.0.0.0 data.livefyre.com
 0.0.0.0 data.m-freeway.com
+0.0.0.0 data.pathful.com
 0.0.0.0 data.qa-ext.livefyre.com
 0.0.0.0 data.sharethis.com
 0.0.0.0 data.t402.livefyre.com
@@ -2366,6 +2373,7 @@
 0.0.0.0 edgeappdev2-dev-ed.lightning.force.com
 0.0.0.0 edgeappdev2-dev-ed.sandbox.force.com
 0.0.0.0 edgeappdev2-dev-ed.secure.force.com
+0.0.0.0 edgecdn.bizible.com
 0.0.0.0 editorial.outbrain.com
 0.0.0.0 education-dev.dynatrace.com
 0.0.0.0 education-vlabs.dynatrace.com
@@ -2376,6 +2384,7 @@
 0.0.0.0 eligibility.wootric.com
 0.0.0.0 elimax.theappgrader.com
 0.0.0.0 em.dynamicyield.com
+0.0.0.0 email.bizible.com
 0.0.0.0 email.livefyre.com
 0.0.0.0 email.placed.com
 0.0.0.0 email.returnpath.com
@@ -2990,6 +2999,7 @@
 0.0.0.0 influxdb2.vungle.com
 0.0.0.0 info.adviserplus.com
 0.0.0.0 info.airpr.com
+0.0.0.0 info.bizible.com
 0.0.0.0 info.datamark.net
 0.0.0.0 info.dynatrace.com
 0.0.0.0 info.engagio.com
@@ -2998,6 +3008,7 @@
 0.0.0.0 info.tapjoy.com
 0.0.0.0 info.tritondigital.com
 0.0.0.0 info.wootric.com
+0.0.0.0 info2.bizible.com
 0.0.0.0 infor.marketolive.com
 0.0.0.0 infrastructure.k8s.tst.returnpath.net
 0.0.0.0 ingest-qa.kube-prod.vungle.com
@@ -3194,6 +3205,7 @@
 0.0.0.0 leads.theappgrader.com
 0.0.0.0 leadvisualdesigner.intercom.io
 0.0.0.0 learn.adjust.com
+0.0.0.0 learn.bizible.com
 0.0.0.0 learn.foresee.com
 0.0.0.0 learn.marketo.com
 0.0.0.0 learn.thirdpresence.com
@@ -4267,6 +4279,7 @@
 0.0.0.0 partners.celebrus.com
 0.0.0.0 partners.marketolive.com
 0.0.0.0 passbook.xtify.com
+0.0.0.0 pathful.com
 0.0.0.0 payroll.aviasales.ru
 0.0.0.0 pc.sharethrough.com
 0.0.0.0 pca.admarketplace.net
@@ -4287,7 +4300,6 @@
 0.0.0.0 personal-account.mobile.beta.aviasales.ru
 0.0.0.0 personal.test.vilynx.com
 0.0.0.0 personal.vilynx.com
-0.0.0.0 pf.intuit.com
 0.0.0.0 pgcollect.com
 0.0.0.0 photos-bazaar-use1.nexus.bazaarvoice.com
 0.0.0.0 photos-us.bazaarvoice.com
@@ -4762,6 +4774,7 @@
 0.0.0.0 rocketadv.com
 0.0.0.0 rocketadx.com
 0.0.0.0 roi.airpr.com
+0.0.0.0 roi.bizible.com
 0.0.0.0 roiq-vice.ranker.com
 0.0.0.0 roktb.adx1.com
 0.0.0.0 rollhands.adroll.com
@@ -4928,6 +4941,7 @@
 0.0.0.0 sec-b2b--c.ap2.visual.force.com
 0.0.0.0 sec-b2b--c.ap6.content.force.com
 0.0.0.0 sec-b2b--c.ap6.visual.force.com
+0.0.0.0 secfld.vmmpxl.com
 0.0.0.0 secimg.vmmpxl.com
 0.0.0.0 secpoc--c.ap2.content.force.com
 0.0.0.0 secpoc--c.ap2.visual.force.com
@@ -5026,6 +5040,7 @@
 0.0.0.0 sessions.aca.bugsnag.appstore.a2z.com
 0.0.0.0 sessions.bugsnag.appstore.a2z.com
 0.0.0.0 settings.crashlytics.com
+0.0.0.0 sf.bizible.com
 0.0.0.0 sfdc.clearbit.com
 0.0.0.0 sfmc-dev.urbanairship.com
 0.0.0.0 sfmc-docker-prod-local.artifactory-qa-p01.exacttarget.com
@@ -5167,9 +5182,11 @@
 0.0.0.0 ssl.adx1.com
 0.0.0.0 ssl.d2.sc.omtrdc.net
 0.0.0.0 ssl.google-analytics.com
+0.0.0.0 ssl.pathful.com
 0.0.0.0 ssl.tmathtag.com
 0.0.0.0 ssl.vungle.com
 0.0.0.0 ssl.xml.adx1.com
+0.0.0.0 ssl2.pathful.com
 0.0.0.0 sslproxy-prod.adobedtm.com
 0.0.0.0 ssltest.adviserplus.com
 0.0.0.0 ssltest.office.imprev.net
@@ -5353,6 +5370,7 @@
 0.0.0.0 support.appsee.com
 0.0.0.0 support.appsflyer.com
 0.0.0.0 support.aviasales.ru
+0.0.0.0 support.bizible.com
 0.0.0.0 support.cb.qa-dest.imprev.net
 0.0.0.0 support.celebrus.com
 0.0.0.0 support.crashlytics.com
@@ -6099,6 +6117,7 @@
 0.0.0.0 www.apmu-vlabs.dynatrace.com
 0.0.0.0 www.apmu.dynatrace.com
 0.0.0.0 www.app.eazybiz.ng
+0.0.0.0 www.app.pathful.com
 0.0.0.0 www.appdemo.eazybiz.ng
 0.0.0.0 www.applicationinsights.microsoft.com
 0.0.0.0 www.apps.adtz.com
@@ -6115,6 +6134,7 @@
 0.0.0.0 www.auth.k8s-prod.fiksu.com
 0.0.0.0 www.authorisation.analyticson.com
 0.0.0.0 www.aviasales.ru
+0.0.0.0 www.awesome.bizible.com
 0.0.0.0 www.backtrace.io
 0.0.0.0 www.banners.analyticson.com
 0.0.0.0 www.beacon.airvertiseme.com
@@ -6127,6 +6147,7 @@
 0.0.0.0 www.beta.narvar.com
 0.0.0.0 www.bidswitch.rdb.adx1.com
 0.0.0.0 www.billboards.marketing365.mk
+0.0.0.0 www.bizible.com
 0.0.0.0 www.blismedia.com
 0.0.0.0 www.blog.adx1.com
 0.0.0.0 www.blog.fyber.com
@@ -6148,6 +6169,7 @@
 0.0.0.0 www.catalog.adx1.com
 0.0.0.0 www.catalogo.intelsad.com
 0.0.0.0 www.cdn.adx1.com
+0.0.0.0 www.cdn.bizible.com
 0.0.0.0 www.cdx.ssacdn.com
 0.0.0.0 www.celebrus.com
 0.0.0.0 www.cert1.franklyinc.com
@@ -6181,6 +6203,7 @@
 0.0.0.0 www.cube.yext.com
 0.0.0.0 www.dad.adx1.com
 0.0.0.0 www.daniel.yodelmobile.com
+0.0.0.0 www.data.pathful.com
 0.0.0.0 www.data.vicedata.com
 0.0.0.0 www.datamark.net
 0.0.0.0 www.davis.dynatrace.com
@@ -6324,6 +6347,7 @@
 0.0.0.0 www.landing.analyticson.com
 0.0.0.0 www.ldaps.taboola.com
 0.0.0.0 www.leadback.netseer.com
+0.0.0.0 www.learn.bizible.com
 0.0.0.0 www.lifestreet.com
 0.0.0.0 www.linz-vpn.dynatrace.com
 0.0.0.0 www.liqwid.mgr.consensu.org
@@ -6397,6 +6421,7 @@
 0.0.0.0 www.parsely.com
 0.0.0.0 www.partners.analyticson.com
 0.0.0.0 www.partners.celebrus.com
+0.0.0.0 www.pathful.com
 0.0.0.0 www.perf.pardot.com
 0.0.0.0 www.perimeterx.net
 0.0.0.0 www.pi.adx1.com
@@ -6501,6 +6526,8 @@
 0.0.0.0 www.sprymetrics.com
 0.0.0.0 www.ssacdn.com
 0.0.0.0 www.ssl.adx1.com
+0.0.0.0 www.ssl.pathful.com
+0.0.0.0 www.ssl2.pathful.com
 0.0.0.0 www.ssp.analyticson.com
 0.0.0.0 www.stage-one.heyzap.com
 0.0.0.0 www.stage-sbma.urbaninsight.com
@@ -6678,8 +6705,8 @@
 
 # Hosts - lightswitch-hosts-extended
 # Source - https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
-# Generated - 19.07.2018
+# Generated - 20.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 6677
+# Total Domains: 6704
 # License: MIT
 

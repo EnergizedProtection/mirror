@@ -4714,6 +4714,7 @@
 0.0.0.0 tracking.plattformad.com
 0.0.0.0 tracking.plinga.de
 0.0.0.0 tracking.porndoelabs.com
+0.0.0.0 tracking.pornhd.com
 0.0.0.0 tracking.practicefusion.com
 0.0.0.0 tracking.quillion.com
 0.0.0.0 tracking.quisma.com
@@ -4800,6 +4801,7 @@
 0.0.0.0 traviilo.com
 0.0.0.0 trbna.com
 0.0.0.0 trbo.com
+0.0.0.0 trck.meinprospekt.de
 0.0.0.0 trck.spoteffects.net
 0.0.0.0 treasuredata.com
 0.0.0.0 tree-pixel-log.s3.amazonaws.com
@@ -5299,8 +5301,8 @@
 
 # Hosts - easyprivacy
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easyprivacy.txt
-# Generated - 19.07.2018
+# Generated - 20.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 5298
+# Total Domains: 5300
 # License: MIT
 

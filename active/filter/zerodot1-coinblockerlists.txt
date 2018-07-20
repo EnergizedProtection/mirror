@@ -7299,7 +7299,7 @@
 
 # Hosts - zerodot1-coinblockerlists
 # Source - https://zerodot1.gitlab.io/CoinBlockerLists/hosts
-# Generated - 19.07.2018
+# Generated - 20.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 7298
 # License: MIT

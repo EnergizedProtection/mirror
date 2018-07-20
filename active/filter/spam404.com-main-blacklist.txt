@@ -3958,7 +3958,7 @@
 
 # Hosts - spam404.com-main-blacklist
 # Source - https://raw.githubusercontent.com/Dawsey21/Lists/master/main-blacklist.txt
-# Generated - 19.07.2018
+# Generated - 20.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 3957
 # License: MIT

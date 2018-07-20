@@ -14403,7 +14403,7 @@
 
 # Hosts - stopforumspam.com
 # Source - https://stopforumspam.com/downloads/toxic_domains_whole.txt
-# Generated - 19.07.2018
+# Generated - 20.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 14402
 # License: MIT

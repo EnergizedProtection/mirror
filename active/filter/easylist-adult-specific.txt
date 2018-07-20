@@ -26,6 +26,7 @@
 0.0.0.0 dyn.tnaflix.com
 0.0.0.0 fritchy.com
 0.0.0.0 lw1.cdmediaworld.com
+0.0.0.0 myashot.txxx.com
 0.0.0.0 newmail.pronpic.org
 0.0.0.0 ox2.pron.tv
 0.0.0.0 ox3.pron.tv
@@ -42,8 +43,8 @@
 
 # Hosts - easylist-adult-specific
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easylist-adult-specific.txt
-# Generated - 19.07.2018
+# Generated - 20.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 41
+# Total Domains: 42
 # License: MIT
 
