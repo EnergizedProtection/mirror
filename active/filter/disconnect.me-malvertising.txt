@@ -1803,7 +1803,6 @@
 0.0.0.0 hzm6.com
 0.0.0.0 i-clicks.net
 0.0.0.0 i-lookup.com
-0.0.0.0 i-mar.com
 0.0.0.0 i.xx.openx.com
 0.0.0.0 i1img.com
 0.0.0.0 i1media.no
@@ -3075,8 +3074,8 @@
 
 # Hosts - disconnect.me-malvertising
 # Source - https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
-# Generated - 20.07.2018
+# Generated - 21.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 3074
+# Total Domains: 3073
 # License: MIT
 

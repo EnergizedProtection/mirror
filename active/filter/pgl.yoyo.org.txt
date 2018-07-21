@@ -2585,7 +2585,7 @@
 
 # Hosts - pgl.yoyo.org
 # Source - https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&mimetype=plaintext
-# Generated - 20.07.2018
+# Generated - 21.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 2584
 # License: MIT

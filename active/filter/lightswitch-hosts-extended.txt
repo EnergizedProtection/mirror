@@ -499,6 +499,7 @@
 0.0.0.0 ana.analyticson.com
 0.0.0.0 analyst-stg-coursera.airpr.com
 0.0.0.0 analyst.airpr.com
+0.0.0.0 analytics-ingress-global.bitmovin.com
 0.0.0.0 analytics-service.us-east-1.prod.public.atl-paas.net
 0.0.0.0 analytics-static.ugc.bazaarvoice.com
 0.0.0.0 analytics.atlassian.com
@@ -1275,8 +1276,11 @@
 0.0.0.0 cdn.us1.gigya.com
 0.0.0.0 cdn.videmob.com
 0.0.0.0 cdn.wootric.com
+0.0.0.0 cdn1-marketplace.vntsm.com
 0.0.0.0 cdn1.aniview.com
 0.0.0.0 cdn1.gigya.com
+0.0.0.0 cdn1.vntsm.com
+0.0.0.0 cdn2-marketplace.vntsm.com
 0.0.0.0 cdn2.gigya.com
 0.0.0.0 cdn2.lfstmedia.com
 0.0.0.0 cdn2.truconversion.com
@@ -1516,6 +1520,7 @@
 0.0.0.0 cookies-prod.onetrust.mgr.consensu.org
 0.0.0.0 cookiesync-mynativeplatform-347915877.us-east-1.elb.amazonaws.com
 0.0.0.0 cooper.logs.roku.com
+0.0.0.0 core.vntsm.com
 0.0.0.0 corp.returnpath.net
 0.0.0.0 corp.sonobi.com
 0.0.0.0 corp.viewbix.com
@@ -2815,10 +2820,12 @@
 0.0.0.0 hardware.metrics.mozilla.com
 0.0.0.0 hasoffers.disqus.com
 0.0.0.0 hb-api.omtrdc.net
+0.0.0.0 hb-config.vntsm.com
 0.0.0.0 hb-fa-1.omtrdc.net
 0.0.0.0 hb-fa-stage.omtrdc.net
 0.0.0.0 hb.adx1.com
 0.0.0.0 hb.omtrdc.net
+0.0.0.0 hb.vntsm.com
 0.0.0.0 hbopenbid.pubmatic.com
 0.0.0.0 hbopenbid88000nf.pubmatic.com
 0.0.0.0 header.mathtag.com
@@ -5312,6 +5319,7 @@
 0.0.0.0 static.yieldmo.com
 0.0.0.0 static2.mopub.com
 0.0.0.0 staticw2.yotpo.com
+0.0.0.0 stats.addsearch.com
 0.0.0.0 stats.gc-apple.com.akadns.net
 0.0.0.0 stats.gc.apple.com
 0.0.0.0 stats.gc.fe.apple-dns.net
@@ -5570,6 +5578,7 @@
 0.0.0.0 track.leadnationmedia.com
 0.0.0.0 track.smaato.net
 0.0.0.0 track.tappx.com
+0.0.0.0 track.venatusmedia.com
 0.0.0.0 track1.aniview.com
 0.0.0.0 tracker-dev.staging.us-east-1.kops.kargo.com
 0.0.0.0 tracker.fyber.com
@@ -5831,6 +5840,7 @@
 0.0.0.0 vmf02.t.force.com
 0.0.0.0 vmf02.visual.t.force.com
 0.0.0.0 vmmpxl.com
+0.0.0.0 vntsm.com
 0.0.0.0 vokate.lo.extole.io
 0.0.0.0 vokate.qa.extole.io
 0.0.0.0 volvo.celebrus.com
@@ -6614,6 +6624,7 @@
 0.0.0.0 www.userbest.com
 0.0.0.0 www.ushqlyncpool.foresee.com
 0.0.0.0 www.vd.escapicon.net
+0.0.0.0 www.venatusmedia.com
 0.0.0.0 www.vendor.savings2phone.siliconorchard.com
 0.0.0.0 www.vicedata.com
 0.0.0.0 www.vidyorouterldn.rubiconproject.com
@@ -6705,8 +6716,8 @@
 
 # Hosts - lightswitch-hosts-extended
 # Source - https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
-# Generated - 20.07.2018
+# Generated - 21.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 6704
+# Total Domains: 6715
 # License: MIT
 

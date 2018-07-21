@@ -67,12 +67,14 @@
 0.0.0.0 a9.video-ak.cdn.spotify.com
 0.0.0.0 abbott.vo.llnwd.net
 0.0.0.0 abnad.net
+0.0.0.0 abnormour.club
 0.0.0.0 abroad-ad.kingsoft-office-service.com
 0.0.0.0 abtest.mistat.intl.xiaomi.com
 0.0.0.0 abtest.mistat.xiaomi.com
 0.0.0.0 abtest.swrve.com
 0.0.0.0 ac3.msn.com
 0.0.0.0 academy-test.addthis.com
+0.0.0.0 accessa.club
 0.0.0.0 acdn.adnxs.com
 0.0.0.0 aclick.adhoc2.net
 0.0.0.0 aclickoooo.host
@@ -608,6 +610,7 @@
 0.0.0.0 brealtime.com
 0.0.0.0 bridgetrack.com
 0.0.0.0 brokerbabe.com
+0.0.0.0 browser-tools.systems
 0.0.0.0 bs.serving-sys.com
 0.0.0.0 bss.pandora.xiaomi.com
 0.0.0.0 btrll.com
@@ -791,6 +794,7 @@
 0.0.0.0 crashlogs.whatsapp.net
 0.0.0.0 crashstats-collector.opera.com
 0.0.0.0 creative-serving.com
+0.0.0.0 creative.speednetwork13.com
 0.0.0.0 creative.speednetwork15.com
 0.0.0.0 creative.wwwpromoter.com
 0.0.0.0 crispadvertising.com
@@ -1004,6 +1008,7 @@
 0.0.0.0 fhr.cdn.mozilla.net
 0.0.0.0 fiksu.com
 0.0.0.0 files.adform.net
+0.0.0.0 filters.adtidy.org
 0.0.0.0 findbestsolution.net
 0.0.0.0 fingahvf.top
 0.0.0.0 firrectly.top
@@ -1090,6 +1095,7 @@
 0.0.0.0 goyetteconnelly.bid
 0.0.0.0 grandonmedia.com
 0.0.0.0 graph.accountkit.com
+0.0.0.0 greatene.com
 0.0.0.0 green-red.com
 0.0.0.0 greystripe.com
 0.0.0.0 grt02.com
@@ -1278,6 +1284,7 @@
 0.0.0.0 leadboltads.net
 0.0.0.0 leadzu.com
 0.0.0.0 leanplum.com
+0.0.0.0 legistrike.pro
 0.0.0.0 lepodownload.mediatek.com
 0.0.0.0 lfstmedia.com
 0.0.0.0 lgse.com
@@ -1345,6 +1352,7 @@
 0.0.0.0 malizing.info
 0.0.0.0 manage.com
 0.0.0.0 manifest.localytics.com
+0.0.0.0 masture.mobi
 0.0.0.0 match.prod.bidr.io
 0.0.0.0 match.rundsp.com
 0.0.0.0 match.taboola.com
@@ -1867,6 +1875,7 @@
 0.0.0.0 sociomantic.com
 0.0.0.0 solocpm.com
 0.0.0.0 sonobi.com
+0.0.0.0 speednetwork13.adk2x.com
 0.0.0.0 speednetwork15.adk2x.com
 0.0.0.0 spiegel-de.spiegel.de
 0.0.0.0 splash.appsgeyser.com
@@ -2075,6 +2084,7 @@
 0.0.0.0 underclick.ru
 0.0.0.0 unicume.com
 0.0.0.0 unpkg.com
+0.0.0.0 unrestern.info
 0.0.0.0 uodoo.com
 0.0.0.0 upalytics.com
 0.0.0.0 upoll.umengcloud.com
@@ -2243,6 +2253,7 @@
 0.0.0.0 xk6n.amgload.net
 0.0.0.0 xk6o.amgload.net
 0.0.0.0 xk9n.amgload.net
+0.0.0.0 xml.junnify.com
 0.0.0.0 xml.opera.com
 0.0.0.0 xml.plaimedia.com
 0.0.0.0 xothere.info
@@ -2292,8 +2303,8 @@
 
 # Hosts - ador-energized
 # Source - https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/EnergizedHosts/EnergizedHosts
-# Generated - 20.07.2018
+# Generated - 21.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 2291
+# Total Domains: 2302
 # License: MIT
 

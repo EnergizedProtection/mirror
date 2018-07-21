@@ -100477,7 +100477,7 @@
 
 # Hosts - squidblacklist-dg-malicious
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/squidblacklist-malicious.txt
-# Generated - 20.07.2018
+# Generated - 21.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 100476
 # License: MIT

@@ -16264,7 +16264,7 @@
 
 # Hosts - adguard-dns
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-dns.txt
-# Generated - 20.07.2018
+# Generated - 21.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 16263
 # License: MIT

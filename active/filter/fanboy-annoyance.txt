@@ -19,6 +19,7 @@
 0.0.0.0 mdsngpush.finanzen.net
 0.0.0.0 newsletter.bdnews24.com
 0.0.0.0 newsletters.vocento.com
+0.0.0.0 privacyportal.fatergroup.com
 0.0.0.0 push.cnnindonesia.com
 0.0.0.0 rodo.agora.pl
 0.0.0.0 share.baidu.com
@@ -30,8 +31,8 @@
 
 # Hosts - fanboy-annoyance
 # Source - https://raw.githubusercontent.com/hectorm/hMirror/master/data/fanboy-annoyance/list.txt
-# Generated - 20.07.2018
+# Generated - 21.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 29
+# Total Domains: 30
 # License: MIT
 

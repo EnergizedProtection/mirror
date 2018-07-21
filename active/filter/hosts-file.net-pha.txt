@@ -11736,7 +11736,7 @@
 
 # Hosts - hosts-file.net-pha
 # Source - https://hosts-file.net/pha.txt
-# Generated - 20.07.2018
+# Generated - 21.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 11735
 # License: MIT

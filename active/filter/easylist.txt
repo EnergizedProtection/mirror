@@ -3201,6 +3201,7 @@
 0.0.0.0 djqercix.com
 0.0.0.0 djr4k68f8n55o.cloudfront.net
 0.0.0.0 djtflbt20bdde.cloudfront.net
+0.0.0.0 djuxmbjauluis.com
 0.0.0.0 djxvususwvso.com
 0.0.0.0 dk4ywix.com
 0.0.0.0 dkf9g61v.date
@@ -5507,6 +5508,7 @@
 0.0.0.0 lbytagcqxefsn.com
 0.0.0.0 lcl2adserver.com
 0.0.0.0 lcpqoewrzuxh.com
+0.0.0.0 lcrdolxjoxxlr.com
 0.0.0.0 lcuprkufusba.com
 0.0.0.0 lcyncwbacrgz.com
 0.0.0.0 ld82ydd.com
@@ -5895,6 +5897,7 @@
 0.0.0.0 meadigital.com
 0.0.0.0 measurementaz.com
 0.0.0.0 meccahoo.com
+0.0.0.0 mecsjjkomehyv.com
 0.0.0.0 media-app.com
 0.0.0.0 media-click.ru
 0.0.0.0 media-delivery.armorgames.com
@@ -6556,6 +6559,7 @@
 0.0.0.0 nymphdate.com
 0.0.0.0 nyutkikha.info
 0.0.0.0 nyzncfurdrdxfi.com
+0.0.0.0 nyzobnpbcwjwfs.com
 0.0.0.0 nzbtvquutdr.com
 0.0.0.0 nzphoenix.com
 0.0.0.0 nzvbcznobb.com
@@ -6997,6 +7001,7 @@
 0.0.0.0 pezrphjl.com
 0.0.0.0 pfibgoaqdzbp.com
 0.0.0.0 pfjwtzlfaivp.com
+0.0.0.0 pfltlwftndq.com
 0.0.0.0 pfvgazngauezhk.com
 0.0.0.0 pgkdyhdhul.com
 0.0.0.0 pgmediaserve.com
@@ -7712,6 +7717,7 @@
 0.0.0.0 rdiul.com
 0.0.0.0 rdkdexupxcfs.com
 0.0.0.0 rdlynbosndvx.com
+0.0.0.0 rdpqiqlirf.com
 0.0.0.0 rdqyasdstllr.com
 0.0.0.0 rdrtrk.com
 0.0.0.0 rdsrv.com
@@ -8867,6 +8873,7 @@
 0.0.0.0 totvsaexihbe.com
 0.0.0.0 touayfftdwcd.com
 0.0.0.0 tour.mrskin.com
+0.0.0.0 touraadhdnfgsa.com
 0.0.0.0 tours.imlive.com
 0.0.0.0 tovkhtekzrlu.com
 0.0.0.0 tower-colocation.de
@@ -9982,6 +9989,7 @@
 0.0.0.0 xxxvipporno.com
 0.0.0.0 xxxwebtraffic.com
 0.0.0.0 xycpjxkkkim.com
+0.0.0.0 xydubrrvpthmat.com
 0.0.0.0 xyfrnfoijncmu.com
 0.0.0.0 xygzlbizru.com
 0.0.0.0 xymuhrhbvl.com
@@ -10371,8 +10379,8 @@
 
 # Hosts - easylist
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easylist.txt
-# Generated - 20.07.2018
+# Generated - 21.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 10370
+# Total Domains: 10378
 # License: MIT
 

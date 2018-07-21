@@ -3489,6 +3489,7 @@
 0.0.0.0 redeye.williamhill.com
 0.0.0.0 redir.widdit.com
 0.0.0.0 redistats.com
+0.0.0.0 redretarget.com
 0.0.0.0 redstatcounter.com
 0.0.0.0 reedbusiness.net
 0.0.0.0 reedge.com
@@ -5301,8 +5302,8 @@
 
 # Hosts - easyprivacy
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easyprivacy.txt
-# Generated - 20.07.2018
+# Generated - 21.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 5300
+# Total Domains: 5301
 # License: MIT
 

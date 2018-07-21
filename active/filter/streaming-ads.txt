@@ -51,7 +51,7 @@
 
 # Hosts - streaming-ads
 # Source - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/StreamingAds/hosts
-# Generated - 20.07.2018
+# Generated - 21.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 50
 # License: MIT

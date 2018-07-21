@@ -1067,7 +1067,7 @@
 
 # Hosts - hosts-file.net-exp
 # Source - https://hosts-file.net/exp.txt
-# Generated - 20.07.2018
+# Generated - 21.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 1066
 # License: MIT
