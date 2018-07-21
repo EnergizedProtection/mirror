@@ -1,7 +1,7 @@
 # easylist-adserver Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt
-# Last Converted - Fri, 20 Jul 2018 16:23:44 -0400
+# Last Converted - Sat, 21 Jul 2018 02:16:42 -0400
 # Energized - ad.porn.malware blocking.
 
 0.0.0.0 007-gateway.com
@@ -6992,6 +6992,7 @@
 0.0.0.0 djqercix.com
 0.0.0.0 djrkauxla.bid
 0.0.0.0 djtclldgsocbv.bid
+0.0.0.0 djuxmbjauluis.com
 0.0.0.0 djxvususwvso.com
 0.0.0.0 djzmpsingsrtfsnbnkphyagxdemeagsiabguuqbiqvpupamgej.com
 0.0.0.0 dkadbasc.bid
@@ -9127,6 +9128,7 @@
 0.0.0.0 lcmwchhybzik.bid
 0.0.0.0 lcnvxuipvq.bid
 0.0.0.0 lcpqoewrzuxh.com
+0.0.0.0 lcrdolxjoxxlr.com
 0.0.0.0 lctpaemybjkv.com
 0.0.0.0 lcuprkufusba.com
 0.0.0.0 lcxrhcqouqtw.com
@@ -9427,6 +9429,7 @@
 0.0.0.0 mdvrxmzofurvkm.com
 0.0.0.0 meagjivconqt.com
 0.0.0.0 mecounxmawn.bid
+0.0.0.0 mecsjjkomehyv.com
 0.0.0.0 medyagundem.com
 0.0.0.0 meeaowsxneps.com
 0.0.0.0 megpacokjce.bid
@@ -9928,6 +9931,7 @@
 0.0.0.0 nyrszeos.bid
 0.0.0.0 nyvdouydkxmaws.bid
 0.0.0.0 nyzncfurdrdxfi.com
+0.0.0.0 nyzobnpbcwjwfs.com
 0.0.0.0 nzbtvquutdr.com
 0.0.0.0 nzcpdaboaayv.com
 0.0.0.0 nzssjqjv.bid
@@ -10259,6 +10263,7 @@
 0.0.0.0 pfhgihce.bid
 0.0.0.0 pfibgoaqdzbp.com
 0.0.0.0 pfjwtzlfaivp.com
+0.0.0.0 pfltlwftndq.com
 0.0.0.0 pfvgazngauezhk.com
 0.0.0.0 pgkdyhdhul.com
 0.0.0.0 pgubdmshfz.bid
@@ -10789,6 +10794,7 @@
 0.0.0.0 rdkdexupxcfs.com
 0.0.0.0 rdlynbosndvx.com
 0.0.0.0 rdmccvanlx.bid
+0.0.0.0 rdpqiqlirf.com
 0.0.0.0 rdqyasdstllr.com
 0.0.0.0 rdvrxbxwxspxd.com
 0.0.0.0 rdwfotuyp.bid
@@ -11451,6 +11457,7 @@
 0.0.0.0 togfcqfvarpq.com
 0.0.0.0 totvsaexihbe.com
 0.0.0.0 touayfftdwcd.com
+0.0.0.0 touraadhdnfgsa.com
 0.0.0.0 tovkhtekzrlu.com
 0.0.0.0 toyhxqjgqcjo.com
 0.0.0.0 tpdowdhhn.com
@@ -12640,6 +12647,7 @@
 0.0.0.0 xxzkqbdibdgq.com
 0.0.0.0 xycbrnotvcat.com
 0.0.0.0 xycpjxkkkim.com
+0.0.0.0 xydubrrvpthmat.com
 0.0.0.0 xyfrnfoijncmu.com
 0.0.0.0 xygzlbizru.com
 0.0.0.0 xyiawbjnajcm.bid

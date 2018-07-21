@@ -1,7 +1,7 @@
 # ck-android Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/Android/CK%27s-Android-FilterList.txt
-# Last Converted - Fri, 20 Jul 2018 16:23:49 -0400
+# Last Converted - Sat, 21 Jul 2018 02:16:46 -0400
 # Energized - ad.porn.malware blocking.
 
 0.0.0.0 advs.tatecheck.sytes.net

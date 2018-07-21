@@ -1,7 +1,7 @@
 # easyprivacy Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - https://easylist.to/easylist/easyprivacy.txt
-# Last Converted - Fri, 20 Jul 2018 16:23:43 -0400
+# Last Converted - Sat, 21 Jul 2018 02:16:41 -0400
 # Energized - ad.porn.malware blocking.
 
 0.0.0.0 -geoIP.js
@@ -2964,6 +2964,7 @@
 0.0.0.0 ranking-links.de
 0.0.0.0 rankings24.de
 0.0.0.0 ranklink.de
+0.0.0.0 redretarget.com
 0.0.0.0 refinedads.com
 0.0.0.0 research.de.com
 0.0.0.0 reshin.de
