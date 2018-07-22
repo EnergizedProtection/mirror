@@ -1,7 +1,7 @@
 # easyprivacy Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - https://easylist.to/easylist/easyprivacy.txt
-# Last Converted - Sat, 21 Jul 2018 02:16:41 -0400
+# Last Converted - Sun, 22 Jul 2018 10:49:41 -0400
 # Energized - ad.porn.malware blocking.
 
 0.0.0.0 -geoIP.js
@@ -134,6 +134,7 @@
 0.0.0.0 adsensedetective.com
 0.0.0.0 adservicemedia.dk
 0.0.0.0 adspsp.com
+0.0.0.0 adsrvx.com
 0.0.0.0 adswizz.com
 0.0.0.0 adsymptotic.com
 0.0.0.0 adtarget.me
@@ -919,6 +920,7 @@
 0.0.0.0 gweini.com
 0.0.0.0 h4k5.com
 0.0.0.0 halldata.com
+0.0.0.0 halo77.com
 0.0.0.0 halstats.com
 0.0.0.0 haraju.co
 0.0.0.0 haveamint.com
@@ -1880,6 +1882,7 @@
 0.0.0.0 stadsvc.com
 0.0.0.0 star-cntr-5.com
 0.0.0.0 startstat.ru
+0.0.0.0 stat.social
 0.0.0.0 stat08.com
 0.0.0.0 stat24.com
 0.0.0.0 statcount.com
@@ -2387,6 +2390,7 @@
 0.0.0.0 bablace.com
 0.0.0.0 baiduccdn1.com
 0.0.0.0 befirstcdn.com
+0.0.0.0 belicimo.pw
 0.0.0.0 berateveng.ru
 0.0.0.0 berserkpl.net.pl
 0.0.0.0 bestcoinsignals.com
@@ -2409,6 +2413,7 @@
 0.0.0.0 byebye.ml
 0.0.0.0 c0i8h8ac7e.bid
 0.0.0.0 candid.zone
+0.0.0.0 cc.gofile.io
 0.0.0.0 cdn-jquery.host
 0.0.0.0 cdnfile.xyz
 0.0.0.0 cfcdist.gdn
@@ -2484,6 +2489,7 @@
 0.0.0.0 fge9vbrzwt.bid
 0.0.0.0 flare-analytics.com
 0.0.0.0 flophous.cf
+0.0.0.0 flowplayer.space
 0.0.0.0 freecontent.bid
 0.0.0.0 freecontent.loan
 0.0.0.0 freecontent.racing
@@ -2491,10 +2497,12 @@
 0.0.0.0 freshrefresher.com
 0.0.0.0 g-content.bid
 0.0.0.0 gasolina.ml
+0.0.0.0 gay-hotvideo.net
 0.0.0.0 giml.ml
 0.0.0.0 googleanalytcs.com
 0.0.0.0 goredirect.party
 0.0.0.0 graftpool.ovh
+0.0.0.0 gramombird.com
 0.0.0.0 greengaming.de
 0.0.0.0 gridiogrid.com
 0.0.0.0 gus.host
@@ -2523,6 +2531,7 @@
 0.0.0.0 ininmacerad.pro
 0.0.0.0 insdrbot.com
 0.0.0.0 intactoffers.club
+0.0.0.0 intellecthosting.net
 0.0.0.0 interestingz.pw
 0.0.0.0 investhash.com
 0.0.0.0 jqassets.download
@@ -2594,6 +2603,7 @@
 0.0.0.0 mycryrpto.com
 0.0.0.0 myerypto.com
 0.0.0.0 myrcrypto.com
+0.0.0.0 mytestminer.xyz
 0.0.0.0 nablabee.com
 0.0.0.0 nahnoji.cz
 0.0.0.0 nathetsof.com
@@ -2615,6 +2625,7 @@
 0.0.0.0 p2poolmining.net
 0.0.0.0 papoto.com
 0.0.0.0 pearno.com
+0.0.0.0 play.mix.kinostuff.com
 0.0.0.0 playerassets.info
 0.0.0.0 podrltid.info
 0.0.0.0 pool.etn.spacepools.org
@@ -2645,6 +2656,7 @@
 0.0.0.0 siteverification.site
 0.0.0.0 skencituer.com
 0.0.0.0 smectapop12.pl
+0.0.0.0 sourcecode.pro
 0.0.0.0 spacepools.org
 0.0.0.0 sparechange.io
 0.0.0.0 sparnove.com
@@ -2655,8 +2667,10 @@
 0.0.0.0 sumokoin.com
 0.0.0.0 supportxmr.com
 0.0.0.0 synconnector.com
+0.0.0.0 tainiesonline.pw
 0.0.0.0 terethat.ru
 0.0.0.0 thatresha.com
+0.0.0.0 thersprens.com
 0.0.0.0 tokyodrift.ga
 0.0.0.0 traviilo.com
 0.0.0.0 tulip18.com
@@ -2691,6 +2705,7 @@
 0.0.0.0 xmr.cool
 0.0.0.0 xmrpool.net
 0.0.0.0 xvideosharing.site
+0.0.0.0 yololike.space
 0.0.0.0 yuebofa.cc
 0.0.0.0 ywtjdckysve.com
 0.0.0.0 zlx.com.br
@@ -4638,6 +4653,7 @@
 0.0.0.0 geo.xcel.io
 0.0.0.0 gocp.stroeermediabrands.de
 0.0.0.0 hbx.df-srv.de
+0.0.0.0 idt.id-news.net
 0.0.0.0 im.aol.de
 0.0.0.0 info.elba.at
 0.0.0.0 insights.blogfoster.com
@@ -4702,6 +4718,7 @@
 0.0.0.0 tracking.sim-technik.de
 0.0.0.0 tracking.srv2.de
 0.0.0.0 traffic.brand-wall.net
+0.0.0.0 trck.bdi-services.de
 0.0.0.0 trck.spoteffects.net
 0.0.0.0 urtracker.q-sis.de
 0.0.0.0 vtrtl.de
@@ -5103,6 +5120,7 @@
 0.0.0.0 c.ipaddress.com
 0.0.0.0 c.microsoft.com
 0.0.0.0 c.newsinc.com
+0.0.0.0 c.wort-suche.com
 0.0.0.0 c.x.oanda.com
 0.0.0.0 cbs.wondershare.com
 0.0.0.0 cd.musicmass.com
@@ -5374,6 +5392,7 @@
 0.0.0.0 pclick.internal.yahoo.com
 0.0.0.0 pclick.yahoo.com
 0.0.0.0 performances.bestofmedia.com
+0.0.0.0 pf.newegg.com
 0.0.0.0 pi.feedsportal.com
 0.0.0.0 pictures.zooplus.com
 0.0.0.0 ping.buto.tv

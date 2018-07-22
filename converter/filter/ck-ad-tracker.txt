@@ -1,7 +1,7 @@
 # ck-ad-tracker Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/Ad%20%26%20Tracker/CK%27s-Ad%20%26%20Tracker-FilterList.txt
-# Last Converted - Sat, 21 Jul 2018 02:16:45 -0400
+# Last Converted - Sun, 22 Jul 2018 10:49:46 -0400
 # Energized - ad.porn.malware blocking.
 
 0.0.0.0 eboundservices.com

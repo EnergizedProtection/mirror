@@ -1,7 +1,7 @@
 # squidblacklist-ads Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - http://www.squidblacklist.org/downloads/dg-ads.acl
-# Last Converted - Sat, 21 Jul 2018 02:16:47 -0400
+# Last Converted - Sun, 22 Jul 2018 10:49:48 -0400
 # Energized - ad.porn.malware blocking.
 
 0.0.0.0 0icep80f.com
@@ -110,6 +110,7 @@
 0.0.0.0 ad0.bigmir.net
 0.0.0.0 ad.100.tbn.ru
 0.0.0.0 ad120m.com
+0.0.0.0 ad123m.com
 0.0.0.0 ad128m.com
 0.0.0.0 ad1.emule-project.org
 0.0.0.0 ad1.kde.cz
@@ -994,6 +995,7 @@
 0.0.0.0 ads.skeettools.com
 0.0.0.0 ads.slim.com
 0.0.0.0 ads.snapchat.com
+0.0.0.0 ads.sofcom.com.au
 0.0.0.0 ads.soft32.com
 0.0.0.0 ads.space.com
 0.0.0.0 ads.sparkflow.net
@@ -1718,6 +1720,7 @@
 0.0.0.0 cashengines.com
 0.0.0.0 cashfiesta.com
 0.0.0.0 cashlayer.com
+0.0.0.0 cashmylinks.com
 0.0.0.0 cashtrafic.info
 0.0.0.0 casinogames.com
 0.0.0.0 casinorewards.com
@@ -1996,6 +1999,7 @@
 0.0.0.0 deximedia.com
 0.0.0.0 dexplatform.com
 0.0.0.0 dgmatix.com
+0.0.0.0 dgmaustralia.com
 0.0.0.0 dgmaxinteractive.com
 0.0.0.0 dh.serving-sys.com
 0.0.0.0 dhundora.com
@@ -2310,6 +2314,7 @@
 0.0.0.0 gmads.net
 0.0.0.0 go2jump.org
 0.0.0.0 goadservices.com
+0.0.0.0 goember.com
 0.0.0.0 gogoplexer.com
 0.0.0.0 gogvo.com
 0.0.0.0 goldspotmedia.com
@@ -2633,6 +2638,7 @@
 0.0.0.0 kt-g.de
 0.0.0.0 ktu.sv2.biz
 0.0.0.0 kumpulblogger.com
+0.0.0.0 kzkjewg7.stream
 0.0.0.0 l3op.info
 0.0.0.0 ladbrokesaffiliates.com.au
 0.0.0.0 laim.tv
@@ -2959,6 +2965,7 @@
 0.0.0.0 nagrande.com
 0.0.0.0 naiadsystems.com
 0.0.0.0 naj.sk
+0.0.0.0 namimedia.com
 0.0.0.0 nastydollars.com
 0.0.0.0 nativeads.com
 0.0.0.0 native-adserver.com
@@ -4241,6 +4248,7 @@
 0.0.0.0 tubberlo.com
 0.0.0.0 tubedspots.com
 0.0.0.0 tubemogul.com
+0.0.0.0 tubereplay.com
 0.0.0.0 turboadv.com
 0.0.0.0 turbotraff.net
 0.0.0.0 turn.com
@@ -4266,6 +4274,7 @@
 0.0.0.0 ujieva.com
 0.0.0.0 uk.adserver.yahoo.com
 0.0.0.0 ukbanners.com
+0.0.0.0 ultimategracelessness.info
 0.0.0.0 unanimis.co.uk
 0.0.0.0 underclick.ru
 0.0.0.0 undertone.com
@@ -4460,6 +4469,7 @@
 0.0.0.0 wtlive.com
 0.0.0.0 wwbn.com
 0.0.0.0 wwv4ez0n.com
+0.0.0.0 www1.gto-media.com
 0.0.0.0 www8.glam.com
 0.0.0.0 wwwadcntr.com
 0.0.0.0 www-banner.chat.ru
@@ -4481,6 +4491,7 @@
 0.0.0.0 xplusone.com
 0.0.0.0 xrea.com
 0.0.0.0 x.shopsavvy.com
+0.0.0.0 xtendadvert.com
 0.0.0.0 x-traceur.com
 0.0.0.0 xtremetop100.com
 0.0.0.0 xubob.com

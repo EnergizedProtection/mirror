@@ -1,9 +1,16 @@
 # cybercrime Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - https://v.firebog.net/hosts/Cybercrime.txt
-# Last Converted - Sat, 21 Jul 2018 02:16:50 -0400
+# Last Converted - Sun, 22 Jul 2018 10:49:50 -0400
 # Energized - ad.porn.malware blocking.
 
+0.0.0.0 ortaksistem.com
+0.0.0.0 theonlygoodman.com
+0.0.0.0 astoundingpainting.com
+0.0.0.0 newskyinternational.com
+0.0.0.0 newskyspaces.us
+0.0.0.0 cofancio.com
+0.0.0.0 reveszn.ru
 0.0.0.0 bosch-pharmia.com
 0.0.0.0 adirektiva.com
 0.0.0.0 www.jjken.be
@@ -114,7 +121,6 @@
 0.0.0.0 bravest.navelr.com
 0.0.0.0 askchyariwaraph.pw
 0.0.0.0 tradelinks.ml
-0.0.0.0 theonlygoodman.com
 0.0.0.0 severetype.com
 0.0.0.0 gidynamictiling.com.au
 0.0.0.0 labibread.info

@@ -1,7 +1,7 @@
 # porn-top1m Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - https://raw.githubusercontent.com/chadmayfield/pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list
-# Last Converted - Sat, 21 Jul 2018 02:16:49 -0400
+# Last Converted - Sun, 22 Jul 2018 10:49:50 -0400
 # Energized - ad.porn.malware blocking.
 
 0.0.0.0 pornhub.com
