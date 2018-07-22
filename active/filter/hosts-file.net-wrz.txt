@@ -704,6 +704,7 @@
 0.0.0.0 primewire.ag
 0.0.0.0 pro-evolution.org
 0.0.0.0 procracks.net
+0.0.0.0 procracksoft.com
 0.0.0.0 profullcrack.com
 0.0.0.0 profullversion.com
 0.0.0.0 propernoun.net
@@ -1643,6 +1644,7 @@
 0.0.0.0 www.primewire.ag
 0.0.0.0 www.pro-evolution.org
 0.0.0.0 www.procracks.net
+0.0.0.0 www.procracksoft.com
 0.0.0.0 www.profullcrack.com
 0.0.0.0 www.profullversion.com
 0.0.0.0 www.progmetalzone.com
@@ -2037,8 +2039,8 @@
 
 # Hosts - hosts-file.net-wrz
 # Source - https://hosts-file.net/wrz.txt
-# Generated - 21.07.2018
+# Generated - 22.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 2036
+# Total Domains: 2038
 # License: MIT
 

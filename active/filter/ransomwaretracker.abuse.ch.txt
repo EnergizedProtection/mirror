@@ -225,7 +225,7 @@
 
 # Hosts - ransomwaretracker.abuse.ch
 # Source - https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt
-# Generated - 21.07.2018
+# Generated - 22.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 224
 # License: MIT

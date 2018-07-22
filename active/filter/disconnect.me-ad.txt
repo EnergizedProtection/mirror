@@ -2521,7 +2521,7 @@
 
 # Hosts - disconnect.me-ad
 # Source - https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Generated - 21.07.2018
+# Generated - 22.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 2520
 # License: MIT

@@ -724,6 +724,7 @@
 0.0.0.0 chimpstatic.com
 0.0.0.0 chitika.net
 0.0.0.0 choice.microsoft.com
+0.0.0.0 chuchutrack.com
 0.0.0.0 chuknu.sokrati.com
 0.0.0.0 cl.untildogtop.com
 0.0.0.0 click-it-now.online
@@ -1228,6 +1229,7 @@
 0.0.0.0 ioph0.com
 0.0.0.0 ios.bugly.qq.com
 0.0.0.0 ipify.org
+0.0.0.0 istric.com
 0.0.0.0 itocd.net
 0.0.0.0 iz682noju02ye5.com
 0.0.0.0 jackettrain.com
@@ -1260,6 +1262,7 @@
 0.0.0.0 k5market.com
 0.0.0.0 kavanga.ru
 0.0.0.0 keydot.net
+0.0.0.0 kiderence-habilton.com
 0.0.0.0 kinesis.us-east-1amazonaws.com
 0.0.0.0 kiosked.com
 0.0.0.0 kjos.vo.llnwd.net
@@ -1493,6 +1496,7 @@
 0.0.0.0 na.gmtdmp.com
 0.0.0.0 nanigans.com
 0.0.0.0 native.cli.bz
+0.0.0.0 native.propellerads.com
 0.0.0.0 nativead.s3.amazonaws.com
 0.0.0.0 nativesdks.mparticle.com
 0.0.0.0 nativex.com
@@ -1875,6 +1879,7 @@
 0.0.0.0 sociomantic.com
 0.0.0.0 solocpm.com
 0.0.0.0 sonobi.com
+0.0.0.0 special-offers.online
 0.0.0.0 speednetwork13.adk2x.com
 0.0.0.0 speednetwork15.adk2x.com
 0.0.0.0 spiegel-de.spiegel.de
@@ -2023,6 +2028,7 @@
 0.0.0.0 track.cpatool.net
 0.0.0.0 track.eyeviewads.com
 0.0.0.0 track.pingstart.com
+0.0.0.0 track.special-offers.online
 0.0.0.0 track.tenjin.io
 0.0.0.0 track.uc.cn
 0.0.0.0 track.venatusmedia.com
@@ -2076,6 +2082,7 @@
 0.0.0.0 udm.scorecardresearch.com
 0.0.0.0 ufz.doesxyz.com
 0.0.0.0 ugcdata.vmate.in
+0.0.0.0 uhughed.club
 0.0.0.0 ui.skype.akadns.net
 0.0.0.0 ui.skype.com
 0.0.0.0 ultraadserver.com
@@ -2157,6 +2164,7 @@
 0.0.0.0 weblb-wg.gslb.spotify.com
 0.0.0.0 weboohost.com
 0.0.0.0 webview.unityads.unity3d.com
+0.0.0.0 wertiflow.com
 0.0.0.0 wes.df.telemetry.microsoft.com
 0.0.0.0 west.bidtellect.com
 0.0.0.0 wf.taboola.com
@@ -2207,12 +2215,14 @@
 0.0.0.0 www.interia.pl
 0.0.0.0 www.ivwbox.de
 0.0.0.0 www.junbi-tracker.com
+0.0.0.0 www.kjltrjvjfran.com
 0.0.0.0 www.kmspico.info
 0.0.0.0 www.leanplum.com
 0.0.0.0 www.liveinternet.ru
 0.0.0.0 www.mb102.com
 0.0.0.0 www.mb103.com
 0.0.0.0 www.mhthemes.com
+0.0.0.0 www.mobilecontents.mobi
 0.0.0.0 www.mozilla.org
 0.0.0.0 www.myfastappz.com
 0.0.0.0 www.nextlnk1.com
@@ -2303,8 +2313,8 @@
 
 # Hosts - ador-energized
 # Source - https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/EnergizedHosts/EnergizedHosts
-# Generated - 21.07.2018
+# Generated - 22.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 2302
+# Total Domains: 2312
 # License: MIT
 

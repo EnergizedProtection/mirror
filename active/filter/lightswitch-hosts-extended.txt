@@ -6716,7 +6716,7 @@
 
 # Hosts - lightswitch-hosts-extended
 # Source - https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
-# Generated - 21.07.2018
+# Generated - 22.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 6715
 # License: MIT

@@ -74,7 +74,7 @@
 
 # Hosts - fademind-add.spam
 # Source - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
-# Generated - 21.07.2018
+# Generated - 22.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 73
 # License: MIT

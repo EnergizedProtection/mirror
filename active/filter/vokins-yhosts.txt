@@ -1228,6 +1228,7 @@
 0.0.0.0 c.queene.cn
 0.0.0.0 c.rexuebi.com
 0.0.0.0 c.rmetop.com
+0.0.0.0 c.rscxwmj.cn
 0.0.0.0 c.shunlige.com
 0.0.0.0 c.silvinst.com
 0.0.0.0 c.sss1989.com
@@ -1420,6 +1421,7 @@
 0.0.0.0 cip6.czpush.com
 0.0.0.0 cj.1o26.com
 0.0.0.0 cj.qidian.com
+0.0.0.0 cjhd.mediav.com
 0.0.0.0 cjroq.bealge.sogou.com
 0.0.0.0 ck.1o26.com
 0.0.0.0 ck.houyi.baofeng.net
@@ -1559,6 +1561,7 @@
 0.0.0.0 code.kejet.com
 0.0.0.0 code.laojiayoufang.com
 0.0.0.0 code.ttpaper.com
+0.0.0.0 code.wantaico.com
 0.0.0.0 code11.onetad.com
 0.0.0.0 code12.onetad.com
 0.0.0.0 code1f.m.shushu8.com
@@ -2092,6 +2095,7 @@
 0.0.0.0 e.iierq.com
 0.0.0.0 e.ishowms.com
 0.0.0.0 e.jgkto.com
+0.0.0.0 e.jiaas.com
 0.0.0.0 e.jiirz.com
 0.0.0.0 e.jlkja.com
 0.0.0.0 e.jltdbyq.com
@@ -2138,6 +2142,7 @@
 0.0.0.0 e.qingzhencai.net
 0.0.0.0 e.qiyunmuye.com
 0.0.0.0 e.qq.com
+0.0.0.0 e.qsove.com
 0.0.0.0 e.qvxyz.com
 0.0.0.0 e.qxfly.com
 0.0.0.0 e.resmv.com
@@ -2186,6 +2191,7 @@
 0.0.0.0 e.zhuyuanp.club
 0.0.0.0 e.zhuyuanp.shop
 0.0.0.0 e.zhuyuanp.top
+0.0.0.0 e.zjkdaikuan.com
 0.0.0.0 e.zunss.com
 0.0.0.0 e4.6dad.com
 0.0.0.0 e7free.allyes.com
@@ -2463,6 +2469,7 @@
 0.0.0.0 go.onclasrv.com
 0.0.0.0 go.util.zlibs.com
 0.0.0.0 godloveme.cn
+0.0.0.0 gog9.qzdfc.com
 0.0.0.0 good.ta80.com
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 gorgon.youdao.com
@@ -2532,6 +2539,7 @@
 0.0.0.0 heimo.rrsdl.com
 0.0.0.0 help.baotangwang.cn
 0.0.0.0 help.cnzz.com
+0.0.0.0 help.yunaq.com
 0.0.0.0 hhqda.pop.t5yx.cn
 0.0.0.0 hidden-master.linezing.com
 0.0.0.0 hipersushiads.com
@@ -2811,6 +2819,7 @@
 0.0.0.0 impservice.youdao.com
 0.0.0.0 impservice2.youdao.com
 0.0.0.0 in.jghcy.com
+0.0.0.0 in.mengpr.com
 0.0.0.0 in.mgwcn.com
 0.0.0.0 in.qzkxt.com
 0.0.0.0 in1.feed.uu.cc
@@ -3025,6 +3034,7 @@
 0.0.0.0 js123.0937jyg.com
 0.0.0.0 js1516.0937jyg.com
 0.0.0.0 js1517.0937jyg.com
+0.0.0.0 js205.dupinpu.com
 0.0.0.0 js2254.hfxcsl.cn
 0.0.0.0 js2553.xjzyq.com
 0.0.0.0 js257.0937jyg.com
@@ -3246,6 +3256,7 @@
 0.0.0.0 logs.cnfol.com
 0.0.0.0 logs.newapi.com
 0.0.0.0 logstat.caixin.com
+0.0.0.0 lol.pnhfc.com
 0.0.0.0 loldy.jiangmg.com
 0.0.0.0 lottery.kuaiya.cn
 0.0.0.0 love.66san.com
@@ -3356,9 +3367,11 @@
 0.0.0.0 m.fzyda.com
 0.0.0.0 m.game.weibo.cn
 0.0.0.0 m.gameyun907.net
+0.0.0.0 m.ganrs.com
 0.0.0.0 m.gglay.com
 0.0.0.0 m.gtiou.com
 0.0.0.0 m.gtnde.com
+0.0.0.0 m.guaas.com
 0.0.0.0 m.guanren11.com
 0.0.0.0 m.guanren5.com
 0.0.0.0 m.guanren6.com
@@ -3663,6 +3676,7 @@
 0.0.0.0 miui.hftaili.com
 0.0.0.0 mix.adsame.com
 0.0.0.0 mixer.cupid.ptqy.gitv.tv
+0.0.0.0 mj70.cn
 0.0.0.0 mlb.did.ijinshan.com
 0.0.0.0 mlog.aipai.com
 0.0.0.0 mlog.hiido.com
@@ -4380,6 +4394,7 @@
 0.0.0.0 s.alitui.weibo.com
 0.0.0.0 s.amazon-adsystem.com
 0.0.0.0 s.appjiagu.com
+0.0.0.0 s.bmgan.com
 0.0.0.0 s.caduka.cn
 0.0.0.0 s.cdn.u17t.com
 0.0.0.0 s.cdxyb.cn
@@ -4392,6 +4407,7 @@
 0.0.0.0 s.de123.net
 0.0.0.0 s.domob.cn
 0.0.0.0 s.doyo.cn
+0.0.0.0 s.dsjcfw.com
 0.0.0.0 s.effectivemeasure.net
 0.0.0.0 s.ekeide.com
 0.0.0.0 s.emarbox.com
@@ -4787,7 +4803,6 @@
 0.0.0.0 sg-cdn.effectivemeasure.net
 0.0.0.0 sgg.southcn.com
 0.0.0.0 sgvip.chinahdcm.com
-0.0.0.0 sh.qihoo.com
 0.0.0.0 sh.shuqw.com
 0.0.0.0 sha50.com
 0.0.0.0 shadu.baidu.com
@@ -4803,6 +4818,7 @@
 0.0.0.0 show-g.mediav.com
 0.0.0.0 show-m.mediav.com
 0.0.0.0 show-s.mediav.com
+0.0.0.0 show.3.mediav.com
 0.0.0.0 show.g.mediav.com
 0.0.0.0 show.m.mediav.com
 0.0.0.0 show.mediav.com
@@ -5381,6 +5397,7 @@
 0.0.0.0 u.1133.cc
 0.0.0.0 u.123hala.com
 0.0.0.0 u.3393.com
+0.0.0.0 u.api.look.360.cn
 0.0.0.0 u.diannaodian.com
 0.0.0.0 u.huoying666.com
 0.0.0.0 u.jimdo.com
@@ -5489,6 +5506,7 @@
 0.0.0.0 util.nphoto.net
 0.0.0.0 utop.umengcloud.com
 0.0.0.0 utrack.hexun.com
+0.0.0.0 uu.85655095.com
 0.0.0.0 uuidapi.yunos.com
 0.0.0.0 uuidksinc.net
 0.0.0.0 uun.1uandun.com
@@ -5820,6 +5838,7 @@
 0.0.0.0 www.588yw.com
 0.0.0.0 www.600ad.com
 0.0.0.0 www.649558.com
+0.0.0.0 www.64si.com
 0.0.0.0 www.6615338.cn
 0.0.0.0 www.6666349.com
 0.0.0.0 www.66992949.com
@@ -5966,6 +5985,7 @@
 0.0.0.0 www.himandy.com
 0.0.0.0 www.hitslink.com
 0.0.0.0 www.hldwmly.com
+0.0.0.0 www.hndiyikj.com
 0.0.0.0 www.hot-mob.com
 0.0.0.0 www.hotrank.com.tw
 0.0.0.0 www.hunpingou.com
@@ -6207,6 +6227,7 @@
 0.0.0.0 wxwm1.ikuailian.com
 0.0.0.0 wxwm2.ikuailian.com
 0.0.0.0 wy.ce22d.cn
+0.0.0.0 wyt.wwetjy.com
 0.0.0.0 wz.37wan.com
 0.0.0.0 x.120ask.com
 0.0.0.0 x.892155.com
@@ -6397,8 +6418,8 @@
 
 # Hosts - vokins-yhosts
 # Source - https://raw.githubusercontent.com/vokins/yhosts/master/hosts
-# Generated - 21.07.2018
+# Generated - 22.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 6396
+# Total Domains: 6417
 # License: MIT
 

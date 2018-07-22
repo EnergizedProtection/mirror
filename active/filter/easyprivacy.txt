@@ -195,6 +195,7 @@
 0.0.0.0 adsettings.com
 0.0.0.0 adskom.com
 0.0.0.0 adspsp.com
+0.0.0.0 adsrvx.com
 0.0.0.0 adstat.4u.pl
 0.0.0.0 adswizz.com
 0.0.0.0 adsymptotic.com
@@ -638,6 +639,7 @@
 0.0.0.0 behavioralengine.com
 0.0.0.0 bekannt-im-web.de
 0.0.0.0 belboon.de
+0.0.0.0 belicimo.pw
 0.0.0.0 beliebtestewebseite.de
 0.0.0.0 belstat.be
 0.0.0.0 belstat.ch
@@ -800,6 +802,7 @@
 0.0.0.0 c.perlentaucher.de
 0.0.0.0 c.t-online.de
 0.0.0.0 c.wen.ru
+0.0.0.0 c.wort-suche.com
 0.0.0.0 c.x.oanda.com
 0.0.0.0 c0i8h8ac7e.bid
 0.0.0.0 c1exchange.com
@@ -840,6 +843,7 @@
 0.0.0.0 casualstat.com
 0.0.0.0 cbs.wondershare.com
 0.0.0.0 cbtrk.net
+0.0.0.0 cc.gofile.io
 0.0.0.0 cc.swiftype.com
 0.0.0.0 cc.zeit.de
 0.0.0.0 cccpmo.com
@@ -1787,6 +1791,7 @@
 0.0.0.0 flix360.com
 0.0.0.0 flixfacts.co.uk
 0.0.0.0 flixsyndication.net
+0.0.0.0 flowplayer.space
 0.0.0.0 fluencymedia.com
 0.0.0.0 fluidsurveys.com
 0.0.0.0 flurry.com
@@ -1891,6 +1896,7 @@
 0.0.0.0 gammachug.com
 0.0.0.0 gasolina.ml
 0.0.0.0 gaug.es
+0.0.0.0 gay-hotvideo.net
 0.0.0.0 gbotvisit.com
 0.0.0.0 gdeslon.ru
 0.0.0.0 gear5.me
@@ -2001,6 +2007,7 @@
 0.0.0.0 govmetric.com
 0.0.0.0 goyavelab.com
 0.0.0.0 graftpool.ovh
+0.0.0.0 gramombird.com
 0.0.0.0 grapheffect.com
 0.0.0.0 graphinsider.com
 0.0.0.0 gratis-besucherzaehler.de
@@ -2042,6 +2049,7 @@
 0.0.0.0 h4k5.com
 0.0.0.0 hallaert.online
 0.0.0.0 halldata.com
+0.0.0.0 halo77.com
 0.0.0.0 halstats.com
 0.0.0.0 hammerhearing.com
 0.0.0.0 haostat.qihoo.com
@@ -2193,6 +2201,7 @@
 0.0.0.0 idio.co
 0.0.0.0 idntfy.ru
 0.0.0.0 idot.cz
+0.0.0.0 idt.id-news.net
 0.0.0.0 idtargeting.com
 0.0.0.0 iedc.fitbit.com
 0.0.0.0 iesnare.com
@@ -2282,6 +2291,7 @@
 0.0.0.0 instreamatic.com
 0.0.0.0 integritystat.com
 0.0.0.0 intelimet.com
+0.0.0.0 intellecthosting.net
 0.0.0.0 intelli-direct.com
 0.0.0.0 intelli-tracker.com
 0.0.0.0 intelli.ageuk.org.uk
@@ -2900,6 +2910,7 @@
 0.0.0.0 mystat.it
 0.0.0.0 mystats.nl
 0.0.0.0 mysumo.de
+0.0.0.0 mytestminer.xyz
 0.0.0.0 mytictac.com
 0.0.0.0 myusersonline.com
 0.0.0.0 myvisualiq.net
@@ -3186,6 +3197,7 @@
 0.0.0.0 petametrics.com
 0.0.0.0 petiteumbrella.com
 0.0.0.0 petitionermaster.appspot.com
+0.0.0.0 pf.newegg.com
 0.0.0.0 phantom.nudgespot.com
 0.0.0.0 phoenix.untd.com
 0.0.0.0 phonalytics.com
@@ -3275,6 +3287,7 @@
 0.0.0.0 play.estream.nu
 0.0.0.0 play.estream.to
 0.0.0.0 play.estream.xyz
+0.0.0.0 play.mix.kinostuff.com
 0.0.0.0 playerassets.info
 0.0.0.0 plecki.com
 0.0.0.0 pleisty.com
@@ -3845,6 +3858,7 @@
 0.0.0.0 somniture.theglobeandmail.com
 0.0.0.0 sophus3.com
 0.0.0.0 soska.us
+0.0.0.0 sourcecode.pro
 0.0.0.0 sp.app.com
 0.0.0.0 sp.argusleader.com
 0.0.0.0 sp.azcentral.com
@@ -4037,6 +4051,7 @@
 0.0.0.0 stat.russianfood.com
 0.0.0.0 stat.ruvr.ru
 0.0.0.0 stat.segitek.hu
+0.0.0.0 stat.social
 0.0.0.0 stat.sputnik.ru
 0.0.0.0 stat.stheadline.com
 0.0.0.0 stat.tianya.cn
@@ -4362,6 +4377,7 @@
 0.0.0.0 tags.news.com.au
 0.0.0.0 tagsrvcs.com
 0.0.0.0 tailtarget.com
+0.0.0.0 tainiesonline.pw
 0.0.0.0 tamedia.ch
 0.0.0.0 tamgrt.com
 0.0.0.0 tanx.com
@@ -4425,6 +4441,7 @@
 0.0.0.0 thefreehitcounter.com
 0.0.0.0 thehairofcaptainpicard.com
 0.0.0.0 thermstats.com
+0.0.0.0 thersprens.com
 0.0.0.0 thesearchagency.net
 0.0.0.0 thespecialsearch.com
 0.0.0.0 thestat.net
@@ -4802,6 +4819,7 @@
 0.0.0.0 traviilo.com
 0.0.0.0 trbna.com
 0.0.0.0 trbo.com
+0.0.0.0 trck.bdi-services.de
 0.0.0.0 trck.meinprospekt.de
 0.0.0.0 trck.spoteffects.net
 0.0.0.0 treasuredata.com
@@ -5255,6 +5273,7 @@
 0.0.0.0 yjtag.yahoo.co.jp
 0.0.0.0 ymetrica1.com
 0.0.0.0 ynuf.alibaba.com
+0.0.0.0 yololike.space
 0.0.0.0 yoochoose.net
 0.0.0.0 youbora.com
 0.0.0.0 youboranqs01.com
@@ -5302,8 +5321,8 @@
 
 # Hosts - easyprivacy
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easyprivacy.txt
-# Generated - 21.07.2018
+# Generated - 22.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 5301
+# Total Domains: 5320
 # License: MIT
 

@@ -251,6 +251,7 @@
 0.0.0.0 ad1.kde.cz
 0.0.0.0 ad1.pamedia.com.au
 0.0.0.0 ad120m.com
+0.0.0.0 ad123m.com
 0.0.0.0 ad128m.com
 0.0.0.0 ad2.iinfo.cz
 0.0.0.0 ad2.linxcz.cz
@@ -866,6 +867,7 @@
 0.0.0.0 ads.skeettools.com
 0.0.0.0 ads.slim.com
 0.0.0.0 ads.snapchat.com
+0.0.0.0 ads.sofcom.com.au
 0.0.0.0 ads.soft32.com
 0.0.0.0 ads.space.com
 0.0.0.0 ads.sparkflow.net
@@ -1712,6 +1714,7 @@
 0.0.0.0 cashengines.com
 0.0.0.0 cashfiesta.com
 0.0.0.0 cashlayer.com
+0.0.0.0 cashmylinks.com
 0.0.0.0 cashtrafic.info
 0.0.0.0 casino-zilla.com
 0.0.0.0 casinogames.com
@@ -1988,6 +1991,7 @@
 0.0.0.0 deximedia.com
 0.0.0.0 dexplatform.com
 0.0.0.0 dgmatix.com
+0.0.0.0 dgmaustralia.com
 0.0.0.0 dgmaxinteractive.com
 0.0.0.0 dh.serving-sys.com
 0.0.0.0 dhundora.com
@@ -2302,6 +2306,7 @@
 0.0.0.0 go.searchlock.com
 0.0.0.0 go2jump.org
 0.0.0.0 goadservices.com
+0.0.0.0 goember.com
 0.0.0.0 gogoplexer.com
 0.0.0.0 gogvo.com
 0.0.0.0 goldspotmedia.com
@@ -2949,6 +2954,7 @@
 0.0.0.0 nagrande.com
 0.0.0.0 naiadsystems.com
 0.0.0.0 naj.sk
+0.0.0.0 namimedia.com
 0.0.0.0 nastydollars.com
 0.0.0.0 native-adserver.com
 0.0.0.0 nativeads.com
@@ -4229,6 +4235,7 @@
 0.0.0.0 tubberlo.com
 0.0.0.0 tubedspots.com
 0.0.0.0 tubemogul.com
+0.0.0.0 tubereplay.com
 0.0.0.0 tur-tur-key.com
 0.0.0.0 turboadv.com
 0.0.0.0 turbotraff.net
@@ -4253,6 +4260,7 @@
 0.0.0.0 ujieva.com
 0.0.0.0 uk.adserver.yahoo.com
 0.0.0.0 ukbanners.com
+0.0.0.0 ultimategracelessness.info
 0.0.0.0 unanimis.co.uk
 0.0.0.0 underclick.ru
 0.0.0.0 undertone.com
@@ -4468,6 +4476,7 @@
 0.0.0.0 xmaswrite.com
 0.0.0.0 xplusone.com
 0.0.0.0 xrea.com
+0.0.0.0 xtendadvert.com
 0.0.0.0 xtremetop100.com
 0.0.0.0 xubob.com
 0.0.0.0 xvika.com
@@ -4549,8 +4558,8 @@
 
 # Hosts - squidblacklist-dg-ads
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/squidblacklist-ads.txt
-# Generated - 21.07.2018
+# Generated - 22.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 4548
+# Total Domains: 4557
 # License: MIT
 

@@ -2932,7 +2932,7 @@
 
 # Hosts - fademind-add.risk
 # Source - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
-# Generated - 21.07.2018
+# Generated - 22.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 2931
 # License: MIT

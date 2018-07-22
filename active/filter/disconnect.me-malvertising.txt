@@ -1449,7 +1449,6 @@
 0.0.0.0 defygravity.com
 0.0.0.0 deltagroup.kz
 0.0.0.0 demandbase.com
-0.0.0.0 demo25.extstore.com
 0.0.0.0 dfclamp.com
 0.0.0.0 dgbangyuan.cn
 0.0.0.0 dgboiler.cn
@@ -3074,8 +3073,8 @@
 
 # Hosts - disconnect.me-malvertising
 # Source - https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
-# Generated - 21.07.2018
+# Generated - 22.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 3073
+# Total Domains: 3072
 # License: MIT
 

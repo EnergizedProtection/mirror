@@ -1207,6 +1207,7 @@
 0.0.0.0 canadagoodrx.com
 0.0.0.0 canadameds-24.com
 0.0.0.0 canadameds24h.com
+0.0.0.0 canadamedsupport.com
 0.0.0.0 canadan-pharmacy.com
 0.0.0.0 canadapharm.net
 0.0.0.0 canadapharmacy-24h.com
@@ -1296,6 +1297,7 @@
 0.0.0.0 canadianmedicaments.ru
 0.0.0.0 canadianmedicine24.com
 0.0.0.0 canadianmeds24h.com
+0.0.0.0 canadianmedssupport.com
 0.0.0.0 canadianonlinecialis.org
 0.0.0.0 canadianonlinedrugs.ru
 0.0.0.0 canadianonlinegha.com
@@ -1354,6 +1356,7 @@
 0.0.0.0 canadianpharmctr.com
 0.0.0.0 canadianpharmdirect.ru
 0.0.0.0 canadianpharmhealth.com
+0.0.0.0 canadianpharmsupport.com
 0.0.0.0 canadianpharmxcp.com
 0.0.0.0 canadianphrmc.com
 0.0.0.0 canadianpills24x7.com
@@ -1984,6 +1987,7 @@
 0.0.0.0 dean.xn--80adinac0a4h.xn--p1ai
 0.0.0.0 dean.xn--90abqp6aya1a0a.xn--p1ai
 0.0.0.0 dear-rx.com
+0.0.0.0 dearcustomer-support.com
 0.0.0.0 debbiehephzibah.be
 0.0.0.0 debbiethea.ru
 0.0.0.0 deborahflori.ru
@@ -3663,6 +3667,7 @@
 0.0.0.0 medicalmedsstore.ru
 0.0.0.0 medicals-assistance.com
 0.0.0.0 medicalsafesale.ru
+0.0.0.0 medicalsupportteam.net
 0.0.0.0 medicaltabsgroup.ru
 0.0.0.0 medicatingrxdeal.su
 0.0.0.0 medicationfromcanada.ru
@@ -4405,6 +4410,7 @@
 0.0.0.0 pharmacie.work
 0.0.0.0 pharmacieenligne.ws
 0.0.0.0 pharmacierx.com
+0.0.0.0 pharmacistsupport.net
 0.0.0.0 pharmacy--shop.com
 0.0.0.0 pharmacy-365-pills.com
 0.0.0.0 pharmacy-generic-top-pills.com
@@ -4804,6 +4810,7 @@
 0.0.0.0 rx-store24x7.su
 0.0.0.0 rx-sup.com
 0.0.0.0 rx-super724.ru
+0.0.0.0 rx-support24.com
 0.0.0.0 rx-top.ru
 0.0.0.0 rxbenefitspills.org
 0.0.0.0 rxbest-start365.ru
@@ -11736,8 +11743,8 @@
 
 # Hosts - hosts-file.net-pha
 # Source - https://hosts-file.net/pha.txt
-# Generated - 21.07.2018
+# Generated - 22.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 11735
+# Total Domains: 11742
 # License: MIT
 

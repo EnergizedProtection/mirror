@@ -357,6 +357,7 @@
 0.0.0.0 assetrental.co.uk
 0.0.0.0 astairepartners.cu.cc
 0.0.0.0 astarship-sg.com
+0.0.0.0 astoundingpainting.com
 0.0.0.0 at3bk.hostkda.com
 0.0.0.0 ata-rh.com.br
 0.0.0.0 atadz.com
@@ -825,6 +826,7 @@
 0.0.0.0 coco.3chp.tk
 0.0.0.0 codedforwardings.halimofset.com.tr
 0.0.0.0 codespirit.linkpc.net
+0.0.0.0 cofancio.com
 0.0.0.0 coinbitbot.ru
 0.0.0.0 coincose.ml
 0.0.0.0 coins.btcsfarm.com
@@ -2615,6 +2617,8 @@
 0.0.0.0 newposter4season.pw
 0.0.0.0 newprotiles.com
 0.0.0.0 news.quenerabh.net
+0.0.0.0 newskyinternational.com
+0.0.0.0 newskyspaces.us
 0.0.0.0 newsmart.usa.cc
 0.0.0.0 newsrel.pw
 0.0.0.0 newstarmachinery.com
@@ -2773,6 +2777,7 @@
 0.0.0.0 orodellumbria.com
 0.0.0.0 orphansinneed.pk
 0.0.0.0 orslerturizm.com
+0.0.0.0 ortaksistem.com
 0.0.0.0 ortoteh.ru
 0.0.0.0 os.qintec.sk
 0.0.0.0 oscanpro.favcc1.com
@@ -3096,6 +3101,7 @@
 0.0.0.0 resupgrade.3utilities.com
 0.0.0.0 rethinkdb.ml
 0.0.0.0 revdupmarketing.com
+0.0.0.0 reveszn.ru
 0.0.0.0 rezoupdate.freehostingking.com
 0.0.0.0 richardkmet.sk
 0.0.0.0 richardplay.com
@@ -4903,8 +4909,8 @@
 
 # Hosts - cybercrime
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/cybercrime.txt
-# Generated - 21.07.2018
+# Generated - 22.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 4902
+# Total Domains: 4908
 # License: MIT
 

@@ -31,7 +31,7 @@
 
 # Hosts - fanboy-annoyance
 # Source - https://raw.githubusercontent.com/hectorm/hMirror/master/data/fanboy-annoyance/list.txt
-# Generated - 21.07.2018
+# Generated - 22.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 30
 # License: MIT

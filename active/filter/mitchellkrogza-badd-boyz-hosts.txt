@@ -19163,7 +19163,7 @@
 
 # Hosts - mitchellkrogza-badd-boyz-hosts
 # Source - https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
-# Generated - 21.07.2018
+# Generated - 22.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 19162
 # License: MIT

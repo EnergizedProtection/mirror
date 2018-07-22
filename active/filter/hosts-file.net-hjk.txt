@@ -81,6 +81,7 @@
 0.0.0.0 mega-track.info
 0.0.0.0 megatons.stream
 0.0.0.0 microsoft.com.org
+0.0.0.0 monestrous.stream
 0.0.0.0 naked.com
 0.0.0.0 notice-85xi5.stream
 0.0.0.0 olaolorun111.wm01.to
@@ -146,6 +147,8 @@
 0.0.0.0 uploadertoolext.com
 0.0.0.0 uptoolext.com
 0.0.0.0 us.baylnk.com
+0.0.0.0 vinwall21.info
+0.0.0.0 vistamatch39.club
 0.0.0.0 webdefenderext.com
 0.0.0.0 webdesignmissionviejo.com
 0.0.0.0 windows.microsoft.com.msf-help.info
@@ -223,8 +226,8 @@
 
 # Hosts - hosts-file.net-hjk
 # Source - https://hosts-file.net/hjk.txt
-# Generated - 21.07.2018
+# Generated - 22.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 222
+# Total Domains: 225
 # License: MIT
 

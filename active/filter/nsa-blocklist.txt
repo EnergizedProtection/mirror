@@ -6526,7 +6526,7 @@
 
 # Hosts - nsa-blocklist
 # Source - https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/HOSTS
-# Generated - 21.07.2018
+# Generated - 22.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 6525
 # License: MIT

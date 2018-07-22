@@ -81,6 +81,7 @@
 0.0.0.0 bulb.76.my
 0.0.0.0 c.ipaddress.com
 0.0.0.0 c.newsinc.com
+0.0.0.0 c.wort-suche.com
 0.0.0.0 c.x.oanda.com
 0.0.0.0 cbs.wondershare.com
 0.0.0.0 cdnstats.tube8.com
@@ -300,6 +301,7 @@
 0.0.0.0 pclick.internal.yahoo.com
 0.0.0.0 pclick.yahoo.com
 0.0.0.0 performances.bestofmedia.com
+0.0.0.0 pf.newegg.com
 0.0.0.0 pi.feedsportal.com
 0.0.0.0 pictures.zooplus.com
 0.0.0.0 ping.hungama.com
@@ -652,8 +654,8 @@
 
 # Hosts - easyprivacy-specific
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easyprivacy-specific.txt
-# Generated - 21.07.2018
+# Generated - 22.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 651
+# Total Domains: 653
 # License: MIT
 

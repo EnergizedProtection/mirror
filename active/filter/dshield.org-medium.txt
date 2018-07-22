@@ -245,7 +245,7 @@
 
 # Hosts - dshield.org-medium
 # Source - https://www.dshield.org/feeds/suspiciousdomains_Medium.txt
-# Generated - 21.07.2018
+# Generated - 22.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 244
 # License: MIT

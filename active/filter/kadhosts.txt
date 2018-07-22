@@ -1171,7 +1171,7 @@
 
 # Hosts - kadhosts
 # Source - https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt
-# Generated - 21.07.2018
+# Generated - 22.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 1170
 # License: MIT

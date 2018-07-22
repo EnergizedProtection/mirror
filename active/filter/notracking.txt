@@ -9600,7 +9600,6 @@
 0.0.0.0 demo.sp-kunde.de
 0.0.0.0 demo.vertexinfo.in
 0.0.0.0 demo02.firstdigitalshowcase.com
-0.0.0.0 demo25.extstore.com
 0.0.0.0 demo5.ikantam.com
 0.0.0.0 demon1.linksummary.com
 0.0.0.0 demon2.linksummary.com
@@ -10328,6 +10327,7 @@
 0.0.0.0 e.htper.com
 0.0.0.0 e.hyzui.com
 0.0.0.0 e.invodo.com
+0.0.0.0 e.jiaas.com
 0.0.0.0 e.jltdbyq.com
 0.0.0.0 e.joyxv.com
 0.0.0.0 e.kde.cz
@@ -12387,6 +12387,7 @@
 0.0.0.0 help.messajess.com
 0.0.0.0 help.mysearch.com
 0.0.0.0 help.vjjays.com
+0.0.0.0 help.yunaq.com
 0.0.0.0 helpdesk.marketbill.com
 0.0.0.0 helpdeskfunnies.cyberjuice.com
 0.0.0.0 helpdeskz.yolasite.com
@@ -14897,7 +14898,9 @@
 0.0.0.0 m.fxbga.com
 0.0.0.0 m.game.weibo.cn
 0.0.0.0 m.gameyun907.net
+0.0.0.0 m.ganrs.com
 0.0.0.0 m.gglay.com
+0.0.0.0 m.guaas.com
 0.0.0.0 m.guanren11.com
 0.0.0.0 m.guanren5.com
 0.0.0.0 m.guanren6.com
@@ -23745,6 +23748,7 @@
 0.0.0.0 utop.umengcloud.com
 0.0.0.0 utrack.hexun.com
 0.0.0.0 utzpkru.411.com1.ru
+0.0.0.0 uu.85655095.com
 0.0.0.0 uuidapi.yunos.com
 0.0.0.0 uv.terra.com.br
 0.0.0.0 uv2x37.koll.pershoreairporttransfers.co.uk
@@ -25616,6 +25620,7 @@
 0.0.0.0 www.hitwise.co.uk
 0.0.0.0 www.hjplocoheavier.review
 0.0.0.0 www.hkoxlirf.com
+0.0.0.0 www.hndiyikj.com
 0.0.0.0 www.hobwelt.com
 0.0.0.0 www.home.ro
 0.0.0.0 www.homebusinessgo.com
@@ -26730,7 +26735,6 @@
 0.0.0.0 www.yasnogorie.tora.ru
 0.0.0.0 www.yataro.jp
 0.0.0.0 www.yc1234.com
-0.0.0.0 www.ydqzkj.com
 0.0.0.0 www.yezilm.com
 0.0.0.0 www.yhwjd.com
 0.0.0.0 www.yidongguanye.com
@@ -26862,6 +26866,7 @@
 0.0.0.0 wycvts.kal.wkcengland.com
 0.0.0.0 wypad3k0.blogspot.com
 0.0.0.0 wypromuj.nazwa.pl
+0.0.0.0 wyt.wwetjy.com
 0.0.0.0 wz.37wan.com
 0.0.0.0 x.120ask.com
 0.0.0.0 x.9dagui.com
@@ -27362,8 +27367,8 @@
 
 # Hosts - notracking
 # Source - https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
-# Generated - 21.07.2018
+# Generated - 22.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 27361
+# Total Domains: 27366
 # License: MIT
 
