@@ -1,7 +1,7 @@
 # easyprivacy-tracking-servers Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers.txt
-# Last Converted - Sun, 22 Jul 2018 10:49:43 -0400
+# Last Converted - Wed, 25 Jul 2018 03:59:32 -0400
 # Energized - ad.porn.malware blocking.
 
 0.0.0.0 0emm.com
@@ -492,6 +492,7 @@
 0.0.0.0 company-target.com
 0.0.0.0 compteur.cc
 0.0.0.0 comradepony.com
+0.0.0.0 conductrics.com
 0.0.0.0 confirmational.com
 0.0.0.0 confirmit.com
 0.0.0.0 contactmonkey.com
@@ -747,6 +748,7 @@
 0.0.0.0 exactag.com
 0.0.0.0 exclusiveclicks.com
 0.0.0.0 exelator.com
+0.0.0.0 exitbee.com
 0.0.0.0 exitmonitor.com
 0.0.0.0 exovueplatform.com
 0.0.0.0 explore-123.com
@@ -967,6 +969,7 @@
 0.0.0.0 hqhrt.com
 0.0.0.0 hs-analytics.net
 0.0.0.0 hsadspixel.net
+0.0.0.0 hubvisor.io
 0.0.0.0 hudb.pl
 0.0.0.0 humanclick.com
 0.0.0.0 hunt-leads.com
@@ -1173,6 +1176,7 @@
 0.0.0.0 livehit.net
 0.0.0.0 livesegmentservice.com
 0.0.0.0 livestat.com
+0.0.0.0 livetrafficfeed.com
 0.0.0.0 lloogg.com
 0.0.0.0 localytics.com
 0.0.0.0 lockview.cn

@@ -1,7 +1,7 @@
 # easyprivacy Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - https://easylist.to/easylist/easyprivacy.txt
-# Last Converted - Sun, 22 Jul 2018 10:49:41 -0400
+# Last Converted - Wed, 25 Jul 2018 03:59:30 -0400
 # Energized - ad.porn.malware blocking.
 
 0.0.0.0 -geoIP.js
@@ -497,6 +497,7 @@
 0.0.0.0 company-target.com
 0.0.0.0 compteur.cc
 0.0.0.0 comradepony.com
+0.0.0.0 conductrics.com
 0.0.0.0 confirmational.com
 0.0.0.0 confirmit.com
 0.0.0.0 contactmonkey.com
@@ -752,6 +753,7 @@
 0.0.0.0 exactag.com
 0.0.0.0 exclusiveclicks.com
 0.0.0.0 exelator.com
+0.0.0.0 exitbee.com
 0.0.0.0 exitmonitor.com
 0.0.0.0 exovueplatform.com
 0.0.0.0 explore-123.com
@@ -972,6 +974,7 @@
 0.0.0.0 hqhrt.com
 0.0.0.0 hs-analytics.net
 0.0.0.0 hsadspixel.net
+0.0.0.0 hubvisor.io
 0.0.0.0 hudb.pl
 0.0.0.0 humanclick.com
 0.0.0.0 hunt-leads.com
@@ -1178,6 +1181,7 @@
 0.0.0.0 livehit.net
 0.0.0.0 livesegmentservice.com
 0.0.0.0 livestat.com
+0.0.0.0 livetrafficfeed.com
 0.0.0.0 lloogg.com
 0.0.0.0 localytics.com
 0.0.0.0 lockview.cn
@@ -4275,6 +4279,7 @@
 0.0.0.0 sana.newsinc.com
 0.0.0.0 scout.haymarketmedia.com
 0.0.0.0 scripts.psyma.com
+0.0.0.0 sdrive.skoda-auto.com
 0.0.0.0 search.mediatarget.net
 0.0.0.0 searchstats.usa.gov
 0.0.0.0 secure.ifbyphone.com
@@ -5043,6 +5048,7 @@
 0.0.0.0 analytics.adfreetime.com
 0.0.0.0 analytics.archive.org
 0.0.0.0 analytics.bloomberg.com
+0.0.0.0 analytics.brave.com
 0.0.0.0 analytics.ecosia.org
 0.0.0.0 analytics.femalefirst.co.uk
 0.0.0.0 analytics.global.sky.com
@@ -5215,6 +5221,7 @@
 0.0.0.0 event-reporting-dot-webylytics.appspot.com
 0.0.0.0 eventlog.jackpot.de
 0.0.0.0 eventlogger.soundcloud.com
+0.0.0.0 events.jora.com
 0.0.0.0 events.privy.com
 0.0.0.0 events.reddit.com
 0.0.0.0 events.redditmedia.com
@@ -6065,6 +6072,7 @@
 0.0.0.0 emng.libero.it
 0.0.0.0 g.techweekeurope.it
 0.0.0.0 livestats.la7.tv
+0.0.0.0 sa.sky.it
 0.0.0.0 siteinfo.libero.it
 0.0.0.0 stats.splinder.com
 0.0.0.0 track.tesiteca.it
