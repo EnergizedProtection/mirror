@@ -841,7 +841,7 @@
 
 # Hosts - quidsup-notrack
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/quidsup-no-track.txt
-# Generated - 22.07.2018
+# Generated - 25.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 840
 # License: MIT

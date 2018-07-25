@@ -327,6 +327,7 @@
 0.0.0.0 analytics.bigcommerce.com
 0.0.0.0 analytics.blue
 0.0.0.0 analytics.brandcrumb.com
+0.0.0.0 analytics.brave.com
 0.0.0.0 analytics.carambatv.ru
 0.0.0.0 analytics.carambo.la
 0.0.0.0 analytics.cincopa.com
@@ -1066,6 +1067,7 @@
 0.0.0.0 compteur.org
 0.0.0.0 compteur.websiteout.net
 0.0.0.0 comradepony.com
+0.0.0.0 conductrics.com
 0.0.0.0 confirm-referer.glrsales.com
 0.0.0.0 confirmational.com
 0.0.0.0 confirmit.com
@@ -1692,6 +1694,7 @@
 0.0.0.0 events.air.tv
 0.0.0.0 events.antenna.is
 0.0.0.0 events.izooto.com
+0.0.0.0 events.jora.com
 0.0.0.0 events.jotform.com
 0.0.0.0 events.kaloo.ga
 0.0.0.0 events.launchdarkly.com
@@ -1722,6 +1725,7 @@
 0.0.0.0 exclusiveclicks.com
 0.0.0.0 exe.bid
 0.0.0.0 exelator.com
+0.0.0.0 exitbee.com
 0.0.0.0 exitmonitor.com
 0.0.0.0 exmarkt.de
 0.0.0.0 exovueplatform.com
@@ -2163,6 +2167,7 @@
 0.0.0.0 hstrck.com
 0.0.0.0 hub.com.pl
 0.0.0.0 hubrus.com
+0.0.0.0 hubvisor.io
 0.0.0.0 hudb.pl
 0.0.0.0 humanclick.com
 0.0.0.0 hung.ch
@@ -2522,6 +2527,7 @@
 0.0.0.0 livestats.la7.tv
 0.0.0.0 livestats.matrix.it
 0.0.0.0 livetex.ru
+0.0.0.0 livetrafficfeed.com
 0.0.0.0 liveviewer.ez.no
 0.0.0.0 livewebstats.dk
 0.0.0.0 lizardslaugh.com
@@ -3645,6 +3651,7 @@
 0.0.0.0 s3-tracking.synthasite.net.s3.amazonaws.com
 0.0.0.0 s3s-main.net
 0.0.0.0 sa.bbc.co.uk
+0.0.0.0 sa.sky.it
 0.0.0.0 sa.squareup.com
 0.0.0.0 sa.tf1.fr
 0.0.0.0 sa135.macworld.co.uk
@@ -3697,6 +3704,7 @@
 0.0.0.0 scroll.com
 0.0.0.0 scupio.com
 0.0.0.0 sddan.com
+0.0.0.0 sdrive.skoda-auto.com
 0.0.0.0 sea-nov-1.com
 0.0.0.0 searchfeed.com
 0.0.0.0 searchignite.com
@@ -5321,8 +5329,8 @@
 
 # Hosts - easyprivacy
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easyprivacy.txt
-# Generated - 22.07.2018
+# Generated - 25.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 5320
+# Total Domains: 5328
 # License: MIT
 

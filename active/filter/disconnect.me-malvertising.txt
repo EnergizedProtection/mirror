@@ -1,4 +1,5 @@
 0.0.0.0 0001.2waky.com
+0.0.0.0 023scw.gotoip55.com
 0.0.0.0 029999.com
 0.0.0.0 0538ly.cn
 0.0.0.0 071899.com
@@ -29,7 +30,6 @@
 0.0.0.0 332gm.com
 0.0.0.0 360yield.com
 0.0.0.0 365tc.com
-0.0.0.0 36robots.com
 0.0.0.0 384756783900.cn
 0.0.0.0 39m.net
 0.0.0.0 3cinteractive.com
@@ -68,7 +68,6 @@
 0.0.0.0 818tl.com
 0.0.0.0 8883448.com
 0.0.0.0 88kkvv.com
-0.0.0.0 8cbd.com
 0.0.0.0 911718.net
 0.0.0.0 9523cc.com
 0.0.0.0 978qp.com
@@ -78,7 +77,6 @@
 0.0.0.0 99976.com
 0.0.0.0 99chg.com
 0.0.0.0 99count.com
-0.0.0.0 99meikang.com
 0.0.0.0 a-ads.com
 0.0.0.0 a-counter.kiev.ua
 0.0.0.0 a.0day.kiev.ua
@@ -358,7 +356,6 @@
 0.0.0.0 adnotch.com
 0.0.0.0 adnxs.com
 0.0.0.0 adocean.pl
-0.0.0.0 adongcomic.com
 0.0.0.0 adonspot.com
 0.0.0.0 adoperator.com
 0.0.0.0 adoreclothing.co.uk
@@ -954,7 +951,6 @@
 0.0.0.0 analytics.live.com
 0.0.0.0 analytics.yahoo.com
 0.0.0.0 ancientroom.com
-0.0.0.0 anhui-attorney.com
 0.0.0.0 animeonline.net
 0.0.0.0 anm.intelli-direct.com
 0.0.0.0 annedouglas.com
@@ -1712,6 +1708,7 @@
 0.0.0.0 goldstats.com
 0.0.0.0 googlesyndication.com
 0.0.0.0 gostats.com
+0.0.0.0 gotoip55.com
 0.0.0.0 gp.dejanews.com
 0.0.0.0 gqwhyjh.com
 0.0.0.0 grafstat.ro
@@ -1825,7 +1822,6 @@
 0.0.0.0 ilbanner.com
 0.0.0.0 ilead.itrack.it
 0.0.0.0 iliilllio00oo0.321.cn
-0.0.0.0 illaboratoriosrl.it
 0.0.0.0 iloopmobile.com
 0.0.0.0 ilovecheating.com
 0.0.0.0 im900.com
@@ -1996,7 +1992,6 @@
 0.0.0.0 localytics.com
 0.0.0.0 log.btopenworld.com
 0.0.0.0 logua.com
-0.0.0.0 loles.neostrada.pl
 0.0.0.0 loopme.biz
 0.0.0.0 lop.com
 0.0.0.0 lousecn.cn
@@ -2004,7 +1999,6 @@
 0.0.0.0 luckyson0660.com
 0.0.0.0 luguanmm.com
 0.0.0.0 lunarads.com
-0.0.0.0 lysyp.com
 0.0.0.0 lzjl.com
 0.0.0.0 m1.webstats4u.com
 0.0.0.0 m4n.nl
@@ -3050,7 +3044,6 @@
 0.0.0.0 yume.com
 0.0.0.0 yuminhong.blog.neworiental.org
 0.0.0.0 yxhlv.com
-0.0.0.0 yz-sl.cn
 0.0.0.0 z5x.net
 0.0.0.0 zanox-affiliate.de
 0.0.0.0 zanox.com
@@ -3062,7 +3055,6 @@
 0.0.0.0 zenzuu.com
 0.0.0.0 zeus.developershed.com
 0.0.0.0 zeusclicks.com
-0.0.0.0 zhaopai020.com
 0.0.0.0 zhongpandz.com
 0.0.0.0 ziheyuan.com
 0.0.0.0 zintext.com
@@ -3073,8 +3065,8 @@
 
 # Hosts - disconnect.me-malvertising
 # Source - https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
-# Generated - 22.07.2018
+# Generated - 25.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 3072
+# Total Domains: 3064
 # License: MIT
 

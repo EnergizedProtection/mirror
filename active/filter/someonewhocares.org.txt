@@ -1734,6 +1734,7 @@
 0.0.0.0 api.viglink.com
 0.0.0.0 apis.murdoog.com
 0.0.0.0 apnonline.112.2o7.net
+0.0.0.0 app-analytics.snapchat.com
 0.0.0.0 app-measurement.com
 0.0.0.0 app.datafastguru.info
 0.0.0.0 app.fancifulapp.cool
@@ -1876,6 +1877,7 @@
 0.0.0.0 b.myspace.com
 0.0.0.0 b.oix.com
 0.0.0.0 b.oix.net
+0.0.0.0 b.recwwcc5.info
 0.0.0.0 b.stats.paypal.com
 0.0.0.0 b.webwise.net
 0.0.0.0 b.webwise.org
@@ -2296,6 +2298,7 @@
 0.0.0.0 cashbackwow.co.uk
 0.0.0.0 cashcounter.com
 0.0.0.0 cashflowmarketing.com
+0.0.0.0 cashreportz.com
 0.0.0.0 casino770.com
 0.0.0.0 cat.onlinepeople.net
 0.0.0.0 cb.alimama.cn
@@ -2529,6 +2532,7 @@
 0.0.0.0 closeoutproductsreview.com
 0.0.0.0 cloudcrown.com
 0.0.0.0 clownsong.com
+0.0.0.0 clubwinnerz.com
 0.0.0.0 cluster.adultadworld.com
 0.0.0.0 cluster3.adultadworld.com
 0.0.0.0 cm.g.doubleclick.net
@@ -2797,6 +2801,7 @@
 0.0.0.0 crowdignite.com
 0.0.0.0 crwdcntrl.net
 0.0.0.0 crypto-loot.com
+0.0.0.0 cryptolabpro.com
 0.0.0.0 cryptoloot.pro
 0.0.0.0 cs.adxpansion.com
 0.0.0.0 cs.prd.msys.playstation.net
@@ -4496,6 +4501,7 @@
 0.0.0.0 m.friendlyduck.com
 0.0.0.0 m.openv.tv
 0.0.0.0 m.pl.pornzone.tv
+0.0.0.0 m.tidebuy.com
 0.0.0.0 m.tribalfusion.com
 0.0.0.0 m01.oix.com
 0.0.0.0 m01.oix.net
@@ -5525,6 +5531,7 @@
 0.0.0.0 prefersurvey.net
 0.0.0.0 preland.softmonetize.com
 0.0.0.0 preligions.com
+0.0.0.0 premium-offers.space
 0.0.0.0 premiumholidayoffers.com
 0.0.0.0 premiumproductsonline.com
 0.0.0.0 premiumvideoupdates.com
@@ -6658,6 +6665,7 @@
 0.0.0.0 thoughtsmedia.us.intellitxt.com
 0.0.0.0 thruport.com
 0.0.0.0 ticket20.tripod.com
+0.0.0.0 tidebuy.com
 0.0.0.0 tiku.io
 0.0.0.0 timebus2.112.2o7.net
 0.0.0.0 timecom.112.2o7.net
@@ -7043,6 +7051,7 @@
 0.0.0.0 usapolice.com
 0.0.0.0 usatoday.app.ur.gcion.com
 0.0.0.0 usatoday1.112.2o7.net
+0.0.0.0 usc.adserver.snapads.com
 0.0.0.0 usd.sierra-boa.com
 0.0.0.0 usemax.de
 0.0.0.0 users16.jabry.com
@@ -8287,6 +8296,7 @@
 0.0.0.0 www.yourrewardzone.com
 0.0.0.0 www.yoursmartrewards.com
 0.0.0.0 www.ypmate.com
+0.0.0.0 www.zabavazaodrasle.com
 0.0.0.0 www.zemgo.com
 0.0.0.0 www.zentastic.com
 0.0.0.0 www.zevents.com
@@ -8456,6 +8466,7 @@
 0.0.0.0 z0.extreme-dm.com
 0.0.0.0 z1.adserver.com
 0.0.0.0 z1.extreme-dm.com
+0.0.0.0 zabavazaodrasle.com
 0.0.0.0 zapcdn.space
 0.0.0.0 zb1.zeroredirect1.com
 0.0.0.0 zc1.delta-boa.com
@@ -8494,8 +8505,8 @@
 
 # Hosts - someonewhocares.org
 # Source - http://someonewhocares.org/hosts/hosts
-# Generated - 22.07.2018
+# Generated - 25.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 8493
+# Total Domains: 8504
 # License: MIT
 

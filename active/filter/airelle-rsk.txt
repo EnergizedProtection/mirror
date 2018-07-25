@@ -51358,7 +51358,7 @@
 
 # Hosts - airelle-rsk
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/mirror/airelle-rsk.txt
-# Generated - 22.07.2018
+# Generated - 25.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 51357
 # License: MIT

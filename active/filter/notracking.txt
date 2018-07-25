@@ -550,7 +550,6 @@
 0.0.0.0 a.lazyswipe.com
 0.0.0.0 a.livefreefunwith.me
 0.0.0.0 a.livesportmedia.eu
-0.0.0.0 a.ltdnc.com
 0.0.0.0 a.lwinl.com
 0.0.0.0 a.lz13.cn
 0.0.0.0 a.m.shuhuangge.org
@@ -890,6 +889,7 @@
 0.0.0.0 activities.niagara.comedycentral.com
 0.0.0.0 activity.app.autohome.com.cn
 0.0.0.0 activity.m.duiba.com.cn
+0.0.0.0 activity.tuifish.com
 0.0.0.0 activity.windows.com
 0.0.0.0 activity.yuyiya.com
 0.0.0.0 actlog.dftoutiao.com
@@ -1426,6 +1426,7 @@
 0.0.0.0 ad.wsodcdn.com
 0.0.0.0 ad.wt50.com
 0.0.0.0 ad.www.net.cn
+0.0.0.0 ad.wynk.in
 0.0.0.0 ad.wz.cz
 0.0.0.0 ad.xc.netinsight.co.kr
 0.0.0.0 ad.xc.nis.nitmus.com
@@ -1736,6 +1737,7 @@
 0.0.0.0 adm0.autoimg.cn
 0.0.0.0 adm1.autoimg.cn
 0.0.0.0 adm2.autoimg.cn
+0.0.0.0 adm2018.at.ua
 0.0.0.0 adm3.autoimg.cn
 0.0.0.0 adman.kathimerini.gr
 0.0.0.0 adman.medius.net
@@ -3340,6 +3342,7 @@
 0.0.0.0 ads1.hencken.com
 0.0.0.0 ads1.jp.msn.com
 0.0.0.0 ads1.legalworld.bg
+0.0.0.0 ads1.lfengmobile.com
 0.0.0.0 ads1.mediacapital.pt
 0.0.0.0 ads1.msn.com
 0.0.0.0 ads1.nexdra.com
@@ -4639,12 +4642,14 @@
 0.0.0.0 analytics-digit-in.cdn.ampproject.org
 0.0.0.0 analytics-eu.clickdimensions.com
 0.0.0.0 analytics-prod-ingress.bricknet.com
+0.0.0.0 analytics-production.hapyak.com
 0.0.0.0 analytics-static.ugc.bazaarvoice.com
 0.0.0.0 analytics-union.xunlei.com
 0.0.0.0 analytics.163.com
 0.0.0.0 analytics.1and1.com
 0.0.0.0 analytics.1und1.de
 0.0.0.0 analytics.21cn.com
+0.0.0.0 analytics.247sports.com
 0.0.0.0 analytics.abacast.com
 0.0.0.0 analytics.ad.daum.net
 0.0.0.0 analytics.adfreetime.com
@@ -4661,6 +4666,7 @@
 0.0.0.0 analytics.belgacom.be
 0.0.0.0 analytics.bigcommerce.com
 0.0.0.0 analytics.bigfm.de
+0.0.0.0 analytics.bitrix.info
 0.0.0.0 analytics.bleacherreport.com
 0.0.0.0 analytics.blogspot.com
 0.0.0.0 analytics.brave.com
@@ -4701,7 +4707,9 @@
 0.0.0.0 analytics.hayneedle.com
 0.0.0.0 analytics.hgcdn.net
 0.0.0.0 analytics.hosting24.com
+0.0.0.0 analytics.htmedia.in
 0.0.0.0 analytics.hz.netease.com
+0.0.0.0 analytics.icons8.com
 0.0.0.0 analytics.industriemagazin.net
 0.0.0.0 analytics.informationweek.com
 0.0.0.0 analytics.ip-profis.de
@@ -4729,6 +4737,7 @@
 0.0.0.0 analytics.msn.com
 0.0.0.0 analytics.msnbc.com
 0.0.0.0 analytics.msnbc.msn.com
+0.0.0.0 analytics.myfinance.com
 0.0.0.0 analytics.mytvzion.pro
 0.0.0.0 analytics.nascar.com
 0.0.0.0 analytics.newsvine.com
@@ -4757,6 +4766,7 @@
 0.0.0.0 analytics.revee.com
 0.0.0.0 analytics.reyrey.net
 0.0.0.0 analytics.rogersmedia.com
+0.0.0.0 analytics.samdd.me
 0.0.0.0 analytics.sanoma.fi
 0.0.0.0 analytics.sapo.pt
 0.0.0.0 analytics.schoolwires.com
@@ -4779,6 +4789,7 @@
 0.0.0.0 analytics.strangeloopnetworks.com
 0.0.0.0 analytics.supplyframe.com
 0.0.0.0 analytics.sutterhealth.org
+0.0.0.0 analytics.swiggy.com
 0.0.0.0 analytics.tbs.com
 0.0.0.0 analytics.teamcoco.com
 0.0.0.0 analytics.teespring.com
@@ -5727,6 +5738,7 @@
 0.0.0.0 baidu-union-js.chuimg.com
 0.0.0.0 baidu-union-js.xiachufang.com
 0.0.0.0 baidu-union-pos.xiachufang.com
+0.0.0.0 baidu.cybcyw.com
 0.0.0.0 baidu.dsp.tansuotv.com
 0.0.0.0 baidu.jz5u.net
 0.0.0.0 baiduada.babihu.com
@@ -6169,6 +6181,7 @@
 0.0.0.0 bars.sapo.pt
 0.0.0.0 barshelluniversity.tcalr.org
 0.0.0.0 barthelemy.vincent86.free.fr
+0.0.0.0 bas.boshi.tv
 0.0.0.0 base.filedot.xyz
 0.0.0.0 base.joetek.ca
 0.0.0.0 base.kiwi.kz
@@ -6841,6 +6854,7 @@
 0.0.0.0 business-page-set.000webhostapp.com
 0.0.0.0 business.92wy.com
 0.0.0.0 business.dropbox.okamotocorp.sportsmag.ro
+0.0.0.0 business.inveno.com
 0.0.0.0 business.opera.com
 0.0.0.0 business.sharedcount.com
 0.0.0.0 bussinesprotection.000webhostapp.com
@@ -7040,6 +7054,7 @@
 0.0.0.0 c.za.msn.com
 0.0.0.0 c.zgnm.cc
 0.0.0.0 c.zlongad.com
+0.0.0.0 c.zmjuan.org
 0.0.0.0 c.zxyywdj.org
 0.0.0.0 c0.ifengimg.com
 0.0.0.0 c01.brickoffers.com
@@ -9495,7 +9510,6 @@
 0.0.0.0 dcs.netbiscuits.net
 0.0.0.0 dcs.plussizetech.com
 0.0.0.0 dcw.1592878.com
-0.0.0.0 dcw.hdswgc.com
 0.0.0.0 dczj9zildizai.cloudfront.net
 0.0.0.0 dd.520zhai.net
 0.0.0.0 dd.70yst.com
@@ -11646,6 +11660,7 @@
 0.0.0.0 gallery.wildtimegirls.com
 0.0.0.0 gals.nekkosvillage.net
 0.0.0.0 game-res.meizu.com
+0.0.0.0 game.baichuanhd.cn
 0.0.0.0 game.html5.qq.com
 0.0.0.0 game.pps.tv
 0.0.0.0 game.res.meizu.com
@@ -11939,6 +11954,7 @@
 0.0.0.0 ggg.xiangjiao.xxx
 0.0.0.0 ggg.zj.com
 0.0.0.0 ggle.lywf.me
+0.0.0.0 ggpge.000webhostapp.com
 0.0.0.0 ggr.yxdown.com
 0.0.0.0 ggs.myzaker.com
 0.0.0.0 ggvvee.000webhostapp.com
@@ -12239,6 +12255,7 @@
 0.0.0.0 h4i4rjwo06kowj4aqd19.maherstcottage.com.au
 0.0.0.0 h4qrpdal25iwe6arsmlm.littlematchagirl.com.au
 0.0.0.0 h5.holalauncher.com
+0.0.0.0 h5.pk1179.com
 0.0.0.0 h5.super-dreamers.com
 0.0.0.0 h5.taihao.cc
 0.0.0.0 h5nuwefkuh134ljngkasdbasfg.corolbugan.com
@@ -12352,6 +12369,7 @@
 0.0.0.0 hdad.baike.com
 0.0.0.0 hdapp1003-a.akamaihd.net
 0.0.0.0 hdapp1008-a.akamaihd.net
+0.0.0.0 hdggcdn.bayimob.com
 0.0.0.0 hdj.baidu.com
 0.0.0.0 hdn.saeednovin.com
 0.0.0.0 hdsrc-a.akamaihd.net
@@ -13455,6 +13473,7 @@
 0.0.0.0 intenalco.edu.co
 0.0.0.0 interac.ca.deposit.hopperscrossingrotary.org.au
 0.0.0.0 interac.toront-hydro.com
+0.0.0.0 interaction.bayimob.com
 0.0.0.0 interactive-assets.s3.amazonaws.com
 0.0.0.0 interactive.forthnet.gr
 0.0.0.0 interactive.huanqiu.com
@@ -14730,7 +14749,6 @@
 0.0.0.0 lola-app-db.nh-serv.co.uk
 0.0.0.0 lola.20x.free.fr
 0.0.0.0 lolemyle.easyfreehosting.com
-0.0.0.0 loles.neostrada.pl
 0.0.0.0 lolhack.softwareuninstallerdownload.com
 0.0.0.0 loliyuterr66.000webhostapp.com
 0.0.0.0 lolmax.free.fr
@@ -14893,14 +14911,15 @@
 0.0.0.0 m.facebook.com.solutions-hub.com
 0.0.0.0 m.fecjf.cn
 0.0.0.0 m.fengwanwl.com
+0.0.0.0 m.fenrs.com
 0.0.0.0 m.fhxsw.org
 0.0.0.0 m.fimky.com
+0.0.0.0 m.fouas.com
 0.0.0.0 m.fxbga.com
 0.0.0.0 m.game.weibo.cn
 0.0.0.0 m.gameyun907.net
 0.0.0.0 m.ganrs.com
 0.0.0.0 m.gglay.com
-0.0.0.0 m.guaas.com
 0.0.0.0 m.guanren11.com
 0.0.0.0 m.guanren5.com
 0.0.0.0 m.guanren6.com
@@ -16259,6 +16278,7 @@
 0.0.0.0 nboxidmsg.freetzi.com
 0.0.0.0 nbsdk-baichuan.alicdn.com
 0.0.0.0 nbsdk-baichuan.taobao.com
+0.0.0.0 nc.gdt.qq.com
 0.0.0.0 nc.ru.redtram.com
 0.0.0.0 nc004x.corp.youdao.com
 0.0.0.0 nc045x.corp.youdao.com
@@ -16282,6 +16302,7 @@
 0.0.0.0 negozio.m2.valueserver.jp
 0.0.0.0 negral.pluto.ro
 0.0.0.0 nellyticket.beast-space.com
+0.0.0.0 neo.rf.gd
 0.0.0.0 neocounter.neoworx-blog-tools.net
 0.0.0.0 nereeapma2.temp.swtest.ru
 0.0.0.0 neron19aaa.000webhostapp.com
@@ -17827,6 +17848,7 @@
 0.0.0.0 pgdb1.surf-town.net
 0.0.0.0 pgdbb1.surf-town.net
 0.0.0.0 pgdt.gtimg.cn
+0.0.0.0 pgdt.ugdtimg.com
 0.0.0.0 pharirgatic.hotmail.ru
 0.0.0.0 pharmacy-canada.forsearch.net
 0.0.0.0 pharmacy-news.blogspot.com
@@ -18135,7 +18157,6 @@
 0.0.0.0 player.1800coupon.com
 0.0.0.0 player.accoona.com
 0.0.0.0 player.alloutwedding.com
-0.0.0.0 player.h-cdn.com
 0.0.0.0 player.insuranceandhealth.com
 0.0.0.0 player.log.hunantv.com
 0.0.0.0 player.movenetworks.com
@@ -18399,6 +18420,7 @@
 0.0.0.0 pos.baidu.com
 0.0.0.0 pospr.waw.pl
 0.0.0.0 post.azsportsent.org
+0.0.0.0 post.ch.annaro6z.beget.tech
 0.0.0.0 post.dhlyman.com
 0.0.0.0 post.netchina.com.cn
 0.0.0.0 postbank.ssl-zertifikat.mobi
@@ -20531,6 +20553,7 @@
 0.0.0.0 servidormensseger.hotbox.ru
 0.0.0.0 serving.plexop.net
 0.0.0.0 serving.xxxwebtraffic.com
+0.0.0.0 serviowa.sytes.net
 0.0.0.0 servipichinchag.webcindario.com
 0.0.0.0 servivzw.beget.tech
 0.0.0.0 servlet.jkyitv.mail.jandaldiaries.com
@@ -20648,7 +20671,6 @@
 0.0.0.0 sguoikjkgh.webstarterz.com
 0.0.0.0 sgx3.cloudhost.id
 0.0.0.0 sh.creativcdn.net
-0.0.0.0 sh.qihoo.com
 0.0.0.0 sh.shuqw.com
 0.0.0.0 sh199102.website.pl
 0.0.0.0 sh199947.website.pl
@@ -21946,6 +21968,7 @@
 0.0.0.0 swingersphotos.pythonanywhere.com
 0.0.0.0 swirliest-taxi.000webhostapp.com
 0.0.0.0 swisscom.technologies.mykonasme.com
+0.0.0.0 swisscombleiwin.typeform.com
 0.0.0.0 switch.atdmt.net
 0.0.0.0 switch.d-agency.net
 0.0.0.0 switch.rtbsystem.com
@@ -23418,6 +23441,7 @@
 0.0.0.0 u-porn.mp1.mobi
 0.0.0.0 u.1133.cc
 0.0.0.0 u.63kc.com
+0.0.0.0 u.api.look.360.cn
 0.0.0.0 u.cnzol.com
 0.0.0.0 u.ctrip.com
 0.0.0.0 u.diannaodian.com
@@ -23483,6 +23507,7 @@
 0.0.0.0 ugcbrainient-a.akamaihd.net
 0.0.0.0 ugdmkqwm.medicalcaremart.ru
 0.0.0.0 ugg.keefung-zs.com
+0.0.0.0 ugyenacademy.edu.bt
 0.0.0.0 uhowdg.broz.northerndishedends.co
 0.0.0.0 uhqweueqovu4jq5qk3qu.mbservicesyorkshire.co.uk
 0.0.0.0 uhufnlsad7bhf4ykqfbevmxergwrth.himfinn.com
@@ -24159,6 +24184,7 @@
 0.0.0.0 w.online-verlag-freiburg.de
 0.0.0.0 w.punchbox.org
 0.0.0.0 w.uptolike.com
+0.0.0.0 w.waacorp.com
 0.0.0.0 w.wooboo.com.cn
 0.0.0.0 w.x.baidu.com
 0.0.0.0 w.xiaopiaoyou.com
@@ -25444,7 +25470,6 @@
 0.0.0.0 www.fastcash-ad.biz
 0.0.0.0 www.fastcashathome.homestead.com
 0.0.0.0 www.fastusersonline.com
-0.0.0.0 www.fccxgjg.com
 0.0.0.0 www.feedstermedia.com
 0.0.0.0 www.feitianma.com
 0.0.0.0 www.feixin2.com
@@ -26866,7 +26891,6 @@
 0.0.0.0 wycvts.kal.wkcengland.com
 0.0.0.0 wypad3k0.blogspot.com
 0.0.0.0 wypromuj.nazwa.pl
-0.0.0.0 wyt.wwetjy.com
 0.0.0.0 wz.37wan.com
 0.0.0.0 x.120ask.com
 0.0.0.0 x.9dagui.com
@@ -27337,6 +27361,7 @@
 0.0.0.0 ztd.szkdst.com
 0.0.0.0 ztrpm.lu.sogou.com
 0.0.0.0 zu1.november-lax.com
+0.0.0.0 zuimeitianqi.inveno.com
 0.0.0.0 zum.mudmaggot.com
 0.0.0.0 zutzt67dcxr6mxcn.onion.to
 0.0.0.0 zuvi2woytg.bradul.creatory.org
@@ -27345,6 +27370,7 @@
 0.0.0.0 zws.avvo.com
 0.0.0.0 zxc.severalblueone.ws
 0.0.0.0 zxc.severalgrayone.ws
+0.0.0.0 zxcs.ggwan.com
 0.0.0.0 zxcs.linghit.com
 0.0.0.0 zxl1102.000webhostapp.com
 0.0.0.0 zxyjhx.gszy.edu.cn
@@ -27367,8 +27393,8 @@
 
 # Hosts - notracking
 # Source - https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
-# Generated - 22.07.2018
+# Generated - 25.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 27366
+# Total Domains: 27392
 # License: MIT
 

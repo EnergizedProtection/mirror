@@ -880,7 +880,6 @@
 0.0.0.0 ads.supplyframe.akadns.net
 0.0.0.0 ads.tagsrvr.com
 0.0.0.0 ads.tahono.com
-0.0.0.0 ads.telegraph.co.uk
 0.0.0.0 ads.thehiveworks.com
 0.0.0.0 ads.themoneytizer.com
 0.0.0.0 ads.themovienation.com
@@ -1341,6 +1340,7 @@
 0.0.0.0 amobee.com
 0.0.0.0 amp.rd.linksynergy.com
 0.0.0.0 ampxchange.com
+0.0.0.0 anahtars.com
 0.0.0.0 analytics.adpost.org
 0.0.0.0 analytics.live.com
 0.0.0.0 analytics.yahoo.com
@@ -1823,6 +1823,7 @@
 0.0.0.0 clickwinks.com
 0.0.0.0 clickxchange.com
 0.0.0.0 clickz.com
+0.0.0.0 clickzxc.com
 0.0.0.0 clicmanager.fr
 0.0.0.0 clixgalore.com
 0.0.0.0 clixsense.com
@@ -1833,6 +1834,7 @@
 0.0.0.0 cls.vrvm.com
 0.0.0.0 cluster.adultworld.com
 0.0.0.0 clustrmaps.com
+0.0.0.0 clz3.net
 0.0.0.0 cnomy.com
 0.0.0.0 cnt.my
 0.0.0.0 cnt.spbland.ru
@@ -2184,7 +2186,6 @@
 0.0.0.0 fanaticalfly.com
 0.0.0.0 fandelcot.com
 0.0.0.0 far-far-star.com
-0.0.0.0 fast2earn.com
 0.0.0.0 fastapi.net
 0.0.0.0 fastclick.com
 0.0.0.0 faxo.com
@@ -2192,6 +2193,7 @@
 0.0.0.0 fbgdc.com
 0.0.0.0 fc.webmasterpro.de
 0.0.0.0 fearfulflag.com
+0.0.0.0 featence.com
 0.0.0.0 featurelink.com
 0.0.0.0 feedjit.com
 0.0.0.0 feedzpipe.com
@@ -2204,7 +2206,6 @@
 0.0.0.0 findyourcasino.com
 0.0.0.0 fineclicks.com
 0.0.0.0 firaxtech.com
-0.0.0.0 firefeeder.com
 0.0.0.0 first-rate.com
 0.0.0.0 first.nova.cz
 0.0.0.0 firstimpression.io
@@ -2803,7 +2804,6 @@
 0.0.0.0 mediaforge.com
 0.0.0.0 mediag4.com
 0.0.0.0 mediageneral.com
-0.0.0.0 mediagridwork.com
 0.0.0.0 medialand.ru
 0.0.0.0 medialets.com
 0.0.0.0 mediamath.com
@@ -3821,7 +3821,6 @@
 0.0.0.0 technoratimedia.com
 0.0.0.0 teenrevenue.com
 0.0.0.0 tek-tek-trek.com
-0.0.0.0 telemetryverification.net
 0.0.0.0 teliad.de
 0.0.0.0 telwrite.com
 0.0.0.0 tennerlist.com
@@ -3939,6 +3938,7 @@
 0.0.0.0 track.club-vaniity.net
 0.0.0.0 track.clubaustinkincaid.com
 0.0.0.0 track.clubheshe.com
+0.0.0.0 track.clubvaniity.com
 0.0.0.0 track.crowmobi.com
 0.0.0.0 track.crumobiapps.com
 0.0.0.0 track.dannixxx.com
@@ -4558,7 +4558,7 @@
 
 # Hosts - squidblacklist-dg-ads
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/squidblacklist-ads.txt
-# Generated - 22.07.2018
+# Generated - 25.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 4557
 # License: MIT

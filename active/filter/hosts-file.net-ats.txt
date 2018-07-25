@@ -45106,7 +45106,7 @@
 
 # Hosts - hosts-file.net-ats
 # Source - https://hosts-file.net/ad_servers.txt
-# Generated - 22.07.2018
+# Generated - 25.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 45105
 # License: MIT

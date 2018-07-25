@@ -1112,7 +1112,7 @@
 
 # Hosts - fademind-add.2o7net
 # Source - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts
-# Generated - 22.07.2018
+# Generated - 25.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 1111
 # License: MIT

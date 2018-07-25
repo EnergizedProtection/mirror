@@ -275,6 +275,7 @@
 0.0.0.0 activeqq.3g.qq.com
 0.0.0.0 activity.app.autohome.com.cn
 0.0.0.0 activity.serving-sys.com
+0.0.0.0 activity.tuifish.com
 0.0.0.0 activity.yuyiya.com
 0.0.0.0 actlog.dftoutiao.com
 0.0.0.0 actsdk.idreamsky.com
@@ -583,6 +584,7 @@
 0.0.0.0 ads.xprofiles.com
 0.0.0.0 ads.yahoo.com
 0.0.0.0 ads.yam.com
+0.0.0.0 ads1.lfengmobile.com
 0.0.0.0 ads1.msads.net
 0.0.0.0 ads1.msn.com
 0.0.0.0 ads2.contentabc.com
@@ -1019,6 +1021,7 @@
 0.0.0.0 baichuan.baidu.com
 0.0.0.0 baidu-union-js.xiachufang.com
 0.0.0.0 baidu-union-pos.xiachufang.com
+0.0.0.0 baidu.cybcyw.com
 0.0.0.0 baidu.dsp.tansuotv.com
 0.0.0.0 baidu.jz5u.net
 0.0.0.0 baidut.github.io
@@ -1163,6 +1166,7 @@
 0.0.0.0 bu02.zybang.com
 0.0.0.0 bu1.duba.com
 0.0.0.0 bu2.duba.com
+0.0.0.0 business.inveno.com
 0.0.0.0 buyimg.bianxianmao.com
 0.0.0.0 buyu8001.com
 0.0.0.0 bx.optimix.asia
@@ -1250,6 +1254,7 @@
 0.0.0.0 c.ynlysg.com
 0.0.0.0 c.zgnm.cc
 0.0.0.0 c.zlongad.com
+0.0.0.0 c.zmjuan.org
 0.0.0.0 c.zxyywdj.org
 0.0.0.0 c0.ifengimg.com
 0.0.0.0 c02.3dwwwgame.com
@@ -2182,8 +2187,10 @@
 0.0.0.0 e.yerpt.com
 0.0.0.0 e.yicang8.com
 0.0.0.0 e.yingchengtou.com
+0.0.0.0 e.yoiur.com
 0.0.0.0 e.youweiprint.com
 0.0.0.0 e.ysdangan.com
+0.0.0.0 e.ysdhe.com
 0.0.0.0 e.yuxyz.com
 0.0.0.0 e.ywbwsm.com
 0.0.0.0 e.yyeks.com
@@ -2407,6 +2414,7 @@
 0.0.0.0 gam.adnxs.com
 0.0.0.0 game-res.meizu.com
 0.0.0.0 game.adwo.com
+0.0.0.0 game.baichuanhd.cn
 0.0.0.0 game.html5.qq.com
 0.0.0.0 game.res.meizu.com
 0.0.0.0 game.rising.cn
@@ -2511,6 +2519,7 @@
 0.0.0.0 h10.hxsame.hexun.com
 0.0.0.0 h2.18sd.cn
 0.0.0.0 h5.holalauncher.com
+0.0.0.0 h5.pk1179.com
 0.0.0.0 h5.super-dreamers.com
 0.0.0.0 h5.taihao.cc
 0.0.0.0 h8.bec.com
@@ -2534,6 +2543,7 @@
 0.0.0.0 hbdt.luomi.com
 0.0.0.0 hd.jiedaibao.com
 0.0.0.0 hd.ylddq.com
+0.0.0.0 hdggcdn.bayimob.com
 0.0.0.0 hdj.baidu.com
 0.0.0.0 health1.12584.cn
 0.0.0.0 heimo.rrsdl.com
@@ -2847,6 +2857,7 @@
 0.0.0.0 install.sidesearch.lycos.com
 0.0.0.0 inte.sogou.com
 0.0.0.0 inte.theta.sogoucdn.com
+0.0.0.0 interaction.bayimob.com
 0.0.0.0 interactive.huanqiu.com
 0.0.0.0 interest.mix.sina.com.cn
 0.0.0.0 intf.cnzz.com
@@ -3356,11 +3367,13 @@
 0.0.0.0 m.erocw.com
 0.0.0.0 m.fecjf.cn
 0.0.0.0 m.fengwanwl.com
+0.0.0.0 m.fenrs.com
 0.0.0.0 m.fhxsw.org
 0.0.0.0 m.fimky.com
 0.0.0.0 m.fkkse.com
 0.0.0.0 m.fkogs.com
 0.0.0.0 m.focuscat.com
+0.0.0.0 m.fouas.com
 0.0.0.0 m.foumm.com
 0.0.0.0 m.fstaw.com
 0.0.0.0 m.fxbga.com
@@ -3533,9 +3546,11 @@
 0.0.0.0 m.ycioo.com
 0.0.0.0 m.yicang8.com
 0.0.0.0 m.yingchengtou.com
+0.0.0.0 m.yoiur.com
 0.0.0.0 m.yooli.com
 0.0.0.0 m.youweiprint.com
 0.0.0.0 m.yoyi.com.cn
+0.0.0.0 m.ysdhe.com
 0.0.0.0 m.yuandajiayuan.com
 0.0.0.0 m.yuxyz.com
 0.0.0.0 m.ywbwsm.com
@@ -3800,6 +3815,7 @@
 0.0.0.0 nb.17zhaole.com
 0.0.0.0 nbsdk-baichuan.alicdn.com
 0.0.0.0 nbsdk-baichuan.taobao.com
+0.0.0.0 nc.gdt.qq.com
 0.0.0.0 nc004x.corp.youdao.com
 0.0.0.0 nc045x.corp.youdao.com
 0.0.0.0 nch.xnghmc.com
@@ -4043,6 +4059,7 @@
 0.0.0.0 pfpip.sina.com
 0.0.0.0 pg.xdrig.com
 0.0.0.0 pgdt.gtimg.cn
+0.0.0.0 pgdt.ugdtimg.com
 0.0.0.0 ph.qucaigg.com
 0.0.0.0 photobucket.adnxs.com
 0.0.0.0 phpad.cqnews.net
@@ -5476,6 +5493,7 @@
 0.0.0.0 update.123juzi.net
 0.0.0.0 update.360safe.com
 0.0.0.0 update.bainv.net
+0.0.0.0 update.coolyun.com
 0.0.0.0 update.juw37xqo3x.com
 0.0.0.0 update.minipage.2345.com
 0.0.0.0 update.sdk.jiguang.cn
@@ -5646,6 +5664,7 @@
 0.0.0.0 w.m.taobao.com
 0.0.0.0 w.punchbox.org
 0.0.0.0 w.sharethis.com
+0.0.0.0 w.waacorp.com
 0.0.0.0 w.werpig.com
 0.0.0.0 w.wooboo.com.cn
 0.0.0.0 w.x.baidu.com
@@ -6399,8 +6418,10 @@
 0.0.0.0 zt.adsage.com
 0.0.0.0 ztd.szkdst.com
 0.0.0.0 ztrpm.lu.sogou.com
+0.0.0.0 zuimeitianqi.inveno.com
 0.0.0.0 zvs1.cnzz.com
 0.0.0.0 zvs2.cnzz.com
+0.0.0.0 zxcs.ggwan.com
 0.0.0.0 zxcs.linghit.com
 0.0.0.0 zxr.fzxrjx.com
 0.0.0.0 zyf.fzdfwy.com
@@ -6418,8 +6439,8 @@
 
 # Hosts - vokins-yhosts
 # Source - https://raw.githubusercontent.com/vokins/yhosts/master/hosts
-# Generated - 22.07.2018
+# Generated - 25.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 6417
+# Total Domains: 6438
 # License: MIT
 

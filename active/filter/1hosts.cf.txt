@@ -46574,7 +46574,7 @@
 
 # Hosts - 1hosts.cf
 # Source - https://1hosts.cf
-# Generated - 22.07.2018
+# Generated - 25.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 46573
 # License: MIT

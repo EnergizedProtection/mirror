@@ -48,6 +48,8 @@
 0.0.0.0 charmingevents.co.uk
 0.0.0.0 chunrikurta.com
 0.0.0.0 cme.csam-asam.org
+0.0.0.0 comparitech.net
+0.0.0.0 comparitechteam.org
 0.0.0.0 consumerreward.net
 0.0.0.0 cottoncotton.co.uk
 0.0.0.0 couponcodesforamazon.com
@@ -113,7 +115,6 @@
 0.0.0.0 jasonsquirestraining.com
 0.0.0.0 jsquiresonline.samcart.com
 0.0.0.0 juste-pour-un-soir.com
-0.0.0.0 justgiving.com
 0.0.0.0 kaluga-poisk.ru
 0.0.0.0 kfs.edu.eg
 0.0.0.0 lamoda.ua
@@ -302,6 +303,8 @@
 0.0.0.0 www.cab-airport.pl
 0.0.0.0 www.charmingevents.co.uk
 0.0.0.0 www.chunrikurta.com
+0.0.0.0 www.comparitech.net
+0.0.0.0 www.comparitechteam.org
 0.0.0.0 www.consumerreward.net
 0.0.0.0 www.cottoncotton.co.uk
 0.0.0.0 www.couponcodesforamazon.com
@@ -358,7 +361,6 @@
 0.0.0.0 www.jasonsquiressm.com
 0.0.0.0 www.jasonsquirestraining.com
 0.0.0.0 www.juste-pour-un-soir.com
-0.0.0.0 www.justgiving.com
 0.0.0.0 www.kaluga-poisk.ru
 0.0.0.0 www.kfs.edu.eg
 0.0.0.0 www.lamoda.ua
@@ -494,8 +496,8 @@
 
 # Hosts - hosts-file.net-grm
 # Source - https://hosts-file.net/grm.txt
-# Generated - 22.07.2018
+# Generated - 25.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 493
+# Total Domains: 495
 # License: MIT
 

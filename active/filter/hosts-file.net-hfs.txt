@@ -558,7 +558,7 @@
 
 # Hosts - hosts-file.net-hfs
 # Source - https://hosts-file.net/hfs.txt
-# Generated - 22.07.2018
+# Generated - 25.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 557
 # License: MIT

@@ -308,7 +308,7 @@
 
 # Hosts - adblock-nocoin-list
 # Source - https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
-# Generated - 22.07.2018
+# Generated - 25.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 307
 # License: MIT

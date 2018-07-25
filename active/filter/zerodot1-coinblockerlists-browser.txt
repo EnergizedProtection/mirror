@@ -1590,7 +1590,7 @@
 
 # Hosts - zerodot1-coinblockerlists-browser
 # Source - https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
-# Generated - 22.07.2018
+# Generated - 25.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 1589
 # License: MIT

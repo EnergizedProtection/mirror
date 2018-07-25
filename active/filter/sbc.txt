@@ -79,6 +79,7 @@
 0.0.0.0 ad.api.kaffnet.com
 0.0.0.0 ad.apsalar.com
 0.0.0.0 ad.click.kaffnet.com
+0.0.0.0 ad.wynk.in
 0.0.0.0 ad0.adspaces.ero-advertising.com
 0.0.0.0 ad0.api.ero-advertising.com
 0.0.0.0 ad0.banners.ero-advertising.com
@@ -158,17 +159,24 @@
 0.0.0.0 an.batmobi.net
 0.0.0.0 analysis.polarisoffice.com
 0.0.0.0 analytics-digit-in.cdn.ampproject.org
+0.0.0.0 analytics-production.hapyak.com
 0.0.0.0 analytics-static.ugc.bazaarvoice.com
+0.0.0.0 analytics.247sports.com
 0.0.0.0 analytics.adspaces.ero-advertising.com
+0.0.0.0 analytics.archive.org
+0.0.0.0 analytics.bitrix.info
 0.0.0.0 analytics.cloudron.io
 0.0.0.0 analytics.colacoweb.net
 0.0.0.0 analytics.digit.in
 0.0.0.0 analytics.ero-advertising.com
+0.0.0.0 analytics.htmedia.in
+0.0.0.0 analytics.icons8.com
 0.0.0.0 analytics.jabong.com
 0.0.0.0 analytics.lk.api.ditto.com
 0.0.0.0 analytics.logsss.com
 0.0.0.0 analytics.mailmunch.co
 0.0.0.0 analytics.mopub.com
+0.0.0.0 analytics.myfinance.com
 0.0.0.0 analytics.mytvzion.pro
 0.0.0.0 analytics.phando.com
 0.0.0.0 analytics.picsart.com
@@ -177,7 +185,9 @@
 0.0.0.0 analytics.posttv.com
 0.0.0.0 analytics.publitas.com
 0.0.0.0 analytics.rayjump.com
+0.0.0.0 analytics.samdd.me
 0.0.0.0 analytics.siliconexpert.com
+0.0.0.0 analytics.swiggy.com
 0.0.0.0 analytics.thevideo.me
 0.0.0.0 analyticsapi.bsbportal.com
 0.0.0.0 androidads23.adcolony.com
@@ -437,6 +447,7 @@
 0.0.0.0 l-v1.presage.io
 0.0.0.0 largeloot.com
 0.0.0.0 layers.ero-advertising.com
+0.0.0.0 lead.soperson.com
 0.0.0.0 lecap-services.fr
 0.0.0.0 lepodownload.mediatek.com
 0.0.0.0 letitbefaster.website
@@ -587,6 +598,7 @@
 0.0.0.0 smetrics.bestbuy.com
 0.0.0.0 smtp.ero-advertising.com
 0.0.0.0 socrates.alphonso.tv
+0.0.0.0 soperson.com
 0.0.0.0 spaces.ero-advertising.com
 0.0.0.0 specialsections.siteseer.ca
 0.0.0.0 speed4cksa.ero-advertising.com
@@ -600,6 +612,7 @@
 0.0.0.0 srv.pixel.parsely.com
 0.0.0.0 ssl.widgets.webengage.com
 0.0.0.0 ssp.face2trade.com
+0.0.0.0 sstats.adobe.com
 0.0.0.0 stage.tvpage.com
 0.0.0.0 stat-c.maxthon.com
 0.0.0.0 static.clmbtech.com
@@ -621,6 +634,7 @@
 0.0.0.0 taboola-d.openx.net
 0.0.0.0 tag.hockeycurve.com
 0.0.0.0 tags.news.com.au
+0.0.0.0 talk99.cn
 0.0.0.0 tcm.optica.ero-advertising.com
 0.0.0.0 telecommand.telemetry.microsoft.com
 0.0.0.0 telemetry.firstpartyapps.oaspapps.com
@@ -732,8 +746,10 @@
 0.0.0.0 www.rollbar.com
 0.0.0.0 www.security-check-551.com
 0.0.0.0 www.sionicmedia.com
+0.0.0.0 www.soperson.com
 0.0.0.0 www.speedclicks.ero-advertising.com
 0.0.0.0 www.sportsinteraction.com
+0.0.0.0 www.talk99.cn
 0.0.0.0 www.thumb.ero-advertising.com
 0.0.0.0 www.torrenty-org.pl
 0.0.0.0 www.tvpage.com
@@ -746,6 +762,7 @@
 0.0.0.0 xml.plaimedia.com
 0.0.0.0 xn--adspace-kvg.ero-advertising.com
 0.0.0.0 yashin.alphonso.tv
+0.0.0.0 yun-static.soperson.com
 0.0.0.0 zarget.com
 0.0.0.0 zee.cws.conviva.com
 0.0.0.0 zekiatagur.com
@@ -756,8 +773,8 @@
 
 # Hosts - sbc
 # Source - https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts
-# Generated - 22.07.2018
+# Generated - 25.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 755
+# Total Domains: 772
 # License: MIT
 

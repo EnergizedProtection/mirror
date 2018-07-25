@@ -1089,6 +1089,7 @@
 0.0.0.0 amid.co.pl
 0.0.0.0 amiga-life.ru
 0.0.0.0 amiksingh.com
+0.0.0.0 amimail.com
 0.0.0.0 amin.co.pl
 0.0.0.0 aminoprimereview.info
 0.0.0.0 ammazzatempo.com
@@ -1228,6 +1229,7 @@
 0.0.0.0 aprutana.ru
 0.0.0.0 apteka-medyczna.waw.pl
 0.0.0.0 aptel.org
+0.0.0.0 apuymail.com
 0.0.0.0 aquarians.co.uk
 0.0.0.0 aquashieldroofingcorporate.com
 0.0.0.0 ar.a2gl.in
@@ -6688,6 +6690,7 @@
 0.0.0.0 ihappytime.com
 0.0.0.0 ihavenomouthandimustspeak.com
 0.0.0.0 ihehmail.com
+0.0.0.0 ihomail.com
 0.0.0.0 iidiscounts.com
 0.0.0.0 iidiscounts.org
 0.0.0.0 iidzlfals.pl
@@ -6707,6 +6710,7 @@
 0.0.0.0 ikpz6l.pl
 0.0.0.0 il.edu.pl
 0.0.0.0 ilencorporationsap.com
+0.0.0.0 ileqmail.com
 0.0.0.0 iliketndnl.com
 0.0.0.0 ilikeyoustore.org
 0.0.0.0 ilinkelink.com
@@ -6799,6 +6803,7 @@
 0.0.0.0 inhomelife.ru
 0.0.0.0 inikehere.com
 0.0.0.0 inlovevk.net
+0.0.0.0 inmail.com
 0.0.0.0 inmailing.com
 0.0.0.0 inmailwetrust.com
 0.0.0.0 inmouncela.xyz
@@ -6902,6 +6907,7 @@
 0.0.0.0 ipolopol.com
 0.0.0.0 iposta.ml
 0.0.0.0 ipuccidresses.com
+0.0.0.0 iqamail.com
 0.0.0.0 iqmail.com
 0.0.0.0 iqzzfdids.pl
 0.0.0.0 ir101.net
@@ -6911,6 +6917,7 @@
 0.0.0.0 iredirect.info
 0.0.0.0 irinaeunbebescump.com
 0.0.0.0 irland-nedv.ru
+0.0.0.0 irmail.com
 0.0.0.0 irolpccc.com
 0.0.0.0 irolpo.com
 0.0.0.0 ironmantriathlons.net
@@ -6954,6 +6961,7 @@
 0.0.0.0 itdesi.com
 0.0.0.0 itech-versicherung.de
 0.0.0.0 itemailing.com
+0.0.0.0 itibmail.com
 0.0.0.0 itjustmail.tk
 0.0.0.0 itmailbox.info
 0.0.0.0 itmailing.com
@@ -6962,6 +6970,7 @@
 0.0.0.0 itsecpackets.com
 0.0.0.0 itsgood2berich.com
 0.0.0.0 itxsector.ru
+0.0.0.0 iumail.com
 0.0.0.0 iuporno.info
 0.0.0.0 ivans.me
 0.0.0.0 ivii.ml
@@ -9093,6 +9102,7 @@
 0.0.0.0 myraybansunglasses-sale.com
 0.0.0.0 myredirect.info
 0.0.0.0 myrice.com
+0.0.0.0 mysaitenew.ru
 0.0.0.0 mysans.tk
 0.0.0.0 mysecretnsa.net
 0.0.0.0 mysent.ml
@@ -9582,6 +9592,7 @@
 0.0.0.0 obibike.net
 0.0.0.0 obibok.de
 0.0.0.0 objectuoso.com
+0.0.0.0 obmail.com
 0.0.0.0 obserwatorbankowy.pl
 0.0.0.0 obuv-poisk.info
 0.0.0.0 obviousdistraction.com
@@ -9605,6 +9616,7 @@
 0.0.0.0 odsniezanienieruchomosci.pl
 0.0.0.0 odszkodowanie-w-anglii.eu
 0.0.0.0 odu-tube.ru
+0.0.0.0 odulmail.com
 0.0.0.0 odzyskiwaniedanych.com
 0.0.0.0 oemkoreabrand.com
 0.0.0.0 oemkoreafactory.com
@@ -9979,6 +9991,7 @@
 0.0.0.0 overkill5.pl
 0.0.0.0 overkill6.pl
 0.0.0.0 overwholesale.com
+0.0.0.0 ovmail.com
 0.0.0.0 ovorowo.com
 0.0.0.0 ovwfzpwz.pc.pl
 0.0.0.0 owbot.com
@@ -9989,6 +10002,7 @@
 0.0.0.0 ownersimho.info
 0.0.0.0 owsz.edu.pl
 0.0.0.0 oxford.gov
+0.0.0.0 oxmail.com
 0.0.0.0 oxudvqstjaxc.info
 0.0.0.0 oymail.com
 0.0.0.0 oznmtwkng.pl
@@ -13148,6 +13162,7 @@
 0.0.0.0 uoft.edu.com
 0.0.0.0 uonyc.org
 0.0.0.0 uouweoq132.info
+0.0.0.0 upelmail.com
 0.0.0.0 upimage.net
 0.0.0.0 upmail.com
 0.0.0.0 upmedio.com
@@ -14454,8 +14469,8 @@
 
 # Hosts - stopforumspam.com
 # Source - https://stopforumspam.com/downloads/toxic_domains_whole.txt
-# Generated - 22.07.2018
+# Generated - 25.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 14453
+# Total Domains: 14468
 # License: MIT
 

@@ -2039,7 +2039,7 @@
 
 # Hosts - hosts-file.net-wrz
 # Source - https://hosts-file.net/wrz.txt
-# Generated - 22.07.2018
+# Generated - 25.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 2038
 # License: MIT

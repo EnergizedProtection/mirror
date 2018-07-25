@@ -551,6 +551,7 @@
 0.0.0.0 sana.newsinc.com
 0.0.0.0 scout.haymarketmedia.com
 0.0.0.0 scripts.psyma.com
+0.0.0.0 sdrive.skoda-auto.com
 0.0.0.0 secure.ifbyphone.com
 0.0.0.0 seg.sharethis.com
 0.0.0.0 segments.adap.tv
@@ -822,8 +823,8 @@
 
 # Hosts - easyprivacy-thirdparty
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easyprivacy-thirdparty.txt
-# Generated - 22.07.2018
+# Generated - 25.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 821
+# Total Domains: 822
 # License: MIT
 

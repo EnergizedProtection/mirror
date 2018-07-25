@@ -710,7 +710,7 @@
 
 # Hosts - matomo.org-spammers
 # Source - https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt
-# Generated - 22.07.2018
+# Generated - 25.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 709
 # License: MIT

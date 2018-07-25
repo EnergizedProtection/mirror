@@ -896,6 +896,7 @@
 0.0.0.0 annonser.dagbladet.no
 0.0.0.0 anxiousapples.com
 0.0.0.0 api.intensifier.de
+0.0.0.0 app-analytics.snapchat.com
 0.0.0.0 app.pendo.io
 0.0.0.0 appsflyer.com
 0.0.0.0 aps.hearstnp.com
@@ -2585,8 +2586,8 @@
 
 # Hosts - pgl.yoyo.org
 # Source - https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&mimetype=plaintext
-# Generated - 22.07.2018
+# Generated - 25.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 2584
+# Total Domains: 2585
 # License: MIT
 

@@ -791,7 +791,7 @@
 
 # Hosts - adguard-mobile-ads
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-mobile-ads.txt
-# Generated - 22.07.2018
+# Generated - 25.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 790
 # License: MIT

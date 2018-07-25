@@ -24,6 +24,7 @@
 0.0.0.0 analytics.247sports.com
 0.0.0.0 analytics.adfreetime.com
 0.0.0.0 analytics.archive.org
+0.0.0.0 analytics.brave.com
 0.0.0.0 analytics.ecosia.org
 0.0.0.0 analytics.global.sky.com
 0.0.0.0 analytics.gorillanation.com
@@ -153,6 +154,7 @@
 0.0.0.0 event-reporting-dot-webylytics.appspot.com
 0.0.0.0 eventlog.jackpot.de
 0.0.0.0 eventlogger.soundcloud.com
+0.0.0.0 events.jora.com
 0.0.0.0 events.privy.com
 0.0.0.0 events.reddit.com
 0.0.0.0 events.redditmedia.com
@@ -654,8 +656,8 @@
 
 # Hosts - easyprivacy-specific
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easyprivacy-specific.txt
-# Generated - 22.07.2018
+# Generated - 25.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 653
+# Total Domains: 655
 # License: MIT
 
