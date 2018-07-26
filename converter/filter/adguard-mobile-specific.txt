@@ -1,7 +1,7 @@
 # adguard-mobile-specific Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - https://github.com/AdguardTeam/AdguardFilters/raw/master/MobileFilter/sections/specific_app.txt
-# Last Converted - Wed, 25 Jul 2018 03:59:29 -0400
+# Last Converted - Thu, 26 Jul 2018 03:00:34 -0400
 # Energized - ad.porn.malware blocking.
 
 0.0.0.0 promotion.polarisoffice.com

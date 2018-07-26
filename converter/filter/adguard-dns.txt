@@ -1,9 +1,10 @@
 # adguard-dns Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - https://filters.adtidy.org/extension/chromium/filters/15.txt
-# Last Converted - Wed, 25 Jul 2018 03:59:29 -0400
+# Last Converted - Thu, 26 Jul 2018 03:00:35 -0400
 # Energized - ad.porn.malware blocking.
 
+0.0.0.0 7cdf78unokr7.ru
 0.0.0.0 lfd-media.ru
 0.0.0.0 oznul.com
 0.0.0.0 st.astraone.io
@@ -11345,6 +11346,7 @@
 0.0.0.0 amnrbviujof.com
 0.0.0.0 amqcdbles.com
 0.0.0.0 amqtbshegbqg.com
+0.0.0.0 amwupsihqfewgr.com
 0.0.0.0 anasjdzutdmv.com
 0.0.0.0 ankbmqtt.com
 0.0.0.0 ankcnflupb.com
@@ -11407,6 +11409,7 @@
 0.0.0.0 axeobgnsk.com
 0.0.0.0 axfihweksrgor.com
 0.0.0.0 axfkfstrbacx.com
+0.0.0.0 axglltqwtmnl.com
 0.0.0.0 axsczaklngkxx.com
 0.0.0.0 axzrxkkklakka.com
 0.0.0.0 ayhdwulehfdwn.com
@@ -11445,6 +11448,7 @@
 0.0.0.0 bdozkocgkljj.com
 0.0.0.0 bdyzewccsqpw.com
 0.0.0.0 bebufuspldzh.com
+0.0.0.0 bebxxrgjigz.com
 0.0.0.0 beghfkrygvxp.com
 0.0.0.0 behjgnhniasz.com
 0.0.0.0 behybmunweid.com
@@ -11819,6 +11823,7 @@
 0.0.0.0 disbkzufvqhk.com
 0.0.0.0 ditouyldfqgt.com
 0.0.0.0 diuiyzhao.com
+0.0.0.0 diwiosqupuecg.com
 0.0.0.0 diysqcbfyuru.com
 0.0.0.0 djavljmti.com
 0.0.0.0 djbnmqdawodm.com
@@ -11893,6 +11898,7 @@
 0.0.0.0 dsnjsdrbqwdu.com
 0.0.0.0 dswwghrlwwcm.com
 0.0.0.0 dtmwwpykiqng.com
+0.0.0.0 dtosduecka.com
 0.0.0.0 dtrwlquawlp.com
 0.0.0.0 dubijsirwtwq.com
 0.0.0.0 dubzmzpdkddi.com
@@ -12100,6 +12106,7 @@
 0.0.0.0 ezbbxqocxnto.com
 0.0.0.0 ezbtpdjeimlv.com
 0.0.0.0 ezemyudhkzvx.com
+0.0.0.0 ezfncojpnrmj.com
 0.0.0.0 ezhkfxskimqnqk.com
 0.0.0.0 ezjrnbpjthir.com
 0.0.0.0 ezknqsblzmsl.com
@@ -13231,6 +13238,7 @@
 0.0.0.0 lhuqalcxjmtq.com
 0.0.0.0 liakiadlbs.com
 0.0.0.0 ligabklr.com
+0.0.0.0 lilncsqapikckt.com
 0.0.0.0 liosawitskzd.com
 0.0.0.0 liqbipkfbafq.com
 0.0.0.0 lixzmpxjilqp.com
@@ -14629,6 +14637,7 @@
 0.0.0.0 ttdrlihuqgklvc.com
 0.0.0.0 ttgwyqmuhfhx.com
 0.0.0.0 tthxqtogskzp.com
+0.0.0.0 tudsxyhpn.com
 0.0.0.0 tujbidamlfrn.com
 0.0.0.0 tuldmgwvimgowg.com
 0.0.0.0 tumfvfvyxusz.com
@@ -15410,6 +15419,7 @@
 0.0.0.0 yjjtxuhfglxa.com
 0.0.0.0 yjlocznmvvvtp.com
 0.0.0.0 yjsshralziws.com
+0.0.0.0 yjthoibc.com
 0.0.0.0 ykaakgddajbt.com
 0.0.0.0 ykacbmxeapwi.com
 0.0.0.0 ykalhhbkhwgyo.com

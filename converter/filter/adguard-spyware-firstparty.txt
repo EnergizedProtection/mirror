@@ -1,7 +1,7 @@
 # adguard-spyware-firstparty Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers_firstparty.txt
-# Last Converted - Wed, 25 Jul 2018 03:59:29 -0400
+# Last Converted - Thu, 26 Jul 2018 03:00:35 -0400
 # Energized - ad.porn.malware blocking.
 
 0.0.0.0 ben.crxmouse.com

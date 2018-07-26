@@ -1,7 +1,7 @@
 # squidblacklist-ads Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - http://www.squidblacklist.org/downloads/dg-ads.acl
-# Last Converted - Wed, 25 Jul 2018 03:59:40 -0400
+# Last Converted - Thu, 26 Jul 2018 03:00:42 -0400
 # Energized - ad.porn.malware blocking.
 
 0.0.0.0 0icep80f.com
@@ -2195,6 +2195,7 @@
 0.0.0.0 fanaticalfly.com
 0.0.0.0 fandelcot.com
 0.0.0.0 far-far-star.com
+0.0.0.0 fast2earn.com
 0.0.0.0 fastapi.net
 0.0.0.0 fastclick.com
 0.0.0.0 faxo.com
@@ -3004,7 +3005,6 @@
 0.0.0.0 netshelter.net
 0.0.0.0 netsolads.com
 0.0.0.0 networkplay.in
-0.0.0.0 networkxi.com
 0.0.0.0 networld.hk
 0.0.0.0 neudesicmediagroup.com
 0.0.0.0 new17write.com
@@ -3072,7 +3072,6 @@
 0.0.0.0 oas.toronto.com
 0.0.0.0 oas.uniontrib.com
 0.0.0.0 oas.villagevoice.com
-0.0.0.0 obesw.com
 0.0.0.0 obeus.com
 0.0.0.0 objectservers.com
 0.0.0.0 objects.tremormedia.com
@@ -3835,6 +3834,7 @@
 0.0.0.0 tec-tec-boom.com
 0.0.0.0 teenrevenue.com
 0.0.0.0 tek-tek-trek.com
+0.0.0.0 telemetryverification.net
 0.0.0.0 teliad.de
 0.0.0.0 telwrite.com
 0.0.0.0 tennerlist.com
@@ -4511,7 +4511,6 @@
 0.0.0.0 ydworld.com
 0.0.0.0 yeabble.com
 0.0.0.0 yellads.com
-0.0.0.0 yellowmango.eu
 0.0.0.0 yesads.com
 0.0.0.0 yesadsrv.com
 0.0.0.0 yesadvertising.com
