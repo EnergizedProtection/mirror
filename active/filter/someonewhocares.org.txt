@@ -3330,6 +3330,7 @@
 0.0.0.0 euniverseads.com
 0.0.0.0 eur.a1.yimg.com
 0.0.0.0 europe.adserver.yahoo.com
+0.0.0.0 euw.adserver.snapads.com
 0.0.0.0 events.kiosked.com
 0.0.0.0 events.streamrail.net
 0.0.0.0 eventtracker.videostrip.com
@@ -5971,6 +5972,7 @@
 0.0.0.0 sayfabulunamadi.com
 0.0.0.0 sb.freeskreen.com
 0.0.0.0 sb.scorecardresearch.com
+0.0.0.0 sc-analytics.appspot.com
 0.0.0.0 sc10.net
 0.0.0.0 scdown.qq.com
 0.0.0.0 schemas.microsoft.akadns.net
@@ -8505,8 +8507,8 @@
 
 # Hosts - someonewhocares.org
 # Source - http://someonewhocares.org/hosts/hosts
-# Generated - 25.07.2018
+# Generated - 26.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 8504
+# Total Domains: 8506
 # License: MIT
 

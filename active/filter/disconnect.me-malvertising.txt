@@ -67,9 +67,7 @@
 0.0.0.0 81182479.com
 0.0.0.0 818tl.com
 0.0.0.0 8883448.com
-0.0.0.0 88kkvv.com
 0.0.0.0 911718.net
-0.0.0.0 9523cc.com
 0.0.0.0 978qp.com
 0.0.0.0 97boss.com
 0.0.0.0 980media.com
@@ -1616,7 +1614,6 @@
 0.0.0.0 federaciondepastores.com
 0.0.0.0 feedbackresearch.com
 0.0.0.0 feedjit.com
-0.0.0.0 feilongjiasi.com
 0.0.0.0 fejsbuk.com.ba
 0.0.0.0 fenshaolu.com.cn
 0.0.0.0 festival.cocobau.com
@@ -1721,7 +1718,6 @@
 0.0.0.0 guangdelvyou.com
 0.0.0.0 guihua-china.com
 0.0.0.0 guppymedia.com
-0.0.0.0 gxatatuning.cn
 0.0.0.0 gxqyyq.com
 0.0.0.0 gzdywz.com
 0.0.0.0 h148.cn
@@ -1781,7 +1777,6 @@
 0.0.0.0 hotlog.ru
 0.0.0.0 hotrank.com.tw
 0.0.0.0 hotslotpot.cn
-0.0.0.0 hp-h.us
 0.0.0.0 hsbarbershop.co.uk
 0.0.0.0 hsych.com
 0.0.0.0 htmlhubing.xyz
@@ -1992,6 +1987,7 @@
 0.0.0.0 localytics.com
 0.0.0.0 log.btopenworld.com
 0.0.0.0 logua.com
+0.0.0.0 loles.neostrada.pl
 0.0.0.0 loopme.biz
 0.0.0.0 lop.com
 0.0.0.0 lousecn.cn
@@ -3065,8 +3061,8 @@
 
 # Hosts - disconnect.me-malvertising
 # Source - https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
-# Generated - 25.07.2018
+# Generated - 26.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 3064
+# Total Domains: 3060
 # License: MIT
 

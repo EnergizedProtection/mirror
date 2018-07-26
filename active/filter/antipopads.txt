@@ -51,6 +51,7 @@
 0.0.0.0 amhpbhyxfgvd.com
 0.0.0.0 amnrbviujof.com
 0.0.0.0 amqcdbles.com
+0.0.0.0 amwupsihqfewgr.com
 0.0.0.0 anasjdzutdmv.com
 0.0.0.0 ankbmqtt.com
 0.0.0.0 ankcnflupb.com
@@ -111,6 +112,7 @@
 0.0.0.0 bdggxjonzbmq.com
 0.0.0.0 bdotqoqzxauf.com
 0.0.0.0 bdyzewccsqpw.com
+0.0.0.0 bebxxrgjigz.com
 0.0.0.0 behybmunweid.com
 0.0.0.0 bewcmime.com
 0.0.0.0 bezcmsrzx.com
@@ -717,6 +719,7 @@
 0.0.0.0 ggscparljuz.com
 0.0.0.0 ggtujtuyvcci.com
 0.0.0.0 ggwbgnmahqyclg.com
+0.0.0.0 ggyrnhdbqxufh.com
 0.0.0.0 ggzvlwrf.com
 0.0.0.0 ghaszdguvrtnb.com
 0.0.0.0 ghjwogfexch.com
@@ -1236,6 +1239,7 @@
 0.0.0.0 kqlvuutpgdnude.com
 0.0.0.0 kquthdppub.com
 0.0.0.0 kqvpjbau.com
+0.0.0.0 krghheqkkcght.com
 0.0.0.0 krilxjkgttmp.com
 0.0.0.0 krmuxxubtkrg.com
 0.0.0.0 krsdoqvsmgld.com
@@ -1651,6 +1655,7 @@
 0.0.0.0 ohprlushvz.com
 0.0.0.0 oiahzjhwpsokt.com
 0.0.0.0 oieeezzld.com
+0.0.0.0 oilfeswka.com
 0.0.0.0 oipsyfnmrwir.com
 0.0.0.0 oixafvoxnmceol.com
 0.0.0.0 ojiffvsutzrx.com
@@ -2354,6 +2359,7 @@
 0.0.0.0 uyusewjlkadj.com
 0.0.0.0 uzagahwfnt.com
 0.0.0.0 uzmmpskwon.com
+0.0.0.0 uzmsexugrqz.com
 0.0.0.0 uzqptkclvcaa.com
 0.0.0.0 uzwweczttqlayd.com
 0.0.0.0 vacnuuitxqot.com
@@ -2592,6 +2598,7 @@
 0.0.0.0 xacexccntjbrht.com
 0.0.0.0 xaftihkjg.com
 0.0.0.0 xanqdskuyb.com
+0.0.0.0 xapnrbvpb.com
 0.0.0.0 xaqbpvojgi.com
 0.0.0.0 xarnvfthbye.com
 0.0.0.0 xavipejcznxf.com
@@ -2874,6 +2881,7 @@
 0.0.0.0 zucnclozfb.com
 0.0.0.0 zudyyulnjdqmn.com
 0.0.0.0 zutnlpnzxtt.com
+0.0.0.0 zuwaodorkyrrp.com
 0.0.0.0 zuxanrebeceko.com
 0.0.0.0 zvsjiigao.com
 0.0.0.0 zvttlvbclihk.com
@@ -2901,8 +2909,8 @@
 
 # Hosts - antipopads
 # Source - https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts
-# Generated - 25.07.2018
+# Generated - 26.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 2900
+# Total Domains: 2908
 # License: MIT
 

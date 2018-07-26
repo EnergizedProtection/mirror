@@ -154,7 +154,7 @@
 
 # Hosts - easylist-adult-thirdparty
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easylist-adult-thirdparty.txt
-# Generated - 25.07.2018
+# Generated - 26.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 153
 # License: MIT

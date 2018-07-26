@@ -36,7 +36,9 @@
 0.0.0.0 alibestsale.com
 0.0.0.0 aliexsale.ru
 0.0.0.0 alinabaniecka.pl
+0.0.0.0 alkanfarma.org
 0.0.0.0 allergick.com
+0.0.0.0 allergija.com
 0.0.0.0 allknow.info
 0.0.0.0 allmarketsnewdayli.gdn
 0.0.0.0 allnews.md
@@ -56,6 +58,7 @@
 0.0.0.0 arkkivoltti.net
 0.0.0.0 artpaint-market.ru
 0.0.0.0 artparquet.ru
+0.0.0.0 ask-yug.com
 0.0.0.0 atleticpharm.org
 0.0.0.0 atyks.ru
 0.0.0.0 auto-complex.by
@@ -71,6 +74,7 @@
 0.0.0.0 baixar-musicas-gratis.com
 0.0.0.0 baladur.ru
 0.0.0.0 balitouroffice.com
+0.0.0.0 balkanfarma.org
 0.0.0.0 bard-real.com.ua
 0.0.0.0 batut-fun.ru
 0.0.0.0 bavariagid.de
@@ -85,6 +89,7 @@
 0.0.0.0 bestofferhddeed.info
 0.0.0.0 bestwebsitesawards.com
 0.0.0.0 betterhealthbeauty.com
+0.0.0.0 bezprostatita.com
 0.0.0.0 biglistofwebsites.com
 0.0.0.0 billiard-classic.com.ua
 0.0.0.0 bio-market.kz
@@ -178,6 +183,7 @@
 0.0.0.0 domination.ml
 0.0.0.0 doska-vsem.ru
 0.0.0.0 dostavka-v-krym.com
+0.0.0.0 dosugrostov.site
 0.0.0.0 drupa.com
 0.0.0.0 earn-from-articles.com
 0.0.0.0 easycommerce.cf
@@ -396,6 +402,7 @@
 0.0.0.0 mobilemedia.md
 0.0.0.0 mockupui.com
 0.0.0.0 modforwot.ru
+0.0.0.0 modnie-futbolki.net
 0.0.0.0 moinozhki.com
 0.0.0.0 monetizationking.net
 0.0.0.0 money-for-placing-articles.com
@@ -467,6 +474,7 @@
 0.0.0.0 popugaychiki.com
 0.0.0.0 pornhub-forum.ga
 0.0.0.0 porno-chaman.info
+0.0.0.0 pornoelita.info
 0.0.0.0 pornoforadult.com
 0.0.0.0 pornogig.com
 0.0.0.0 pornohd1080.online
@@ -487,7 +495,9 @@
 0.0.0.0 promoforum.ru
 0.0.0.0 pron.pro
 0.0.0.0 prosmibank.ru
+0.0.0.0 prostitutki-rostova.ru.com
 0.0.0.0 psa48.ru
+0.0.0.0 purchasepillsnorx.com
 0.0.0.0 qwesa.ru
 0.0.0.0 rankings-analytics.com
 0.0.0.0 ranksonic.info
@@ -518,7 +528,9 @@
 0.0.0.0 rulate.ru
 0.0.0.0 rumamba.com
 0.0.0.0 rupolitshow.ru
+0.0.0.0 ruspoety.ru
 0.0.0.0 russian-postindex.ru
+0.0.0.0 russian-translator.com
 0.0.0.0 sad-torg.com.ua
 0.0.0.0 sady-urala.ru
 0.0.0.0 saltspray.ru
@@ -560,6 +572,7 @@
 0.0.0.0 site5.com
 0.0.0.0 siteripz.net
 0.0.0.0 skinali.com
+0.0.0.0 sladkoevideo.com
 0.0.0.0 sledstvie-veli.net
 0.0.0.0 slkrm.ru
 0.0.0.0 slomm.ru
@@ -582,6 +595,7 @@
 0.0.0.0 spb-plitka.ru
 0.0.0.0 spb-scenar.ru
 0.0.0.0 spin2016.cf
+0.0.0.0 sportwizard.ru
 0.0.0.0 spravka130.ru
 0.0.0.0 spravkavspb.net
 0.0.0.0 stavimdveri.ru
@@ -632,6 +646,7 @@
 0.0.0.0 ucoz.ru
 0.0.0.0 udav.net
 0.0.0.0 ufa.dienai.ru
+0.0.0.0 ukrainian-poetry.com
 0.0.0.0 ul-potolki.ru
 0.0.0.0 unibus.su
 0.0.0.0 univerfiles.com
@@ -649,6 +664,7 @@
 0.0.0.0 ventopt.by
 0.0.0.0 veselokloun.ru
 0.0.0.0 vesnatehno.com
+0.0.0.0 viagra-soft.ru
 0.0.0.0 video--production.com
 0.0.0.0 video-woman.com
 0.0.0.0 videos-for-your-business.com
@@ -681,8 +697,11 @@
 0.0.0.0 xn----7sbabn5abjehfwi8bj.xn--p1ai
 0.0.0.0 xn----7sbbpe3afguye.xn--p1ai
 0.0.0.0 xn----8sbaki4azawu5b.xn--p1ai
+0.0.0.0 xn----8sbarihbihxpxqgaf0g1e.xn--80adxhks
 0.0.0.0 xn----8sblgmbj1a1bk8l.xn----161-4vemb6cjl7anbaea3afninj.xn--p1ai
+0.0.0.0 xn----ctbbcjd3dbsehgi.xn--p1ai
 0.0.0.0 xn----ctbfcdjl8baejhfb1oh.xn--p1ai
+0.0.0.0 xn----ctbigni3aj4h.xn--p1ai
 0.0.0.0 xn----ftbeoaiyg1ak1cb7d.xn--p1ai
 0.0.0.0 xn----itbbudqejbfpg3l.com
 0.0.0.0 xn--80aaajkrncdlqdh6ane8t.xn--p1ai
@@ -710,8 +729,8 @@
 
 # Hosts - matomo.org-spammers
 # Source - https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt
-# Generated - 25.07.2018
+# Generated - 26.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 709
+# Total Domains: 728
 # License: MIT
 

@@ -2186,6 +2186,7 @@
 0.0.0.0 fanaticalfly.com
 0.0.0.0 fandelcot.com
 0.0.0.0 far-far-star.com
+0.0.0.0 fast2earn.com
 0.0.0.0 fastapi.net
 0.0.0.0 fastclick.com
 0.0.0.0 faxo.com
@@ -2991,7 +2992,6 @@
 0.0.0.0 netshelter.net
 0.0.0.0 netsolads.com
 0.0.0.0 networkplay.in
-0.0.0.0 networkxi.com
 0.0.0.0 networld.hk
 0.0.0.0 neudesicmediagroup.com
 0.0.0.0 new-new-years.com
@@ -3060,7 +3060,6 @@
 0.0.0.0 oascentral.chicagobusiness.com
 0.0.0.0 oascentral.fortunecity.com
 0.0.0.0 oascentral.register.com
-0.0.0.0 obesw.com
 0.0.0.0 obeus.com
 0.0.0.0 objects.tremormedia.com
 0.0.0.0 objectservers.com
@@ -3821,6 +3820,7 @@
 0.0.0.0 technoratimedia.com
 0.0.0.0 teenrevenue.com
 0.0.0.0 tek-tek-trek.com
+0.0.0.0 telemetryverification.net
 0.0.0.0 teliad.de
 0.0.0.0 telwrite.com
 0.0.0.0 tennerlist.com
@@ -4494,7 +4494,6 @@
 0.0.0.0 ydworld.com
 0.0.0.0 yeabble.com
 0.0.0.0 yellads.com
-0.0.0.0 yellowmango.eu
 0.0.0.0 yes-messenger.com
 0.0.0.0 yesads.com
 0.0.0.0 yesadsrv.com
@@ -4558,8 +4557,8 @@
 
 # Hosts - squidblacklist-dg-ads
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/squidblacklist-ads.txt
-# Generated - 25.07.2018
+# Generated - 26.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 4557
+# Total Domains: 4556
 # License: MIT
 

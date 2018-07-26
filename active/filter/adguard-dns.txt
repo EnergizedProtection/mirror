@@ -392,6 +392,7 @@
 0.0.0.0 7bab60879a3.com
 0.0.0.0 7bpeople.com
 0.0.0.0 7cbb237b705ae9361.com
+0.0.0.0 7cdf78unokr7.ru
 0.0.0.0 7d6260236b547b31f.com
 0.0.0.0 7db0b2a0ee95f557904.com
 0.0.0.0 7dvd.ru
@@ -2065,6 +2066,7 @@
 0.0.0.0 amqcdbles.com
 0.0.0.0 amung.us
 0.0.0.0 amunx.de
+0.0.0.0 amwupsihqfewgr.com
 0.0.0.0 amxdt.com
 0.0.0.0 an.batmobi.net
 0.0.0.0 an.reflektion.com
@@ -2540,6 +2542,7 @@
 0.0.0.0 axeobgnsk.com
 0.0.0.0 axf8.net
 0.0.0.0 axfihweksrgor.com
+0.0.0.0 axglltqwtmnl.com
 0.0.0.0 axill.com
 0.0.0.0 axlpf.xyz
 0.0.0.0 axonix.com
@@ -2794,6 +2797,7 @@
 0.0.0.0 bebi.com
 0.0.0.0 bebj.com
 0.0.0.0 beboo.ru
+0.0.0.0 bebxxrgjigz.com
 0.0.0.0 becanium.com
 0.0.0.0 become.successfultogether.co.uk
 0.0.0.0 bedorm.com
@@ -4904,6 +4908,7 @@
 0.0.0.0 diuiyzhao.com
 0.0.0.0 divisix.org
 0.0.0.0 divolution.com
+0.0.0.0 diwiosqupuecg.com
 0.0.0.0 diysqcbfyuru.com
 0.0.0.0 dizzyac.com
 0.0.0.0 dj-updates.com
@@ -5101,6 +5106,7 @@
 0.0.0.0 dtc-v6t.com
 0.0.0.0 dti-ranker.com
 0.0.0.0 dtmpub.com
+0.0.0.0 dtosduecka.com
 0.0.0.0 dtrwlquawlp.com
 0.0.0.0 dtscout.com
 0.0.0.0 dtxtngytz5im1.cloudfront.net
@@ -5692,6 +5698,7 @@
 0.0.0.0 ezbbxqocxnto.com
 0.0.0.0 eze99.net
 0.0.0.0 ezec.co.uk
+0.0.0.0 ezfncojpnrmj.com
 0.0.0.0 ezhkfxskimqnqk.com
 0.0.0.0 ezjrnbpjthir.com
 0.0.0.0 ezknqsblzmsl.com
@@ -8500,6 +8507,7 @@
 0.0.0.0 likondok.com
 0.0.0.0 liktirov.com
 0.0.0.0 lilaelefant.de
+0.0.0.0 lilncsqapikckt.com
 0.0.0.0 limaten.info
 0.0.0.0 limenewsonedailyn.com
 0.0.0.0 limonads.net
@@ -14377,6 +14385,7 @@
 0.0.0.0 tubemogul.com
 0.0.0.0 tubereplay.com
 0.0.0.0 tubogomifo.com
+0.0.0.0 tudsxyhpn.com
 0.0.0.0 tuldmgwvimgowg.com
 0.0.0.0 tulip18.com
 0.0.0.0 tumabeni.com
@@ -16028,6 +16037,7 @@
 0.0.0.0 yjlocznmvvvtp.com
 0.0.0.0 yjsshralziws.com
 0.0.0.0 yjtag.jp
+0.0.0.0 yjthoibc.com
 0.0.0.0 yjuqi.top
 0.0.0.0 yjvfuzdr.pw
 0.0.0.0 ykaakgddajbt.com
@@ -16393,8 +16403,8 @@
 
 # Hosts - adguard-dns
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-dns.txt
-# Generated - 25.07.2018
+# Generated - 26.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 16392
+# Total Domains: 16402
 # License: MIT
 

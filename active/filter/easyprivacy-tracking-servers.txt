@@ -2513,7 +2513,7 @@
 
 # Hosts - easyprivacy-tracking-servers
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easyprivacy-tracking-servers.txt
-# Generated - 25.07.2018
+# Generated - 26.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 2512
 # License: MIT

@@ -1526,6 +1526,7 @@
 0.0.0.0 ampxchange.com
 0.0.0.0 amqcdbles.com
 0.0.0.0 amtracking01.com
+0.0.0.0 amwupsihqfewgr.com
 0.0.0.0 amz.steamprices.com
 0.0.0.0 analytics.disneyinternational.com
 0.0.0.0 anasjdzutdmv.com
@@ -1895,6 +1896,7 @@
 0.0.0.0 beap.gemini.yahoo.com
 0.0.0.0 beb.crackwatch.com
 0.0.0.0 bebi.com
+0.0.0.0 bebxxrgjigz.com
 0.0.0.0 become.successfultogether.co.uk
 0.0.0.0 becomicse.com
 0.0.0.0 becoquin.com
@@ -4243,6 +4245,7 @@
 0.0.0.0 ggtujtuyvcci.com
 0.0.0.0 ggwbgnmahqyclg.com
 0.0.0.0 ggwcash.com
+0.0.0.0 ggyrnhdbqxufh.com
 0.0.0.0 ggzvlwrf.com
 0.0.0.0 ghaszdguvrtnb.com
 0.0.0.0 ghfgcdsdfgcg.com
@@ -5444,6 +5447,7 @@
 0.0.0.0 krajiv.com
 0.0.0.0 kraken.giantrealm.com
 0.0.0.0 krakeshlaja.com
+0.0.0.0 krghheqkkcght.com
 0.0.0.0 krilxjkgttmp.com
 0.0.0.0 krmuxxubtkrg.com
 0.0.0.0 krsdoqvsmgld.com
@@ -6697,6 +6701,7 @@
 0.0.0.0 ohv1tie2.com
 0.0.0.0 oiahzjhwpsokt.com
 0.0.0.0 oieeezzld.com
+0.0.0.0 oilfeswka.com
 0.0.0.0 oipsyfnmrwir.com
 0.0.0.0 oiqheoiwgnqiweoj.bid
 0.0.0.0 oixafvoxnmceol.com
@@ -9338,6 +9343,7 @@
 0.0.0.0 uzagahwfnt.com
 0.0.0.0 uzekrs.com
 0.0.0.0 uzmmpskwon.com
+0.0.0.0 uzmsexugrqz.com
 0.0.0.0 uzotarak.com
 0.0.0.0 uzqptkclvcaa.com
 0.0.0.0 uzwweczttqlayd.com
@@ -9913,6 +9919,7 @@
 0.0.0.0 xadcentral.com
 0.0.0.0 xaftihkjg.com
 0.0.0.0 xanqdskuyb.com
+0.0.0.0 xapnrbvpb.com
 0.0.0.0 xaqbpvojgi.com
 0.0.0.0 xarnvfthbye.com
 0.0.0.0 xavipejcznxf.com
@@ -10421,6 +10428,7 @@
 0.0.0.0 zugo.com
 0.0.0.0 zukabota.com
 0.0.0.0 zutnlpnzxtt.com
+0.0.0.0 zuwaodorkyrrp.com
 0.0.0.0 zuxanrebeceko.com
 0.0.0.0 zvrwttooqgeb.com
 0.0.0.0 zvsjiigao.com
@@ -10454,8 +10462,8 @@
 
 # Hosts - easylist
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easylist.txt
-# Generated - 25.07.2018
+# Generated - 26.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 10453
+# Total Domains: 10461
 # License: MIT
 

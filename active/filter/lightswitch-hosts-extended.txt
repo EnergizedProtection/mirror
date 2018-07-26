@@ -204,6 +204,7 @@
 0.0.0.0 ads-resources.waze.com
 0.0.0.0 ads-srv.net
 0.0.0.0 ads-staging.clrstm.com
+0.0.0.0 ads-stats-limiter-shadow.snapads.com
 0.0.0.0 ads-twitter.com
 0.0.0.0 ads.adzoka.com
 0.0.0.0 ads.altitude-arena.com
@@ -275,9 +276,12 @@
 0.0.0.0 adserver.plastikcity.com
 0.0.0.0 adserver.radiomediagroup.org
 0.0.0.0 adserver.rankedbyreview.com
+0.0.0.0 adserver.shadow.snapads.com
 0.0.0.0 adserver.shoofle.tv
+0.0.0.0 adserver.snapads.com
 0.0.0.0 adserver.sprintdisk.com
 0.0.0.0 adserver.staging.adswizz.com
+0.0.0.0 adserver.staging.snapads.com
 0.0.0.0 adserver.telekom.de
 0.0.0.0 adserver.theappgrader.com
 0.0.0.0 adserver.valuemd.com
@@ -292,6 +296,8 @@
 0.0.0.0 adservers-users-1-1251423768.us-east-1.elb.amazonaws.com
 0.0.0.0 adservices.cmp.advertising.com
 0.0.0.0 adsrvr.org
+0.0.0.0 adstats-shadow.snapads.com
+0.0.0.0 adstats.snapads.com
 0.0.0.0 adsttc.com
 0.0.0.0 adstxt.adnxs.com
 0.0.0.0 adswizz.com
@@ -632,6 +638,7 @@
 0.0.0.0 api.parsely.com
 0.0.0.0 api.placed.com
 0.0.0.0 api.poc.exacttarget.com
+0.0.0.0 api.promotions.skype.com
 0.0.0.0 api.pubwise.io
 0.0.0.0 api.pushspring.com
 0.0.0.0 api.qa-ext.livefyre.com
@@ -680,6 +687,7 @@
 0.0.0.0 apmwiki.dynatrace.com
 0.0.0.0 app-ab12.marketo.com
 0.0.0.0 app-ab13.marketo.com
+0.0.0.0 app-analytics.snapchat.com
 0.0.0.0 app-lon08.marketo.com
 0.0.0.0 app-measurement.com
 0.0.0.0 app-nation.marketo.com
@@ -752,10 +760,14 @@
 0.0.0.0 as.casalemedia.com
 0.0.0.0 as.jivox.com
 0.0.0.0 asa-api.aws.rubiconproject.com
+0.0.0.0 asap-task-scheduler-shadow.snapads.com
+0.0.0.0 asap-task-scheduler-staging.snapads.com
+0.0.0.0 asap-task-scheduler.snapads.com
 0.0.0.0 ascentdata.irganalytics.com
 0.0.0.0 ascentdatadirect.irganalytics.com
 0.0.0.0 asdefender.beta.aviasales.ru
 0.0.0.0 asdqwe.beta.aviasales.ru
+0.0.0.0 ase.adserver.snapads.com
 0.0.0.0 asia.qualtrics.com
 0.0.0.0 asotrack1.fiksu.com
 0.0.0.0 asotrack2.fiksu.com
@@ -785,6 +797,7 @@
 0.0.0.0 atl-dc02.marketo.net
 0.0.0.0 atom.adjust.com
 0.0.0.0 atp.mxptint.net
+0.0.0.0 attribution.snapads.com
 0.0.0.0 au-gmtdmp.gd3.mookie1.com
 0.0.0.0 au1-st1.gigya.com
 0.0.0.0 au1-st2.gigya.com
@@ -1014,6 +1027,7 @@
 0.0.0.0 bicat.placeyourview.com
 0.0.0.0 bicat.shoofle.tv
 0.0.0.0 bid.ace.advertising.com
+0.0.0.0 bid.snapads.com
 0.0.0.0 bidder.criteo.com
 0.0.0.0 bidder.pcl.exponential.com
 0.0.0.0 bidr.io
@@ -1113,6 +1127,7 @@
 0.0.0.0 bo.bestcontentonline.com
 0.0.0.0 bo.installfarm.com
 0.0.0.0 bo.placeyourview.com
+0.0.0.0 bo.promotions.skype.com
 0.0.0.0 bonus.tapjoy.com
 0.0.0.0 bootstrap.livefyre.com
 0.0.0.0 bootstrap.qa-ext.livefyre.com
@@ -1496,6 +1511,7 @@
 0.0.0.0 consoliads.com
 0.0.0.0 consult.taboola.com
 0.0.0.0 consulting.adviserplus.com
+0.0.0.0 consulting.mywebsite.com.askronwilliams.leadpages.co
 0.0.0.0 consumedmedia.com
 0.0.0.0 consumerjourney.exponential.com
 0.0.0.0 consumerreports.org.ssl.d2.sc.omtrdc.net
@@ -2136,6 +2152,8 @@
 0.0.0.0 deeplink.mobileapptracking.com
 0.0.0.0 defaull-auto-devops-rnd-gke-test.rnd.gcp.datamind.ru
 0.0.0.0 defect.dynatrace.com
+0.0.0.0 delivery-forensics.snapads.com
+0.0.0.0 delivery-insights.snapads.com
 0.0.0.0 delivery.analyticson.com
 0.0.0.0 deliveryengine.adswizz.com
 0.0.0.0 delta.celebrus.com
@@ -2542,6 +2560,7 @@
 0.0.0.0 euconsole.xtify.com
 0.0.0.0 eue.demo.dynatrace.com
 0.0.0.0 eus.rubiconproject.com
+0.0.0.0 euw.adserver.snapads.com
 0.0.0.0 ev.surveywall-api.survata.com
 0.0.0.0 event.ad.cpe.dotomi.com
 0.0.0.0 event.wbinsights.com
@@ -2554,6 +2573,7 @@
 0.0.0.0 events.gumgum.com
 0.0.0.0 events.iap.unity3d.com
 0.0.0.0 events.marketo.com
+0.0.0.0 events.stackshare.io
 0.0.0.0 events.streamrail.net
 0.0.0.0 events.tabmo.io
 0.0.0.0 events.urbanairship.com
@@ -2633,6 +2653,7 @@
 0.0.0.0 focustraining.intelsad.com
 0.0.0.0 footprintdns.com
 0.0.0.0 force.com
+0.0.0.0 forecast.snapads.com
 0.0.0.0 foreman-a001-ash.krxd.net
 0.0.0.0 foreman-a001-dub.krxd.net
 0.0.0.0 foreman-a001-pdx.krxd.net
@@ -3052,6 +3073,7 @@
 0.0.0.0 ingest.advertising.com
 0.0.0.0 ingest.vungle.com
 0.0.0.0 inlocomedia.com
+0.0.0.0 innovatemontana.leadpages.co
 0.0.0.0 ins.track.tappx.com
 0.0.0.0 ins2.track.tappx.com
 0.0.0.0 insideintercom.wpengine.com
@@ -3201,7 +3223,9 @@
 0.0.0.0 kbr-builder.staging.us-east-1.kops.kargo.com
 0.0.0.0 kdev.kargo.com
 0.0.0.0 kds-pixel-dev.stage.us-east-1.kops.kargo.com
+0.0.0.0 kellyholmes.leadpages.co
 0.0.0.0 ketchapp.org
+0.0.0.0 kg.snapads.com
 0.0.0.0 khingtracking.com
 0.0.0.0 kibana.beta.aviasales.ru
 0.0.0.0 klick.prod.us-east-1.gcs.kargo.com
@@ -3240,6 +3264,7 @@
 0.0.0.0 lead.khingtracking.com
 0.0.0.0 leadback.netseer.com
 0.0.0.0 leadnationmedia.com
+0.0.0.0 leadpages.co
 0.0.0.0 leads.theappgrader.com
 0.0.0.0 leadvisualdesigner.intercom.io
 0.0.0.0 learn.adjust.com
@@ -3254,6 +3279,7 @@
 0.0.0.0 legacy.urbaninsight.com
 0.0.0.0 legacydocs.fyber.com
 0.0.0.0 legal.livefyre.com
+0.0.0.0 leivonta.leadpages.co
 0.0.0.0 letschat.adroll.com
 0.0.0.0 lexid-dev.staging.us-east-1.kops.kargo.com
 0.0.0.0 lexid.production.us-east-1.kops.kargo.com
@@ -3528,6 +3554,8 @@
 0.0.0.0 measure.mobileapptracking.com
 0.0.0.0 measuread.com
 0.0.0.0 measuread.com.edgekey.net
+0.0.0.0 measurement-staging.snapads.com
+0.0.0.0 measurement.snapads.com
 0.0.0.0 media-router-flurry3.prod.media.wg1.b.yahoo.com
 0.0.0.0 media-router-flurry7.prod.media.wg1.b.yahoo.com
 0.0.0.0 media.analyticson.com
@@ -4268,6 +4296,7 @@
 0.0.0.0 otrs.fyber.com
 0.0.0.0 outbrain.com
 0.0.0.0 outbrain.org
+0.0.0.0 outcome.snapads.com
 0.0.0.0 outlook.ads.scanapps.com
 0.0.0.0 outlook.foresee.com
 0.0.0.0 outloud.outbrain.com
@@ -4574,6 +4603,7 @@
 0.0.0.0 prometheus.fullstory.com
 0.0.0.0 prometheus.gitlab.gcp.datamind.ru
 0.0.0.0 prometheus.staging.fullstory.com
+0.0.0.0 promotions.skype.com
 0.0.0.0 prophet.beta.aviasales.ru
 0.0.0.0 propixel7-768394228.us-east-1.elb.amazonaws.com
 0.0.0.0 proserve-stag.urbanairship.com
@@ -4605,6 +4635,9 @@
 0.0.0.0 ps.adpredictive.com
 0.0.0.0 pscore-beta.pixel.printsites.net
 0.0.0.0 psfeed.qwapi.com
+0.0.0.0 psyduck-limiter-prod.snapads.com
+0.0.0.0 psyduck-limiter-shadow.snapads.com
+0.0.0.0 psyduck-limiter-staging.snapads.com
 0.0.0.0 pt.lijit.com
 0.0.0.0 pub.contextweb.com
 0.0.0.0 pubaccess.advertising.com
@@ -4931,6 +4964,7 @@
 0.0.0.0 sa386gl.wpc.thetacdn.net
 0.0.0.0 sales-live-events1.use.dynamicyield.com
 0.0.0.0 sales.outbrain.com
+0.0.0.0 sam.snapads.com
 0.0.0.0 saml.backtrace.io
 0.0.0.0 samplicio.us
 0.0.0.0 sand.api.adnxs.com
@@ -4941,6 +4975,7 @@
 0.0.0.0 sb.monetate.net
 0.0.0.0 sb.scorecardresearch.com.edgekey.net
 0.0.0.0 sb2.monetate.net
+0.0.0.0 sc-analytics.appspot.com
 0.0.0.0 scannet.ads.scanapps.com
 0.0.0.0 scc.ssacdn.com
 0.0.0.0 scheduler.foresee.com
@@ -5103,6 +5138,9 @@
 0.0.0.0 sfo1.admarketplace.net
 0.0.0.0 sg-gmtdmp.gd2.mookie1.com
 0.0.0.0 sgn.exacttarget.com
+0.0.0.0 shadow.bid.snapads.com
+0.0.0.0 shadow.forecast.snapads.com
+0.0.0.0 shadow.outcome.snapads.com
 0.0.0.0 shareaholic.com
 0.0.0.0 sharelog-qa.midasplayer.com
 0.0.0.0 sharelog.midasplayer.com
@@ -5165,12 +5203,14 @@
 0.0.0.0 smy.iheart.com
 0.0.0.0 sn.moatads.com
 0.0.0.0 snap.adsrvr.org
+0.0.0.0 snapads.com
 0.0.0.0 sngapi.ibm.xtify.com
 0.0.0.0 snib53agl.wpc.thetacdn.net
 0.0.0.0 snib53bgl.wpc.thetacdn.net
 0.0.0.0 snib53cgl.wpc.thetacdn.net
 0.0.0.0 snib53egl.wpc.thetacdn.net
 0.0.0.0 snowforce.sharethrough.com
+0.0.0.0 soap17.leadpages.co
 0.0.0.0 socialapi.digitalremedy.com
 0.0.0.0 socialize.au1.gigya.com
 0.0.0.0 socialize.eu1.gigya.com
@@ -5298,16 +5338,20 @@
 0.0.0.0 staging.accessiblemetrics.com
 0.0.0.0 staging.adswizz.com
 0.0.0.0 staging.adx1.com
+0.0.0.0 staging.app-analytics.snapchat.com
 0.0.0.0 staging.banners.advidi.com
+0.0.0.0 staging.bid.snapads.com
 0.0.0.0 staging.blog.gigya.com
 0.0.0.0 staging.clickconvertsell.com
 0.0.0.0 staging.criteo.com
 0.0.0.0 staging.eam.pubocean.com
+0.0.0.0 staging.forecast.snapads.com
 0.0.0.0 staging.front.banners.advidi.com
 0.0.0.0 staging.fullstory.com
 0.0.0.0 staging.imprev.net
 0.0.0.0 staging.juicemobile.com
 0.0.0.0 staging.kargo.com
+0.0.0.0 staging.outcome.snapads.com
 0.0.0.0 staging.pixel.printsites.net
 0.0.0.0 staging.pluto.mgr.consensu.org
 0.0.0.0 staging.rubiconproject.com
@@ -5365,6 +5409,9 @@
 0.0.0.0 static.yieldmo.com
 0.0.0.0 static2.mopub.com
 0.0.0.0 staticw2.yotpo.com
+0.0.0.0 stats-reporting-server-prod.snapads.com
+0.0.0.0 stats-reporting-server-shadow.snapads.com
+0.0.0.0 stats-reporting-server-staging.snapads.com
 0.0.0.0 stats.addsearch.com
 0.0.0.0 stats.gc-apple.com.akadns.net
 0.0.0.0 stats.gc.apple.com
@@ -5410,6 +5457,10 @@
 0.0.0.0 streetview.siliconorchard.com
 0.0.0.0 stub.api.jivox.com
 0.0.0.0 studio.livefyre.com
+0.0.0.0 study-dev.snapads.com
+0.0.0.0 study-shadow.snapads.com
+0.0.0.0 study-staging.snapads.com
+0.0.0.0 study.snapads.com
 0.0.0.0 styleguide.dynamicyield.com
 0.0.0.0 styleguide.outbrain.com
 0.0.0.0 su.iadsdk.apple.com
@@ -5531,6 +5582,7 @@
 0.0.0.0 tag.trackverify.com
 0.0.0.0 tag.yieldoptimizer.com
 0.0.0.0 tags.expo9.exponential.com
+0.0.0.0 tags.tiqcdn.com
 0.0.0.0 tam.outbrain.com
 0.0.0.0 tap-secure.rubiconproject.com
 0.0.0.0 tap.ads-twitter.com
@@ -5542,6 +5594,9 @@
 0.0.0.0 tapjoy.com
 0.0.0.0 tapjoyads.com
 0.0.0.0 tappx.com
+0.0.0.0 targeting-insight.snapads.com
+0.0.0.0 targeting-shadow.snapads.com
+0.0.0.0 targeting.snapads.com
 0.0.0.0 targeting.tronc.arcpublishing.com
 0.0.0.0 targeting.unrulymedia.com
 0.0.0.0 task.mediabong.net
@@ -5767,11 +5822,13 @@
 0.0.0.0 usbankmetrics.insight.omtrdc.net
 0.0.0.0 usc-ppa-dev.urbaninsight.com
 0.0.0.0 usc-ppa-test.urbaninsight.com
+0.0.0.0 usc.adserver.snapads.com
 0.0.0.0 use-foreman1.use.adsrvr.org
 0.0.0.0 use-foreman2.use.adsrvr.org
 0.0.0.0 use-foreman3.use.adsrvr.org
 0.0.0.0 use-foreman4.use.adsrvr.org
 0.0.0.0 use-foremanproxy1.use.adsrvr.org
+0.0.0.0 use.adserver.snapads.com
 0.0.0.0 use.adsrvr.org
 0.0.0.0 use.backtrace.io
 0.0.0.0 user.desmoinesregister.com
@@ -6779,8 +6836,8 @@
 
 # Hosts - lightswitch-hosts-extended
 # Source - https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
-# Generated - 25.07.2018
+# Generated - 26.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 6778
+# Total Domains: 6835
 # License: MIT
 
