@@ -1123,6 +1123,7 @@
 0.0.0.0 hb.vntsm.com
 0.0.0.0 hentaifapland.com
 0.0.0.0 heyzap.com
+0.0.0.0 hfzikiht.com
 0.0.0.0 hh-btr.com
 0.0.0.0 himediads.com
 0.0.0.0 holder.com.ua
@@ -1817,6 +1818,7 @@
 0.0.0.0 search.addthis.com
 0.0.0.0 search.funsafetabsearch.com
 0.0.0.0 search.services.mozilla.com
+0.0.0.0 search.socialnewpagessearch.com
 0.0.0.0 sebder.roboinside.me
 0.0.0.0 sec-cdn.static.xiaomi.net
 0.0.0.0 sec.resource.xiaomi.net
@@ -1876,6 +1878,7 @@
 0.0.0.0 smilered.com
 0.0.0.0 smothere.pro
 0.0.0.0 snippets.cdn.mozilla.net
+0.0.0.0 socialnewpagessearch.com
 0.0.0.0 sociomantic.com
 0.0.0.0 solocpm.com
 0.0.0.0 sonobi.com
@@ -2012,6 +2015,7 @@
 0.0.0.0 tm1.hoiplay.com
 0.0.0.0 tmz.vo.llnwd.net
 0.0.0.0 tns.simba.taobao.com
+0.0.0.0 toexten.com
 0.0.0.0 token.rubiconproject.com
 0.0.0.0 tonefuse.com
 0.0.0.0 tongqing2015.com
@@ -2253,6 +2257,7 @@
 0.0.0.0 www3.addthis.com
 0.0.0.0 wzrkt.com
 0.0.0.0 x.dlx.addthis.com
+0.0.0.0 xapnrbvpb.com
 0.0.0.0 xbzwwsagli.com
 0.0.0.0 xdadevelopers.browsi.mobi
 0.0.0.0 xdrig.com
@@ -2315,6 +2320,6 @@
 # Source - https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/EnergizedHosts/EnergizedHosts
 # Generated - 27.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 2312
+# Total Domains: 2317
 # License: MIT
 
