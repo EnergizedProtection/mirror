@@ -1,9 +1,11 @@
 # adguard-dns Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - https://filters.adtidy.org/extension/chromium/filters/15.txt
-# Last Converted - Thu, 26 Jul 2018 03:00:35 -0400
+# Last Converted - Fri, 27 Jul 2018 03:30:12 -0400
 # Energized - ad.porn.malware blocking.
 
+0.0.0.0 megabc.info
+0.0.0.0 iminevanez.com
 0.0.0.0 7cdf78unokr7.ru
 0.0.0.0 lfd-media.ru
 0.0.0.0 oznul.com
@@ -3359,6 +3361,7 @@
 0.0.0.0 tiz.miladynews.ru
 0.0.0.0 tizer.rupornophoto.com
 0.0.0.0 ts2.hockey-talks.com
+0.0.0.0 kidnepishlient.pro
 0.0.0.0 ekostreams.gq
 0.0.0.0 videoplayerhub.com
 0.0.0.0 35.193.89.147
@@ -12335,6 +12338,7 @@
 0.0.0.0 ggscparljuz.com
 0.0.0.0 ggtujtuyvcci.com
 0.0.0.0 ggwbgnmahqyclg.com
+0.0.0.0 ggyrnhdbqxufh.com
 0.0.0.0 ggzuksudqktn.com
 0.0.0.0 ggzvlwrf.com
 0.0.0.0 ghaszdguvrtnb.com
@@ -12484,6 +12488,7 @@
 0.0.0.0 hcggkyhzxzsv.com
 0.0.0.0 hclccadfmkpw.com
 0.0.0.0 hcrsxbke.com
+0.0.0.0 hctcdmqp.com
 0.0.0.0 hcyxksgsxnzb.com
 0.0.0.0 hdwlzheftpin.com
 0.0.0.0 heefwozhlxgz.com
@@ -12501,6 +12506,7 @@
 0.0.0.0 hfjuehls.com
 0.0.0.0 hfmtqgiqscvg.com
 0.0.0.0 hftyrwqjknhzoa.com
+0.0.0.0 hfzikiht.com
 0.0.0.0 hgbmwkklwittcdkjapnpeikxojivfhgszbxmrjfrvajzhzhuks.com
 0.0.0.0 hgcgfxjkvjch.com
 0.0.0.0 hgdovdnd.com
@@ -13110,6 +13116,7 @@
 0.0.0.0 kqsipdhvcejx.com
 0.0.0.0 kquthdppub.com
 0.0.0.0 kqvpjbau.com
+0.0.0.0 krghheqkkcght.com
 0.0.0.0 krilxjkgttmp.com
 0.0.0.0 krmuxxubtkrg.com
 0.0.0.0 krovrhmqgupd.com
@@ -13728,6 +13735,7 @@
 0.0.0.0 oguiftmya.com
 0.0.0.0 ogulzxfxrmow.com
 0.0.0.0 oguorftbvegb.com
+0.0.0.0 ogzivkwjhrs.com
 0.0.0.0 ohecnqpldvuw.com
 0.0.0.0 ohjmzsvs.com
 0.0.0.0 ohkoexdr.com
@@ -13737,6 +13745,7 @@
 0.0.0.0 oiahzjhwpsokt.com
 0.0.0.0 oieeezzld.com
 0.0.0.0 oiffrtkdgoef.com
+0.0.0.0 oilfeswka.com
 0.0.0.0 oipsyfnmrwir.com
 0.0.0.0 oiramtfxzqfc.com
 0.0.0.0 oixafvoxnmceol.com
@@ -14828,6 +14837,7 @@
 0.0.0.0 uzbciwrwzzhs.com
 0.0.0.0 uzesptwcwwmt.com
 0.0.0.0 uzmmpskwon.com
+0.0.0.0 uzmsexugrqz.com
 0.0.0.0 uzqptkclvcaa.com
 0.0.0.0 uzqtaxiorsev.com
 0.0.0.0 uzreuvnlizlz.com
@@ -15205,6 +15215,7 @@
 0.0.0.0 xaftihkjg.com
 0.0.0.0 xakmsoaozjgm.com
 0.0.0.0 xanqdskuyb.com
+0.0.0.0 xapnrbvpb.com
 0.0.0.0 xaqbpvojgi.com
 0.0.0.0 xarnvfthbye.com
 0.0.0.0 xavipejcznxf.com
@@ -15645,6 +15656,7 @@
 0.0.0.0 zupeaoohmntp.com
 0.0.0.0 zutnlpnzxtt.com
 0.0.0.0 zuuwfrphdgxk.com
+0.0.0.0 zuwaodorkyrrp.com
 0.0.0.0 zuxanrebeceko.com
 0.0.0.0 zvqjjurhikku.com
 0.0.0.0 zvrwttooqgeb.com
@@ -16634,6 +16646,7 @@
 0.0.0.0 i-bims-ein-shopper.de
 0.0.0.0 ichkaufehierein.de
 0.0.0.0 meinelieblingsprodukte.de
+0.0.0.0 nrich.ai
 0.0.0.0 turnto.com
 0.0.0.0 adoric.com
 0.0.0.0 rfksrv.com

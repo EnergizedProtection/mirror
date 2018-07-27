@@ -1,7 +1,7 @@
 # squidblacklist-ads Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - http://www.squidblacklist.org/downloads/dg-ads.acl
-# Last Converted - Thu, 26 Jul 2018 03:00:42 -0400
+# Last Converted - Fri, 27 Jul 2018 03:30:18 -0400
 # Energized - ad.porn.malware blocking.
 
 0.0.0.0 0icep80f.com
@@ -1830,7 +1830,6 @@
 0.0.0.0 clickwinks.com
 0.0.0.0 clickxchange.com
 0.0.0.0 clickz.com
-0.0.0.0 clickzxc.com
 0.0.0.0 clicmanager.fr
 0.0.0.0 clixgalore.com
 0.0.0.0 clixsense.com
@@ -1841,7 +1840,6 @@
 0.0.0.0 cls.vrvm.com
 0.0.0.0 cluster.adultworld.com
 0.0.0.0 clustrmaps.com
-0.0.0.0 clz3.net
 0.0.0.0 cnomy.com
 0.0.0.0 cnt1.pocitadlo.cz
 0.0.0.0 cntdy.mobi
@@ -3910,7 +3908,6 @@
 0.0.0.0 top-site-list.com
 0.0.0.0 topsite.lv
 0.0.0.0 topsites.com.br
-0.0.0.0 torads.me
 0.0.0.0 toroadvertising.com
 0.0.0.0 toroadvertisingmedia.com
 0.0.0.0 toro-tags.com

@@ -1,7 +1,7 @@
 # blockzilla Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - https://raw.githubusercontent.com/zpacman/Blockzilla/master/Blockzilla.txt
-# Last Converted - Thu, 26 Jul 2018 03:00:35 -0400
+# Last Converted - Fri, 27 Jul 2018 03:30:13 -0400
 # Energized - ad.porn.malware blocking.
 
 0.0.0.0 -1x1.gif?
