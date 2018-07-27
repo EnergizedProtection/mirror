@@ -2794,6 +2794,7 @@
 0.0.0.0 credit-cards.shengen.ru
 0.0.0.0 creditburner.blueadvertise.com
 0.0.0.0 creditsoffer.blogspot.com
+0.0.0.0 crewardscyprus.top
 0.0.0.0 crllmzsy.top
 0.0.0.0 crossout.net
 0.0.0.0 crosspixel.demdex.net
@@ -5681,6 +5682,7 @@
 0.0.0.0 r.turn.com
 0.0.0.0 r.turn.com.akadns.net
 0.0.0.0 r1-ads.ace.advertising.com
+0.0.0.0 r1-t.trackedlink.net
 0.0.0.0 r2.adwo.com
 0.0.0.0 r7mediar.com
 0.0.0.0 radioat.oewabox.at
@@ -6384,6 +6386,7 @@
 0.0.0.0 static.plugrush.com
 0.0.0.0 static.regiojobs.be
 0.0.0.0 static.scanscout.com
+0.0.0.0 static.trackedweb.net
 0.0.0.0 static.trackuity.com
 0.0.0.0 static.trafficstars.com
 0.0.0.0 static.unocdn.com
@@ -8507,8 +8510,8 @@
 
 # Hosts - someonewhocares.org
 # Source - http://someonewhocares.org/hosts/hosts
-# Generated - 26.07.2018
+# Generated - 27.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 8506
+# Total Domains: 8509
 # License: MIT
 

@@ -224,7 +224,7 @@
 
 # Hosts - dshield.org-high
 # Source - https://www.dshield.org/feeds/suspiciousdomains_High.txt
-# Generated - 26.07.2018
+# Generated - 27.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 223
 # License: MIT

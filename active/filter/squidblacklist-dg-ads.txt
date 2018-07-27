@@ -1823,7 +1823,6 @@
 0.0.0.0 clickwinks.com
 0.0.0.0 clickxchange.com
 0.0.0.0 clickz.com
-0.0.0.0 clickzxc.com
 0.0.0.0 clicmanager.fr
 0.0.0.0 clixgalore.com
 0.0.0.0 clixsense.com
@@ -1834,7 +1833,6 @@
 0.0.0.0 cls.vrvm.com
 0.0.0.0 cluster.adultworld.com
 0.0.0.0 clustrmaps.com
-0.0.0.0 clz3.net
 0.0.0.0 cnomy.com
 0.0.0.0 cnt.my
 0.0.0.0 cnt.spbland.ru
@@ -3895,7 +3893,6 @@
 0.0.0.0 topsafelist.net
 0.0.0.0 topsite.lv
 0.0.0.0 topsites.com.br
-0.0.0.0 torads.me
 0.0.0.0 toro-tags.com
 0.0.0.0 toroadvertising.com
 0.0.0.0 toroadvertisingmedia.com
@@ -4557,8 +4554,8 @@
 
 # Hosts - squidblacklist-dg-ads
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/squidblacklist-ads.txt
-# Generated - 26.07.2018
+# Generated - 27.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 4556
+# Total Domains: 4553
 # License: MIT
 

@@ -16644,6 +16644,7 @@
 0.0.0.0 ads.exactdrive.com
 0.0.0.0 ads.examiner.net
 0.0.0.0 ads.exchange-it.com
+0.0.0.0 ads.exdynsrv.com
 0.0.0.0 ads.exoclick.com
 0.0.0.0 ads.expatinbulgaria.com
 0.0.0.0 ads.expedia.com
@@ -45105,8 +45106,8 @@
 
 # Hosts - hosts-file.net-ats
 # Source - https://hosts-file.net/ad_servers.txt
-# Generated - 26.07.2018
+# Generated - 27.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 45104
+# Total Domains: 45105
 # License: MIT
 

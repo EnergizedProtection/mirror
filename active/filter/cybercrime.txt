@@ -4909,7 +4909,7 @@
 
 # Hosts - cybercrime
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/cybercrime.txt
-# Generated - 26.07.2018
+# Generated - 27.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 4908
 # License: MIT

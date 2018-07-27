@@ -1,5 +1,4 @@
 0.0.0.0 0001.2waky.com
-0.0.0.0 023scw.gotoip55.com
 0.0.0.0 029999.com
 0.0.0.0 0538ly.cn
 0.0.0.0 071899.com
@@ -1180,7 +1179,6 @@
 0.0.0.0 boost-my-pr.de
 0.0.0.0 bor-bogdanych.com
 0.0.0.0 bostelbekersv.com
-0.0.0.0 boutique-miniature.com
 0.0.0.0 bovusforum.com
 0.0.0.0 box.anchorfree.net
 0.0.0.0 bpath.com
@@ -1466,7 +1464,6 @@
 0.0.0.0 dj-sx.com
 0.0.0.0 djcalvin.com
 0.0.0.0 djplazebo.com
-0.0.0.0 dlslw.com
 0.0.0.0 dm599.com
 0.0.0.0 dmtracker.com
 0.0.0.0 dnads.directnic.com
@@ -1705,7 +1702,6 @@
 0.0.0.0 goldstats.com
 0.0.0.0 googlesyndication.com
 0.0.0.0 gostats.com
-0.0.0.0 gotoip55.com
 0.0.0.0 gp.dejanews.com
 0.0.0.0 gqwhyjh.com
 0.0.0.0 grafstat.ro
@@ -1927,7 +1923,6 @@
 0.0.0.0 ktu.sv2.biz
 0.0.0.0 kuaiyan.com.cn
 0.0.0.0 kumykoz.com
-0.0.0.0 kzhqzx.com
 0.0.0.0 lakequincy.com
 0.0.0.0 laohuangli365.com
 0.0.0.0 laos.luangprabang.free.fr
@@ -2960,7 +2955,6 @@
 0.0.0.0 www.money4exit.de
 0.0.0.0 www.photo-ads.co.uk
 0.0.0.0 www.qqkabb.com
-0.0.0.0 www.rsrly.com
 0.0.0.0 www.softtube.cn
 0.0.0.0 www.unicaitaly.it
 0.0.0.0 www.weigezhiyao.com
@@ -3031,7 +3025,6 @@
 0.0.0.0 yoggrt.com
 0.0.0.0 youknownow.ru
 0.0.0.0 youthfire.com
-0.0.0.0 ypschool.cn
 0.0.0.0 ysbbcrypsc.com
 0.0.0.0 yserch.com
 0.0.0.0 yttestsite.com
@@ -3061,8 +3054,8 @@
 
 # Hosts - disconnect.me-malvertising
 # Source - https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
-# Generated - 26.07.2018
+# Generated - 27.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 3060
+# Total Domains: 3053
 # License: MIT
 

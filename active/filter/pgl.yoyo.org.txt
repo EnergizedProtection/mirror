@@ -1434,7 +1434,6 @@
 0.0.0.0 foo.cosmocode.de
 0.0.0.0 foresee.com
 0.0.0.0 forex-affiliate.net
-0.0.0.0 forter.com
 0.0.0.0 fpctraffic.com
 0.0.0.0 fpctraffic2.com
 0.0.0.0 fqtag.com
@@ -1888,7 +1887,6 @@
 0.0.0.0 openx.angelsgroup.org.uk
 0.0.0.0 openx.blindferret.com
 0.0.0.0 opienetwork.com
-0.0.0.0 opinionstage.com
 0.0.0.0 optimize-stats.voxmedia.com
 0.0.0.0 optimizely.com
 0.0.0.0 optimost.com
@@ -2181,6 +2179,7 @@
 0.0.0.0 simplisticnose.com
 0.0.0.0 sinoa.com
 0.0.0.0 sitedataprocessing.com
+0.0.0.0 siteimproveanalytics.com
 0.0.0.0 sitemeter.com
 0.0.0.0 sitestat.com
 0.0.0.0 sixsigmatraffic.com
@@ -2298,6 +2297,7 @@
 0.0.0.0 takru.com
 0.0.0.0 tangerinenet.biz
 0.0.0.0 tapad.com
+0.0.0.0 tapfiliate.com
 0.0.0.0 tapinfluence.com
 0.0.0.0 targad.de
 0.0.0.0 targetingnow.com
@@ -2376,6 +2376,8 @@
 0.0.0.0 track.viewdeos.com
 0.0.0.0 track1.viewdeos.com
 0.0.0.0 trackalyzer.com
+0.0.0.0 trackedlink.net
+0.0.0.0 trackedweb.net
 0.0.0.0 tracker-pm2.spilleren.com
 0.0.0.0 tracker.icerocket.com
 0.0.0.0 tracker.marinsm.com
@@ -2587,8 +2589,8 @@
 
 # Hosts - pgl.yoyo.org
 # Source - https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&mimetype=plaintext
-# Generated - 26.07.2018
+# Generated - 27.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 2586
+# Total Domains: 2588
 # License: MIT
 

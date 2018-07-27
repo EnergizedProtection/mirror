@@ -37,6 +37,7 @@
 0.0.0.0 ad1.sportsseoul.com
 0.0.0.0 ad2.thisisgame.com
 0.0.0.0 adbiz.co.kr
+0.0.0.0 adbiz2.co.kr
 0.0.0.0 adclickservice.com
 0.0.0.0 ade.realclick.co.kr
 0.0.0.0 adex.ednplus.com
@@ -113,8 +114,8 @@
 
 # Hosts - youslist
 # Source - https://raw.githubusercontent.com/yous/YousList/master/hosts.txt
-# Generated - 26.07.2018
+# Generated - 27.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 112
+# Total Domains: 113
 # License: MIT
 
