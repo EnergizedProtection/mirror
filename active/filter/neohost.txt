@@ -1099,7 +1099,6 @@
 0.0.0.0 fms.ipinyou.com
 0.0.0.0 focusbaiduafp.allyes.com
 0.0.0.0 fodder.qq.com
-0.0.0.0 fodder.tc.qq.com
 0.0.0.0 folder.adfuture.cn
 0.0.0.0 folder.adsunflower.com
 0.0.0.0 folder.advmob.cn
@@ -2581,7 +2580,6 @@
 0.0.0.0 token.rubiconproject.com
 0.0.0.0 tom.allyes.com
 0.0.0.0 tongji-res1.meizu.com
-0.0.0.0 tongji.baidu.com
 0.0.0.0 tongji.linezing.com
 0.0.0.0 tongji.meizu.com
 0.0.0.0 tongji.tom.com
@@ -3137,6 +3135,6 @@
 # Source - https://hosts.nfz.moe/full/hosts
 # Generated - 27.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 3134
+# Total Domains: 3132
 # License: MIT
 

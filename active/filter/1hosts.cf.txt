@@ -9379,7 +9379,6 @@
 0.0.0.0 banners.mellowads.com
 0.0.0.0 banners.mobile.yandex.net
 0.0.0.0 banners.moreniche.com
-0.0.0.0 banners.nbcupromotes.com
 0.0.0.0 banners.news1.co.il
 0.0.0.0 banners.nova.bg
 0.0.0.0 banners.outster.com
@@ -14260,7 +14259,6 @@
 0.0.0.0 cqlupb.com
 0.0.0.0 cquotient.com
 0.0.0.0 cqyirsc.com
-0.0.0.0 cqzqdoqsgxyf.com
 0.0.0.0 cr-p16.ladsp.com
 0.0.0.0 cr.acecounter.com
 0.0.0.0 cr.m.liebao.cn
@@ -14613,7 +14611,6 @@
 0.0.0.0 currentlyobsessed.me
 0.0.0.0 curriculture.com
 0.0.0.0 curse-d.openx.net
-0.0.0.0 cursosobej.sslblindado.com
 0.0.0.0 curtaincows.com
 0.0.0.0 curulate.com
 0.0.0.0 cus.flux.com
@@ -19714,7 +19711,6 @@
 0.0.0.0 go.choozle.com
 0.0.0.0 go.clickhoptk.com
 0.0.0.0 go.clicktrackopt.com
-0.0.0.0 go.conversionmasters.com
 0.0.0.0 go.cz.bbelements.com
 0.0.0.0 go.data1rtb.com
 0.0.0.0 go.deliverymodo.com
@@ -22613,7 +22609,6 @@
 0.0.0.0 jasmin.com
 0.0.0.0 jasmine.noblock.pro
 0.0.0.0 jasper.d3.sc.omtrdc.net
-0.0.0.0 jat01.iwantyourightnow.info
 0.0.0.0 jatxt.com
 0.0.0.0 javacript.cf
 0.0.0.0 javacript.ga
@@ -42324,7 +42319,6 @@
 0.0.0.0 www.airpush.com
 0.0.0.0 www.aiweb.tw
 0.0.0.0 www.aiwit.com
-0.0.0.0 www.ajalis.com
 0.0.0.0 www.aka-root.com
 0.0.0.0 www.albiondrugs.com
 0.0.0.0 www.alenty.com
@@ -43599,7 +43593,6 @@
 0.0.0.0 www.ivwbox.de
 0.0.0.0 www.iwdownload.com
 0.0.0.0 www.iwstats.com
-0.0.0.0 www.izalingi.com
 0.0.0.0 www.jadcenter.com
 0.0.0.0 www.jalbum.net
 0.0.0.0 www.javapic.com
@@ -43794,7 +43787,6 @@
 0.0.0.0 www.loxtk.com
 0.0.0.0 www.lucky-day-uk.com
 0.0.0.0 www.luckybtcfaucet.website
-0.0.0.0 www.luckyday.world
 0.0.0.0 www.lunarpages.com
 0.0.0.0 www.luxemil.com
 0.0.0.0 www.lvjian66.com
@@ -44747,7 +44739,6 @@
 0.0.0.0 www.steamtraffic.com
 0.0.0.0 www.steepto.com
 0.0.0.0 www.stg.fwmrm.net
-0.0.0.0 www.stopphoulplay.com
 0.0.0.0 www.strategyanalytics.com
 0.0.0.0 www.strawpoii.me
 0.0.0.0 www.streamate.com
@@ -46576,6 +46567,6 @@
 # Source - https://1hosts.cf
 # Generated - 27.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 46573
+# Total Domains: 46564
 # License: MIT
 

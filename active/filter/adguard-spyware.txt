@@ -629,6 +629,7 @@
 0.0.0.0 track2.trbo.com
 0.0.0.0 tracker.affirm.com
 0.0.0.0 tracker.ampush.io
+0.0.0.0 tracker.brainsins.com
 0.0.0.0 tracker.cartprotector.com
 0.0.0.0 tracker.downdetector.com
 0.0.0.0 tracker.giftd.ru
@@ -706,6 +707,6 @@
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-spyware-firstparty.txt
 # Generated - 27.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 703
+# Total Domains: 704
 # License: MIT
 

@@ -43985,7 +43985,6 @@
 0.0.0.0 oascentral.oprah.com
 0.0.0.0 oascentral.phoenixnewtimes.com
 0.0.0.0 oascentral.pionline.com
-0.0.0.0 oascentral.pitch.com
 0.0.0.0 oascentral.planetatv.com
 0.0.0.0 oascentral.poconorecord.com
 0.0.0.0 oascentral.ppg.us.trader.com
@@ -48787,7 +48786,6 @@
 0.0.0.0 www.adnetserver.com
 0.0.0.0 www.adobeillustratorcs6crack.com
 0.0.0.0 www.adotube.com
-0.0.0.0 www.ads234.com
 0.0.0.0 www.adscontex.com
 0.0.0.0 www.adservices1.enhance.com
 0.0.0.0 www.adult-mpg.net
@@ -49493,7 +49491,6 @@
 0.0.0.0 www.formalyzer.com
 0.0.0.0 www.foto-aeree.it
 0.0.0.0 www.fotolobo.com
-0.0.0.0 www.foxcounter.com
 0.0.0.0 www.fr.drivecleaner.com
 0.0.0.0 www.fralimbo.net
 0.0.0.0 www.francescafraioli.it
@@ -50523,7 +50520,6 @@
 0.0.0.0 www.shemalespornmag.com
 0.0.0.0 www.shinilchurch.net
 0.0.0.0 www.shivartatoo.com
-0.0.0.0 www.shockcounter.com
 0.0.0.0 www.shopperreports.com
 0.0.0.0 www.shore-view.com
 0.0.0.0 www.sieas.com
@@ -50629,7 +50625,6 @@
 0.0.0.0 www.stefanopennacchiottigioielleria.com
 0.0.0.0 www.stejax.pl
 0.0.0.0 www.stepstonedev.com
-0.0.0.0 www.stiffnetwork.com
 0.0.0.0 www.stop-sign.com
 0.0.0.0 www.stop-the-pain.net
 0.0.0.0 www.stopdigitalamnesia.com
@@ -51360,6 +51355,6 @@
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/mirror/airelle-rsk.txt
 # Generated - 27.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 51357
+# Total Domains: 51352
 # License: MIT
 

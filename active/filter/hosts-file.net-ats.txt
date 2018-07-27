@@ -14325,7 +14325,6 @@
 0.0.0.0 ad.duga.jp
 0.0.0.0 ad.dyntracker.com
 0.0.0.0 ad.dyntracker.de
-0.0.0.0 ad.e-kolay.net
 0.0.0.0 ad.eanalyzer.de
 0.0.0.0 ad.eg.doubleclick.net
 0.0.0.0 ad.egloos.com
@@ -17241,7 +17240,6 @@
 0.0.0.0 ads.tapit.com
 0.0.0.0 ads.techtv.com
 0.0.0.0 ads.teixido.co
-0.0.0.0 ads.telegraph.co.uk
 0.0.0.0 ads.telkomsel.com
 0.0.0.0 ads.tennessean.com
 0.0.0.0 ads.terra.com.br
@@ -20268,7 +20266,6 @@
 0.0.0.0 banners.moreniche.com
 0.0.0.0 banners.moviegoods.com
 0.0.0.0 banners.mydailydigest.com
-0.0.0.0 banners.nbcupromotes.com
 0.0.0.0 banners.news1.co.il
 0.0.0.0 banners.nostringsattached.com
 0.0.0.0 banners.outster.com
@@ -45108,6 +45105,6 @@
 # Source - https://hosts-file.net/ad_servers.txt
 # Generated - 27.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 45105
+# Total Domains: 45102
 # License: MIT
 

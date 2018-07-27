@@ -140,7 +140,6 @@
 0.0.0.0 ad.digitallook.com
 0.0.0.0 ad.doctissimo.fr
 0.0.0.0 ad.domainfactory.de
-0.0.0.0 ad.e-kolay.net
 0.0.0.0 ad.f1cd.ru
 0.0.0.0 ad.flurry.com
 0.0.0.0 ad.foxnetworks.com
@@ -626,7 +625,6 @@
 0.0.0.0 ads.supplyframe.com
 0.0.0.0 ads.tahono.com
 0.0.0.0 ads.techtv.com
-0.0.0.0 ads.telegraph.co.uk
 0.0.0.0 ads.themovienation.com
 0.0.0.0 ads.thestar.com
 0.0.0.0 ads.tmcs.net
@@ -3056,6 +3054,6 @@
 # Source - https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
 # Generated - 27.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 3053
+# Total Domains: 3051
 # License: MIT
 

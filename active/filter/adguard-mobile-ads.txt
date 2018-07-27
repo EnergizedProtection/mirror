@@ -13,6 +13,7 @@
 0.0.0.0 aclickoooo.host
 0.0.0.0 ad-brix.com
 0.0.0.0 ad-creatives-public.commondatastorage.googleapis.com
+0.0.0.0 ad-ettoday.cdn.hinet.net
 0.0.0.0 ad-maven.com
 0.0.0.0 ad-stir.com
 0.0.0.0 ad-x.co.uk
@@ -145,6 +146,8 @@
 0.0.0.0 adtrack.king.com
 0.0.0.0 adultadworld.com
 0.0.0.0 adups.com
+0.0.0.0 adv-ettoday.cdn.hinet.net
+0.0.0.0 adv.ettoday.net
 0.0.0.0 adv.mxmcdn.net
 0.0.0.0 adversal.com
 0.0.0.0 adverticum.net
@@ -793,6 +796,6 @@
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-mobile-ads.txt
 # Generated - 27.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 790
+# Total Domains: 793
 # License: MIT
 

@@ -15008,7 +15008,6 @@
 0.0.0.0 ad.dumedia.ru
 0.0.0.0 ad.dyntracker.com
 0.0.0.0 ad.dyntracker.de
-0.0.0.0 ad.e-kolay.net
 0.0.0.0 ad.eanalyzer.de
 0.0.0.0 ad.eg.doubleclick.net
 0.0.0.0 ad.eglenced.com
@@ -16963,7 +16962,6 @@
 0.0.0.0 adfornepal.com
 0.0.0.0 adfox.ru
 0.0.0.0 adfpaces.ero-advertising.com
-0.0.0.0 adfpkxvaqeyj.com
 0.0.0.0 adframesrc.com
 0.0.0.0 adfrika.com
 0.0.0.0 adfrontiers.com
@@ -18555,7 +18553,6 @@
 0.0.0.0 ads.tapzin.com
 0.0.0.0 ads.techtv.com
 0.0.0.0 ads.teixido.co
-0.0.0.0 ads.telegraph.co.uk
 0.0.0.0 ads.telkomsel.com
 0.0.0.0 ads.tennessean.com
 0.0.0.0 ads.terra.com.br
@@ -20319,7 +20316,6 @@
 0.0.0.0 agbmcom.112.2o7.net
 0.0.0.0 agegreetings.112.2o7.net
 0.0.0.0 agf-test.2cnt.net
-0.0.0.0 aggntknflhal.com
 0.0.0.0 aggregateknowledge.com
 0.0.0.0 agi5y.voluumtrk.com
 0.0.0.0 agilone.com
@@ -20410,7 +20406,6 @@
 0.0.0.0 akm.playnow.guru
 0.0.0.0 akmnetwork.com
 0.0.0.0 aknoj.voluumtrk.com
-0.0.0.0 akoeurmzrqjg.com
 0.0.0.0 akqhhiqteunuchise.review
 0.0.0.0 aksb-a.akamaihd.net
 0.0.0.0 aktrack.pubmatic.com
@@ -20429,7 +20424,6 @@
 0.0.0.0 alenty.com
 0.0.0.0 alexa-sitestats.s3.amazonaws.com
 0.0.0.0 alfredean.com
-0.0.0.0 algkebjdgafa.com
 0.0.0.0 algnnojsdr.com
 0.0.0.0 aliaz.go2cloud.org
 0.0.0.0 alienationxjbqjennn.download
@@ -21380,7 +21374,6 @@
 0.0.0.0 avbnzstidjh.com
 0.0.0.0 avdfcctzwfdk.com
 0.0.0.0 avenuea.com
-0.0.0.0 avfymwmwpky.com
 0.0.0.0 avgtechnologies.112.2o7.net
 0.0.0.0 aviderlutcinvv.download
 0.0.0.0 avon.112.2o7.net
@@ -21420,7 +21413,6 @@
 0.0.0.0 awjul7.radar11ab.co.uk
 0.0.0.0 awjul8.radar11ab.co.uk
 0.0.0.0 awjul9.radar11ab.co.uk
-0.0.0.0 awogbtinorwx.com
 0.0.0.0 awos8.voluumtrk.com
 0.0.0.0 awrspmpj.com
 0.0.0.0 aws.tracker.squidanalytics.com
@@ -21459,7 +21451,6 @@
 0.0.0.0 azalead.com
 0.0.0.0 azfront.com
 0.0.0.0 azhdgruuvllzxg.com
-0.0.0.0 azkvcgzjsrmk.com
 0.0.0.0 aznmedia.go2cloud.org
 0.0.0.0 azofucrzkkaa.com
 0.0.0.0 azubi.adition.com
@@ -22134,7 +22125,6 @@
 0.0.0.0 banners.moreniche.com
 0.0.0.0 banners.moviegoods.com
 0.0.0.0 banners.mydailydigest.com
-0.0.0.0 banners.nbcupromotes.com
 0.0.0.0 banners.news1.co.il
 0.0.0.0 banners.nostringsattached.com
 0.0.0.0 banners.outster.com
@@ -22676,7 +22666,6 @@
 0.0.0.0 bgibeluywjhgb.com
 0.0.0.0 bgn0f.voluumtrk.com
 0.0.0.0 bgngq.voluumtrk.com
-0.0.0.0 bgpxrwjrbsjb.com
 0.0.0.0 bgrojtcdymmcdr.com
 0.0.0.0 bgsurveys.go2cloud.org
 0.0.0.0 bgtmceqoipodkv.com
@@ -22768,7 +22757,6 @@
 0.0.0.0 bjvim.voluumtrk.com
 0.0.0.0 bjzegkfv.com
 0.0.0.0 bkgesylgvrgf.com
-0.0.0.0 bkmtspywevsk.com
 0.0.0.0 bkrtx.com
 0.0.0.0 bkscqpflg.com
 0.0.0.0 bkxkodsmrnqd.com
@@ -24445,7 +24433,6 @@
 0.0.0.0 byufpbvjpedvpx.com
 0.0.0.0 byutv.d1.sc.omtrdc.net
 0.0.0.0 byxng.voluumtrk.com
-0.0.0.0 bzfguipyjops.com
 0.0.0.0 bzgint.com
 0.0.0.0 bzgwkxnjqjdz.com
 0.0.0.0 bznmgijglbpr.com
@@ -27547,7 +27534,6 @@
 0.0.0.0 cqindhgqi.com
 0.0.0.0 cqoyvpldkmqt.com
 0.0.0.0 cqyoj.voluumtrk.com
-0.0.0.0 cqzqdoqsgxyf.com
 0.0.0.0 cr.tractionize.com
 0.0.0.0 crabbierfnffe.download
 0.0.0.0 crackberry.us.intellitxt.com
@@ -27685,7 +27671,6 @@
 0.0.0.0 cso6i.voluumtrk.com
 0.0.0.0 csoonlinecom.112.2o7.net
 0.0.0.0 csstatic.com
-0.0.0.0 cstdfxkxbqbc.com
 0.0.0.0 cstrk.net
 0.0.0.0 csxokexd.com
 0.0.0.0 csync-tmk.smartadserver.com
@@ -28279,7 +28264,6 @@
 0.0.0.0 depici.2cnt.net
 0.0.0.0 deployads.com
 0.0.0.0 depositphotos.go2cloud.org
-0.0.0.0 deqrdwsjlpjz.com
 0.0.0.0 derigina.justclick.ru
 0.0.0.0 deriversal.com
 0.0.0.0 derlatas.com
@@ -28347,7 +28331,6 @@
 0.0.0.0 dhmhdiozqbnq.com
 0.0.0.0 dhmonitor.dinaserver.com
 0.0.0.0 dhnxwgxszvi.com
-0.0.0.0 dhomixidnkas.com
 0.0.0.0 dhsmarthouse.122.2o7.net
 0.0.0.0 dhsztvyjwcmk.com
 0.0.0.0 dhvaigzy.com
@@ -28678,7 +28661,6 @@
 0.0.0.0 dps.bing.com
 0.0.0.0 dqdnwhyxeblt.com
 0.0.0.0 dqfhklmwj.com
-0.0.0.0 dqpywdubbxih.com
 0.0.0.0 dqs001.adtech.fr
 0.0.0.0 dr8pk6ovub897.cloudfront.net
 0.0.0.0 drabbersgpauijt.download
@@ -28720,7 +28702,6 @@
 0.0.0.0 dsmmadvantage.com
 0.0.0.0 dsmreports.doubleclick.net
 0.0.0.0 dsms0mj1bbhn4.cloudfront.net
-0.0.0.0 dsnjsdrbqwdu.com
 0.0.0.0 dsnr.net
 0.0.0.0 dsnrmg.com
 0.0.0.0 dsnrmg.go2affise.com
@@ -28796,7 +28777,6 @@
 0.0.0.0 dy48bnzanqw0v.cloudfront.net
 0.0.0.0 dyerbegytfkj.com
 0.0.0.0 dyhju.voluumtrk.com
-0.0.0.0 dyjifezeyagm.com
 0.0.0.0 dynamic.aol.com
 0.0.0.0 dynamic.fmpub.net
 0.0.0.0 dynamic.mediaadserver.com
@@ -28896,7 +28876,6 @@
 0.0.0.0 eafl3.voluumtrk.com
 0.0.0.0 eagamesuk.112.2o7.net
 0.0.0.0 eaglemiles.112.2o7.net
-0.0.0.0 eaidabmuxbqy.com
 0.0.0.0 eapogocom.112.2o7.net
 0.0.0.0 earnify.com
 0.0.0.0 earntosurf.com
@@ -29015,7 +28994,6 @@
 0.0.0.0 eebrojmn.com
 0.0.0.0 eeczfihelicopter.review
 0.0.0.0 eedclicks.ero-advertising.com
-0.0.0.0 eefbzuwvnnab.com
 0.0.0.0 eefiwmtwppppay.com
 0.0.0.0 eehdssnxola.com
 0.0.0.0 eelwibevmywtz.com
@@ -29221,7 +29199,6 @@
 0.0.0.0 eltrafiko.com
 0.0.0.0 eluhhfyxx.com
 0.0.0.0 elvirvln.com
-0.0.0.0 elzmazpsbnwn.com
 0.0.0.0 em.offerx.co.uk
 0.0.0.0 email-newsletters.com
 0.0.0.0 email.advertising.com
@@ -29354,7 +29331,6 @@
 0.0.0.0 eosesd.org
 0.0.0.0 ep73e.voluumtrk.com
 0.0.0.0 epebuild.112.2o7.net
-0.0.0.0 epernepojkle.com
 0.0.0.0 epgokiocquxf.com
 0.0.0.0 epiccash.com
 0.0.0.0 epicgameads.com
@@ -29439,7 +29415,6 @@
 0.0.0.0 eslgydoqbedo.com
 0.0.0.0 esomniture.com
 0.0.0.0 espndotcom.tt.omtrdc.net
-0.0.0.0 espnrlezwzvd.com
 0.0.0.0 espolupracecz.go2cloud.org
 0.0.0.0 espotting.com
 0.0.0.0 espousershcota.download
@@ -29477,7 +29452,6 @@
 0.0.0.0 etahub.com
 0.0.0.0 etargetnet.com
 0.0.0.0 etbmvqjnfxtk.com
-0.0.0.0 etbrjgpsadke.com
 0.0.0.0 eternalmobi.go2affise.com
 0.0.0.0 etglnloj.com
 0.0.0.0 ethicalads.net
@@ -29581,7 +29555,6 @@
 0.0.0.0 evisit.exeter.ac.uk
 0.0.0.0 evita.ivwbox.de
 0.0.0.0 evklj.voluumtrk.com
-0.0.0.0 evlvaulglzpu.com
 0.0.0.0 evo5-com-netmining.netmining.com
 0.0.0.0 evolveplatform.net
 0.0.0.0 evs-hosted-14facd241e1c08.s3.amazonaws.com
@@ -29640,7 +29613,6 @@
 0.0.0.0 exekiksakspujl.com
 0.0.0.0 exelator.com
 0.0.0.0 exfgumodulated.review
-0.0.0.0 exioptyxiyoo.com
 0.0.0.0 exit.doublepimp.com
 0.0.0.0 exit.oxcash2.com
 0.0.0.0 exit.xpays.com
@@ -29727,7 +29699,6 @@
 0.0.0.0 ezec.co.uk
 0.0.0.0 ezgds.112.2o7.net
 0.0.0.0 ezhkfxskimqnqk.com
-0.0.0.0 ezjrnbpjthir.com
 0.0.0.0 ezknqsblzmsl.com
 0.0.0.0 ezpoll.superstats.com
 0.0.0.0 ezpolls.superstats.com
@@ -30192,7 +30163,6 @@
 0.0.0.0 fpnxicejwel.com
 0.0.0.0 fpqxcvrewdqd.com
 0.0.0.0 fpriycwxw.com
-0.0.0.0 fpslcnjecewd.com
 0.0.0.0 fpxrl.voluumtrk.com
 0.0.0.0 fpzee.voluumtrk.com
 0.0.0.0 fqgqosvpodxn.com
@@ -30820,7 +30790,6 @@
 0.0.0.0 ftp.zedo.com
 0.0.0.0 ftr2.external.xerox.com
 0.0.0.0 ftuisdlnbp.com
-0.0.0.0 ftvkgkkmthed.com
 0.0.0.0 ftymjfywuyv.com
 0.0.0.0 fu7fb.voluumtrk.com
 0.0.0.0 fuauq.voluumtrk.com
@@ -30860,7 +30829,6 @@
 0.0.0.0 fvhxlrcd.com
 0.0.0.0 fvrbloxygbrv.com
 0.0.0.0 fvrvxmksxhut.com
-0.0.0.0 fvwcwbdrprdt.com
 0.0.0.0 fw.adsafeprotected.com
 0.0.0.0 fw.moatads.com
 0.0.0.0 fw2zy.voluumtrk.com
@@ -31690,7 +31658,6 @@
 0.0.0.0 gsfvzgnu.com
 0.0.0.0 gsicpbs.112.2o7.net
 0.0.0.0 gsicrsk.112.207.net
-0.0.0.0 gsiqerorqkxu.com
 0.0.0.0 gslbeacon.lijit.com
 0.0.0.0 gsmtop.net
 0.0.0.0 gsqwxrtcabdftt.com
@@ -31756,7 +31723,6 @@
 0.0.0.0 gxwjkbxubfjd.com
 0.0.0.0 gxxsqeqlepva.com
 0.0.0.0 gydfsypjiaymj.com
-0.0.0.0 gydlzimosfnz.com
 0.0.0.0 gyhujxbptum.com
 0.0.0.0 gyojplgn.com
 0.0.0.0 gzadt.voluumtrk.com
@@ -31849,7 +31815,6 @@
 0.0.0.0 hbhjamkcubtez.com
 0.0.0.0 hbho0.voluumtrk.com
 0.0.0.0 hbvnnwtoonhh.com
-0.0.0.0 hbzzkwsuaooc.com
 0.0.0.0 hc1.humanclick.com
 0.0.0.0 hc2.humanclick.com
 0.0.0.0 hcharbach.de
@@ -32048,7 +32013,6 @@
 0.0.0.0 hk.adserver.yahoo.com
 0.0.0.0 hk9dl.voluumtrk.com
 0.0.0.0 hkjhwrhogwash.review
-0.0.0.0 hklyzmspvqjh.com
 0.0.0.0 hkvqyjtdghbe.com
 0.0.0.0 hkyykkerrp.com
 0.0.0.0 hld.jmp9.com
@@ -32186,7 +32150,6 @@
 0.0.0.0 hrdbamvfzipe.com
 0.0.0.0 hrdya.voluumtrk.com
 0.0.0.0 hrfdpodunwarlike.review
-0.0.0.0 hrkshoveizfo.com
 0.0.0.0 hrskwmpvpgocj.com
 0.0.0.0 hrtgkdwjbjblb.com
 0.0.0.0 hrukxtcqmosaics.review
@@ -32227,7 +32190,6 @@
 0.0.0.0 htmlcounter.com
 0.0.0.0 htmlhubing.xyz
 0.0.0.0 htmonster.com
-0.0.0.0 htonrwegnifw.com
 0.0.0.0 htpkxpgbprpklc.com
 0.0.0.0 htqyaipwpopyx.com
 0.0.0.0 htrprrrtrwrc.com
@@ -32289,7 +32251,6 @@
 0.0.0.0 hwupgrade.it.intellitxt.com
 0.0.0.0 hxcoxdyzzd.com
 0.0.0.0 hxhsu.voluumtrk.com
-0.0.0.0 hxkanryhktub.com
 0.0.0.0 hxlojjtpqtlk.com
 0.0.0.0 hxmtq.voluumtrk.com
 0.0.0.0 hxnfk.voluumtrk.com
@@ -32579,7 +32540,6 @@
 0.0.0.0 ihdrozswbekx.com
 0.0.0.0 ihfpu.voluumtrk.com
 0.0.0.0 ihghcmznlp.com
-0.0.0.0 ihgkmgwfhjam.com
 0.0.0.0 ihm01.ct2.comclick.com
 0.0.0.0 iialqejeka.com
 0.0.0.0 iicdn.com
@@ -32597,7 +32557,6 @@
 0.0.0.0 ikay6.voluumtrk.com
 0.0.0.0 ikcwcxhgibmumf.com
 0.0.0.0 ikdhuhcigpoc.com
-0.0.0.0 ikealcmavhpk.com
 0.0.0.0 ikfmafgtgnylts.com
 0.0.0.0 ikmymeivze.com
 0.0.0.0 iknka.voluumtrk.com
@@ -33186,7 +33145,6 @@
 0.0.0.0 irtxsagfqrg.com
 0.0.0.0 is9ip.voluumtrk.com
 0.0.0.0 isanalyze.com
-0.0.0.0 iscaebizkzyd.com
 0.0.0.0 ise.clmbtech.com
 0.0.0.0 isearch.shopathome.com
 0.0.0.0 isg01.casalemedia.com
@@ -33255,11 +33213,9 @@
 0.0.0.0 ivypixel.com
 0.0.0.0 ivypx.voluumtrk.com
 0.0.0.0 iwbwvowdidkuo.com
-0.0.0.0 iweacndqhiht.com
 0.0.0.0 iweb.go2cloud.org
 0.0.0.0 iwebimg.net
 0.0.0.0 iwmhtnexbthwartly.review
-0.0.0.0 iwqugvxozbkd.com
 0.0.0.0 iwqzh.voluumtrk.com
 0.0.0.0 iwztirze.com
 0.0.0.0 ixbuuqymufxas.com
@@ -33492,7 +33448,6 @@
 0.0.0.0 jomznuefrw.com
 0.0.0.0 jonathanleger.com
 0.0.0.0 joqnoyniblzm.com
-0.0.0.0 joqpatxugyug.com
 0.0.0.0 joredi.com
 0.0.0.0 joredii.com
 0.0.0.0 jorel.radfellas.com
@@ -33530,7 +33485,6 @@
 0.0.0.0 jrjdn.voluumtrk.com
 0.0.0.0 jrlsithadutpm.com
 0.0.0.0 jrrmwjybfaztct.com
-0.0.0.0 jrtawlpbusyg.com
 0.0.0.0 jrtux.com
 0.0.0.0 jrtzehrbg.com
 0.0.0.0 jryyekccnw.com
@@ -33636,7 +33590,6 @@
 0.0.0.0 justsaywow.com
 0.0.0.0 justwebads.com
 0.0.0.0 justwtchaffiliatecom.ipage.com
-0.0.0.0 juyfhwxcvzft.com
 0.0.0.0 jvesd.voluumtrk.com
 0.0.0.0 jvhdxosisifv.com
 0.0.0.0 jvhuv.voluumtrk.com
@@ -33663,14 +33616,12 @@
 0.0.0.0 jxfplvnrg.com
 0.0.0.0 jxhmvjrpkdyn.com
 0.0.0.0 jxuezvyaakks.com
-0.0.0.0 jxvhdyguseaf.com
 0.0.0.0 jxzmo.voluumtrk.com
 0.0.0.0 jxzxqaauplaybooks.review
 0.0.0.0 jyezgitcx.com
 0.0.0.0 jynbcpfwvazazd.com
 0.0.0.0 jypmcknqvnfd.com
 0.0.0.0 jyttehhwlm.com
-0.0.0.0 jzbskhgpivyl.com
 0.0.0.0 jzckyzvlxetror.com
 0.0.0.0 jzgng.voluumtrk.com
 0.0.0.0 jzurzhjqrp.com
@@ -33904,7 +33855,6 @@
 0.0.0.0 krutor.eu.org
 0.0.0.0 krwxs.voluumtrk.com
 0.0.0.0 krxd.net
-0.0.0.0 krxpudrzyvko.com
 0.0.0.0 krynjumnqlix.com
 0.0.0.0 kryptobanners.com
 0.0.0.0 krzdqcqb.com
@@ -33948,14 +33898,12 @@
 0.0.0.0 kvjwu.voluumtrk.com
 0.0.0.0 kvkoqywl.com
 0.0.0.0 kvprhbqnmszru.com
-0.0.0.0 kvrozyibdkkt.com
 0.0.0.0 kvrzoosj.com
 0.0.0.0 kvsge.voluumtrk.com
 0.0.0.0 kvtblvquxxzbim.com
 0.0.0.0 kvtxztiys.com
 0.0.0.0 kvvadrat.net
 0.0.0.0 kvvvdfimdxnu.com
-0.0.0.0 kvzvtiswjroe.com
 0.0.0.0 kwiaofifmdqpif.com
 0.0.0.0 kwjglwybtlhm.com
 0.0.0.0 kwshmdfgijgu.com
@@ -34162,7 +34110,6 @@
 0.0.0.0 lexwdqnzmkdr.com
 0.0.0.0 lfbot.voluumtrk.com
 0.0.0.0 lfclktkwnc.com
-0.0.0.0 lfcnzhcnzded.com
 0.0.0.0 lffyoomtjjhvc.com
 0.0.0.0 lfiofptxserows.review
 0.0.0.0 lfirckcbkh.com
@@ -34171,7 +34118,6 @@
 0.0.0.0 lg.brandreachsys.com
 0.0.0.0 lgelectronics.122.2o7.net
 0.0.0.0 lgkzfskybz.com
-0.0.0.0 lgtnwgfqkyyf.com
 0.0.0.0 lhaqzqjbafcu.com
 0.0.0.0 lhbkkztxg.com
 0.0.0.0 lhcep.voluumtrk.com
@@ -34366,7 +34312,6 @@
 0.0.0.0 liwebloggersz.com
 0.0.0.0 ljfmxgkfmvtowg.com
 0.0.0.0 ljgmufobaphrd.com
-0.0.0.0 ljngjrwkyovx.com
 0.0.0.0 ljostrade.go2cloud.org
 0.0.0.0 ljpuptlitl.com
 0.0.0.0 ljteas.com
@@ -34374,7 +34319,6 @@
 0.0.0.0 ljvgxanxkuiw.com
 0.0.0.0 ljwbfghcggfvv.com
 0.0.0.0 ljzhxfurwibo.com
-0.0.0.0 lkaarvdprhzx.com
 0.0.0.0 lkaumkxmzefa.com
 0.0.0.0 lkdlamrwl.com
 0.0.0.0 lkgcdedbklfse.com
@@ -34402,7 +34346,6 @@
 0.0.0.0 lndvtedtayqy.com
 0.0.0.0 lnelcbntwru.com
 0.0.0.0 lnglwoexxrsv.com
-0.0.0.0 lnjpyxvbpyvj.com
 0.0.0.0 lnjrawgb.com
 0.0.0.0 lnkgo.com
 0.0.0.0 lnkgt.com
@@ -34687,7 +34630,6 @@
 0.0.0.0 ltfroezjyyhv.com
 0.0.0.0 ltljm.voluumtrk.com
 0.0.0.0 ltnfhltuksarpq.com
-0.0.0.0 lttsvesujmry.com
 0.0.0.0 ltur.112.2o7.net
 0.0.0.0 ltwlxoedrydz.com
 0.0.0.0 lucidmedia.com
@@ -34742,7 +34684,6 @@
 0.0.0.0 lyyy6.voluumtrk.com
 0.0.0.0 lzfvonzwjzhz.com
 0.0.0.0 lzjl.com
-0.0.0.0 lzrfxzvfbkay.com
 0.0.0.0 lzsiojww.com
 0.0.0.0 lzukp.voluumtrk.com
 0.0.0.0 m.2mdn.net
@@ -35022,7 +34963,6 @@
 0.0.0.0 mb01.com
 0.0.0.0 mb104.com
 0.0.0.0 mb871.voluumtrk.com
-0.0.0.0 mbajaazbqdzc.com
 0.0.0.0 mbixuxsfeoutfields.review
 0.0.0.0 mbjqc.voluumtrk.com
 0.0.0.0 mbn.com.ua
@@ -35438,7 +35378,6 @@
 0.0.0.0 microstatic.pl
 0.0.0.0 microstocker.justclick.ru
 0.0.0.0 microticker.com
-0.0.0.0 mictxtwtjigs.com
 0.0.0.0 midala.112.2o7.net
 0.0.0.0 midar.112.2o7.net
 0.0.0.0 midcru.112.2o7.net
@@ -35501,7 +35440,6 @@
 0.0.0.0 mkjcjqcn.com
 0.0.0.0 mkkappfdehkwf.com
 0.0.0.0 mkonyvjesnorkelled.review
-0.0.0.0 mkpdquuxcnhl.com
 0.0.0.0 mkt10.122.2o7.net
 0.0.0.0 mktg.actonsoftware.com
 0.0.0.0 mkto-k0029.com
@@ -35529,7 +35467,6 @@
 0.0.0.0 mm.777-partners.net
 0.0.0.0 mm.chitika.net
 0.0.0.0 mmaglobal.com
-0.0.0.0 mmaigzevcfws.com
 0.0.0.0 mmauckxrzh.com
 0.0.0.0 mmc.122.2o7.net
 0.0.0.0 mmdcibihoimt.com
@@ -35787,7 +35724,6 @@
 0.0.0.0 mseupwinxpfam.112.2o7.net
 0.0.0.0 msft.demdex.net
 0.0.0.0 msgui.go2cloud.org
-0.0.0.0 msiegurhgfyl.com
 0.0.0.0 msimg.com
 0.0.0.0 msjil.voluumtrk.com
 0.0.0.0 msmetrics.ws.sonos.com
@@ -36099,7 +36035,6 @@
 0.0.0.0 nbhubocsduzn.com
 0.0.0.0 nbimg.dt00.net
 0.0.0.0 nbjmp.com
-0.0.0.0 nbmffortfyyg.com
 0.0.0.0 nbnkg.voluumtrk.com
 0.0.0.0 nbnsioedq.com
 0.0.0.0 nbrokpopimjbw.com
@@ -36121,9 +36056,7 @@
 0.0.0.0 ndirect.ppro.de
 0.0.0.0 ndjln.voluumtrk.com
 0.0.0.0 ndk38.voluumtrk.com
-0.0.0.0 ndndptjtonhh.com
 0.0.0.0 ndparking.com
-0.0.0.0 ndpegjgxzbbv.com
 0.0.0.0 ndqwtlseuqjbc.com
 0.0.0.0 ndtlcaudedxz.com
 0.0.0.0 ndwck.voluumtrk.com
@@ -36567,12 +36500,10 @@
 0.0.0.0 nurno.com
 0.0.0.0 nuscutsdqqcc.com
 0.0.0.0 nuseek.com
-0.0.0.0 nushflxucofk.com
 0.0.0.0 nutmore.com
 0.0.0.0 nv.ad.naver.com
 0.0.0.0 nv4n8.voluumtrk.com
 0.0.0.0 nvk.realsecuredredirect.com
-0.0.0.0 nvmjtxnlcdqo.com
 0.0.0.0 nvmuh.voluumtrk.com
 0.0.0.0 nvqsjdvgqnyk.com
 0.0.0.0 nvtrak.com
@@ -36742,7 +36673,6 @@
 0.0.0.0 oasis.411affiliates.ca
 0.0.0.0 oata.ero-advertising.com
 0.0.0.0 oatcakehcewr.download
-0.0.0.0 oaxwtgfhsxod.com
 0.0.0.0 oazznjmbchmpdg.com
 0.0.0.0 ob1trk.com
 0.0.0.0 obc99.voluumtrk.com
@@ -36778,9 +36708,7 @@
 0.0.0.0 odb.outbrain.com
 0.0.0.0 odesaconflate.com
 0.0.0.0 odmdr.voluumtrk.com
-0.0.0.0 odomcrqlxulb.com
 0.0.0.0 odpjcjreznno.com
-0.0.0.0 odtcspsrhbko.com
 0.0.0.0 odttrilkocement.review
 0.0.0.0 odwymewlu.com
 0.0.0.0 odzb5nkp.com
@@ -36875,7 +36803,6 @@
 0.0.0.0 olizyr.com
 0.0.0.0 olpvmzxadjwgk.com
 0.0.0.0 olthlikechgq.com
-0.0.0.0 olwopczjfkng.com
 0.0.0.0 olxeziuke.com
 0.0.0.0 om.cbsi.com
 0.0.0.0 omariev.justclick.ru
@@ -36976,7 +36903,6 @@
 0.0.0.0 oodpreprod.122.2o7.net
 0.0.0.0 oofywoeynt.download
 0.0.0.0 ookdapjylpvq.com
-0.0.0.0 oonenbygymsl.com
 0.0.0.0 ooredi.com
 0.0.0.0 op4g.go2cloud.org
 0.0.0.0 opads.ero-advertising.com
@@ -37510,7 +37436,6 @@
 0.0.0.0 pb.i.sogou.com
 0.0.0.0 pb.sogou.com
 0.0.0.0 pba39.inethoster.org
-0.0.0.0 pbbutsvpzqza.com
 0.0.0.0 pbc7m.voluumtrk.com
 0.0.0.0 pbhletstiooizj.com
 0.0.0.0 pbid.pro-market.net
@@ -37527,7 +37452,6 @@
 0.0.0.0 pcconnectioncom.112.2o7.net
 0.0.0.0 pcdwh.voluumtrk.com
 0.0.0.0 pcebrrqydcox.com
-0.0.0.0 pceqybrdyncq.com
 0.0.0.0 pcgames.de.intellitxt.com
 0.0.0.0 pch.122.2o7.net
 0.0.0.0 pclick.europe.yahoo.com
@@ -37637,7 +37561,6 @@
 0.0.0.0 pgmediaserve.com
 0.0.0.0 pgmopcongruity.review
 0.0.0.0 pgpartner.com
-0.0.0.0 pguxoochezkc.com
 0.0.0.0 pgxciwvwcfof.com
 0.0.0.0 ph-ad.focalink.com
 0.0.0.0 ph-ad01.focalink.com
@@ -37812,7 +37735,6 @@
 0.0.0.0 pk5qr.voluumtrk.com
 0.0.0.0 pkklpazhqqda.com
 0.0.0.0 pkmg.go2cloud.org
-0.0.0.0 pktgargbhjmo.com
 0.0.0.0 pkzfmxjlkcxkub.com
 0.0.0.0 pl105423.putags.com
 0.0.0.0 pl106332.puhtml.com
@@ -38280,7 +38202,6 @@
 0.0.0.0 ptsc.shoplocal.com
 0.0.0.0 pttjrlnydgjffv.com
 0.0.0.0 pttsite.com
-0.0.0.0 ptvjsyfayezb.com
 0.0.0.0 pu-dsp.adsniper.ru
 0.0.0.0 pu.trafficshop.com
 0.0.0.0 puat.go2cloud.org
@@ -38624,7 +38545,6 @@
 0.0.0.0 qkdywnhtmpgc.com
 0.0.0.0 qkfqyqczawyb.com
 0.0.0.0 qkjltxihv.com
-0.0.0.0 qklhtphiphni.com
 0.0.0.0 qknuubmfneib.com
 0.0.0.0 qksrv.growhope.com
 0.0.0.0 qld.jmp9.com
@@ -38660,7 +38580,6 @@
 0.0.0.0 qpljfpwdpk.com
 0.0.0.0 qpppobrqizen.com
 0.0.0.0 qqbwymba.com
-0.0.0.0 qqbyfhlctzty.com
 0.0.0.0 qqc.co
 0.0.0.0 qqgtevtjnpwd.com
 0.0.0.0 qqrkutrsg.com
@@ -38724,7 +38643,6 @@
 0.0.0.0 qwest.bfast.com
 0.0.0.0 qwestfull.112.2o7.net
 0.0.0.0 qwiklnk.com
-0.0.0.0 qwrkigqtgygc.com
 0.0.0.0 qwufihkhgxphq.com
 0.0.0.0 qwwqb.voluumtrk.com
 0.0.0.0 qxbnmdjmymqa.com
@@ -38921,7 +38839,6 @@
 0.0.0.0 rdgsjybsyjj.com
 0.0.0.0 rdir.smartshoppingads.co.uk
 0.0.0.0 rdkdexupxcfs.com
-0.0.0.0 rdlynbosndvx.com
 0.0.0.0 rdqyasdstllr.com
 0.0.0.0 rds4k.voluumtrk.com
 0.0.0.0 rdsa2012.com
@@ -39125,7 +39042,6 @@
 0.0.0.0 req.startappservice.com
 0.0.0.0 reqpostanza.com
 0.0.0.0 request.issuu.com
-0.0.0.0 rertazmgduxp.com
 0.0.0.0 res-x.com
 0.0.0.0 res.lazyswipe.com
 0.0.0.0 res3.feedsportal.com
@@ -39249,7 +39165,6 @@
 0.0.0.0 rjljndfgnkcu.com
 0.0.0.0 rjnc0.voluumtrk.com
 0.0.0.0 rjnqbphb.com
-0.0.0.0 rjpqbishujeu.com
 0.0.0.0 rjtcrxzd.com
 0.0.0.0 rjxspgol.com
 0.0.0.0 rkaffiliates.go2cloud.org
@@ -39279,7 +39194,6 @@
 0.0.0.0 rmatic.go2cloud.org
 0.0.0.0 rmbn.ru
 0.0.0.0 rmd.atdmt.com
-0.0.0.0 rmdzbqggjskv.com
 0.0.0.0 rmedia.boston.com
 0.0.0.0 rmeolnjxkgfe.com
 0.0.0.0 rmgparcelforcecom.112.2o7.net
@@ -39294,7 +39208,6 @@
 0.0.0.0 rnhkptivhwhc.com
 0.0.0.0 rntlwkqmelxceu.com
 0.0.0.0 rnyp9.voluumtrk.com
-0.0.0.0 rnyuhkbucgun.com
 0.0.0.0 ro.adocean.pl
 0.0.0.0 roadcatalogs.us.intellitxt.com
 0.0.0.0 roadmappdigital.go2affise.com
@@ -39394,7 +39307,6 @@
 0.0.0.0 rss.dtiserv.com
 0.0.0.0 rsvfh.voluumtrk.com
 0.0.0.0 rsvjs.voluumtrk.com
-0.0.0.0 rsvxipjqyvfs.com
 0.0.0.0 rswgoccwzs.com
 0.0.0.0 rt.analytics.anvato.net
 0.0.0.0 rt.globo.com
@@ -39439,7 +39351,6 @@
 0.0.0.0 rtve.d1.sc.omtrdc.net
 0.0.0.0 rtvhalearn.review
 0.0.0.0 rtwvnrgn.com
-0.0.0.0 rtxunghyiwiq.com
 0.0.0.0 ru-tor.biz
 0.0.0.0 ru-traffic.com
 0.0.0.0 ru.redtram.com
@@ -39485,7 +39396,6 @@
 0.0.0.0 rutracker.eu
 0.0.0.0 rutracker.eu.org
 0.0.0.0 rutracker.org.pl
-0.0.0.0 ruzttiecdedv.com
 0.0.0.0 ruzwwrkgthfobd.com
 0.0.0.0 rvcjn.voluumtrk.com
 0.0.0.0 rvcruqbk.com
@@ -40254,7 +40164,6 @@
 0.0.0.0 sfl.erw.downloadfilesnow.info
 0.0.0.0 sfmzbrdtse.com
 0.0.0.0 sfmziexfvvru.com
-0.0.0.0 sfpkwhncpllt.com
 0.0.0.0 sftp.barb.2cnt.net
 0.0.0.0 sftp.clickability.com
 0.0.0.0 sftrack.searchforce.net
@@ -40405,7 +40314,6 @@
 0.0.0.0 sin.ero-advertising.com
 0.0.0.0 singaporeair-com.b.appier.net
 0.0.0.0 sinoa.com
-0.0.0.0 siogczwibswm.com
 0.0.0.0 sired.com
 0.0.0.0 site-stats.com
 0.0.0.0 site-stats.i8.com
@@ -41850,7 +41758,6 @@
 0.0.0.0 tc.tradetracker.net
 0.0.0.0 tc.tradetracker.nl
 0.0.0.0 tcads.net
-0.0.0.0 tcdikyjqdmsb.com
 0.0.0.0 tchibo02.webtrekk.net
 0.0.0.0 tchibo03.webtrekk.net
 0.0.0.0 tchibo04.webtrekk.net
@@ -42176,7 +42083,6 @@
 0.0.0.0 tlfloruou.com
 0.0.0.0 tlhadcbtntr.com
 0.0.0.0 tlkrvyuincommodes.review
-0.0.0.0 tlnoffpocjud.com
 0.0.0.0 tlpwwloqryzu.com
 0.0.0.0 tlvmedia.adk2.co
 0.0.0.0 tlvmedia.com
@@ -43480,7 +43386,6 @@
 0.0.0.0 ulwsjpfxwniz.com
 0.0.0.0 um.eqads.com
 0.0.0.0 um.simpli.fi
-0.0.0.0 umafkdswjuwz.bid
 0.0.0.0 umbel.com
 0.0.0.0 umbs.ero-advertising.com
 0.0.0.0 umeng.com
@@ -43566,7 +43471,6 @@
 0.0.0.0 uptpro.homestead.com
 0.0.0.0 uptrck.com
 0.0.0.0 upv4.moatads.com
-0.0.0.0 uqoboyvqsqpy.com
 0.0.0.0 uqqgyniatjtf.com
 0.0.0.0 uralap.com
 0.0.0.0 urbanityadnetwork.com
@@ -43671,7 +43575,6 @@
 0.0.0.0 uuvqkppicm.com
 0.0.0.0 uuvwcjtppeonfq.com
 0.0.0.0 uv.terra.com.br
-0.0.0.0 uvffdmlqwmha.com
 0.0.0.0 uvjvnbitjmvzgk.com
 0.0.0.0 uvyeoperistome.review
 0.0.0.0 uwfvuohbac.com
@@ -43784,7 +43687,6 @@
 0.0.0.0 vcom.go2cloud.org
 0.0.0.0 vcomdeepdiscount.112.2o7.net
 0.0.0.0 vcommerce.112.2o7.net
-0.0.0.0 vcwdjbbughuy.com
 0.0.0.0 vcxqcjov.com
 0.0.0.0 vda.gtarcade.com
 0.0.0.0 vddhkbxeutjr.com
@@ -43795,7 +43697,6 @@
 0.0.0.0 vdrn.redplum.com
 0.0.0.0 vdtaajlfocecy.com
 0.0.0.0 vdumpcunfa.com
-0.0.0.0 vduswjwfcexa.com
 0.0.0.0 vectormarketing.com
 0.0.0.0 vectrabank.112.2o7.net
 0.0.0.0 vegiqjbranp.com
@@ -47456,7 +47357,6 @@
 0.0.0.0 viplogin.553.clicksurecpa.com
 0.0.0.0 vippay.c.duba.net
 0.0.0.0 vipplaza-co-id.b.appier.net
-0.0.0.0 viqfxgmgacxv.com
 0.0.0.0 viqmadjqndqkm.com
 0.0.0.0 virads.com
 0.0.0.0 virginmedia.112.2o7.net
@@ -48017,7 +47917,6 @@
 0.0.0.0 weecia.7173.clicksurecpa.com
 0.0.0.0 weedoit.fr
 0.0.0.0 weeklyad.target.com
-0.0.0.0 weekwkbulvsy.com
 0.0.0.0 weesh.co.uk
 0.0.0.0 weevermedia.go2affise.com
 0.0.0.0 wegbgideb.com
@@ -48080,7 +47979,6 @@
 0.0.0.0 whereuntomzrpo.download
 0.0.0.0 whgsyczcofwf.com
 0.0.0.0 whickerxsxnz.download
-0.0.0.0 whinjxmkugky.com
 0.0.0.0 whinteryield.jmp9.com
 0.0.0.0 whirlerssrmbf.download
 0.0.0.0 whisk.com
@@ -48272,19 +48170,16 @@
 0.0.0.0 wpni.112.2o7.net
 0.0.0.0 wpni.tt.omtrdc.net
 0.0.0.0 wpnipostcomjobs.112.2o7.net
-0.0.0.0 wpsyjttctdnt.com
 0.0.0.0 wptag.net
 0.0.0.0 wptdfllszzpczp.com
 0.0.0.0 wptlxfgslcfcx.com
 0.0.0.0 wpvpcuwp.com
-0.0.0.0 wpvvlwprfbtm.com
 0.0.0.0 wpwddinnvncto.com
 0.0.0.0 wpwysmvy.com
 0.0.0.0 wpysazovofdui.com
 0.0.0.0 wqdtzhdstabler.review
 0.0.0.0 wqgaevqpbwgx.com
 0.0.0.0 wqxccfoswbwo.com
-0.0.0.0 wqzorzjhvzqf.com
 0.0.0.0 wr.clicktale.net
 0.0.0.0 wrackgdnkgwg.download
 0.0.0.0 wrb.pornme.com
@@ -48384,9 +48279,7 @@
 0.0.0.0 wtjmnbjktbci.com
 0.0.0.0 wtlive.com
 0.0.0.0 wtqrtjthyuopw.com
-0.0.0.0 wtxoicsjxbsj.com
 0.0.0.0 wugwwcqjdfa.com
-0.0.0.0 wuldwvzqvqet.com
 0.0.0.0 wulstqpsevmtj.com
 0.0.0.0 wunccmpzjqvxe.com
 0.0.0.0 wundercounter.com
@@ -51541,15 +51434,12 @@
 0.0.0.0 xhr.zonolali.com
 0.0.0.0 xhr.zorbikala.com
 0.0.0.0 xhr.zortinah.com
-0.0.0.0 xhwqginopocs.com
 0.0.0.0 xiazai.duba.net
-0.0.0.0 xicuxxferbnn.com
 0.0.0.0 xiebddgbseoxa.com
 0.0.0.0 xiti.com
 0.0.0.0 xiuekdmfaqwh.com
 0.0.0.0 xius.com
 0.0.0.0 xivphnipressings.review
-0.0.0.0 xiwhhcyzhtem.com
 0.0.0.0 xjehskjzyedb.com
 0.0.0.0 xjjjohojeeozv.com
 0.0.0.0 xjwtyrklinni.com
@@ -51694,7 +51584,6 @@
 0.0.0.0 yallboen.com
 0.0.0.0 yamaha.122.2o7.net
 0.0.0.0 yamdex.net
-0.0.0.0 yamrxfbkpirt.com
 0.0.0.0 yandexadexchange.net
 0.0.0.0 yang.hitbox.com
 0.0.0.0 yaoslgiweccw.com
@@ -51823,14 +51712,11 @@
 0.0.0.0 ypecrrktyo.com
 0.0.0.0 ypn-jscs.overture.com
 0.0.0.0 yqhgbmyfiomx.com
-0.0.0.0 yqjoqncxmufi.com
 0.0.0.0 yqmjmbmxzfz.com
 0.0.0.0 yqqxrfhtgcbxz.com
 0.0.0.0 yqrsfisvrilz.com
 0.0.0.0 yqucllrbg.com
 0.0.0.0 yqufdqly.com
-0.0.0.0 yqutkbvrgvar.com
-0.0.0.0 yrfrvrbmipzb.com
 0.0.0.0 yrgnouqinylg.com
 0.0.0.0 yrkdsp.112.2o7.net
 0.0.0.0 yrkeve.112.2o7.net
@@ -51860,7 +51746,6 @@
 0.0.0.0 ywxi.net
 0.0.0.0 ywxjbwauqznf.com
 0.0.0.0 yx-ads6.com
-0.0.0.0 yxahzybkggol.com
 0.0.0.0 yxcdiyaidaakp.com
 0.0.0.0 yxjecoghjycuvm.com
 0.0.0.0 yxjvmjlhyfrp.com
@@ -52079,7 +51964,6 @@
 0.0.0.0 zp.zeroredirect1.com
 0.0.0.0 zpfjfwbij.com
 0.0.0.0 zpfoyfae.com
-0.0.0.0 zpkebyxabtsh.com
 0.0.0.0 zpppstop.ru
 0.0.0.0 zprrfpczfpnh.com
 0.0.0.0 zpsgqvvzcbni.com
@@ -52166,6 +52050,6 @@
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/ck-ad-tracker.txt
 # Generated - 27.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 52163
+# Total Domains: 52047
 # License: MIT
 

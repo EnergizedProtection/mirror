@@ -123,7 +123,6 @@
 0.0.0.0 a.openinternetexchange.com
 0.0.0.0 a.predictvideo.com
 0.0.0.0 a.prisacom.com
-0.0.0.0 a.tadd.react2media.com
 0.0.0.0 a.tribalfusion.com
 0.0.0.0 a.twiago.com
 0.0.0.0 a.visualrevenue.com
@@ -242,7 +241,6 @@
 0.0.0.0 ad.doganburda.com
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 ad.duga.jp
-0.0.0.0 ad.e-kolay.net
 0.0.0.0 ad.e-sport.com
 0.0.0.0 ad.egloos.com
 0.0.0.0 ad.ekonomikticaret.com
@@ -662,7 +660,6 @@
 0.0.0.0 adobee.com
 0.0.0.0 adobur.com
 0.0.0.0 adocean.pl
-0.0.0.0 adonline.e-kolay.net
 0.0.0.0 adopt.precisead.com
 0.0.0.0 adopt.specificclick.net
 0.0.0.0 adotube.com
@@ -1071,7 +1068,6 @@
 0.0.0.0 ads.technoratimedia.com
 0.0.0.0 ads.techtv.com
 0.0.0.0 ads.telecinco.es
-0.0.0.0 ads.telegraph.co.uk
 0.0.0.0 ads.thecoolhunter.net
 0.0.0.0 ads.thecrimson.com
 0.0.0.0 ads.thegauntlet.com
@@ -1177,7 +1173,6 @@
 0.0.0.0 ads1a.depositfiles.com
 0.0.0.0 ads2-adnow.com
 0.0.0.0 ads2.clearchannel.com
-0.0.0.0 ads2.clickad.com
 0.0.0.0 ads2.contentabc.com
 0.0.0.0 ads2.exhedra.com
 0.0.0.0 ads2.gamecity.net
@@ -1779,7 +1774,6 @@
 0.0.0.0 appodeal.com
 0.0.0.0 apprep.smartscreen.microsoft.com
 0.0.0.0 apps5.oingo.com
-0.0.0.0 apps9039.super-your-prize33.loan
 0.0.0.0 appsrv1.madserving.cn
 0.0.0.0 apx.moatads.com
 0.0.0.0 ar.hao123.com
@@ -1800,7 +1794,6 @@
 0.0.0.0 as.casalemedia.com
 0.0.0.0 as.ebz.io
 0.0.0.0 as.sexad.net
-0.0.0.0 as.vs4entertainment.com
 0.0.0.0 as.webmd.com
 0.0.0.0 as1.inoventiv.com
 0.0.0.0 asa.tynt.com
@@ -1938,7 +1931,6 @@
 0.0.0.0 banners.ipotd.com
 0.0.0.0 banners.ksl.com
 0.0.0.0 banners.linkbuddies.com
-0.0.0.0 banners.nbcupromotes.com
 0.0.0.0 banners.nextcard.com
 0.0.0.0 banners.passion.com
 0.0.0.0 banners.pennyweb.com
@@ -2076,7 +2068,6 @@
 0.0.0.0 bosecom.112.2o7.net
 0.0.0.0 bottleguy.com
 0.0.0.0 bowlgirl.com
-0.0.0.0 bowlingle.com
 0.0.0.0 bp.specificclick.net
 0.0.0.0 br.adserver.yahoo.com
 0.0.0.0 br.naked.com
@@ -2820,7 +2811,6 @@
 0.0.0.0 ctvcrimelibrary.112.2o7.net
 0.0.0.0 ctvsmokinggun.112.2o7.net
 0.0.0.0 ctxtad.tribalfusion.com
-0.0.0.0 cursosobej.sslblindado.com
 0.0.0.0 customerscreensavers.com
 0.0.0.0 customtrck.com
 0.0.0.0 cw.nu
@@ -3444,7 +3434,6 @@
 0.0.0.0 focusbaiduafp.allyes.com
 0.0.0.0 focusin.ads.targetnet.com
 0.0.0.0 fodder.qq.com
-0.0.0.0 fodder.tc.qq.com
 0.0.0.0 following-technology.com
 0.0.0.0 folloyu.com
 0.0.0.0 fondprof.oewabox.at
@@ -3629,12 +3618,10 @@
 0.0.0.0 geopolice.com
 0.0.0.0 georgewbush.112.2o7.net
 0.0.0.0 georgewbushcom.112.2o7.net
-0.0.0.0 geoweb.e-kolay.net
 0.0.0.0 get-answers-fast.com
 0.0.0.0 get.hitbox.com
 0.0.0.0 getacool100.com
 0.0.0.0 getacool500.com
-0.0.0.0 getafreeiphone.org
 0.0.0.0 getagiftonline.com
 0.0.0.0 getmyads.com
 0.0.0.0 getmyads24.com
@@ -3683,7 +3670,6 @@
 0.0.0.0 go.admulti.com
 0.0.0.0 go.arbopl.bbelements.com
 0.0.0.0 go.bb007.bbelements.com
-0.0.0.0 go.conversionmasters.com
 0.0.0.0 go.cz.bbelements.com
 0.0.0.0 go.data1rtb.com
 0.0.0.0 go.deliverymodo.com
@@ -4037,7 +4023,6 @@
 0.0.0.0 img-a2.ak.imagevz.net
 0.0.0.0 img-cdn.mediaplex.com
 0.0.0.0 img.alibaba.com
-0.0.0.0 img.blogads.com
 0.0.0.0 img.directtrack.com
 0.0.0.0 img.layer-ads.de
 0.0.0.0 img.marketgid.com
@@ -4162,7 +4147,6 @@
 0.0.0.0 jambocast.com
 0.0.0.0 japscat.org
 0.0.0.0 jarsquatter.com
-0.0.0.0 jat01.iwantyourightnow.info
 0.0.0.0 jb9clfifs6.s.ad6media.fr
 0.0.0.0 jbaventures.cjt1.net
 0.0.0.0 jbeet.cjt1.net
@@ -4297,6 +4281,7 @@
 0.0.0.0 kazaa.adserver.co.il
 0.0.0.0 kddi.122.2o7.net
 0.0.0.0 kdowqlpt.info
+0.0.0.0 keepass.fr
 0.0.0.0 kergaukr.com
 0.0.0.0 keybinary.com
 0.0.0.0 keys.dmtracker.com
@@ -5144,7 +5129,6 @@
 0.0.0.0 oascentral.feedroom.com
 0.0.0.0 oascentral.fortunecity.com
 0.0.0.0 oascentral.freedom.com
-0.0.0.0 oascentral.g4techtv.com
 0.0.0.0 oascentral.gigex.com
 0.0.0.0 oascentral.herenb.com
 0.0.0.0 oascentral.hollywood.com
@@ -5165,7 +5149,6 @@
 0.0.0.0 oascentral.onwisconsin.com
 0.0.0.0 oascentral.phoenixnewtimes.com
 0.0.0.0 oascentral.phoenixvillenews.com
-0.0.0.0 oascentral.pitch.com
 0.0.0.0 oascentral.poconorecord.com
 0.0.0.0 oascentral.politico.com
 0.0.0.0 oascentral.post-gazette.com
@@ -5734,7 +5717,6 @@
 0.0.0.0 register.cinematrix.net
 0.0.0.0 register.silverscreen.cc
 0.0.0.0 rehabretie.com
-0.0.0.0 rek2.tascatlasa.com
 0.0.0.0 reklam.arabul.com
 0.0.0.0 reklam.milliyet.com.tr
 0.0.0.0 reklam.misli.com
@@ -6764,7 +6746,6 @@
 0.0.0.0 track.clearsender.com
 0.0.0.0 track.did-it.com
 0.0.0.0 track.dotsly.com
-0.0.0.0 track.dtnlyss.com
 0.0.0.0 track.e7r.com.br
 0.0.0.0 track.effiliation.com
 0.0.0.0 track.eg-innovations.net
@@ -6962,7 +6943,6 @@
 0.0.0.0 ttuk.offers4u.mobi
 0.0.0.0 tu.connect.wunderloop.net
 0.0.0.0 tubgirl.me
-0.0.0.0 tubgirl.org
 0.0.0.0 turdgasm.com
 0.0.0.0 turn.com
 0.0.0.0 turnerapac.d1.sc.omtrdc.net
@@ -7501,7 +7481,6 @@
 0.0.0.0 www.adotube.com
 0.0.0.0 www.adpepper.dk
 0.0.0.0 www.adreporting.com
-0.0.0.0 www.ads234.com
 0.0.0.0 www.ads2srv.com
 0.0.0.0 www.adscience.nl
 0.0.0.0 www.adsensecustomsearchads.com
@@ -7550,7 +7529,6 @@
 0.0.0.0 www.afterdownload.com
 0.0.0.0 www.agkn.com
 0.0.0.0 www.airadmins.com
-0.0.0.0 www.ajalis.com
 0.0.0.0 www.akoneplatit.sk
 0.0.0.0 www.algocashmaster.com
 0.0.0.0 www.algocashmaster.net
@@ -7687,7 +7665,6 @@
 0.0.0.0 www.counter2.sextracker.be
 0.0.0.0 www.counter3.sextracker.be
 0.0.0.0 www.counter4.sextracker.be
-0.0.0.0 www.counter4all.com
 0.0.0.0 www.counter5.sextracker.be
 0.0.0.0 www.counter6.sextracker.be
 0.0.0.0 www.counter7.sextracker.be
@@ -7725,7 +7702,6 @@
 0.0.0.0 www.dpbolvw.net
 0.0.0.0 www.drowle.com
 0.0.0.0 www.dt1blog.com
-0.0.0.0 www.dutchsales.org
 0.0.0.0 www.e-bannerx.com
 0.0.0.0 www.earnmygift.com
 0.0.0.0 www.easy2date.net
@@ -7761,19 +7737,15 @@
 0.0.0.0 www.food-offer.com
 0.0.0.0 www.forboringbusinesses.com
 0.0.0.0 www.formalyzer.com
-0.0.0.0 www.foxcounter.com
 0.0.0.0 www.fpctraffic2.com
 0.0.0.0 www.freebiegb.co.uk
 0.0.0.0 www.freecameraonus.com
-0.0.0.0 www.freecameraprovider.com
-0.0.0.0 www.freecamerasource.com
 0.0.0.0 www.freecamsecrets.com
 0.0.0.0 www.freecamsexposed.com
 0.0.0.0 www.freecontent.bid
 0.0.0.0 www.freecoolgift.com
 0.0.0.0 www.freedailydownload.com
 0.0.0.0 www.freedvddept.com
-0.0.0.0 www.freegasprovider.com
 0.0.0.0 www.freegiftcardsource.com
 0.0.0.0 www.freelaptopnation.com
 0.0.0.0 www.freeplasmanation.com
@@ -7872,7 +7844,6 @@
 0.0.0.0 www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
 0.0.0.0 www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
 0.0.0.0 www.ivwbox.de
-0.0.0.0 www.izalingi.com
 0.0.0.0 www.japscat.org
 0.0.0.0 www.jellycounter.com
 0.0.0.0 www.jetseeker.com
@@ -7933,7 +7904,6 @@
 0.0.0.0 www.lpmxp2014.com
 0.0.0.0 www.lpmxp2017.com
 0.0.0.0 www.lucky-day-uk.com
-0.0.0.0 www.luckyday.world
 0.0.0.0 www.m2trk.com
 0.0.0.0 www.mac.com-w.net
 0.0.0.0 www.macaheadapps.com
@@ -7980,7 +7950,6 @@
 0.0.0.0 www.myaffiliateprogram.com
 0.0.0.0 www.myairbridge.com
 0.0.0.0 www.mychoicerewards.com
-0.0.0.0 www.myfreemp3player.com
 0.0.0.0 www.mygiftcardcenter.com
 0.0.0.0 www.mygreatrewards.com
 0.0.0.0 www.mylovecards.com
@@ -8115,7 +8084,6 @@
 0.0.0.0 www.share-server.com
 0.0.0.0 www.shareasale.com
 0.0.0.0 www.shinilchurch.net
-0.0.0.0 www.shockcounter.com
 0.0.0.0 www.shopperpromotions.com
 0.0.0.0 www.shopping-artikel.de
 0.0.0.0 www.shoppingminds.net
@@ -8149,8 +8117,6 @@
 0.0.0.0 www.statcounter.com
 0.0.0.0 www.statsession.com
 0.0.0.0 www.stattrax.com
-0.0.0.0 www.stiffnetwork.com
-0.0.0.0 www.stopphoulplay.com
 0.0.0.0 www.strawpoii.me
 0.0.0.0 www.suckdude.com
 0.0.0.0 www.sudokuwhiz.com
@@ -8202,7 +8168,6 @@
 0.0.0.0 www.trafficrevenue.net
 0.0.0.0 www.traffictrader.net
 0.0.0.0 www.trafic.ro
-0.0.0.0 www.trafsearchonline.com
 0.0.0.0 www.traktrafficflow.com
 0.0.0.0 www.treeloot.com
 0.0.0.0 www.trendcounter.com
@@ -8288,7 +8253,6 @@
 0.0.0.0 www.y8.com
 0.0.0.0 www.yceml.net
 0.0.0.0 www.yieldmanager.net
-0.0.0.0 www.yieldpartners.com
 0.0.0.0 www.youaresogay.com
 0.0.0.0 www.youf1le.com
 0.0.0.0 www.youfck.com
@@ -8296,7 +8260,6 @@
 0.0.0.0 www.yourdvdplayer.com
 0.0.0.0 www.yourfuckbook.com
 0.0.0.0 www.yourgiftrewards.com
-0.0.0.0 www.yourhandytips.com
 0.0.0.0 www.youripad4free.com
 0.0.0.0 www.yourrewardzone.com
 0.0.0.0 www.yoursmartrewards.com
@@ -8434,7 +8397,6 @@
 0.0.0.0 yadro.ru
 0.0.0.0 yang.hitbox.com
 0.0.0.0 yepdigital.adk2x.com
-0.0.0.0 yhit.press
 0.0.0.0 yie4zooseif.info
 0.0.0.0 yieldmanager.net
 0.0.0.0 ying.hitbox.com
@@ -8512,6 +8474,6 @@
 # Source - http://someonewhocares.org/hosts/hosts
 # Generated - 27.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 8509
+# Total Domains: 8471
 # License: MIT
 

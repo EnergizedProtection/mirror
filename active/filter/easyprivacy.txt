@@ -1693,6 +1693,7 @@
 0.0.0.0 eventoptimize.com
 0.0.0.0 events.air.tv
 0.0.0.0 events.antenna.is
+0.0.0.0 events.apester.com
 0.0.0.0 events.izooto.com
 0.0.0.0 events.jora.com
 0.0.0.0 events.jotform.com
@@ -5331,6 +5332,6 @@
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easyprivacy.txt
 # Generated - 27.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 5328
+# Total Domains: 5329
 # License: MIT
 

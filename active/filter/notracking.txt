@@ -603,7 +603,6 @@
 0.0.0.0 a.spicetv.com
 0.0.0.0 a.stanzapub.com
 0.0.0.0 a.stat.xiaomi.com
-0.0.0.0 a.tadd.react2media.com
 0.0.0.0 a.tanx.com
 0.0.0.0 a.tempurpedic.com
 0.0.0.0 a.thanksearch.com
@@ -1056,7 +1055,6 @@
 0.0.0.0 ad.duga.jp
 0.0.0.0 ad.dzwindows.com
 0.0.0.0 ad.dzwww.com
-0.0.0.0 ad.e-kolay.net
 0.0.0.0 ad.e-sport.com
 0.0.0.0 ad.e-words.jp
 0.0.0.0 ad.eanalyzer.de
@@ -1833,7 +1831,6 @@
 0.0.0.0 adobepdfremmit.000webhostapp.com
 0.0.0.0 adocean.delfi.lv
 0.0.0.0 adonisgayclub.free.fr
-0.0.0.0 adonline.e-kolay.net
 0.0.0.0 adopt.kutekitten.com
 0.0.0.0 adopt.precisead.com
 0.0.0.0 adore.girlboheme.com
@@ -3107,7 +3104,6 @@
 0.0.0.0 ads.teldoserver.de
 0.0.0.0 ads.tele.net
 0.0.0.0 ads.telecinco.es
-0.0.0.0 ads.telegraph.co.uk
 0.0.0.0 ads.telemedia.ch
 0.0.0.0 ads.telkomsel.com
 0.0.0.0 ads.temadaily.bg
@@ -3372,7 +3368,6 @@
 0.0.0.0 ads2.brazzers.com
 0.0.0.0 ads2.cancan.ro
 0.0.0.0 ads2.cgi.eohub.com
-0.0.0.0 ads2.clickad.com
 0.0.0.0 ads2.condenet.com
 0.0.0.0 ads2.delfi.ee
 0.0.0.0 ads2.ekologia.pl
@@ -5298,7 +5293,6 @@
 0.0.0.0 apps.supfast.net
 0.0.0.0 apps2.outfit7.com
 0.0.0.0 apps5.oingo.com
-0.0.0.0 apps9039.super-your-prize33.loan
 0.0.0.0 appsec45.beget.tech
 0.0.0.0 appserverhost.000webhostapp.com
 0.0.0.0 appspromote.wostore.cn
@@ -5404,7 +5398,6 @@
 0.0.0.0 as.mgtv.com
 0.0.0.0 as.pmates.com
 0.0.0.0 as.sinahk.net
-0.0.0.0 as.vs4entertainment.com
 0.0.0.0 as.webmd.com
 0.0.0.0 as.wiley.com
 0.0.0.0 as.wkcr.cz
@@ -6102,7 +6095,6 @@
 0.0.0.0 banners.moviegoods.com
 0.0.0.0 banners.mydailydigest.com
 0.0.0.0 banners.mynakedweb.com
-0.0.0.0 banners.nbcupromotes.com
 0.0.0.0 banners.news1.co.il
 0.0.0.0 banners.nostringsattached.com
 0.0.0.0 banners.nova.bg
@@ -8827,7 +8819,6 @@
 0.0.0.0 curraldedentro.mg.gov.br
 0.0.0.0 current.sina.com.cn
 0.0.0.0 cursor.kvada.globescale.com
-0.0.0.0 cursosobej.sslblindado.com
 0.0.0.0 curtleax.mlmhypnosis.com
 0.0.0.0 cuseemee.free.fr
 0.0.0.0 custom.demos.su
@@ -11337,7 +11328,6 @@
 0.0.0.0 fnd.oec-llp.com
 0.0.0.0 fobq6u.air.airporttaxievesham.co.uk
 0.0.0.0 fodder.qq.com
-0.0.0.0 fodder.tc.qq.com
 0.0.0.0 folamsan.kovo.vn
 0.0.0.0 folder.advmob.cn
 0.0.0.0 foliessexy4.free.fr
@@ -11907,7 +11897,6 @@
 0.0.0.0 geoservice.curse.com
 0.0.0.0 geoshopping.nzherald.co.nz
 0.0.0.0 geover-prod.do.dsp.mp.microsoft.com
-0.0.0.0 geoweb.e-kolay.net
 0.0.0.0 gepzz.pcloadletter.quhu.info
 0.0.0.0 gerronnimo.free.fr
 0.0.0.0 gestioncomptesms.000webhostapp.com
@@ -12047,7 +12036,6 @@
 0.0.0.0 go.biglobe.ne.jp
 0.0.0.0 go.clickhoptk.com
 0.0.0.0 go.clicktrackopt.com
-0.0.0.0 go.conversionmasters.com
 0.0.0.0 go.data1rtb.com
 0.0.0.0 go.deliverymodo.com
 0.0.0.0 go.doupat.xyz
@@ -13686,7 +13674,6 @@
 0.0.0.0 japonte.mccdgm.net
 0.0.0.0 jarrodbailey48.lache-tes.com
 0.0.0.0 jasdoiure.000webhostapp.com
-0.0.0.0 jat01.iwantyourightnow.info
 0.0.0.0 jaune-4.real.com
 0.0.0.0 javascriptcounter.appspot.com
 0.0.0.0 javdict.disqus.com
@@ -16797,7 +16784,6 @@
 0.0.0.0 oascentral.fortunecity.com
 0.0.0.0 oascentral.fosters.com
 0.0.0.0 oascentral.freedom.com
-0.0.0.0 oascentral.g4techtv.com
 0.0.0.0 oascentral.gigex.com
 0.0.0.0 oascentral.goerie.com
 0.0.0.0 oascentral.gotriad.com
@@ -16844,7 +16830,6 @@
 0.0.0.0 oascentral.oprah.com
 0.0.0.0 oascentral.phoenixnewtimes.com
 0.0.0.0 oascentral.phoenixvillenews.com
-0.0.0.0 oascentral.pitch.com
 0.0.0.0 oascentral.planetatv.com
 0.0.0.0 oascentral.poconorecord.com
 0.0.0.0 oascentral.politico.com
@@ -19364,7 +19349,6 @@
 0.0.0.0 rek.hepaffiliates.com
 0.0.0.0 rek.rus-porno.org
 0.0.0.0 rek.www.wp.pl
-0.0.0.0 rek2.tascatlasa.com
 0.0.0.0 reklam.arabul.com
 0.0.0.0 reklam.emlakkulisi.com
 0.0.0.0 reklam.milliyet.com.tr
@@ -22782,7 +22766,6 @@
 0.0.0.0 track.dotsly.com
 0.0.0.0 track.double.net
 0.0.0.0 track.dragonparking.com
-0.0.0.0 track.dtnlyss.com
 0.0.0.0 track.dvdbox.com
 0.0.0.0 track.e7r.com.br
 0.0.0.0 track.easeus.com
@@ -25105,7 +25088,6 @@
 0.0.0.0 www.airadmins.com
 0.0.0.0 www.airbornehydrography.com
 0.0.0.0 www.airsonett.se
-0.0.0.0 www.ajalis.com
 0.0.0.0 www.akoneplatit.sk
 0.0.0.0 www.alarif.org
 0.0.0.0 www.algocashmaster.com
@@ -25371,7 +25353,6 @@
 0.0.0.0 www.count24.de
 0.0.0.0 www.counter-gratis.com
 0.0.0.0 www.counter-kostenlos.net
-0.0.0.0 www.counter4all.com
 0.0.0.0 www.countercentral.com
 0.0.0.0 www.counterguide.com
 0.0.0.0 www.counti.de
@@ -25461,7 +25442,6 @@
 0.0.0.0 www.dt1blog.com
 0.0.0.0 www.duiba.com.cn
 0.0.0.0 www.duolaimi.net
-0.0.0.0 www.dutchsales.org
 0.0.0.0 www.dynamictoolbar.com
 0.0.0.0 www.e-casawa.info
 0.0.0.0 www.e-traffic.com
@@ -25814,7 +25794,6 @@
 0.0.0.0 www.isobaresumrzh.download
 0.0.0.0 www.iws.ro
 0.0.0.0 www.iwstats.com
-0.0.0.0 www.izalingi.com
 0.0.0.0 www.jacklindberg.com
 0.0.0.0 www.jafvcwmrfespousing.review
 0.0.0.0 www.jagcn.com
@@ -25972,7 +25951,6 @@
 0.0.0.0 www.lprshcsmijfovp.com
 0.0.0.0 www.luarisharif.com
 0.0.0.0 www.luce.polimi.it
-0.0.0.0 www.luckyday.world
 0.0.0.0 www.lucyfeed.com
 0.0.0.0 www.lvjian66.com
 0.0.0.0 www.lx167.com
@@ -26449,7 +26427,6 @@
 0.0.0.0 www.shglegle.com
 0.0.0.0 www.shinilchurch.net
 0.0.0.0 www.shitvideos.com
-0.0.0.0 www.shockcounter.com
 0.0.0.0 www.shopathome.com
 0.0.0.0 www.shoplinebd.com
 0.0.0.0 www.shopping-artikel.de
@@ -26522,7 +26499,6 @@
 0.0.0.0 www.steamtraffic.com
 0.0.0.0 www.stevenlucasmarketing.com
 0.0.0.0 www.stickylogic.com
-0.0.0.0 www.stiffnetwork.com
 0.0.0.0 www.stirparts.ru
 0.0.0.0 www.straight-up.ca
 0.0.0.0 www.stream-onlinemovies.com
@@ -27499,6 +27475,6 @@
 # Source - https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
 # Generated - 27.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 27496
+# Total Domains: 27472
 # License: MIT
 

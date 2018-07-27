@@ -1148,7 +1148,6 @@
 0.0.0.0 a.spicetv.com
 0.0.0.0 a.sprymetrics.com
 0.0.0.0 a.stat.xiaomi.com
-0.0.0.0 a.tadd.react2media.com
 0.0.0.0 a.tantella.com
 0.0.0.0 a.teads.tv
 0.0.0.0 a.tempurpedic.com
@@ -1772,7 +1771,6 @@
 0.0.0.0 ad.downloadyee.com
 0.0.0.0 ad.duga.jp
 0.0.0.0 ad.dumedia.ru
-0.0.0.0 ad.e-kolay.net
 0.0.0.0 ad.e-sport.com
 0.0.0.0 ad.eanalyzer.de
 0.0.0.0 ad.econet.hu
@@ -2763,7 +2761,6 @@
 0.0.0.0 adocean.pl
 0.0.0.0 adolescentes.nu
 0.0.0.0 adonisgayclub.free.fr
-0.0.0.0 adonline.e-kolay.net
 0.0.0.0 adonspot.com
 0.0.0.0 adoperator.com
 0.0.0.0 adopt.precisead.com
@@ -3829,7 +3826,6 @@
 0.0.0.0 ads.techtv.com
 0.0.0.0 ads.tele.net
 0.0.0.0 ads.telecinco.es
-0.0.0.0 ads.telegraph.co.uk
 0.0.0.0 ads.thecoolhunter.net
 0.0.0.0 ads.thecrimson.com
 0.0.0.0 ads.thegauntlet.com
@@ -4052,7 +4048,6 @@
 0.0.0.0 ads2.blastro.com
 0.0.0.0 ads2.brazzers.com
 0.0.0.0 ads2.clearchannel.com
-0.0.0.0 ads2.clickad.com
 0.0.0.0 ads2.contentabc.com
 0.0.0.0 ads2.ekologia.pl
 0.0.0.0 ads2.eqads.com
@@ -7021,7 +7016,6 @@
 0.0.0.0 apps.shareaholic.com
 0.0.0.0 apps3.cointraffic.io
 0.0.0.0 apps5.oingo.com
-0.0.0.0 apps9039.super-your-prize33.loan
 0.0.0.0 appsaurus.com
 0.0.0.0 appscout.us.intellitxt.com
 0.0.0.0 appsdorado.com
@@ -7248,7 +7242,6 @@
 0.0.0.0 as.pmates.com
 0.0.0.0 as.sexad.net
 0.0.0.0 as.specificmedia.com
-0.0.0.0 as.vs4entertainment.com
 0.0.0.0 as.webmd.com
 0.0.0.0 as.yl.impact-ad.jp
 0.0.0.0 as1.advfn.com
@@ -8466,7 +8459,6 @@
 0.0.0.0 banners.millionairemate.com
 0.0.0.0 banners.moreniche.com
 0.0.0.0 banners.mynakedweb.com
-0.0.0.0 banners.nbcupromotes.com
 0.0.0.0 banners.news1.co.il
 0.0.0.0 banners.nextcard.com
 0.0.0.0 banners.nova.bg
@@ -10001,7 +9993,6 @@
 0.0.0.0 bovada.lv
 0.0.0.0 bowithow.com
 0.0.0.0 bowlgirl.com
-0.0.0.0 bowlingle.com
 0.0.0.0 box-land.ru
 0.0.0.0 box.anchorfree.net
 0.0.0.0 boxingscene.us.intellitxt.com
@@ -14540,7 +14531,6 @@
 0.0.0.0 currentlyoffer.com
 0.0.0.0 cursoganhardinheiroonline.com.br
 0.0.0.0 cursor.kvada.globescale.com
-0.0.0.0 cursosobej.sslblindado.com
 0.0.0.0 curtaincows.com
 0.0.0.0 curtasgastronomia.pt
 0.0.0.0 curvaplay.com
@@ -19444,7 +19434,6 @@
 0.0.0.0 focusnews.us
 0.0.0.0 focustraining.intelsad.com
 0.0.0.0 fodder.qq.com
-0.0.0.0 fodder.tc.qq.com
 0.0.0.0 fodelsedagspresenter.nu
 0.0.0.0 fogem.com
 0.0.0.0 fogwatch.com
@@ -21053,7 +21042,6 @@
 0.0.0.0 geoservice.curse.com
 0.0.0.0 geosign.112.2o7.net
 0.0.0.0 geovisite.com
-0.0.0.0 geoweb.e-kolay.net
 0.0.0.0 gepzz.pcloadletter.quhu.info
 0.0.0.0 ger.cdn.survey.medallia.com
 0.0.0.0 gerla.ru
@@ -21093,7 +21081,6 @@
 0.0.0.0 getacool100.com
 0.0.0.0 getacool500.com
 0.0.0.0 getadvancenow.com
-0.0.0.0 getafreeiphone.org
 0.0.0.0 getagiftonline.com
 0.0.0.0 getapussy.com
 0.0.0.0 getbynow.com
@@ -21466,7 +21453,6 @@
 0.0.0.0 go.bb007.bbelements.com
 0.0.0.0 go.bestmobiworld.com
 0.0.0.0 go.biz
-0.0.0.0 go.conversionmasters.com
 0.0.0.0 go.cz.bbelements.com
 0.0.0.0 go.data1rtb.com
 0.0.0.0 go.deliverymodo.com
@@ -24065,7 +24051,6 @@
 0.0.0.0 img.atdmt.com
 0.0.0.0 img.avatraffic.com
 0.0.0.0 img.bet-at-home.com
-0.0.0.0 img.blogads.com
 0.0.0.0 img.casalemedia.com
 0.0.0.0 img.clicksagent.com
 0.0.0.0 img.coldstoragemn.com
@@ -25125,7 +25110,6 @@
 0.0.0.0 jasminedawn.com
 0.0.0.0 jasonpartington.com
 0.0.0.0 jasonthelenshop.com
-0.0.0.0 jat01.iwantyourightnow.info
 0.0.0.0 jatawny.com
 0.0.0.0 jav-cafe.com
 0.0.0.0 javascript-games.org
@@ -32126,7 +32110,6 @@
 0.0.0.0 oascentral.fortunecity.com
 0.0.0.0 oascentral.fosters.com
 0.0.0.0 oascentral.freedom.com
-0.0.0.0 oascentral.g4techtv.com
 0.0.0.0 oascentral.gigex.com
 0.0.0.0 oascentral.goerie.com
 0.0.0.0 oascentral.gotriad.com
@@ -32173,7 +32156,6 @@
 0.0.0.0 oascentral.oprah.com
 0.0.0.0 oascentral.phoenixnewtimes.com
 0.0.0.0 oascentral.phoenixvillenews.com
-0.0.0.0 oascentral.pitch.com
 0.0.0.0 oascentral.planetatv.com
 0.0.0.0 oascentral.poconorecord.com
 0.0.0.0 oascentral.politico.com
@@ -37277,7 +37259,6 @@
 0.0.0.0 reiten-live.de
 0.0.0.0 rek.adtotal.pl
 0.0.0.0 rek.www.wp.pl
-0.0.0.0 rek2.tascatlasa.com
 0.0.0.0 reklam.arabul.com
 0.0.0.0 reklam.milliyet.com.tr
 0.0.0.0 reklam.misli.com
@@ -44702,7 +44683,6 @@
 0.0.0.0 track.dmipartners.com
 0.0.0.0 track.dotsly.com
 0.0.0.0 track.double.net
-0.0.0.0 track.dtnlyss.com
 0.0.0.0 track.dvdbox.com
 0.0.0.0 track.e7r.com.br
 0.0.0.0 track.effiliation.com
@@ -45461,7 +45441,6 @@
 0.0.0.0 tuberkuleznik.ru
 0.0.0.0 tubetitties.com
 0.0.0.0 tubgirl.me
-0.0.0.0 tubgirl.org
 0.0.0.0 tubo360.com
 0.0.0.0 tuckermktg.com
 0.0.0.0 tuckows.com
@@ -49061,7 +49040,6 @@
 0.0.0.0 www.ads.viewsignage.com
 0.0.0.0 www.ads.wsrs.net
 0.0.0.0 www.ads180.com
-0.0.0.0 www.ads234.com
 0.0.0.0 www.ads2srv.com
 0.0.0.0 www.adscampaign.com
 0.0.0.0 www.adscampaign.net
@@ -49187,7 +49165,6 @@
 0.0.0.0 www.airpr.com
 0.0.0.0 www.airsonett.se
 0.0.0.0 www.airvertiseme.com
-0.0.0.0 www.ajalis.com
 0.0.0.0 www.akademija.marketing365.mk
 0.0.0.0 www.akirkpatrick.com
 0.0.0.0 www.akoneplatit.sk
@@ -50024,7 +50001,6 @@
 0.0.0.0 www.counter2.sextracker.be
 0.0.0.0 www.counter3.sextracker.be
 0.0.0.0 www.counter4.sextracker.be
-0.0.0.0 www.counter4all.com
 0.0.0.0 www.counter5.sextracker.be
 0.0.0.0 www.counter6.sextracker.be
 0.0.0.0 www.counter7.sextracker.be
@@ -50330,7 +50306,6 @@
 0.0.0.0 www.dub-dc02.marketo.net
 0.0.0.0 www.duffelblog.com
 0.0.0.0 www.duplicatefilecleaner.com
-0.0.0.0 www.dutchsales.org
 0.0.0.0 www.dwin1.com
 0.0.0.0 www.dynabet.com.au
 0.0.0.0 www.dynamic.adcrowd.com
@@ -50566,7 +50541,6 @@
 0.0.0.0 www.fosamobi.com
 0.0.0.0 www.fotoidea.com
 0.0.0.0 www.fourwinds10.net
-0.0.0.0 www.foxcounter.com
 0.0.0.0 www.fpcclicks.com
 0.0.0.0 www.fpcpopunder.com
 0.0.0.0 www.fpctraffic.com
@@ -50583,8 +50557,6 @@
 0.0.0.0 www.freebitmoney.com
 0.0.0.0 www.freecamdollars.com
 0.0.0.0 www.freecameraonus.com
-0.0.0.0 www.freecameraprovider.com
-0.0.0.0 www.freecamerasource.com
 0.0.0.0 www.freecamsecrets.com
 0.0.0.0 www.freecamsexposed.com
 0.0.0.0 www.freecontent.bid
@@ -50597,7 +50569,6 @@
 0.0.0.0 www.freedvddept.com
 0.0.0.0 www.freeezinebucks.com
 0.0.0.0 www.freeforums.org
-0.0.0.0 www.freegasprovider.com
 0.0.0.0 www.freegiftcardsource.com
 0.0.0.0 www.freehitwebcounters.com
 0.0.0.0 www.freeitunestvshow.siliconorchard.com
@@ -51063,7 +51034,6 @@
 0.0.0.0 www.iwstats.com
 0.0.0.0 www.iybasketball.info
 0.0.0.0 www.iyfnzgb.com
-0.0.0.0 www.izalingi.com
 0.0.0.0 www.jackpotbingo.co.uk
 0.0.0.0 www.jackpotcity.com
 0.0.0.0 www.jagi.buypixelads.com
@@ -51345,7 +51315,6 @@
 0.0.0.0 www.luchtenbergdecor.com.br
 0.0.0.0 www.lucky-day-uk.com
 0.0.0.0 www.luckycharmbingo.com
-0.0.0.0 www.luckyday.world
 0.0.0.0 www.lucyfeed.com
 0.0.0.0 www.lufhansa.com
 0.0.0.0 www.lufthansaairlines.com
@@ -51591,7 +51560,6 @@
 0.0.0.0 www.mycpvlife.com
 0.0.0.0 www.mydati.com
 0.0.0.0 www.mydreamdegree.com
-0.0.0.0 www.myfreemp3player.com
 0.0.0.0 www.mygiftcardcenter.com
 0.0.0.0 www.mygreatrewards.com
 0.0.0.0 www.mylottoadserv.com
@@ -52381,7 +52349,6 @@
 0.0.0.0 www.shinilchurch.net
 0.0.0.0 www.shinystat.com
 0.0.0.0 www.shinystat.it
-0.0.0.0 www.shockcounter.com
 0.0.0.0 www.shoofle.tv
 0.0.0.0 www.shop.adx1.com
 0.0.0.0 www.shop.analyticson.com
@@ -52592,10 +52559,8 @@
 0.0.0.0 www.steamtraffic.com
 0.0.0.0 www.stephens-laughlin.com
 0.0.0.0 www.stickylogic.com
-0.0.0.0 www.stiffnetwork.com
 0.0.0.0 www.stirparts.ru
 0.0.0.0 www.stop-sign.com
-0.0.0.0 www.stopphoulplay.com
 0.0.0.0 www.store.adx1.com
 0.0.0.0 www.store.gumgum.com
 0.0.0.0 www.strategic-culture.org
@@ -52910,7 +52875,6 @@
 0.0.0.0 www.trafic.ro
 0.0.0.0 www.traficmax.fr
 0.0.0.0 www.trafix.ro
-0.0.0.0 www.trafsearchonline.com
 0.0.0.0 www.trails.nu
 0.0.0.0 www.traktrafficflow.com
 0.0.0.0 www.travekocity.com
@@ -53360,7 +53324,6 @@
 0.0.0.0 www.yidsense.com
 0.0.0.0 www.yieldmanager.net
 0.0.0.0 www.yieldmo.com
-0.0.0.0 www.yieldpartners.com
 0.0.0.0 www.yieldtraffic.com
 0.0.0.0 www.ymxpb.com
 0.0.0.0 www.yodelmobile.com
@@ -53377,7 +53340,6 @@
 0.0.0.0 www.yourdvdplayer.com
 0.0.0.0 www.yourfuckbook.com
 0.0.0.0 www.yourgiftrewards.com
-0.0.0.0 www.yourhandytips.com
 0.0.0.0 www.yourhitstats.com
 0.0.0.0 www.youripad4free.com
 0.0.0.0 www.yourlustmedia.com
@@ -54304,7 +54266,6 @@
 0.0.0.0 yext-pixel.com
 0.0.0.0 yext.com
 0.0.0.0 ygy.co
-0.0.0.0 yhit.press
 0.0.0.0 yhoo.com.hk
 0.0.0.0 yhp.mxptint.net
 0.0.0.0 yie4zooseif.info
@@ -54880,6 +54841,6 @@
 # Source - https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts
 # Generated - 27.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 54877
+# Total Domains: 54838
 # License: MIT
 

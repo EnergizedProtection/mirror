@@ -546,7 +546,6 @@
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 ad.download.cnet.com
 0.0.0.0 ad.dumedia.ru
-0.0.0.0 ad.e-kolay.net
 0.0.0.0 ad.eanalyzer.de
 0.0.0.0 ad.ecplaza.net
 0.0.0.0 ad.epochtimes.com
@@ -906,7 +905,6 @@
 0.0.0.0 adocean-si.hit.gemius.pl
 0.0.0.0 adocean-ua.hit.gemius.pl
 0.0.0.0 adocean.delfi.lv
-0.0.0.0 adonline.e-kolay.net
 0.0.0.0 adopt.specificclick.net
 0.0.0.0 adp.adview.pl
 0.0.0.0 adp.gazeta.pl
@@ -12414,6 +12412,6 @@
 # Source - http://winhelp2002.mvps.org/hosts.txt
 # Generated - 27.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 12411
+# Total Domains: 12409
 # License: MIT
 

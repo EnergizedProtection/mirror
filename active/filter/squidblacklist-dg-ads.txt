@@ -250,7 +250,6 @@
 0.0.0.0 ad1.emule-project.org
 0.0.0.0 ad1.kde.cz
 0.0.0.0 ad1.pamedia.com.au
-0.0.0.0 ad120m.com
 0.0.0.0 ad123m.com
 0.0.0.0 ad128m.com
 0.0.0.0 ad2.iinfo.cz
@@ -360,7 +359,6 @@
 0.0.0.0 adfrontiers.com
 0.0.0.0 adfunkyserver.com
 0.0.0.0 adfusion.com
-0.0.0.0 adg.bzgint.com
 0.0.0.0 adgardener.com
 0.0.0.0 adgatemedia.com
 0.0.0.0 adgear.com
@@ -1073,7 +1071,6 @@
 0.0.0.0 adsnetworkserver.com
 0.0.0.0 adsniper.ru
 0.0.0.0 adsolutions.yp.com
-0.0.0.0 adsomi.com
 0.0.0.0 adsparc.net
 0.0.0.0 adsparkmedia.net
 0.0.0.0 adspeed.com
@@ -2904,6 +2901,7 @@
 0.0.0.0 monetizemore.com
 0.0.0.0 monetizer101.com
 0.0.0.0 money4exit.de
+0.0.0.0 moneycosmos.com
 0.0.0.0 monkeybroker.net
 0.0.0.0 monsoonads.com
 0.0.0.0 monsterpops.com
@@ -3203,6 +3201,7 @@
 0.0.0.0 phonearena.com
 0.0.0.0 phonespybubble.com
 0.0.0.0 photo-ads.co.uk
+0.0.0.0 phpadsnew.new.natuurpark.nl
 0.0.0.0 phpmyvisites.net
 0.0.0.0 phunware.com
 0.0.0.0 picbucks.com
@@ -4556,6 +4555,6 @@
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/squidblacklist-ads.txt
 # Generated - 27.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 4553
+# Total Domains: 4552
 # License: MIT
 

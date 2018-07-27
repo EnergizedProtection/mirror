@@ -3260,7 +3260,6 @@
 0.0.0.0 a.spicetv.com
 0.0.0.0 a.stanzapub.com
 0.0.0.0 a.stat.xiaomi.com
-0.0.0.0 a.tadd.react2media.com
 0.0.0.0 a.tantella.com
 0.0.0.0 a.tanx.com
 0.0.0.0 a.teads.tv
@@ -5034,7 +5033,6 @@
 0.0.0.0 ad.dumedia.ru
 0.0.0.0 ad.dzwindows.com
 0.0.0.0 ad.dzwww.com
-0.0.0.0 ad.e-kolay.net
 0.0.0.0 ad.e-sport.com
 0.0.0.0 ad.e-words.jp
 0.0.0.0 ad.eanalyzer.de
@@ -6794,7 +6792,6 @@
 0.0.0.0 adongcomic.com
 0.0.0.0 adonion.com
 0.0.0.0 adonisgayclub.free.fr
-0.0.0.0 adonline.e-kolay.net
 0.0.0.0 adonspot.com
 0.0.0.0 adonweb.2974754.pix-cdn.org
 0.0.0.0 adonweb.ru
@@ -8471,7 +8468,6 @@
 0.0.0.0 ads.teldoserver.de
 0.0.0.0 ads.tele.net
 0.0.0.0 ads.telecinco.es
-0.0.0.0 ads.telegraph.co.uk
 0.0.0.0 ads.telemedia.ch
 0.0.0.0 ads.telkomsel.com
 0.0.0.0 ads.temadaily.bg
@@ -8803,7 +8799,6 @@
 0.0.0.0 ads2.cancan.ro
 0.0.0.0 ads2.cgi.eohub.com
 0.0.0.0 ads2.clearchannel.com
-0.0.0.0 ads2.clickad.com
 0.0.0.0 ads2.condenet.com
 0.0.0.0 ads2.contentabc.com
 0.0.0.0 ads2.delfi.ee
@@ -17299,7 +17294,6 @@
 0.0.0.0 as.sexad.net
 0.0.0.0 as.sinahk.net
 0.0.0.0 as.specificmedia.com
-0.0.0.0 as.vs4entertainment.com
 0.0.0.0 as.webmd.com
 0.0.0.0 as.wiley.com
 0.0.0.0 as.wkcr.cz
@@ -20722,7 +20716,6 @@
 0.0.0.0 banners.mydailydigest.com
 0.0.0.0 banners.mymedia.bg
 0.0.0.0 banners.mynakedweb.com
-0.0.0.0 banners.nbcupromotes.com
 0.0.0.0 banners.news1.co.il
 0.0.0.0 banners.nextcard.com
 0.0.0.0 banners.nichepromotion.com
@@ -26508,7 +26501,6 @@
 0.0.0.0 bowling.com
 0.0.0.0 bowlingball.com
 0.0.0.0 bowlingconcepts.com
-0.0.0.0 bowlingle.com
 0.0.0.0 bowlmakerinc.com
 0.0.0.0 bowlsworld.co.uk
 0.0.0.0 bowlzilla.com
@@ -56410,7 +56402,6 @@
 0.0.0.0 focusnews.us
 0.0.0.0 focusprofessional.pk
 0.0.0.0 fodder.qq.com
-0.0.0.0 fodder.tc.qq.com
 0.0.0.0 fodelsedagspresenter.nu
 0.0.0.0 fofond.com
 0.0.0.0 fofuchaschile.cl
@@ -61953,7 +61944,6 @@
 0.0.0.0 geotechsolutionsug.com
 0.0.0.0 geover-prod.do.dsp.mp.microsoft.com
 0.0.0.0 geovisite.com
-0.0.0.0 geoweb.e-kolay.net
 0.0.0.0 geoworldonline.com
 0.0.0.0 gepetovillage.com
 0.0.0.0 gepsan.com.tr
@@ -62091,7 +62081,6 @@
 0.0.0.0 getacool100.com
 0.0.0.0 getacool500.com
 0.0.0.0 getadvancenow.com
-0.0.0.0 getafreeiphone.org
 0.0.0.0 getagiftonline.com
 0.0.0.0 getaklu.com
 0.0.0.0 getallforgames.com
@@ -72820,7 +72809,6 @@
 0.0.0.0 img.beeg.com
 0.0.0.0 img.bet-at-home.com
 0.0.0.0 img.bizjournals.com
-0.0.0.0 img.blogads.com
 0.0.0.0 img.blogsavenue.com
 0.0.0.0 img.bluehost.com
 0.0.0.0 img.bororeb.com
@@ -76155,7 +76143,6 @@
 0.0.0.0 jassilks.com
 0.0.0.0 jassparadies.ch
 0.0.0.0 jastown.com
-0.0.0.0 jat01.iwantyourightnow.info
 0.0.0.0 jatawny.com
 0.0.0.0 jatce.com
 0.0.0.0 jatekok.oldal.info
@@ -98889,7 +98876,6 @@
 0.0.0.0 oascentral.fortunecity.com
 0.0.0.0 oascentral.fosters.com
 0.0.0.0 oascentral.freedom.com
-0.0.0.0 oascentral.g4techtv.com
 0.0.0.0 oascentral.gigex.com
 0.0.0.0 oascentral.goerie.com
 0.0.0.0 oascentral.gotriad.com
@@ -98939,7 +98925,6 @@
 0.0.0.0 oascentral.outdoorchannel.com
 0.0.0.0 oascentral.phoenixnewtimes.com
 0.0.0.0 oascentral.phoenixvillenews.com
-0.0.0.0 oascentral.pitch.com
 0.0.0.0 oascentral.planetatv.com
 0.0.0.0 oascentral.poconorecord.com
 0.0.0.0 oascentral.politico.com
@@ -113921,7 +113906,6 @@
 0.0.0.0 rek.hepaffiliates.com
 0.0.0.0 rek.rus-porno.org
 0.0.0.0 rek.www.wp.pl
-0.0.0.0 rek2.tascatlasa.com
 0.0.0.0 rekamshop.ru
 0.0.0.0 reklam.arabul.com
 0.0.0.0 reklam.emlakkulisi.com
@@ -136933,7 +136917,6 @@
 0.0.0.0 track.dotsly.com
 0.0.0.0 track.double.net
 0.0.0.0 track.dragonparking.com
-0.0.0.0 track.dtnlyss.com
 0.0.0.0 track.dvdbox.com
 0.0.0.0 track.dzloans.com
 0.0.0.0 track.e7r.com.br
@@ -138700,7 +138683,6 @@
 0.0.0.0 tubethumbs.com
 0.0.0.0 tubewolf.com
 0.0.0.0 tubgirl.me
-0.0.0.0 tubgirl.org
 0.0.0.0 tubidh.com
 0.0.0.0 tubity.com
 0.0.0.0 tubixe.com
@@ -146652,7 +146634,6 @@
 0.0.0.0 www.ads2.advance.de
 0.0.0.0 www.ads2.ero-advertising.com
 0.0.0.0 www.ads2.tuccus.com
-0.0.0.0 www.ads234.com
 0.0.0.0 www.ads2srv.com
 0.0.0.0 www.ads3.advance.de
 0.0.0.0 www.ads4.advance.de
@@ -146905,7 +146886,6 @@
 0.0.0.0 www.airbornehydrography.com
 0.0.0.0 www.airpush.com
 0.0.0.0 www.airsonett.se
-0.0.0.0 www.ajalis.com
 0.0.0.0 www.ajedreztudela.com
 0.0.0.0 www.ajmclean.com
 0.0.0.0 www.ajokeaday.com
@@ -148805,7 +148785,6 @@
 0.0.0.0 www.counter2.sextracker.be
 0.0.0.0 www.counter3.sextracker.be
 0.0.0.0 www.counter4.sextracker.be
-0.0.0.0 www.counter4all.com
 0.0.0.0 www.counter5.sextracker.be
 0.0.0.0 www.counter6.sextracker.be
 0.0.0.0 www.counter7.sextracker.be
@@ -149377,7 +149356,6 @@
 0.0.0.0 www.duolaimi.net
 0.0.0.0 www.duplicatefilecleaner.com
 0.0.0.0 www.dutchangels.nl
-0.0.0.0 www.dutchsales.org
 0.0.0.0 www.dutchxtube.com
 0.0.0.0 www.dvangels.com
 0.0.0.0 www.dvdboys.com
@@ -150025,7 +150003,6 @@
 0.0.0.0 www.fotoidea.com
 0.0.0.0 www.fotopreweddingmurah.com
 0.0.0.0 www.fourwinds10.net
-0.0.0.0 www.foxcounter.com
 0.0.0.0 www.foxhq.com
 0.0.0.0 www.foxporns.com
 0.0.0.0 www.foxtube.com
@@ -150086,8 +150063,6 @@
 0.0.0.0 www.freeblogsearch.com
 0.0.0.0 www.freecamdollars.com
 0.0.0.0 www.freecameraonus.com
-0.0.0.0 www.freecameraprovider.com
-0.0.0.0 www.freecamerasource.com
 0.0.0.0 www.freecamsecrets.com
 0.0.0.0 www.freecamsexposed.com
 0.0.0.0 www.freecc.sex-explorer.com
@@ -150100,7 +150075,6 @@
 0.0.0.0 www.freeezinebucks.com
 0.0.0.0 www.freeforums.org
 0.0.0.0 www.freefuckvidz.com
-0.0.0.0 www.freegasprovider.com
 0.0.0.0 www.freegeoip.net
 0.0.0.0 www.freegiftcardsource.com
 0.0.0.0 www.freehindisexstories.com
@@ -151383,7 +151357,6 @@
 0.0.0.0 www.ixxx.com
 0.0.0.0 www.iybasketball.info
 0.0.0.0 www.iyottube.com
-0.0.0.0 www.izalingi.com
 0.0.0.0 www.izporn.net
 0.0.0.0 www.j.gs
 0.0.0.0 www.jabcomix.com
@@ -152093,7 +152066,6 @@
 0.0.0.0 www.luckyclean.info
 0.0.0.0 www.luckyclear.info
 0.0.0.0 www.luckyday.nl
-0.0.0.0 www.luckyday.world
 0.0.0.0 www.luckyeffect.info
 0.0.0.0 www.luckyhalo.info
 0.0.0.0 www.luckypure.info
@@ -152663,7 +152635,6 @@
 0.0.0.0 www.myforum365.com
 0.0.0.0 www.myfreeblack.com
 0.0.0.0 www.myfreecams.com
-0.0.0.0 www.myfreemp3player.com
 0.0.0.0 www.mygamestock.com
 0.0.0.0 www.mygaysites.com
 0.0.0.0 www.mygiftcardcenter.com
@@ -154748,7 +154719,6 @@
 0.0.0.0 www.shinystat.com
 0.0.0.0 www.shinystat.it
 0.0.0.0 www.shitvideos.com
-0.0.0.0 www.shockcounter.com
 0.0.0.0 www.shockingmovies.com
 0.0.0.0 www.shooshtime.com
 0.0.0.0 www.shopathome.com
@@ -155118,7 +155088,6 @@
 0.0.0.0 www.steponmyballs.com
 0.0.0.0 www.stevenlucasmarketing.com
 0.0.0.0 www.stickylogic.com
-0.0.0.0 www.stiffnetwork.com
 0.0.0.0 www.stiffville.com
 0.0.0.0 www.stileproject.com
 0.0.0.0 www.stimul8tion4u.tumblr.com
@@ -155130,7 +155099,6 @@
 0.0.0.0 www.stoooone.tumblr.com
 0.0.0.0 www.stooorage.com
 0.0.0.0 www.stop-sign.com
-0.0.0.0 www.stopphoulplay.com
 0.0.0.0 www.store.playboy.com
 0.0.0.0 www.storeingame.com
 0.0.0.0 www.storiesonline.net
@@ -155832,7 +155800,6 @@
 0.0.0.0 www.trafic.ro
 0.0.0.0 www.traficmax.fr
 0.0.0.0 www.trafix.ro
-0.0.0.0 www.trafsearchonline.com
 0.0.0.0 www.trailerwmv.com
 0.0.0.0 www.trails.nu
 0.0.0.0 www.traktrafficflow.com
@@ -157003,7 +156970,6 @@
 0.0.0.0 www.yidsense.com
 0.0.0.0 www.yieldbuild.com
 0.0.0.0 www.yieldmanager.net
-0.0.0.0 www.yieldpartners.com
 0.0.0.0 www.yieldsoftware.com
 0.0.0.0 www.yieldtraffic.com
 0.0.0.0 www.yinooo.com
@@ -157084,7 +157050,6 @@
 0.0.0.0 www.yourfreesoftonline.com
 0.0.0.0 www.yourfuckbook.com
 0.0.0.0 www.yourgiftrewards.com
-0.0.0.0 www.yourhandytips.com
 0.0.0.0 www.yourhitstats.com
 0.0.0.0 www.yourhottube.com
 0.0.0.0 www.youripad4free.com
@@ -159072,7 +159037,6 @@
 0.0.0.0 ygy.co
 0.0.0.0 yhfamily.cn
 0.0.0.0 yhgames.com
-0.0.0.0 yhit.press
 0.0.0.0 yhjlhb.com
 0.0.0.0 yhkfudz.backflowpartshouston.com
 0.0.0.0 yhoo.com.hk
@@ -160734,6 +160698,6 @@
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/mirror/MoaAB.active.txt
 # Generated - 27.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 160731
+# Total Domains: 160695
 # License: MIT
 

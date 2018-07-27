@@ -2206,7 +2206,6 @@
 0.0.0.0 ad.doubleclick.de
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 ad.dramexchange.com
-0.0.0.0 ad.e-kolay.net
 0.0.0.0 ad.e-not.net
 0.0.0.0 ad.econet.hu
 0.0.0.0 ad.eg.doubleclick.net
@@ -5317,7 +5316,6 @@
 0.0.0.0 ads.teentops.com
 0.0.0.0 ads.tel
 0.0.0.0 ads.telegram.com
-0.0.0.0 ads.telegraph.co.uk
 0.0.0.0 ads.telemagazyn.gratka.pl
 0.0.0.0 ads.telemedia.ch
 0.0.0.0 ads.tennessean.com
@@ -6013,7 +6011,6 @@
 0.0.0.0 ads2.brazzers.com
 0.0.0.0 ads2.cgi.eohub.com
 0.0.0.0 ads2.clearchannel.com
-0.0.0.0 ads2.clickad.com
 0.0.0.0 ads2.condenet.com
 0.0.0.0 ads2.contentabc.com
 0.0.0.0 ads2.delfi.ee
@@ -10744,7 +10741,6 @@
 0.0.0.0 banners.multisubmit.at
 0.0.0.0 banners.mydailydigest.com
 0.0.0.0 banners.n3net.sk
-0.0.0.0 banners.nbcupromotes.com
 0.0.0.0 banners.negrasporno.com
 0.0.0.0 banners.net
 0.0.0.0 banners.net-temps.com
@@ -12782,7 +12778,6 @@
 0.0.0.0 bowbow.com
 0.0.0.0 bowiebaysox.com
 0.0.0.0 bowithow.com
-0.0.0.0 bowlingle.com
 0.0.0.0 bowsling.112.2o7.net
 0.0.0.0 box.anchorfree.net
 0.0.0.0 box.dmon.com
@@ -37347,7 +37342,6 @@
 0.0.0.0 oascentral.orlandoinfo.com
 0.0.0.0 oascentral.phoenixnewtimes.com
 0.0.0.0 oascentral.pionline.com
-0.0.0.0 oascentral.pitch.com
 0.0.0.0 oascentral.planetatv.com
 0.0.0.0 oascentral.post-gazette.com
 0.0.0.0 oascentral.ppg.us.trader.com
@@ -54180,7 +54174,6 @@
 0.0.0.0 www.ads180.com
 0.0.0.0 www.ads2.advance.de
 0.0.0.0 www.ads2.zdnet.org
-0.0.0.0 www.ads234.com
 0.0.0.0 www.ads3.advance.de
 0.0.0.0 www.ads3.zdnet.org
 0.0.0.0 www.ads4.advance.de
@@ -56554,7 +56547,6 @@
 0.0.0.0 www.counter2.sextracker.be
 0.0.0.0 www.counter3.sextracker.be
 0.0.0.0 www.counter4.sextracker.be
-0.0.0.0 www.counter4all.com
 0.0.0.0 www.counter5.sextracker.be
 0.0.0.0 www.counter6.sextracker.be
 0.0.0.0 www.counter7.sextracker.be
@@ -57284,7 +57276,6 @@
 0.0.0.0 www.duolaimi.net
 0.0.0.0 www.dupontregistery.com
 0.0.0.0 www.durtycash.com
-0.0.0.0 www.dutchsales.org
 0.0.0.0 www.dvd-burning-pro.com
 0.0.0.0 www.dvd-software.biz
 0.0.0.0 www.dvdbackupexpress.com
@@ -63854,7 +63845,6 @@
 0.0.0.0 www.shinystat.it
 0.0.0.0 www.shlux.com
 0.0.0.0 www.shmyl.com
-0.0.0.0 www.shockcounter.com
 0.0.0.0 www.shocking-girls.com
 0.0.0.0 www.shockingmania.com
 0.0.0.0 www.shockingteens.com
@@ -64489,7 +64479,6 @@
 0.0.0.0 www.stichting.nu
 0.0.0.0 www.stickyhole.com
 0.0.0.0 www.stickypops.com
-0.0.0.0 www.stiffnetwork.com
 0.0.0.0 www.stileproject.com
 0.0.0.0 www.stinkything.com
 0.0.0.0 www.stirparts.ru
@@ -68736,6 +68725,6 @@
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/mirror/GASB-PE.active.txt
 # Generated - 27.07.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 68733
+# Total Domains: 68722
 # License: MIT
 
