@@ -1,7 +1,7 @@
 # squidblacklist-ads Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - http://www.squidblacklist.org/downloads/dg-ads.acl
-# Last Converted - Fri, 27 Jul 2018 03:35:30 -0400
+# Last Converted - Fri, 27 Jul 2018 09:49:04 -0400
 # Energized - ad.porn.malware blocking.
 
 0.0.0.0 0icep80f.com
@@ -109,7 +109,6 @@
 0.0.0.0 ad01.mediacorpsingapore.com
 0.0.0.0 ad0.bigmir.net
 0.0.0.0 ad.100.tbn.ru
-0.0.0.0 ad120m.com
 0.0.0.0 ad123m.com
 0.0.0.0 ad128m.com
 0.0.0.0 ad1.emule-project.org
@@ -280,7 +279,6 @@
 0.0.0.0 ad.gate24.ch
 0.0.0.0 adgatemedia.com
 0.0.0.0 ad-gbn.com
-0.0.0.0 adg.bzgint.com
 0.0.0.0 adgear.com
 0.0.0.0 adgebra.co.in
 0.0.0.0 adgila.com
@@ -925,7 +923,6 @@
 0.0.0.0 ads.okcimg.com
 0.0.0.0 ads.ole.com
 0.0.0.0 adsolutions.yp.com
-0.0.0.0 adsomi.com
 0.0.0.0 ads.oneplace.com
 0.0.0.0 ads.only4info.com
 0.0.0.0 ads.opera.com
@@ -2917,6 +2914,7 @@
 0.0.0.0 monetizemore.com
 0.0.0.0 monetizer101.com
 0.0.0.0 money4exit.de
+0.0.0.0 moneycosmos.com
 0.0.0.0 monkeybroker.net
 0.0.0.0 monsoonads.com
 0.0.0.0 monsterpops.com
@@ -3216,6 +3214,7 @@
 0.0.0.0 phonearena.com
 0.0.0.0 phonespybubble.com
 0.0.0.0 photo-ads.co.uk
+0.0.0.0 phpadsnew.new.natuurpark.nl
 0.0.0.0 phpmyvisites.net
 0.0.0.0 phunware.com
 0.0.0.0 picbucks.com

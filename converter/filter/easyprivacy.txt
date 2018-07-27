@@ -1,7 +1,7 @@
 # easyprivacy Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - https://easylist.to/easylist/easyprivacy.txt
-# Last Converted - Fri, 27 Jul 2018 03:35:25 -0400
+# Last Converted - Fri, 27 Jul 2018 09:48:59 -0400
 # Energized - ad.porn.malware blocking.
 
 0.0.0.0 -geoIP.js
@@ -3991,6 +3991,7 @@
 0.0.0.0 eventlog.inspsearchapi.com
 0.0.0.0 events.air.tv
 0.0.0.0 events.antenna.is
+0.0.0.0 events.apester.com
 0.0.0.0 events.bounceexchange.com
 0.0.0.0 events.izooto.com
 0.0.0.0 events.jotform.com

@@ -1,7 +1,7 @@
 # easylist-adserver Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt
-# Last Converted - Fri, 27 Jul 2018 03:35:26 -0400
+# Last Converted - Fri, 27 Jul 2018 09:48:59 -0400
 # Energized - ad.porn.malware blocking.
 
 0.0.0.0 007-gateway.com
@@ -6081,6 +6081,7 @@
 0.0.0.0 vipcpms.com
 0.0.0.0 viuboin4.com
 0.0.0.0 yie4zooseif.info
+0.0.0.0 wjgddzpvx.com
 0.0.0.0 aacgeuvaoqbw.com
 0.0.0.0 aadbobwqgmzi.com
 0.0.0.0 aaeqlxdgx.bid
@@ -6967,6 +6968,7 @@
 0.0.0.0 dfgwnkricjcko.bid
 0.0.0.0 dfllzlsztzqwz.bid
 0.0.0.0 dfnnhwiyxjajhq.com
+0.0.0.0 dfrcdywe.com
 0.0.0.0 dfrekewe.com
 0.0.0.0 dfujqyjifvoe.com
 0.0.0.0 dfxemnxrsal.bid
@@ -6994,6 +6996,7 @@
 0.0.0.0 dhrjzwqpweidm.bid
 0.0.0.0 dhsztvyjwcmk.com
 0.0.0.0 dhvaigzy.com
+0.0.0.0 dhvzrpvjwibr.com
 0.0.0.0 dhxjrqegphza.bid
 0.0.0.0 dhzmxkoq.bid
 0.0.0.0 dibpvaoi.bid
@@ -10161,6 +10164,7 @@
 0.0.0.0 ooakwpvbxym.com
 0.0.0.0 oocoeevre.com
 0.0.0.0 ooczhygehw.com
+0.0.0.0 ooecgdeq.com
 0.0.0.0 oofophdrkjoh.com
 0.0.0.0 ookdapjylpvq.com
 0.0.0.0 oonenbygymsl.com
@@ -12667,6 +12671,7 @@
 0.0.0.0 xrivpngzagpy.com
 0.0.0.0 xrjjhkuwccu.com
 0.0.0.0 xrmtjxxeerbew.bid
+0.0.0.0 xrmtvzpig.com
 0.0.0.0 xrmwainxxr.bid
 0.0.0.0 xrnmuqmpcsx.com
 0.0.0.0 xrqkzdbnybod.com
@@ -12726,6 +12731,7 @@
 0.0.0.0 xwwkuacmqblu.com
 0.0.0.0 xwwsojvluzsb.com
 0.0.0.0 xwwvcsquuhbd.com
+0.0.0.0 xwzhazcuyf.com
 0.0.0.0 xxamqnqeygbk.com
 0.0.0.0 xxehantfkywk.com
 0.0.0.0 xxelvfyvgcjo.bid
@@ -13072,6 +13078,7 @@
 0.0.0.0 zcuocqfstyne.bid
 0.0.0.0 zdafkehcmdcphi.com
 0.0.0.0 zdbzkrphx.bid
+0.0.0.0 zdfyowkafur.com
 0.0.0.0 zdolhnqbtnbcx.com
 0.0.0.0 zdqsrdamdgmn.com
 0.0.0.0 zdvyzlbvrwqpf.bid
