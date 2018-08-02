@@ -3,7 +3,7 @@
   {"name": "adaway.org",                         "enabled": true,  "format": "plain",   "url": "https://adaway.org/hosts.txt"},
   {"name": "ador-energized",                     "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/EnergizedHosts/EnergizedHosts"},
   {"name": "ador-energized-porn",                "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/EnergizedHosts/EnergizedPorn"},
-  {"name": "adzhosts",                           "enabled": true,  "format": "plain",   "url": "https://adzhosts.hizo.fr/hosts/adzhosts-android.txt"},
+  {"name": "adzhosts",                           "enabled": true,  "format": "plain",   "url": "https://adzhosts.eu/hosts/adzhosts-android.txt"},
   {"name": "adblock-nocoin-list",                "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt"},
   {"name": "adguard-dns",                        "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-dns.txt"},
   {"name": "adguard-domains",                    "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-domains.txt"},

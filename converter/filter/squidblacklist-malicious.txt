@@ -1,7 +1,7 @@
 # squidblacklist-malicious Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://www.squidblacklist.org/downloads/dg-malicious.acl
-# Last Converted - Thu, 02 Aug 2018 17:17:46 -0400
+# Last Converted - Thu, 02 Aug 2018 17:38:41 -0400
 # Energized - ad.porn.malware blocking.
 # License: MIT
 
