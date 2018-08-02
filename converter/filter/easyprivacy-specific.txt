@@ -1,7 +1,7 @@
 # easyprivacy-specific Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last Converted - Thu, 02 Aug 2018 10:39:18 -0400
+# Last Converted - Thu, 02 Aug 2018 10:48:28 -0400
 # Energized - ad.porn.malware blocking.
 # License: MIT
 
