@@ -1053,7 +1053,6 @@
 0.0.0.0 a.stern.de
 0.0.0.0 a.teads.tv
 0.0.0.0 a.thanksearch.com
-0.0.0.0 a.thoughtleadr.com
 0.0.0.0 a.tribalfusion.com
 0.0.0.0 a.trkme.net
 0.0.0.0 a.tvn.lv
@@ -3300,7 +3299,6 @@
 0.0.0.0 adfu.slashdot.org
 0.0.0.0 adfun.ru
 0.0.0.0 adfuzz.com
-0.0.0.0 adg.bzgint.com
 0.0.0.0 adgebra.co.in
 0.0.0.0 adgeo.163.com
 0.0.0.0 adgoblin.com
@@ -3635,7 +3633,6 @@
 0.0.0.0 ads.berrynet.com
 0.0.0.0 ads.best-ads.com
 0.0.0.0 ads.betfair.com
-0.0.0.0 ads.betternetworker.com
 0.0.0.0 ads.betweendigital.com
 0.0.0.0 ads.bgfree.com
 0.0.0.0 ads.bgtop.net
@@ -3707,7 +3704,6 @@
 0.0.0.0 ads.city24.ee
 0.0.0.0 ads.cleveland.com
 0.0.0.0 ads.click2paid.com
-0.0.0.0 ads.clickad.com
 0.0.0.0 ads.clickagents.com
 0.0.0.0 ads.clicksor.com
 0.0.0.0 ads.clicmanager.fr
@@ -4067,7 +4063,6 @@
 0.0.0.0 ads.mondogames.com
 0.0.0.0 ads.monetize-me.com
 0.0.0.0 ads.moneyclicks.com
-0.0.0.0 ads.monogram.sk
 0.0.0.0 ads.monstermoving.com
 0.0.0.0 ads.mopub.com
 0.0.0.0 ads.mouseplanet.com
@@ -5559,7 +5554,6 @@
 0.0.0.0 adserver.phatmax.net
 0.0.0.0 adserver.pl
 0.0.0.0 adserver.playtv.fr
-0.0.0.0 adserver.powerlinks.com
 0.0.0.0 adserver.pressboard.ca
 0.0.0.0 adserver.pressflex.com
 0.0.0.0 adserver.realhomesex.net
@@ -5600,12 +5594,10 @@
 0.0.0.0 adserver2.oxdl.com
 0.0.0.0 adserver2.realtracker.com
 0.0.0.0 adserver3.realtracker.com
-0.0.0.0 adserverc.cliipa.com
 0.0.0.0 adserversolutions.com
 0.0.0.0 adserverus.info
 0.0.0.0 adservice.aliexpress.com
 0.0.0.0 adservice.everyone.com
-0.0.0.0 adservicedomain.info
 0.0.0.0 adserving.autotrader.com
 0.0.0.0 adserving.cpxadroit.com
 0.0.0.0 adserving.favorit-network.com
@@ -9435,7 +9427,6 @@
 0.0.0.0 cdn.crowdtwist.com
 0.0.0.0 cdn.crwdcntrl.net
 0.0.0.0 cdn.cxense.com
-0.0.0.0 cdn.dabhit.com
 0.0.0.0 cdn.demdex.net
 0.0.0.0 cdn.directtrk.com
 0.0.0.0 cdn.districtm.ca
@@ -9734,7 +9725,6 @@
 0.0.0.0 click.holland-billing.com
 0.0.0.0 click.hotlog.ru
 0.0.0.0 click.html.it
-0.0.0.0 click.icetraffic.com
 0.0.0.0 click.inn.co.il
 0.0.0.0 click.ipc.ru
 0.0.0.0 click.jve.net
@@ -9990,7 +9980,6 @@
 0.0.0.0 collector.githubapp.com
 0.0.0.0 collector.leaddyno.com
 0.0.0.0 collector.newsx.cc
-0.0.0.0 collector.savvyads.com
 0.0.0.0 collegefootballnews.us.intellitxt.com
 0.0.0.0 com-cdiscount.netmng.com
 0.0.0.0 com-kia.netmng.com
@@ -10821,7 +10810,6 @@
 0.0.0.0 dk1.siteimprove.com
 0.0.0.0 dl.gameplaylabs.com
 0.0.0.0 dl.getprivate.net
-0.0.0.0 dl.keywordstrategy.org
 0.0.0.0 dlmag.us.intellitxt.com
 0.0.0.0 dload.ipbill.com
 0.0.0.0 dltags.com
@@ -12110,7 +12098,6 @@
 0.0.0.0 heatherlocklear.sexybabesx.com
 0.0.0.0 heavycom.122.2o7.net
 0.0.0.0 heidiklum.sexybabesx.com
-0.0.0.0 heise.nuggad.net
 0.0.0.0 helios.fvn.no
 0.0.0.0 helium.us.intellitxt.com
 0.0.0.0 hello.sexer.com
@@ -12494,7 +12481,6 @@
 0.0.0.0 images.hostimages.net
 0.0.0.0 images.intellitxt.com
 0.0.0.0 images.kolmic.com
-0.0.0.0 images.m4n.nl
 0.0.0.0 images.outbrain.com
 0.0.0.0 images.pacificpoker.com
 0.0.0.0 images.rambler.ru
@@ -13428,7 +13414,6 @@
 0.0.0.0 mclient.ivwbox.de
 0.0.0.0 mcmads.mediacapital.pt
 0.0.0.0 mct.rkdms.com
-0.0.0.0 md.ournet-analytics.com
 0.0.0.0 mdctrail.com
 0.0.0.0 mdjacksonville.112.2o7.net
 0.0.0.0 mdpparents.112.2o7.net
@@ -14891,7 +14876,6 @@
 0.0.0.0 pcworldcommunication.d2.sc.omtrdc.net
 0.0.0.0 peakclick.com
 0.0.0.0 peel.spacash.com
-0.0.0.0 peelads.hustler.com
 0.0.0.0 peerfly.com
 0.0.0.0 pelmorexmedia.122.2o7.net
 0.0.0.0 pencomputing.us.intellitxt.com
@@ -15397,18 +15381,6 @@
 0.0.0.0 radar.cedexis.com
 0.0.0.0 radarstats.com
 0.0.0.0 radarurl.com
-0.0.0.0 rainbow-de.mythings.com
-0.0.0.0 rainbow-es.mythings.com
-0.0.0.0 rainbow-fi.mythings.com
-0.0.0.0 rainbow-mx.mythings.com
-0.0.0.0 rainbow-nl.mythings.com
-0.0.0.0 rainbow-no.mythings.com
-0.0.0.0 rainbow-ru-ak.mythings.com
-0.0.0.0 rainbow-ru.mythings.com
-0.0.0.0 rainbow-sg.mythings.com
-0.0.0.0 rainbow-uk.mythings.com
-0.0.0.0 rainbow-us.mythings.com
-0.0.0.0 rainbow.mythings.com
 0.0.0.0 rainbow.topbucks.com
 0.0.0.0 rainbowdisplays.com
 0.0.0.0 rainbowmedia.122.2o7.net
@@ -15664,8 +15636,6 @@
 0.0.0.0 rpt.anchorfree.net
 0.0.0.0 rpt.footlocker.com
 0.0.0.0 rq.adfox.ru
-0.0.0.0 rq.adtrackdirect.com
-0.0.0.0 rq.trackingadirect.com
 0.0.0.0 rr1.outster.com
 0.0.0.0 rr1.xxxcounter.com
 0.0.0.0 rrpartners.122.2o7.net
@@ -15765,7 +15735,6 @@
 0.0.0.0 s.thebrighttag.com
 0.0.0.0 s.tribalfusion.com
 0.0.0.0 s.tyxo.com
-0.0.0.0 s.uadx.com
 0.0.0.0 s.ugo.com
 0.0.0.0 s.webtrends.com
 0.0.0.0 s.xp1.ru4.com
@@ -16716,7 +16685,6 @@
 0.0.0.0 stats.clickability.com
 0.0.0.0 stats.clicktracks.com
 0.0.0.0 stats.cloudwp.io
-0.0.0.0 stats.complex.com
 0.0.0.0 stats.concierge.com
 0.0.0.0 stats.coolwebsearch.com
 0.0.0.0 stats.dailyrecord.co.uk
@@ -17322,7 +17290,6 @@
 0.0.0.0 top.artcomix.com
 0.0.0.0 top.c-stat.eu
 0.0.0.0 top.dating.lt
-0.0.0.0 top.easy.lv
 0.0.0.0 top.er.cz
 0.0.0.0 top.list.ru
 0.0.0.0 top.oewabox.at
@@ -17425,10 +17392,8 @@
 0.0.0.0 track.linkoffers.net
 0.0.0.0 track.make-a-site.net
 0.0.0.0 track.moreniche.com
-0.0.0.0 track.netshelter.net
 0.0.0.0 track.oainternetservices.com
 0.0.0.0 track.omguk.com
-0.0.0.0 track.popmog.com
 0.0.0.0 track.prizeglobal.net
 0.0.0.0 track.pubmatic.com
 0.0.0.0 track.radtracking.com
@@ -18474,7 +18439,6 @@
 0.0.0.0 www.avnads.com
 0.0.0.0 www.awltovhc.com
 0.0.0.0 www.axill.com
-0.0.0.0 www.axill.in
 0.0.0.0 www.azjmp.com
 0.0.0.0 www.azkempire.com
 0.0.0.0 www.b3d.com
@@ -18519,7 +18483,6 @@
 0.0.0.0 www.bigpenisguide.com
 0.0.0.0 www.bitgrabber.com
 0.0.0.0 www.bitroll.com
-0.0.0.0 www.bitsfarmclean.com
 0.0.0.0 www.bitspresentdownload.com
 0.0.0.0 www.bitstagcontent.com
 0.0.0.0 www.bitwisepublishing.com
@@ -18999,7 +18962,6 @@
 0.0.0.0 www.intelli-direct.com
 0.0.0.0 www.intellisuggest.com
 0.0.0.0 www.intellitxt.com
-0.0.0.0 www.intera-x.com
 0.0.0.0 www.interactivebrands.com
 0.0.0.0 www.internetpeace.com
 0.0.0.0 www.internetsecurity.com
@@ -19220,7 +19182,6 @@
 0.0.0.0 www.noadnetwork.com
 0.0.0.0 www.nobleppc.com
 0.0.0.0 www.noowho.com
-0.0.0.0 www.nowgifttown.com
 0.0.0.0 www.nowstat.com
 0.0.0.0 www.nudecash.com
 0.0.0.0 www.nudegalleries.org
@@ -19313,7 +19274,6 @@
 0.0.0.0 www.popuptraffic.com
 0.0.0.0 www.porncash.de
 0.0.0.0 www.porndad.com
-0.0.0.0 www.porngalleriesz.com
 0.0.0.0 www.pornobanner.com
 0.0.0.0 www.pornogames.net
 0.0.0.0 www.pornoitalia.it
@@ -19385,7 +19345,6 @@
 0.0.0.0 www.reduxmediia.com
 0.0.0.0 www.reefclubcasino.com
 0.0.0.0 www.refer.ru
-0.0.0.0 www.regdefense.com
 0.0.0.0 www.registrydefender.com
 0.0.0.0 www.registryfix.com
 0.0.0.0 www.registrygenius.com
@@ -19615,7 +19574,6 @@
 0.0.0.0 www.toons-for-adult.com
 0.0.0.0 www.top-porn-sites.info
 0.0.0.0 www.top-rank.pl
-0.0.0.0 www.top1.ro
 0.0.0.0 www.top100.ro
 0.0.0.0 www.top123.ro
 0.0.0.0 www.top25.ro
@@ -20033,7 +19991,6 @@
 0.0.0.0 xp1.zedo.com
 0.0.0.0 xp2.zedo.com
 0.0.0.0 xpl.theadex.com
-0.0.0.0 xpop.co
 0.0.0.0 xpostmail.com
 0.0.0.0 xrenoder.com
 0.0.0.0 xs.mochiads.com
@@ -20085,7 +20042,6 @@
 0.0.0.0 yieldmanager.adbooth.com
 0.0.0.0 yllix.com
 0.0.0.0 ym.adnxs.com
-0.0.0.0 ym.bannerconnect.net
 0.0.0.0 yoda.cybereps.com
 0.0.0.0 yojxoefvnyrc.com
 0.0.0.0 youcunts.com
@@ -20173,8 +20129,8 @@
 
 # Hosts - cameleon
 # Source - http://sysctl.org/cameleon/hosts
-# Generated - 27.07.2018
+# Generated - 02.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 20172
+# Total Domains: 20128
 # License: MIT
 

@@ -36,6 +36,8 @@
 0.0.0.0 2giga.download
 0.0.0.0 2ip.ua
 0.0.0.0 2o7.net
+0.0.0.0 2parale.ro
+0.0.0.0 2performant.com
 0.0.0.0 300ca0d0.space
 0.0.0.0 310ca263.space
 0.0.0.0 320ca3f6.space
@@ -156,7 +158,6 @@
 0.0.0.0 adform.net
 0.0.0.0 adfox.ru
 0.0.0.0 adfox.yandex.ru
-0.0.0.0 adg.bzgint.com
 0.0.0.0 adgeo.163.com
 0.0.0.0 adgreed.com
 0.0.0.0 adhslx.com
@@ -356,7 +357,6 @@
 0.0.0.0 analytics.grupogodo.com
 0.0.0.0 analytics.gvim.mobi
 0.0.0.0 analytics.hosting24.com
-0.0.0.0 analytics.hpprintx.com
 0.0.0.0 analytics.ifood.tv
 0.0.0.0 analytics.industriemagazin.net
 0.0.0.0 analytics.infobae.com
@@ -597,6 +597,7 @@
 0.0.0.0 bdwblog.eastmoney.com
 0.0.0.0 beacon-1.newrelic.com
 0.0.0.0 beacon.affil.walmart.com
+0.0.0.0 beacon.aimtell.com
 0.0.0.0 beacon.ehow.com
 0.0.0.0 beacon.errorception.com
 0.0.0.0 beacon.examiner.com
@@ -628,6 +629,7 @@
 0.0.0.0 beacon2.indieclicktv.com
 0.0.0.0 beacons.brandads.net
 0.0.0.0 beacons.mediamelon.com
+0.0.0.0 beampulse.com
 0.0.0.0 beanscattering.jp
 0.0.0.0 beanstalkdata.com
 0.0.0.0 beanstock.com
@@ -1191,7 +1193,6 @@
 0.0.0.0 counter.wapstart.ru
 0.0.0.0 counter.webmart.de
 0.0.0.0 counter.yadro.ru
-0.0.0.0 counter.zeit.de
 0.0.0.0 counter.zone.ee
 0.0.0.0 counter160.com
 0.0.0.0 counter2.blog.livedoor.com
@@ -1304,6 +1305,7 @@
 0.0.0.0 d.rcmd.jp
 0.0.0.0 d.shareaholic.com
 0.0.0.0 d10lpsik1i8c69.cloudfront.net
+0.0.0.0 d11a2fzhgzqe7i.cloudfront.net
 0.0.0.0 d169bbxks24g2u.cloudfront.net
 0.0.0.0 d16fk4ms6rqz1v.cloudfront.net
 0.0.0.0 d17m68fovwmgxj.cloudfront.net
@@ -1472,7 +1474,6 @@
 0.0.0.0 dkj2m377b0yzw.cloudfront.net
 0.0.0.0 dl.meliacloud.com
 0.0.0.0 dl1d2m8ri9v3j.cloudfront.net
-0.0.0.0 dle-news.pw
 0.0.0.0 dlvkf5067xruv.cloudfront.net
 0.0.0.0 dm.commentcamarche.net
 0.0.0.0 dm.hugolescargot.com
@@ -1899,7 +1900,6 @@
 0.0.0.0 gacela.eu
 0.0.0.0 gallupnet.fi
 0.0.0.0 gammachug.com
-0.0.0.0 gasolina.ml
 0.0.0.0 gaug.es
 0.0.0.0 gay-hotvideo.net
 0.0.0.0 gbotvisit.com
@@ -1945,7 +1945,6 @@
 0.0.0.0 geoip.pennlive.com
 0.0.0.0 geoip.silive.com
 0.0.0.0 geoip.syracuse.com
-0.0.0.0 geoip.taskforce.is
 0.0.0.0 geoip.viamichelin.com
 0.0.0.0 geoplugin.net
 0.0.0.0 georiot.com
@@ -2187,6 +2186,7 @@
 0.0.0.0 i2i.jp
 0.0.0.0 i401xox.com
 0.0.0.0 iadvize.com
+0.0.0.0 iaudienc.com
 0.0.0.0 ib-ibi.com
 0.0.0.0 ib.adnxs.com
 0.0.0.0 ibeat.indiatimes.com
@@ -2203,7 +2203,6 @@
 0.0.0.0 id.allegisgroup.com
 0.0.0.0 id.localsearch.ch
 0.0.0.0 ideoclick.com
-0.0.0.0 idigger.qtmojo.com
 0.0.0.0 idio.co
 0.0.0.0 idntfy.ru
 0.0.0.0 idot.cz
@@ -2258,7 +2257,6 @@
 0.0.0.0 infinityid.condenastdigital.com
 0.0.0.0 inflectionpointmedia.com
 0.0.0.0 influid.co
-0.0.0.0 influxer.onion.com
 0.0.0.0 info.elba.at
 0.0.0.0 infocollect.dk
 0.0.0.0 infopro-insight.com
@@ -2267,7 +2265,6 @@
 0.0.0.0 infostroy.nnov.ru
 0.0.0.0 infox.sg
 0.0.0.0 ingenioustech.biz
-0.0.0.0 ingest.onion.com
 0.0.0.0 ingorob.com
 0.0.0.0 inimbus.com.au
 0.0.0.0 ininmacerad.pro
@@ -2285,14 +2282,12 @@
 0.0.0.0 insightera.com
 0.0.0.0 insightgrit.com
 0.0.0.0 insights.blogfoster.com
-0.0.0.0 insights.gravity.com
 0.0.0.0 insigit.com
 0.0.0.0 insitemetrics.com
 0.0.0.0 insitez.blob.core.windows.net
 0.0.0.0 inspectlet.com
 0.0.0.0 instadia.net
 0.0.0.0 instana.io
-0.0.0.0 instapage.com
 0.0.0.0 instore.biz
 0.0.0.0 instreamatic.com
 0.0.0.0 integritystat.com
@@ -2505,6 +2500,7 @@
 0.0.0.0 link-empfehlen24.de
 0.0.0.0 link-smart.com
 0.0.0.0 link.informer.com
+0.0.0.0 link.tym.cool
 0.0.0.0 linkconnector.com
 0.0.0.0 linkpuls.idg.no
 0.0.0.0 linkpulse.com
@@ -2542,6 +2538,7 @@
 0.0.0.0 locotrack.net
 0.0.0.0 log.51cto.com
 0.0.0.0 log.adap.tv
+0.0.0.0 log.aimtell.com
 0.0.0.0 log.artipbox.net
 0.0.0.0 log.bitauto.com
 0.0.0.0 log.flight.qunar.com
@@ -2667,6 +2664,8 @@
 0.0.0.0 marketing.nodesource.com
 0.0.0.0 marketizator.com
 0.0.0.0 marketo.net
+0.0.0.0 marketshot.com
+0.0.0.0 marketshot.fr
 0.0.0.0 markitondemand.com
 0.0.0.0 marktest.pt
 0.0.0.0 marsflag.com
@@ -2716,13 +2715,11 @@
 0.0.0.0 mega-stats.com
 0.0.0.0 megabanners.cf
 0.0.0.0 megast.at
-0.0.0.0 megastat.net
 0.0.0.0 memecounter.com
 0.0.0.0 mengis-linden.org
 0.0.0.0 mepirtedic.com
 0.0.0.0 mercadoclics.com
 0.0.0.0 mercent.com
-0.0.0.0 mercy.ga
 0.0.0.0 merlin.abc.go.com
 0.0.0.0 metalyzer.com
 0.0.0.0 meteorsolutions.com
@@ -3052,7 +3049,6 @@
 0.0.0.0 oimg.m.cnbc.com
 0.0.0.0 oimg.mobile.cnbc.com
 0.0.0.0 ojrq.net
-0.0.0.0 okeyletsgo.ml
 0.0.0.0 okt.to
 0.0.0.0 oktopost.com
 0.0.0.0 om.cbsi.com
@@ -3131,7 +3127,6 @@
 0.0.0.0 ownpage.fr
 0.0.0.0 oxidy.com
 0.0.0.0 p-td.com
-0.0.0.0 p.adbrn.com
 0.0.0.0 p.aty.sohu.com
 0.0.0.0 p.delivery.net
 0.0.0.0 p.milliyet.com.tr
@@ -3145,6 +3140,7 @@
 0.0.0.0 pa-oa.com
 0.0.0.0 page-hit.de
 0.0.0.0 pagefair.com
+0.0.0.0 pageinfo.motorsport.com
 0.0.0.0 pagerank-backlink.eu
 0.0.0.0 pagerank-linkverzeichnis.de
 0.0.0.0 pagerank-online.eu
@@ -3317,7 +3313,6 @@
 0.0.0.0 pong.gannettdigital.com
 0.0.0.0 pong.production.gannettdigital.com
 0.0.0.0 pool.etn.spacepools.org
-0.0.0.0 pool.hws.ru
 0.0.0.0 poolmining.eu
 0.0.0.0 poolmining.net
 0.0.0.0 poool.fr
@@ -3414,7 +3409,6 @@
 0.0.0.0 pvx.xcar.com.cn
 0.0.0.0 pwa.telephoneannuaire.fr
 0.0.0.0 px.dynamicyield.com
-0.0.0.0 px.excitedigitalmedia.com
 0.0.0.0 px.marchex.io
 0.0.0.0 px.owneriq.net
 0.0.0.0 px.spiceworks.com
@@ -3457,7 +3451,6 @@
 0.0.0.0 r7ls.net
 0.0.0.0 radarstats.com
 0.0.0.0 radarurl.com
-0.0.0.0 rainbow-uk.mythings.com
 0.0.0.0 ramp.purch.com
 0.0.0.0 rampanel.com
 0.0.0.0 rampmetrics.com
@@ -3543,7 +3536,6 @@
 0.0.0.0 reporting.handll.net
 0.0.0.0 reporting.singlefeed.com
 0.0.0.0 reporting.theonion.com
-0.0.0.0 reporting.wilkinsonplus.com
 0.0.0.0 reports.pagesuite-professional.co.uk
 0.0.0.0 request.issuu.com
 0.0.0.0 res-x.com
@@ -3560,6 +3552,7 @@
 0.0.0.0 responsetap.com
 0.0.0.0 retadint.com
 0.0.0.0 retag.xyz
+0.0.0.0 retargeting.biz
 0.0.0.0 retargeting.vistaprint.com
 0.0.0.0 retargetly.com
 0.0.0.0 retentionscience.com
@@ -3992,6 +3985,7 @@
 0.0.0.0 speedtrap.shopdirect.com
 0.0.0.0 spelar.org
 0.0.0.0 spider-mich.com
+0.0.0.0 spiffymachine.com
 0.0.0.0 spklw.com
 0.0.0.0 splittag.com
 0.0.0.0 splurgi.com
@@ -4022,7 +4016,6 @@
 0.0.0.0 ssp.hinet.net
 0.0.0.0 ssp.rambler.ru
 0.0.0.0 st.cdnco.us
-0.0.0.0 sta.ifeng.com
 0.0.0.0 stack-sonar.com
 0.0.0.0 stadig.ifeng.com
 0.0.0.0 stadsvc.com
@@ -4131,7 +4124,6 @@
 0.0.0.0 stats.clickforknowledge.com
 0.0.0.0 stats.cloudwp.io
 0.0.0.0 stats.cmcigroup.com
-0.0.0.0 stats.complex.com
 0.0.0.0 stats.cz
 0.0.0.0 stats.datahjaelp.net
 0.0.0.0 stats.de
@@ -4285,7 +4277,6 @@
 0.0.0.0 strs.jp
 0.0.0.0 su.addthis.com
 0.0.0.0 sub2tech.com
-0.0.0.0 subloader.cf
 0.0.0.0 submitnet.net
 0.0.0.0 subpixel.4players.de
 0.0.0.0 subtraxion.com
@@ -4365,7 +4356,6 @@
 0.0.0.0 t.sharethis.com
 0.0.0.0 t.smile.eu
 0.0.0.0 t.wayfair.com
-0.0.0.0 t.ymlp275.net
 0.0.0.0 t2.hulu.com
 0.0.0.0 t2.huluim.com
 0.0.0.0 t2.t2b.click
@@ -4730,7 +4720,6 @@
 0.0.0.0 tracking.moneyam.com
 0.0.0.0 tracking.musixmatch.com
 0.0.0.0 tracking.mycapture.com
-0.0.0.0 tracking.netbank.de
 0.0.0.0 tracking.netvigie.com
 0.0.0.0 tracking.netzathleten-media.de
 0.0.0.0 tracking.nextdoor.com
@@ -5330,8 +5319,8 @@
 
 # Hosts - easyprivacy
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easyprivacy.txt
-# Generated - 27.07.2018
+# Generated - 02.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 5329
+# Total Domains: 5318
 # License: MIT
 

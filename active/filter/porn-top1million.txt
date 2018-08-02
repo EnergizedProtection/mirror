@@ -559,7 +559,6 @@
 0.0.0.0 adult-01.com
 0.0.0.0 adult-acne.net
 0.0.0.0 adult-ash.jp
-0.0.0.0 adult-ch.kir.jp
 0.0.0.0 adult-channels.com
 0.0.0.0 adult-clips.com
 0.0.0.0 adult-collection.net
@@ -1425,7 +1424,6 @@
 0.0.0.0 asiancamzone.com
 0.0.0.0 asiancandyshop.com
 0.0.0.0 asianclipstube.com
-0.0.0.0 asiancock.tumblr.com
 0.0.0.0 asiancult.com
 0.0.0.0 asiancurves.com
 0.0.0.0 asiandaily.com
@@ -2546,7 +2544,6 @@
 0.0.0.0 blogbugs.org
 0.0.0.0 blogdascaxorras.net
 0.0.0.0 blogdefolie.com
-0.0.0.0 blogigo.de
 0.0.0.0 blognavi.info
 0.0.0.0 blogshemale.com
 0.0.0.0 blogtur.com
@@ -3687,7 +3684,6 @@
 0.0.0.0 coithienthai.com
 0.0.0.0 coitustube.com
 0.0.0.0 cokegirlx.com
-0.0.0.0 cokfena.tumblr.com
 0.0.0.0 cokincokine.com
 0.0.0.0 coldporn.com
 0.0.0.0 colette.com
@@ -20159,8 +20155,8 @@
 
 # Hosts - porn-top1million
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/porn-top1m.txt
-# Generated - 27.07.2018
+# Generated - 02.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 20158
+# Total Domains: 20154
 # License: MIT
 

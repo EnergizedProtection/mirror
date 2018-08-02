@@ -214,8 +214,6 @@
 0.0.0.0 immassets.s3.amazonaws.com
 0.0.0.0 imonitor.dhgate.com
 0.0.0.0 imx.comedycentral.com
-0.0.0.0 influxer.onion.com
-0.0.0.0 ingest.onion.com
 0.0.0.0 inquiries.redhat.com
 0.0.0.0 intelli.ageuk.org.uk
 0.0.0.0 intent.cbsi.com
@@ -296,6 +294,7 @@
 0.0.0.0 optimize-stats.voxmedia.com
 0.0.0.0 origin-tracking.trulia.com
 0.0.0.0 origin.chron.com
+0.0.0.0 pageinfo.motorsport.com
 0.0.0.0 partner.worldoftanks.com
 0.0.0.0 partners.badongo.com
 0.0.0.0 partners.mysavings.com
@@ -333,14 +332,12 @@
 0.0.0.0 pvstat.china.cn
 0.0.0.0 r.bbci.co.uk
 0.0.0.0 r.my.com
-0.0.0.0 rainbow-uk.mythings.com
 0.0.0.0 reco.hardsextube.com
 0.0.0.0 recommendation.24.com
 0.0.0.0 redeye.williamhill.com
 0.0.0.0 relatable.inquisitr.com
 0.0.0.0 report-zt.allmusic.com
 0.0.0.0 reporting.theonion.com
-0.0.0.0 reporting.wilkinsonplus.com
 0.0.0.0 request.issuu.com
 0.0.0.0 retargeting.vistaprint.com
 0.0.0.0 revsci.tvguide.com
@@ -656,8 +653,8 @@
 
 # Hosts - easyprivacy-specific
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easyprivacy-specific.txt
-# Generated - 27.07.2018
+# Generated - 02.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 655
+# Total Domains: 652
 # License: MIT
 

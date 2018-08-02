@@ -13,13 +13,13 @@
 0.0.0.0 adc.xxxlutz.de
 0.0.0.0 adclear.baur.de
 0.0.0.0 adclear.teufel.de
-0.0.0.0 adg.bzgint.com
 0.0.0.0 ads-trk.vidible.tv
 0.0.0.0 adstat.4u.pl
 0.0.0.0 adtm.chip.de
 0.0.0.0 affiliate.gameladen.com
 0.0.0.0 affiliate.gamesdeal.com
 0.0.0.0 affiliates.cdkeys.com
+0.0.0.0 alb.reddit.com
 0.0.0.0 amplifypixel.outbrain.com
 0.0.0.0 an.reflektion.com
 0.0.0.0 analytics-ingress.bitmovin.com
@@ -416,6 +416,7 @@
 0.0.0.0 p.raasnet.com
 0.0.0.0 p.smartertravel.com
 0.0.0.0 p.typekit.net
+0.0.0.0 p.vtracy.de
 0.0.0.0 p.yotpo.com
 0.0.0.0 p0.raasnet.com
 0.0.0.0 p2trc.emv2.com
@@ -705,8 +706,8 @@
 
 # Hosts - adguard-spyware
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-spyware-firstparty.txt
-# Generated - 27.07.2018
+# Generated - 02.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 704
+# Total Domains: 705
 # License: MIT
 

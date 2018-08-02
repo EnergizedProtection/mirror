@@ -96,7 +96,6 @@
 0.0.0.0 blackhatprotools.org
 0.0.0.0 blog.4files.net
 0.0.0.0 blondeadvice.com
-0.0.0.0 bluezone69.blogspot.com
 0.0.0.0 bobfilm.biz
 0.0.0.0 bochinchewarez.com
 0.0.0.0 bookgrill.com
@@ -2039,8 +2038,8 @@
 
 # Hosts - hosts-file.net-wrz
 # Source - https://hosts-file.net/wrz.txt
-# Generated - 27.07.2018
+# Generated - 02.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 2038
+# Total Domains: 2037
 # License: MIT
 

@@ -86,14 +86,12 @@
 0.0.0.0 ad.caradisiac.com
 0.0.0.0 ad.centrum.cz
 0.0.0.0 ad.cgi.cz
-0.0.0.0 ad.choiceradio.com
 0.0.0.0 ad.clix.pt
 0.0.0.0 ad.cooks.com
 0.0.0.0 ad.crwdcntrl.net
 0.0.0.0 ad.digitallook.com
 0.0.0.0 ad.doctissimo.fr
 0.0.0.0 ad.domainfactory.de
-0.0.0.0 ad.f1cd.ru
 0.0.0.0 ad.flurry.com
 0.0.0.0 ad.foxnetworks.com
 0.0.0.0 ad.freecity.de
@@ -1521,7 +1519,6 @@
 0.0.0.0 ifa.tube8live.com
 0.0.0.0 ilbanner.com
 0.0.0.0 ilead.itrack.it
-0.0.0.0 iliilllio00oo0.321.cn
 0.0.0.0 iloopmobile.com
 0.0.0.0 ilovecheating.com
 0.0.0.0 imageads.canoe.ca
@@ -1654,7 +1651,6 @@
 0.0.0.0 lunarads.com
 0.0.0.0 lzjl.com
 0.0.0.0 m1.webstats4u.com
-0.0.0.0 m4n.nl
 0.0.0.0 madadsmedia.com
 0.0.0.0 madclient.uimserv.net
 0.0.0.0 madisonavenue.com
@@ -2519,8 +2515,8 @@
 
 # Hosts - disconnect.me-ad
 # Source - https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Generated - 27.07.2018
+# Generated - 02.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 2518
+# Total Domains: 2514
 # License: MIT
 

@@ -106,8 +106,6 @@
 0.0.0.0 vodahelp.sytes.net
 0.0.0.0 www.antibasic.ga
 0.0.0.0 www.basecinco.com.ar
-0.0.0.0 www.impm.upel.edu.ve
-0.0.0.0 www.ipm.upel.edu.ve
 0.0.0.0 www.mauritaniecoeur.org
 0.0.0.0 www.nikey.cn
 0.0.0.0 www.orquestanacaona.cult.cu
@@ -119,8 +117,8 @@
 
 # Hosts - zeustracker.abuse.ch
 # Source - https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Generated - 27.07.2018
+# Generated - 02.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 118
+# Total Domains: 116
 # License: MIT
 

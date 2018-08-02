@@ -224,7 +224,6 @@
 0.0.0.0 case.chasingyourdreamradio.com
 0.0.0.0 caverna57.com
 0.0.0.0 cc36qc.lero.worldkickboxingcommission.com
-0.0.0.0 ccvncn.greatriverohio.com
 0.0.0.0 cdd97o.blow.harrisretreat.com
 0.0.0.0 cdinflatables.com
 0.0.0.0 cdu1um.beg.smalltailsbfr.com
@@ -545,7 +544,6 @@
 0.0.0.0 msjsma.gay.tathamservice.com
 0.0.0.0 muc8he.hbg.hebdenbridgedental.co.uk
 0.0.0.0 myag7z.kal.wkcengland.com
-0.0.0.0 myfavoriteviolincd.com
 0.0.0.0 myr9q8.shet.eveshamairporttransfers.co.uk
 0.0.0.0 myshopmarketim.com
 0.0.0.0 n17w38.beg.smalltailsbfr.com
@@ -563,7 +561,6 @@
 0.0.0.0 nick.outlawministries.com
 0.0.0.0 night.howardnapper.co.uk
 0.0.0.0 nite.ancestrybloodhound.net
-0.0.0.0 nm6vqv.net.a1traveldirect.co.uk
 0.0.0.0 nnvbxe.boss.northerndishedends.uk
 0.0.0.0 nordwest.tora.ru
 0.0.0.0 not.dreamsempowerct.com
@@ -606,7 +603,6 @@
 0.0.0.0 p27orf.lero.worldkickboxingcommission.com
 0.0.0.0 p4ntf4.lero.worldkickboxingcommission.com
 0.0.0.0 p5zofj.idf.iandunford.co.uk
-0.0.0.0 p67da7.net.a1traveldirect.co.uk
 0.0.0.0 p8wwtt.nt.nativetrees.co.uk
 0.0.0.0 p9gzrh.shet.eveshamairporttransfers.co.uk
 0.0.0.0 page.ancestrybloodhound.com
@@ -757,12 +753,10 @@
 0.0.0.0 suzdal-media.ru
 0.0.0.0 swfsxv.beckmenlawfirm.org
 0.0.0.0 swswfwsf.beckmenlaw.net
-0.0.0.0 swwsbk.greatriverohio.net
 0.0.0.0 swwsg.mylifemirror.com
 0.0.0.0 sx319x.come.evesham-taxis.co.uk
 0.0.0.0 sxx3xr.air.airporttaxievesham.co.uk
 0.0.0.0 sxxhu4.lol.airporttaxipershore.co.uk
-0.0.0.0 sywhpe.net.a1traveldirect.co.uk
 0.0.0.0 szgxkd.gay.tathamservice.com
 0.0.0.0 sztrim.com
 0.0.0.0 szymyh.lol.airporttaxipershore.co.uk
@@ -859,7 +853,6 @@
 0.0.0.0 virpngezwu.yrezonvtrkc.tk
 0.0.0.0 vittorioceccoli.com
 0.0.0.0 vkjbn.jamaicankisses.com
-0.0.0.0 vkld.datiks.com
 0.0.0.0 vnks.areteenergy.com
 0.0.0.0 vqqxyw.koll.pershoreairporttransfers.co.uk
 0.0.0.0 vqv4tf.best.pershoretaxis.co.uk
@@ -1067,8 +1060,8 @@
 
 # Hosts - hosts-file.net-exp
 # Source - https://hosts-file.net/exp.txt
-# Generated - 27.07.2018
+# Generated - 02.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 1066
+# Total Domains: 1059
 # License: MIT
 

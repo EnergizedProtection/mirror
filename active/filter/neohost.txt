@@ -79,7 +79,6 @@
 0.0.0.0 a.tanx.com
 0.0.0.0 a.tribalfusion.com
 0.0.0.0 a.union.mi.com
-0.0.0.0 a.waczt.cn
 0.0.0.0 a.youdao.com
 0.0.0.0 a1.img.static.youmi.net
 0.0.0.0 a1.openxt.cn
@@ -407,7 +406,6 @@
 0.0.0.0 api.tw06.xlmc.sec.miui.com
 0.0.0.0 api.viglink.com
 0.0.0.0 api.w.inmobi.com
-0.0.0.0 api.wapa.taobao.com
 0.0.0.0 api.waptest.taobao.com
 0.0.0.0 api.wsq.umeng.com
 0.0.0.0 api.y.igexin.com
@@ -1111,7 +1109,6 @@
 0.0.0.0 fw.adsafeprotected.com
 0.0.0.0 fw.qq.com
 0.0.0.0 fw.vpon.com
-0.0.0.0 fxc.aiquxs.com
 0.0.0.0 fych.uranus.sogou.com
 0.0.0.0 fz863.com
 0.0.0.0 g.163.com
@@ -1721,7 +1718,6 @@
 0.0.0.0 nbsdk-baichuan.taobao.com
 0.0.0.0 nc004x.corp.youdao.com
 0.0.0.0 nc045x.corp.youdao.com
-0.0.0.0 net.adpush.cn
 0.0.0.0 new.cnzz.com
 0.0.0.0 new.users.51.la
 0.0.0.0 newloc.map.n.shifen.com
@@ -1937,7 +1933,6 @@
 0.0.0.0 pv.sogou.com
 0.0.0.0 pvstat.html5.qq.com
 0.0.0.0 pw.cnzz.com
-0.0.0.0 pwj.biqugezw.com
 0.0.0.0 px.adhigh.net
 0.0.0.0 px.moatads.com
 0.0.0.0 px.owneriq.net
@@ -2959,7 +2954,6 @@
 0.0.0.0 www.appuu.cn
 0.0.0.0 www.atdmt.com
 0.0.0.0 www.authedmine.com
-0.0.0.0 www.baiduzhidahao.cc
 0.0.0.0 www.bannedbook.org
 0.0.0.0 www.chenggao.cn
 0.0.0.0 www.cnnic.cn
@@ -3133,8 +3127,8 @@
 
 # Hosts - neohost
 # Source - https://hosts.nfz.moe/full/hosts
-# Generated - 27.07.2018
+# Generated - 02.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 3132
+# Total Domains: 3126
 # License: MIT
 

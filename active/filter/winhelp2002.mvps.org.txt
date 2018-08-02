@@ -270,7 +270,6 @@
 0.0.0.0 9d060c.r.axf8.net
 0.0.0.0 9dacbd.r.axf8.net
 0.0.0.0 9down.us.intellitxt.com
-0.0.0.0 ___id___.c.mystat-in.net
 0.0.0.0 a.1nimo.com
 0.0.0.0 a.abnad.net
 0.0.0.0 a.abv.bg
@@ -348,7 +347,6 @@
 0.0.0.0 a.teads.tv
 0.0.0.0 a.tempurpedic.com
 0.0.0.0 a.thanksearch.com
-0.0.0.0 a.thoughtleadr.com
 0.0.0.0 a.tiscali.co.uk
 0.0.0.0 a.tribalfusion.com
 0.0.0.0 a.trkme.net
@@ -818,7 +816,6 @@
 0.0.0.0 adfocus.ru
 0.0.0.0 adforce.ru
 0.0.0.0 adfun.ru
-0.0.0.0 adg.bzgint.com
 0.0.0.0 adgebra.co.in
 0.0.0.0 adgeo.163.com
 0.0.0.0 adhall.com
@@ -1034,7 +1031,6 @@
 0.0.0.0 ads.betanews.com
 0.0.0.0 ads.betfair.com
 0.0.0.0 ads.betsafe.com
-0.0.0.0 ads.betternetworker.com
 0.0.0.0 ads.betweendigital.com
 0.0.0.0 ads.bg-mamma.com
 0.0.0.0 ads.bgfree.com
@@ -1325,7 +1321,6 @@
 0.0.0.0 ads.mondogames.com
 0.0.0.0 ads.monetize-me.com
 0.0.0.0 ads.money.bg
-0.0.0.0 ads.monogram.sk
 0.0.0.0 ads.mopub.com
 0.0.0.0 ads.mp.mydas.mobi
 0.0.0.0 ads.mpm.com.mk
@@ -1597,7 +1592,6 @@
 0.0.0.0 ads.yimg.com
 0.0.0.0 ads.yldmgrimg.net
 0.0.0.0 ads.ynot.com
-0.0.0.0 ads.yvmads.com
 0.0.0.0 ads.zajenata.bg
 0.0.0.0 ads.zamunda.net
 0.0.0.0 ads.zdnet.com
@@ -1681,7 +1675,6 @@
 0.0.0.0 adserv.net
 0.0.0.0 adserv.roundrockmedia.com
 0.0.0.0 adserve-east.technologygeeks.com
-0.0.0.0 adserve.advertising.com
 0.0.0.0 adserve.cpmba.se
 0.0.0.0 adserve.donanimhaber.com
 0.0.0.0 adserve.doteasy.com
@@ -1750,7 +1743,6 @@
 0.0.0.0 adserver.outpersonals.com
 0.0.0.0 adserver.passion.com
 0.0.0.0 adserver.playtv.fr
-0.0.0.0 adserver.powerlinks.com
 0.0.0.0 adserver.pressboard.ca
 0.0.0.0 adserver.pressflex.com
 0.0.0.0 adserver.reklamstore.com
@@ -1786,10 +1778,8 @@
 0.0.0.0 adserver2.goals365.com
 0.0.0.0 adserver2.realtracker.com
 0.0.0.0 adserver4.fluent.ltd.uk
-0.0.0.0 adserverc.cliipa.com
 0.0.0.0 adserverus.info
 0.0.0.0 adservice.aliexpress.com
-0.0.0.0 adservicedomain.info
 0.0.0.0 adserving.autotrader.com
 0.0.0.0 adserving.fyi-marketing.com
 0.0.0.0 adserving.muppetism.com
@@ -3342,7 +3332,6 @@
 0.0.0.0 cdn.crowdtwist.com
 0.0.0.0 cdn.crwdcntrl.net
 0.0.0.0 cdn.cxense.com
-0.0.0.0 cdn.dabhit.com
 0.0.0.0 cdn.demdex.net
 0.0.0.0 cdn.directtrk.com
 0.0.0.0 cdn.districtm.ca
@@ -3574,7 +3563,6 @@
 0.0.0.0 click.gospect.com
 0.0.0.0 click.hotlog.ru
 0.0.0.0 click.html.it
-0.0.0.0 click.icetraffic.com
 0.0.0.0 click.inn.co.il
 0.0.0.0 click.interactivebrands.com
 0.0.0.0 click.khingtracking.com
@@ -3782,7 +3770,6 @@
 0.0.0.0 collector.deepmetrix.com
 0.0.0.0 collector.githubapp.com
 0.0.0.0 collector.leaddyno.com
-0.0.0.0 collector.savvyads.com
 0.0.0.0 collegefootballnews.us.intellitxt.com
 0.0.0.0 com-cdiscount.netmng.com
 0.0.0.0 com-kia.netmng.com
@@ -4231,7 +4218,6 @@
 0.0.0.0 d2nq0f8d9ofdwv.cloudfront.net
 0.0.0.0 d2oh4tlt9mrke9.cloudfront.net
 0.0.0.0 d2tgfbvjf3q6hn.cloudfront.net
-0.0.0.0 d2vg62nuq66wql.cloudfront.net
 0.0.0.0 d2vig74li2resi.cloudfront.net
 0.0.0.0 d2zah9y47r7bi2.cloudfront.net
 0.0.0.0 d3.zedo.com
@@ -4461,7 +4447,6 @@
 0.0.0.0 dk.gmads.net
 0.0.0.0 dk1.siteimprove.com
 0.0.0.0 dl.gameplaylabs.com
-0.0.0.0 dl.keywordstrategy.org
 0.0.0.0 dl1d2m8ri9v3j.cloudfront.net
 0.0.0.0 dlmag.us.intellitxt.com
 0.0.0.0 dm.demdex.net
@@ -5453,7 +5438,6 @@
 0.0.0.0 hearstmagazines.112.2o7.net
 0.0.0.0 hearstugo.112.2o7.net
 0.0.0.0 heavycom.122.2o7.net
-0.0.0.0 heise.nuggad.net
 0.0.0.0 helios.fvn.no
 0.0.0.0 helium.us.intellitxt.com
 0.0.0.0 hello.sexer.com
@@ -5809,7 +5793,6 @@
 0.0.0.0 images.indiads.com
 0.0.0.0 images.intellitxt.com
 0.0.0.0 images.kolmic.com
-0.0.0.0 images.m4n.nl
 0.0.0.0 images.outbrain.com
 0.0.0.0 images.parked.com
 0.0.0.0 images.primaryads.com
@@ -7752,7 +7735,6 @@
 0.0.0.0 openx.vizzia.bg
 0.0.0.0 openx.vsekiden.com
 0.0.0.0 openx.watchmygf.net
-0.0.0.0 opera1-servedby.advertising.com
 0.0.0.0 opt.hit.gemius.pl
 0.0.0.0 opt.ximad.com
 0.0.0.0 optimize-stats.voxmedia.com
@@ -7957,7 +7939,6 @@
 0.0.0.0 peakclick.com
 0.0.0.0 pebble-adhese.gva.be
 0.0.0.0 pebble-adhese.hbvl.be
-0.0.0.0 peelads.hustler.com
 0.0.0.0 peerfly.com
 0.0.0.0 pei-ads.playboy.com
 0.0.0.0 pei-ads.thesmokingjacket.com
@@ -8431,19 +8412,6 @@
 0.0.0.0 raahenseutu.jainos.fi
 0.0.0.0 radar.cedexis.com
 0.0.0.0 radarurl.com
-0.0.0.0 rainbow-de.mythings.com
-0.0.0.0 rainbow-es.mythings.com
-0.0.0.0 rainbow-fi.mythings.com
-0.0.0.0 rainbow-geo-p.mythings.com
-0.0.0.0 rainbow-mx.mythings.com
-0.0.0.0 rainbow-nl.mythings.com
-0.0.0.0 rainbow-no.mythings.com
-0.0.0.0 rainbow-ru-ak.mythings.com
-0.0.0.0 rainbow-ru.mythings.com
-0.0.0.0 rainbow-sg.mythings.com
-0.0.0.0 rainbow-uk.mythings.com
-0.0.0.0 rainbow-us.mythings.com
-0.0.0.0 rainbow.mythings.com
 0.0.0.0 rainbow.topbucks.com
 0.0.0.0 rainbowmedia.122.2o7.net
 0.0.0.0 rakuten.112.2o7.net
@@ -8476,7 +8444,6 @@
 0.0.0.0 rcntelecom.112.2o7.net
 0.0.0.0 rcpmag.us.intellitxt.com
 0.0.0.0 rd-direct.com
-0.0.0.0 rd.advertising.com
 0.0.0.0 rd.clickshift.com
 0.0.0.0 rd.revolvermaps.com
 0.0.0.0 re.revolvermaps.com
@@ -8671,8 +8638,6 @@
 0.0.0.0 rpt.anchorfree.net
 0.0.0.0 rpt.footlocker.com
 0.0.0.0 rq.adfox.ru
-0.0.0.0 rq.adtrackdirect.com
-0.0.0.0 rq.trackingadirect.com
 0.0.0.0 rr1.outster.com
 0.0.0.0 rr1.xxxcounter.com
 0.0.0.0 rrpartners.122.2o7.net
@@ -8764,7 +8729,6 @@
 0.0.0.0 s.thebrighttag.com
 0.0.0.0 s.tribalfusion.com
 0.0.0.0 s.tyxo.com
-0.0.0.0 s.uadx.com
 0.0.0.0 s.webtrends.com
 0.0.0.0 s.zkcdn.net
 0.0.0.0 s01-delivery.addynamo.net
@@ -9701,7 +9665,6 @@
 0.0.0.0 stats.clickability.com
 0.0.0.0 stats.clicktracks.com
 0.0.0.0 stats.cloudwp.io
-0.0.0.0 stats.complex.com
 0.0.0.0 stats.concierge.com
 0.0.0.0 stats.dailyrecord.co.uk
 0.0.0.0 stats.dice.com
@@ -10265,7 +10228,6 @@
 0.0.0.0 top.artcomix.com
 0.0.0.0 top.c-stat.eu
 0.0.0.0 top.dating.lt
-0.0.0.0 top.easy.lv
 0.0.0.0 top.er.cz
 0.0.0.0 top.list.ru
 0.0.0.0 top.oewabox.at
@@ -10356,18 +10318,15 @@
 0.0.0.0 track.idtargeting.com
 0.0.0.0 track.ionicmedia.com
 0.0.0.0 track.justcloud.com
-0.0.0.0 track.keywordstrategy.org
 0.0.0.0 track.lativio.com
 0.0.0.0 track.leadin.com
 0.0.0.0 track.linkoffers.net
 0.0.0.0 track.make-a-site.net
 0.0.0.0 track.moreniche.com
-0.0.0.0 track.netshelter.net
 0.0.0.0 track.oainternetservices.com
 0.0.0.0 track.omguk.com
 0.0.0.0 track.oxcash.com
 0.0.0.0 track.pointroll.com
-0.0.0.0 track.popmog.com
 0.0.0.0 track.prizeglobal.net
 0.0.0.0 track.promptfile.com
 0.0.0.0 track.pubmatic.com
@@ -10916,7 +10875,6 @@
 0.0.0.0 walla.yad2.co.il
 0.0.0.0 walmart.112.2o7.net
 0.0.0.0 wam-ads.sitescout.com
-0.0.0.0 wap.advertising.com
 0.0.0.0 warcry.us.intellitxt.com
 0.0.0.0 warnerbros-d.openx.net
 0.0.0.0 warnerbros.112.2o7.net
@@ -11349,7 +11307,6 @@
 0.0.0.0 www.bidclix.net
 0.0.0.0 www.bidvertiser.com
 0.0.0.0 www.bigpenisguide.com
-0.0.0.0 www.bitsfarmclean.com
 0.0.0.0 www.bitspresentdownload.com
 0.0.0.0 www.bizographics.com
 0.0.0.0 www.bkrtx.com
@@ -11650,7 +11607,6 @@
 0.0.0.0 www.intelli-tracker.com
 0.0.0.0 www.intellisuggest.com
 0.0.0.0 www.intellitxt.com
-0.0.0.0 www.intera-x.com
 0.0.0.0 www.interactivebrands.com
 0.0.0.0 www.internetsecurity.com
 0.0.0.0 www.interstats.nl
@@ -11787,7 +11743,6 @@
 0.0.0.0 www.ngads.com
 0.0.0.0 www.ninjadollars.com
 0.0.0.0 www.noowho.com
-0.0.0.0 www.nowgifttown.com
 0.0.0.0 www.nowstat.com
 0.0.0.0 www.oainternet.com
 0.0.0.0 www.obanner.net
@@ -11884,7 +11839,6 @@
 0.0.0.0 www.reduxmediia.com
 0.0.0.0 www.reelcentric.com
 0.0.0.0 www.refer.ru
-0.0.0.0 www.regdefense.com
 0.0.0.0 www.registrydefender.com
 0.0.0.0 www.registryfix.com
 0.0.0.0 www.registrysweeper.com
@@ -12024,7 +11978,6 @@
 0.0.0.0 www.toon-families.com
 0.0.0.0 www.toonfamilies.net
 0.0.0.0 www.top-rank.pl
-0.0.0.0 www.top1.ro
 0.0.0.0 www.top100.lt
 0.0.0.0 www.top100.ro
 0.0.0.0 www.top25.ro
@@ -12295,7 +12248,6 @@
 0.0.0.0 xp1.zedo.com
 0.0.0.0 xp2.zedo.com
 0.0.0.0 xpl.theadex.com
-0.0.0.0 xpop.co
 0.0.0.0 xpostmail.com
 0.0.0.0 xtainment.net
 0.0.0.0 xwbe.wcdn.co.il
@@ -12340,7 +12292,6 @@
 0.0.0.0 yieldmanager.adbooth.com
 0.0.0.0 yllix.com
 0.0.0.0 ym.adnxs.com
-0.0.0.0 ym.bannerconnect.net
 0.0.0.0 yoda.cybereps.com
 0.0.0.0 yourstats.net
 0.0.0.0 yourtango.us.intellitxt.com
@@ -12410,8 +12361,8 @@
 
 # Hosts - winhelp2002.mvps.org
 # Source - http://winhelp2002.mvps.org/hosts.txt
-# Generated - 27.07.2018
+# Generated - 02.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 12409
+# Total Domains: 12360
 # License: MIT
 

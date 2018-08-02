@@ -83,7 +83,6 @@
 0.0.0.0 ad.caradisiac.com
 0.0.0.0 ad.centrum.cz
 0.0.0.0 ad.cgi.cz
-0.0.0.0 ad.choiceradio.com
 0.0.0.0 ad.clix.pt
 0.0.0.0 ad.cooks.com
 0.0.0.0 ad.crwdcntrl.net
@@ -490,7 +489,6 @@
 0.0.0.0 ads.kinxxx.com
 0.0.0.0 ads.kompass.com
 0.0.0.0 ads.krawall.de
-0.0.0.0 ads.larryaffiliates.com
 0.0.0.0 ads.leovegas.com
 0.0.0.0 ads.lesbianpersonals.com
 0.0.0.0 ads.linkedin.com
@@ -1688,7 +1686,6 @@
 0.0.0.0 m.trb.com
 0.0.0.0 m1.webstats4u.com
 0.0.0.0 m32.media
-0.0.0.0 m4n.nl
 0.0.0.0 mackeeperapp.mackeeper.com
 0.0.0.0 madclient.uimserv.net
 0.0.0.0 madisonavenue.com
@@ -2066,7 +2063,6 @@
 0.0.0.0 realtechnetwork.com
 0.0.0.0 realtracker.com
 0.0.0.0 receptiveink.com
-0.0.0.0 record.affiliates.karjalakasino.com
 0.0.0.0 record.bonniergaming.com
 0.0.0.0 record.mrwin.com
 0.0.0.0 redirectvoluum.com
@@ -2586,8 +2582,8 @@
 
 # Hosts - pgl.yoyo.org
 # Source - https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&mimetype=plaintext
-# Generated - 27.07.2018
+# Generated - 02.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 2585
+# Total Domains: 2581
 # License: MIT
 

@@ -537,6 +537,7 @@
 0.0.0.0 activerxcenter.ru
 0.0.0.0 activeshopl.su
 0.0.0.0 activeshopm.su
+0.0.0.0 activityportald.su
 0.0.0.0 activnetmart123.ru
 0.0.0.0 actualpills.com
 0.0.0.0 ada.salehousetop.su
@@ -809,7 +810,6 @@
 0.0.0.0 bbmipl.com
 0.0.0.0 bbpa.org
 0.0.0.0 bbrterc.xn--80aspra3ac6a.xn--p1ai
-0.0.0.0 bceuu.webxdirect.su
 0.0.0.0 bcsxovwaa.megasaletopa.su
 0.0.0.0 bdaececei.startwebm.su
 0.0.0.0 bdshi-6.ru
@@ -1006,6 +1006,7 @@
 0.0.0.0 brandielinea.be
 0.0.0.0 brandnewlive.ru
 0.0.0.0 brandportal.su
+0.0.0.0 brandstoreu.su
 0.0.0.0 brandviagraonline.ru
 0.0.0.0 brandygisella.ru
 0.0.0.0 brasnoxs.com.br
@@ -1098,6 +1099,8 @@
 0.0.0.0 buydrugsonline.net
 0.0.0.0 buydrugsorderonline.com
 0.0.0.0 buydrugsorderonline24.com
+0.0.0.0 buyexperta.su
+0.0.0.0 buyexpertb.su
 0.0.0.0 buygabapentinnopresctiption.ru
 0.0.0.0 buygenericcialisonlines.com
 0.0.0.0 buyglucotrol.info
@@ -1815,6 +1818,7 @@
 0.0.0.0 ciplabrandeddrugs.com
 0.0.0.0 cissykelcie.ru
 0.0.0.0 citonet.cl
+0.0.0.0 cjaluuaroli.shoppricew.su
 0.0.0.0 clarabellemelinde.su
 0.0.0.0 clarissenanice.com
 0.0.0.0 claudinekellyann.su
@@ -1945,7 +1949,6 @@
 0.0.0.0 cynthiabambi.su
 0.0.0.0 cysokeyoir.bigtradep.su
 0.0.0.0 cytotecgrx.com
-0.0.0.0 czu.targetxweb.su
 0.0.0.0 d--store.com
 0.0.0.0 daceydyanna.ru
 0.0.0.0 damien.thesafewebmart.su
@@ -1991,6 +1994,7 @@
 0.0.0.0 debbiehephzibah.be
 0.0.0.0 debbiethea.ru
 0.0.0.0 deborahflori.ru
+0.0.0.0 deliveryinfos.su
 0.0.0.0 deliverylife.ru
 0.0.0.0 deltabeneficios.com.br
 0.0.0.0 deltasone.ws
@@ -2698,6 +2702,9 @@
 0.0.0.0 getnaltrexone.com
 0.0.0.0 getnetworkx724.ru
 0.0.0.0 getnow.slimbodlly.host
+0.0.0.0 getpricea.su
+0.0.0.0 getpriceb.su
+0.0.0.0 getpricec.su
 0.0.0.0 getroman.com
 0.0.0.0 getrxbest724.ru
 0.0.0.0 gffmgr.salehousetop.su
@@ -2800,10 +2807,15 @@
 0.0.0.0 grantpharmacy.com
 0.0.0.0 graphical-illusion.com
 0.0.0.0 graziakevina.ru
+0.0.0.0 greatdiscounts.su
+0.0.0.0 greatdiscountt.su
+0.0.0.0 greatdiscountu.su
 0.0.0.0 greatestpharmacy.com
 0.0.0.0 greatmarttablets.ru
 0.0.0.0 greatnewcenter.ru
 0.0.0.0 greatsale.su
+0.0.0.0 greatsaleq.su
+0.0.0.0 greatsaler.su
 0.0.0.0 greatshopnet.com
 0.0.0.0 greatvipfinder123.ru
 0.0.0.0 greatvipmart335.ru
@@ -2907,6 +2919,7 @@
 0.0.0.0 hinokuma.xn--80aglaiio2ee.xn--p1ai
 0.0.0.0 hirokoji.xn--80aglaiio2ee.xn--p1ai
 0.0.0.0 hk936.com
+0.0.0.0 hkwriters.com
 0.0.0.0 hlnyapathh.supportlanda.su
 0.0.0.0 hmtujob.beststablex.su
 0.0.0.0 holesale123gate.ru
@@ -2993,6 +3006,7 @@
 0.0.0.0 humanhealth.biz
 0.0.0.0 huntleyvoice.com
 0.0.0.0 hvootdodow.focusyweb.su
+0.0.0.0 hxabpritaw.mytopcluby.su
 0.0.0.0 hyywidutin.topfortunem.su
 0.0.0.0 i-tracking.com.sg
 0.0.0.0 i365pills.com
@@ -3041,6 +3055,8 @@
 0.0.0.0 ineszitadorey.ru
 0.0.0.0 inf.xn--f1afqzrjtrp.xn--p1ai
 0.0.0.0 infinitytravelbenefits.com
+0.0.0.0 infobestu.su
+0.0.0.0 infobestv.su
 0.0.0.0 infosalex.su
 0.0.0.0 infosimplyx.su
 0.0.0.0 infosimplyy.su
@@ -3386,6 +3402,7 @@
 0.0.0.0 lexaproonlinewithoutaprescription.ru
 0.0.0.0 lgtec.de
 0.0.0.0 lgtqnuyci.trygroupc.su
+0.0.0.0 lhegf.infobestu.su
 0.0.0.0 lianejordana.ru
 0.0.0.0 lianshanda.be
 0.0.0.0 life-order.su
@@ -3412,6 +3429,7 @@
 0.0.0.0 litecoinpharmacy-com.256bit-ssl-checkout.com
 0.0.0.0 live-drugstore.com
 0.0.0.0 live-drugstore24.com
+0.0.0.0 livecopys.com
 0.0.0.0 lixin56.com
 0.0.0.0 lizzyvaleria.su
 0.0.0.0 ljuoda.fastestshopb.su
@@ -3851,6 +3869,9 @@
 0.0.0.0 mybestrxstore.net
 0.0.0.0 mybestsaleg.su
 0.0.0.0 mybestsalej.su
+0.0.0.0 mybrandg.su
+0.0.0.0 mybrandh.su
+0.0.0.0 mybrandi.su
 0.0.0.0 mycanadarx.com
 0.0.0.0 mycanadian-pharmacy.com
 0.0.0.0 mycanadianhealthcaremall.com
@@ -3911,6 +3932,9 @@
 0.0.0.0 mysmartelement.ru
 0.0.0.0 mytabletassist.com
 0.0.0.0 mytabletservices.ru
+0.0.0.0 mytopclubx.su
+0.0.0.0 mytopcluby.su
+0.0.0.0 mytopclubz.su
 0.0.0.0 mytradeclub.su
 0.0.0.0 mytrustedmart.ru
 0.0.0.0 mytrustedmeds.com
@@ -4129,6 +4153,7 @@
 0.0.0.0 ns3.bestrealcentr.ru
 0.0.0.0 ns3.prowebportal.ru
 0.0.0.0 ns3.webrealpro.ru
+0.0.0.0 ns4.bestntarget.su
 0.0.0.0 ns4.trustsaleinfo.ru
 0.0.0.0 number1store.us
 0.0.0.0 numericaconsultoria.com.br
@@ -4317,6 +4342,7 @@
 0.0.0.0 ormwheels.gdn
 0.0.0.0 orsolajoellen.ru
 0.0.0.0 orvz.ru
+0.0.0.0 osaagobi.infobestu.su
 0.0.0.0 ostaapillerihinta.org
 0.0.0.0 otecmir.mytrustedvalue.su
 0.0.0.0 oukewyqqa.magicwebpro.ru
@@ -4651,9 +4677,9 @@
 0.0.0.0 pvrgeypwi.storeplusa.su
 0.0.0.0 pyaveqfhb.trygroupa.su
 0.0.0.0 pzaoasaeca.clubactivitya.su
-0.0.0.0 qaxceuxnn.geotopa.su
 0.0.0.0 qbebd.webtradeclub.su
 0.0.0.0 qceiefce.myfastassist.ru
+0.0.0.0 qizyygs.infobestu.su
 0.0.0.0 qmevatietu.bestrealcorp.ru
 0.0.0.0 qmflevitrathd.com
 0.0.0.0 qo.orderweby.su
@@ -4680,6 +4706,7 @@
 0.0.0.0 quickworkrx.ru
 0.0.0.0 quickworld123.ru
 0.0.0.0 quierestarjetas.com
+0.0.0.0 qvuifkiciie.shoppriceu.su
 0.0.0.0 qyg.targetyweb.su
 0.0.0.0 qyno.saveworkmart123.ru
 0.0.0.0 qywhicyq.mybestonlinea.su
@@ -5028,6 +5055,9 @@
 0.0.0.0 shopmedssavemoney.com
 0.0.0.0 shopnorxmed.com
 0.0.0.0 shoppharm.com
+0.0.0.0 shoppriceu.su
+0.0.0.0 shoppricev.su
+0.0.0.0 shoppricew.su
 0.0.0.0 shoprxmed.com
 0.0.0.0 shoptopbuy.ru
 0.0.0.0 shopwithneededmeds.com
@@ -5180,6 +5210,9 @@
 0.0.0.0 super-pills-online.org
 0.0.0.0 superbestweb.ru
 0.0.0.0 superbgenerics.com
+0.0.0.0 superbrandx.su
+0.0.0.0 superbrandy.su
+0.0.0.0 superbrandz.su
 0.0.0.0 superior-medconsult.com
 0.0.0.0 superiormedconsult.com
 0.0.0.0 superiormedconsulting.com
@@ -5234,6 +5267,9 @@
 0.0.0.0 svenskapiller.net
 0.0.0.0 svenskapiller.se
 0.0.0.0 sweetpricetop.ru
+0.0.0.0 sweetprises.su
+0.0.0.0 sweetpriset.su
+0.0.0.0 sweetpriseu.su
 0.0.0.0 sydeleartha.su
 0.0.0.0 synthroidbuy.info
 0.0.0.0 tabdelivery.com
@@ -5427,7 +5463,6 @@
 0.0.0.0 trainingassetcompany.com
 0.0.0.0 tramadol50.com
 0.0.0.0 transyesnostress.paczkowska.com
-0.0.0.0 traveljunkies.xyz
 0.0.0.0 trazodone25mg.pw
 0.0.0.0 trennapearla.su
 0.0.0.0 tressamarge.ru
@@ -6107,6 +6142,7 @@
 0.0.0.0 www.activerxcenter.ru
 0.0.0.0 www.activeshopl.su
 0.0.0.0 www.activeshopm.su
+0.0.0.0 www.activityportald.su
 0.0.0.0 www.activnetmart123.ru
 0.0.0.0 www.actualpills.com
 0.0.0.0 www.ada.salehousetop.su
@@ -6540,6 +6576,7 @@
 0.0.0.0 www.brandielinea.be
 0.0.0.0 www.brandnewlive.ru
 0.0.0.0 www.brandportal.su
+0.0.0.0 www.brandstoreu.su
 0.0.0.0 www.brandviagraonline.ru
 0.0.0.0 www.brandygisella.ru
 0.0.0.0 www.brasnoxs.com.br
@@ -6629,6 +6666,8 @@
 0.0.0.0 www.buydrugsonline.net
 0.0.0.0 www.buydrugsorderonline.com
 0.0.0.0 www.buydrugsorderonline24.com
+0.0.0.0 www.buyexperta.su
+0.0.0.0 www.buyexpertb.su
 0.0.0.0 www.buygabapentinnopresctiption.ru
 0.0.0.0 www.buygenericcialisonlines.com
 0.0.0.0 www.buygenerictabs.net
@@ -7338,6 +7377,7 @@
 0.0.0.0 www.cissykelcie.ru
 0.0.0.0 www.citonet.cl
 0.0.0.0 www.cj-solutions.dk
+0.0.0.0 www.cjaluuaroli.shoppricew.su
 0.0.0.0 www.clarabellemelinde.su
 0.0.0.0 www.clarissenanice.com
 0.0.0.0 www.classbrain.net
@@ -7496,6 +7536,7 @@
 0.0.0.0 www.debbiehephzibah.be
 0.0.0.0 www.debbiethea.ru
 0.0.0.0 www.deborahflori.ru
+0.0.0.0 www.deliveryinfos.su
 0.0.0.0 www.deliverylife.ru
 0.0.0.0 www.deltabeneficios.com.br
 0.0.0.0 www.deltasone.ws
@@ -8184,6 +8225,9 @@
 0.0.0.0 www.getbest.su
 0.0.0.0 www.getnaltrexone.com
 0.0.0.0 www.getnetworkx724.ru
+0.0.0.0 www.getpricea.su
+0.0.0.0 www.getpriceb.su
+0.0.0.0 www.getpricec.su
 0.0.0.0 www.getroman.com
 0.0.0.0 www.getrxbest724.ru
 0.0.0.0 www.ggtree.xn--80aglaiio2ee.xn--p1ai
@@ -8276,9 +8320,14 @@
 0.0.0.0 www.grandsupply.su
 0.0.0.0 www.grantpharmacy.com
 0.0.0.0 www.graziakevina.ru
+0.0.0.0 www.greatdiscounts.su
+0.0.0.0 www.greatdiscountt.su
+0.0.0.0 www.greatdiscountu.su
 0.0.0.0 www.greatestpharmacy.com
 0.0.0.0 www.greatnewcenter.ru
 0.0.0.0 www.greatsale.su
+0.0.0.0 www.greatsaleq.su
+0.0.0.0 www.greatsaler.su
 0.0.0.0 www.greatshopnet.com
 0.0.0.0 www.greatvipfinder123.ru
 0.0.0.0 www.greatvipmart335.ru
@@ -8456,6 +8505,7 @@
 0.0.0.0 www.humanhealth.biz
 0.0.0.0 www.huntleyvoice.com
 0.0.0.0 www.hvootdodow.focusyweb.su
+0.0.0.0 www.hxabpritaw.mytopcluby.su
 0.0.0.0 www.hyywidutin.topfortunem.su
 0.0.0.0 www.i365pills.com
 0.0.0.0 www.iacbaeema.onlinepricex.su
@@ -8495,6 +8545,8 @@
 0.0.0.0 www.ineszitadorey.ru
 0.0.0.0 www.inf.xn--f1afqzrjtrp.xn--p1ai
 0.0.0.0 www.infinitytravelbenefits.com
+0.0.0.0 www.infobestu.su
+0.0.0.0 www.infobestv.su
 0.0.0.0 www.infosalex.su
 0.0.0.0 www.infosimplyx.su
 0.0.0.0 www.infosimplyy.su
@@ -8790,6 +8842,7 @@
 0.0.0.0 www.lexaproaustralia.com
 0.0.0.0 www.lexaproonlinewithoutaprescription.ru
 0.0.0.0 www.lgtqnuyci.trygroupc.su
+0.0.0.0 www.lhegf.infobestu.su
 0.0.0.0 www.lianejordana.ru
 0.0.0.0 www.lianshanda.be
 0.0.0.0 www.life-order.su
@@ -9261,6 +9314,9 @@
 0.0.0.0 www.mybestrxstore.net
 0.0.0.0 www.mybestsaleg.su
 0.0.0.0 www.mybestsalej.su
+0.0.0.0 www.mybrandg.su
+0.0.0.0 www.mybrandh.su
+0.0.0.0 www.mybrandi.su
 0.0.0.0 www.mycanadarx.com
 0.0.0.0 www.mycanadian-pharmacy.com
 0.0.0.0 www.mycanadianhealthcaremall.com
@@ -9319,6 +9375,9 @@
 0.0.0.0 www.mysimplylife.su
 0.0.0.0 www.mysmartelement.ru
 0.0.0.0 www.mytabletservices.ru
+0.0.0.0 www.mytopclubx.su
+0.0.0.0 www.mytopcluby.su
+0.0.0.0 www.mytopclubz.su
 0.0.0.0 www.mytradeclub.su
 0.0.0.0 www.mytrustedmart.ru
 0.0.0.0 www.mytrustedmeds.com
@@ -9707,6 +9766,7 @@
 0.0.0.0 www.oribiwauku.bestrealcorp.ru
 0.0.0.0 www.orsolajoellen.ru
 0.0.0.0 www.orvz.ru
+0.0.0.0 www.osaagobi.infobestu.su
 0.0.0.0 www.ostaapillerihinta.org
 0.0.0.0 www.oukewyqqa.magicwebpro.ru
 0.0.0.0 www.our123start.ru
@@ -10013,6 +10073,7 @@
 0.0.0.0 www.pzaoasaeca.clubactivitya.su
 0.0.0.0 www.qaxceuxnn.geotopa.su
 0.0.0.0 www.qceiefce.myfastassist.ru
+0.0.0.0 www.qizyygs.infobestu.su
 0.0.0.0 www.qmevatietu.bestrealcorp.ru
 0.0.0.0 www.qmflevitrathd.com
 0.0.0.0 www.qo.orderweby.su
@@ -10037,6 +10098,7 @@
 0.0.0.0 www.quickworkexpert724.ru
 0.0.0.0 www.quickworkrx.ru
 0.0.0.0 www.quickworld123.ru
+0.0.0.0 www.qvuifkiciie.shoppriceu.su
 0.0.0.0 www.qyg.targetyweb.su
 0.0.0.0 www.qyxreugh.getrestinfom.su
 0.0.0.0 www.rachelseline.ru
@@ -10349,6 +10411,9 @@
 0.0.0.0 www.shopmedssavemoney.com
 0.0.0.0 www.shopnorxmed.com
 0.0.0.0 www.shoppharm.com
+0.0.0.0 www.shoppriceu.su
+0.0.0.0 www.shoppricev.su
+0.0.0.0 www.shoppricew.su
 0.0.0.0 www.shoprxmed.com
 0.0.0.0 www.shoptopbuy.ru
 0.0.0.0 www.shopwithneededmeds.com
@@ -10487,6 +10552,9 @@
 0.0.0.0 www.super-pills-online.org
 0.0.0.0 www.superbestweb.ru
 0.0.0.0 www.superbgenerics.com
+0.0.0.0 www.superbrandx.su
+0.0.0.0 www.superbrandy.su
+0.0.0.0 www.superbrandz.su
 0.0.0.0 www.superior-medconsult.com
 0.0.0.0 www.superiormedconsult.com
 0.0.0.0 www.superiormedconsulting.com
@@ -10538,6 +10606,9 @@
 0.0.0.0 www.svenskapiller.net
 0.0.0.0 www.svenskapiller.se
 0.0.0.0 www.sweetpricetop.ru
+0.0.0.0 www.sweetprises.su
+0.0.0.0 www.sweetpriset.su
+0.0.0.0 www.sweetpriseu.su
 0.0.0.0 www.sydeleartha.su
 0.0.0.0 www.synthroidbuy.info
 0.0.0.0 www.tabdelivery.com
@@ -11406,6 +11477,7 @@
 0.0.0.0 www.xrzx.com
 0.0.0.0 www.xssokwedoa.fastcluby.su
 0.0.0.0 www.xuhylsib.ru
+0.0.0.0 www.xxeukniays.infobestu.su
 0.0.0.0 www.xxikjvn.rxmartdeals.ru
 0.0.0.0 www.xyibj82rk2.forumcircle.com
 0.0.0.0 www.xyliagilberta.su
@@ -11663,6 +11735,7 @@
 0.0.0.0 xqeigzaym.hotinfok.su
 0.0.0.0 xssokwedoa.fastcluby.su
 0.0.0.0 xwyuqosuka.clubsalep.su
+0.0.0.0 xxeukniays.infobestu.su
 0.0.0.0 xyibj82rk2.forumcircle.com
 0.0.0.0 xyliagilberta.su
 0.0.0.0 yalondarahel.ru
@@ -11743,8 +11816,8 @@
 
 # Hosts - hosts-file.net-pha
 # Source - https://hosts-file.net/pha.txt
-# Generated - 27.07.2018
+# Generated - 02.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 11742
+# Total Domains: 11815
 # License: MIT
 

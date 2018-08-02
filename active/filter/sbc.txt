@@ -167,7 +167,6 @@
 0.0.0.0 analytics.bitrix.info
 0.0.0.0 analytics.cloudron.io
 0.0.0.0 analytics.colacoweb.net
-0.0.0.0 analytics.digit.in
 0.0.0.0 analytics.ero-advertising.com
 0.0.0.0 analytics.htmedia.in
 0.0.0.0 analytics.icons8.com
@@ -403,6 +402,7 @@
 0.0.0.0 goodblock.gladly.io
 0.0.0.0 grandonmedia.com
 0.0.0.0 graph.accountkit.com
+0.0.0.0 greatmacsoft.tech
 0.0.0.0 gtsdk.batmobi.net
 0.0.0.0 gum.criteo.com
 0.0.0.0 gurgle.zdbb.net
@@ -413,6 +413,7 @@
 0.0.0.0 hosted.stats.com.edgesuite.net
 0.0.0.0 hotstar.pubnub.net
 0.0.0.0 hotstar.worldgravity.com
+0.0.0.0 hrtya.com
 0.0.0.0 i1.dl-ad.com
 0.0.0.0 ibeat.indiatimes.com
 0.0.0.0 idspaces.ero-advertising.com
@@ -773,8 +774,8 @@
 
 # Hosts - sbc
 # Source - https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts
-# Generated - 27.07.2018
+# Generated - 02.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 772
+# Total Domains: 773
 # License: MIT
 

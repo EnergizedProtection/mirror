@@ -285,6 +285,7 @@
 0.0.0.0 baynote.net
 0.0.0.0 bdash-cloud.com
 0.0.0.0 beacon.kmi-us.com
+0.0.0.0 beampulse.com
 0.0.0.0 beanstalkdata.com
 0.0.0.0 beanstock.com
 0.0.0.0 bebj.com
@@ -673,7 +674,6 @@
 0.0.0.0 distralytics.com
 0.0.0.0 districtm.io
 0.0.0.0 djers.com
-0.0.0.0 dle-news.pw
 0.0.0.0 dmanalytics1.com
 0.0.0.0 dmclick.cn
 0.0.0.0 dmd53.com
@@ -913,7 +913,6 @@
 0.0.0.0 fyreball.com
 0.0.0.0 g-content.bid
 0.0.0.0 gammachug.com
-0.0.0.0 gasolina.ml
 0.0.0.0 gaug.es
 0.0.0.0 gay-hotvideo.net
 0.0.0.0 gbotvisit.com
@@ -1062,6 +1061,7 @@
 0.0.0.0 i-stats.com
 0.0.0.0 i401xox.com
 0.0.0.0 iadvize.com
+0.0.0.0 iaudienc.com
 0.0.0.0 ib-ibi.com
 0.0.0.0 ibpxl.com
 0.0.0.0 ibpxl.net
@@ -1118,7 +1118,6 @@
 0.0.0.0 inspectlet.com
 0.0.0.0 instadia.net
 0.0.0.0 instana.io
-0.0.0.0 instapage.com
 0.0.0.0 instore.biz
 0.0.0.0 integritystat.com
 0.0.0.0 intelimet.com
@@ -1319,6 +1318,8 @@
 0.0.0.0 market2lead.com
 0.0.0.0 marketizator.com
 0.0.0.0 marketo.net
+0.0.0.0 marketshot.com
+0.0.0.0 marketshot.fr
 0.0.0.0 markitondemand.com
 0.0.0.0 masterstats.com
 0.0.0.0 matheranalytics.com
@@ -1353,7 +1354,6 @@
 0.0.0.0 mepirtedic.com
 0.0.0.0 mercadoclics.com
 0.0.0.0 mercent.com
-0.0.0.0 mercy.ga
 0.0.0.0 meteorsolutions.com
 0.0.0.0 metricsdirect.com
 0.0.0.0 meyersdalebixby.com
@@ -1547,7 +1547,6 @@
 0.0.0.0 ohmystats.com
 0.0.0.0 oidah.com
 0.0.0.0 ojrq.net
-0.0.0.0 okeyletsgo.ml
 0.0.0.0 okt.to
 0.0.0.0 oktopost.com
 0.0.0.0 omarsys.com
@@ -1672,7 +1671,6 @@
 0.0.0.0 podrltid.info
 0.0.0.0 pointomatic.com
 0.0.0.0 pool.etn.spacepools.org
-0.0.0.0 pool.hws.ru
 0.0.0.0 poolmining.eu
 0.0.0.0 poolmining.net
 0.0.0.0 popt.in
@@ -2002,6 +2000,7 @@
 0.0.0.0 spectate.com
 0.0.0.0 speed-trap.com
 0.0.0.0 speedcurve.com
+0.0.0.0 spiffymachine.com
 0.0.0.0 spklw.com
 0.0.0.0 splittag.com
 0.0.0.0 splurgi.com
@@ -2076,7 +2075,6 @@
 0.0.0.0 strossle.it
 0.0.0.0 strs.jp
 0.0.0.0 sub2tech.com
-0.0.0.0 subloader.cf
 0.0.0.0 submitnet.net
 0.0.0.0 subtraxion.com
 0.0.0.0 successfultogether.co.uk
@@ -2513,8 +2511,8 @@
 
 # Hosts - easyprivacy-tracking-servers
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easyprivacy-tracking-servers.txt
-# Generated - 27.07.2018
+# Generated - 02.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 2512
+# Total Domains: 2510
 # License: MIT
 

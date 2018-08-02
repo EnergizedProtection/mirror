@@ -128,7 +128,6 @@
 0.0.0.0 adwcleaner.telecharger.toggle.com
 0.0.0.0 adweb1.hornymatches.com
 0.0.0.0 adwpro.adwareprof.hop.clickbank.net
-0.0.0.0 afa15.com.ne.kr
 0.0.0.0 aff.naughtyconnect.com
 0.0.0.0 aff.ringtonepartner.com
 0.0.0.0 aff.tagcdn.com
@@ -825,7 +824,6 @@
 0.0.0.0 inlinea.co.uk
 0.0.0.0 innatek.com
 0.0.0.0 inndl.com
-0.0.0.0 installm.net
 0.0.0.0 instorm.com
 0.0.0.0 intera-x.com
 0.0.0.0 interia-ek.ru
@@ -1253,7 +1251,6 @@
 0.0.0.0 r.zeroredirect.com
 0.0.0.0 r2m.hopto.org
 0.0.0.0 r2prod.com
-0.0.0.0 rahulthehacker.tk
 0.0.0.0 rapsubs.popunder.ru
 0.0.0.0 rar-password-cracker.softonic.fr
 0.0.0.0 raskrutka.ucoz.com
@@ -1309,7 +1306,6 @@
 0.0.0.0 root--servers.org
 0.0.0.0 rowanmclean.com
 0.0.0.0 rpc.ant.com
-0.0.0.0 rq.adtrackdirect.com
 0.0.0.0 rsc.scmspain.com
 0.0.0.0 rubanners.com
 0.0.0.0 rubiks.ca
@@ -1467,7 +1463,6 @@
 0.0.0.0 smc.silvercash.com
 0.0.0.0 smithwick.net
 0.0.0.0 sneakyboy.com
-0.0.0.0 socialme.tk
 0.0.0.0 socpixel.bidsystem.com
 0.0.0.0 soft4update.forfreeupgrades.org
 0.0.0.0 software-phile.com
@@ -1638,7 +1633,6 @@
 0.0.0.0 trustsoft.com
 0.0.0.0 trvelocity.com
 0.0.0.0 trx625.com
-0.0.0.0 ttt.fwq101.tk
 0.0.0.0 tttbbbttt.zapto.org
 0.0.0.0 tube.exclusiotv.be
 0.0.0.0 tube8vidscjk.ddns.name
@@ -1835,7 +1829,6 @@
 0.0.0.0 www.adtiger.de
 0.0.0.0 www.advancedcleaner.com
 0.0.0.0 www.advancedmactools.com
-0.0.0.0 www.advancedsoftwaresupport.com
 0.0.0.0 www.aeronautica.gob.pa
 0.0.0.0 www.aerreravasi.com
 0.0.0.0 www.affiliatefuture.co.uk
@@ -2175,7 +2168,6 @@
 0.0.0.0 www.gowin7.com
 0.0.0.0 www.grabfile.co
 0.0.0.0 www.gratisweb.com
-0.0.0.0 www.grendizer.biz
 0.0.0.0 www.guaranty.com.cn
 0.0.0.0 www.gulf-industrial.com
 0.0.0.0 www.gvc.vn
@@ -2221,14 +2213,12 @@
 0.0.0.0 www.infra.by
 0.0.0.0 www.innatek.com
 0.0.0.0 www.instorm.com
-0.0.0.0 www.intera-x.com
 0.0.0.0 www.interia-ek.ru
 0.0.0.0 www.internethistorycleaner.ws
 0.0.0.0 www.isettatech.com
 0.0.0.0 www.islamipedia.org
 0.0.0.0 www.isuzi.com
 0.0.0.0 www.itunesdownloadstore.com
-0.0.0.0 www.iybasketball.info
 0.0.0.0 www.iyfnzgb.com
 0.0.0.0 www.japanesevehicles.us
 0.0.0.0 www.japanmadchen.com
@@ -2370,10 +2360,8 @@
 0.0.0.0 www.newclick.com
 0.0.0.0 www.neweed.org
 0.0.0.0 www.neyscape.com
-0.0.0.0 www.nkgamers.com
 0.0.0.0 www.nmapquest.com
 0.0.0.0 www.notrecommended.co.uk
-0.0.0.0 www.nowgifttown.com
 0.0.0.0 www.nsrecord.org
 0.0.0.0 www.ntkrnlpa.info
 0.0.0.0 www.obyz.de
@@ -2433,7 +2421,6 @@
 0.0.0.0 www.pillsmoney.com
 0.0.0.0 www.plarium.com
 0.0.0.0 www.playerassist.com
-0.0.0.0 www.playersaid.com
 0.0.0.0 www.playgril.com
 0.0.0.0 www.playsataion.com
 0.0.0.0 www.playstatation.com
@@ -2474,7 +2461,6 @@
 0.0.0.0 www.redirectingat.com
 0.0.0.0 www.redirectme.net
 0.0.0.0 www.reducelnk.com
-0.0.0.0 www.regdefense.com
 0.0.0.0 www.registry-clean-up.net
 0.0.0.0 www.registry-cleaner.net
 0.0.0.0 www.registry-cleaners-compared.com
@@ -2620,7 +2606,6 @@
 0.0.0.0 www.toon-families.com
 0.0.0.0 www.toondinsey.com
 0.0.0.0 www.toonfamilies.net
-0.0.0.0 www.top10registrycleaners.com
 0.0.0.0 www.topqualitylink.com
 0.0.0.0 www.torgi.kz
 0.0.0.0 www.toroadvertisingmedia.com
@@ -2764,7 +2749,6 @@
 0.0.0.0 www.xchangetrak.com
 0.0.0.0 www.xclicks.net
 0.0.0.0 www.xed.pl
-0.0.0.0 www.xpop.co
 0.0.0.0 www.xsedu.zj.cn
 0.0.0.0 www.xtrafic.ro
 0.0.0.0 www.xvika.net
@@ -2855,7 +2839,6 @@
 0.0.0.0 xml.adventurefeeds.com
 0.0.0.0 xml.onwardclick.com
 0.0.0.0 xml.revenuehits.com
-0.0.0.0 xpop.co
 0.0.0.0 xpornstarsckc.ddns.name
 0.0.0.0 xporontube.tripod.com
 0.0.0.0 xtrafic.ro
@@ -2872,7 +2855,6 @@
 0.0.0.0 ychan.drivershq.hop.clickbank.net
 0.0.0.0 ycv.clearshieldredirect.com
 0.0.0.0 yitkomfj.angelcities.com
-0.0.0.0 yk.handlerhackz.tk
 0.0.0.0 ylgingq.angelcities.com
 0.0.0.0 ymxpb.com
 0.0.0.0 youtuhe.com
@@ -2932,8 +2914,8 @@
 
 # Hosts - fademind-add.risk
 # Source - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
-# Generated - 27.07.2018
+# Generated - 02.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 2931
+# Total Domains: 2913
 # License: MIT
 

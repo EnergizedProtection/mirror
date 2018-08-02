@@ -154,7 +154,6 @@
 0.0.0.0 campartner.com
 0.0.0.0 camplacecash.com
 0.0.0.0 camprime.com
-0.0.0.0 campromos.nl
 0.0.0.0 camsense.com
 0.0.0.0 camsitecash.com
 0.0.0.0 camzap.com
@@ -762,7 +761,6 @@
 0.0.0.0 xoliter.com
 0.0.0.0 xpctraffic.com
 0.0.0.0 xpollo.com
-0.0.0.0 xpop.co
 0.0.0.0 xsrs.com
 0.0.0.0 xxltr.com
 0.0.0.0 xxxadv.com
@@ -794,8 +792,8 @@
 
 # Hosts - easylist-adult-adservers
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easylist-adult-adservers.txt
-# Generated - 27.07.2018
+# Generated - 02.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 793
+# Total Domains: 791
 # License: MIT
 

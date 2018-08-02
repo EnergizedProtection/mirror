@@ -14,7 +14,6 @@
 0.0.0.0 thesunonsunday.co.uk
 0.0.0.0 thesunonsunday.com
 0.0.0.0 toolbar.wibiya.com
-0.0.0.0 www.analytic-google.com
 0.0.0.0 www.avast-downloads.com
 0.0.0.0 www.europcareer.com
 0.0.0.0 www.get-avast.com
@@ -26,8 +25,8 @@
 
 # Hosts - fademind-add.dead
 # Source - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Dead/hosts
-# Generated - 27.07.2018
+# Generated - 02.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 25
+# Total Domains: 24
 # License: MIT
 

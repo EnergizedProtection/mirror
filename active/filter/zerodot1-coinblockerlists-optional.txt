@@ -52,7 +52,6 @@
 0.0.0.0 basicdemo.emercoin.com
 0.0.0.0 bch-bitcore2.trezor.io
 0.0.0.0 beta-wallet.trezor.io
-0.0.0.0 beta.bitfinex.com
 0.0.0.0 bfgminer.org
 0.0.0.0 binance.com
 0.0.0.0 bit.cur.lv
@@ -70,7 +69,6 @@
 0.0.0.0 btc-bitcore3.trezor.io
 0.0.0.0 btc.a-ads.com
 0.0.0.0 cdn.inwemo.com
-0.0.0.0 cdn1.cryptopia.co.nz
 0.0.0.0 cdn2.inwemo.com
 0.0.0.0 chainradar.com
 0.0.0.0 changelly.com
@@ -175,7 +173,6 @@
 0.0.0.0 mail2.awesomeminer.com
 0.0.0.0 me.cur.lv
 0.0.0.0 mellowads.com
-0.0.0.0 minecraft.cryptopia.co.nz
 0.0.0.0 minerboard.com
 0.0.0.0 mineshop.eu
 0.0.0.0 mining-rig.de
@@ -192,9 +189,6 @@
 0.0.0.0 n.cur.lv
 0.0.0.0 name.cur.lv
 0.0.0.0 node.jwallet.network
-0.0.0.0 nodes1.cryptopia.co.nz
-0.0.0.0 nodes2.cryptopia.co.nz
-0.0.0.0 nostalgia.bitfinex.com
 0.0.0.0 ns2.a-ads.com
 0.0.0.0 old-wallet.trezor.io
 0.0.0.0 old.coinad.com
@@ -206,7 +200,6 @@
 0.0.0.0 pool.emercoin.com
 0.0.0.0 pool2.emercoin.com
 0.0.0.0 pools1.cryptopia.co.nz
-0.0.0.0 pools2.cryptopia.co.nz
 0.0.0.0 pop3.awesomeminer.com
 0.0.0.0 preorder.trezor.io
 0.0.0.0 pricing.jaxx.io
@@ -260,7 +253,6 @@
 0.0.0.0 wiki.emercoin.com
 0.0.0.0 wiki.evergreencoin.org
 0.0.0.0 wiki.trezor.io
-0.0.0.0 ws.bitfinex.com
 0.0.0.0 ws.ledgerwallet.com
 0.0.0.0 wss.bithumb.com
 0.0.0.0 www.1safe.link
@@ -379,8 +371,8 @@
 
 # Hosts - zerodot1-coinblockerlists-optional
 # Source - https://zerodot1.gitlab.io/CoinBlockerLists/hosts_optional
-# Generated - 27.07.2018
+# Generated - 02.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 378
+# Total Domains: 370
 # License: MIT
 

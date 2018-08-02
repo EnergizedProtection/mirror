@@ -60,6 +60,7 @@
 0.0.0.0 888andro.net
 0.0.0.0 8dollar.su
 0.0.0.0 999andro.net
+0.0.0.0 9odzilla.xyz
 0.0.0.0 9x4s3scfhj3h.to
 0.0.0.0 a-work.info
 0.0.0.0 a0173461.xsph.ru
@@ -522,6 +523,7 @@
 0.0.0.0 bigtoys.pw
 0.0.0.0 bijnortimes.com
 0.0.0.0 bilgenart.com
+0.0.0.0 bill.gopetrom.com
 0.0.0.0 billar.tk
 0.0.0.0 bilzersefunbikers.be
 0.0.0.0 binancesupport.com
@@ -634,6 +636,7 @@
 0.0.0.0 broncobearings.co.za
 0.0.0.0 browntor.trade
 0.0.0.0 brunvoll.co
+0.0.0.0 bsfwsservices.co.uk
 0.0.0.0 bstorepro.com
 0.0.0.0 btcbuying.ml
 0.0.0.0 btckomok.name
@@ -824,7 +827,6 @@
 0.0.0.0 coc.zz.vc
 0.0.0.0 cochranejobs.com
 0.0.0.0 coco.3chp.tk
-0.0.0.0 codedforwardings.halimofset.com.tr
 0.0.0.0 codespirit.linkpc.net
 0.0.0.0 cofancio.com
 0.0.0.0 coinbitbot.ru
@@ -1017,6 +1019,7 @@
 0.0.0.0 derder.net46.net
 0.0.0.0 dereksing.top
 0.0.0.0 derkziel.comoj.com
+0.0.0.0 deror.cf
 0.0.0.0 desconsinc.tk
 0.0.0.0 descubretuser.com
 0.0.0.0 design.intcomsync.com
@@ -1121,7 +1124,6 @@
 0.0.0.0 dpjagan.com
 0.0.0.0 dramaturgia.art.br
 0.0.0.0 dreamtropical.altervista.org
-0.0.0.0 dreyxat.com
 0.0.0.0 drf34n8h-001-site1.htempurl.com
 0.0.0.0 drgooddeal.com
 0.0.0.0 drillbyte.net
@@ -1219,7 +1221,6 @@
 0.0.0.0 emintechoilfield.com
 0.0.0.0 emioannina.gr
 0.0.0.0 emiretas.com
-0.0.0.0 emma.masterworkloki.ga
 0.0.0.0 empireacoustical.com
 0.0.0.0 empressbridge.com
 0.0.0.0 enclassicals.com
@@ -2122,6 +2123,7 @@
 0.0.0.0 labibread.info
 0.0.0.0 laboosti.com
 0.0.0.0 lacabnk.com
+0.0.0.0 lacasonadelcartero.cl
 0.0.0.0 ladesignremodeling.com
 0.0.0.0 ladylee.pw
 0.0.0.0 laerskoolkameelfontein.co.za
@@ -2179,7 +2181,6 @@
 0.0.0.0 legalpropiedad.cl
 0.0.0.0 legalson.com
 0.0.0.0 legionbengal.com
-0.0.0.0 lekkihunterz2.xyz
 0.0.0.0 lelllnn.com
 0.0.0.0 lematini.usa.cc
 0.0.0.0 lembe.flu.cc
@@ -2201,6 +2202,7 @@
 0.0.0.0 li539-248.members.linode.com
 0.0.0.0 librairiesapio.be
 0.0.0.0 lidgeys.ru
+0.0.0.0 life-is-beautiful.in
 0.0.0.0 lifeshowme.com
 0.0.0.0 liftdug.ga
 0.0.0.0 liftupmyhead.biz
@@ -2985,6 +2987,7 @@
 0.0.0.0 preutainer.ml
 0.0.0.0 priceupdate.pw
 0.0.0.0 prideofdurban.co.za
+0.0.0.0 primausaha.net
 0.0.0.0 prime-internatoinal.in
 0.0.0.0 primeline-lb.top
 0.0.0.0 prince.comxa.com
@@ -3276,6 +3279,7 @@
 0.0.0.0 serverjainpangwang.pw
 0.0.0.0 service-advise.com
 0.0.0.0 service-checker.store
+0.0.0.0 service-us.ml
 0.0.0.0 serviceinfo.se.funpic.de
 0.0.0.0 servicioylogistica.com
 0.0.0.0 servioficina.es
@@ -3417,7 +3421,6 @@
 0.0.0.0 sp0k3rytofficialsite.altervista.org
 0.0.0.0 spamb0x.net
 0.0.0.0 sparge-parole.hi2.ro
-0.0.0.0 sparrow-cap-manufacturer.com
 0.0.0.0 sparrowwilla.biz
 0.0.0.0 specificrandomness.com
 0.0.0.0 spectracity.com
@@ -4091,6 +4094,7 @@
 0.0.0.0 www.222andro.net
 0.0.0.0 www.2bw12aba1d2d.com
 0.0.0.0 www.2hyperteks.net
+0.0.0.0 www.365-team.org
 0.0.0.0 www.4121.tv
 0.0.0.0 www.500web.gr
 0.0.0.0 www.8777vjilrelz0sx7fc1ppzdh0nzoa15ilj8kuk4f.gq
@@ -4372,14 +4376,12 @@
 0.0.0.0 www.imagewearcw.com
 0.0.0.0 www.imeco-tr.com
 0.0.0.0 www.imobiliariafelippe.com.br
-0.0.0.0 www.impm.upel.edu.ve
 0.0.0.0 www.inflazz.com
 0.0.0.0 www.infoiarna.org.gt
 0.0.0.0 www.infomec.es
 0.0.0.0 www.informaticamantur.es
 0.0.0.0 www.innovation-insights.com
 0.0.0.0 www.ipb.upel.edu.ve
-0.0.0.0 www.ipm.upel.edu.ve
 0.0.0.0 www.ipstresser.com
 0.0.0.0 www.irm-my.com
 0.0.0.0 www.istanbulnakliyecileri.com
@@ -4909,8 +4911,8 @@
 
 # Hosts - cybercrime
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/cybercrime.txt
-# Generated - 27.07.2018
+# Generated - 02.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 4908
+# Total Domains: 4910
 # License: MIT
 

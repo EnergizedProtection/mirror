@@ -235,7 +235,6 @@
 0.0.0.0 ads.vntsm.com
 0.0.0.0 ads.xlxtra.com
 0.0.0.0 ads.yahoo.com
-0.0.0.0 ads.yemonisoni.com
 0.0.0.0 ads.youtube.com
 0.0.0.0 ads1-adnow.com
 0.0.0.0 ads1.msads.net
@@ -375,7 +374,6 @@
 0.0.0.0 analytics.any.do
 0.0.0.0 analytics.cloudron.io
 0.0.0.0 analytics.colacoweb.net
-0.0.0.0 analytics.digit.in
 0.0.0.0 analytics.ff.avast.com
 0.0.0.0 analytics.jabong.com
 0.0.0.0 analytics.liftoff.io
@@ -547,6 +545,7 @@
 0.0.0.0 b.cpiera.com
 0.0.0.0 b.dlx.addthis.com
 0.0.0.0 b.scorecardresearch.com
+0.0.0.0 baconaces.pro
 0.0.0.0 bam.nr-data.net
 0.0.0.0 bannerflow.com
 0.0.0.0 banners-slb.mobile.yandex.net
@@ -933,6 +932,7 @@
 0.0.0.0 ebz.io
 0.0.0.0 ec.atdmt.com
 0.0.0.0 ec2-13-127-188-209.ap-south-1.compute.amazonaws.com
+0.0.0.0 ecdoz.club
 0.0.0.0 ecommerce.roboinside.me
 0.0.0.0 ecpmrocks.com
 0.0.0.0 edge.addthis.com
@@ -968,6 +968,7 @@
 0.0.0.0 event.allnews.uodoo.com
 0.0.0.0 event.ksosoft.com
 0.0.0.0 events.appsflyer.com
+0.0.0.0 events.browsiprod.com
 0.0.0.0 events.lbesecapi.com
 0.0.0.0 events.redditmedia.com
 0.0.0.0 events.startappservice.com
@@ -1168,6 +1169,7 @@
 0.0.0.0 icvdm.vo.llnwd.net
 0.0.0.0 id.google.de
 0.0.0.0 id1.cn
+0.0.0.0 identact-anneyond.com
 0.0.0.0 ie8eamus.com
 0.0.0.0 image-gj.9game.com
 0.0.0.0 image.box.xiaomi.com
@@ -1353,6 +1355,7 @@
 0.0.0.0 mads.at.atwola.com
 0.0.0.0 mads.bz
 0.0.0.0 mainadv.com
+0.0.0.0 malesignal.com
 0.0.0.0 malizing.info
 0.0.0.0 manage.com
 0.0.0.0 manifest.localytics.com
@@ -1536,6 +1539,7 @@
 0.0.0.0 npario-inc.net
 0.0.0.0 nr-data.net
 0.0.0.0 nrc.tapas.net
+0.0.0.0 nrcapi.ssl2.duapps.com
 0.0.0.0 ns.zdbb.net
 0.0.0.0 nufa-ad.com
 0.0.0.0 numbers.md
@@ -1956,6 +1960,7 @@
 0.0.0.0 t.appsflyer.com
 0.0.0.0 t.dlx.addthis.com
 0.0.0.0 t.newlimitedoffer.com
+0.0.0.0 t.tmdn2015x9.com
 0.0.0.0 t1.fruitadblock.net
 0.0.0.0 t3q7af0z.com
 0.0.0.0 taboola-d.openx.net
@@ -2013,6 +2018,7 @@
 0.0.0.0 tkrecorder.aotter.net
 0.0.0.0 tktracker.aotter.net
 0.0.0.0 tm1.hoiplay.com
+0.0.0.0 tmdn2015x9.com
 0.0.0.0 tmz.vo.llnwd.net
 0.0.0.0 tns.simba.taobao.com
 0.0.0.0 toexten.com
@@ -2036,6 +2042,7 @@
 0.0.0.0 track.tenjin.io
 0.0.0.0 track.uc.cn
 0.0.0.0 track.venatusmedia.com
+0.0.0.0 track.wadi.trade
 0.0.0.0 tracker-api.my.com
 0.0.0.0 tracker.adotmob.com
 0.0.0.0 trackersimulator.org
@@ -2098,6 +2105,7 @@
 0.0.0.0 unrestern.info
 0.0.0.0 uodoo.com
 0.0.0.0 upalytics.com
+0.0.0.0 update.estrongs.com
 0.0.0.0 upoll.umengcloud.com
 0.0.0.0 ups.ksmobile.net
 0.0.0.0 upsight-api.com
@@ -2199,7 +2207,6 @@
 0.0.0.0 www.addthis.com
 0.0.0.0 www.adplay-mobile.com
 0.0.0.0 www.alliance4media.com
-0.0.0.0 www.analytic-google.com
 0.0.0.0 www.asiadate.net
 0.0.0.0 www.asiandate.com
 0.0.0.0 www.bd-ads.com
@@ -2213,6 +2220,7 @@
 0.0.0.0 www.googleadservices.com
 0.0.0.0 www.googletagservices.com
 0.0.0.0 www.green-red.com
+0.0.0.0 www.gsjhehtqvin.com
 0.0.0.0 www.headlinecamp.com
 0.0.0.0 www.hibids10.com
 0.0.0.0 www.hitcpm.com
@@ -2318,8 +2326,8 @@
 
 # Hosts - ador-energized
 # Source - https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/EnergizedHosts/EnergizedHosts
-# Generated - 27.07.2018
+# Generated - 02.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 2317
+# Total Domains: 2325
 # License: MIT
 

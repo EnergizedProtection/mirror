@@ -66,6 +66,7 @@
 0.0.0.0 ar.umeng.com
 0.0.0.0 astat.bugly.qq.com
 0.0.0.0 auth.be.sec.miui.com
+0.0.0.0 batsavcdn.ksmobile.net
 0.0.0.0 beacon.carfax.com
 0.0.0.0 beacon.qq.com
 0.0.0.0 beacon.shazam.com
@@ -77,9 +78,11 @@
 0.0.0.0 cb.ksmobile.com
 0.0.0.0 cedexis-radar.net
 0.0.0.0 cedexis.com
+0.0.0.0 cfg.cml.ksmobile.com
 0.0.0.0 clientmetrics-augmentum.kik.com
 0.0.0.0 clientmetrics.kik.com
 0.0.0.0 clktrk.display.io
+0.0.0.0 cmplay.did.ijinshan.com
 0.0.0.0 collector-axa.cloud.ca.com
 0.0.0.0 collector.brandify.com
 0.0.0.0 config.safedk.com
@@ -114,6 +117,7 @@
 0.0.0.0 fraudmetrix.cn
 0.0.0.0 gate.hockeyapp.net
 0.0.0.0 gcm.ksmobile.com
+0.0.0.0 geoinfo.i2w.io
 0.0.0.0 geoip.fotoable.net
 0.0.0.0 geoip.ifunny.co
 0.0.0.0 geoplugin.net
@@ -217,6 +221,7 @@
 0.0.0.0 tapjoy.com
 0.0.0.0 tapjoy.net
 0.0.0.0 taurus.iad.appboy.com
+0.0.0.0 tealand.cmcm.com
 0.0.0.0 tknet.rayjump.com
 0.0.0.0 tkrecorder.aotter.net
 0.0.0.0 tktracker.aotter.net
@@ -230,6 +235,7 @@
 0.0.0.0 trackersimulator.org
 0.0.0.0 tracking-server-prod-1.zenmxapps.com
 0.0.0.0 tracking.directservices.it
+0.0.0.0 tracking.i2w.io
 0.0.0.0 tracking.intl.miui.com
 0.0.0.0 tracking.lenzmx.com
 0.0.0.0 tracking.miui.com
@@ -257,8 +263,8 @@
 
 # Hosts - adguard-mobile-spyware
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-mobile-spyware.txt
-# Generated - 27.07.2018
+# Generated - 02.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 256
+# Total Domains: 262
 # License: MIT
 

@@ -496,7 +496,7 @@
 
 # Hosts - hosts-file.net-grm
 # Source - https://hosts-file.net/grm.txt
-# Generated - 27.07.2018
+# Generated - 02.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 495
 # License: MIT

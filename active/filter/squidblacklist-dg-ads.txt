@@ -1,4 +1,5 @@
 0.0.0.0 0icep80f.com
+0.0.0.0 0pixl.com
 0.0.0.0 118-oew-181.mktoresp.com
 0.0.0.0 123date.me
 0.0.0.0 12place.com
@@ -43,7 +44,6 @@
 0.0.0.0 4uvjosuc.com
 0.0.0.0 4wnet.com
 0.0.0.0 50websads.com
-0.0.0.0 5advertise.com
 0.0.0.0 5gl1x9qc.com
 0.0.0.0 5thfinger.com
 0.0.0.0 600z.com
@@ -63,7 +63,6 @@
 0.0.0.0 97d73lsi.com
 0.0.0.0 980media.com
 0.0.0.0 99count.com
-0.0.0.0 9d63c80da.pw
 0.0.0.0 9ts3tpia.com
 0.0.0.0 a-ads.com
 0.0.0.0 a-counter.kiev.ua
@@ -163,7 +162,6 @@
 0.0.0.0 ad.cashdorado.de
 0.0.0.0 ad.centrum.cz
 0.0.0.0 ad.cgi.cz
-0.0.0.0 ad.choiceradio.com
 0.0.0.0 ad.clix.pt
 0.0.0.0 ad.cntrades.com
 0.0.0.0 ad.cooks.com
@@ -250,6 +248,7 @@
 0.0.0.0 ad1.emule-project.org
 0.0.0.0 ad1.kde.cz
 0.0.0.0 ad1.pamedia.com.au
+0.0.0.0 ad120m.com
 0.0.0.0 ad123m.com
 0.0.0.0 ad128m.com
 0.0.0.0 ad2.iinfo.cz
@@ -370,7 +369,6 @@
 0.0.0.0 adgoi.com
 0.0.0.0 adgorithms.com
 0.0.0.0 adgoto.com
-0.0.0.0 adgridwork.com
 0.0.0.0 adgroups.com
 0.0.0.0 adgroups.net
 0.0.0.0 adgrx.com
@@ -1059,6 +1057,7 @@
 0.0.0.0 adshot.de
 0.0.0.0 adsiduous.com
 0.0.0.0 adsignals.com
+0.0.0.0 adsimilis.com
 0.0.0.0 adsinimages.com
 0.0.0.0 adskeeper.co.uk
 0.0.0.0 adsklick.de
@@ -1756,7 +1755,6 @@
 0.0.0.0 cityads.telus.net
 0.0.0.0 cityadspix.com
 0.0.0.0 citygrid.com
-0.0.0.0 citysite.net
 0.0.0.0 cj.com
 0.0.0.0 cjlog.com
 0.0.0.0 ck.thrillbucks.com
@@ -1820,6 +1818,7 @@
 0.0.0.0 clickwinks.com
 0.0.0.0 clickxchange.com
 0.0.0.0 clickz.com
+0.0.0.0 clickzxc.com
 0.0.0.0 clicmanager.fr
 0.0.0.0 clixgalore.com
 0.0.0.0 clixsense.com
@@ -1830,6 +1829,7 @@
 0.0.0.0 cls.vrvm.com
 0.0.0.0 cluster.adultworld.com
 0.0.0.0 clustrmaps.com
+0.0.0.0 clz3.net
 0.0.0.0 cnomy.com
 0.0.0.0 cnt.my
 0.0.0.0 cnt.spbland.ru
@@ -1963,7 +1963,6 @@
 0.0.0.0 das5ku9q.com
 0.0.0.0 data-data-vac.com
 0.0.0.0 data.adroll.com
-0.0.0.0 datashreddergold.com
 0.0.0.0 datawrkz.com
 0.0.0.0 dataxu.com
 0.0.0.0 dating-banners.com
@@ -2429,7 +2428,6 @@
 0.0.0.0 ibryte.com
 0.0.0.0 icdirect.com
 0.0.0.0 icptrack.com
-0.0.0.0 idcounter.com
 0.0.0.0 idealmedia.com
 0.0.0.0 identads.com
 0.0.0.0 idot.cz
@@ -2449,7 +2447,6 @@
 0.0.0.0 imarketservices.com
 0.0.0.0 imatmobile.com
 0.0.0.0 imedia.co.il
-0.0.0.0 imediaaudiences.com
 0.0.0.0 imediarevenue.com
 0.0.0.0 img.prohardver.hu
 0.0.0.0 imgfeedget.com
@@ -2593,7 +2590,6 @@
 0.0.0.0 jumia.com.ng
 0.0.0.0 jursp.com
 0.0.0.0 justrelevant.com
-0.0.0.0 justwebads.com
 0.0.0.0 jzwjq.ads.tremorhub.com
 0.0.0.0 k.iinfo.cz
 0.0.0.0 k0z09okc.com
@@ -2638,7 +2634,6 @@
 0.0.0.0 large-format.net
 0.0.0.0 laserhairremovalstore.com
 0.0.0.0 launch.adserver.yahoo.com
-0.0.0.0 launchbit.com
 0.0.0.0 lax1-ib.adnxs.com
 0.0.0.0 lax1-mobile.adnxs.com
 0.0.0.0 layer-ad.de
@@ -2732,7 +2727,6 @@
 0.0.0.0 m10s8.com
 0.0.0.0 m2.ai
 0.0.0.0 m3gce.ads.tremorhub.com
-0.0.0.0 m4n.nl
 0.0.0.0 m57ku6sm.com
 0.0.0.0 mad-adz.com
 0.0.0.0 madadsmedia.com
@@ -2751,7 +2745,6 @@
 0.0.0.0 marchex.com
 0.0.0.0 marfeel.com
 0.0.0.0 marimedia.com
-0.0.0.0 market-buster.com
 0.0.0.0 marketgid.com
 0.0.0.0 markethealth.com
 0.0.0.0 marketing.888.com
@@ -2818,7 +2811,6 @@
 0.0.0.0 mediaver.com
 0.0.0.0 mediax.angloinfo.com
 0.0.0.0 mediaz.angloinfo.com
-0.0.0.0 medio.com
 0.0.0.0 medleyads.com
 0.0.0.0 medyagundem.com
 0.0.0.0 medyanet.net
@@ -3061,6 +3053,7 @@
 0.0.0.0 objectservers.com
 0.0.0.0 oceanwebcraft.com
 0.0.0.0 oewa.at
+0.0.0.0 offer.beasau.com
 0.0.0.0 offerforge.com
 0.0.0.0 offermatica.com
 0.0.0.0 offerserve.com
@@ -3201,7 +3194,6 @@
 0.0.0.0 phonearena.com
 0.0.0.0 phonespybubble.com
 0.0.0.0 photo-ads.co.uk
-0.0.0.0 phpadsnew.new.natuurpark.nl
 0.0.0.0 phpmyvisites.net
 0.0.0.0 phunware.com
 0.0.0.0 picbucks.com
@@ -3836,7 +3828,6 @@
 0.0.0.0 theadhost.com
 0.0.0.0 theads.me
 0.0.0.0 thebannerexchange.com
-0.0.0.0 thebugs.ws
 0.0.0.0 thecounter.com
 0.0.0.0 thefoxes.ru
 0.0.0.0 theloungenet.com
@@ -3860,7 +3851,6 @@
 0.0.0.0 tntclix.co.uk
 0.0.0.0 toboads.com
 0.0.0.0 todacell.com
-0.0.0.0 todich.ru
 0.0.0.0 tokenads.com
 0.0.0.0 tollfreeforwarding.com
 0.0.0.0 tomekas.com
@@ -4116,7 +4106,6 @@
 0.0.0.0 tracker.financialcontent.com
 0.0.0.0 tracker.gtarcade.com
 0.0.0.0 tracker.icerocket.com
-0.0.0.0 tracker.lazada.com.ph
 0.0.0.0 tracker.marinsm.com
 0.0.0.0 tracker.opentrackr.org
 0.0.0.0 tracker.plasticlovers.co.uk
@@ -4369,7 +4358,6 @@
 0.0.0.0 w3bnr.in
 0.0.0.0 w4.com
 0.0.0.0 w5statistics.info
-0.0.0.0 wafmedia3.com
 0.0.0.0 wagershare.com
 0.0.0.0 wahoha.com
 0.0.0.0 wamnetwork.com
@@ -4553,8 +4541,8 @@
 
 # Hosts - squidblacklist-dg-ads
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/squidblacklist-ads.txt
-# Generated - 27.07.2018
+# Generated - 02.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 4552
+# Total Domains: 4540
 # License: MIT
 

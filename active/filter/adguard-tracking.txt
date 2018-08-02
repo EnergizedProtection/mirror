@@ -464,6 +464,7 @@
 0.0.0.0 clixcount.com
 0.0.0.0 clixpy.com
 0.0.0.0 cloud-exploration.com
+0.0.0.0 cloud.roistat.com
 0.0.0.0 cloudtracer101.com
 0.0.0.0 clubcollector.com
 0.0.0.0 clustrmaps.com
@@ -1400,7 +1401,6 @@
 0.0.0.0 mediego.com
 0.0.0.0 meetrics.net
 0.0.0.0 mega-stats.com
-0.0.0.0 megastat.net
 0.0.0.0 megatopsites.com
 0.0.0.0 memecounter.com
 0.0.0.0 mengis-linden.org
@@ -2711,7 +2711,7 @@
 
 # Hosts - adguard-tracking
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-tracking-servers.txt
-# Generated - 27.07.2018
+# Generated - 02.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 2710
 # License: MIT

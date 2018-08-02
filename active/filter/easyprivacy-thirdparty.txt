@@ -7,7 +7,6 @@
 0.0.0.0 activities.niagara.comedycentral.com
 0.0.0.0 ad.aloodo.com
 0.0.0.0 adfox.yandex.ru
-0.0.0.0 adg.bzgint.com
 0.0.0.0 adlog.com.com
 0.0.0.0 ads-trk.vidible.tv
 0.0.0.0 ads.bridgetrack.com
@@ -49,7 +48,6 @@
 0.0.0.0 analytics.groupe-seb.com
 0.0.0.0 analytics.gvim.mobi
 0.0.0.0 analytics.hosting24.com
-0.0.0.0 analytics.hpprintx.com
 0.0.0.0 analytics.kaltura.com
 0.0.0.0 analytics.kapost.com
 0.0.0.0 analytics.live.com
@@ -109,6 +107,7 @@
 0.0.0.0 barium.cheezdev.com
 0.0.0.0 bat.bing.com
 0.0.0.0 beacon.affil.walmart.com
+0.0.0.0 beacon.aimtell.com
 0.0.0.0 beacon.errorception.com
 0.0.0.0 beacon.gcion.com
 0.0.0.0 beacon.gu-web.net
@@ -214,6 +213,7 @@
 0.0.0.0 d.rcmd.jp
 0.0.0.0 d.shareaholic.com
 0.0.0.0 d10lpsik1i8c69.cloudfront.net
+0.0.0.0 d11a2fzhgzqe7i.cloudfront.net
 0.0.0.0 d169bbxks24g2u.cloudfront.net
 0.0.0.0 d16fk4ms6rqz1v.cloudfront.net
 0.0.0.0 d191y0yd6d0jy4.cloudfront.net
@@ -344,7 +344,6 @@
 0.0.0.0 geo.q5media.net
 0.0.0.0 geobar.ziffdavisinternational.com
 0.0.0.0 geoip.nekudo.com
-0.0.0.0 geoip.taskforce.is
 0.0.0.0 geoservice.curse.com
 0.0.0.0 glogger.inspcloud.com
 0.0.0.0 go.optifuze.com
@@ -375,7 +374,6 @@
 0.0.0.0 infinityid.condenastdigital.com
 0.0.0.0 informer.yandex.ru
 0.0.0.0 insight.mintel.com
-0.0.0.0 insights.gravity.com
 0.0.0.0 insitez.blob.core.windows.net
 0.0.0.0 intelligence.dgmsearchlab.com
 0.0.0.0 irqs.ioam.de
@@ -395,9 +393,11 @@
 0.0.0.0 leadvision.dotmailer.co.uk
 0.0.0.0 licensing.bitmovin.com
 0.0.0.0 link.informer.com
+0.0.0.0 link.tym.cool
 0.0.0.0 livecounter.theyosh.nl
 0.0.0.0 livestats.kaltura.com
 0.0.0.0 log.adap.tv
+0.0.0.0 log.aimtell.com
 0.0.0.0 log.artipbox.net
 0.0.0.0 log.ideamelt.com
 0.0.0.0 log.invodo.com
@@ -463,7 +463,6 @@
 0.0.0.0 optimera.elasticbeanstalk.com
 0.0.0.0 optimizely.appspot.com
 0.0.0.0 orts.wixawin.com
-0.0.0.0 p.adbrn.com
 0.0.0.0 p.delivery.net
 0.0.0.0 p.yotpo.com
 0.0.0.0 pages-stats.rbl.ms
@@ -519,7 +518,6 @@
 0.0.0.0 pub.sheknows.com
 0.0.0.0 publish.pizzazzemail.com
 0.0.0.0 px.dynamicyield.com
-0.0.0.0 px.excitedigitalmedia.com
 0.0.0.0 px.marchex.io
 0.0.0.0 px.owneriq.net
 0.0.0.0 px.spiceworks.com
@@ -583,7 +581,6 @@
 0.0.0.0 stats.clickability.com
 0.0.0.0 stats.cloudwp.io
 0.0.0.0 stats.cmcigroup.com
-0.0.0.0 stats.complex.com
 0.0.0.0 stats.datahjaelp.net
 0.0.0.0 stats.dice.com
 0.0.0.0 stats.directnic.com
@@ -651,7 +648,6 @@
 0.0.0.0 t.sgc.io
 0.0.0.0 t.sharethis.com
 0.0.0.0 t.smile.eu
-0.0.0.0 t.ymlp275.net
 0.0.0.0 t2.t2b.click
 0.0.0.0 tag-abe.cartrawler.com
 0.0.0.0 tag.aticdn.net
@@ -824,8 +820,8 @@
 
 # Hosts - easyprivacy-thirdparty
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easyprivacy-thirdparty.txt
-# Generated - 27.07.2018
+# Generated - 02.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 823
+# Total Domains: 819
 # License: MIT
 

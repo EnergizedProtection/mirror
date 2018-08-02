@@ -406,12 +406,12 @@
 0.0.0.0 moinozhki.com
 0.0.0.0 monetizationking.net
 0.0.0.0 money-for-placing-articles.com
+0.0.0.0 money7777.info
 0.0.0.0 moneytop.ru
 0.0.0.0 moneyzzz.ru
 0.0.0.0 mosrif.ru
 0.0.0.0 mostorgnerud.ru
 0.0.0.0 moy-dokument.com
-0.0.0.0 moyakuhnia.ru
 0.0.0.0 musichallaudio.ru
 0.0.0.0 mybuh.kz
 0.0.0.0 myftpupload.com
@@ -497,6 +497,7 @@
 0.0.0.0 prosmibank.ru
 0.0.0.0 prostitutki-rostova.ru.com
 0.0.0.0 psa48.ru
+0.0.0.0 punch.media
 0.0.0.0 purchasepillsnorx.com
 0.0.0.0 qwesa.ru
 0.0.0.0 rankings-analytics.com
@@ -517,7 +518,6 @@
 0.0.0.0 research.ifmo.ru
 0.0.0.0 resell-seo-services.com
 0.0.0.0 resellerclub.com
-0.0.0.0 responsive-test.net
 0.0.0.0 reversing.cc
 0.0.0.0 rfavon.ru
 0.0.0.0 rightenergysolutions.com.au
@@ -531,6 +531,7 @@
 0.0.0.0 ruspoety.ru
 0.0.0.0 russian-postindex.ru
 0.0.0.0 russian-translator.com
+0.0.0.0 rybalka-opt.ru
 0.0.0.0 sad-torg.com.ua
 0.0.0.0 sady-urala.ru
 0.0.0.0 saltspray.ru
@@ -608,6 +609,7 @@
 0.0.0.0 success-seo.com
 0.0.0.0 sundrugstore.com
 0.0.0.0 superiends.org
+0.0.0.0 supermama.top
 0.0.0.0 supervesti.ru
 0.0.0.0 svetka.info
 0.0.0.0 svetoch.moscow
@@ -630,6 +632,7 @@
 0.0.0.0 tokshow.online
 0.0.0.0 tomck.com
 0.0.0.0 top-gan.ru
+0.0.0.0 top-l2.com
 0.0.0.0 top1-seo-service.com
 0.0.0.0 top10-way.com
 0.0.0.0 topquality.cf
@@ -675,6 +678,7 @@
 0.0.0.0 vzubkah.com
 0.0.0.0 w3javascript.com
 0.0.0.0 wdss.com.ua
+0.0.0.0 we-ping-for-youic.info
 0.0.0.0 website-analytics.online
 0.0.0.0 website-analyzer.info
 0.0.0.0 websites-reviews.com
@@ -687,6 +691,7 @@
 0.0.0.0 wufak.com
 0.0.0.0 ww2awards.info
 0.0.0.0 www-lk-rt.ru
+0.0.0.0 x5market.ru
 0.0.0.0 xkaz.org
 0.0.0.0 xn-------53dbcapga5atlplfdm6ag1ab1bvehl0b7toa0k.xn--p1ai
 0.0.0.0 xn-----6kcamwewcd9bayelq.xn--p1ai
@@ -729,8 +734,8 @@
 
 # Hosts - matomo.org-spammers
 # Source - https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt
-# Generated - 27.07.2018
+# Generated - 02.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 728
+# Total Domains: 733
 # License: MIT
 

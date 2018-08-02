@@ -1,0 +1,34 @@
+0.0.0.0 307cc283bab2ffdec92.com
+0.0.0.0 adexec.net
+0.0.0.0 adfox.ru
+0.0.0.0 adition.com
+0.0.0.0 adrunnr.com
+0.0.0.0 cb8717377086c72d.com
+0.0.0.0 cnbole.net
+0.0.0.0 d3nvrqlo8rj1kw.cloudfront.net
+0.0.0.0 directadvert.ru
+0.0.0.0 fls-na.amazon.com
+0.0.0.0 go.mobiprotg.com
+0.0.0.0 i-vengo.com
+0.0.0.0 jisucn.com
+0.0.0.0 large-format.net
+0.0.0.0 media.innity.net
+0.0.0.0 november-lax.com
+0.0.0.0 partner.mediametrics.ru
+0.0.0.0 partners.parimatch.net
+0.0.0.0 psmardr.com
+0.0.0.0 qiqiww.com
+0.0.0.0 reactiv.
+0.0.0.0 skycdnhost.com
+0.0.0.0 smilered.com
+0.0.0.0 tapcreatives.net
+0.0.0.0 wrmcfyzl.com
+0.0.0.0 xdbwc.com
+
+# Hosts - adguard-safari
+# Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-safari.txt
+# Generated - 02.08.2018
+# Created with Quizzer by @adroitadorkhan - nayemador.com
+# Total Domains: 26
+# License: MIT
+

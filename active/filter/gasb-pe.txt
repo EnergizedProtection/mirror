@@ -1151,7 +1151,6 @@
 0.0.0.0 6ldu6qa.com
 0.0.0.0 6now.net
 0.0.0.0 6o9.com
-0.0.0.0 6ow9rhxtolls.gq
 0.0.0.0 6phr.com
 0.0.0.0 6starreviews.com
 0.0.0.0 6to23.com
@@ -1260,7 +1259,6 @@
 0.0.0.0 852159.com
 0.0.0.0 86.6.87.194.dynamic.dol.ru
 0.0.0.0 866pp.com
-0.0.0.0 86dx.net
 0.0.0.0 86file.megajoy.com
 0.0.0.0 87.6.87.194.dynamic.dol.ru
 0.0.0.0 872435.com
@@ -1424,7 +1422,6 @@
 0.0.0.0 a.tcog.news.com.au
 0.0.0.0 a.teads.tv
 0.0.0.0 a.thefreedictionary.com
-0.0.0.0 a.thoughtleadr.com
 0.0.0.0 a.tribalfusion.com
 0.0.0.0 a.twiago.com
 0.0.0.0 a.ucoz.net
@@ -2180,7 +2177,6 @@
 0.0.0.0 ad.centrum.cz
 0.0.0.0 ad.cgi.cz
 0.0.0.0 ad.ch.doubleclick.net
-0.0.0.0 ad.choiceradio.com
 0.0.0.0 ad.cl.doubleclick.net
 0.0.0.0 ad.clickdistrict.com
 0.0.0.0 ad.clickhere.ru
@@ -2216,7 +2212,6 @@
 0.0.0.0 ad.ero.be
 0.0.0.0 ad.ero.nl
 0.0.0.0 ad.es.doubleclick.net
-0.0.0.0 ad.f1cd.ru
 0.0.0.0 ad.family.go.com
 0.0.0.0 ad.fi.doubleclick.net
 0.0.0.0 ad.flipboard.com
@@ -3517,7 +3512,6 @@
 0.0.0.0 adfun.ru
 0.0.0.0 adfusion.com
 0.0.0.0 adfuzz.com
-0.0.0.0 adg.bzgint.com
 0.0.0.0 adgardener.com
 0.0.0.0 adgdev.112.2o7.net
 0.0.0.0 adgoblin.com
@@ -4136,7 +4130,6 @@
 0.0.0.0 ads.cleveland.com
 0.0.0.0 ads.click2paid.com
 0.0.0.0 ads.clickability.com
-0.0.0.0 ads.clickad.com
 0.0.0.0 ads.clickagents.com
 0.0.0.0 ads.clicksor.com
 0.0.0.0 ads.clicmanager.fr
@@ -5214,7 +5207,6 @@
 0.0.0.0 ads.snet.net
 0.0.0.0 ads.snickersnot.com
 0.0.0.0 ads.soccereu.com
-0.0.0.0 ads.socialmedia.com
 0.0.0.0 ads.soft32.com
 0.0.0.0 ads.softartisans.com
 0.0.0.0 ads.softreg.com.cn
@@ -5337,7 +5329,6 @@
 0.0.0.0 ads.thepatriots.de
 0.0.0.0 ads.theraven7.com
 0.0.0.0 ads.theroyalgazette.com
-0.0.0.0 ads.thesmartshoppe.com
 0.0.0.0 ads.thestar.com
 0.0.0.0 ads.thestar.com.my
 0.0.0.0 ads.thewonder.com
@@ -6599,7 +6590,6 @@
 0.0.0.0 adserve.adsonar.com
 0.0.0.0 adserve.adster.com
 0.0.0.0 adserve.adtoll.com
-0.0.0.0 adserve.advertising.com
 0.0.0.0 adserve.gogreece.com
 0.0.0.0 adserve.postrelease.com
 0.0.0.0 adserve.precisionpop.com
@@ -6902,7 +6892,6 @@
 0.0.0.0 adtrack.cimedia.net
 0.0.0.0 adtrack.pichunter.com
 0.0.0.0 adtrack.trafficwave.net
-0.0.0.0 adtracker.socialmedia.com
 0.0.0.0 adtracking.vinden.nl
 0.0.0.0 adtractive.com
 0.0.0.0 adtrade.net
@@ -7626,9 +7615,7 @@
 0.0.0.0 aeon.cryptoserb.com
 0.0.0.0 aeon.extremepool.org
 0.0.0.0 aeon.hashvault.pro
-0.0.0.0 aeon.minecraftpool.com
 0.0.0.0 aeon.miner.center
-0.0.0.0 aeon.minerhills.com
 0.0.0.0 aeon.pool.minergate.com
 0.0.0.0 aeon.pools.e-scavo.net.ar
 0.0.0.0 aeon.poolto.be
@@ -7651,7 +7638,6 @@
 0.0.0.0 af.lygo.com
 0.0.0.0 af1ovygp2wh9bk.readnotify.com
 0.0.0.0 af21.ad.dotandad.com
-0.0.0.0 afa15.com.ne.kr
 0.0.0.0 afakemegood24.com
 0.0.0.0 afbtracking09.com
 0.0.0.0 afcyhf.com
@@ -7784,7 +7770,6 @@
 0.0.0.0 aftonbladet.se
 0.0.0.0 aftp.linksynergy.com
 0.0.0.0 aftrk.com
-0.0.0.0 afy11.net
 0.0.0.0 ag.travelocity.com.edgesuite.net
 0.0.0.0 agagkidzone.112.2o7.net
 0.0.0.0 agama.ec
@@ -8127,7 +8112,6 @@
 0.0.0.0 allporncomics.com
 0.0.0.0 allpornpass.com
 0.0.0.0 allpornsearch.com
-0.0.0.0 allports-1.lindon-pool.win
 0.0.0.0 allprivatelinks.com
 0.0.0.0 allprotections.com
 0.0.0.0 allrecipes.com.122.2o7.net
@@ -8852,7 +8836,6 @@
 0.0.0.0 api.mixin.lindon-pool.win
 0.0.0.0 api.mixpanel.com
 0.0.0.0 api.mobials.com
-0.0.0.0 api.monerise.com
 0.0.0.0 api.moneroocean.stream
 0.0.0.0 api.moneropool.com
 0.0.0.0 api.moriaxmr.com
@@ -8909,10 +8892,8 @@
 0.0.0.0 api2.bitcoin.cz
 0.0.0.0 api2.bitfinex.com
 0.0.0.0 api2.poloniex.com
-0.0.0.0 apib.monerise.com
 0.0.0.0 apicil.d1.sc.omtrdc.net
 0.0.0.0 apimprintsonline.122.2o7.net
-0.0.0.0 apin.monerise.com
 0.0.0.0 apis.ign.com
 0.0.0.0 apis.murdoog.com
 0.0.0.0 aplogocentral.122.2o7.net
@@ -9225,7 +9206,6 @@
 0.0.0.0 as-rank.de
 0.0.0.0 as-sec.casalemedia.com
 0.0.0.0 as.adwave.com
-0.0.0.0 as.blogbang.com
 0.0.0.0 as.casale.com.akadns.net
 0.0.0.0 as.casalemedia.com
 0.0.0.0 as.casalemedia.com.edgesuite.net
@@ -11489,7 +11469,6 @@
 0.0.0.0 barnesandnoble.bfast.com
 0.0.0.0 barnetshenkinbridge.com
 0.0.0.0 barraantiga.myblogtoolbar.com
-0.0.0.0 barracuda.advertising.com
 0.0.0.0 barradenene.myfamilytoolbar.com
 0.0.0.0 barraidea.myblogtoolbar.com
 0.0.0.0 barrajose.myblogtoolbar.com
@@ -11582,7 +11561,6 @@
 0.0.0.0 bbva.112.2o7.net
 0.0.0.0 bbvvbb.cn
 0.0.0.0 bbwmagazine.us.intellitxt.com
-0.0.0.0 bbwrank.com
 0.0.0.0 bbz.ourtoolbar.com
 0.0.0.0 bc0.cn
 0.0.0.0 bc777.com
@@ -12012,7 +11990,6 @@
 0.0.0.0 bid-demo3.hitbox.com
 0.0.0.0 bid-demo4.hitbox.com
 0.0.0.0 bid-edge.hitbox.com
-0.0.0.0 bid.ace.advertising.com
 0.0.0.0 bid.contextweb.com
 0.0.0.0 bid.g.doubleclick.net
 0.0.0.0 bid.openx.net
@@ -12790,7 +12767,6 @@
 0.0.0.0 boys.net
 0.0.0.0 boyscity.com
 0.0.0.0 boysextop.com
-0.0.0.0 boysporn.net
 0.0.0.0 boystownlive.myradiotoolbar.com
 0.0.0.0 boyuo.cn
 0.0.0.0 boyworld.net
@@ -13856,7 +13832,6 @@
 0.0.0.0 casinoxo.com
 0.0.0.0 casion.com
 0.0.0.0 cassandra.searchassistant.net
-0.0.0.0 castingsamateur.com
 0.0.0.0 castlemountains.com
 0.0.0.0 castorcash.com
 0.0.0.0 castroalves.com.br
@@ -15464,7 +15439,6 @@
 0.0.0.0 coinrail.io
 0.0.0.0 coins.poolto.be
 0.0.0.0 coins.prohashing.com
-0.0.0.0 coinspool.cu.cc
 0.0.0.0 cointrend.club
 0.0.0.0 coinurl.com
 0.0.0.0 coinversus.com
@@ -15594,7 +15568,6 @@
 0.0.0.0 community.coinbase.com
 0.0.0.0 community.derbiz.com
 0.0.0.0 community.intellicontact.com
-0.0.0.0 community.monerise.com
 0.0.0.0 community.surfya.com
 0.0.0.0 communityarchitect.com
 0.0.0.0 communitygirls.com
@@ -15715,7 +15688,6 @@
 0.0.0.0 consent.truste.com
 0.0.0.0 console.adsnative.com
 0.0.0.0 console.appnexus.comib.adnxs.com
-0.0.0.0 console.hashunited.com
 0.0.0.0 console.pool.bitcoin.com
 0.0.0.0 consoleads.com
 0.0.0.0 consolemato.com
@@ -15742,7 +15714,6 @@
 0.0.0.0 contalfa1.sites.uol.com.br
 0.0.0.0 contaxe.de
 0.0.0.0 contenidospc.com
-0.0.0.0 contenidoxxx.com
 0.0.0.0 content-loader.com
 0.0.0.0 content.adnetinteractive.com
 0.0.0.0 content.adprofile.net
@@ -16303,7 +16274,6 @@
 0.0.0.0 crawler.com
 0.0.0.0 crazaa.com
 0.0.0.0 crazebar.myradiotoolbar.com
-0.0.0.0 crazy-tgp.info
 0.0.0.0 crazy.otelix.biz
 0.0.0.0 crazyalexporn.com
 0.0.0.0 crazycarcrashes.com
@@ -17284,7 +17254,6 @@
 0.0.0.0 data.alexa.com
 0.0.0.0 data.bizographics.com
 0.0.0.0 data.browseraccelerator.com
-0.0.0.0 data.btcchina.com
 0.0.0.0 data.captifymedia.com
 0.0.0.0 data.cmcore.com
 0.0.0.0 data.coremetrics.com
@@ -18599,7 +18568,6 @@
 0.0.0.0 down.fr.intellitxt.com
 0.0.0.0 down.my0115.ru
 0.0.0.0 down.my0709.xyz
-0.0.0.0 down.oo000oo.club
 0.0.0.0 down.plaxo.com
 0.0.0.0 down2.ucweb.com
 0.0.0.0 down3.ucweb.com
@@ -19481,13 +19449,6 @@
 0.0.0.0 edx-uk.s3ae.com
 0.0.0.0 edz.ru
 0.0.0.0 ee.connextra.com
-0.0.0.0 ee01gws.advertising.com
-0.0.0.0 ee01hmq.advertising.com
-0.0.0.0 ee01job.advertising.com
-0.0.0.0 ee02gws.advertising.com
-0.0.0.0 ee02hmq.advertising.com
-0.0.0.0 ee02mrp.advertising.com
-0.0.0.0 ee12gp4.advertising.com
 0.0.0.0 ee28.cn
 0.0.0.0 eeev.com
 0.0.0.0 eelde.mytowntoolbar.com
@@ -22245,7 +22206,6 @@
 0.0.0.0 en.changelly.com
 0.0.0.0 en.cookiescript.info
 0.0.0.0 en.minergate.com
-0.0.0.0 en.mywebzines.com
 0.0.0.0 enbrowser.com
 0.0.0.0 enco-group.cz
 0.0.0.0 encumber.biz
@@ -22686,8 +22646,6 @@
 0.0.0.0 etn-us-west1.nanopool.org
 0.0.0.0 etn.crypto-coins.club
 0.0.0.0 etn.lindon-pool.win
-0.0.0.0 etn.minecraftpool.com
-0.0.0.0 etn.minerhills.com
 0.0.0.0 etn.nanopool.org
 0.0.0.0 etn.spacepools.org
 0.0.0.0 etn.xzpool.com
@@ -23094,7 +23052,6 @@
 0.0.0.0 exsexytop.tk
 0.0.0.0 exspb.ru
 0.0.0.0 ext.host-tracker.com
-0.0.0.0 extensionsapiversion.space
 0.0.0.0 extntechnologies.us.intellitxt.com
 0.0.0.0 extra-ticket.com
 0.0.0.0 extra.aexp.com.102.112.2o7.net
@@ -24800,7 +24757,6 @@
 0.0.0.0 ftp.bfast.com
 0.0.0.0 ftp.bitcoin.cz
 0.0.0.0 ftp.coinhive-manager.com
-0.0.0.0 ftp.coinlab.biz
 0.0.0.0 ftp.coupons.com
 0.0.0.0 ftp.crypto-coins.club
 0.0.0.0 ftp.cryptominingpool.eu
@@ -25238,7 +25194,6 @@
 0.0.0.0 garydineenhockey.com
 0.0.0.0 gas2.us.intellitxt.com
 0.0.0.0 gasmaskbong.com
-0.0.0.0 gasolina.ml
 0.0.0.0 gastate.com
 0.0.0.0 gate-sun.com
 0.0.0.0 gate.damcash.com
@@ -25600,7 +25555,6 @@
 0.0.0.0 gicom.112.2o7.net
 0.0.0.0 gid.org
 0.0.0.0 giddycoat.com
-0.0.0.0 gidowns.icejuice.xyz
 0.0.0.0 gidromash.cn
 0.0.0.0 gif.com
 0.0.0.0 gifplaatjes.nl
@@ -32387,7 +32341,6 @@
 0.0.0.0 m3.468.dating-exchange.com
 0.0.0.0 m3.net
 0.0.0.0 m4n.mbuyu.nl
-0.0.0.0 m4n.nl
 0.0.0.0 m5k8.com
 0.0.0.0 m7m.mine.zpool.ca
 0.0.0.0 m7z.net
@@ -33236,7 +33189,6 @@
 0.0.0.0 mediacasino.com
 0.0.0.0 mediacharger.com
 0.0.0.0 mediaclay.casalemedia.com
-0.0.0.0 mediacount.net
 0.0.0.0 mediadefender.com
 0.0.0.0 mediadivision.112.2o7.net
 0.0.0.0 mediadomain.com
@@ -33308,7 +33260,6 @@
 0.0.0.0 medz-store.com
 0.0.0.0 meesheephotography.com
 0.0.0.0 meet-a-friend.com
-0.0.0.0 meet-her.com
 0.0.0.0 meet.z.cash
 0.0.0.0 meetaudrey.com
 0.0.0.0 meetblondes.com
@@ -35975,7 +35926,6 @@
 0.0.0.0 netellerdfx.hitbox.com
 0.0.0.0 netellerfeed2.hitbox.com
 0.0.0.0 neteng.sj1.omniture.com
-0.0.0.0 netezines.advertising.com
 0.0.0.0 netfeed.com
 0.0.0.0 netfest.com
 0.0.0.0 netfetch.com
@@ -36706,13 +36656,11 @@
 0.0.0.0 ns03.revsci.net
 0.0.0.0 ns04.revsci.net
 0.0.0.0 ns05.revsci.net
-0.0.0.0 ns1.cryptmonero.com
 0.0.0.0 ns1.omniture.com
 0.0.0.0 ns1.sj1.omniture.com
 0.0.0.0 ns1.sj2.omniture.com
 0.0.0.0 ns1alt.poloniex.com
 0.0.0.0 ns2.247realmedia.com
-0.0.0.0 ns2.cryptmonero.com
 0.0.0.0 ns2.cryptosearch.site
 0.0.0.0 ns2.cryptotab.net
 0.0.0.0 ns2.omniture.com
@@ -37571,7 +37519,6 @@
 0.0.0.0 okcounter.com
 0.0.0.0 okcupid.tags.crwdcntrl.net
 0.0.0.0 okey.ro
-0.0.0.0 okeyletsgo.ml
 0.0.0.0 okla.ru
 0.0.0.0 oklahomaconnections.myblogtoolbar.com
 0.0.0.0 oklandraiders.com
@@ -38153,7 +38100,6 @@
 0.0.0.0 openx.filestube.com
 0.0.0.0 openx.watchmygf.net
 0.0.0.0 openxjapan-d3.openxenterprise.com
-0.0.0.0 opera1-servedby.advertising.com
 0.0.0.0 operaadfilter.com
 0.0.0.0 operationamateurs.com
 0.0.0.0 operha.com
@@ -38518,7 +38464,6 @@
 0.0.0.0 p.nexac.com
 0.0.0.0 p.raasnet.com
 0.0.0.0 p.searchmission.com
-0.0.0.0 p.tidafors.xyz
 0.0.0.0 p.typekit.net
 0.0.0.0 p0.com
 0.0.0.0 p01.com
@@ -38765,7 +38710,6 @@
 0.0.0.0 pasc.nanopool.org
 0.0.0.0 pascal.br.nicehash.com
 0.0.0.0 pascal.eu.nicehash.com
-0.0.0.0 pascal.hk.nicehash.com
 0.0.0.0 pascal.in.nicehash.com
 0.0.0.0 pascal.jp.nicehash.com
 0.0.0.0 pascal.usa.nicehash.com
@@ -38823,7 +38767,6 @@
 0.0.0.0 pay-to-promote.com
 0.0.0.0 pay.3000.it
 0.0.0.0 pay.bithumb.com
-0.0.0.0 pay.btcchina.com
 0.0.0.0 pay.day.loan.webforhumans.com
 0.0.0.0 pay4easy.com
 0.0.0.0 pay69.com
@@ -38986,7 +38929,6 @@
 0.0.0.0 pdasoccer.com
 0.0.0.0 pdavies.com
 0.0.0.0 pdcbloggers.net
-0.0.0.0 pdf-1.infamylists.com
 0.0.0.0 pdf.forbes.com
 0.0.0.0 pdf.xiti.com
 0.0.0.0 pdfcreator-toolbar.org
@@ -39622,7 +39564,6 @@
 0.0.0.0 play3w.com
 0.0.0.0 play4traffic.com
 0.0.0.0 playa.streamrail.com
-0.0.0.0 playalltime.info
 0.0.0.0 playaudiomessage.com
 0.0.0.0 playbill-d.openx.net
 0.0.0.0 playboy.rsc01.net
@@ -39689,8 +39630,6 @@
 0.0.0.0 plugrush.com
 0.0.0.0 plugusin4cash.com
 0.0.0.0 plumpmatures.com
-0.0.0.0 plus-api.btcchina.com
-0.0.0.0 plus-data.btcchina.com
 0.0.0.0 plus-play.com
 0.0.0.0 plus.btcchina.com
 0.0.0.0 plus.iwon.com
@@ -39840,13 +39779,11 @@
 0.0.0.0 pool.bitcoin.cz
 0.0.0.0 pool.bohemianpool.com
 0.0.0.0 pool.btcchina.com
-0.0.0.0 pool.burstmarketplace.com
 0.0.0.0 pool.chaucha.cl
 0.0.0.0 pool.ckpool.org
 0.0.0.0 pool.coinimp.com
 0.0.0.0 pool.coinrail.io
 0.0.0.0 pool.coinversus.com
-0.0.0.0 pool.cryptmonero.com
 0.0.0.0 pool.cryptoescrow.eu
 0.0.0.0 pool.electroneum.hashvault.pro
 0.0.0.0 pool.eth.pp.ua
@@ -40639,7 +40576,6 @@
 0.0.0.0 promo.bitaccess.co
 0.0.0.0 promo.com.au
 0.0.0.0 promo.crossdomain.com
-0.0.0.0 promo.dollarrevenue.com
 0.0.0.0 promo.hitbox.com
 0.0.0.0 promo.puredee.com
 0.0.0.0 promo.search.com
@@ -41572,7 +41508,6 @@
 0.0.0.0 rd.122.2o7.net
 0.0.0.0 rd.adlink.net
 0.0.0.0 rd.ads.juno.com
-0.0.0.0 rd.advertising.com
 0.0.0.0 rd.advertising.tv
 0.0.0.0 rd.clickshift.com
 0.0.0.0 rd.jersey.ads.juno.com
@@ -42523,7 +42458,6 @@
 0.0.0.0 rtsgolf.com
 0.0.0.0 rtstats.com
 0.0.0.0 rtve.d1.sc.omtrdc.net
-0.0.0.0 rtw.monerise.com
 0.0.0.0 ru-php.ru
 0.0.0.0 ru-traffic.com
 0.0.0.0 ru.changelly.com
@@ -43104,7 +43038,6 @@
 0.0.0.0 scanner2.malware-scan.com
 0.0.0.0 scanscout.p.ah-ha.com
 0.0.0.0 scanspyware.net
-0.0.0.0 scanthenet.com
 0.0.0.0 scarcesign.com
 0.0.0.0 scarcestream.com
 0.0.0.0 scareface.com
@@ -43725,7 +43658,6 @@
 0.0.0.0 secure.aconti.net
 0.0.0.0 secure.admaximize.nu
 0.0.0.0 secure.adnxs.com
-0.0.0.0 secure.advertising.com
 0.0.0.0 secure.advertising.tv
 0.0.0.0 secure.adzerk.net
 0.0.0.0 secure.alwayspamela.com
@@ -44014,7 +43946,6 @@
 0.0.0.0 serve.williamhill.com
 0.0.0.0 servebeer.com
 0.0.0.0 serveblog.net
-0.0.0.0 servedby-vips.advertising.com
 0.0.0.0 servedby.adbutler.com
 0.0.0.0 servedby.adcombination.com
 0.0.0.0 servedby.adsfactor.cn
@@ -44540,7 +44471,6 @@
 0.0.0.0 sheboy.ws
 0.0.0.0 shedad.com
 0.0.0.0 shedome.com
-0.0.0.0 sheepman.mine.bz
 0.0.0.0 sheer.intellicontact.com
 0.0.0.0 sheetmusicarchive.com
 0.0.0.0 sheffieldforumcouk.skimlinks.com
@@ -44861,7 +44791,6 @@
 0.0.0.0 sissecurity.com
 0.0.0.0 sissysiero.com
 0.0.0.0 sistemetermice.ro.122.2o7.net
-0.0.0.0 site-checksite.tk
 0.0.0.0 site-images.ws
 0.0.0.0 site-stats.com
 0.0.0.0 site-stats.i8.com
@@ -46459,7 +46388,6 @@
 0.0.0.0 stats.chroniclelive.co.uk
 0.0.0.0 stats.clickability.com
 0.0.0.0 stats.clicktracks.com
-0.0.0.0 stats.complex.com
 0.0.0.0 stats.coolwebsearch.com
 0.0.0.0 stats.cryptotab.net
 0.0.0.0 stats.datagram.com
@@ -46850,7 +46778,6 @@
 0.0.0.0 sublimedirectory.com
 0.0.0.0 sublimepix.com
 0.0.0.0 sublimeskinz.com
-0.0.0.0 subloader.cf
 0.0.0.0 subloads.com
 0.0.0.0 submission-software.8m.com
 0.0.0.0 submit-it.com
@@ -48585,7 +48512,6 @@
 0.0.0.0 ticketlight.com
 0.0.0.0 ticketmasater.com
 0.0.0.0 tickle.com
-0.0.0.0 tidafors.xyz
 0.0.0.0 tidfx.hitbox.com
 0.0.0.0 tiempolibre.mytowntoolbar.com
 0.0.0.0 tiempolibresite.com
@@ -48779,7 +48705,6 @@
 0.0.0.0 tofu-ssl.dmcdn.net
 0.0.0.0 tofu.dmcdn.net
 0.0.0.0 togalleries.com
-0.0.0.0 togamble.net
 0.0.0.0 together4healthfree.media-toolbar.com
 0.0.0.0 toggle.com
 0.0.0.0 toggleen.ourtoolbar.com
@@ -48790,7 +48715,6 @@
 0.0.0.0 toilet.com
 0.0.0.0 token.128pro.net
 0.0.0.0 token.breadapp.com
-0.0.0.0 tokensale.lydian.io
 0.0.0.0 tokio01.minemonero.pro
 0.0.0.0 tokradio.myradiotoolbar.com
 0.0.0.0 tokyo01.aeon.hashvault.pro
@@ -48981,7 +48905,6 @@
 0.0.0.0 topdesktop.com
 0.0.0.0 topdev.tsx.org
 0.0.0.0 topdialer.com
-0.0.0.0 topdirectdownload.com
 0.0.0.0 topdownload.de.intellitxt.com
 0.0.0.0 topdownloads.com
 0.0.0.0 topdownloads.net
@@ -49223,7 +49146,6 @@
 0.0.0.0 track.juno.com
 0.0.0.0 track.moreniche.com
 0.0.0.0 track.net
-0.0.0.0 track.netshelter.net
 0.0.0.0 track.netzero.net
 0.0.0.0 track.omg2.com
 0.0.0.0 track.oxcash.com
@@ -50259,8 +50181,6 @@
 0.0.0.0 uk-adultcash.com
 0.0.0.0 uk-cnet-search.search.com
 0.0.0.0 uk-content.search.com
-0.0.0.0 uk-orf.advertising.com
-0.0.0.0 uk-orf2.advertising.com
 0.0.0.0 uk-silicon.search.com
 0.0.0.0 uk-software.com
 0.0.0.0 uk.112.2o7.net
@@ -51375,7 +51295,6 @@
 0.0.0.0 vip-pics.com
 0.0.0.0 vip-se.com
 0.0.0.0 vip.antpool.com
-0.0.0.0 vip.btcchina.com
 0.0.0.0 vip.clickzs.com
 0.0.0.0 vip.glavinassociates.com
 0.0.0.0 vip.mtree.com
@@ -52001,7 +51920,6 @@
 0.0.0.0 wanted.com
 0.0.0.0 wantitall.net
 0.0.0.0 wanttomixitup.com
-0.0.0.0 wap.advertising.com
 0.0.0.0 wap.advertising.tv
 0.0.0.0 wap.emobistudio.com
 0.0.0.0 wap.espotting.com
@@ -52154,7 +52072,6 @@
 0.0.0.0 web-domain.tk
 0.0.0.0 web-entrance.com
 0.0.0.0 web-feed.net
-0.0.0.0 web-fill.tk
 0.0.0.0 web-hosting-options.com
 0.0.0.0 web-mediaplayer.com
 0.0.0.0 web-olymp.ru
@@ -52340,7 +52257,6 @@
 0.0.0.0 webm.intelli-direct.com
 0.0.0.0 webmail.24x7help.org
 0.0.0.0 webmail.coinpot.co
-0.0.0.0 webmail.cryptmonero.com
 0.0.0.0 webmail.eu.miva.com
 0.0.0.0 webmail.gator.net
 0.0.0.0 webmail.hashcoin.io
@@ -52945,7 +52861,6 @@
 0.0.0.0 wmgsite78.112.2o7.net
 0.0.0.0 wmi.my0115.ru
 0.0.0.0 wmi.my0709.xyz
-0.0.0.0 wmi.oo000oo.club
 0.0.0.0 wmirk.ru
 0.0.0.0 wmisite1.112.2o7.net
 0.0.0.0 wmmadv.com
@@ -53099,7 +53014,6 @@
 0.0.0.0 wowtofree.info
 0.0.0.0 wowtw.com
 0.0.0.0 wowweb.net
-0.0.0.0 wp-content.infamylists.com
 0.0.0.0 wp-monero-miner.de
 0.0.0.0 wp.bitcoin.cz
 0.0.0.0 wp.skimlinks.com
@@ -53158,79 +53072,59 @@
 0.0.0.0 ws.pusherapp.com
 0.0.0.0 ws.sessioncam.com
 0.0.0.0 ws.tapjoyads.com
-0.0.0.0 ws.tidafors.xyz
 0.0.0.0 ws.websearch.com
 0.0.0.0 ws.xmrpool.net
 0.0.0.0 ws000.coinhive.com
 0.0.0.0 ws001.authedmine.com
 0.0.0.0 ws001.coinhive.com
-0.0.0.0 ws001.ws.tidafors.xyz
 0.0.0.0 ws002-proxy-ajcryptominer.ajplugins.com
 0.0.0.0 ws002.authedmine.com
 0.0.0.0 ws002.coinhive.com
-0.0.0.0 ws002.ws.tidafors.xyz
 0.0.0.0 ws003-proxy-ajcryptominer.ajplugins.com
 0.0.0.0 ws003.authedmine.com
 0.0.0.0 ws003.coinhive.com
-0.0.0.0 ws003.ws.tidafors.xyz
 0.0.0.0 ws004-proxy-ajcryptominer.ajplugins.com
 0.0.0.0 ws004.authedmine.com
 0.0.0.0 ws004.coinhive.com
-0.0.0.0 ws004.ws.tidafors.xyz
 0.0.0.0 ws005-proxy-ajcryptominer.ajplugins.com
 0.0.0.0 ws005.authedmine.com
 0.0.0.0 ws005.coinhive.com
-0.0.0.0 ws005.ws.tidafors.xyz
 0.0.0.0 ws006-proxy-ajcryptominer.ajplugins.com
 0.0.0.0 ws006.authedmine.com
 0.0.0.0 ws006.coinhive.com
-0.0.0.0 ws006.ws.tidafors.xyz
 0.0.0.0 ws007-proxy-ajcryptominer.ajplugins.com
 0.0.0.0 ws007.authedmine.com
 0.0.0.0 ws007.coinhive.com
-0.0.0.0 ws007.ws.tidafors.xyz
 0.0.0.0 ws008.authedmine.com
 0.0.0.0 ws008.coinhive.com
-0.0.0.0 ws008.ws.tidafors.xyz
 0.0.0.0 ws009.authedmine.com
 0.0.0.0 ws009.coinhive.com
-0.0.0.0 ws009.ws.tidafors.xyz
 0.0.0.0 ws01.crypto-loot.com
 0.0.0.0 ws01.ppoi.org
 0.0.0.0 ws010.authedmine.com
 0.0.0.0 ws010.coinhive.com
-0.0.0.0 ws010.ws.tidafors.xyz
 0.0.0.0 ws011.authedmine.com
 0.0.0.0 ws011.coinhive.com
-0.0.0.0 ws011.ws.tidafors.xyz
 0.0.0.0 ws012.authedmine.com
 0.0.0.0 ws012.coinhive.com
-0.0.0.0 ws012.ws.tidafors.xyz
 0.0.0.0 ws013-proxy-ajcryptominer.ajplugins.com
 0.0.0.0 ws013.authedmine.com
 0.0.0.0 ws013.coinhive.com
-0.0.0.0 ws013.ws.tidafors.xyz
 0.0.0.0 ws014-proxy-ajcryptominer.ajplugins.com
 0.0.0.0 ws014.authedmine.com
 0.0.0.0 ws014.coinhive.com
-0.0.0.0 ws014.ws.tidafors.xyz
 0.0.0.0 ws015.authedmine.com
 0.0.0.0 ws015.coinhive.com
-0.0.0.0 ws015.ws.tidafors.xyz
 0.0.0.0 ws016.authedmine.com
 0.0.0.0 ws016.coinhive.com
-0.0.0.0 ws016.ws.tidafors.xyz
 0.0.0.0 ws017-proxy-ajcryptominer.ajplugins.com
 0.0.0.0 ws017.authedmine.com
 0.0.0.0 ws017.coinhive.com
-0.0.0.0 ws017.ws.tidafors.xyz
 0.0.0.0 ws018-proxy-ajcryptominer.ajplugins.com
 0.0.0.0 ws018.authedmine.com
 0.0.0.0 ws018.coinhive.com
-0.0.0.0 ws018.ws.tidafors.xyz
 0.0.0.0 ws019.authedmine.com
 0.0.0.0 ws019.coinhive.com
-0.0.0.0 ws019.ws.tidafors.xyz
 0.0.0.0 ws02.1q2w3.me
 0.0.0.0 ws02.coinnebula.com
 0.0.0.0 ws02.crypto-loot.com
@@ -53238,56 +53132,43 @@
 0.0.0.0 ws020-proxy-ajcryptominer.ajplugins.com
 0.0.0.0 ws020.authedmine.com
 0.0.0.0 ws020.coinhive.com
-0.0.0.0 ws020.ws.tidafors.xyz
 0.0.0.0 ws021.coinhive.com
-0.0.0.0 ws021.ws.tidafors.xyz
 0.0.0.0 ws022-proxy-ajcryptominer.ajplugins.com
 0.0.0.0 ws022.authedmine.com
 0.0.0.0 ws022.coinhive.com
-0.0.0.0 ws022.ws.tidafors.xyz
 0.0.0.0 ws023-proxy-ajcryptominer.ajplugins.com
 0.0.0.0 ws023.authedmine.com
 0.0.0.0 ws023.coinhive.com
-0.0.0.0 ws023.ws.tidafors.xyz
 0.0.0.0 ws024-proxy-ajcryptominer.ajplugins.com
 0.0.0.0 ws024.authedmine.com
 0.0.0.0 ws024.coinhive.com
-0.0.0.0 ws024.ws.tidafors.xyz
 0.0.0.0 ws025-proxy-ajcryptominer.ajplugins.com
 0.0.0.0 ws025.authedmine.com
 0.0.0.0 ws025.coinhive.com
-0.0.0.0 ws025.ws.tidafors.xyz
 0.0.0.0 ws026-proxy-ajcryptominer.ajplugins.com
 0.0.0.0 ws026.authedmine.com
 0.0.0.0 ws026.coinhive.com
-0.0.0.0 ws026.ws.tidafors.xyz
 0.0.0.0 ws027-proxy-ajcryptominer.ajplugins.com
 0.0.0.0 ws027.authedmine.com
 0.0.0.0 ws027.coinhive.com
-0.0.0.0 ws027.ws.tidafors.xyz
 0.0.0.0 ws028-proxy-ajcryptominer.ajplugins.com
 0.0.0.0 ws028.authedmine.com
 0.0.0.0 ws028.coinhive.com
-0.0.0.0 ws028.ws.tidafors.xyz
 0.0.0.0 ws029-proxy-ajcryptominer.ajplugins.com
 0.0.0.0 ws029.authedmine.com
 0.0.0.0 ws029.coinhive.com
-0.0.0.0 ws029.ws.tidafors.xyz
 0.0.0.0 ws03.1q2w3.me
 0.0.0.0 ws03.coinnebula.com
 0.0.0.0 ws03.crypto-loot.com
 0.0.0.0 ws03.home.sapo.pt
 0.0.0.0 ws030.authedmine.com
 0.0.0.0 ws030.coinhive.com
-0.0.0.0 ws030.ws.tidafors.xyz
 0.0.0.0 ws031-proxy-ajcryptominer.ajplugins.com
 0.0.0.0 ws031.authedmine.com
 0.0.0.0 ws031.coinhive.com
-0.0.0.0 ws031.ws.tidafors.xyz
 0.0.0.0 ws032-proxy-ajcryptominer.ajplugins.com
 0.0.0.0 ws032.authedmine.com
 0.0.0.0 ws032.coinhive.com
-0.0.0.0 ws032.ws.tidafors.xyz
 0.0.0.0 ws035.coinhive.com
 0.0.0.0 ws04.crypto-loot.com
 0.0.0.0 ws04.home.sapo.pt
@@ -54309,7 +54190,6 @@
 0.0.0.0 www.advancecashloans.com
 0.0.0.0 www.advancedadapters.com
 0.0.0.0 www.advancedsearchbar.com
-0.0.0.0 www.advancedsoftwaresupport.com
 0.0.0.0 www.advancedwebpromotions.com
 0.0.0.0 www.advantagesupplements.com
 0.0.0.0 www.adventuresinnetmarketing.com
@@ -56650,7 +56530,6 @@
 0.0.0.0 www.cruiseflorida.com
 0.0.0.0 www.cruizers.com
 0.0.0.0 www.crut.com
-0.0.0.0 www.cryptmonero.com
 0.0.0.0 www.crypto-coins.club
 0.0.0.0 www.crypto-loot.com
 0.0.0.0 www.crypto-pool.fr
@@ -57120,7 +56999,6 @@
 0.0.0.0 www.dollarmails.com
 0.0.0.0 www.dollarrandomizer.com
 0.0.0.0 www.dollarrentcar.com
-0.0.0.0 www.dollarrevenue.com
 0.0.0.0 www.dollars4babes.com
 0.0.0.0 www.dollchick.com
 0.0.0.0 www.dollfreak.com
@@ -59097,7 +58975,6 @@
 0.0.0.0 www.hentai-manga-anime.ws
 0.0.0.0 www.hentaidatabase.com
 0.0.0.0 www.hentaidiablo.com
-0.0.0.0 www.hentaigratuit.com
 0.0.0.0 www.hentaiguess.com
 0.0.0.0 www.herbal-smoke.com
 0.0.0.0 www.herbalaffiliateprogram.com
@@ -60723,7 +60600,6 @@
 0.0.0.0 www.maploco.com
 0.0.0.0 www.mapqueat.com
 0.0.0.0 www.mapquestt.com
-0.0.0.0 www.mapquuest.com
 0.0.0.0 www.marchingant.com
 0.0.0.0 www.marchingants.com
 0.0.0.0 www.mardigras.com
@@ -61052,7 +60928,6 @@
 0.0.0.0 www.mindseti.com
 0.0.0.0 www.mindsetinteractive.com
 0.0.0.0 www.mindsparkadvertising.com
-0.0.0.0 www.minecraftpool.com
 0.0.0.0 www.minemonero.pro
 0.0.0.0 www.miner.center
 0.0.0.0 www.minergate.com
@@ -61086,7 +60961,6 @@
 0.0.0.0 www.ml1.net
 0.0.0.0 www.mlmads.com
 0.0.0.0 www.mmaaxx.com
-0.0.0.0 www.mmapquest.com
 0.0.0.0 www.mmc-marketing-group.com
 0.0.0.0 www.mmm100.com
 0.0.0.0 www.mmmff.com
@@ -61155,7 +61029,6 @@
 0.0.0.0 www.momswhores.net
 0.0.0.0 www.mon-telechargement.biz
 0.0.0.0 www.monaster.com
-0.0.0.0 www.monerise.com
 0.0.0.0 www.monero.crypto-webminer.com
 0.0.0.0 www.monerominer.rocks
 0.0.0.0 www.moneroocean.stream
@@ -64929,7 +64802,6 @@
 0.0.0.0 www.tgoogle.com
 0.0.0.0 www.tgp-world.com
 0.0.0.0 www.tgp16.com
-0.0.0.0 www.tgpmanager.com
 0.0.0.0 www.tgpornstars.com
 0.0.0.0 www.tgpxtreme.com
 0.0.0.0 www.th4.org
@@ -66380,7 +66252,6 @@
 0.0.0.0 www.wowweb.net
 0.0.0.0 www.wowzio.com
 0.0.0.0 www.wpi.biz
-0.0.0.0 www.wpxn.com
 0.0.0.0 www.wrestlingaddict.com
 0.0.0.0 www.wrestlingexposed.com
 0.0.0.0 www.wrestlingtees.com
@@ -67574,7 +67445,6 @@
 0.0.0.0 xclipshostre.co.cc
 0.0.0.0 xclipshoststin.co.cc
 0.0.0.0 xcnn.com
-0.0.0.0 xcnpool2.1gh.com
 0.0.0.0 xcorp.112.2o7.net
 0.0.0.0 xcounter.com
 0.0.0.0 xcounters.com
@@ -67727,9 +67597,7 @@
 0.0.0.0 xmr.cryptonoter.com
 0.0.0.0 xmr.hashinvest.ws
 0.0.0.0 xmr.lindon-pool.win
-0.0.0.0 xmr.minecraftpool.com
 0.0.0.0 xmr.miner.center
-0.0.0.0 xmr.minerhills.com
 0.0.0.0 xmr.mining.best
 0.0.0.0 xmr.mixpools.org
 0.0.0.0 xmr.mypool.online
@@ -67783,7 +67651,6 @@
 0.0.0.0 xn--mymoner-j0a.com
 0.0.0.0 xn--mytherwalet-ms8e53d.com
 0.0.0.0 xn--mytherwllet-r8a0c.com
-0.0.0.0 xn--pypa-0na75c.com
 0.0.0.0 xn--x-xya776spna.com
 0.0.0.0 xn--yetewallet-hf2e6mrk.com
 0.0.0.0 xnations.com
@@ -68140,7 +68007,6 @@
 0.0.0.0 ykosty.freehostia.com
 0.0.0.0 yle01.sitestat.com
 0.0.0.0 ym.adnxs.com
-0.0.0.0 ym.bannerconnect.net
 0.0.0.0 ymk.com
 0.0.0.0 ymlsw.cn
 0.0.0.0 ymuv.com
@@ -68336,7 +68202,6 @@
 0.0.0.0 z-z-video.blogspot.com
 0.0.0.0 z.blogads.com
 0.0.0.0 z.cash
-0.0.0.0 z.coinpool.cloud
 0.0.0.0 z.extreme-dm.com
 0.0.0.0 z.ksl.com
 0.0.0.0 z.lindon-pool.win
@@ -68588,7 +68453,6 @@
 0.0.0.0 zitez.net
 0.0.0.0 zizazu.com
 0.0.0.0 zj.com
-0.0.0.0 zjemch.ru
 0.0.0.0 zjkjw.gov.cn
 0.0.0.0 zkic.com
 0.0.0.0 zko.com
@@ -68613,10 +68477,7 @@
 0.0.0.0 zn.myway.com
 0.0.0.0 zn5hsliyrlhlj7ndr-abcotv.siteintercept.qualtrics.com
 0.0.0.0 znext.com
-0.0.0.0 znode.coinpool.cloud
 0.0.0.0 znode.lindon-pool.win
-0.0.0.0 znode2.coinpool.cloud
-0.0.0.0 znode3.coinpool.cloud
 0.0.0.0 zny.coiner.site
 0.0.0.0 zodals.com
 0.0.0.0 zodiaccasino.com
@@ -68723,8 +68584,8 @@
 
 # Hosts - gasb-pe
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/mirror/GASB-PE.active.txt
-# Generated - 27.07.2018
+# Generated - 02.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 68722
+# Total Domains: 68583
 # License: MIT
 

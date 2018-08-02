@@ -90,7 +90,6 @@
 0.0.0.0 ex.mdtoday.co.kr
 0.0.0.0 g4p.redtram.com
 0.0.0.0 gsad.gameshot.net
-0.0.0.0 h.adscope.co.kr
 0.0.0.0 js.keywordsconnect.com
 0.0.0.0 js.theprimead.co.kr
 0.0.0.0 js2.keywordsconnect.com
@@ -114,8 +113,8 @@
 
 # Hosts - youslist
 # Source - https://raw.githubusercontent.com/yous/YousList/master/hosts.txt
-# Generated - 27.07.2018
+# Generated - 02.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 113
+# Total Domains: 112
 # License: MIT
 

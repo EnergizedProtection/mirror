@@ -111,7 +111,6 @@
 0.0.0.0 ads.tremorhub.com
 0.0.0.0 ads.xlxtra.com
 0.0.0.0 ads.yahoo.com
-0.0.0.0 ads.yemonisoni.com
 0.0.0.0 ads.youtube.com
 0.0.0.0 adsafeprotected.com
 0.0.0.0 adsame.com
@@ -312,6 +311,7 @@
 0.0.0.0 crossrider.com
 0.0.0.0 csi.gstatic.com
 0.0.0.0 ctl.buyt.in
+0.0.0.0 d1zkodo2u3p4pe.cloudfront.net
 0.0.0.0 d2nrdy2pg3k168.cloudfront.net
 0.0.0.0 d32z5ni8t5127x.cloudfront.net
 0.0.0.0 d60y8cj1tje2a.cloudfront.net
@@ -794,7 +794,7 @@
 
 # Hosts - adguard-mobile-ads
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-mobile-ads.txt
-# Generated - 27.07.2018
+# Generated - 02.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 793
 # License: MIT

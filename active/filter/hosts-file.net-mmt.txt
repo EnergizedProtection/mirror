@@ -1889,7 +1889,6 @@
 0.0.0.0 promdresses.co
 0.0.0.0 promise.co
 0.0.0.0 promo.crossdomain.com
-0.0.0.0 promo.dollarrevenue.com
 0.0.0.0 promoprice.guygirl.hop.clickbank.net
 0.0.0.0 pronto.com
 0.0.0.0 proofpos.roybarker.hop.clickbank.net
@@ -2864,7 +2863,6 @@
 0.0.0.0 www.dlsreports.com
 0.0.0.0 www.dmmd.com
 0.0.0.0 www.dohod-v-internete.net
-0.0.0.0 www.dollarrevenue.com
 0.0.0.0 www.dontreply.com
 0.0.0.0 www.downassbitches.com
 0.0.0.0 www.downloadic.com
@@ -3081,7 +3079,6 @@
 0.0.0.0 www.hdattack.com
 0.0.0.0 www.healthnutnews.com
 0.0.0.0 www.helpinminutes.com
-0.0.0.0 www.hentaigratuit.com
 0.0.0.0 www.heritagecrest.com
 0.0.0.0 www.hiddenweb.com
 0.0.0.0 www.highschoolalumni.com
@@ -3626,7 +3623,6 @@
 0.0.0.0 www.sfi4.com
 0.0.0.0 www.sharkcard.com
 0.0.0.0 www.sheat.com
-0.0.0.0 www.shitvideos.com
 0.0.0.0 www.shoebuy.com
 0.0.0.0 www.shopshot.com
 0.0.0.0 www.shoptopia.com
@@ -4010,8 +4006,8 @@
 
 # Hosts - hosts-file.net-mmt
 # Source - https://hosts-file.net/mmt.txt
-# Generated - 27.07.2018
+# Generated - 02.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 4009
+# Total Domains: 4005
 # License: MIT
 
