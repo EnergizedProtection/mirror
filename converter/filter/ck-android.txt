@@ -1,7 +1,7 @@
 # ck-android Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/Android/CK%27s-Android-FilterList.txt
-# Last Converted - Thu, 02 Aug 2018 10:06:21 -0400
+# Last Converted - Thu, 02 Aug 2018 10:39:22 -0400
 # Energized - ad.porn.malware blocking.
 # License: MIT
 
@@ -1104,6 +1104,7 @@
 0.0.0.0 keydot.net
 0.0.0.0 leadzu.com
 0.0.0.0 m.jakc0.com
+0.0.0.0 m.jsqinvest.com
 0.0.0.0 m.mrsasharingspace.com
 0.0.0.0 m.nbhaosheng168.com
 0.0.0.0 ma-code.ru
@@ -1130,7 +1131,7 @@
 0.0.0.0 tapstat.ru
 0.0.0.0 theship.club
 0.0.0.0 tongqing2015.com
-0.0.0.0 track.cpatool.net,
+0.0.0.0 track.cpatool.net
 0.0.0.0 valshara.com
 0.0.0.0 vidout.net
 0.0.0.0 www.webmailer.de

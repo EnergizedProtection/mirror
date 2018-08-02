@@ -1,7 +1,7 @@
 # better-fyi-trackers Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/anarki999/Adblock-List-Archive/master/Better.fyiTrackersBlocklist.txt
-# Last Converted - Thu, 02 Aug 2018 10:06:13 -0400
+# Last Converted - Thu, 02 Aug 2018 10:39:16 -0400
 # Energized - ad.porn.malware blocking.
 # License: MIT
 
@@ -671,7 +671,7 @@
 0.0.0.0 event-source.com
 0.0.0.0 qubitproducts.com
 0.0.0.0 clickability.com
-0.0.0.0 !instagram.com
+0.0.0.0 !instagram.comthird-party
 0.0.0.0 leetemplates.com
 0.0.0.0 adscale.de
 0.0.0.0 d2iz0eu06jh6f4.cloudfront.net

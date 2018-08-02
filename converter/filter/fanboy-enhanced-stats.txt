@@ -1,10 +1,11 @@
 # fanboy-enhanced-stats Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://www.fanboy.co.nz/enhancedstats.txt
-# Last Converted - Thu, 02 Aug 2018 10:06:17 -0400
+# Last Converted - Thu, 02 Aug 2018 10:39:19 -0400
 # Energized - ad.porn.malware blocking.
 # License: MIT
 
+0.0.0.0 -omniture.js
 0.0.0.0 cointent.com
 0.0.0.0 contentpass.net
 0.0.0.0 mediapass.com
@@ -39,7 +40,7 @@
 0.0.0.0 google-analytics.com
 0.0.0.0 images.dmca.com
 0.0.0.0 images.scanalert.com
-0.0.0.0 instantssl.com,
+0.0.0.0 instantssl.com
 0.0.0.0 joinbot.com
 0.0.0.0 kalooga.com
 0.0.0.0 mark.reevoo.com

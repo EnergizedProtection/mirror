@@ -1,7 +1,7 @@
 # squidblacklist-ads Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - http://www.squidblacklist.org/downloads/dg-ads.acl
-# Last Converted - Thu, 02 Aug 2018 10:06:22 -0400
+# Last Converted - Thu, 02 Aug 2018 10:39:23 -0400
 # Energized - ad.porn.malware blocking.
 # License: MIT
 

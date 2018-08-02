@@ -1,7 +1,7 @@
 # easyprivacy-thirdparty Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last Converted - Thu, 02 Aug 2018 10:06:25 -0400
+# Last Converted - Thu, 02 Aug 2018 10:39:25 -0400
 # Energized - ad.porn.malware blocking.
 # License: MIT
 
@@ -205,7 +205,7 @@
 0.0.0.0 click.geopaysys.com
 0.0.0.0 click.rssfwd.com
 0.0.0.0 click1.email.nymagazine.com
-0.0.0.0 click1.online.vulture.com,
+0.0.0.0 click1.online.vulture.com
 0.0.0.0 clicks.dealer.com
 0.0.0.0 clickstream.loomia.com
 0.0.0.0 clicktale.pantherssl.com
@@ -405,7 +405,7 @@
 0.0.0.0 errors.snackly.co
 0.0.0.0 eservicesanalytics.com.au
 0.0.0.0 et.grabnetworks.com
-0.0.0.0 etc.grab.com,
+0.0.0.0 etc.grab.com
 0.0.0.0 event-listener.air.tv
 0.0.0.0 event.api.drift.com
 0.0.0.0 event.loyalty.bigdoor.com
@@ -473,13 +473,13 @@
 0.0.0.0 ib.adnxs.com
 0.0.0.0 icu.getstorybox.com
 0.0.0.0 ihstats.cloudapp.net
-0.0.0.0 imagedoll.com,
+0.0.0.0 imagedoll.com
 0.0.0.0 imp.affiliator.com
 0.0.0.0 imp.clickability.com
 0.0.0.0 imp.constantcontact.com
 0.0.0.0 imp.pix.com
 0.0.0.0 impress.vcita.com
-0.0.0.0 imprvdosrv.com,
+0.0.0.0 imprvdosrv.com
 0.0.0.0 infinityid.condenastdigital.com
 0.0.0.0 informer.yandex.ru
 0.0.0.0 insight.mintel.com
@@ -578,7 +578,7 @@
 0.0.0.0 n.mailfire.io
 0.0.0.0 neocounter.neoworx-blog-tools.net
 0.0.0.0 newsanalytics.com.au
-0.0.0.0 newsletters.nationalgeographic.com,
+0.0.0.0 newsletters.nationalgeographic.com
 0.0.0.0 ninja.onap.io
 0.0.0.0 nol.yahoo.com
 0.0.0.0 nonxt1.c.youtube.com
@@ -719,7 +719,7 @@
 0.0.0.0 sig.atdmt.com
 0.0.0.0 sig.gamerdna.com
 0.0.0.0 sitereports.officelive.com
-0.0.0.0 slidedeck.com,
+0.0.0.0 slidedeck.com
 0.0.0.0 smrt.as
 0.0.0.0 snaps.vidiemi.com
 0.0.0.0 spacedust.netmediaeurope.com
