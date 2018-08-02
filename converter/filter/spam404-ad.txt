@@ -1,8 +1,9 @@
 # spam404-ad Custom Build
-# Builds Maintainer: Nayem Ador
+# Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/Dawsey21/Lists/master/adblock-list.txt
-# Last Converted - Fri, 27 Jul 2018 09:49:04 -0400
+# Last Converted - Thu, 02 Aug 2018 09:39:25 -0400
 # Energized - ad.porn.malware blocking.
+# License: MIT
 
 0.0.0.0 telechargerdes.com
 0.0.0.0 rarshare.com

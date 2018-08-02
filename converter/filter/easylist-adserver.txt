@@ -1,8 +1,9 @@
 # easylist-adserver Custom Build
-# Builds Maintainer: Nayem Ador
+# Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt
-# Last Converted - Fri, 27 Jul 2018 09:48:59 -0400
+# Last Converted - Thu, 02 Aug 2018 09:39:19 -0400
 # Energized - ad.porn.malware blocking.
+# License: MIT
 
 0.0.0.0 007-gateway.com
 0.0.0.0 04dn8g4f.space
@@ -223,6 +224,7 @@
 0.0.0.0 adbard.net
 0.0.0.0 adbasket.net
 0.0.0.0 adbetclickin.pink
+0.0.0.0 adbetnet.com
 0.0.0.0 adbit.co
 0.0.0.0 adblockerkillswebsites.pw
 0.0.0.0 adbma.com
@@ -386,6 +388,7 @@
 0.0.0.0 adlatch.com
 0.0.0.0 adlayer.net
 0.0.0.0 adlegend.com
+0.0.0.0 adligature.com
 0.0.0.0 adlightning.com
 0.0.0.0 adlink.net
 0.0.0.0 adlinx.info
@@ -820,7 +823,16 @@
 0.0.0.0 affiz.net
 0.0.0.0 affplanet.com
 0.0.0.0 afftrack.com
+0.0.0.0 afgr1.com
+0.0.0.0 afgr10.com
 0.0.0.0 afgr2.com
+0.0.0.0 afgr3.com
+0.0.0.0 afgr4.com
+0.0.0.0 afgr5.com
+0.0.0.0 afgr6.com
+0.0.0.0 afgr7.com
+0.0.0.0 afgr8.com
+0.0.0.0 afgr9.com
 0.0.0.0 aflrm.com
 0.0.0.0 afovelsa.com
 0.0.0.0 africawin.com
@@ -1083,6 +1095,7 @@
 0.0.0.0 bentdownload.com
 0.0.0.0 bepolite.eu
 0.0.0.0 beringmedia.com
+0.0.0.0 berush.com
 0.0.0.0 besied.com
 0.0.0.0 best5ex.com
 0.0.0.0 bestarmour4u.work
@@ -1502,6 +1515,7 @@
 0.0.0.0 connexity.net
 0.0.0.0 connexplace.com
 0.0.0.0 connextra.com
+0.0.0.0 consciouschairs.com
 0.0.0.0 consivenu.com
 0.0.0.0 constintptr.com
 0.0.0.0 construment.com
@@ -3852,6 +3866,7 @@
 0.0.0.0 seductionprofits.com
 0.0.0.0 seegamese.com
 0.0.0.0 seekads.net
+0.0.0.0 seethisinaction.com
 0.0.0.0 seiya.work
 0.0.0.0 sekindo.com
 0.0.0.0 selectablemedia.com
@@ -3929,6 +3944,7 @@
 0.0.0.0 skytemjo.link
 0.0.0.0 skywarts.ru
 0.0.0.0 slfpu.com
+0.0.0.0 slfsmf.com
 0.0.0.0 slikslik.com
 0.0.0.0 slimspots.com
 0.0.0.0 slimtrade.com
@@ -6081,6 +6097,36 @@
 0.0.0.0 vipcpms.com
 0.0.0.0 viuboin4.com
 0.0.0.0 yie4zooseif.info
+0.0.0.0 crvvrxfgsvohiy.com
+0.0.0.0 dmrqnwtyttd.com
+0.0.0.0 dwvfccxbj.com
+0.0.0.0 efebafmqn.com
+0.0.0.0 fxdglnldbnyq.com
+0.0.0.0 gmeomlvmqlmu.com
+0.0.0.0 gsjhehtqvin.com
+0.0.0.0 jbcadlpdfsxsfe.com
+0.0.0.0 jpxevzab.com
+0.0.0.0 ltvrdftgr.com
+0.0.0.0 ngptxgpbdnutvi.com
+0.0.0.0 qczvjjdbaj.com
+0.0.0.0 qevmzohvwxesrd.com
+0.0.0.0 rcumwyqkv.com
+0.0.0.0 rwugdvqdpxfz.com
+0.0.0.0 symydvmqjjp.com
+0.0.0.0 tjdrxdsto.com
+0.0.0.0 tktyinaabq.com
+0.0.0.0 tufpmrcdc.com
+0.0.0.0 usfmwydo.com
+0.0.0.0 vsxjjmyz.com
+0.0.0.0 vtmkgqcvzvlsdt.com
+0.0.0.0 vyjwsifvybc.com
+0.0.0.0 wduygininqbu.com
+0.0.0.0 wjgddzpvx.com
+0.0.0.0 wzismevwhqixlq.com
+0.0.0.0 yjijmpezje.com
+0.0.0.0 yxbglezas.com
+0.0.0.0 zlgokeby.com
+0.0.0.0 zplvjgpxvh.com
 0.0.0.0 wjgddzpvx.com
 0.0.0.0 aacgeuvaoqbw.com
 0.0.0.0 aadbobwqgmzi.com
@@ -13298,6 +13344,7 @@
 0.0.0.0 46779ff4.net
 0.0.0.0 4trgergq.net
 0.0.0.0 546qwee.net
+0.0.0.0 56sgtrx.com
 0.0.0.0 6dfggjbgt.com
 0.0.0.0 9pohbga.com
 0.0.0.0 absilf.com

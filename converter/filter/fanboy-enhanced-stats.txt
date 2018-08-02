@@ -1,8 +1,9 @@
 # fanboy-enhanced-stats Custom Build
-# Builds Maintainer: Nayem Ador
+# Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://www.fanboy.co.nz/enhancedstats.txt
-# Last Converted - Fri, 27 Jul 2018 09:49:01 -0400
+# Last Converted - Thu, 02 Aug 2018 09:39:20 -0400
 # Energized - ad.porn.malware blocking.
+# License: MIT
 
 0.0.0.0 -omniture.js
 0.0.0.0 cointent.com

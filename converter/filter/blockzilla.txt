@@ -1,8 +1,9 @@
 # blockzilla Custom Build
-# Builds Maintainer: Nayem Ador
+# Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/zpacman/Blockzilla/master/Blockzilla.txt
-# Last Converted - Fri, 27 Jul 2018 09:48:58 -0400
+# Last Converted - Thu, 02 Aug 2018 09:39:18 -0400
 # Energized - ad.porn.malware blocking.
+# License: MIT
 
 0.0.0.0 -1x1.gif?
 0.0.0.0 112.2o7.net

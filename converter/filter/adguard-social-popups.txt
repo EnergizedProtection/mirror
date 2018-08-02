@@ -1,0 +1,9 @@
+# adguard-social-popups Custom Build
+# Builds Maintainer: Nayem Ador - nayemador.com
+# Converted From - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SocialFilter/sections/popups.txt
+# Last Converted - Thu, 02 Aug 2018 09:39:15 -0400
+# Energized - ad.porn.malware blocking.
+# License: MIT
+
+0.0.0.0 mailget.net
+0.0.0.0 my.hellobar.com

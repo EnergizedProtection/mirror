@@ -1,9 +1,20 @@
 # cybercrime Custom Build
-# Builds Maintainer: Nayem Ador
+# Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://v.firebog.net/hosts/Cybercrime.txt
-# Last Converted - Fri, 27 Jul 2018 09:49:06 -0400
+# Last Converted - Thu, 02 Aug 2018 09:39:27 -0400
 # Energized - ad.porn.malware blocking.
+# License: MIT
 
+0.0.0.0 deror.cf
+0.0.0.0 9odzilla.xyz
+0.0.0.0 greyistanbulport.com
+0.0.0.0 lacasonadelcartero.cl
+0.0.0.0 bill.gopetrom.com
+0.0.0.0 primausaha.net
+0.0.0.0 www.365-team.org
+0.0.0.0 life-is-beautiful.in
+0.0.0.0 bsfwsservices.co.uk
+0.0.0.0 service-us.ml
 0.0.0.0 ortaksistem.com
 0.0.0.0 theonlygoodman.com
 0.0.0.0 astoundingpainting.com
@@ -81,7 +92,6 @@
 0.0.0.0 berfipol.co.vu
 0.0.0.0 verysome.ml
 0.0.0.0 verodsp.ml
-0.0.0.0 greyistanbulport.com
 0.0.0.0 fectmone.ml
 0.0.0.0 domainsvilla.ml
 0.0.0.0 creayepanels.tk

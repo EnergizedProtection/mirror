@@ -1,4 +1,4 @@
-# adguard-dns Custom Build
+# adguard-domains Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://filters.adtidy.org/extension/chromium/filters/15.txt
 # Last Converted - Thu, 02 Aug 2018 09:39:14 -0400

@@ -2,10 +2,10 @@
 
 // Add our lists.
 $lists = array(
-	// Mobile Ads
+	// Adguard Mobile Ads
 	'adguard-mobile-ads' => 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt',
 
-	// Mobile Tracking + Spyware
+	// Adguard Mobile Tracking + Spyware
 	'adguard-mobile-spyware' => 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/spyware.txt',
 
 	// Adguard Apps
@@ -16,12 +16,39 @@ $lists = array(
 
 	// Adguard Spyware First Party
 	'adguard-spyware-firstparty' => 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers_firstparty.txt',
-
-  // Adguard Tracking
+	
+	// Adguard Tracking
 	'adguard-tracking-servers' => 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers.txt',
-  
-  // Blockzilla
-  'blockzilla' => 'https://raw.githubusercontent.com/zpacman/Blockzilla/master/Blockzilla.txt',
+	
+	// Adguard Simplified Domains
+	'adguard-domains' => 'https://filters.adtidy.org/extension/chromium/filters/15.txt',
+	
+	// Adguard Social Filter
+	'adguard-social-filter' => 'https://filters.adtidy.org/extension/chromium/filters/4.txt',
+	
+	// Adguard Social Trackers
+	'adguard-social-trackers' => 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SocialFilter/sections/social_trackers.txt',
+	
+	// Adguard Social Popups
+	'adguard-social-popups' => 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SocialFilter/sections/popups.txt',
+	
+	// Adguard Safari Filters
+	'adguard-safari' => 'https://filters.adtidy.org/extension/chromium/filters/12.txt',
+	
+	// Adversity Anti Social
+	'adversity-anti-social' => 'https://raw.githubusercontent.com/Hubird-au/Adversity/master/Antisocial.txt',
+	
+	// Adware Filters
+	'adware-filters' => 'https://easylist-downloads.adblockplus.org/adwarefilters.txt',
+	
+	// All-In-One Adblocklist
+	'all-in-one-adblocklist' => 'https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt',
+	
+	// Better.fyi Trackers
+	'better-fyi-trackers' => 'https://raw.githubusercontent.com/anarki999/Adblock-List-Archive/master/Better.fyiTrackersBlocklist.txt',
+	
+	// Blockzilla
+	'blockzilla' => 'https://raw.githubusercontent.com/zpacman/Blockzilla/master/Blockzilla.txt',
   
 	// EasyPrivacy
 	'easyprivacy' => 'https://easylist.to/easylist/easyprivacy.txt',
@@ -43,15 +70,21 @@ $lists = array(
 
    // Easylist Adult 3rd Party
 	'easylist-adult-thirdparty' => 'https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_thirdparty.txt',
-
-  // Easylist Adult Specific
+	
+	// Easylist Adult Specific
 	'easylist-adult-specific' => 'https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_specific_block.txt',
 	
 	// FanBoy EnhancedStats
 	'fanboy-enhanced-stats' => 'https://www.fanboy.co.nz/enhancedstats.txt',
 	
-  // MoaAB
-  'moaab' => 'https://raw.githubusercontent.com/EnergizedProtection/mirror/master/mirror/MoaAB.active.txt',
+	// Fanboy Fake News
+	'fanboy-fake-news' => 'https://raw.githubusercontent.com/ryanbr/fanboy-adblock/master/fake-news.txt',
+	
+	// Fanboy Complete
+	'fanboy-complete' => 'https://fanboy.co.nz/r/fanboy-complete.txt',
+	
+	// MoaAB
+	//'moaab' => 'http://adblock.mahakala.is/',
   
 	// Quidsup No Track
 	'quidsup-no-track' => 'https://raw.githubusercontent.com/quidsup/notrack/master/trackers.txt',
@@ -80,11 +113,17 @@ $lists = array(
 	// SquidBlacklist Malicious 
 	'squidblacklist-malicious' => 'https://www.squidblacklist.org/downloads/dg-malicious.acl',
 	
-  // Porn Top 1M
-  'porn-top1m' => 'https://raw.githubusercontent.com/chadmayfield/pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list',
+	// Porn Top 1M
+	'porn-top1m' => 'https://raw.githubusercontent.com/chadmayfield/pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list',
   
 	// Cybercrime Tracker
 	'cybercrime' => 'https://v.firebog.net/hosts/Cybercrime.txt',
+	
+	// Phishing Bad Sites
+	'phishing-bad-sites' => 'http://phishing.mailscanner.info/phishing.bad.sites.conf',
+	
+	// Wow Dude PornList
+	'wowdude-pornlist' => 'https://raw.githubusercontent.com/WowDude/PornList/master/PornList.txt',
 	
 	// EasyPrivacy Third-Party
 	'easyprivacy-thirdparty' => 'https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt'
@@ -99,10 +138,11 @@ foreach ( $lists as $name => $list ) {
 
 	// HOSTS header.
 	$hosts  = "# {$name} Custom Build\n";
-	$hosts .= "# Builds Maintainer: Nayem Ador\n";
+	$hosts .= "# Builds Maintainer: Nayem Ador - nayemador.com\n";
 	$hosts .= "# Converted From - {$list}\n";
 	$hosts .= "# Last Converted - " . date( 'r' ) . "\n";
-	$hosts .= "# Energized - ad.porn.malware blocking.\n\n";
+	$hosts .= "# Energized - ad.porn.malware blocking.\n";
+	$hosts .= "# License: MIT\n\n";
 
 	// Loop through each ad filter.
 	foreach ( $lines as $filter ) {

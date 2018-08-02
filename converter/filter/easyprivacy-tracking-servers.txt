@@ -1,8 +1,9 @@
 # easyprivacy-tracking-servers Custom Build
-# Builds Maintainer: Nayem Ador
+# Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers.txt
-# Last Converted - Fri, 27 Jul 2018 09:49:00 -0400
+# Last Converted - Thu, 02 Aug 2018 09:39:19 -0400
 # Energized - ad.porn.malware blocking.
+# License: MIT
 
 0.0.0.0 0emm.com
 0.0.0.0 0tracker.com
@@ -278,6 +279,7 @@
 0.0.0.0 baynote.net
 0.0.0.0 bdash-cloud.com
 0.0.0.0 beacon.kmi-us.com
+0.0.0.0 beampulse.com
 0.0.0.0 beanstalkdata.com
 0.0.0.0 beanstock.com
 0.0.0.0 bebj.com
@@ -983,6 +985,7 @@
 0.0.0.0 i-stats.com
 0.0.0.0 i401xox.com
 0.0.0.0 iadvize.com
+0.0.0.0 iaudienc.com
 0.0.0.0 ib-ibi.com
 0.0.0.0 ibpxl.com
 0.0.0.0 ibpxl.net
@@ -1035,7 +1038,6 @@
 0.0.0.0 inspectlet.com
 0.0.0.0 instadia.net
 0.0.0.0 instana.io
-0.0.0.0 instapage.com
 0.0.0.0 instore.biz
 0.0.0.0 integritystat.com
 0.0.0.0 intelevance.com
@@ -1226,6 +1228,8 @@
 0.0.0.0 market2lead.com
 0.0.0.0 marketizator.com
 0.0.0.0 marketo.net
+0.0.0.0 marketshot.com
+0.0.0.0 marketshot.fr
 0.0.0.0 markitondemand.com
 0.0.0.0 martianstats.com
 0.0.0.0 maryneallynndyl.com
@@ -2746,6 +2750,7 @@
 0.0.0.0 sharppatch.com
 0.0.0.0 shelterstraw.com
 0.0.0.0 shermore.info
+0.0.0.0 spiffymachine.com
 0.0.0.0 spottysense.com
 0.0.0.0 spurioussteam.com
 0.0.0.0 storesurprise.com

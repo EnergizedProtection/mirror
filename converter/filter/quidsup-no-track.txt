@@ -1,8 +1,9 @@
 # quidsup-no-track Custom Build
-# Builds Maintainer: Nayem Ador
+# Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/quidsup/notrack/master/trackers.txt
-# Last Converted - Fri, 27 Jul 2018 09:49:02 -0400
+# Last Converted - Thu, 02 Aug 2018 09:39:23 -0400
 # Energized - ad.porn.malware blocking.
+# License: MIT
 
 0.0.0.0 1orange-u.com
 0.0.0.0 28ysc.com

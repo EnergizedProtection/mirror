@@ -1,8 +1,9 @@
 # adguard-mobile-ads Custom Build
-# Builds Maintainer: Nayem Ador
+# Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
-# Last Converted - Fri, 27 Jul 2018 09:48:57 -0400
+# Last Converted - Thu, 02 Aug 2018 09:39:13 -0400
 # Energized - ad.porn.malware blocking.
+# License: MIT
 
 0.0.0.0 banners-slb.mobile.yandex.net
 0.0.0.0 banners.mobile.yandex.net
@@ -47,6 +48,7 @@
 0.0.0.0 54.222.186.106
 0.0.0.0 plugin.mobopay.baidu.com
 0.0.0.0 mo.freeindoapp.com
+0.0.0.0 d1zkodo2u3p4pe.cloudfront.net
 0.0.0.0 ad-ettoday.cdn.hinet.net
 0.0.0.0 adv-ettoday.cdn.hinet.net
 0.0.0.0 adv.ettoday.net

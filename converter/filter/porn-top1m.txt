@@ -1,8 +1,9 @@
 # porn-top1m Custom Build
-# Builds Maintainer: Nayem Ador
+# Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/chadmayfield/pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list
-# Last Converted - Fri, 27 Jul 2018 09:49:06 -0400
+# Last Converted - Thu, 02 Aug 2018 09:39:27 -0400
 # Energized - ad.porn.malware blocking.
+# License: MIT
 
 0.0.0.0 pornhub.com
 0.0.0.0 livejasmin.com
