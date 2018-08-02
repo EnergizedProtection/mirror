@@ -1,7 +1,7 @@
 # better-fyi-trackers Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/anarki999/Adblock-List-Archive/master/Better.fyiTrackersBlocklist.txt
-# Last Converted - Thu, 02 Aug 2018 10:48:27 -0400
+# Last Converted - Thu, 02 Aug 2018 10:52:46 -0400
 # Energized - ad.porn.malware blocking.
 # License: MIT
 
@@ -295,7 +295,6 @@
 0.0.0.0 richmedia.yimg.com
 0.0.0.0 qos.video.yimg.com
 0.0.0.0 richmedia.yimg.com
-0.0.0.0 www.filldisk.com
 0.0.0.0 adclixx.net
 0.0.0.0 adnetasia.com
 0.0.0.0 ads.yahoo.com
@@ -454,7 +453,6 @@
 0.0.0.0 burt.io
 0.0.0.0 gumgum.com
 0.0.0.0 dotomi.com
-0.0.0.0 pagefair.com
 0.0.0.0 crazyegg.com
 0.0.0.0 veruta.com
 0.0.0.0 adgrx.com
@@ -499,7 +497,6 @@
 0.0.0.0 gravatar.com
 0.0.0.0 rundsp.com
 0.0.0.0 spingo.com
-0.0.0.0 jsdelivr.net
 0.0.0.0 go-mpulse.net
 0.0.0.0 erne.co
 0.0.0.0 media.net
@@ -516,7 +513,6 @@
 0.0.0.0 msecnd.net
 0.0.0.0 everesttech.net
 0.0.0.0 netmng.com
-0.0.0.0 linkedin.com
 0.0.0.0 nimbledeals.com
 0.0.0.0 truste.com
 0.0.0.0 medianewsgroup.com
@@ -529,7 +525,6 @@
 0.0.0.0 newsapi.com.au
 0.0.0.0 matheranalytics.com
 0.0.0.0 fdncms.com
-0.0.0.0 jsonline.com
 0.0.0.0 atwola.com
 0.0.0.0 tribalfusion.com
 0.0.0.0 atemda.com
@@ -630,7 +625,6 @@
 0.0.0.0 zencdn.net
 0.0.0.0 digitalmediacommunications.com
 0.0.0.0 richmetrics.com
-0.0.0.0 brightcove.net
 0.0.0.0 dtmpub.com
 0.0.0.0 revcontent.com
 0.0.0.0 collective-media.net
@@ -671,7 +665,6 @@
 0.0.0.0 event-source.com
 0.0.0.0 qubitproducts.com
 0.0.0.0 clickability.com
-0.0.0.0 instagram.com
 0.0.0.0 leetemplates.com
 0.0.0.0 adscale.de
 0.0.0.0 d2iz0eu06jh6f4.cloudfront.net
