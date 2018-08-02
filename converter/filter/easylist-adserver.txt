@@ -1,7 +1,7 @@
 # easylist-adserver Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt
-# Last Converted - Thu, 02 Aug 2018 10:52:48 -0400
+# Last Converted - Thu, 02 Aug 2018 17:17:39 -0400
 # Energized - ad.porn.malware blocking.
 # License: MIT
 
@@ -6098,6 +6098,7 @@
 0.0.0.0 viuboin4.com
 0.0.0.0 yie4zooseif.info
 0.0.0.0 crvvrxfgsvohiy.com
+0.0.0.0 degitlwfezpe.com
 0.0.0.0 dmrqnwtyttd.com
 0.0.0.0 dwvfccxbj.com
 0.0.0.0 efebafmqn.com
@@ -6124,6 +6125,7 @@
 0.0.0.0 wduygininqbu.com
 0.0.0.0 wjgddzpvx.com
 0.0.0.0 wzismevwhqixlq.com
+0.0.0.0 yaikleyabl.com
 0.0.0.0 yjijmpezje.com
 0.0.0.0 yxbglezas.com
 0.0.0.0 zlgokeby.com

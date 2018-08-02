@@ -1,7 +1,7 @@
 # easyprivacy Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://easylist.to/easylist/easyprivacy.txt
-# Last Converted - Thu, 02 Aug 2018 10:52:47 -0400
+# Last Converted - Thu, 02 Aug 2018 17:17:38 -0400
 # Energized - ad.porn.malware blocking.
 # License: MIT
 
@@ -5404,6 +5404,7 @@
 0.0.0.0 optimize-stats.voxmedia.com
 0.0.0.0 origin-tracking.trulia.com
 0.0.0.0 origin.chron.com
+0.0.0.0 pageinfo.motorsport.com
 0.0.0.0 partner.worldoftanks.com
 0.0.0.0 partners.badongo.com
 0.0.0.0 partners.mysavings.com

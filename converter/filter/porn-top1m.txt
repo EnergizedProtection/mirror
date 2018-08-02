@@ -1,7 +1,7 @@
 # porn-top1m Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/chadmayfield/pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list
-# Last Converted - Thu, 02 Aug 2018 10:52:55 -0400
+# Last Converted - Thu, 02 Aug 2018 17:17:47 -0400
 # Energized - ad.porn.malware blocking.
 # License: MIT
 

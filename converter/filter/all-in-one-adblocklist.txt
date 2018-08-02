@@ -1,7 +1,7 @@
 # all-in-one-adblocklist Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
-# Last Converted - Thu, 02 Aug 2018 10:52:46 -0400
+# Last Converted - Thu, 02 Aug 2018 17:17:37 -0400
 # Energized - ad.porn.malware blocking.
 # License: MIT
 
@@ -788,6 +788,7 @@
 0.0.0.0 ddjodgzhxyjtaa.bid
 0.0.0.0 debuackedhkvu.bid
 0.0.0.0 deebwmbbytr.com
+0.0.0.0 degitlwfezpe.com
 0.0.0.0 dehyogsjbk.bid
 0.0.0.0 deouvnqbgflv.com
 0.0.0.0 deqrdwsjlpjz.com
@@ -3902,6 +3903,7 @@
 0.0.0.0 pkoyiqjjxhsy.com
 0.0.0.0 pktgargbhjmo.com
 0.0.0.0 pkucwwgcnuxzo.bid
+0.0.0.0 pkxquvydrgin.com
 0.0.0.0 pkzfmxjlkcxkub.com
 0.0.0.0 plcsedkinoul.com
 0.0.0.0 plgalhmhkhzy.com
@@ -6085,6 +6087,7 @@
 0.0.0.0 xzzcasiospbn.com
 0.0.0.0 yafsixmo.com
 0.0.0.0 yaifxxudxyns.com
+0.0.0.0 yaikleyabl.com
 0.0.0.0 yaizwjvnxctz.com
 0.0.0.0 yalyuzvlr.bid
 0.0.0.0 yamrxfbkpirt.com
@@ -14429,9 +14432,12 @@
 0.0.0.0 gsjhehtqvin.com
 0.0.0.0 jbcadlpdfsxsfe.com
 0.0.0.0 jpxevzab.com
+0.0.0.0 ltvrdftgr.com
 0.0.0.0 ngptxgpbdnutvi.com
+0.0.0.0 pkxquvydrgin.com
 0.0.0.0 qczvjjdbaj.com
 0.0.0.0 qevmzohvwxesrd.com
+0.0.0.0 rcumwyqkv.com
 0.0.0.0 rwugdvqdpxfz.com
 0.0.0.0 symydvmqjjp.com
 0.0.0.0 tjdrxdsto.com
@@ -31627,6 +31633,7 @@
 0.0.0.0 www.aymcsx.ru
 0.0.0.0 www.b.proxy4.nullrefexcep.com
 0.0.0.0 www.bablace.com
+0.0.0.0 www.backend.freecontent.win
 0.0.0.0 www.baiduccdn1.com
 0.0.0.0 www.befirstcdn.com
 0.0.0.0 www.berateveng.ru
@@ -31652,11 +31659,13 @@
 0.0.0.0 www.c7e935.netlify.com
 0.0.0.0 www.capodannoinversilia.com
 0.0.0.0 www.carrel.services
+0.0.0.0 www.cd.freecontent.win
 0.0.0.0 www.cdn-analytics.pl
 0.0.0.0 www.cdn-jquery.host
 0.0.0.0 www.cdn.nablabee.com
 0.0.0.0 www.cdnfile.xyz
 0.0.0.0 www.cdns.ws
+0.0.0.0 www.certificates.freecontent.win
 0.0.0.0 www.cfcd.duckdns.org
 0.0.0.0 www.cfcdist.gdn
 0.0.0.0 www.cfceu.duckdns.org
@@ -31761,6 +31770,7 @@
 0.0.0.0 www.eth-pocket.eu
 0.0.0.0 www.ethtrader.de
 0.0.0.0 www.etlrsq.ru
+0.0.0.0 www.etn.spacepools.org
 0.0.0.0 www.etzbnfuigipwvs.ru
 0.0.0.0 www.eucsoft.com
 0.0.0.0 www.evengparme.com
@@ -31794,6 +31804,7 @@
 0.0.0.0 www.freshrefreshnerer186.info
 0.0.0.0 www.freshrefreshnerer186rb.info
 0.0.0.0 www.fruitice.realnetwrk.com
+0.0.0.0 www.ftp.freecontent.net
 0.0.0.0 www.ftzivuesohvebj.ru
 0.0.0.0 www.futeboltv.com
 0.0.0.0 www.fxnow.ru
@@ -31940,6 +31951,7 @@
 0.0.0.0 www.miscws029.coinhive.com
 0.0.0.0 www.mlib.browsermine.com
 0.0.0.0 www.mmc.center
+0.0.0.0 www.mmpool.org
 0.0.0.0 www.monad.network
 0.0.0.0 www.moneone.ga
 0.0.0.0 www.monerise.com
@@ -32000,6 +32012,7 @@
 0.0.0.0 www.pearno.com
 0.0.0.0 www.pebx.pl
 0.0.0.0 www.pertosj.ru
+0.0.0.0 www.play.intellecthosting.net
 0.0.0.0 www.plexcoin.info
 0.0.0.0 www.pocketgolf.host
 0.0.0.0 www.pool.bmnr.pw
@@ -32045,6 +32058,7 @@
 0.0.0.0 www.salamaleyum.com
 0.0.0.0 www.sbhmn-miner.com
 0.0.0.0 www.scaleway.ovh
+0.0.0.0 www.sdfsf.freecontent.date
 0.0.0.0 www.secumine.net
 0.0.0.0 www.serie-vostfr.com
 0.0.0.0 www.sharing-is-caring.info
@@ -32057,6 +32071,7 @@
 0.0.0.0 www.snahome.com
 0.0.0.0 www.sparechange.io
 0.0.0.0 www.sptlkiyjsglayc.ru
+0.0.0.0 www.sss.freecontent.date
 0.0.0.0 www.stat0808.info
 0.0.0.0 www.stati.bid
 0.0.0.0 www.static-02.flu.cc
@@ -32132,6 +32147,7 @@
 0.0.0.0 www.webminepool.com
 0.0.0.0 www.webminepool.tk
 0.0.0.0 www.webminer.pro
+0.0.0.0 www.webminerpool.com
 0.0.0.0 www.webmining.co
 0.0.0.0 www.webwidgetz.duckdns.org
 0.0.0.0 www.webxmr.com
@@ -32276,6 +32292,7 @@
 0.0.0.0 www.x.browsermine.com
 0.0.0.0 www.xmg.cool
 0.0.0.0 www.xmr.cool
+0.0.0.0 www.xmr.crypto-pool.fr
 0.0.0.0 www.xmrm.browsermine.com
 0.0.0.0 www.xmrm.pw
 0.0.0.0 www.xmrpool.net
@@ -33362,6 +33379,7 @@
 0.0.0.0 newsletters.vocento.com
 0.0.0.0 booster3d.com
 0.0.0.0 edintorni.net
+0.0.0.0 epeex.com
 0.0.0.0 linkwelove.com
 0.0.0.0 linkwelove.it
 0.0.0.0 mastertop100.org

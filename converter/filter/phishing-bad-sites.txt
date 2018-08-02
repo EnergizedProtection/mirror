@@ -1,33 +1,46 @@
 # phishing-bad-sites Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - http://phishing.mailscanner.info/phishing.bad.sites.conf
-# Last Converted - Thu, 02 Aug 2018 10:52:56 -0400
+# Last Converted - Thu, 02 Aug 2018 17:17:48 -0400
 # Energized - ad.porn.malware blocking.
 # License: MIT
 
+0.0.0.0 sanvero-travel.net
+0.0.0.0 agosto2018saldao.com
+0.0.0.0 hotel-fkangel.com
+0.0.0.0 lbcpzonasegurabeta-viabcp.cb-bcr.com
+0.0.0.0 ofertas-da-semana7630.com
 0.0.0.0 casasbahiapromocao2018.com
 0.0.0.0 pontofrio.ofertasdodia.ml
+0.0.0.0 confirm.account.up.info.inaciocarvalho.com.br
 0.0.0.0 www.silvestersavingsblog.xyz
+0.0.0.0 cl-pg-formations.ch
+0.0.0.0 okklmgy.ml
 0.0.0.0 user57367.vs.speednames.com
 0.0.0.0 user57362.vs.speednames.com
 0.0.0.0 cert-mps.net
+0.0.0.0 www.clinicalosfundadores.cl
 0.0.0.0 more.square7.ch
+0.0.0.0 9383-jargalsaikhan-tsa.000webhostapp.com
 0.0.0.0 promo-claims.org
 0.0.0.0 btcdrop.in
 0.0.0.0 ethdrop.in
 0.0.0.0 www.rakutencard-secuity.com
 0.0.0.0 coinbasespromo.tumblr.com
 0.0.0.0 mediumblogsot.top
+0.0.0.0 www.lineqv.cn
+0.0.0.0 us455.hol.es
 0.0.0.0 www.bbcnewstoday.org
+0.0.0.0 peringatanfacebook.weebly.com
 0.0.0.0 1036560fsp.hol.es
 0.0.0.0 2006180124.hol.es
 0.0.0.0 claimprize.xyz
 0.0.0.0 www.paypal.com-authflowaccountrecovery.center
 0.0.0.0 recovery6-unipaqes.ga
 0.0.0.0 recovery5-unipaqes.cf
+0.0.0.0 secure.runescape.com-sh.top
 0.0.0.0 mrwilsonshirecar.com.au
 0.0.0.0 myetheruvvalleet.xyz
-0.0.0.0 view-wallel.info
 0.0.0.0 shapeshift-exchange.io
 0.0.0.0 myethgift.com
 0.0.0.0 clubeth.live
@@ -36,6 +49,7 @@
 0.0.0.0 7.realizare-site-online.ro
 0.0.0.0 support-identify-ads-manager.ml
 0.0.0.0 giveaway-promo.net
+0.0.0.0 balovenizza.ru
 0.0.0.0 noweth.top
 0.0.0.0 servicuentas.vene.red
 0.0.0.0 katalog-odkazu-beta.cz
@@ -44,18 +58,19 @@
 0.0.0.0 grouploot.co.uk
 0.0.0.0 www.niosdeledguide.com
 0.0.0.0 ggvrefis.000webhostapp.com
-0.0.0.0 aru2.anyas-schmuck-box.de
 0.0.0.0 clearspring.otsandbox.com
+0.0.0.0 aru2.anyas-schmuck-box.de
 0.0.0.0 afransyafikri000.000webhostapp.com
+0.0.0.0 acenonwoven.com
 0.0.0.0 extraa.hol.es
 0.0.0.0 public-post-filters.cf
 0.0.0.0 www.pavypal.secure-updateinformationaccountprivacypolicy.com
+0.0.0.0 learn-to-play-piano-online.com
 0.0.0.0 carrefourdusex.fr
-0.0.0.0 us455.hol.es
 0.0.0.0 private-myetherwallet.quanta.im
+0.0.0.0 newasiangarden.se
 0.0.0.0 interativanets.com
 0.0.0.0 mylpdemo.com
-0.0.0.0 verify-info3.at.ua
 0.0.0.0 novustrend.com
 0.0.0.0 marianbulz420.000webhostapp.com
 0.0.0.0 paybotservercounterstrike.000webhostapp.com
@@ -72,7 +87,6 @@
 0.0.0.0 spainpack.store
 0.0.0.0 swisspack7.store
 0.0.0.0 tyu-relt.gq
-0.0.0.0 pi.pv-bne.gq
 0.0.0.0 vdmskesl.co.uk
 0.0.0.0 janellefuchs.com
 0.0.0.0 3vsecurity.com.mx
@@ -109,11 +123,8 @@
 0.0.0.0 bestchange.pro
 0.0.0.0 gerautoscut.world
 0.0.0.0 airdrops.delivery
-0.0.0.0 bestchange24.com
 0.0.0.0 www.loyaltravel.com.np
-0.0.0.0 cinsoon.com.my
 0.0.0.0 college-essays.net
-0.0.0.0 ethmore.io
 0.0.0.0 medium-blogpost.com
 0.0.0.0 paypalebuy.blogspot.com
 0.0.0.0 www.bittrex.is
@@ -135,8 +146,6 @@
 0.0.0.0 sitesahome.com.br
 0.0.0.0 ib.nab.com.au.nabib.mobile.login.ctl.0ahukewia6y.f6cncahwvhkykhbbibm0q1qiirweobqbiw.1366bih.662.grimaldidance.com
 0.0.0.0 ib.nab.com.au.defence-ac.tk
-0.0.0.0 apripaertesy.at.ua
-0.0.0.0 bomugupiwo.000webhostapp.com
 0.0.0.0 home.secureaccountnotifications.net
 0.0.0.0 us504.hol.es
 0.0.0.0 casasbhaiasaldaototal.com
@@ -150,24 +159,19 @@
 0.0.0.0 leatherplant.com
 0.0.0.0 bangongyi.trade
 0.0.0.0 kotycraft.ru
-0.0.0.0 billingorders-usa.serveftp.com
 0.0.0.0 klass.md
 0.0.0.0 airshowrc.com
 0.0.0.0 s738039394.online.de
 0.0.0.0 csgoandpubg.com
-0.0.0.0 www.tbshl.net
-0.0.0.0 saotaomanturece.net
 0.0.0.0 www.lojaponto.com.br
 0.0.0.0 www.cupom-desc-z52.com.br
 0.0.0.0 saldao2018.com
 0.0.0.0 compramaispaguemenos.com
 0.0.0.0 saldao2018ponto.com
-0.0.0.0 cancelpaymentwbe-verifyordernow.serverid9897656498.com
 0.0.0.0 www.xn--latm-7q5a.com
 0.0.0.0 artistichomenj.com
 0.0.0.0 nic.net.bw
 0.0.0.0 www.estudiomasterpiece.com.br
-0.0.0.0 mapedecatifea.ro
 0.0.0.0 justcleanwindows.ca
 0.0.0.0 www.billiardgoal.com
 0.0.0.0 papabaam.com
@@ -192,8 +196,8 @@
 0.0.0.0 www.kendrahovey.com
 0.0.0.0 casasbhaiadesctotal.com
 0.0.0.0 spotswoodelectric.com
+0.0.0.0 roadtracksway.com
 0.0.0.0 tandpoob.cf
-0.0.0.0 pagaesfbmc.000webhostapp.com
 0.0.0.0 www.bvvagos.pt
 0.0.0.0 pay34121.pl
 0.0.0.0 caixafgts2017.com
@@ -210,7 +214,6 @@
 0.0.0.0 sicbweb.com
 0.0.0.0 wmglobus.net
 0.0.0.0 bestehange.ru
-0.0.0.0 myetherwallet-coinss.space
 0.0.0.0 www.ib.absa.co.za.absa-online.login.jsp.zarmobilefx.cf
 0.0.0.0 lgorithmsolutions.com
 0.0.0.0 ulmwp.org
@@ -224,6 +227,7 @@
 0.0.0.0 brightscan.co.za
 0.0.0.0 askhome.co.za
 0.0.0.0 albavira.ru
+0.0.0.0 chequinameaux.net
 0.0.0.0 manage-accountinfo.com
 0.0.0.0 line.me.fw2x.com
 0.0.0.0 services.runescape.com-sb.top
@@ -241,9 +245,8 @@
 0.0.0.0 php-capatcha.appearancesredefined.com
 0.0.0.0 paypalj.com
 0.0.0.0 22072k18.hol.es
+0.0.0.0 smsmobile1.godaddysites.com
 0.0.0.0 wallet.genom.minerpool.net
-0.0.0.0 fantom-foundation.de
-0.0.0.0 extraalerta-ru.1gb.ru
 0.0.0.0 precosimperdiveis.com
 0.0.0.0 carrinho-pontofrio.esy.es
 0.0.0.0 casasbahia.esy.es
@@ -256,7 +259,6 @@
 0.0.0.0 desbloqueio.itauapp.online.movel.mobi
 0.0.0.0 getbesteth.com
 0.0.0.0 safe.getbesteth.com
-0.0.0.0 www.biflnex.com
 0.0.0.0 blovrnance.com
 0.0.0.0 9nine9n.com
 0.0.0.0 shaheerstore.com
@@ -268,10 +270,10 @@
 0.0.0.0 confirmations-your-account-informations.craveaproducts.com
 0.0.0.0 app4237.hol.es
 0.0.0.0 app4052.at.ua
-0.0.0.0 oasis-techno.in
 0.0.0.0 airdropeth.info
 0.0.0.0 airdropbtc.info
 0.0.0.0 email-shortly0.gq
+0.0.0.0 oasis-techno.in
 0.0.0.0 www.pavypal.loginpage-supportrecoveryacc.com
 0.0.0.0 mediatomb.in.net
 0.0.0.0 sathnopgolfacademe.com
@@ -288,13 +290,13 @@
 0.0.0.0 fandtorasa.com
 0.0.0.0 ricardo-eletro.sitepx.com
 0.0.0.0 portailorange18.godaddysites.com
+0.0.0.0 fashionsbystella.com
 0.0.0.0 suissebanc.com
 0.0.0.0 www.myetherwalleut.org
 0.0.0.0 www.codiqindsa.com.mx
 0.0.0.0 trovaomotoclube.com.br
 0.0.0.0 www.adagiomusica.it
 0.0.0.0 wikiarabmothers.com
-0.0.0.0 fuzzybeauty.com
 0.0.0.0 secure.runescape.com-jsh.top
 0.0.0.0 www.jepsteinbusinessblog.xyz
 0.0.0.0 login-id-re-orange.weebly.com
@@ -306,10 +308,8 @@
 0.0.0.0 beaute-coiffures.com
 0.0.0.0 capadinatrioustreehouse.co.za
 0.0.0.0 dateesshop.com
-0.0.0.0 btcbonus-binance.com
 0.0.0.0 getether.xyz
 0.0.0.0 enterzainment.co.za
-0.0.0.0 europeade.de
 0.0.0.0 famusa.com.mx
 0.0.0.0 medium-promo.com
 0.0.0.0 bestehcnge.ru
@@ -326,25 +326,22 @@
 0.0.0.0 www.devblaze.work
 0.0.0.0 www.pvtrainingpascuallab.com
 0.0.0.0 www.lapsens.lv
+0.0.0.0 secure247.inmotionhosting.com
 0.0.0.0 nonow.ml
-0.0.0.0 sadsdsdsdcfcf.ga
 0.0.0.0 blurry-wins.000webhostapp.com
 0.0.0.0 eth-giveaway.space
 0.0.0.0 lhitlbtc.hosstinger.info
 0.0.0.0 kuciorn.hosstinger.info
 0.0.0.0 mycyrptto.com
-0.0.0.0 take-eth.website
 0.0.0.0 safe.earnethnow.com
 0.0.0.0 earnethnow.com
 0.0.0.0 binance.delivery
 0.0.0.0 airdrop.delivery
 0.0.0.0 secure.runescape.com-ye.xyz
 0.0.0.0 www.ilgrandemercatodipesce-ilpescatorestoreonline.it
-0.0.0.0 baylangrup.com
 0.0.0.0 thoxinh.ooo
 0.0.0.0 curiozo.com.br
 0.0.0.0 sussextennis.gq
-0.0.0.0 activtycustomernotificationhomealertonlinenotee.000webhostapp.com
 0.0.0.0 center-info.hol.es
 0.0.0.0 travel.abcplay.com.tw
 0.0.0.0 animate-controls.000webhostapp.com
@@ -352,12 +349,10 @@
 0.0.0.0 aamerciaistsgoodpoepleeeskook.duckdns.org
 0.0.0.0 eth-give-away-promo.com
 0.0.0.0 amazy-eth.com
-0.0.0.0 eth-drop.io
 0.0.0.0 ektshif.com
 0.0.0.0 evotrustllc.com
 0.0.0.0 lb.nab.com.au.knottedstone.com
 0.0.0.0 nab-auth.co
-0.0.0.0 secure-support-page.ga
 0.0.0.0 bestrelationships.website
 0.0.0.0 yet.tf
 0.0.0.0 setnumdtechnologies.com
@@ -413,8 +408,6 @@
 0.0.0.0 ethpromo-give.com
 0.0.0.0 eth-promosgive.com
 0.0.0.0 idex-market.trade
-0.0.0.0 descentx.com
-0.0.0.0 www.myetherwallet.com.api6.icu
 0.0.0.0 remarkel.com
 0.0.0.0 silkwood.org
 0.0.0.0 www.clientes.hardgamerz.cl
@@ -438,19 +431,14 @@
 0.0.0.0 coinleft.org
 0.0.0.0 ethsafe.top
 0.0.0.0 notification-account.support-different-loggin.com
-0.0.0.0 purchase-payment-methode-pay09.com
 0.0.0.0 www.gesundheitstip24.de
-0.0.0.0 mesdasuperpromocao.com
 0.0.0.0 pedrotelas.epizy.com
 0.0.0.0 blogmedium.tk
 0.0.0.0 receiveethfree.cx
 0.0.0.0 eth-pronogive.com
 0.0.0.0 ethcryptocomp.cx
-0.0.0.0 ethpromonow.com
 0.0.0.0 et-gi.net
-0.0.0.0 ethpramengive.com
 0.0.0.0 receiveethpromo.cx
-0.0.0.0 ethnewpromo.com
 0.0.0.0 ethpromogivecare.com
 0.0.0.0 ethpromogivenow.net
 0.0.0.0 theethpromogive.net
@@ -479,7 +467,6 @@
 0.0.0.0 maisofertasparavoce.com
 0.0.0.0 saldao-dospais.com
 0.0.0.0 ofertas-incriveis2018.com
-0.0.0.0 labottega-dellarte.com
 0.0.0.0 www.saldaodeferiasponto.com
 0.0.0.0 9angusroad.ml
 0.0.0.0 grisoni-racing.ch
@@ -502,13 +489,13 @@
 0.0.0.0 xvdgfbdhwqrrq3r5t4yhe.000webhostapp.com
 0.0.0.0 giveaway.ethereum-promo.com
 0.0.0.0 binance-get.claims
-0.0.0.0 i.pvv.org
 0.0.0.0 get-ethereum.net
 0.0.0.0 www.syntechoil.pl
 0.0.0.0 service-support-account-different-login.deask.id
 0.0.0.0 bistro1860.com
 0.0.0.0 moneyearners.xyz
 0.0.0.0 primacare.ga
+0.0.0.0 imed-spravka.com
 0.0.0.0 formcrafts.com
 0.0.0.0 imbhu.com
 0.0.0.0 bancodobrasil4.com
@@ -528,7 +515,6 @@
 0.0.0.0 www.functionmania.com
 0.0.0.0 kimberlinsilentauction.com
 0.0.0.0 myetherwallet.com.root4.icu
-0.0.0.0 myetherwallet.com.api4.icu
 0.0.0.0 branny-quarter.000webhostapp.com
 0.0.0.0 app-1532401022.000webhostapp.com
 0.0.0.0 promo-eth.top
@@ -551,7 +537,6 @@
 0.0.0.0 url896.ovhfacturation.com
 0.0.0.0 safeitaly403.club
 0.0.0.0 rassvet.msk.ru
-0.0.0.0 wex-nz.ru
 0.0.0.0 hoki205.000webhostapp.com
 0.0.0.0 www.postirayka.ru
 0.0.0.0 semanadeverao.com
@@ -568,7 +553,6 @@
 0.0.0.0 www.lssginc.com
 0.0.0.0 magazineoft.com
 0.0.0.0 emailselfservice125.tripod.com
-0.0.0.0 bit-airdrop.com
 0.0.0.0 airdrops.promo
 0.0.0.0 ethsafe.promo
 0.0.0.0 otentiqueglobal.com
@@ -620,7 +604,6 @@
 0.0.0.0 yahoo127.godaddysites.com
 0.0.0.0 yahoo126.godaddysites.com
 0.0.0.0 yahoo125.godaddysites.com
-0.0.0.0 yahoo124.godaddysites.com
 0.0.0.0 yahoo123.godaddysites.com
 0.0.0.0 yahoo122.godaddysites.com
 0.0.0.0 yahoo121.godaddysites.com
@@ -658,8 +641,6 @@
 0.0.0.0 www.credem.it-f26aa6c4.credem-0fb20261.aclasscladding.com.au
 0.0.0.0 yahoo4.godaddysites.com
 0.0.0.0 yahoo3.godaddysites.com
-0.0.0.0 976487643.aclasscladding.com.au
-0.0.0.0 sejamaivoce.com
 0.0.0.0 binance-claims.com
 0.0.0.0 geoinfotech.in
 0.0.0.0 www.yorkshirbank.com
@@ -668,7 +649,6 @@
 0.0.0.0 safecrypt.net
 0.0.0.0 bitfanex.com
 0.0.0.0 printsolglobal.com
-0.0.0.0 predict.vision
 0.0.0.0 ethescan.info
 0.0.0.0 mail.bixell.com
 0.0.0.0 elsotoproduction.com
@@ -694,7 +674,6 @@
 0.0.0.0 cqent.biz
 0.0.0.0 casasbhaia-tempdesconto.com
 0.0.0.0 help.myaccount-appie.com9020e023092492049029323.com
-0.0.0.0 ingenliniea.ingdirect.es-servicioenlinea.betfa.com.tr
 0.0.0.0 megacubbo.com.br
 0.0.0.0 bookzprick.bid
 0.0.0.0 www.peixesdobrasil.org.br
@@ -741,6 +720,7 @@
 0.0.0.0 123456789ss.000webhostapp.com
 0.0.0.0 medium-promotion.com
 0.0.0.0 cadastropromocao.cf
+0.0.0.0 mylike-vk.ru
 0.0.0.0 urlz.fr
 0.0.0.0 www.dproad.com
 0.0.0.0 dailycurrency.ml
@@ -759,7 +739,6 @@
 0.0.0.0 www.doisacorretor.com.br
 0.0.0.0 coronation.ml
 0.0.0.0 besctnange.ru
-0.0.0.0 tutasushi-kw.com
 0.0.0.0 user57349.vs.speednames.com
 0.0.0.0 ownwinsoft.com
 0.0.0.0 orange0.godaddysites.com
@@ -775,7 +754,6 @@
 0.0.0.0 www.vodafone-customer-service.co.uk
 0.0.0.0 37266.ssl256-taxation.notification.hmcustoms.old.iplantables.com
 0.0.0.0 black-wallet.co
-0.0.0.0 x.co
 0.0.0.0 gongfubaozai.cn
 0.0.0.0 vrestene88.000webhostapp.com
 0.0.0.0 drive.google.com
@@ -786,9 +764,7 @@
 0.0.0.0 princeofwalesstakes.de
 0.0.0.0 sarahvalente.com
 0.0.0.0 vk1com13feed.webservis.ru
-0.0.0.0 vkversion2016.webservis.ru
 0.0.0.0 vinnaolagetstartedphp-mimical-ethnol.mybluemix.net
-0.0.0.0 portailorange17.godaddysites.com
 0.0.0.0 bafruag-my.sharepoint.com
 0.0.0.0 login.microsoftonline.com.outlook-office365.com.secure.access.login.com.aurabalitours.com
 0.0.0.0 mader4edr52.000webhostapp.com
@@ -820,13 +796,13 @@
 0.0.0.0 khudermunkh.mn
 0.0.0.0 orangeorange1.godaddysites.com
 0.0.0.0 ethcompetitionrules.cx
+0.0.0.0 thiscreativelife.net
 0.0.0.0 services-rakutencard.com
 0.0.0.0 ggpge.000webhostapp.com
 0.0.0.0 www.vipbuyrb.com
 0.0.0.0 italtek.org
 0.0.0.0 verifikasi2018face.wixsite.com
 0.0.0.0 d2camp.com
-0.0.0.0 www.farmbets.net
 0.0.0.0 promocaojunina-com.umbler.net
 0.0.0.0 7pickstreet.ga
 0.0.0.0 www.disico.com.co
@@ -930,7 +906,6 @@
 0.0.0.0 get.bigethgift.com
 0.0.0.0 bigethgift.com
 0.0.0.0 verify.bonuseth.info
-0.0.0.0 www-bitfinex.com
 0.0.0.0 anon.to
 0.0.0.0 netorg107319-my.sharepoint.com
 0.0.0.0 www.empresarialhopen.com
@@ -966,7 +941,6 @@
 0.0.0.0 www.headrestbarbershop.net
 0.0.0.0 hittinghelmet.com
 0.0.0.0 matchpiclink.16mb.com
-0.0.0.0 customer.support.id-pp23435-login-now.limited.time-only14days.lapoza.com
 0.0.0.0 www.imotrustarad.ro
 0.0.0.0 www.shentons.co.uk
 0.0.0.0 blogberlinmd.com
@@ -1040,7 +1014,6 @@
 0.0.0.0 imageshutter.com
 0.0.0.0 trulix.life
 0.0.0.0 empresarialhopen.com
-0.0.0.0 mmsorange2.godaddysites.com
 0.0.0.0 allegro.pl.showltem.ca
 0.0.0.0 inkedsites.org
 0.0.0.0 verifikasiakhun.wixsite.com
@@ -1077,6 +1050,7 @@
 0.0.0.0 www4.sa.irs.tax.gov.us.1520884718.revenue.vijayalaxmienterprises.in
 0.0.0.0 www4.sa.irs.tax.gov.us.285847743.revenue.vijayalaxmienterprises.in
 0.0.0.0 daniaviation.com
+0.0.0.0 i.pvv.org
 0.0.0.0 azenka.com.br
 0.0.0.0 www.boutiquebleuvert.fr
 0.0.0.0 www.vivacidade.com.br
@@ -1267,7 +1241,6 @@
 0.0.0.0 me-petrini.com
 0.0.0.0 depuydt76.000webhostapp.com
 0.0.0.0 paravertemejor.co
-0.0.0.0 ggstore88.000webhostapp.com
 0.0.0.0 goscandesign.com
 0.0.0.0 villanepaul.tripod.com
 0.0.0.0 therupeeshop.com
@@ -1360,7 +1333,6 @@
 0.0.0.0 l4ho1.bemobtrk.com
 0.0.0.0 yaftin.com
 0.0.0.0 cli.re
-0.0.0.0 www.leechesiran.com
 0.0.0.0 www.ardena.nl
 0.0.0.0 www.thelinkprod.fr
 0.0.0.0 www.syenit.sk
@@ -1390,7 +1362,6 @@
 0.0.0.0 wallet.crypto-bridge.top
 0.0.0.0 www.tobaccoboard.com
 0.0.0.0 brand.measurablegenius.com
-0.0.0.0 cancelation.apprenew291092.app-renewbopak23092.com
 0.0.0.0 managerious.pl
 0.0.0.0 eth.mediumblog.top
 0.0.0.0 animatics.co.uk
@@ -1689,7 +1660,6 @@
 0.0.0.0 btcpromogiveback.com
 0.0.0.0 www.btcbonus.win
 0.0.0.0 btcpramengyve.com
-0.0.0.0 ethpromotionnow.cx
 0.0.0.0 safe.ethdeliver.com
 0.0.0.0 ethdeliver.com
 0.0.0.0 offer.supporteth.com
@@ -2014,7 +1984,6 @@
 0.0.0.0 doctorfisher.com
 0.0.0.0 www.bridgemanagement.com
 0.0.0.0 orawhitetohold.tk
-0.0.0.0 bicycleshop.biz
 0.0.0.0 launchpadcayman.org
 0.0.0.0 eccibje.com.br
 0.0.0.0 springflowedunder.tk
@@ -2073,6 +2042,7 @@
 0.0.0.0 al-ihsan.es
 0.0.0.0 smiles.itau.com.br.cm21797.tmweb.ru
 0.0.0.0 upgradenew.co.za
+0.0.0.0 bicycleshop.biz
 0.0.0.0 www.cultural.tk
 0.0.0.0 www.hostalloscisnes.cl
 0.0.0.0 agenciatreis.com.br
@@ -2139,7 +2109,6 @@
 0.0.0.0 get-bitcoins-now.com
 0.0.0.0 www.masdarinv.com
 0.0.0.0 myopportunity.email
-0.0.0.0 www60.ofertas-de-copa.com
 0.0.0.0 grab-eth.com
 0.0.0.0 strongtel.com
 0.0.0.0 www.marlinespike.com
@@ -2333,7 +2302,6 @@
 0.0.0.0 www.pgpowerproducts.com
 0.0.0.0 qualicarveiculosrs.com.br
 0.0.0.0 eletropaullo.com.br
-0.0.0.0 filmcitymediaz.com
 0.0.0.0 www.rmt-vn.com
 0.0.0.0 mostinsa.com
 0.0.0.0 www.tropicsoft.net
@@ -2516,7 +2484,6 @@
 0.0.0.0 okblockmachine.com
 0.0.0.0 btcfast.io
 0.0.0.0 eos-platform.net
-0.0.0.0 ethaction.io
 0.0.0.0 orangebib.com
 0.0.0.0 www.ajoomal.com
 0.0.0.0 paramerp.in
@@ -2860,7 +2827,6 @@
 0.0.0.0 vkmusic24.hop.ru
 0.0.0.0 www.internic.dp.ua
 0.0.0.0 sw-express.com.ua
-0.0.0.0 kjlfdw.com
 0.0.0.0 ansagaora.com
 0.0.0.0 realrtadmnall.ga
 0.0.0.0 dispositivodeseguranca-com.umbler.net
@@ -2961,7 +2927,6 @@
 0.0.0.0 mobilemummy.com.au
 0.0.0.0 chinasww.com
 0.0.0.0 allegro.totukupisz.pl
-0.0.0.0 day-giftcard.com
 0.0.0.0 minecraft-mods.it
 0.0.0.0 mirvideo.by
 0.0.0.0 billiard.belinfosport.by
@@ -2996,7 +2961,6 @@
 0.0.0.0 beadier-facepieces.000webhostapp.com
 0.0.0.0 back-forum.000webhostapp.com
 0.0.0.0 app-pi6787.000webhostapp.com
-0.0.0.0 teresahileko.com
 0.0.0.0 detikscene.000webhostapp.com
 0.0.0.0 gnkytreestop34.000webhostapp.com
 0.0.0.0 gololedanet.ru
@@ -3314,7 +3278,6 @@
 0.0.0.0 halkbankaiadem.com
 0.0.0.0 dfjsisiufdisdsdidfs.000webhostapp.com
 0.0.0.0 quadsolutions.ae
-0.0.0.0 bookabuscharter.com
 0.0.0.0 ngpapers.com.ng
 0.0.0.0 grupomifad.com
 0.0.0.0 australiansuperaudit.com.au
@@ -3724,7 +3687,6 @@
 0.0.0.0 vkantaktte.000webhostapp.com
 0.0.0.0 www.casasbhaia-saldaodasemana.kinghost.net
 0.0.0.0 adenabdullehospital.com
-0.0.0.0 salaambank.so
 0.0.0.0 hijack-83bi3.stream
 0.0.0.0 larah.in
 0.0.0.0 hijack-56cf6.stream
@@ -4074,7 +4036,6 @@
 0.0.0.0 in-truck.dk
 0.0.0.0 www.desktopmonster.co.uk
 0.0.0.0 pyatnickiy.ru
-0.0.0.0 potluckcrafts.com
 0.0.0.0 www.jan-wattjes.eu
 0.0.0.0 online-newsvideo.xyz
 0.0.0.0 mobilefb.hol.es
@@ -4140,7 +4101,6 @@
 0.0.0.0 ocio.leadzu.com
 0.0.0.0 www.appareal.it
 0.0.0.0 jagpavingnj.com
-0.0.0.0 kingbenito.com
 0.0.0.0 change.cheap
 0.0.0.0 asharna.com
 0.0.0.0 venmo.com
@@ -4190,7 +4150,6 @@
 0.0.0.0 www.ortopediaarturalvim.com.br
 0.0.0.0 ehealthtidbits.com
 0.0.0.0 www.m1ore3as.com
-0.0.0.0 domcomex.ro
 0.0.0.0 www.gestionedelterritorio.it
 0.0.0.0 maoa.net
 0.0.0.0 www.united-drug.co.th
@@ -4290,6 +4249,7 @@
 0.0.0.0 net24ptparticular.com
 0.0.0.0 net24particulares.com
 0.0.0.0 polycraft.com.au
+0.0.0.0 x.co
 0.0.0.0 netflixhdgq.000webhostapp.com
 0.0.0.0 ubica-map.webcindario.com
 0.0.0.0 whynotworkfromhome.net
@@ -4388,7 +4348,6 @@
 0.0.0.0 menstripgifts.com
 0.0.0.0 netorg304921-my.sharepoint.com
 0.0.0.0 fourpointhr-my.sharepoint.com
-0.0.0.0 shyamgali.com
 0.0.0.0 webmailloutlookupdate.editor.multiscreensite.com
 0.0.0.0 www.adventurediscoverytravel.com
 0.0.0.0 kushal308kumar.maskarea.com
@@ -4823,6 +4782,7 @@
 0.0.0.0 medcorehealthgroup.com
 0.0.0.0 www.dravalderrama.com
 0.0.0.0 alsulthanscrap.com
+0.0.0.0 day-giftcard.com
 0.0.0.0 www.masterelectricservice.it
 0.0.0.0 karta-mirr.ru
 0.0.0.0 www.bimbiesorrisi.it
@@ -5316,7 +5276,6 @@
 0.0.0.0 aas-clean.com
 0.0.0.0 privies-arms.000webhostapp.com
 0.0.0.0 finanskredibasvuru.wixsite.com
-0.0.0.0 sube.cepte-halkbank.com
 0.0.0.0 kuveytturk.cms.pixelplus.org
 0.0.0.0 flatronmobilshop.000webhostapp.com
 0.0.0.0 conversationsaboutlifeanddeath.com
@@ -5628,7 +5587,6 @@
 0.0.0.0 kellyhoey1.000webhostapp.com
 0.0.0.0 www.barnitazaz.gift
 0.0.0.0 avrylle.000webhostapp.com
-0.0.0.0 mydhbonline.com
 0.0.0.0 lush-bearings.000webhostapp.com
 0.0.0.0 www.usbonline.org
 0.0.0.0 www.ciftlikhekimi.com
@@ -5673,7 +5631,6 @@
 0.0.0.0 usps.oshinity.com
 0.0.0.0 www.overthetopentertainment.com
 0.0.0.0 teenpatti.000webhostapp.com
-0.0.0.0 nid.naver.com
 0.0.0.0 www.securitasepaycom.org
 0.0.0.0 safenabsecur.cloudns.cx
 0.0.0.0 www.jenerationhealth.com
@@ -6054,7 +6011,6 @@
 0.0.0.0 japandistro.com
 0.0.0.0 drdanlerner.com
 0.0.0.0 www.kega.co.ke
-0.0.0.0 balanceyourdiabetes.com
 0.0.0.0 warrenpolice.com
 0.0.0.0 jj288.com
 0.0.0.0 2tothe5th.com
@@ -6345,9 +6301,9 @@
 0.0.0.0 pu3designs.com
 0.0.0.0 getmylol.com
 0.0.0.0 diniyat.com
-0.0.0.0 guney.com
 0.0.0.0 salon-urody-mg.pl
 0.0.0.0 restauracjapz.pl
+0.0.0.0 guney.com
 0.0.0.0 itausmiles.com
 0.0.0.0 gaodanang.com
 0.0.0.0 rsplportal.com
@@ -6765,7 +6721,6 @@
 0.0.0.0 officesweb.myfreesites.net
 0.0.0.0 www.mythic-coaching.com
 0.0.0.0 gimnsite1.ru
-0.0.0.0 onlinekeybbs.com
 0.0.0.0 www.cochinconsulting.com
 0.0.0.0 connexionsmobiles.myfreesites.net
 0.0.0.0 connexionorange.myfreesites.net
@@ -6843,6 +6798,7 @@
 0.0.0.0 logok.org
 0.0.0.0 gonzalollach.com
 0.0.0.0 na3.docusign.net
+0.0.0.0 kingbenito.com
 0.0.0.0 inditechbytes.com
 0.0.0.0 frein.org
 0.0.0.0 abhigyanconstructions.com
@@ -8126,7 +8082,6 @@
 0.0.0.0 ccvivabuenaventura.com.co
 0.0.0.0 www.acompanhantegyn.com.br
 0.0.0.0 controlueh.000webhostapp.com
-0.0.0.0 syswellsf-suppo.000webhostapp.com
 0.0.0.0 9c0zypxf.myutilitydomain.com
 0.0.0.0 trevorssecondhandfurniture.com
 0.0.0.0 we-b-mail.my-free.website
@@ -8649,7 +8604,6 @@
 0.0.0.0 junniormonteiro.com.br
 0.0.0.0 injectsystems.com.au
 0.0.0.0 judgebrantley.com
-0.0.0.0 www.beginningscereal.com
 0.0.0.0 www.gioidinhtue.net
 0.0.0.0 www.lust-auf-urlaub.net
 0.0.0.0 www.mazasworld.com
@@ -8667,7 +8621,6 @@
 0.0.0.0 sublink.co.ug
 0.0.0.0 adminleth.sitey.me
 0.0.0.0 mia.perfil.com
-0.0.0.0 i219-167-253-19.s30.a048.ap.plala.or.jp
 0.0.0.0 www.bluerockbulliescol.com
 0.0.0.0 fr.reimageplus.com
 0.0.0.0 auzonep.com.au
@@ -8886,7 +8839,6 @@
 0.0.0.0 www.lemion.com
 0.0.0.0 olheaqui.club
 0.0.0.0 hanksnow.com
-0.0.0.0 hispeetyse.myfreesites.net
 0.0.0.0 www.bswlive.com
 0.0.0.0 300freecredits.weebly.com
 0.0.0.0 pianomoscow.ru.hator.neolocation.net
@@ -9657,7 +9609,6 @@
 0.0.0.0 promotions.monthlywinners.com
 0.0.0.0 bridalre-dress.com
 0.0.0.0 houserank.com
-0.0.0.0 branfisa.com
 0.0.0.0 glance.northumberlandmedia.ca
 0.0.0.0 www.elearnconsulting.com.au
 0.0.0.0 toddsplanet.com
@@ -9942,7 +9893,6 @@
 0.0.0.0 projectvoltage.com
 0.0.0.0 creativeingredient.com
 0.0.0.0 www.jodon.com
-0.0.0.0 luvamac.com.br
 0.0.0.0 tombona.com
 0.0.0.0 hu.prettykids.co
 0.0.0.0 netxee.com
@@ -10290,7 +10240,6 @@
 0.0.0.0 limmodemma.com
 0.0.0.0 gpautomotiveparts.com
 0.0.0.0 spiece.com.ua
-0.0.0.0 59-120-56-110.hinet-ip.hinet.net
 0.0.0.0 www.havytab.com
 0.0.0.0 solear.ml
 0.0.0.0 det.magnuz.ru
@@ -10403,6 +10352,7 @@
 0.0.0.0 mrecontabilidade.pt
 0.0.0.0 hotelastoria.co.in
 0.0.0.0 www.flavena.co.rs
+0.0.0.0 59-120-56-110.hinet-ip.hinet.net
 0.0.0.0 eaa.edu.ph
 0.0.0.0 neu.zweirad-roos.de
 0.0.0.0 senge-pi.org.br
@@ -10757,7 +10707,6 @@
 0.0.0.0 mrronsappliancerepair.com
 0.0.0.0 d293416.u-telcom.net
 0.0.0.0 d990049.u-telcom.net
-0.0.0.0 lyndonaldart.com
 0.0.0.0 www.alpa.co.za
 0.0.0.0 tonigale.com
 0.0.0.0 germanlis.com.gr
@@ -11182,7 +11131,6 @@
 0.0.0.0 opteckm.my-free.website
 0.0.0.0 easyjewelrystore.com
 0.0.0.0 siddhapura.co.in
-0.0.0.0 www.campuscrave.com
 0.0.0.0 winterheart.dk
 0.0.0.0 pixelsandcode.ca
 0.0.0.0 www.wmblngdsty.ga
@@ -11519,7 +11467,6 @@
 0.0.0.0 sistemasegurobr.byethost7.com
 0.0.0.0 arixa.biz
 0.0.0.0 emailscammers.com
-0.0.0.0 taylormadegolf.asia
 0.0.0.0 blackdiamondz.net.au
 0.0.0.0 dota2prodaja.com
 0.0.0.0 www.infoclub.info
@@ -11770,7 +11717,6 @@
 0.0.0.0 chasipodii.net
 0.0.0.0 exam.sifyitest.com
 0.0.0.0 mistersandroid.blogspot.com
-0.0.0.0 www.okbooks365.com
 0.0.0.0 www.frutiboni.com
 0.0.0.0 www.importarmas.com
 0.0.0.0 sueshine.com
@@ -12022,7 +11968,6 @@
 0.0.0.0 8fvchzuz.myutilitydomain.com
 0.0.0.0 hamaraghaziabad.com
 0.0.0.0 ectmichiana.com
-0.0.0.0 mohdhafez.net
 0.0.0.0 dmtingenieria.com
 0.0.0.0 www.windundwetterkinder.de
 0.0.0.0 54rh.ig.terw.fet.645fhd.8jg.fdw44.ds3424.323d.67ht.09ds.25jht.clearpointsupplies.com
@@ -12131,7 +12076,6 @@
 0.0.0.0 myolsolution.com
 0.0.0.0 www.centraldoagio.com
 0.0.0.0 ifma-arm.ro
-0.0.0.0 www.campos.rs
 0.0.0.0 www.weevybe.com
 0.0.0.0 neesandvos.com
 0.0.0.0 www.merchantsquaycork.com
@@ -13304,7 +13248,6 @@
 0.0.0.0 www.alphalogisticaexpress.com.br
 0.0.0.0 mtm.rendezvousrencontre.com
 0.0.0.0 alphalogisticaexpress.com.br
-0.0.0.0 saman-saffarian.com
 0.0.0.0 partybus.ca
 0.0.0.0 bondingspecialist.com
 0.0.0.0 lazaridesign.com
@@ -13607,7 +13550,6 @@
 0.0.0.0 liaisonmarketingcompanysenegal.yolasite.com
 0.0.0.0 www.july2013summerorder.yolasite.com
 0.0.0.0 zeigerindustriescoltd.yolasite.com
-0.0.0.0 www.contierra.cl
 0.0.0.0 www.theandyzone.com
 0.0.0.0 lacasitadesanangel.iap.org.mx
 0.0.0.0 www.wupx.ch
@@ -13753,7 +13695,6 @@
 0.0.0.0 scan.novahue.org
 0.0.0.0 clicplan-sg.dmdelivery.com
 0.0.0.0 www.dinogas.com.mx
-0.0.0.0 adriaanrems.com
 0.0.0.0 zend-framework-community.634137.n4.nabble.com
 0.0.0.0 dev.driveny.org
 0.0.0.0 www.noithatchauau.vn
@@ -13915,7 +13856,6 @@
 0.0.0.0 mtspring.com
 0.0.0.0 cactusjam.net
 0.0.0.0 manufacturamagura.ro
-0.0.0.0 stanfex.com.pl
 0.0.0.0 seven11paints.com
 0.0.0.0 miramedical.com
 0.0.0.0 viam-advisors.com
@@ -14059,6 +13999,7 @@
 0.0.0.0 cysmith.net
 0.0.0.0 www.semazen.net
 0.0.0.0 registrofacilerapidoeseguro.k6.com.br
+0.0.0.0 www.okbooks365.com
 0.0.0.0 www.lidanhang.com
 0.0.0.0 media1.wgz.ro
 0.0.0.0 connecticutspj.org
