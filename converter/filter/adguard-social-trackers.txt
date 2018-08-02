@@ -1,7 +1,7 @@
 # adguard-social-trackers Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SocialFilter/sections/social_trackers.txt
-# Last Converted - Thu, 02 Aug 2018 17:38:29 -0400
+# Last Converted - Thu, 02 Aug 2018 17:48:45 -0400
 # Energized - ad.porn.malware blocking.
 # License: MIT
 
