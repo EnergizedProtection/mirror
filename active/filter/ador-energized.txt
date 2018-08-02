@@ -726,6 +726,7 @@
 0.0.0.0 chuchutrack.com
 0.0.0.0 chuknu.sokrati.com
 0.0.0.0 cl.untildogtop.com
+0.0.0.0 cl96rwprue.com
 0.0.0.0 click-it-now.online
 0.0.0.0 click-on-this-now.online
 0.0.0.0 click.fancywap.com
@@ -1792,6 +1793,7 @@
 0.0.0.0 s7.addthis.com
 0.0.0.0 s8.addthis.com
 0.0.0.0 s9.addthis.com
+0.0.0.0 s9kkremkr0.com
 0.0.0.0 safe.net-bc5.stream
 0.0.0.0 safelyawake.com
 0.0.0.0 safety.google.com.bnkkmrloiq.fv2h1x84fypxxk0xkbtjatjkajltcgwma.science
@@ -2255,6 +2257,7 @@
 0.0.0.0 www.statcounter.com
 0.0.0.0 www.thestartmagazine.com
 0.0.0.0 www.uodoo.com
+0.0.0.0 www.usfmwydo.com
 0.0.0.0 www.webmailer.de
 0.0.0.0 www.wizardsbd.com
 0.0.0.0 www.xbtitfm.com
@@ -2328,6 +2331,6 @@
 # Source - https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/EnergizedHosts/EnergizedHosts
 # Generated - 02.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 2325
+# Total Domains: 2328
 # License: MIT
 
