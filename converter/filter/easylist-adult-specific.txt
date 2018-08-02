@@ -1,7 +1,7 @@
 # easylist-adult-specific Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_specific_block.txt
-# Last Converted - Thu, 02 Aug 2018 17:48:50 -0400
+# Last Converted - Thu, 02 Aug 2018 17:55:52 -0400
 # Energized - ad.porn.malware blocking.
 # License: MIT
 

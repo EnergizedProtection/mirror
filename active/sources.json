@@ -84,7 +84,7 @@
   {"name": "nsa-blocklist",                      "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/HOSTS"},
   {"name": "pgl.yoyo.org",                       "enabled": true,  "format": "plain",   "url": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&mimetype=plaintext"},
   {"name": "phishing-hosts",                     "enabled": true,  "format": "plain",   "url": "https://gitlab.com/Kurobeats/phishing_hosts/raw/master/hosts"},
-  {"name": "pornaway",                           "enabled": true,  "format": "plain",   "url": "https://github.com/mhxion/pornaway/tree/master/hosts"},
+  {"name": "pornaway",                           "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/mhxion/pornaway/master/hosts/porn_sites.txt"},
   {"name": "porn-top1million",                   "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/porn-top1m.txt"},
   {"name": "quidsup-notrack",                    "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/quidsup-no-track.txt"},
   {"name": "ransomwaretracker.abuse.ch",         "enabled": true,  "format": "plain",   "url": "https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt"},

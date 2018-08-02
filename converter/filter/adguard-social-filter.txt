@@ -1,7 +1,7 @@
 # adguard-social-filter Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://filters.adtidy.org/extension/chromium/filters/4.txt
-# Last Converted - Thu, 02 Aug 2018 17:48:45 -0400
+# Last Converted - Thu, 02 Aug 2018 17:55:48 -0400
 # Energized - ad.porn.malware blocking.
 # License: MIT
 
