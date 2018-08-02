@@ -1,7 +1,7 @@
 # adguard-dns Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://filters.adtidy.org/extension/chromium/filters/15.txt
-# Last Converted - Thu, 02 Aug 2018 09:39:14 -0400
+# Last Converted - Thu, 02 Aug 2018 10:06:09 -0400
 # Energized - ad.porn.malware blocking.
 # License: MIT
 
@@ -4411,7 +4411,6 @@
 0.0.0.0 syndication.exoclick.com
 0.0.0.0 syndication.exosrv.com
 0.0.0.0 syndication.globaltraffico.com
-0.0.0.0 syndication.jsadapi.com
 0.0.0.0 syngrestic.com
 0.0.0.0 synhandler.net
 0.0.0.0 t.booksuper.info
@@ -5027,7 +5026,6 @@
 0.0.0.0 wmhlch.com
 0.0.0.0 fjrkn.com
 0.0.0.0 tongqing2015.com
-0.0.0.0 m.jsqinvest.com
 0.0.0.0 sube.puwangkj.com
 0.0.0.0 pw.lpsxssm.com
 0.0.0.0 go.admost.com
@@ -9262,7 +9260,6 @@
 0.0.0.0 sbcpower.com
 0.0.0.0 sblcjzjp.com
 0.0.0.0 sbscribeme.com
-0.0.0.0 sc-f6eade8.js
 0.0.0.0 scanmedios.com
 0.0.0.0 scanscout.com
 0.0.0.0 sceno.ru
@@ -20633,7 +20630,6 @@
 0.0.0.0 gitgrub.pro
 0.0.0.0 d8acddffe978b5dfcae6.date
 0.0.0.0 staticsfs.host
-0.0.0.0 crypta.js
 0.0.0.0 eth-pocket.de
 0.0.0.0 eth-pocket.com
 0.0.0.0 webminerpool.com
@@ -20841,7 +20837,7 @@
 0.0.0.0 everyday-carry.com
 0.0.0.0 eze99.net
 0.0.0.0 flexterkita.com
-0.0.0.0 fnkyyrgraizy.comthird-party
+0.0.0.0 fnkyyrgraizy.com
 0.0.0.0 fonderreaders.info
 0.0.0.0 forumiklan.com
 0.0.0.0 gehzj.com

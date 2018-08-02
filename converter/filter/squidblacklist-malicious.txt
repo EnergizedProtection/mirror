@@ -1,7 +1,7 @@
 # squidblacklist-malicious Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://www.squidblacklist.org/downloads/dg-malicious.acl
-# Last Converted - Thu, 02 Aug 2018 09:39:26 -0400
+# Last Converted - Thu, 02 Aug 2018 10:06:23 -0400
 # Energized - ad.porn.malware blocking.
 # License: MIT
 
@@ -76,7 +76,6 @@
 0.0.0.0 0502677779.com
 0.0.0.0 0511zfhl.com
 0.0.0.0 0512px.net
-0.0.0.0 05221.jsm68.com
 0.0.0.0 052607e20606.kathell.com
 0.0.0.0 0532dna.com
 0.0.0.0 0538ly.cn
@@ -48799,7 +48798,6 @@
 0.0.0.0 fx-success.pro
 0.0.0.0 fxtebociqu.goodbwebsale.su
 0.0.0.0 fxztjnsb.com
-0.0.0.0 fy.b.jsmw877.com
 0.0.0.0 fyblegales.com.ar
 0.0.0.0 fybw.net.cn
 0.0.0.0 fydwn-apple.com
@@ -82917,7 +82915,6 @@
 0.0.0.0 safety.microsoft.com.jgrgrxuoj.17rhshrnvsimvw0fbhe.stream
 0.0.0.0 safety.microsoft.com.jhoxsfc.fvl3sfwd1nq.download
 0.0.0.0 safety.microsoft.com.jorljmwus.s1oko0pqtdrj.stream
-0.0.0.0 safety.microsoft.com.jsgtddp.2btk0sr2a2qaidqdd2pq.bid
 0.0.0.0 safety.microsoft.com.jxnovdxksg.widsb5lkmxed.download
 0.0.0.0 safety.microsoft.com.kevluxbwq.whkal2ixpuiv.stream
 0.0.0.0 safety.microsoft.com.kfahovdvcu.qs2xsibfvo9djnhm.stream

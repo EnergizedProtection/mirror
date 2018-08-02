@@ -1,7 +1,7 @@
 # easyprivacy-tracking-servers Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers.txt
-# Last Converted - Thu, 02 Aug 2018 09:39:19 -0400
+# Last Converted - Thu, 02 Aug 2018 10:06:15 -0400
 # Energized - ad.porn.malware blocking.
 # License: MIT
 
@@ -242,7 +242,7 @@
 0.0.0.0 atticwicket.com
 0.0.0.0 attracta.com
 0.0.0.0 attributionapp.com
-0.0.0.0 audience.visiblemeasures.com
+0.0.0.0 audience.visiblemeasures.com,
 0.0.0.0 audienceamplify.com
 0.0.0.0 audienceiq.com
 0.0.0.0 audiencerate.com
@@ -642,7 +642,7 @@
 0.0.0.0 dominocounter.net
 0.0.0.0 domodomain.com
 0.0.0.0 dotomi.com
-0.0.0.0 doubleclick.net
+0.0.0.0 doubleclick.net,
 0.0.0.0 downture.in
 0.0.0.0 dpbolvw.net
 0.0.0.0 dps-reach.com
@@ -1134,7 +1134,7 @@
 0.0.0.0 krxd.net
 0.0.0.0 ksyrium0014.com
 0.0.0.0 ktxtr.com
-0.0.0.0 l2.visiblemeasures.com
+0.0.0.0 l2.visiblemeasures.com,
 0.0.0.0 lanchaeanly.pro
 0.0.0.0 landingpg.com
 0.0.0.0 lansrv030.com
@@ -1365,7 +1365,7 @@
 0.0.0.0 nero.live
 0.0.0.0 nestedmedia.com
 0.0.0.0 net-filter.com
-0.0.0.0 netaffiliation.com
+0.0.0.0 netaffiliation.com,
 0.0.0.0 netapplications.com
 0.0.0.0 netbiscuits.net
 0.0.0.0 netclickstats.com
@@ -1409,7 +1409,7 @@
 0.0.0.0 observerapp.com
 0.0.0.0 octavius.rocks
 0.0.0.0 octomarket.com
-0.0.0.0 od.visiblemeasures.com
+0.0.0.0 od.visiblemeasures.com,
 0.0.0.0 odesaconflate.com
 0.0.0.0 odoscope.com
 0.0.0.0 offermatica.com
@@ -1442,7 +1442,7 @@
 0.0.0.0 online-right-now.net
 0.0.0.0 onlinepbx.ru
 0.0.0.0 onlysix.co.uk
-0.0.0.0 onthe.io
+0.0.0.0 onthe.io,
 0.0.0.0 opbandit.com
 0.0.0.0 openclick.com
 0.0.0.0 openhit.com

@@ -156,6 +156,12 @@ foreach ( $lists as $name => $list ) {
 		if ( false !== strpos( $filter, '/' ) ) {
 			continue;
 		}
+    if ( false !== strpos( $filter, '.js' ) ) { 
+      continue;
+    }
+    if ( false !== strpos( $filter, '?' ) ) {
+      continue;
+    }
 		if ( false !== strpos( $filter, '=' ) ) {
 			continue;
     }
@@ -179,7 +185,7 @@ foreach ( $lists as $name => $list ) {
 
 		// Replace filter syntax with HOSTS syntax.
 		// @todo Perhaps skip $third-party, $image and $popup?
-		$filter = str_replace( array( '||', '^', '$websocket', ',websocket', ',other', '$other', '$subdocument', ',subdocument', '$important', ',important', '$object-subrequest', ',object-subrequest', '$third-party', ',third-party', '$image', ',image', ',script', '$script', ',object', '$object', '$popup', ',popup', '$empty', ',empty' ), '', $filter );
+		$filter = str_replace( array( '||', '^', '$websocket', ',websocket', ',other', '$other', '$subdocument', ',subdocument', '$important', ',important', '$object-subrequest', ',object-subrequest', '$third-party', 'third-party', ',third-party', '$image', ',image', ',script', '$script', ',object', '$object', '$popup', ',popup', '$empty', ',empty' ), '', $filter );
 
 		// Skip rules matching 'xmlhttprequest' for now.
 		if ( false !== strpos( $filter, 'xmlhttprequest' ) ) {

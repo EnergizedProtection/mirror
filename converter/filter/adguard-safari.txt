@@ -1,7 +1,7 @@
 # adguard-safari Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://filters.adtidy.org/extension/chromium/filters/12.txt
-# Last Converted - Thu, 02 Aug 2018 09:39:15 -0400
+# Last Converted - Thu, 02 Aug 2018 10:06:11 -0400
 # Energized - ad.porn.malware blocking.
 # License: MIT
 

@@ -1,11 +1,10 @@
 # blockzilla Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/zpacman/Blockzilla/master/Blockzilla.txt
-# Last Converted - Thu, 02 Aug 2018 09:39:18 -0400
+# Last Converted - Thu, 02 Aug 2018 10:06:13 -0400
 # Energized - ad.porn.malware blocking.
 # License: MIT
 
-0.0.0.0 -1x1.gif?
 0.0.0.0 112.2o7.net
 0.0.0.0 204st.us
 0.0.0.0 247realmedia.com
@@ -434,6 +433,7 @@
 0.0.0.0 d8rk54i4mohrb.cloudfront.net
 0.0.0.0 dc8xl0ndzn2cb.cloudfront.net
 0.0.0.0 dnn506yrbagrg.cloudfront.net
+0.0.0.0 -analytics.,
 0.0.0.0 a.mobify.com
 0.0.0.0 adf.ly
 0.0.0.0 alexa.com
@@ -451,15 +451,16 @@
 0.0.0.0 qualtrics.com
 0.0.0.0 scribol.com
 0.0.0.0 siteapps.com
-0.0.0.0 snapengage.com
+0.0.0.0 snapengage.com,
 0.0.0.0 syndication.twitter.com
 0.0.0.0 taboola.com
 0.0.0.0 yandex.ru
 0.0.0.0 zergnet.com
 0.0.0.0 adexchangeprediction.com
-0.0.0.0 chaturbate.com
+0.0.0.0 chaturbate.com,
 0.0.0.0 cpm20.com
 0.0.0.0 cpmstar.com
 0.0.0.0 explorads.com
 0.0.0.0 foxsnews.net
 0.0.0.0 nlkdom.com
+0.0.0.0 offers.,

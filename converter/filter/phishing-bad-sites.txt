@@ -1,7 +1,7 @@
 # phishing-bad-sites Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - http://phishing.mailscanner.info/phishing.bad.sites.conf
-# Last Converted - Thu, 02 Aug 2018 09:39:27 -0400
+# Last Converted - Thu, 02 Aug 2018 10:06:24 -0400
 # Energized - ad.porn.malware blocking.
 # License: MIT
 
@@ -211,7 +211,6 @@
 0.0.0.0 wmglobus.net
 0.0.0.0 bestehange.ru
 0.0.0.0 myetherwallet-coinss.space
-0.0.0.0 www.ib.absa.co.za.absa-online.login.jsp.zarmobilefx.cf
 0.0.0.0 lgorithmsolutions.com
 0.0.0.0 ulmwp.org
 0.0.0.0 resonancechina.com

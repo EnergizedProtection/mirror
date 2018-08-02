@@ -1,14 +1,10 @@
 # easyprivacy Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://easylist.to/easylist/easyprivacy.txt
-# Last Converted - Thu, 02 Aug 2018 09:39:18 -0400
+# Last Converted - Thu, 02 Aug 2018 10:06:13 -0400
 # Energized - ad.porn.malware blocking.
 # License: MIT
 
-0.0.0.0 -geoIP.js
-0.0.0.0 -scroll-tracker.js
-0.0.0.0 -tracking.js?
-0.0.0.0 -xtcore.js
 0.0.0.0 meetrics.netbb-
 0.0.0.0 0emm.com
 0.0.0.0 0tracker.com
@@ -247,7 +243,7 @@
 0.0.0.0 atticwicket.com
 0.0.0.0 attracta.com
 0.0.0.0 attributionapp.com
-0.0.0.0 audience.visiblemeasures.com
+0.0.0.0 audience.visiblemeasures.com,
 0.0.0.0 audienceamplify.com
 0.0.0.0 audienceiq.com
 0.0.0.0 audiencerate.com
@@ -647,7 +643,7 @@
 0.0.0.0 dominocounter.net
 0.0.0.0 domodomain.com
 0.0.0.0 dotomi.com
-0.0.0.0 doubleclick.net
+0.0.0.0 doubleclick.net,
 0.0.0.0 downture.in
 0.0.0.0 dpbolvw.net
 0.0.0.0 dps-reach.com
@@ -1139,7 +1135,7 @@
 0.0.0.0 krxd.net
 0.0.0.0 ksyrium0014.com
 0.0.0.0 ktxtr.com
-0.0.0.0 l2.visiblemeasures.com
+0.0.0.0 l2.visiblemeasures.com,
 0.0.0.0 lanchaeanly.pro
 0.0.0.0 landingpg.com
 0.0.0.0 lansrv030.com
@@ -1370,7 +1366,7 @@
 0.0.0.0 nero.live
 0.0.0.0 nestedmedia.com
 0.0.0.0 net-filter.com
-0.0.0.0 netaffiliation.com
+0.0.0.0 netaffiliation.com,
 0.0.0.0 netapplications.com
 0.0.0.0 netbiscuits.net
 0.0.0.0 netclickstats.com
@@ -1414,7 +1410,7 @@
 0.0.0.0 observerapp.com
 0.0.0.0 octavius.rocks
 0.0.0.0 octomarket.com
-0.0.0.0 od.visiblemeasures.com
+0.0.0.0 od.visiblemeasures.com,
 0.0.0.0 odesaconflate.com
 0.0.0.0 odoscope.com
 0.0.0.0 offermatica.com
@@ -1447,7 +1443,7 @@
 0.0.0.0 online-right-now.net
 0.0.0.0 onlinepbx.ru
 0.0.0.0 onlysix.co.uk
-0.0.0.0 onthe.io
+0.0.0.0 onthe.io,
 0.0.0.0 opbandit.com
 0.0.0.0 openclick.com
 0.0.0.0 openhit.com
@@ -3790,7 +3786,7 @@
 0.0.0.0 click.geopaysys.com
 0.0.0.0 click.rssfwd.com
 0.0.0.0 click1.email.nymagazine.com
-0.0.0.0 click1.online.vulture.com
+0.0.0.0 click1.online.vulture.com,
 0.0.0.0 clicks.dealer.com
 0.0.0.0 clickstream.loomia.com
 0.0.0.0 clicktale.pantherssl.com
@@ -3990,7 +3986,7 @@
 0.0.0.0 errors.snackly.co
 0.0.0.0 eservicesanalytics.com.au
 0.0.0.0 et.grabnetworks.com
-0.0.0.0 etc.grab.com
+0.0.0.0 etc.grab.com,
 0.0.0.0 event-listener.air.tv
 0.0.0.0 event.api.drift.com
 0.0.0.0 event.loyalty.bigdoor.com
@@ -4058,13 +4054,13 @@
 0.0.0.0 ib.adnxs.com
 0.0.0.0 icu.getstorybox.com
 0.0.0.0 ihstats.cloudapp.net
-0.0.0.0 imagedoll.com
+0.0.0.0 imagedoll.com,
 0.0.0.0 imp.affiliator.com
 0.0.0.0 imp.clickability.com
 0.0.0.0 imp.constantcontact.com
 0.0.0.0 imp.pix.com
 0.0.0.0 impress.vcita.com
-0.0.0.0 imprvdosrv.com
+0.0.0.0 imprvdosrv.com,
 0.0.0.0 infinityid.condenastdigital.com
 0.0.0.0 informer.yandex.ru
 0.0.0.0 insight.mintel.com
@@ -4163,7 +4159,7 @@
 0.0.0.0 n.mailfire.io
 0.0.0.0 neocounter.neoworx-blog-tools.net
 0.0.0.0 newsanalytics.com.au
-0.0.0.0 newsletters.nationalgeographic.com
+0.0.0.0 newsletters.nationalgeographic.com,
 0.0.0.0 ninja.onap.io
 0.0.0.0 nol.yahoo.com
 0.0.0.0 nonxt1.c.youtube.com
@@ -4304,7 +4300,7 @@
 0.0.0.0 sig.atdmt.com
 0.0.0.0 sig.gamerdna.com
 0.0.0.0 sitereports.officelive.com
-0.0.0.0 slidedeck.com
+0.0.0.0 slidedeck.com,
 0.0.0.0 smrt.as
 0.0.0.0 snaps.vidiemi.com
 0.0.0.0 spacedust.netmediaeurope.com
@@ -5252,7 +5248,7 @@
 0.0.0.0 g.deathandtaxesmag.com
 0.0.0.0 g.msn.com
 0.0.0.0 g.techweekeurope.co.uk
-0.0.0.0 g2a-com.newsletter.com.pl
+0.0.0.0 g2a-com.newsletter.com.pl,
 0.0.0.0 ga.canoe.ca
 0.0.0.0 ga.nsimg.net
 0.0.0.0 gcpdata.telegraph.co.uk
@@ -5545,7 +5541,6 @@
 0.0.0.0 sp.ithacajournal.com
 0.0.0.0 sp.jacksonsun.com
 0.0.0.0 sp.jconline.com
-0.0.0.0 sp.jsonline.com
 0.0.0.0 sp.kitsapsun.com
 0.0.0.0 sp.knoxnews.com
 0.0.0.0 sp.lancastereaglegazette.com
@@ -5893,7 +5888,6 @@
 0.0.0.0 pixel.4players.de
 0.0.0.0 pixel.bild.de
 0.0.0.0 pixel.prosieben.de
-0.0.0.0 powercount.jswelt.de
 0.0.0.0 proactive.base.de
 0.0.0.0 prophet.heise.de
 0.0.0.0 pxc.otto.de
@@ -6135,7 +6129,6 @@
 0.0.0.0 logger.rm.uol.com.br
 0.0.0.0 logger.uol.com.br
 0.0.0.0 metrics.uol.com.br
-0.0.0.0 tm.jsuol.com.br
 0.0.0.0 tm.uol.com.br
 0.0.0.0 tracker.bt.uol.com.br
 0.0.0.0 tracker.publico.pt

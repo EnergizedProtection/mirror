@@ -1,7 +1,7 @@
 # adguard-tracking-servers Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers.txt
-# Last Converted - Thu, 02 Aug 2018 09:39:14 -0400
+# Last Converted - Thu, 02 Aug 2018 10:06:09 -0400
 # Energized - ad.porn.malware blocking.
 # License: MIT
 
@@ -834,7 +834,7 @@
 0.0.0.0 domodomain.com
 0.0.0.0 dotmetrics.net
 0.0.0.0 dotomi.com
-0.0.0.0 doubleclick.net
+0.0.0.0 doubleclick.net,
 0.0.0.0 downture.in
 0.0.0.0 dpbolvw.net
 0.0.0.0 dps-reach.com
@@ -1673,7 +1673,7 @@
 0.0.0.0 neki.org
 0.0.0.0 nestedmedia.com
 0.0.0.0 net-filter.com
-0.0.0.0 netaffiliation.com
+0.0.0.0 netaffiliation.com,
 0.0.0.0 netagent.cz
 0.0.0.0 netapplications.com
 0.0.0.0 netbiscuits.net
