@@ -774,7 +774,7 @@
 
 # Hosts - sbc
 # Source - https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts
-# Generated - 02.08.2018
+# Generated - 03.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 773
 # License: MIT

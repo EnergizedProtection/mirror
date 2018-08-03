@@ -3474,7 +3474,7 @@
 
 # Hosts - spam404.com-adblocklist
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/spam404-ad.txt
-# Generated - 02.08.2018
+# Generated - 03.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 3473
 # License: MIT

@@ -160,7 +160,6 @@
 0.0.0.0 events.redditmedia.com
 0.0.0.0 events.turbosquid.com
 0.0.0.0 evisit.exeter.ac.uk
-0.0.0.0 expbl2ro.xbox.com
 0.0.0.0 f.staticlp.com
 0.0.0.0 fast.forbes.com
 0.0.0.0 felitb.rightinthebox.com
@@ -653,8 +652,8 @@
 
 # Hosts - easyprivacy-specific
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easyprivacy-specific.txt
-# Generated - 02.08.2018
+# Generated - 03.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 652
+# Total Domains: 651
 # License: MIT
 

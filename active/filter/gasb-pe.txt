@@ -36842,7 +36842,6 @@
 0.0.0.0 o.msn.com
 0.0.0.0 o.rosettastone.com
 0.0.0.0 o.webmd.com
-0.0.0.0 o.xbox.com
 0.0.0.0 o1.em.coinone.co.kr
 0.0.0.0 o1.email.bitpay.com
 0.0.0.0 o1.email.bittrex.com
@@ -63948,7 +63947,6 @@
 0.0.0.0 www.snackbar.com
 0.0.0.0 www.snakesworld.com
 0.0.0.0 www.snakevideos.com
-0.0.0.0 www.snap.com
 0.0.0.0 www.snappertools.com
 0.0.0.0 www.snappyshop.com
 0.0.0.0 www.sniffing.ws
@@ -68584,8 +68582,8 @@
 
 # Hosts - gasb-pe
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/mirror/GASB-PE.active.txt
-# Generated - 02.08.2018
+# Generated - 03.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 68583
+# Total Domains: 68581
 # License: MIT
 

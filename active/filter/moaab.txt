@@ -51786,7 +51786,6 @@
 0.0.0.0 expansaoempreendimentos.com
 0.0.0.0 expansegaming.com
 0.0.0.0 expatlines.com
-0.0.0.0 expbl2ro.xbox.com
 0.0.0.0 expdom.com
 0.0.0.0 expedia.ca.112.2o7.net
 0.0.0.0 expedia1.112.2o7.net
@@ -98004,7 +98003,6 @@
 0.0.0.0 o.ss2.us
 0.0.0.0 o.swisscom.ch
 0.0.0.0 o.tentaculos.net
-0.0.0.0 o.xbox.com
 0.0.0.0 o.yieldsquare.com
 0.0.0.0 o.zeroredirect.com
 0.0.0.0 o0.winfuture.de
@@ -131109,7 +131107,6 @@
 0.0.0.0 tanand.eu
 0.0.0.0 tanbaya.net
 0.0.0.0 tanbooks.com
-0.0.0.0 tancoconut.com.my
 0.0.0.0 tancojewelry.com
 0.0.0.0 tandcgardens.com
 0.0.0.0 tandfonlin.com
@@ -159458,8 +159455,8 @@
 
 # Hosts - moaab
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/mirror/MoaAB.active.txt
-# Generated - 02.08.2018
+# Generated - 03.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 159457
+# Total Domains: 159454
 # License: MIT
 

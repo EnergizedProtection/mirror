@@ -691,7 +691,6 @@
 0.0.0.0 www.coreysuiter.com
 0.0.0.0 www.cryptogain.life
 0.0.0.0 www.daniel-waas.de
-0.0.0.0 www.dataprufen.com
 0.0.0.0 www.datarescue.cl
 0.0.0.0 www.daybrooksco.com
 0.0.0.0 www.de4porvoce.com.br
@@ -858,8 +857,8 @@
 
 # Hosts - phishing-hosts
 # Source - https://gitlab.com/Kurobeats/phishing_hosts/raw/master/hosts
-# Generated - 02.08.2018
+# Generated - 03.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 857
+# Total Domains: 856
 # License: MIT
 

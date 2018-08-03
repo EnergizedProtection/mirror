@@ -8760,6 +8760,7 @@
 0.0.0.0 ltedbswmryh.com
 0.0.0.0 ltfroezjyyhv.com
 0.0.0.0 ltnfhltuksarpq.com
+0.0.0.0 ltvrdftgr.com
 0.0.0.0 ltwlxoedrydz.com
 0.0.0.0 ltzjkjxx.com
 0.0.0.0 lucidel.com
@@ -10924,6 +10925,7 @@
 0.0.0.0 pjzabhzetdmt.com
 0.0.0.0 pketred.com
 0.0.0.0 pkklpazhqqda.com
+0.0.0.0 pkxquvydrgin.com
 0.0.0.0 pkzfmxjlkcxkub.com
 0.0.0.0 placeiq.com
 0.0.0.0 placemypixel.com
@@ -11526,6 +11528,7 @@
 0.0.0.0 qeqsibev.com
 0.0.0.0 qerlrppx.com
 0.0.0.0 qertewrt.com
+0.0.0.0 qevmzohvwxesrd.com
 0.0.0.0 qeyps.com
 0.0.0.0 qfijmgalopofbj.com
 0.0.0.0 qfkvnnzcyanwqo.com
@@ -11776,6 +11779,7 @@
 0.0.0.0 rclmc.top
 0.0.0.0 rcnkflgtxspr.com
 0.0.0.0 rcounter.rambler.ru
+0.0.0.0 rcumwyqkv.com
 0.0.0.0 rcurn.com
 0.0.0.0 rcwczstm.com
 0.0.0.0 rczagufykvpw.com
@@ -13790,6 +13794,7 @@
 0.0.0.0 tizy.ru
 0.0.0.0 tizzer.ru
 0.0.0.0 tjaqsjnrvmt.com
+0.0.0.0 tjdrxdsto.com
 0.0.0.0 tjfot.com
 0.0.0.0 tjrlwhge.com
 0.0.0.0 tk.kaufda.de
@@ -13804,6 +13809,7 @@
 0.0.0.0 tkqlhce.com
 0.0.0.0 tkrecorder.aotter.net
 0.0.0.0 tktracker.aotter.net
+0.0.0.0 tktyinaabq.com
 0.0.0.0 tl813.com
 0.0.0.0 tlafu.space
 0.0.0.0 tldxywgnezoh.com
@@ -16121,6 +16127,7 @@
 0.0.0.0 ywxjbwauqznf.com
 0.0.0.0 yx-ads6.com
 0.0.0.0 yx7xgi4d.site
+0.0.0.0 yxbglezas.com
 0.0.0.0 yxcdiyaidaakp.com
 0.0.0.0 yxjecoghjycuvm.com
 0.0.0.0 yxjvmjlhyfrp.com
@@ -16253,6 +16260,7 @@
 0.0.0.0 zkzpfpoazfgq.com
 0.0.0.0 zldgcyoxtk.com
 0.0.0.0 zlfpmrmkr.com
+0.0.0.0 zlgokeby.com
 0.0.0.0 zlxwasugtn.com
 0.0.0.0 zm232.com
 0.0.0.0 zminer.zaloapp.com
@@ -16370,8 +16378,8 @@
 
 # Hosts - adguard-dns
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-dns.txt
-# Generated - 02.08.2018
+# Generated - 03.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 16369
+# Total Domains: 16377
 # License: MIT
 

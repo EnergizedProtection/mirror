@@ -90794,7 +90794,6 @@
 0.0.0.0 tesia-thailand.com
 0.0.0.0 tesla3.fr
 0.0.0.0 teslaforfree.wordpress.com
-0.0.0.0 teslagifts.tumblr.com
 0.0.0.0 teslaton.com
 0.0.0.0 teslaw.org
 0.0.0.0 tesorosdecancun.com
@@ -96688,8 +96687,8 @@
 
 # Hosts - squidblacklist-dg-malicious
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/squidblacklist-malicious.txt
-# Generated - 02.08.2018
+# Generated - 03.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 96687
+# Total Domains: 96686
 # License: MIT
 

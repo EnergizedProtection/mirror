@@ -14326,7 +14326,6 @@
 0.0.0.0 o.fandango.com
 0.0.0.0 o.mylifetime.com
 0.0.0.0 o.opentable.com
-0.0.0.0 o.xbox.com
 0.0.0.0 o1.inviziads.com
 0.0.0.0 o2.eyereturn.com
 0.0.0.0 o2.hit.gemius.pl
@@ -20129,8 +20128,8 @@
 
 # Hosts - cameleon
 # Source - http://sysctl.org/cameleon/hosts
-# Generated - 02.08.2018
+# Generated - 03.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 20128
+# Total Domains: 20127
 # License: MIT
 

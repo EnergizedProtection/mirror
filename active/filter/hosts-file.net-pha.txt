@@ -5872,7 +5872,6 @@
 0.0.0.0 vorota-ramenskoe.ru
 0.0.0.0 vres.sk
 0.0.0.0 vssathish.top
-0.0.0.0 vtmnox.goodcluba.su
 0.0.0.0 vuxyijyfyb.trygroupc.su
 0.0.0.0 vybconsulting.com
 0.0.0.0 wdhsxte.forumcircle.com
@@ -5904,7 +5903,6 @@
 0.0.0.0 webxdirect.su
 0.0.0.0 webydirect.su
 0.0.0.0 webzdirect.su
-0.0.0.0 wecupeva.topinfowebm.su
 0.0.0.0 wedpharmacy.com
 0.0.0.0 wegner.ru
 0.0.0.0 wellbutrin.ws
@@ -11748,7 +11746,6 @@
 0.0.0.0 yhybuog.bigtradem.su
 0.0.0.0 yiwzwataoq.targetyweb.su
 0.0.0.0 yjmzg.net
-0.0.0.0 yjud.storehousek.su
 0.0.0.0 yo.supportcentrp.su
 0.0.0.0 yolandenana.ru
 0.0.0.0 your-online-meds.com
@@ -11816,8 +11813,8 @@
 
 # Hosts - hosts-file.net-pha
 # Source - https://hosts-file.net/pha.txt
-# Generated - 02.08.2018
+# Generated - 03.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 11815
+# Total Domains: 11812
 # License: MIT
 

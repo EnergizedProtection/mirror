@@ -1726,6 +1726,7 @@
 0.0.0.0 ayjebauqdrys.com
 0.0.0.0 ayozhcgcsyun.com
 0.0.0.0 ayyvsbbbav.com
+0.0.0.0 ayyxveilslz.com
 0.0.0.0 azadify.com
 0.0.0.0 azads.com
 0.0.0.0 azhdgruuvllzxg.com
@@ -1866,6 +1867,7 @@
 0.0.0.0 bbp.brazzers.com
 0.0.0.0 bbredir-ac-100.com
 0.0.0.0 bbuni.com
+0.0.0.0 bbxaumvpzqpunx.com
 0.0.0.0 bbzwbxchqgph.com
 0.0.0.0 bc.coupons.com
 0.0.0.0 bcash4you.com
@@ -3201,6 +3203,7 @@
 0.0.0.0 diwiosqupuecg.com
 0.0.0.0 diysqcbfyuru.com
 0.0.0.0 dj-updates.com
+0.0.0.0 dj5ag5n6bpdxo.cloudfront.net
 0.0.0.0 djavljmti.com
 0.0.0.0 djbnmqdawodm.com
 0.0.0.0 djeoxopgw.com
@@ -9499,6 +9502,7 @@
 0.0.0.0 vserv.bc.cdn.bitgravity.com
 0.0.0.0 vsexshop.ru
 0.0.0.0 vsicchyqydlwb.com
+0.0.0.0 vsrpztnxdejo.com
 0.0.0.0 vsvdwpuomwjhd.com
 0.0.0.0 vsxjjmyz.com
 0.0.0.0 vth05dse.com
@@ -10397,8 +10401,8 @@
 
 # Hosts - easylist
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easylist.txt
-# Generated - 02.08.2018
+# Generated - 03.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 10396
+# Total Domains: 10400
 # License: MIT
 

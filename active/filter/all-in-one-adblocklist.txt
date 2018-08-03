@@ -2625,6 +2625,7 @@
 0.0.0.0 aymcsx.ru
 0.0.0.0 ayozhcgcsyun.com
 0.0.0.0 ayyvsbbbav.com
+0.0.0.0 ayyxveilslz.com
 0.0.0.0 az413505.vo.msecnd.net
 0.0.0.0 az416426.vo.msecnd.net
 0.0.0.0 az708531.vo.msecnd.net
@@ -2837,6 +2838,7 @@
 0.0.0.0 bbtrf.info
 0.0.0.0 bbuni.com
 0.0.0.0 bbvc2.com
+0.0.0.0 bbxaumvpzqpunx.com
 0.0.0.0 bbzwbxchqgph.com
 0.0.0.0 bc.coupons.com
 0.0.0.0 bcash4you.com
@@ -5892,6 +5894,7 @@
 0.0.0.0 eaetyfmpuelw.com
 0.0.0.0 eahkxyuezqvx.com
 0.0.0.0 eanalyzer.de
+0.0.0.0 eaqxjz6bra.com
 0.0.0.0 earnco.in
 0.0.0.0 earncoins.club
 0.0.0.0 earnify.com
@@ -6132,6 +6135,7 @@
 0.0.0.0 entrecard.s3.amazonaws.com
 0.0.0.0 envy.net
 0.0.0.0 envybox.io
+0.0.0.0 enynwkvdb.com
 0.0.0.0 enzyxtdcacde.com
 0.0.0.0 eocnpszthsf.com
 0.0.0.0 eoecdsfvceebrv.com
@@ -11524,6 +11528,7 @@
 0.0.0.0 o2018.pro
 0.0.0.0 o2live.com
 0.0.0.0 o333o.com
+0.0.0.0 o4uxrk33.com
 0.0.0.0 o8q80l1z.top
 0.0.0.0 oa-stc.zdn.vn
 0.0.0.0 oaadkiypttok.com
@@ -13964,6 +13969,7 @@
 0.0.0.0 runetki.co
 0.0.0.0 runetki.com
 0.0.0.0 runetki.joyreactor.ru
+0.0.0.0 runmewivel.com
 0.0.0.0 runreproducerow.com
 0.0.0.0 runslin.com
 0.0.0.0 russianlovematch.com
@@ -17095,6 +17101,7 @@
 0.0.0.0 vserv.bc.cdn.bitgravity.com
 0.0.0.0 vsexshop.ru
 0.0.0.0 vsicchyqydlwb.com
+0.0.0.0 vsrpztnxdejo.com
 0.0.0.0 vstats.co
 0.0.0.0 vstats.digitaltrends.com
 0.0.0.0 vsvdwpuomwjhd.com
@@ -17291,6 +17298,7 @@
 0.0.0.0 webfontsfree.org
 0.0.0.0 webforensics.co.uk
 0.0.0.0 webgains.com
+0.0.0.0 webgekeniuos.com
 0.0.0.0 webglstats.com
 0.0.0.0 webgozar.com
 0.0.0.0 webgozar.ir
@@ -19619,8 +19627,8 @@
 
 # Hosts - all-in-one-adblocklist
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/all-in-one-adblocklist.txt
-# Generated - 02.08.2018
+# Generated - 03.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 19618
+# Total Domains: 19626
 # License: MIT
 

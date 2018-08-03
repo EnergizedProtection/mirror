@@ -43545,7 +43545,6 @@
 0.0.0.0 o.mylifetime.com
 0.0.0.0 o.rosettastone.com
 0.0.0.0 o.webmd.com
-0.0.0.0 o.xbox.com
 0.0.0.0 o090211.ppp.dion.ne.jp
 0.0.0.0 o5t0enbt8j.adsl.datanet.hu
 0.0.0.0 o63shsbnbg.adsl.datanet.hu
@@ -51317,8 +51316,8 @@
 
 # Hosts - airelle-rsk
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/mirror/airelle-rsk.txt
-# Generated - 02.08.2018
+# Generated - 03.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 51316
+# Total Domains: 51315
 # License: MIT
 

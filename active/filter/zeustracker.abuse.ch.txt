@@ -117,7 +117,7 @@
 
 # Hosts - zeustracker.abuse.ch
 # Source - https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Generated - 02.08.2018
+# Generated - 03.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 116
 # License: MIT

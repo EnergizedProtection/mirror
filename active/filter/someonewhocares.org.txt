@@ -8538,7 +8538,7 @@
 
 # Hosts - someonewhocares.org
 # Source - http://someonewhocares.org/hosts/hosts
-# Generated - 02.08.2018
+# Generated - 03.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 8537
 # License: MIT

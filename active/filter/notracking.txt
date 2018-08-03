@@ -57,6 +57,7 @@
 0.0.0.0 1.chcx.cn
 0.0.0.0 1.chipde.damoh.schneevonmorgen.com
 0.0.0.0 1.cjcp.cn
+0.0.0.0 1.cn716.com
 0.0.0.0 1.codesdq.com
 0.0.0.0 1.codezh.com
 0.0.0.0 1.feihua.com
@@ -352,6 +353,7 @@
 0.0.0.0 69sex.da.st
 0.0.0.0 6a036421edec9693c962-4d1f758fa5668c904b9cd6e76bdc0d97.r71.cf2.rackcdn.com
 0.0.0.0 6a4cc.leiuc.com
+0.0.0.0 6a4cc.leygv.com
 0.0.0.0 6a802238f18629454f48-5fd47577f4847dded97d514126394433.r3.cf2.rackcdn.com
 0.0.0.0 6b8a953b2bf7788063d5-6e453f33ecbb90f11a62a5c376375af3.r71.cf5.rackcdn.com
 0.0.0.0 6dtxgqam4crv6rr6.onion.cab
@@ -5660,6 +5662,7 @@
 0.0.0.0 b.szwzcf.com
 0.0.0.0 b.thanksearch.com
 0.0.0.0 b.trackcdn.com
+0.0.0.0 b.tukucc.com
 0.0.0.0 b.turbo.az
 0.0.0.0 b.unjs.com
 0.0.0.0 b.vghd.com
@@ -6192,7 +6195,6 @@
 0.0.0.0 bb.centre.ru
 0.0.0.0 bb.seguro.ga
 0.0.0.0 bb.stream24.ru
-0.0.0.0 bb.tuku.cc
 0.0.0.0 bb2.ifeng.com
 0.0.0.0 bbads.sv.publicus.com
 0.0.0.0 bbads.sx.atl.publicus.com
@@ -8302,6 +8304,7 @@
 0.0.0.0 conf.vidown.cn
 0.0.0.0 conf.xiniuz.com
 0.0.0.0 conf.xpanama.net
+0.0.0.0 conferences.sigcomm.org
 0.0.0.0 config.adsage.cn
 0.0.0.0 config.adsage.com
 0.0.0.0 config.baofeng.net
@@ -8318,6 +8321,7 @@
 0.0.0.0 confirm-amzn-account-verifyonline-inc-now.demetkentsitesi.com
 0.0.0.0 confirm-online-managelimit-verifynow.culturedafrica.com
 0.0.0.0 confirm-referer.glrsales.com
+0.0.0.0 confirm-sms-code.authenticate-va.top
 0.0.0.0 confirm.sms.code.customers-wfb.xyz
 0.0.0.0 confirmacao-itokenbank.uni5.net
 0.0.0.0 confirmationde-dispositif687.multiscreensite.com
@@ -10290,6 +10294,7 @@
 0.0.0.0 e.bdoj.pw
 0.0.0.0 e.cuomm.com
 0.0.0.0 e.czggcj.com
+0.0.0.0 e.danrs.com
 0.0.0.0 e.deimm.com
 0.0.0.0 e.diupp.com
 0.0.0.0 e.domob.cn
@@ -10302,6 +10307,7 @@
 0.0.0.0 e.gxjfh.com
 0.0.0.0 e.hellomingpian.com
 0.0.0.0 e.htper.com
+0.0.0.0 e.huaas.com
 0.0.0.0 e.huoas.com
 0.0.0.0 e.hyzui.com
 0.0.0.0 e.invodo.com
@@ -10520,6 +10526,7 @@
 0.0.0.0 elitenet.geindustrial.com
 0.0.0.0 elitepartner.msn.de
 0.0.0.0 ell.miltontech.com
+0.0.0.0 ells_fargo.com.confirm.text.or-activewf.top
 0.0.0.0 ellusakit.000webhostapp.com
 0.0.0.0 ellylldan.demos.su
 0.0.0.0 elmar.rzeszow.pl
@@ -10810,7 +10817,6 @@
 0.0.0.0 exp.3g.ifeng.com
 0.0.0.0 exp.qumi.com
 0.0.0.0 expanded-logs.000webhostapp.com
-0.0.0.0 expbl2ro.xbox.com
 0.0.0.0 expertcom.hekko24.pl
 0.0.0.0 export.mfdrums.com
 0.0.0.0 export.newscube.de
@@ -10868,6 +10874,7 @@
 0.0.0.0 f.thanksearch.com
 0.0.0.0 f.tracking.goodgamestudios.com
 0.0.0.0 f.wm.co.za
+0.0.0.0 f.yueyetiyu.com
 0.0.0.0 f05098.privacy4browsers.com
 0.0.0.0 f1.p0y.cn
 0.0.0.0 f1.pig66.com
@@ -12051,6 +12058,7 @@
 0.0.0.0 gorban.demos.su
 0.0.0.0 gorgon.youdao.com
 0.0.0.0 gorod.shumerlya.ru
+0.0.0.0 goscures.000webhostapp.com
 0.0.0.0 gosd.keepingbalanced.com.au
 0.0.0.0 goska.siol.net
 0.0.0.0 gosms.3g.cn
@@ -12822,6 +12830,7 @@
 0.0.0.0 ib-cdn.s3.amazonaws.com
 0.0.0.0 ib.absa.co.za.absa-online.login.jsp.zarmobilefx.cf
 0.0.0.0 ib.nab.com.au.acc-recovery.online
+0.0.0.0 ib.nab.com.au.feel-pleasant.com
 0.0.0.0 ib.nab.com.au.verify-acc.ml
 0.0.0.0 ibanners.empoweredcomms.com.au
 0.0.0.0 ibaveh.yadozalamom.pw
@@ -13442,6 +13451,7 @@
 0.0.0.0 invoicedropbox.digitalsurveyorske.com
 0.0.0.0 inwolweb.anyhome.co.kr
 0.0.0.0 inxtracking01.inx1and1.de
+0.0.0.0 ioc.mmakd.top
 0.0.0.0 iodometric-feelings.000webhostapp.com
 0.0.0.0 ionk.000webhostapp.com
 0.0.0.0 iosipa.b0.upaiyun.com
@@ -14817,6 +14827,7 @@
 0.0.0.0 m.beacon.sina.com.cn
 0.0.0.0 m.benaughty.com
 0.0.0.0 m.biquge5200.cc
+0.0.0.0 m.cenrs.com
 0.0.0.0 m.chenhuia.com
 0.0.0.0 m.cimzc.com
 0.0.0.0 m.clkservice.youdao.com
@@ -14878,7 +14889,6 @@
 0.0.0.0 m.maila88.com
 0.0.0.0 m.maopuzw.com
 0.0.0.0 m.matdm.com
-0.0.0.0 m.mgsue.cn
 0.0.0.0 m.miricommunity.net
 0.0.0.0 m.mirmay.com
 0.0.0.0 m.miupp.com
@@ -16117,6 +16127,7 @@
 0.0.0.0 mydisplay.ctfile.com
 0.0.0.0 mydownload.speedypc.safecart.com
 0.0.0.0 myes.youku.com
+0.0.0.0 myethervallet.000webhostapp.com
 0.0.0.0 myetherwalletmessage.signauth.icu
 0.0.0.0 myetherwalletverification.signmsg.work
 0.0.0.0 myetnerwallet.com.checkbalance.info
@@ -16594,7 +16605,6 @@
 0.0.0.0 o.opentable.com
 0.0.0.0 o.ss2.us
 0.0.0.0 o.swisscom.ch
-0.0.0.0 o.xbox.com
 0.0.0.0 o.yieldsquare.com
 0.0.0.0 o0.winfuture.de
 0.0.0.0 o1.inviziads.com
@@ -18396,6 +18406,7 @@
 0.0.0.0 prism.pandora.tv
 0.0.0.0 privacy.aol.com
 0.0.0.0 privat-gedrehte-sexvideos.de.tf
+0.0.0.0 private-myetherwallet.quanta.im
 0.0.0.0 private.hotelcesenaticobooking.info
 0.0.0.0 privatessecond.000webhostapp.com
 0.0.0.0 privatkunden.datapipe9271.com
@@ -19932,6 +19943,7 @@
 0.0.0.0 salescast.real.com
 0.0.0.0 salique-primitives.000webhostapp.com
 0.0.0.0 sallowish-beams.000webhostapp.com
+0.0.0.0 saloongkum.lpru.ac.th
 0.0.0.0 sam-sdelai.blogspot.com
 0.0.0.0 same.chinadaily.com.cn
 0.0.0.0 same.eastmoney.com
@@ -19970,6 +19982,7 @@
 0.0.0.0 sas.decisionnews.com
 0.0.0.0 sasakangok.000webhostapp.com
 0.0.0.0 sashenka.org.ua
+0.0.0.0 saspo.org.za
 0.0.0.0 sat.sanoma.fi
 0.0.0.0 sat.scoutanalytics.com
 0.0.0.0 satakp9yux.bradul.creatory.org
@@ -20010,6 +20023,7 @@
 0.0.0.0 sbx.pagesjaunes.fr
 0.0.0.0 sc-analytics.appspot.com
 0.0.0.0 sc-forbes.forbes.com
+0.0.0.0 sc.58mingtian.cn
 0.0.0.0 sc.ca.us.cddb.com
 0.0.0.0 sc.chinaiiss.com
 0.0.0.0 sc.clicksupply.com
@@ -20216,7 +20230,6 @@
 0.0.0.0 secure-faceb00k.000webhostapp.com
 0.0.0.0 secure-fape92.regis-dev9.ml
 0.0.0.0 secure-info-2018.000webhostapp.com
-0.0.0.0 secure-login.intl.service-costumer-account.xyz
 0.0.0.0 secure-paypal.account.page.update.togasmillenium.com
 0.0.0.0 secure-solutions-111inc.000webhostapp.com
 0.0.0.0 secure-update.techmines.cl
@@ -20228,7 +20241,6 @@
 0.0.0.0 secure.asiansluttease.com
 0.0.0.0 secure.auth.login.wf-south.today
 0.0.0.0 secure.bankofamerica.account-disabled.verduresarl.com
-0.0.0.0 secure.bankofamerica.com.update.connect.login.ostora.com.sa
 0.0.0.0 secure.bigfatjuicylesbians.com
 0.0.0.0 secure.c23073.shared.hc.ru
 0.0.0.0 secure.cardtransaction.com
@@ -20248,7 +20260,6 @@
 0.0.0.0 secure.providesupport.com
 0.0.0.0 secure.redirectportal.com
 0.0.0.0 secure.runescape.com-qi.top
-0.0.0.0 secure.runescape.com-ql.top
 0.0.0.0 secure.runescape.com-ye.xyz
 0.0.0.0 secure.smart-online-shop.com
 0.0.0.0 secure.testoxl.com
@@ -20403,7 +20414,6 @@
 0.0.0.0 service-payement.docesdaserramineira.com.br
 0.0.0.0 service-paypal-information.sweddy.com
 0.0.0.0 service-settings.000webhostapp.com
-0.0.0.0 service.a1aruba.com
 0.0.0.0 service.ad.adesk.com
 0.0.0.0 service.ad.duomi.com
 0.0.0.0 service.avail.net
@@ -20427,7 +20437,6 @@
 0.0.0.0 services.mailermailer.com
 0.0.0.0 services.runescape.com-qds.top
 0.0.0.0 services.runescape.com-qi.top
-0.0.0.0 services.runescape.com-ql.top
 0.0.0.0 services.webestools.com
 0.0.0.0 services.wes.df.telemetry.microsoft.com
 0.0.0.0 servicju.beget.tech
@@ -20654,7 +20663,6 @@
 0.0.0.0 sicurezza-poste-banco-italia.sexidude.com
 0.0.0.0 sidebar.angelfire.com
 0.0.0.0 sidebar.issuu.com
-0.0.0.0 siecikomputerowe.radom.pl
 0.0.0.0 sif3ukt4yh.ll1k5hvewa.madpendesign.com.au
 0.0.0.0 sifomedia.aftonbladet.se
 0.0.0.0 sifomedia.idg.se
@@ -21044,6 +21052,7 @@
 0.0.0.0 ssl-static.vinsight.de
 0.0.0.0 ssl.bmo-onlineverification.com
 0.0.0.0 ssl.eroscomix.com
+0.0.0.0 ssl.hyhzy.cn
 0.0.0.0 ssl.safepoollink.com
 0.0.0.0 ssl.sinergycosmetics.com
 0.0.0.0 ssl.ymapp.com
@@ -23727,7 +23736,6 @@
 0.0.0.0 vc.qbao.com
 0.0.0.0 vc5xu3kmepes87a1jaos.maherstcottage.com.au
 0.0.0.0 vcebhopal.ac.in
-0.0.0.0 vcontacte.pe.hu
 0.0.0.0 vcontent.e-messenger.net
 0.0.0.0 vcu.collserve.com
 0.0.0.0 vcuwyfoocergpjx.fgppchg.fgpp.com
@@ -23768,7 +23776,6 @@
 0.0.0.0 verifikacii22.fanpage112.ga
 0.0.0.0 verifikasihakun771.wixsite.com
 0.0.0.0 verify-bowiestate-edu.wz.sk
-0.0.0.0 verify-identity.usawf.credit
 0.0.0.0 verify.emailways.com
 0.0.0.0 verify.ethereumnow.top
 0.0.0.0 verify.mediumpromos.top
@@ -23853,7 +23860,6 @@
 0.0.0.0 vip001-secure.000webhostapp.com
 0.0.0.0 vip01-secure.000webhostapp.com
 0.0.0.0 vipdn123.blackapplehost.com
-0.0.0.0 vipminisowt.esy.es
 0.0.0.0 vipsecure-protect.000webhostapp.com
 0.0.0.0 virginia-pacelli.000webhostapp.com
 0.0.0.0 virilityhealth.vitamine-und-mehr.org
@@ -23890,66 +23896,37 @@
 0.0.0.0 vk-19.000webhostapp.com
 0.0.0.0 vk-activation.esy.es
 0.0.0.0 vk-ch174.pe.hu
-0.0.0.0 vk-comenis.esy.es
 0.0.0.0 vk-foto542.000webhostapp.com
-0.0.0.0 vk-g-ive.esy.es
-0.0.0.0 vk-golosa-new.esy.es
 0.0.0.0 vk-holoca.hol.es
 0.0.0.0 vk-newtv.pe.hu
 0.0.0.0 vk-offline.pe.hu
-0.0.0.0 vk-sourses.esy.es
 0.0.0.0 vk.com.giftsfree.ru
 0.0.0.0 vk.myago.tk
 0.0.0.0 vk10.viptop.ru
-0.0.0.0 vk87557876-video.hol.es
 0.0.0.0 vkanime1.000webhostapp.com
 0.0.0.0 vkantaktte.000webhostapp.com
-0.0.0.0 vkantatke.esy.es
-0.0.0.0 vkbin.hol.es
 0.0.0.0 vkblack.esy.es
 0.0.0.0 vkcheck.pe.hu
-0.0.0.0 vkchek.pe.hu
-0.0.0.0 vkclub253366.96.lt
 0.0.0.0 vkcom.pe.hu
-0.0.0.0 vkcomabout.esy.es
-0.0.0.0 vkcomcom.pe.hu
-0.0.0.0 vkcomfeed.esy.es
-0.0.0.0 vkcomo.esy.es
 0.0.0.0 vkcomphoto432382.pe.hu
-0.0.0.0 vkcomvsa.esy.es
 0.0.0.0 vkcoom2018.beget.tech
-0.0.0.0 vkdolgoruk.h1n.ru
 0.0.0.0 vkfishtest.hop.ru
-0.0.0.0 vkfreegolosa.pe.hu
 0.0.0.0 vkgoloshaker.hol.es
-0.0.0.0 vkhorg.esy.es
 0.0.0.0 vkjbn.jamaicankisses.com
 0.0.0.0 vkk-supported-help.pe.hu
 0.0.0.0 vklogcheck.esy.es
 0.0.0.0 vkmcom.beget.tech
-0.0.0.0 vkme.esy.es
 0.0.0.0 vknew.96.lt
 0.0.0.0 vkont.bos.ru
-0.0.0.0 vkontact.esy.es
 0.0.0.0 vkontake-golosa.esy.es
 0.0.0.0 vkontaktecom.vov.ru
-0.0.0.0 vkontakten.hol.es
-0.0.0.0 vkontakteus.hol.es
 0.0.0.0 vkpage.000webhostapp.com
 0.0.0.0 vkphotolikes.esy.es
-0.0.0.0 vkproverka.96.lt
 0.0.0.0 vkqqetoprankkek.hop.ru
-0.0.0.0 vksafe.hol.es
 0.0.0.0 vkservis0100.hop.ru
 0.0.0.0 vksol.000webhostapp.com
 0.0.0.0 vksupport.hop.ru
-0.0.0.0 vksupportvkvk.16mb.com
 0.0.0.0 vksurf.zzz.com.ua
-0.0.0.0 vksurgut.hol.es
-0.0.0.0 vktesting.esy.es
-0.0.0.0 vkvk.pe.hu
-0.0.0.0 vkvkvkvcom.esy.es
-0.0.0.0 vkyoufoto.esy.es
 0.0.0.0 vlive.qqvideo.tc.qq.com
 0.0.0.0 vlogic.ak-networks.com
 0.0.0.0 vm.aty.sohu.com
@@ -24024,8 +24001,6 @@
 0.0.0.0 vvlog.moviebox.baofeng.com
 0.0.0.0 vvv.ieduw.com
 0.0.0.0 vvvalki.000webhostapp.com
-0.0.0.0 vvvvvv.paypaiaccount.org.agcamera.com
-0.0.0.0 vwcart.esy.es
 0.0.0.0 vweb05.nitrado.hosting
 0.0.0.0 vweixinthumb.tc.qq.com
 0.0.0.0 vws.vidcoin.com
@@ -24337,7 +24312,6 @@
 0.0.0.0 webtrendssdc.roadrunnerrecords.com
 0.0.0.0 webts.adac.de
 0.0.0.0 webviper.dyn.ml.org
-0.0.0.0 webvkk.esy.es
 0.0.0.0 webwidgetz.duckdns.org
 0.0.0.0 webwise.bt.com
 0.0.0.0 wedgfgtgghgtygf.000webhostapp.com
@@ -25367,6 +25341,7 @@
 0.0.0.0 www.firewallgold.com
 0.0.0.0 www.fischereszter.hu
 0.0.0.0 www.fixin.de
+0.0.0.0 www.fjlqqc.com
 0.0.0.0 www.flagads.net
 0.0.0.0 www.flashflood.com
 0.0.0.0 www.fleshlight.com
@@ -25561,6 +25536,7 @@
 0.0.0.0 www.hypocistksmukkiy.download
 0.0.0.0 www.hz7788.com
 0.0.0.0 www.hzwurfzsmouches.review
+0.0.0.0 www.hzyuw.com
 0.0.0.0 www.i1236.net
 0.0.0.0 www.iagsgypeavy.review
 0.0.0.0 www.iballs.nl
@@ -26822,7 +26798,6 @@
 0.0.0.0 x.vamaker.com
 0.0.0.0 x.weather.com
 0.0.0.0 x01.aidata.io
-0.0.0.0 x0pocln5.beget.tech
 0.0.0.0 x1.da.hunantv.com
 0.0.0.0 x1.go.sohu.com
 0.0.0.0 x1.ifdef.jp
@@ -27103,6 +27078,7 @@
 0.0.0.0 yuarra.pluto.ro
 0.0.0.0 yulia.teenystar18.com
 0.0.0.0 yumbisye.sc.ke
+0.0.0.0 yumcs.xiaohuau.xyz
 0.0.0.0 yuminhong.blog.neworiental.org
 0.0.0.0 yun.duiba.com.cn
 0.0.0.0 yun.sifuhe.cn
@@ -27165,6 +27141,8 @@
 0.0.0.0 zap352660-1.plesk05.zap-webspace.com
 0.0.0.0 zap354764-1.plesk05.zap-webspace.com
 0.0.0.0 zap354767-1.plesk05.zap-webspace.com
+0.0.0.0 zap364329-9.plesk05.zap-webspace.com
+0.0.0.0 zap367054-1.plesk05.zap-webspace.com
 0.0.0.0 zapads.zapak.com
 0.0.0.0 zapatos.net.pl
 0.0.0.0 zara.voucher.giftcards-promotion.com
@@ -27291,8 +27269,8 @@
 
 # Hosts - notracking
 # Source - https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
-# Generated - 02.08.2018
+# Generated - 03.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 27290
+# Total Domains: 27268
 # License: MIT
 

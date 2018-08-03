@@ -792,7 +792,7 @@
 
 # Hosts - easylist-adult-adservers
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easylist-adult-adservers.txt
-# Generated - 02.08.2018
+# Generated - 03.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 791
 # License: MIT

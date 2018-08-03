@@ -1329,6 +1329,7 @@
 0.0.0.0 ayjebauqdrys.com
 0.0.0.0 ayozhcgcsyun.com
 0.0.0.0 ayyvsbbbav.com
+0.0.0.0 ayyxveilslz.com
 0.0.0.0 azadify.com
 0.0.0.0 azads.com
 0.0.0.0 azhdgruuvllzxg.com
@@ -1409,6 +1410,7 @@
 0.0.0.0 bbelements.com
 0.0.0.0 bbheuxcancwj.com
 0.0.0.0 bbuni.com
+0.0.0.0 bbxaumvpzqpunx.com
 0.0.0.0 bbzwbxchqgph.com
 0.0.0.0 bcdn.men
 0.0.0.0 bcgcvepi.com
@@ -7340,6 +7342,7 @@
 0.0.0.0 vs4entertainment.com
 0.0.0.0 vs4family.com
 0.0.0.0 vsicchyqydlwb.com
+0.0.0.0 vsrpztnxdejo.com
 0.0.0.0 vsvdwpuomwjhd.com
 0.0.0.0 vsxjjmyz.com
 0.0.0.0 vth05dse.com
@@ -8089,8 +8092,8 @@
 
 # Hosts - easylist-adservers
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easylist-adserver.txt
-# Generated - 02.08.2018
+# Generated - 03.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 8088
+# Total Domains: 8091
 # License: MIT
 

@@ -4006,7 +4006,7 @@
 
 # Hosts - hosts-file.net-mmt
 # Source - https://hosts-file.net/mmt.txt
-# Generated - 02.08.2018
+# Generated - 03.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 4005
 # License: MIT

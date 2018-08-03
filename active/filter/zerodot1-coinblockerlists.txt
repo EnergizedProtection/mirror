@@ -9101,7 +9101,7 @@
 
 # Hosts - zerodot1-coinblockerlists
 # Source - https://zerodot1.gitlab.io/CoinBlockerLists/hosts
-# Generated - 02.08.2018
+# Generated - 03.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 9100
 # License: MIT

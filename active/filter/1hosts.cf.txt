@@ -33867,7 +33867,6 @@
 0.0.0.0 smct.co
 0.0.0.0 smeasure.ameblo.jp
 0.0.0.0 smetrics.aclu.org
-0.0.0.0 smetrics.aem.playstation.com
 0.0.0.0 smetrics.att.com
 0.0.0.0 smetrics.bestbuy.com
 0.0.0.0 smetrics.blackberry.com
@@ -46365,8 +46364,8 @@
 
 # Hosts - 1hosts.cf
 # Source - https://1hosts.cf
-# Generated - 02.08.2018
+# Generated - 03.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 46364
+# Total Domains: 46363
 # License: MIT
 

@@ -239,6 +239,7 @@
 0.0.0.0 atoshonetwork.com
 0.0.0.0 atticwicket.com
 0.0.0.0 attracta.com
+0.0.0.0 attraqt.com
 0.0.0.0 attributionapp.com
 0.0.0.0 audienceamplify.com
 0.0.0.0 audienceiq.com
@@ -1532,6 +1533,7 @@
 0.0.0.0 numerino.cz
 0.0.0.0 nyctrl32.com
 0.0.0.0 nytlog.com
+0.0.0.0 o-s.io
 0.0.0.0 observerapp.com
 0.0.0.0 octavius.rocks
 0.0.0.0 octomarket.com
@@ -2511,8 +2513,8 @@
 
 # Hosts - easyprivacy-tracking-servers
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easyprivacy-tracking-servers.txt
-# Generated - 02.08.2018
+# Generated - 03.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 2510
+# Total Domains: 2512
 # License: MIT
 

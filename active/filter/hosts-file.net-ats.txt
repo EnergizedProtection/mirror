@@ -26792,7 +26792,6 @@
 0.0.0.0 exp.platform.glispa.com
 0.0.0.0 expandsearchanswers.com
 0.0.0.0 expansilehsnpjlpb.download
-0.0.0.0 expbl2ro.xbox.com
 0.0.0.0 expedia.ca.112.2o7.net
 0.0.0.0 expert-offers.com
 0.0.0.0 experts.us.intellitxt.com
@@ -31894,7 +31893,6 @@
 0.0.0.0 o.leadbolt.com
 0.0.0.0 o.ss2.us
 0.0.0.0 o.swisscom.ch
-0.0.0.0 o.xbox.com
 0.0.0.0 o.yieldsquare.com
 0.0.0.0 o.zedo.com
 0.0.0.0 o.zeroredirect.com
@@ -45053,8 +45051,8 @@
 
 # Hosts - hosts-file.net-ats
 # Source - https://hosts-file.net/ad_servers.txt
-# Generated - 02.08.2018
+# Generated - 03.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 45052
+# Total Domains: 45050
 # License: MIT
 

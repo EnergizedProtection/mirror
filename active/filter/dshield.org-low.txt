@@ -8924,7 +8924,6 @@
 0.0.0.0 tanzstudio-sedello.de
 0.0.0.0 taozhlp.info
 0.0.0.0 tapshop.us
-0.0.0.0 taraitirohtak.com
 0.0.0.0 tasimbaba-niak.000webhostapp.com
 0.0.0.0 taskmate.com.au
 0.0.0.0 tasrajutmacora.co.id
@@ -8986,7 +8985,6 @@
 0.0.0.0 tehnolan.ru
 0.0.0.0 tehprom-s.ru
 0.0.0.0 tehpucukharumadadipucuknya.com
-0.0.0.0 tehrmtech.com
 0.0.0.0 teinenjoy.com
 0.0.0.0 tejanopatriots.com
 0.0.0.0 telecablesmart.com
@@ -9133,7 +9131,6 @@
 0.0.0.0 throne.thehelpbiz.com
 0.0.0.0 thubagutsa.co.za
 0.0.0.0 thuvienxanh.com
-0.0.0.0 thwcounseling.com
 0.0.0.0 thymetogrowessentials.com
 0.0.0.0 thyrednh.000webhostapp.com
 0.0.0.0 ticketdoctor.net
@@ -10429,8 +10426,8 @@
 
 # Hosts - dshield.org-low
 # Source - https://www.dshield.org/feeds/suspiciousdomains_Low.txt
-# Generated - 02.08.2018
+# Generated - 03.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 10428
+# Total Domains: 10425
 # License: MIT
 

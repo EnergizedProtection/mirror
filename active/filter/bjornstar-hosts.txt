@@ -3989,7 +3989,6 @@
 0.0.0.0 shop-secure68.com
 0.0.0.0 shorstackapp.com
 0.0.0.0 shorte.st
-0.0.0.0 shots.snap.com
 0.0.0.0 shought-purives.com
 0.0.0.0 show.adclick.lv
 0.0.0.0 showads.pubmatic.com
@@ -4055,7 +4054,6 @@
 0.0.0.0 sp.ltassrv.com
 0.0.0.0 sp.pcnetwizard.com
 0.0.0.0 sp.usatoday.com
-0.0.0.0 spa.snap.com
 0.0.0.0 spacenine.genieesspv.jp
 0.0.0.0 spaces.slimspots.com
 0.0.0.0 spadpc2.i-mobile.co.jp
@@ -5689,8 +5687,8 @@
 
 # Hosts - bjornstar-hosts
 # Source - https://raw.githubusercontent.com/bjornstar/hosts/master/hosts
-# Generated - 02.08.2018
+# Generated - 03.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 5688
+# Total Domains: 5686
 # License: MIT
 

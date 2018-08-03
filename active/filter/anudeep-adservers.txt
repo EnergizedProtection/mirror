@@ -22352,7 +22352,6 @@
 0.0.0.0 sme.vidible.tv
 0.0.0.0 smeal.qualtrics.com
 0.0.0.0 smehbezgranic.mirtesen.ru
-0.0.0.0 smetrics.aem.playstation.com
 0.0.0.0 smetrics.bestbuy.com
 0.0.0.0 smetrics.fedex.com
 0.0.0.0 smetrics.foxnews.com
@@ -27956,8 +27955,8 @@
 
 # Hosts - anudeep-adservers
 # Source - https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
-# Generated - 02.08.2018
+# Generated - 03.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 27955
+# Total Domains: 27954
 # License: MIT
 
