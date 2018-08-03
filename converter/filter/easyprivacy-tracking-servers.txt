@@ -1,7 +1,7 @@
 # easyprivacy-tracking-servers Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers.txt
-# Last Converted - Thu, 02 Aug 2018 17:55:52 -0400
+# Last Converted - Fri, 03 Aug 2018 02:46:08 -0400
 # Energized - ad.porn.malware blocking.
 # License: MIT
 
@@ -241,6 +241,7 @@
 0.0.0.0 atoshonetwork.com
 0.0.0.0 atticwicket.com
 0.0.0.0 attracta.com
+0.0.0.0 attraqt.com
 0.0.0.0 attributionapp.com
 0.0.0.0 audience.visiblemeasures.com
 0.0.0.0 audienceamplify.com
@@ -1406,6 +1407,7 @@
 0.0.0.0 numerino.cz
 0.0.0.0 nyctrl32.com
 0.0.0.0 nytlog.com
+0.0.0.0 o-s.io
 0.0.0.0 observerapp.com
 0.0.0.0 octavius.rocks
 0.0.0.0 octomarket.com

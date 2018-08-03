@@ -1,7 +1,7 @@
 # easyprivacy Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://easylist.to/easylist/easyprivacy.txt
-# Last Converted - Thu, 02 Aug 2018 17:55:50 -0400
+# Last Converted - Fri, 03 Aug 2018 02:46:06 -0400
 # Energized - ad.porn.malware blocking.
 # License: MIT
 
@@ -245,6 +245,7 @@
 0.0.0.0 atoshonetwork.com
 0.0.0.0 atticwicket.com
 0.0.0.0 attracta.com
+0.0.0.0 attraqt.com
 0.0.0.0 attributionapp.com
 0.0.0.0 audience.visiblemeasures.com
 0.0.0.0 audienceamplify.com
@@ -1410,6 +1411,7 @@
 0.0.0.0 numerino.cz
 0.0.0.0 nyctrl32.com
 0.0.0.0 nytlog.com
+0.0.0.0 o-s.io
 0.0.0.0 observerapp.com
 0.0.0.0 octavius.rocks
 0.0.0.0 octomarket.com
@@ -3077,6 +3079,7 @@
 0.0.0.0 atraxio.com
 0.0.0.0 browsiprod.com
 0.0.0.0 canalstat.com
+0.0.0.0 carts.guru
 0.0.0.0 casualstat.com
 0.0.0.0 coll1onf.com
 0.0.0.0 compteur-fr.com
@@ -3109,6 +3112,7 @@
 0.0.0.0 megast.at
 0.0.0.0 mmtro.com
 0.0.0.0 ncdnprorogeraie.lol
+0.0.0.0 netvigie.com
 0.0.0.0 phywi.org
 0.0.0.0 poool.fr
 0.0.0.0 reseau-pub.com
@@ -5940,6 +5944,7 @@
 0.0.0.0 dm.journaldesfemmes.com
 0.0.0.0 dm.journaldunet.com
 0.0.0.0 dm.linternaute.com
+0.0.0.0 ea.celio.com
 0.0.0.0 ea.clubic.com
 0.0.0.0 ea.jeuxvideopc.com
 0.0.0.0 ea.lexpress.fr

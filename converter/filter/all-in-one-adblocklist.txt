@@ -1,7 +1,7 @@
 # all-in-one-adblocklist Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
-# Last Converted - Thu, 02 Aug 2018 17:55:49 -0400
+# Last Converted - Fri, 03 Aug 2018 02:46:05 -0400
 # Energized - ad.porn.malware blocking.
 # License: MIT
 
@@ -242,6 +242,7 @@
 0.0.0.0 ayloqdal.bid
 0.0.0.0 ayozhcgcsyun.com
 0.0.0.0 ayyvsbbbav.com
+0.0.0.0 ayyxveilslz.com
 0.0.0.0 azditojzcdkc.com
 0.0.0.0 azfmulmqcz.bid
 0.0.0.0 azhdgruuvllzxg.com
@@ -267,6 +268,7 @@
 0.0.0.0 bbqipbsg.bid
 0.0.0.0 bbqqjejhd.bid
 0.0.0.0 bbtlombqjr.bid
+0.0.0.0 bbxaumvpzqpunx.com
 0.0.0.0 bbzwbxchqgph.com
 0.0.0.0 bcgcvepi.com
 0.0.0.0 bckmtidcnrobwh.bid
@@ -1129,6 +1131,7 @@
 0.0.0.0 enhovesepdhxph.bid
 0.0.0.0 enhwftpkwvnb.com
 0.0.0.0 ennwwuxijwjgdm.bid
+0.0.0.0 enynwkvdb.com
 0.0.0.0 enzyxtdcacde.com
 0.0.0.0 eociaoqs.bid
 0.0.0.0 eocnpszthsf.com
@@ -5520,6 +5523,7 @@
 0.0.0.0 vsgumkkc.bid
 0.0.0.0 vshsjxfjehju.com
 0.0.0.0 vsicchyqydlwb.com
+0.0.0.0 vsrpztnxdejo.com
 0.0.0.0 vsvdwpuomwjhd.com
 0.0.0.0 vswaapygj.bid
 0.0.0.0 vsxjjmyz.com
@@ -6748,6 +6752,10 @@
 0.0.0.0 piguiqproxy.com,badfilter
 0.0.0.0 amgload.net,badfilter
 0.0.0.0 rcdn.pro,badfilter
+0.0.0.0 o4uxrk33.com
+0.0.0.0 runmewivel.com
+0.0.0.0 webgekeniuos.com
+0.0.0.0 eaqxjz6bra.com
 0.0.0.0 lh5lg.top
 0.0.0.0 glorinlost.rocks
 0.0.0.0 retiremely.com
@@ -14423,7 +14431,10 @@
 0.0.0.0 urahor9u.com
 0.0.0.0 viuboin4.com
 0.0.0.0 yie4zooseif.info
+0.0.0.0 ayyxveilslz.com
+0.0.0.0 bbxaumvpzqpunx.com
 0.0.0.0 crvvrxfgsvohiy.com
+0.0.0.0 degitlwfezpe.com
 0.0.0.0 dmrqnwtyttd.com
 0.0.0.0 dwvfccxbj.com
 0.0.0.0 efebafmqn.com
@@ -14450,6 +14461,7 @@
 0.0.0.0 wduygininqbu.com
 0.0.0.0 wjgddzpvx.com
 0.0.0.0 wzismevwhqixlq.com
+0.0.0.0 yaikleyabl.com
 0.0.0.0 yjijmpezje.com
 0.0.0.0 yxbglezas.com
 0.0.0.0 zlgokeby.com

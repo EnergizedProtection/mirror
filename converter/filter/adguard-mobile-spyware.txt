@@ -1,7 +1,7 @@
 # adguard-mobile-spyware Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/spyware.txt
-# Last Converted - Thu, 02 Aug 2018 17:55:46 -0400
+# Last Converted - Fri, 03 Aug 2018 02:45:59 -0400
 # Energized - ad.porn.malware blocking.
 # License: MIT
 

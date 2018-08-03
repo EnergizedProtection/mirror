@@ -1,7 +1,7 @@
 # fanboy-complete Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://fanboy.co.nz/r/fanboy-complete.txt
-# Last Converted - Thu, 02 Aug 2018 17:55:54 -0400
+# Last Converted - Fri, 03 Aug 2018 02:46:12 -0400
 # Energized - ad.porn.malware blocking.
 # License: MIT
 
@@ -6157,6 +6157,8 @@
 0.0.0.0 vipcpms.com
 0.0.0.0 viuboin4.com
 0.0.0.0 yie4zooseif.info
+0.0.0.0 ayyxveilslz.com
+0.0.0.0 bbxaumvpzqpunx.com
 0.0.0.0 crvvrxfgsvohiy.com
 0.0.0.0 degitlwfezpe.com
 0.0.0.0 dmrqnwtyttd.com
@@ -6179,6 +6181,7 @@
 0.0.0.0 tktyinaabq.com
 0.0.0.0 tufpmrcdc.com
 0.0.0.0 usfmwydo.com
+0.0.0.0 vsrpztnxdejo.com
 0.0.0.0 vsxjjmyz.com
 0.0.0.0 vtmkgqcvzvlsdt.com
 0.0.0.0 vyjwsifvybc.com

@@ -1,7 +1,7 @@
 # adguard-dns Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://filters.adtidy.org/extension/chromium/filters/15.txt
-# Last Converted - Thu, 02 Aug 2018 17:55:47 -0400
+# Last Converted - Fri, 03 Aug 2018 02:46:00 -0400
 # Energized - ad.porn.malware blocking.
 # License: MIT
 
@@ -11302,10 +11302,16 @@
 0.0.0.0 gsjhehtqvin.com
 0.0.0.0 jbcadlpdfsxsfe.com
 0.0.0.0 jpxevzab.com
+0.0.0.0 ltvrdftgr.com
 0.0.0.0 ngptxgpbdnutvi.com
+0.0.0.0 pkxquvydrgin.com
 0.0.0.0 qczvjjdbaj.com
+0.0.0.0 qevmzohvwxesrd.com
+0.0.0.0 rcumwyqkv.com
 0.0.0.0 rwugdvqdpxfz.com
 0.0.0.0 symydvmqjjp.com
+0.0.0.0 tjdrxdsto.com
+0.0.0.0 tktyinaabq.com
 0.0.0.0 tufpmrcdc.com
 0.0.0.0 usfmwydo.com
 0.0.0.0 vsxjjmyz.com
@@ -11315,6 +11321,8 @@
 0.0.0.0 wjgddzpvx.com
 0.0.0.0 wzismevwhqixlq.com
 0.0.0.0 yjijmpezje.com
+0.0.0.0 yxbglezas.com
+0.0.0.0 zlgokeby.com
 0.0.0.0 zplvjgpxvh.com
 0.0.0.0 aacgeuvaoqbw.com
 0.0.0.0 aadbobwqgmzi.com
