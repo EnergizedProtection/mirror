@@ -1,10 +1,13 @@
 # adguard-tracking-servers Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers.txt
-# Last Converted - Fri, 03 Aug 2018 02:46:01 -0400
+# Last Converted - Fri, 10 Aug 2018 05:48:14 -0400
 # Energized - ad.porn.malware blocking.
 # License: MIT
 
+0.0.0.0 dcmn.com
+0.0.0.0 bouncyproperty.com
+0.0.0.0 adnz.co
 0.0.0.0 cloud.roistat.com
 0.0.0.0 nrich.ai
 0.0.0.0 turnto.com
@@ -2853,6 +2856,7 @@
 0.0.0.0 zqtk.net
 0.0.0.0 zroitracker.com
 0.0.0.0 functionalclam.com
+0.0.0.0 screechingfurniture.com
 0.0.0.0 raresummer.com
 0.0.0.0 basketballbelieve.com
 0.0.0.0 ariseboundary.com

@@ -1,7 +1,7 @@
 # adguard-mobile-ads Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
-# Last Converted - Fri, 03 Aug 2018 02:45:59 -0400
+# Last Converted - Fri, 10 Aug 2018 05:48:11 -0400
 # Energized - ad.porn.malware blocking.
 # License: MIT
 
@@ -9,6 +9,7 @@
 0.0.0.0 banners.mobile.yandex.net
 0.0.0.0 coinhive.com
 0.0.0.0 coin-hive.com
+0.0.0.0 bu1.duba.com
 0.0.0.0 behacdn.ksmobile.net
 0.0.0.0 cmdts.ksmobile.com
 0.0.0.0 p-behacdn.ksmobile.net

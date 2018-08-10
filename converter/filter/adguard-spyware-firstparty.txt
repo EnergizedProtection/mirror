@@ -1,7 +1,7 @@
 # adguard-spyware-firstparty Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers_firstparty.txt
-# Last Converted - Fri, 03 Aug 2018 02:46:01 -0400
+# Last Converted - Fri, 10 Aug 2018 05:48:14 -0400
 # Energized - ad.porn.malware blocking.
 # License: MIT
 
@@ -11,6 +11,8 @@
 0.0.0.0 um-public-panel-prod.s3.amazonaws.com
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
+0.0.0.0 tracking.deluxe-marketing.com
+0.0.0.0 logs.ntvplus.tv
 0.0.0.0 alb.reddit.com
 0.0.0.0 p.vtracy.de
 0.0.0.0 tracker.brainsins.com

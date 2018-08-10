@@ -1,10 +1,55 @@
 # cybercrime Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://v.firebog.net/hosts/Cybercrime.txt
-# Last Converted - Fri, 03 Aug 2018 02:46:19 -0400
+# Last Converted - Fri, 10 Aug 2018 05:48:30 -0400
 # Energized - ad.porn.malware blocking.
 # License: MIT
 
+0.0.0.0 visitik.men
+0.0.0.0 crackerme.info
+0.0.0.0 pashafrendley.hr00.ru
+0.0.0.0 modexintl.xyz
+0.0.0.0 taughtcom.ga
+0.0.0.0 younqone.com
+0.0.0.0 x92522i5.beget.tech
+0.0.0.0 daconstructions-ksa.com
+0.0.0.0 ininox.com
+0.0.0.0 justpick.pw
+0.0.0.0 launchgrowthtoday.download
+0.0.0.0 lionltd.pw
+0.0.0.0 taqwamedical.com
+0.0.0.0 15cn.ga
+0.0.0.0 rabok.io
+0.0.0.0 micol.date
+0.0.0.0 magic4.ml
+0.0.0.0 bfvtbull.tk
+0.0.0.0 sunandsand.minnesotacowboy.com
+0.0.0.0 antongas-fx.ru
+0.0.0.0 poel.cba.pl
+0.0.0.0 www.woelpuu.com
+0.0.0.0 ymwsolutions.com
+0.0.0.0 winwincustomerservice.com
+0.0.0.0 cloudpoddle.com
+0.0.0.0 equator-motorsport.ml
+0.0.0.0 victoralifts.com
+0.0.0.0 windjutsu.nl
+0.0.0.0 zeesportvissen.be
+0.0.0.0 ziqrah.com
+0.0.0.0 gazeboindonesia.com
+0.0.0.0 plumberspro.us
+0.0.0.0 magic3.ml
+0.0.0.0 kanorkanor23.ru
+0.0.0.0 storezfone.com
+0.0.0.0 bsfwsservices.co.uk
+0.0.0.0 quantumegypt.com
+0.0.0.0 salubritate-craiova.ro
+0.0.0.0 d911670w.beget.tech
+0.0.0.0 accountnumb.com
+0.0.0.0 suresinos1.cf
+0.0.0.0 11n.nl
+0.0.0.0 egyptiandawn.info
+0.0.0.0 mycoffeenet.com
+0.0.0.0 rouji.7ban.win
 0.0.0.0 deror.cf
 0.0.0.0 9odzilla.xyz
 0.0.0.0 greyistanbulport.com
@@ -13,7 +58,6 @@
 0.0.0.0 primausaha.net
 0.0.0.0 www.365-team.org
 0.0.0.0 life-is-beautiful.in
-0.0.0.0 bsfwsservices.co.uk
 0.0.0.0 service-us.ml
 0.0.0.0 ortaksistem.com
 0.0.0.0 theonlygoodman.com
@@ -607,7 +651,6 @@
 0.0.0.0 zeromb.website
 0.0.0.0 untorsnot.in
 0.0.0.0 elysium-inc.pro
-0.0.0.0 plumberspro.us
 0.0.0.0 ad.icab.pk
 0.0.0.0 www.onetwothree.ga
 0.0.0.0 bergenpremieredentistry.us
@@ -1469,7 +1512,6 @@
 0.0.0.0 lofty.ml
 0.0.0.0 irclass-org.ml
 0.0.0.0 warpje.xyz
-0.0.0.0 mycoffeenet.com
 0.0.0.0 dd45646.win
 0.0.0.0 newegorz.info
 0.0.0.0 www.warehousepl.com
@@ -1745,7 +1787,6 @@
 0.0.0.0 bettyempl.us
 0.0.0.0 graceisall.com
 0.0.0.0 dd0s.xyz
-0.0.0.0 younqone.com
 0.0.0.0 rolyjones.com.br
 0.0.0.0 loki25.com
 0.0.0.0 domainkillz.life

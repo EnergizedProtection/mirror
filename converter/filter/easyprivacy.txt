@@ -1,7 +1,7 @@
 # easyprivacy Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://easylist.to/easylist/easyprivacy.txt
-# Last Converted - Fri, 03 Aug 2018 02:46:06 -0400
+# Last Converted - Fri, 10 Aug 2018 05:48:18 -0400
 # Energized - ad.porn.malware blocking.
 # License: MIT
 
@@ -289,6 +289,7 @@
 0.0.0.0 beanstock.com
 0.0.0.0 bebj.com
 0.0.0.0 beeftransmission.com
+0.0.0.0 beemray.com
 0.0.0.0 beemrdwn.com
 0.0.0.0 beencounter.com
 0.0.0.0 behavioralengine.com
@@ -622,6 +623,7 @@
 0.0.0.0 digdeepdigital.com.au
 0.0.0.0 digitaloptout.com
 0.0.0.0 digitaltarget.ru
+0.0.0.0 digitru.st
 0.0.0.0 dignow.org
 0.0.0.0 dimestore.com
 0.0.0.0 dimml.io
@@ -1350,6 +1352,7 @@
 0.0.0.0 nakanohito.jp
 0.0.0.0 nalook.com
 0.0.0.0 nanovisor.io
+0.0.0.0 natero.com
 0.0.0.0 native.ai
 0.0.0.0 natpal.com
 0.0.0.0 naturaltracking.com
@@ -2370,12 +2373,15 @@
 0.0.0.0 3c0cb3b4.space
 0.0.0.0 3d0cb547.space
 0.0.0.0 77.162.125.199
+0.0.0.0 8jd2lfsq.me
 0.0.0.0 abc.pema.cl
+0.0.0.0 acbp0020171456.page.tl
 0.0.0.0 ad-miner.com
 0.0.0.0 adless.io
 0.0.0.0 adminer.com
 0.0.0.0 adplusplus.fr
 0.0.0.0 adzjzewsma.cf
+0.0.0.0 afflow.18-plus.net
 0.0.0.0 afminer.com
 0.0.0.0 ajplugins.com
 0.0.0.0 aleinvest.xyz
@@ -2388,16 +2394,20 @@
 0.0.0.0 appelamule.com
 0.0.0.0 appsha5.space
 0.0.0.0 aqqgli3vle.bid
+0.0.0.0 aservices.party
 0.0.0.0 assetscdn.stream
 0.0.0.0 aster18cdn.nl
 0.0.0.0 aster18prx.nl
 0.0.0.0 authedmine.eu
+0.0.0.0 autologica.ga
 0.0.0.0 averoconnector.com
 0.0.0.0 axoncoho.tk
 0.0.0.0 aymcsx.ru
 0.0.0.0 azvjudwr.info
 0.0.0.0 bablace.com
 0.0.0.0 baiduccdn1.com
+0.0.0.0 baywttgdhe.download
+0.0.0.0 becanium.com
 0.0.0.0 befirstcdn.com
 0.0.0.0 belicimo.pw
 0.0.0.0 berateveng.ru
@@ -2417,13 +2427,18 @@
 0.0.0.0 bmnr.pw
 0.0.0.0 bmst.pw
 0.0.0.0 bowithow.com
+0.0.0.0 brominer.com
 0.0.0.0 browsermine.com
+0.0.0.0 bsyauqwerd.party
 0.0.0.0 butcalve.com
 0.0.0.0 byebye.ml
 0.0.0.0 c0i8h8ac7e.bid
 0.0.0.0 candid.zone
 0.0.0.0 cc.gofile.io
+0.0.0.0 ccvwtdtwyu.trade
+0.0.0.0 cdn-analytics.pl
 0.0.0.0 cdn-jquery.host
+0.0.0.0 cdn.static-cnt.bid
 0.0.0.0 cdnfile.xyz
 0.0.0.0 cfcdist.gdn
 0.0.0.0 cfcdist.loan
@@ -2433,6 +2448,7 @@
 0.0.0.0 clgserv.pro
 0.0.0.0 clickwith.bid
 0.0.0.0 clod.pw
+0.0.0.0 cloudcdn.gdn
 0.0.0.0 cloudcoins.co
 0.0.0.0 cloudflane.com
 0.0.0.0 cndhit.xyz
@@ -2452,6 +2468,7 @@
 0.0.0.0 coinnebula.com
 0.0.0.0 coinpirate.cf
 0.0.0.0 coinpot.co
+0.0.0.0 coinrail.io
 0.0.0.0 coinwire.eu
 0.0.0.0 cookiescript.info
 0.0.0.0 cpu2cash.link
@@ -2470,13 +2487,16 @@
 0.0.0.0 cryptonoter.com
 0.0.0.0 csgocpu.com
 0.0.0.0 ctlrnwbv.ru
+0.0.0.0 d8acddffe978b5dfcae6.date
 0.0.0.0 darking05.tk
 0.0.0.0 darking07.tk
 0.0.0.0 datasecu.download
 0.0.0.0 deepc.cc
 0.0.0.0 depttake.ga
 0.0.0.0 devphp.org.ua
+0.0.0.0 dexim.space
 0.0.0.0 didnkinrab.com
+0.0.0.0 djfhwosjck.bid
 0.0.0.0 dle-news.pw
 0.0.0.0 dogrose18.com
 0.0.0.0 dovinate.top
@@ -2486,6 +2506,7 @@
 0.0.0.0 easyhash.io
 0.0.0.0 encoding.ovh
 0.0.0.0 ermaseuc.ru
+0.0.0.0 etacontent.com
 0.0.0.0 eth-pocket.com
 0.0.0.0 eth-pocket.de
 0.0.0.0 ethtrader.de
@@ -2494,20 +2515,27 @@
 0.0.0.0 eucsoft.com
 0.0.0.0 evengparme.com
 0.0.0.0 ewtuyytdf45.com
+0.0.0.0 exdynsrv.com
 0.0.0.0 ffinwwfpqi.gq
 0.0.0.0 fge9vbrzwt.bid
 0.0.0.0 flare-analytics.com
 0.0.0.0 flophous.cf
 0.0.0.0 flowplayer.space
+0.0.0.0 formulawire.com
 0.0.0.0 freecontent.bid
 0.0.0.0 freecontent.loan
 0.0.0.0 freecontent.racing
 0.0.0.0 freecontent.win
 0.0.0.0 freshrefresher.com
+0.0.0.0 fruitice.realnetwrk.com
 0.0.0.0 g-content.bid
 0.0.0.0 gasolina.ml
 0.0.0.0 gay-hotvideo.net
 0.0.0.0 giml.ml
+0.0.0.0 gitgrub.pro
+0.0.0.0 gnrdomimplementation.com
+0.0.0.0 go.bestmobiworld.com
+0.0.0.0 goldoffer.online
 0.0.0.0 googleanalytcs.com
 0.0.0.0 goredirect.party
 0.0.0.0 graftpool.ovh
@@ -2526,6 +2554,7 @@
 0.0.0.0 hatcalter.com
 0.0.0.0 hegrinhar.com
 0.0.0.0 hemnes.win
+0.0.0.0 hhb123.tk
 0.0.0.0 hide.ovh
 0.0.0.0 hodlers.party
 0.0.0.0 hodling.faith
@@ -2534,6 +2563,7 @@
 0.0.0.0 host.d-ns.ga
 0.0.0.0 hostingcloud.faith
 0.0.0.0 hydesolo.tk
+0.0.0.0 iaheyftbsn.review
 0.0.0.0 igg.biz
 0.0.0.0 igrid.org
 0.0.0.0 ingorob.com
@@ -2564,6 +2594,7 @@
 0.0.0.0 kinoprofi.org
 0.0.0.0 kippbeak.cf
 0.0.0.0 l33tsite.info
+0.0.0.0 laserveradedomaina.com
 0.0.0.0 ledhenone.com
 0.0.0.0 ledinund.com
 0.0.0.0 leon08.tk
@@ -2572,6 +2603,8 @@
 0.0.0.0 listat.biz
 0.0.0.0 lmodr.biz
 0.0.0.0 losital.ru
+0.0.0.0 machieved.com
+0.0.0.0 malictuiar.com
 0.0.0.0 marcycoin.org
 0.0.0.0 mataharirama.xyz
 0.0.0.0 mebablo.com
@@ -2591,6 +2624,7 @@
 0.0.0.0 minero.pw
 0.0.0.0 minescripts.info
 0.0.0.0 minexmr.com
+0.0.0.0 minexmr.stream
 0.0.0.0 mining.best
 0.0.0.0 minr.pw
 0.0.0.0 mmpool.org
@@ -2615,9 +2649,12 @@
 0.0.0.0 mytestminer.xyz
 0.0.0.0 nablabee.com
 0.0.0.0 nahnoji.cz
+0.0.0.0 najsiejfnc.win
+0.0.0.0 nametraff.com
 0.0.0.0 nathetsof.com
 0.0.0.0 nddmcconmqsy.ru
 0.0.0.0 nebabrop.com
+0.0.0.0 nerohut.com
 0.0.0.0 never.ovh
 0.0.0.0 nexttime.ovh
 0.0.0.0 nfwebminer.com
@@ -2625,6 +2662,7 @@
 0.0.0.0 nnycrypto.com
 0.0.0.0 noblock.pro
 0.0.0.0 oei1.gq
+0.0.0.0 offerreality.com
 0.0.0.0 ogrid.org
 0.0.0.0 okeyletsgo.ml
 0.0.0.0 onlinereserchstatistics.online
@@ -2632,8 +2670,12 @@
 0.0.0.0 openguid.org
 0.0.0.0 p2poolmining.com
 0.0.0.0 p2poolmining.net
+0.0.0.0 panelsave.com
 0.0.0.0 papoto.com
+0.0.0.0 party-vqgdyvoycc.now.sh
+0.0.0.0 pdheuryopd.loan
 0.0.0.0 pearno.com
+0.0.0.0 pertholin.com
 0.0.0.0 play.mix.kinostuff.com
 0.0.0.0 playerassets.info
 0.0.0.0 podrltid.info
@@ -2643,8 +2685,10 @@
 0.0.0.0 poolmining.net
 0.0.0.0 ppoi.org
 0.0.0.0 pr0gram.org
+0.0.0.0 premiumstats.xyz
 0.0.0.0 presjots.ga
 0.0.0.0 projectpoi.com
+0.0.0.0 proofly.win
 0.0.0.0 pzoifaum.info
 0.0.0.0 realnetwrk.com
 0.0.0.0 reasedoper.pw
@@ -2657,13 +2701,16 @@
 0.0.0.0 rintindown.com
 0.0.0.0 rintinwa.com
 0.0.0.0 rocks.io
+0.0.0.0 salamaleyum.com
 0.0.0.0 sbhmn-miner.com
 0.0.0.0 scaleway.ovh
 0.0.0.0 secumine.net
+0.0.0.0 serie-vostfr.com
 0.0.0.0 silimbompom.com
 0.0.0.0 siteverification.online
 0.0.0.0 siteverification.site
 0.0.0.0 skencituer.com
+0.0.0.0 smartoffer.site
 0.0.0.0 smectapop12.pl
 0.0.0.0 sourcecode.pro
 0.0.0.0 spacepools.org
@@ -2672,6 +2719,7 @@
 0.0.0.0 static-cnt.bid
 0.0.0.0 staticsfs.host
 0.0.0.0 statistic.date
+0.0.0.0 stonecalcom.com
 0.0.0.0 subloader.cf
 0.0.0.0 sumokoin.com
 0.0.0.0 supportxmr.com
@@ -2680,11 +2728,17 @@
 0.0.0.0 terethat.ru
 0.0.0.0 thatresha.com
 0.0.0.0 thersprens.com
+0.0.0.0 thewhizmarketing.com
+0.0.0.0 thewhizproducts.com
+0.0.0.0 thewise.com
+0.0.0.0 toftofcal.com
 0.0.0.0 tokyodrift.ga
+0.0.0.0 traffic.tc-clicks.com
 0.0.0.0 traviilo.com
 0.0.0.0 tulip18.com
 0.0.0.0 turnsocial.com
 0.0.0.0 ue696vbd9l.bid
+0.0.0.0 ugmfvqsu.ru
 0.0.0.0 ukp2pool.uk
 0.0.0.0 unrummaged.com
 0.0.0.0 uoldid.ru
@@ -2693,31 +2747,42 @@
 0.0.0.0 veerebbs.ml
 0.0.0.0 veritrol.com
 0.0.0.0 verresof.com
+0.0.0.0 vkcdnservice.com
+0.0.0.0 vuryua.ru
 0.0.0.0 vzhjnorkudcxbiy.com
 0.0.0.0 wasm24.ru
+0.0.0.0 web.dle-news.pw
 0.0.0.0 webassembly.stream
 0.0.0.0 webmine.cz
 0.0.0.0 webmine.pro
 0.0.0.0 webminepool.com
 0.0.0.0 webminepool.tk
 0.0.0.0 webminerpool.com
+0.0.0.0 webmining.co
 0.0.0.0 webxmr.com
 0.0.0.0 whathyx.com
 0.0.0.0 whysoserius.club
 0.0.0.0 willacrit.com
 0.0.0.0 witthethim.com
 0.0.0.0 wordc.ga
+0.0.0.0 wp-monero-miner.de
 0.0.0.0 wsp.marketgid.com
+0.0.0.0 wtm.monitoringservice.co
 0.0.0.0 wty46.com
 0.0.0.0 xbasfbno.info
 0.0.0.0 xfast.host
 0.0.0.0 xmr.cool
 0.0.0.0 xmrpool.net
 0.0.0.0 xvideosharing.site
+0.0.0.0 xy.nullrefexcep.com
 0.0.0.0 yololike.space
+0.0.0.0 yqaywudifu.date
+0.0.0.0 yrdrtzmsmt.com
 0.0.0.0 yuebofa.cc
 0.0.0.0 ywtjdckysve.com
 0.0.0.0 zlx.com.br
+0.0.0.0 zminer.zaloapp.com
+0.0.0.0 zndaowjdnf.stream
 0.0.0.0 6ldu6qa.com
 0.0.0.0 aheadday.com
 0.0.0.0 anxiousapples.com
@@ -2725,7 +2790,9 @@
 0.0.0.0 axiomaticalley.com
 0.0.0.0 balancebreath.com
 0.0.0.0 bh8yx.xyz
+0.0.0.0 broaddoor.com
 0.0.0.0 consciouscabbage.com
+0.0.0.0 consciouschairs.com
 0.0.0.0 copycarpenter.com
 0.0.0.0 delegatediscussion.com
 0.0.0.0 detectdiscovery.com
@@ -3114,7 +3181,6 @@
 0.0.0.0 ncdnprorogeraie.lol
 0.0.0.0 netvigie.com
 0.0.0.0 phywi.org
-0.0.0.0 poool.fr
 0.0.0.0 reseau-pub.com
 0.0.0.0 semiocast.com
 0.0.0.0 sk1n.fr
@@ -4496,7 +4562,6 @@
 0.0.0.0 track.tcppu.com
 0.0.0.0 track.td3x.com
 0.0.0.0 track.uc.cn
-0.0.0.0 track.uniqodo.com
 0.0.0.0 track.untd.com
 0.0.0.0 track.vscash.com
 0.0.0.0 track.written.com
@@ -5258,6 +5323,7 @@
 0.0.0.0 g2a-com.newsletter.com.pl
 0.0.0.0 ga.canoe.ca
 0.0.0.0 ga.nsimg.net
+0.0.0.0 gateway.reddit.com
 0.0.0.0 gcpdata.telegraph.co.uk
 0.0.0.0 gekko.spiceworks.com
 0.0.0.0 geo.hltv.org
@@ -5312,6 +5378,7 @@
 0.0.0.0 intelli.ageuk.org.uk
 0.0.0.0 intent.cbsi.com
 0.0.0.0 ip.breitbart.com
+0.0.0.0 ip.pichunter.com
 0.0.0.0 jack.allday.com
 0.0.0.0 kinesisproxy.hearstlabs.com
 0.0.0.0 l.5min.com
@@ -5670,6 +5737,7 @@
 0.0.0.0 stats.uswitch.com
 0.0.0.0 stats.vc.gg
 0.0.0.0 stats.video.search.yahoo.com
+0.0.0.0 stats.videodelivery.net
 0.0.0.0 stats.visistat.com
 0.0.0.0 stats.vulture.com
 0.0.0.0 stats.wordpress.com
@@ -6112,6 +6180,7 @@
 0.0.0.0 count.munhwa.com
 0.0.0.0 gather.hankyung.com
 0.0.0.0 hits.zdnet.co.kr
+0.0.0.0 log.sv.pandora.tv
 0.0.0.0 track.tiara.daum.net
 0.0.0.0 veta.naver.com
 0.0.0.0 wcs.naver.com

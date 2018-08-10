@@ -1,7 +1,7 @@
 # easyprivacy-specific Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last Converted - Fri, 03 Aug 2018 02:46:08 -0400
+# Last Converted - Fri, 10 Aug 2018 05:48:19 -0400
 # Energized - ad.porn.malware blocking.
 # License: MIT
 
@@ -233,6 +233,7 @@
 0.0.0.0 g2a-com.newsletter.com.pl
 0.0.0.0 ga.canoe.ca
 0.0.0.0 ga.nsimg.net
+0.0.0.0 gateway.reddit.com
 0.0.0.0 gcpdata.telegraph.co.uk
 0.0.0.0 gekko.spiceworks.com
 0.0.0.0 geo.hltv.org
@@ -287,6 +288,7 @@
 0.0.0.0 intelli.ageuk.org.uk
 0.0.0.0 intent.cbsi.com
 0.0.0.0 ip.breitbart.com
+0.0.0.0 ip.pichunter.com
 0.0.0.0 jack.allday.com
 0.0.0.0 kinesisproxy.hearstlabs.com
 0.0.0.0 l.5min.com
@@ -645,6 +647,7 @@
 0.0.0.0 stats.uswitch.com
 0.0.0.0 stats.vc.gg
 0.0.0.0 stats.video.search.yahoo.com
+0.0.0.0 stats.videodelivery.net
 0.0.0.0 stats.visistat.com
 0.0.0.0 stats.vulture.com
 0.0.0.0 stats.wordpress.com
