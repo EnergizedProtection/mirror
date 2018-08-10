@@ -23495,7 +23495,6 @@
 0.0.0.0 clpremdo.com
 0.0.0.0 cls.vrvm.com
 0.0.0.0 clubbebe.2cnt.net
-0.0.0.0 cluster-03.topbucks.com
 0.0.0.0 cluster.adultadworld.com
 0.0.0.0 cluster.performanceanalyser.net
 0.0.0.0 cluster0.2cnt.net
@@ -45005,6 +45004,6 @@
 # Source - https://hosts-file.net/ad_servers.txt
 # Generated - 10.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 45002
+# Total Domains: 45001
 # License: MIT
 

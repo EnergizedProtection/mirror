@@ -3466,7 +3466,6 @@
 0.0.0.0 hotelscombined.com.au
 0.0.0.0 hothta.com
 0.0.0.0 hotkeys.com
-0.0.0.0 hotptp.com
 0.0.0.0 hotwords.com
 0.0.0.0 hotwords.com.br
 0.0.0.0 hotwords.com.mx
@@ -4246,6 +4245,7 @@
 0.0.0.0 layer-ad.org
 0.0.0.0 layerloop.com
 0.0.0.0 lazkslkkmtpy.com
+0.0.0.0 lbaybxwiklnfe.com
 0.0.0.0 lbbfzsjmgm.com
 0.0.0.0 lbbgjozyrgy.com
 0.0.0.0 lbjgdskmgsmowy.com

@@ -593,7 +593,6 @@
 0.0.0.0 ad.style
 0.0.0.0 ad.thisav.com
 0.0.0.0 ad.traffmonster.info
-0.0.0.0 ad.userporn.com
 0.0.0.0 ad.valuecalling.com
 0.0.0.0 ad.winningpartner.com
 0.0.0.0 ad.wsod.com
@@ -2968,6 +2967,7 @@
 0.0.0.0 dagnar.com
 0.0.0.0 dah0ooy4doe.info
 0.0.0.0 dailyvideo.securejoin.com
+0.0.0.0 daiporno.com
 0.0.0.0 daitrff.info
 0.0.0.0 daiwyihpjhdy.com
 0.0.0.0 daizzagvvnv.com
@@ -3794,6 +3794,7 @@
 0.0.0.0 feranewsblogone.com
 0.0.0.0 fermolo.info
 0.0.0.0 ferrellis.com
+0.0.0.0 festaporno.com
 0.0.0.0 ff52e77ba517.com
 0.0.0.0 ff5bd8d9f8df.com
 0.0.0.0 ffdkffnj.com
@@ -4575,7 +4576,6 @@
 0.0.0.0 hothta.com
 0.0.0.0 hotkeys.com
 0.0.0.0 hotlinking.dosmil.imap.cc
-0.0.0.0 hotptp.com
 0.0.0.0 hotsocials.com
 0.0.0.0 hotwords.com
 0.0.0.0 hotwords.com.br
@@ -5486,6 +5486,7 @@
 0.0.0.0 layer-ad.org
 0.0.0.0 layerloop.com
 0.0.0.0 lazkslkkmtpy.com
+0.0.0.0 lbaybxwiklnfe.com
 0.0.0.0 lbbfzsjmgm.com
 0.0.0.0 lbbgjozyrgy.com
 0.0.0.0 lbjgdskmgsmowy.com
@@ -6796,6 +6797,7 @@
 0.0.0.0 ovchjqpdh.com
 0.0.0.0 ovcksawwem.com
 0.0.0.0 overhaps.com
+0.0.0.0 overreare.co
 0.0.0.0 overture.com
 0.0.0.0 overturs.com
 0.0.0.0 ovgzbnjj.com
@@ -6812,8 +6814,6 @@
 0.0.0.0 ox-d.rantsports.com
 0.0.0.0 ox-i.cordillera.tv
 0.0.0.0 ox.furaffinity.net
-0.0.0.0 ox2.pron.tv
-0.0.0.0 ox3.pron.tv
 0.0.0.0 oxado.com
 0.0.0.0 oxanehlscsry.com
 0.0.0.0 oxcluster.com
@@ -6900,8 +6900,6 @@
 0.0.0.0 partners.rochen.com
 0.0.0.0 partners.wrike.com
 0.0.0.0 partners.xpertmarket.com
-0.0.0.0 partners.yobt.com
-0.0.0.0 partners.yobt.tv
 0.0.0.0 partycasino.com
 0.0.0.0 partypartners.com
 0.0.0.0 partypills.org
@@ -7170,12 +7168,15 @@
 0.0.0.0 porkolt.com
 0.0.0.0 porn-hitz.com
 0.0.0.0 porn-site-builder.com
+0.0.0.0 porn300.com
 0.0.0.0 porn88.net
 0.0.0.0 porn99.net
 0.0.0.0 pornattitude.com
 0.0.0.0 pornconversions.com
 0.0.0.0 porndeals.com
+0.0.0.0 porndroids.com
 0.0.0.0 pornearn.com
+0.0.0.0 pornglee.com
 0.0.0.0 porngray.com
 0.0.0.0 pornkings.com
 0.0.0.0 pornleep.com
@@ -8603,6 +8604,7 @@
 0.0.0.0 talk2none.com
 0.0.0.0 tangozebra.com
 0.0.0.0 tantella.com
+0.0.0.0 tantoporno.com
 0.0.0.0 tanzanite.infomine.com
 0.0.0.0 taoclfxgf.com
 0.0.0.0 tap.more-results.net
@@ -8900,7 +8902,6 @@
 0.0.0.0 trackyourlinks.com
 0.0.0.0 tradeadexchange.com
 0.0.0.0 tradeexpert.net
-0.0.0.0 trader.erosdlz.com
 0.0.0.0 traffbiz.ru
 0.0.0.0 traffboost.net
 0.0.0.0 traffic-in.com
@@ -10384,6 +10385,6 @@
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easylist.txt
 # Generated - 10.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 10381
+# Total Domains: 10382
 # License: MIT
 

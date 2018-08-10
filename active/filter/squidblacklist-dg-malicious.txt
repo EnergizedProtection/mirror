@@ -18488,7 +18488,6 @@
 0.0.0.0 blackmind.redirectme.net
 0.0.0.0 blackmountaintechnology.com
 0.0.0.0 blacknight.com
-0.0.0.0 blacknite.eu
 0.0.0.0 blackpepperevents.com
 0.0.0.0 blackpirate.site90.com
 0.0.0.0 blackrabbitthailand.com
@@ -99014,6 +99013,6 @@
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/squidblacklist-malicious.txt
 # Generated - 10.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 99011
+# Total Domains: 99010
 # License: MIT
 

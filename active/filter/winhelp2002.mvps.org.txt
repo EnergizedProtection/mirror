@@ -1711,7 +1711,6 @@
 0.0.0.0 adserver.fixionmedia.com
 0.0.0.0 adserver.friendfinder.com
 0.0.0.0 adserver.gadu-gadu.pl
-0.0.0.0 adserver.gallerytrafficservice.com
 0.0.0.0 adserver.hardsextube.com
 0.0.0.0 adserver.hardwareanalysis.com
 0.0.0.0 adserver.hispanoclick.com
@@ -2452,7 +2451,6 @@
 0.0.0.0 autospies.us.intellitxt.com
 0.0.0.0 autoweb.112.2o7.net
 0.0.0.0 autoworldnews.us.intellitxt.com
-0.0.0.0 avalon.topbucks.com
 0.0.0.0 avantlink.com
 0.0.0.0 avazudsp.net
 0.0.0.0 avenfeld.com
@@ -2938,7 +2936,6 @@
 0.0.0.0 bostonglobe.demdex.net
 0.0.0.0 botd.wordpress.com
 0.0.0.0 botd2.wordpress.com
-0.0.0.0 botw.topbucks.com
 0.0.0.0 bounceexchange.com
 0.0.0.0 box.anchorfree.net
 0.0.0.0 boxingscene.us.intellitxt.com
@@ -3581,7 +3578,6 @@
 0.0.0.0 clickcash.webpower.com
 0.0.0.0 clickcdn.shareaholic.com
 0.0.0.0 clickedyclick.com
-0.0.0.0 clickheat.topbucks.com
 0.0.0.0 clicks.about.com
 0.0.0.0 clicks.beap.ad.yieldmanager.net
 0.0.0.0 clicks.equantum.com
@@ -3650,7 +3646,6 @@
 0.0.0.0 cloud.getpopunder.com
 0.0.0.0 clubmed.112.2o7.net
 0.0.0.0 clubmom.122.2o7.net
-0.0.0.0 cluster-03.topbucks.com
 0.0.0.0 cluster.ad-serverparc.nl
 0.0.0.0 cluster.adultadworld.com
 0.0.0.0 cluster.adworldmedia.com
@@ -12340,6 +12335,6 @@
 # Source - http://winhelp2002.mvps.org/hosts.txt
 # Generated - 10.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 12337
+# Total Domains: 12332
 # License: MIT
 

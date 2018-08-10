@@ -875,7 +875,6 @@
 0.0.0.0 ad.thisav.com
 0.0.0.0 ad.touchwise.co.kr
 0.0.0.0 ad.traffmonster.info
-0.0.0.0 ad.userporn.com
 0.0.0.0 ad.valuecalling.com
 0.0.0.0 ad.winningpartner.com
 0.0.0.0 ad.wowtv.co.kr
@@ -3621,6 +3620,7 @@
 0.0.0.0 camsense.com
 0.0.0.0 camsitecash.com
 0.0.0.0 camtinolc.com
+0.0.0.0 camvideos.tv
 0.0.0.0 camzap.com
 0.0.0.0 canalstat.com
 0.0.0.0 canddi.com
@@ -5164,6 +5164,7 @@
 0.0.0.0 dailymotion-ams.gravityrd-services.com
 0.0.0.0 dailyvbucks.com
 0.0.0.0 dailyvideo.securejoin.com
+0.0.0.0 daiporno.com
 0.0.0.0 daitrff.info
 0.0.0.0 daiwyihpjhdy.com
 0.0.0.0 daizzagvvnv.com
@@ -6579,7 +6580,6 @@
 0.0.0.0 feedage.net
 0.0.0.0 feedaty.com
 0.0.0.0 feedblitz.com
-0.0.0.0 feedburner.com
 0.0.0.0 feedcat.net
 0.0.0.0 feedgist.com
 0.0.0.0 feedjit.com
@@ -6605,6 +6605,7 @@
 0.0.0.0 ferank.fr
 0.0.0.0 fermolo.info
 0.0.0.0 ferrellis.com
+0.0.0.0 festaporno.com
 0.0.0.0 fetchback.com
 0.0.0.0 fexperies.info
 0.0.0.0 ff52e77ba517.com
@@ -8133,7 +8134,6 @@
 0.0.0.0 hotkeys.com
 0.0.0.0 hotlinking.dosmil.imap.cc
 0.0.0.0 hotlog.ru
-0.0.0.0 hotptp.com
 0.0.0.0 hotrank.com.tw
 0.0.0.0 hotsocials.com
 0.0.0.0 hottraffic.net
@@ -9545,6 +9545,7 @@
 0.0.0.0 lazkslkkmtpy.com
 0.0.0.0 lb.secureweb24.net
 0.0.0.0 lb4.a-ads.com
+0.0.0.0 lbaybxwiklnfe.com
 0.0.0.0 lbbfzsjmgm.com
 0.0.0.0 lbbgjozyrgy.com
 0.0.0.0 lbjgdskmgsmowy.com
@@ -11911,8 +11912,6 @@
 0.0.0.0 ox-d.rantsports.com
 0.0.0.0 ox-i.cordillera.tv
 0.0.0.0 ox.furaffinity.net
-0.0.0.0 ox2.pron.tv
-0.0.0.0 ox3.pron.tv
 0.0.0.0 oxado.com
 0.0.0.0 oxanehlscsry.com
 0.0.0.0 oxcluster.com
@@ -12053,8 +12052,6 @@
 0.0.0.0 partners.rochen.com
 0.0.0.0 partners.wrike.com
 0.0.0.0 partners.xpertmarket.com
-0.0.0.0 partners.yobt.com
-0.0.0.0 partners.yobt.tv
 0.0.0.0 partnerzyapi.ceneo.pl
 0.0.0.0 party-nngvitbizn.now.sh
 0.0.0.0 party-vqgdyvoycc.now.sh
@@ -12604,12 +12601,15 @@
 0.0.0.0 porkolt.com
 0.0.0.0 porn-hitz.com
 0.0.0.0 porn-site-builder.com
+0.0.0.0 porn300.com
 0.0.0.0 porn88.net
 0.0.0.0 porn99.net
 0.0.0.0 pornattitude.com
 0.0.0.0 pornconversions.com
 0.0.0.0 porndeals.com
+0.0.0.0 porndroids.com
 0.0.0.0 pornearn.com
+0.0.0.0 pornglee.com
 0.0.0.0 porngraph.com
 0.0.0.0 porngray.com
 0.0.0.0 pornkings.com
@@ -15452,6 +15452,7 @@
 0.0.0.0 tangozebra.com
 0.0.0.0 tanidigital.com
 0.0.0.0 tantella.com
+0.0.0.0 tantoporno.com
 0.0.0.0 tanx.com
 0.0.0.0 tanzanite.infomine.com
 0.0.0.0 taoclfxgf.com
@@ -16108,7 +16109,6 @@
 0.0.0.0 tradedoubler.com
 0.0.0.0 tradeexpert.net
 0.0.0.0 tradelab.fr
-0.0.0.0 trader.erosdlz.com
 0.0.0.0 tradescape.biz
 0.0.0.0 trafex.net
 0.0.0.0 traffbiz.ru
@@ -17483,6 +17483,7 @@
 0.0.0.0 widgets.binotel.com
 0.0.0.0 widgets.bufferapp.com
 0.0.0.0 widgets.comcontent.net
+0.0.0.0 widgets.cryptopicture.com
 0.0.0.0 widgets.digg.com
 0.0.0.0 widgets.digitalmediacommunications.com
 0.0.0.0 widgets.dzone.com
@@ -19602,6 +19603,6 @@
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/all-in-one-adblocklist.txt
 # Generated - 10.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 19599
+# Total Domains: 19600
 # License: MIT
 

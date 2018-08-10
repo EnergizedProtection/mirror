@@ -3556,7 +3556,6 @@
 0.0.0.0 adserver.friendfinder.com
 0.0.0.0 adserver.fuckaroo.org
 0.0.0.0 adserver.gadu-gadu.pl
-0.0.0.0 adserver.gallerytrafficservice.com
 0.0.0.0 adserver.gameparty.net
 0.0.0.0 adserver.gamigo.de
 0.0.0.0 adserver.garden.nl
@@ -6418,7 +6417,6 @@
 0.0.0.0 big-fucking-orgy.inhit.com
 0.0.0.0 big-tit-porn.inhit.com
 0.0.0.0 big-tit.flywebs.com
-0.0.0.0 big-tit.tabrays.com
 0.0.0.0 big.sddan.com
 0.0.0.0 bigboy.eurogamer.net
 0.0.0.0 bigcloseups.thumblogger.com
@@ -6828,7 +6826,6 @@
 0.0.0.0 bussiness-protections.000webhostapp.com
 0.0.0.0 busunda.pop3.ru
 0.0.0.0 buthoprus.narod.ru
-0.0.0.0 buttocks.girls-movies.com
 0.0.0.0 butynike-zgarnij.coolpage.biz
 0.0.0.0 buy-cheap-phentermine.blogspot.com
 0.0.0.0 buy-cialis-online.iscool.nl
@@ -8061,7 +8058,6 @@
 0.0.0.0 clubdo.free.fr
 0.0.0.0 clubpenguin.haxdo.com
 0.0.0.0 clumsyninjahack.goblogz.net
-0.0.0.0 cluster-fuckz.girls-movies.com
 0.0.0.0 cluster.adultworld.com
 0.0.0.0 cluster.performanceanalyser.net
 0.0.0.0 cm-cl35.fresheye.com
@@ -8731,7 +8727,6 @@
 0.0.0.0 ct.verticalhealth.net
 0.0.0.0 ct1.shinobi.jp
 0.0.0.0 ct2.shinobi.jp
-0.0.0.0 ctc.amateurpie.com
 0.0.0.0 ctdr.rescuegroups.org
 0.0.0.0 ctgjzaq2y6hmveiimqzv.glamxpress.co.uk
 0.0.0.0 ctix8.cheaptickets.com
@@ -12949,7 +12944,6 @@
 0.0.0.0 images.adultplex.com
 0.0.0.0 images.adviews.de
 0.0.0.0 images.affiliator.com
-0.0.0.0 images.blackmonstercocks.com
 0.0.0.0 images.blogomer.com
 0.0.0.0 images.bnmq.com
 0.0.0.0 images.cloudassets.mobi
@@ -27218,6 +27212,6 @@
 # Source - https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
 # Generated - 10.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 27215
+# Total Domains: 27209
 # License: MIT
 

@@ -14439,7 +14439,6 @@
 0.0.0.0 adserver.digitalmedianet.com
 0.0.0.0 adserver.fixionmedia.com
 0.0.0.0 adserver.flossiemediagroup.com
-0.0.0.0 adserver.gallerytrafficservice.com
 0.0.0.0 adserver.hispanoclick.com
 0.0.0.0 adserver.hittheroad.mobi
 0.0.0.0 adserver.spankaway.com
@@ -18345,7 +18344,6 @@
 0.0.0.0 clickhardcore.com
 0.0.0.0 clickhare.com
 0.0.0.0 clickheadquarters.com
-0.0.0.0 clickheat.topbucks.com
 0.0.0.0 clickher.com
 0.0.0.0 clickhere.egroups.com
 0.0.0.0 clickhere.lamer.la
@@ -41423,7 +41421,6 @@
 0.0.0.0 pornosexe.blogtrafic.com
 0.0.0.0 pornostats.nl
 0.0.0.0 pornostranka.cz
-0.0.0.0 pornostranky.cz
 0.0.0.0 pornotracks.com
 0.0.0.0 pornotrade.com
 0.0.0.0 pornovlog.nl
@@ -47799,7 +47796,6 @@
 0.0.0.0 trader.adbureau.net
 0.0.0.0 trader.brokerclicks.com
 0.0.0.0 trader.ca
-0.0.0.0 trader.erosdlz.com
 0.0.0.0 trader.ontheweb.nl
 0.0.0.0 trader.org
 0.0.0.0 trader80-milf.tumblr.com
@@ -57364,7 +57360,6 @@
 0.0.0.0 xxxranking.com
 0.0.0.0 xxxrated-sex.com
 0.0.0.0 xxxrated-slim-shema.da.ru
-0.0.0.0 xxxrated.nl
 0.0.0.0 xxxrated.pussyfotos.com
 0.0.0.0 xxxrated.startspot.nl
 0.0.0.0 xxxratedblackpussy.com
@@ -57696,6 +57691,6 @@
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/mirror/airelle-trc.txt
 # Generated - 10.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 57693
+# Total Domains: 57688
 # License: MIT
 

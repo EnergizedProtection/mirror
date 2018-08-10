@@ -8979,7 +8979,6 @@
 0.0.0.0 av.ageverify.co
 0.0.0.0 av.beap.bc.yahoo.com
 0.0.0.0 avads.co.uk
-0.0.0.0 avalon.topbucks.com
 0.0.0.0 avalopaly.com
 0.0.0.0 avatars.fyre.co
 0.0.0.0 avatraffic.com
@@ -10626,7 +10625,6 @@
 0.0.0.0 botsvisit.com
 0.0.0.0 bottomdollar.com
 0.0.0.0 botuu.adsame.com
-0.0.0.0 botw.topbucks.com
 0.0.0.0 boudja.com
 0.0.0.0 bounce-ads.de
 0.0.0.0 bounceexchange.com
@@ -13192,7 +13190,6 @@
 0.0.0.0 clickey.com
 0.0.0.0 clickfraudmeter.com
 0.0.0.0 clickfuse.com
-0.0.0.0 clickheat.topbucks.com
 0.0.0.0 clickhereforcellphones.com
 0.0.0.0 clickhouse.com
 0.0.0.0 clickhype.com
@@ -13483,7 +13480,6 @@
 0.0.0.0 clubwinnerz.com
 0.0.0.0 cludo.com
 0.0.0.0 cluesnetwork.sc.omtrdc.net
-0.0.0.0 cluster-03.topbucks.com
 0.0.0.0 cluster.adultadworld.com
 0.0.0.0 cluster.adultworld.com
 0.0.0.0 cluster.adworldmedia.com
@@ -49142,6 +49138,6 @@
 # Source - https://1hosts.cf
 # Generated - 10.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 49139
+# Total Domains: 49135
 # License: MIT
 

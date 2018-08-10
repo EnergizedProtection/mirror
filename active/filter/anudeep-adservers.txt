@@ -12499,7 +12499,6 @@
 0.0.0.0 feedcache.vizury.com
 0.0.0.0 feeder1.tynt.com
 0.0.0.0 feedfetch.c.appier.net
-0.0.0.0 feeds.feedburner.com
 0.0.0.0 feeds.sandbox.auditude.com
 0.0.0.0 fef4-d444-80a6-3e75.reporo.net
 0.0.0.0 felix.data.tm-awx.com
@@ -27932,6 +27931,6 @@
 # Source - https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
 # Generated - 10.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 27929
+# Total Domains: 27928
 # License: MIT
 

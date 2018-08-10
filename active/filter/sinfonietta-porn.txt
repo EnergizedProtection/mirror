@@ -157,7 +157,6 @@
 0.0.0.0 adserver.bondage.com
 0.0.0.0 adserver.cams.com
 0.0.0.0 adserver.friendfinder.com
-0.0.0.0 adserver.gallerytrafficservice.com
 0.0.0.0 adserver.janesguide.com
 0.0.0.0 adserver.juicyads.com
 0.0.0.0 adserver.juicybucks.com
@@ -330,7 +329,6 @@
 0.0.0.0 angelagrant.com
 0.0.0.0 angelalittle.net
 0.0.0.0 angelamelini.com
-0.0.0.0 angelarchives.com
 0.0.0.0 angelartemis.an.ohost.de
 0.0.0.0 angelaryan.com
 0.0.0.0 angelasalvagno.com
@@ -588,7 +586,6 @@
 0.0.0.0 austrian-angels.at
 0.0.0.0 autolinkweb.com
 0.0.0.0 avadevine.com
-0.0.0.0 avalon.topbucks.com
 0.0.0.0 avatarcash.com
 0.0.0.0 avgle.com
 0.0.0.0 awempire.com
@@ -763,7 +760,6 @@
 0.0.0.0 bootycallfriends.com
 0.0.0.0 bos.so
 0.0.0.0 bossvideotube.com
-0.0.0.0 botw.topbucks.com
 0.0.0.0 boundandbanged.com
 0.0.0.0 boysfood.com
 0.0.0.0 br.fling.com
@@ -941,7 +937,6 @@
 0.0.0.0 click.revsharecash.com
 0.0.0.0 click.sexmoney.com
 0.0.0.0 click.top10sites.com
-0.0.0.0 clickheat.topbucks.com
 0.0.0.0 clicks.babylon-x.com
 0.0.0.0 clickthru.aebn.net
 0.0.0.0 clicktrack.wnu.com
@@ -992,7 +987,6 @@
 0.0.0.0 clubseventeen.com
 0.0.0.0 clubveronicaavluv.com
 0.0.0.0 clubvirgins.com
-0.0.0.0 cluster-03.topbucks.com
 0.0.0.0 cluster.adultadworld.com
 0.0.0.0 cluster3.adultadworld.com
 0.0.0.0 cocogals.com
@@ -6066,6 +6060,6 @@
 # Source - https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/pornography-hosts
 # Generated - 10.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 6063
+# Total Domains: 6057
 # License: MIT
 

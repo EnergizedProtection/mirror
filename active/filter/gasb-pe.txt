@@ -11771,7 +11771,6 @@
 0.0.0.0 bestasians.net
 0.0.0.0 bestblackwomen.com
 0.0.0.0 bestbloggin.com
-0.0.0.0 bestbondagegallery.com
 0.0.0.0 bestbookblog.com
 0.0.0.0 bestbucks.com
 0.0.0.0 bestbuy.com.122.2o7.net
@@ -12722,7 +12721,6 @@
 0.0.0.0 botnetinkey.co.cc
 0.0.0.0 bottomdollar.com
 0.0.0.0 bottomlineradio.myradiotoolbar.com
-0.0.0.0 botw.topbucks.com
 0.0.0.0 botzz.kilu.de
 0.0.0.0 bounceexchange.com
 0.0.0.0 bouncenplay.ca
@@ -15154,7 +15152,6 @@
 0.0.0.0 cluemail.com
 0.0.0.0 clusif.free.fr
 0.0.0.0 clust12-akmai.net
-0.0.0.0 cluster-03.topbucks.com
 0.0.0.0 cluster.adultadworld.com
 0.0.0.0 cluster.adultworld.com
 0.0.0.0 cluster.adworldmedia.com
@@ -16743,7 +16740,6 @@
 0.0.0.0 ct99530.ourtoolbar.com
 0.0.0.0 ct99592.ourtoolbar.com
 0.0.0.0 ct99617.ourtoolbar.com
-0.0.0.0 ctc.amateurpie.com
 0.0.0.0 ctccancercompass.com.112.2o7.net
 0.0.0.0 ctcdev.112.2o7.net
 0.0.0.0 ctcentralcom.122.2o7.net
@@ -16917,7 +16913,6 @@
 0.0.0.0 cybername.net
 0.0.0.0 cybernetentertainment.com
 0.0.0.0 cybernichons.com
-0.0.0.0 cyberpornguide.com
 0.0.0.0 cyberpresse.alliance-web.net
 0.0.0.0 cyberprog.pwp.blueyonder.co.uk
 0.0.0.0 cyberrape.com
@@ -28645,7 +28640,6 @@
 0.0.0.0 incentivelogic.com
 0.0.0.0 incest-part.net
 0.0.0.0 incest-sex-stories.info
-0.0.0.0 incest3d.net
 0.0.0.0 incestcash.com
 0.0.0.0 incestlove.info
 0.0.0.0 incestpassion.com
@@ -49662,7 +49656,6 @@
 0.0.0.0 tvspielfilm.de.intellitxt.com
 0.0.0.0 tvstv.com
 0.0.0.0 tvtokyo.122.2o7.net
-0.0.0.0 tvz-archive.com
 0.0.0.0 tw.adserver.yahoo.com
 0.0.0.0 tw.adx.nextmedia.com
 0.0.0.0 tw.img.nextmedia.com
@@ -68500,6 +68493,6 @@
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/mirror/GASB-PE.active.txt
 # Generated - 10.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 68497
+# Total Domains: 68490
 # License: MIT
 

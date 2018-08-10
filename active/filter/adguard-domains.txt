@@ -7007,7 +7007,6 @@
 0.0.0.0 hotjar.com
 0.0.0.0 hotkeys.com
 0.0.0.0 hotlog.ru
-0.0.0.0 hotptp.com
 0.0.0.0 hotrank.com.tw
 0.0.0.0 hotsexmeet.ru
 0.0.0.0 hottraffic.net
@@ -15001,7 +15000,6 @@
 0.0.0.0 viperotika.net
 0.0.0.0 viplinck.com
 0.0.0.0 vipmest.info
-0.0.0.0 viprelax.com.ua
 0.0.0.0 vipromo.biz
 0.0.0.0 viptizer.com
 0.0.0.0 viqmadjqndqkm.com
@@ -16399,6 +16397,6 @@
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-domains.txt
 # Generated - 10.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 16396
+# Total Domains: 16394
 # License: MIT
 

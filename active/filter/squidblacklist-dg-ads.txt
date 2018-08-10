@@ -2386,7 +2386,6 @@
 0.0.0.0 hotelscombined.com.au
 0.0.0.0 hotkeys.com
 0.0.0.0 hotlog.ru
-0.0.0.0 hotptp.com
 0.0.0.0 hotrank.com.tw
 0.0.0.0 hotwords.com
 0.0.0.0 hotwords.com.br
@@ -4535,6 +4534,6 @@
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/squidblacklist-ads.txt
 # Generated - 10.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 4532
+# Total Domains: 4531
 # License: MIT
 

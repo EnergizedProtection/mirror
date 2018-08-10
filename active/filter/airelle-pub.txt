@@ -1329,7 +1329,6 @@
 0.0.0.0 absi.com
 0.0.0.0 absinthedrink.com
 0.0.0.0 abskids.com
-0.0.0.0 absolut-bannertausch.de
 0.0.0.0 absoluteangels.com
 0.0.0.0 absoluteclass.com
 0.0.0.0 absoluteelegance.com
@@ -19301,7 +19300,6 @@
 0.0.0.0 adserver.freecity.de
 0.0.0.0 adserver.friendfinder.com
 0.0.0.0 adserver.fuckaroo.org
-0.0.0.0 adserver.gallerytrafficservice.com
 0.0.0.0 adserver.gameparty.net
 0.0.0.0 adserver.gamigo.de
 0.0.0.0 adserver.geniousads.com
@@ -24352,7 +24350,6 @@
 0.0.0.0 availableworkathome.com
 0.0.0.0 availchezsoi.onlc.fr
 0.0.0.0 avalon-games.com
-0.0.0.0 avalon.topbucks.com
 0.0.0.0 avalonboro.com
 0.0.0.0 avalonfarms.com
 0.0.0.0 avalonrv.com
@@ -28649,7 +28646,6 @@
 0.0.0.0 bottletrees.com
 0.0.0.0 bottomfeeders.com
 0.0.0.0 bottomlineradio.myradiotoolbar.com
-0.0.0.0 botw.topbucks.com
 0.0.0.0 boulderfarmers.com
 0.0.0.0 bouldersgate.com
 0.0.0.0 bouldershotel.com
@@ -32476,7 +32472,6 @@
 0.0.0.0 clickhardcore.com
 0.0.0.0 clickhare.com
 0.0.0.0 clickheadquarters.com
-0.0.0.0 clickheat.topbucks.com
 0.0.0.0 clickhere.egroups.com
 0.0.0.0 clickhere.lamer.la
 0.0.0.0 clickhere.ru
@@ -32877,7 +32872,6 @@
 0.0.0.0 clubwrx.us.intellitxt.com
 0.0.0.0 clubxtacy.com
 0.0.0.0 cluclick.leshu.com
-0.0.0.0 cluster-03.topbucks.com
 0.0.0.0 cluster.ad-serverparc.nl
 0.0.0.0 cluster.adultadworld.com
 0.0.0.0 cluster.chart.dk
@@ -34171,7 +34165,6 @@
 0.0.0.0 ct99530.ourtoolbar.com
 0.0.0.0 ct99592.ourtoolbar.com
 0.0.0.0 ct99617.ourtoolbar.com
-0.0.0.0 ctc.amateurpie.com
 0.0.0.0 ctcentralcom.122.2o7.net
 0.0.0.0 cti.w55c.net
 0.0.0.0 ctimes8as.fall.vn
@@ -48292,7 +48285,6 @@
 0.0.0.0 manshairstyles.com
 0.0.0.0 manshat.com
 0.0.0.0 manshy.myforumtoolbar.com
-0.0.0.0 mansio.forumb.biz
 0.0.0.0 mansionestates.com
 0.0.0.0 manspants.com
 0.0.0.0 manta.hitbox.com
@@ -52859,7 +52851,6 @@
 0.0.0.0 partners2.klikeuro.nl
 0.0.0.0 partners3.100mwh.com
 0.0.0.0 partnersblog.com
-0.0.0.0 partnerschaft-kontakte.de
 0.0.0.0 partnerschaftsvermittlung.com
 0.0.0.0 partnersclick.com
 0.0.0.0 partnerserving.com
@@ -54874,7 +54865,6 @@
 0.0.0.0 quickin.com
 0.0.0.0 quickinfo247.com
 0.0.0.0 quickinspirations.com
-0.0.0.0 quicklinks.qlinks.net
 0.0.0.0 quickpwn.us.intellitxt.com
 0.0.0.0 quicksandear.com
 0.0.0.0 quicksearch.com
@@ -75067,6 +75057,6 @@
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/mirror/airelle-pub.txt
 # Generated - 10.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 75064
+# Total Domains: 75054
 # License: MIT
 

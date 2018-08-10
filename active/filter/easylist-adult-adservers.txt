@@ -202,6 +202,7 @@
 0.0.0.0 d-agency.net
 0.0.0.0 d0main.ru
 0.0.0.0 d29gqcij.com
+0.0.0.0 daiporno.com
 0.0.0.0 dallavel.com
 0.0.0.0 dana123.com
 0.0.0.0 danzabucks.com
@@ -257,6 +258,7 @@
 0.0.0.0 fapality.com
 0.0.0.0 fderty.com
 0.0.0.0 felixflow.com
+0.0.0.0 festaporno.com
 0.0.0.0 findandtry.com
 0.0.0.0 flashadtools.com
 0.0.0.0 fleshcash.com
@@ -488,6 +490,7 @@
 0.0.0.0 otherprofit.com
 0.0.0.0 outster.com
 0.0.0.0 ovbnb.com
+0.0.0.0 overreare.co
 0.0.0.0 oxcluster.com
 0.0.0.0 ozelmedikal.com
 0.0.0.0 ozon.ru
@@ -521,11 +524,14 @@
 0.0.0.0 porkolt.com
 0.0.0.0 porn-hitz.com
 0.0.0.0 porn-site-builder.com
+0.0.0.0 porn300.com
 0.0.0.0 porn88.net
 0.0.0.0 porn99.net
 0.0.0.0 pornattitude.com
 0.0.0.0 pornconversions.com
+0.0.0.0 porndroids.com
 0.0.0.0 pornearn.com
+0.0.0.0 pornglee.com
 0.0.0.0 porngray.com
 0.0.0.0 pornkings.com
 0.0.0.0 pornleep.com
@@ -651,6 +657,7 @@
 0.0.0.0 sweetmedia.org
 0.0.0.0 sweetstudents.com
 0.0.0.0 talk-blog.com
+0.0.0.0 tantoporno.com
 0.0.0.0 targetingnow.com
 0.0.0.0 teasernet.ru
 0.0.0.0 teaservizio.com
@@ -797,6 +804,6 @@
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easylist-adult-adservers.txt
 # Generated - 10.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 794
+# Total Domains: 801
 # License: MIT
 

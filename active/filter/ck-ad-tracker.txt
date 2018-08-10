@@ -25734,7 +25734,6 @@
 0.0.0.0 clubbebe.2cnt.net
 0.0.0.0 clubmed.112.2o7.net
 0.0.0.0 clubmom.122.2o7.net
-0.0.0.0 cluster-03.topbucks.com
 0.0.0.0 cluster.adultadworld.com
 0.0.0.0 cluster.adultworld.com
 0.0.0.0 cluster.performanceanalyser.net
@@ -51919,6 +51918,6 @@
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/ck-ad-tracker.txt
 # Generated - 10.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 51916
+# Total Domains: 51915
 # License: MIT
 

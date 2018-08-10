@@ -7234,7 +7234,6 @@
 0.0.0.0 av-cash.com
 0.0.0.0 av.com
 0.0.0.0 avadvance.com
-0.0.0.0 avalon.topbucks.com
 0.0.0.0 avantlink.com
 0.0.0.0 avast.d0wnloadz.net
 0.0.0.0 avastats.com
@@ -8930,7 +8929,6 @@
 0.0.0.0 botd.wordpress.com
 0.0.0.0 botd2.wordpress.com
 0.0.0.0 bottomdollar.com
-0.0.0.0 botw.topbucks.com
 0.0.0.0 bounceexchange.com
 0.0.0.0 bounty.bighits.net
 0.0.0.0 box.anchorfree.net
@@ -9742,7 +9740,6 @@
 0.0.0.0 clickedyclick.com
 0.0.0.0 clickforsex.com
 0.0.0.0 clickga.com
-0.0.0.0 clickheat.topbucks.com
 0.0.0.0 clickheretofind.com
 0.0.0.0 clickhouse.com
 0.0.0.0 clickii.imagine-inc.net
@@ -9846,7 +9843,6 @@
 0.0.0.0 clubmillionswow.cn
 0.0.0.0 clubmom.122.2o7.net
 0.0.0.0 clubxtacy.com
-0.0.0.0 cluster-03.topbucks.com
 0.0.0.0 cluster.ad-serverparc.nl
 0.0.0.0 cluster.adultadworld.com
 0.0.0.0 cluster.adworldmedia.com
@@ -16085,7 +16081,6 @@
 0.0.0.0 segments.adaptv.advertising.com
 0.0.0.0 segs.btrll.com
 0.0.0.0 selitaebanks.sexybabesx.com
-0.0.0.0 sellpic.in
 0.0.0.0 send.microad.jp
 0.0.0.0 sender.hipersushiads.com
 0.0.0.0 sender.megapopads.com
@@ -20081,6 +20076,6 @@
 # Source - http://sysctl.org/cameleon/hosts
 # Generated - 10.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 20078
+# Total Domains: 20073
 # License: MIT
 

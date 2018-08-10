@@ -2996,6 +2996,7 @@
 0.0.0.0 get.qualtrics.com
 0.0.0.0 getcoding.advertising.com
 0.0.0.0 getsitecontrol.com
+0.0.0.0 ghostboard.io
 0.0.0.0 ghostbook.siliconorchard.com
 0.0.0.0 giantdsp-env-2.us-west-2.elasticbeanstalk.com
 0.0.0.0 giga.logs.roku.com
@@ -3048,6 +3049,7 @@
 0.0.0.0 gkr9.stm.force.com
 0.0.0.0 gkr9.visual.stm.force.com
 0.0.0.0 glancecdn.net
+0.0.0.0 glasslytics.com
 0.0.0.0 glize.theappgrader.com
 0.0.0.0 global.appsflyer.com
 0.0.0.0 global.event.prod.bidr.io
@@ -7074,9 +7076,11 @@
 0.0.0.0 www.ger.cdn.survey.medallia.com
 0.0.0.0 www.get.amplitude.com
 0.0.0.0 www.getsitecontrol.com
+0.0.0.0 www.ghostboard.io
 0.0.0.0 www.ghostbook.siliconorchard.com
 0.0.0.0 www.gigya.com
 0.0.0.0 www.glancecdn.net
+0.0.0.0 www.glasslytics.com
 0.0.0.0 www.globalsight.adx1.com
 0.0.0.0 www.go.ezoic.net
 0.0.0.0 www.gohenry.pinterest.adtz.com
@@ -7533,6 +7537,6 @@
 # Source - https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
 # Generated - 10.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 7530
+# Total Domains: 7534
 # License: MIT
 

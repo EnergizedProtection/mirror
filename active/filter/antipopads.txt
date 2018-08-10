@@ -1282,6 +1282,7 @@
 0.0.0.0 ladhyjqqgerr.com
 0.0.0.0 lauzlpyl.com
 0.0.0.0 lavmeebdxwc.com
+0.0.0.0 lbaybxwiklnfe.com
 0.0.0.0 lbbfzsjmgm.com
 0.0.0.0 lbbgjozyrgy.com
 0.0.0.0 lbjgdskmgsmowy.com
@@ -2880,6 +2881,6 @@
 # Source - https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts
 # Generated - 10.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 2877
+# Total Domains: 2878
 # License: MIT
 
