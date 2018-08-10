@@ -1,7 +1,7 @@
 # all-in-one-adblocklist Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
-# Last Converted - Fri, 10 Aug 2018 05:48:16 -0400
+# Last Converted - Fri, 10 Aug 2018 09:11:51 -0400
 # Energized - ad.porn.malware blocking.
 # License: MIT
 
@@ -2822,6 +2822,7 @@
 0.0.0.0 laqiccblmxfewa.bid
 0.0.0.0 lauzlpyl.com
 0.0.0.0 lavmeebdxwc.com
+0.0.0.0 lbaybxwiklnfe.com
 0.0.0.0 lbbfzsjmgm.com
 0.0.0.0 lbbgjozyrgy.com
 0.0.0.0 lbdrnmkhwgkpdg.bid
@@ -6782,6 +6783,7 @@
 0.0.0.0 piguiqproxy.com,badfilter
 0.0.0.0 amgload.net,badfilter
 0.0.0.0 rcdn.pro,badfilter
+0.0.0.0 widgets.cryptopicture.com
 0.0.0.0 hiug862dj0.com
 0.0.0.0 4f2sm1y1ss.com
 0.0.0.0 7s08gpbp39.com
@@ -14473,6 +14475,7 @@
 0.0.0.0 alkagrkgvltzlk.com
 0.0.0.0 ayyxveilslz.com
 0.0.0.0 bbxaumvpzqpunx.com
+0.0.0.0 birslhmnnc.com
 0.0.0.0 bpnjigwalqjho.com
 0.0.0.0 bvcddoyb.com
 0.0.0.0 caucqpoeg.com
@@ -14487,6 +14490,7 @@
 0.0.0.0 enynwkvdb.com
 0.0.0.0 ewopxadcn.com
 0.0.0.0 fxdglnldbnyq.com
+0.0.0.0 fzccvcrsbtb.com
 0.0.0.0 ghjlhnbc.com
 0.0.0.0 gmeomlvmqlmu.com
 0.0.0.0 gsjhehtqvin.com
@@ -14529,6 +14533,7 @@
 0.0.0.0 yaikleyabl.com
 0.0.0.0 ydolseawnutnf.com
 0.0.0.0 yjijmpezje.com
+0.0.0.0 yvlmcehqt.com
 0.0.0.0 yxbglezas.com
 0.0.0.0 zlgokeby.com
 0.0.0.0 zplvjgpxvh.com
@@ -23380,6 +23385,7 @@
 0.0.0.0 d29gqcij.com
 0.0.0.0 d3b3e6340.website
 0.0.0.0 daffaite.com
+0.0.0.0 daiporno.com
 0.0.0.0 dallavel.com
 0.0.0.0 dana123.com
 0.0.0.0 danzabucks.com
@@ -23454,6 +23460,7 @@
 0.0.0.0 fderty.com
 0.0.0.0 feeder.xxx
 0.0.0.0 felixflow.com
+0.0.0.0 festaporno.com
 0.0.0.0 fickads.net
 0.0.0.0 filthads.com
 0.0.0.0 findandtry.com
@@ -23777,11 +23784,14 @@
 0.0.0.0 porn-ad.org
 0.0.0.0 porn-hitz.com
 0.0.0.0 porn-site-builder.com
+0.0.0.0 porn300.com
 0.0.0.0 porn88.net
 0.0.0.0 porn99.net
 0.0.0.0 pornattitude.com
 0.0.0.0 pornconversions.com
+0.0.0.0 porndroids.com
 0.0.0.0 pornearn.com
+0.0.0.0 pornglee.com
 0.0.0.0 porngray.com
 0.0.0.0 pornkings.com
 0.0.0.0 pornleep.com
@@ -23935,6 +23945,7 @@
 0.0.0.0 sweetstudents.com
 0.0.0.0 talk-blog.com
 0.0.0.0 tanil.info
+0.0.0.0 tantoporno.com
 0.0.0.0 targetingnow.com
 0.0.0.0 targettrafficmarketing.net
 0.0.0.0 tarkita.ru
@@ -25080,8 +25091,6 @@
 0.0.0.0 outils.f5biz.com
 0.0.0.0 partner.loveplanet.ru
 0.0.0.0 partners.pornerbros.com
-0.0.0.0 partners.yobt.com
-0.0.0.0 partners.yobt.tv
 0.0.0.0 pcash.globalmailer5.com
 0.0.0.0 pod.manplay.com
 0.0.0.0 pod.xpress.com
@@ -25412,7 +25421,6 @@
 0.0.0.0 ad.eporner.com
 0.0.0.0 ad.slutload.com
 0.0.0.0 ad.thisav.com
-0.0.0.0 ad.userporn.com
 0.0.0.0 ads.xxxbunker.com
 0.0.0.0 affiliates.goodvibes.com
 0.0.0.0 b.xcafe.com
@@ -25421,6 +25429,7 @@
 0.0.0.0 bob.crazyshit.com
 0.0.0.0 brcache.madthumbs.com
 0.0.0.0 cams.pornrabbit.com
+0.0.0.0 camvideos.tv
 0.0.0.0 creatives.cliphunter.com
 0.0.0.0 creatives.pichunter.com
 0.0.0.0 d2q52i8yx3j68p.cloudfront.net
@@ -25432,8 +25441,6 @@
 0.0.0.0 lw1.cdmediaworld.com
 0.0.0.0 media1.realgfporn.com
 0.0.0.0 myashot.txxx.com
-0.0.0.0 ox2.pron.tv
-0.0.0.0 ox3.pron.tv
 0.0.0.0 partners.keezmovies.com
 0.0.0.0 planetsuzy.org
 0.0.0.0 pr-static.empflix.com
@@ -25452,7 +25459,6 @@
 0.0.0.0 www.youjizz.com
 0.0.0.0 youjizz.com
 0.0.0.0 fritchy.com
-0.0.0.0 ad.userporn.com
 0.0.0.0 delivery.porn.com
 0.0.0.0 delivery.porn5.com
 0.0.0.0 nuvidp.com

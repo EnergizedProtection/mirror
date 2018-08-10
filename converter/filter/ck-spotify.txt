@@ -1,7 +1,7 @@
 # ck-spotify Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/Corporations/Spotify%20Ad-Free/CK%27s-Spotify-FilterList.txt
-# Last Converted - Fri, 10 Aug 2018 05:48:26 -0400
+# Last Converted - Fri, 10 Aug 2018 09:12:01 -0400
 # Energized - ad.porn.malware blocking.
 # License: MIT
 

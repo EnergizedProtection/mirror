@@ -1,7 +1,7 @@
 # easylist-adult-adservers Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_adservers.txt
-# Last Converted - Fri, 10 Aug 2018 05:48:19 -0400
+# Last Converted - Fri, 10 Aug 2018 09:11:54 -0400
 # Energized - ad.porn.malware blocking.
 # License: MIT
 
@@ -270,6 +270,7 @@
 0.0.0.0 d29gqcij.com
 0.0.0.0 d3b3e6340.website
 0.0.0.0 daffaite.com
+0.0.0.0 daiporno.com
 0.0.0.0 dallavel.com
 0.0.0.0 dana123.com
 0.0.0.0 danzabucks.com
@@ -346,6 +347,7 @@
 0.0.0.0 fderty.com
 0.0.0.0 feeder.xxx
 0.0.0.0 felixflow.com
+0.0.0.0 festaporno.com
 0.0.0.0 fickads.net
 0.0.0.0 filthads.com
 0.0.0.0 findandtry.com
@@ -635,6 +637,7 @@
 0.0.0.0 otherprofit.com
 0.0.0.0 outster.com
 0.0.0.0 ovbnb.com
+0.0.0.0 overreare.co
 0.0.0.0 owlopadjet.info
 0.0.0.0 owpawuk.ru
 0.0.0.0 oxcluster.com
@@ -676,11 +679,14 @@
 0.0.0.0 porn-ad.org
 0.0.0.0 porn-hitz.com
 0.0.0.0 porn-site-builder.com
+0.0.0.0 porn300.com
 0.0.0.0 porn88.net
 0.0.0.0 porn99.net
 0.0.0.0 pornattitude.com
 0.0.0.0 pornconversions.com
+0.0.0.0 porndroids.com
 0.0.0.0 pornearn.com
+0.0.0.0 pornglee.com
 0.0.0.0 porngray.com
 0.0.0.0 pornkings.com
 0.0.0.0 pornleep.com
@@ -838,6 +844,7 @@
 0.0.0.0 sweetstudents.com
 0.0.0.0 talk-blog.com
 0.0.0.0 tanil.info
+0.0.0.0 tantoporno.com
 0.0.0.0 targetingnow.com
 0.0.0.0 targettrafficmarketing.net
 0.0.0.0 tarkita.ru

@@ -1,7 +1,7 @@
 # easylist-adult-specific Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_specific_block.txt
-# Last Converted - Fri, 10 Aug 2018 05:48:20 -0400
+# Last Converted - Fri, 10 Aug 2018 09:11:54 -0400
 # Energized - ad.porn.malware blocking.
 # License: MIT
 
@@ -11,7 +11,6 @@
 0.0.0.0 ad.eporner.com
 0.0.0.0 ad.slutload.com
 0.0.0.0 ad.thisav.com
-0.0.0.0 ad.userporn.com
 0.0.0.0 ads.xxxbunker.com
 0.0.0.0 affiliates.goodvibes.com
 0.0.0.0 anyporn.com
@@ -37,8 +36,6 @@
 0.0.0.0 lw1.cdmediaworld.com
 0.0.0.0 media1.realgfporn.com
 0.0.0.0 myashot.txxx.com
-0.0.0.0 ox2.pron.tv
-0.0.0.0 ox3.pron.tv
 0.0.0.0 partners.keezmovies.com
 0.0.0.0 planetsuzy.org
 0.0.0.0 pr-static.empflix.com
