@@ -533,7 +533,6 @@
 0.0.0.0 ads.p161.net
 0.0.0.0 ads.passion.com
 0.0.0.0 ads.pennet.com
-0.0.0.0 ads.penny-arcade.com
 0.0.0.0 ads.phpclasses.org
 0.0.0.0 ads.planet.nl
 0.0.0.0 ads.pni.com
@@ -1041,7 +1040,6 @@
 0.0.0.0 bitads.net
 0.0.0.0 bitmedianetwork.com
 0.0.0.0 bizad.nikkeibp.co.jp
-0.0.0.0 bizrate.com
 0.0.0.0 blast4traffic.com
 0.0.0.0 blingbucks.com
 0.0.0.0 blogads.com
@@ -2256,7 +2254,6 @@
 0.0.0.0 tfag.de
 0.0.0.0 theadhost.com
 0.0.0.0 theads.me
-0.0.0.0 thebugs.ws
 0.0.0.0 thecounter.com
 0.0.0.0 therapistla.com
 0.0.0.0 therichkids.com
@@ -2515,8 +2512,8 @@
 
 # Hosts - disconnect.me-ad
 # Source - https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Generated - 03.08.2018
+# Generated - 10.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 2514
+# Total Domains: 2511
 # License: MIT
 

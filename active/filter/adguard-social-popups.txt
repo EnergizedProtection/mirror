@@ -3,7 +3,7 @@
 
 # Hosts - adguard-social-popups
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-social-popups.txt
-# Generated - 03.08.2018
+# Generated - 10.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 2
 # License: MIT

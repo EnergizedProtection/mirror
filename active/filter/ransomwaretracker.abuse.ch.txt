@@ -19,7 +19,6 @@
 0.0.0.0 dyoravdkiavfkbkx.pw
 0.0.0.0 eaxpifdtwsv.biz
 0.0.0.0 eppilxqwyqdhmpdsn.pw
-0.0.0.0 eqtrtdavtnr.pw
 0.0.0.0 f5xraa2y2ybtrefz.onion.to
 0.0.0.0 g4dhhg53jsdjnnkjwjrfyiouh3o4u4th.vinerteen.com
 0.0.0.0 gfkuwflbhsjdabnu4nfukerfqwlfwr4rw.ringbalor.com
@@ -80,6 +79,7 @@
 0.0.0.0 oqwygprskqv65j72.1mudaw.top
 0.0.0.0 oqwygprskqv65j72.1nzpby.top
 0.0.0.0 ozfin.ru
+0.0.0.0 pagaldaily.com
 0.0.0.0 prest54538hnksjn4kjfwdbhwere.hotchunman.com
 0.0.0.0 pts764gt354fder34fsqw45gdfsavadfgsfg.kraskula.com
 0.0.0.0 qfjhpgbefuhenjp7.1225wj.top
@@ -115,9 +115,8 @@
 0.0.0.0 vujqbcditgsqxe.fr
 0.0.0.0 wpvvusso.xyz
 0.0.0.0 wqxvsxppjivs.pw
+0.0.0.0 www.1axb.com
 0.0.0.0 www.newtonpaiva.br
-0.0.0.0 xmniabhrfafptwx.pw
-0.0.0.0 xpcx6erilkjced3j.17gcun.top
 0.0.0.0 xpcx6erilkjced3j.18ey8e.top
 0.0.0.0 xpcx6erilkjced3j.19kdeh.top
 0.0.0.0 xpcx6erilkjced3j.1mpsnr.top
@@ -133,8 +132,8 @@
 
 # Hosts - ransomwaretracker.abuse.ch
 # Source - https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt
-# Generated - 03.08.2018
+# Generated - 10.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 132
+# Total Domains: 131
 # License: MIT
 

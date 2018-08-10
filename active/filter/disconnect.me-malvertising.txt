@@ -1,9 +1,7 @@
 0.0.0.0 0001.2waky.com
 0.0.0.0 01388.net
-0.0.0.0 023scw.gotoip55.com
 0.0.0.0 029999.com
 0.0.0.0 0538ly.cn
-0.0.0.0 071899.com
 0.0.0.0 0871ggw.net
 0.0.0.0 08819.com
 0.0.0.0 1010fz.com
@@ -584,7 +582,6 @@
 0.0.0.0 ads.p161.net
 0.0.0.0 ads.passion.com
 0.0.0.0 ads.pennet.com
-0.0.0.0 ads.penny-arcade.com
 0.0.0.0 ads.phpclasses.org
 0.0.0.0 ads.planet.nl
 0.0.0.0 ads.pni.com
@@ -877,7 +874,6 @@
 0.0.0.0 adzones.com
 0.0.0.0 aeaer.com
 0.0.0.0 af-ad.co.uk
-0.0.0.0 af-cn.com
 0.0.0.0 affbuzzads.com
 0.0.0.0 affili.net
 0.0.0.0 affiliate.1800flowers.com
@@ -928,7 +924,6 @@
 0.0.0.0 alladvantage.com
 0.0.0.0 allosponsor.com
 0.0.0.0 allstarmediagroup.com
-0.0.0.0 alphaprinthouse.org
 0.0.0.0 alphaxiom.com
 0.0.0.0 amazingcounters.com
 0.0.0.0 amazon-adsystem.com
@@ -946,7 +941,6 @@
 0.0.0.0 animeonline.net
 0.0.0.0 anm.intelli-direct.com
 0.0.0.0 annedouglas.com
-0.0.0.0 annengdl.com
 0.0.0.0 annonser.dagbladet.no
 0.0.0.0 aonikesi.com
 0.0.0.0 apex-ad.com
@@ -1140,7 +1134,6 @@
 0.0.0.0 bitads.net
 0.0.0.0 bitmedianetwork.com
 0.0.0.0 bizad.nikkeibp.co.jp
-0.0.0.0 bizrate.com
 0.0.0.0 bjdxhs.com
 0.0.0.0 bjhmt.com
 0.0.0.0 bjpgqsc.com
@@ -1211,7 +1204,6 @@
 0.0.0.0 callloop.com
 0.0.0.0 campaign.bharatmatrimony.com
 0.0.0.0 caniamedia.com
-0.0.0.0 cankaowang.com
 0.0.0.0 carbonads.com
 0.0.0.0 carbonads.net
 0.0.0.0 casalemedia.com
@@ -1241,7 +1233,6 @@
 0.0.0.0 celtra.com
 0.0.0.0 centerpieces-with-feathers-for-weddi.blogspot.com
 0.0.0.0 centralamericarealestateinvestment.com
-0.0.0.0 ceocms.com
 0.0.0.0 ceskydomov.alias.ngs.modry.cz
 0.0.0.0 cetrk.com
 0.0.0.0 cfcgl.com
@@ -1397,12 +1388,10 @@
 0.0.0.0 crtv.mate1.com
 0.0.0.0 crwdcntrl.net
 0.0.0.0 csbjkj.com
-0.0.0.0 csdian.net
 0.0.0.0 ctnetwork.hu
 0.0.0.0 cubics.com
 0.0.0.0 curiouserdesserts.com
 0.0.0.0 customad.cnn.com
-0.0.0.0 cwettqtlffki.com
 0.0.0.0 cx81.com
 0.0.0.0 cyberbounty.com
 0.0.0.0 cybermonitor.com
@@ -1414,7 +1403,6 @@
 0.0.0.0 dakic-ia-300.com
 0.0.0.0 danban.com
 0.0.0.0 dapper.net
-0.0.0.0 darknesta.com
 0.0.0.0 datashreddergold.com
 0.0.0.0 dataxu.com
 0.0.0.0 dbbsrv.com
@@ -1448,10 +1436,8 @@
 0.0.0.0 displaypagerank.com
 0.0.0.0 dist.belnk.com
 0.0.0.0 divecatalina.com
-0.0.0.0 dj-sx.com
 0.0.0.0 djcalvin.com
 0.0.0.0 djplazebo.com
-0.0.0.0 dm599.com
 0.0.0.0 dmtracker.com
 0.0.0.0 dnads.directnic.com
 0.0.0.0 dns-vip.net
@@ -1506,7 +1492,6 @@
 0.0.0.0 eclick.vn
 0.0.0.0 eclickz.com
 0.0.0.0 ecoupons.com
-0.0.0.0 edchiu.com
 0.0.0.0 edgeio.com
 0.0.0.0 effectivemeasure.com
 0.0.0.0 effectivemeasure.net
@@ -1607,7 +1592,6 @@
 0.0.0.0 fideln.com
 0.0.0.0 fiksu.com
 0.0.0.0 fileserver.co.kr
-0.0.0.0 filmschoolsforum.com
 0.0.0.0 fimc.net
 0.0.0.0 fimserve.com
 0.0.0.0 findcommerce.com
@@ -1748,7 +1732,6 @@
 0.0.0.0 hlzx8.com
 0.0.0.0 hncshunyin.cn
 0.0.0.0 hntldgk.com
-0.0.0.0 hobbyworkshop.com
 0.0.0.0 hollandbusinessadvertising.nl
 0.0.0.0 homepageking.de
 0.0.0.0 hostedads.realitykings.com
@@ -1873,7 +1856,6 @@
 0.0.0.0 jnova.cjt1.net
 0.0.0.0 joetec.net
 0.0.0.0 jokedollars.com
-0.0.0.0 jornalistasdeangola.com
 0.0.0.0 js.users.51.la
 0.0.0.0 jsbwpg.com
 0.0.0.0 jsngupdwxeoa.uglyas.com
@@ -1966,7 +1948,6 @@
 0.0.0.0 lop.com
 0.0.0.0 lousecn.cn
 0.0.0.0 lucidmedia.com
-0.0.0.0 luckyson0660.com
 0.0.0.0 luguanmm.com
 0.0.0.0 lunarads.com
 0.0.0.0 lzjl.com
@@ -2075,7 +2056,6 @@
 0.0.0.0 mlm.de
 0.0.0.0 mmaglobal.com
 0.0.0.0 mmedia.com
-0.0.0.0 mmexe.com
 0.0.0.0 mmismm.com
 0.0.0.0 mmtro.com
 0.0.0.0 moadnet.com
@@ -2121,7 +2101,6 @@
 0.0.0.0 mr-rank.de
 0.0.0.0 mrappolt.de
 0.0.0.0 mrskincash.com
-0.0.0.0 msw67.cafe24.com
 0.0.0.0 mtree.com
 0.0.0.0 musiccounter.ru
 0.0.0.0 muwmedia.com
@@ -2129,7 +2108,6 @@
 0.0.0.0 mybloglog.com
 0.0.0.0 mycounter.ua
 0.0.0.0 mydas.mobi
-0.0.0.0 myeverydaylife.net
 0.0.0.0 mypagerank.net
 0.0.0.0 mypagerank.ru
 0.0.0.0 mypowermall.com
@@ -2619,7 +2597,6 @@
 0.0.0.0 subscribe.hearstmags.com
 0.0.0.0 sugoicounter.com
 0.0.0.0 sunggysus.com
-0.0.0.0 sunqtr.com
 0.0.0.0 supercell.net
 0.0.0.0 superclix.de
 0.0.0.0 superstats.com
@@ -2679,18 +2656,15 @@
 0.0.0.0 the-wildbunch.net
 0.0.0.0 theadhost.com
 0.0.0.0 theads.me
-0.0.0.0 thebugs.ws
 0.0.0.0 thecounter.com
 0.0.0.0 therapistla.com
 0.0.0.0 therichkids.com
 0.0.0.0 thinknear.com
 0.0.0.0 thinkupfront.com
 0.0.0.0 thomashobbs.com
-0.0.0.0 thoosje.com
 0.0.0.0 thrnt.com
 0.0.0.0 throne.thehelpbiz.com
 0.0.0.0 thruport.com
-0.0.0.0 thxhb.com
 0.0.0.0 tinybar.com
 0.0.0.0 tinypic.info
 0.0.0.0 tizers.net
@@ -2884,7 +2858,6 @@
 0.0.0.0 webtrackerplus.com
 0.0.0.0 webtraxx.de
 0.0.0.0 webtrendslive.com
-0.0.0.0 wee4wee.ws
 0.0.0.0 wegcash.com
 0.0.0.0 werbung.meteoxpress.com
 0.0.0.0 wetrack.it
@@ -2907,13 +2880,11 @@
 0.0.0.0 wondoads.de
 0.0.0.0 woopra.com
 0.0.0.0 worldwide-cash.net
-0.0.0.0 wsxhost.net
 0.0.0.0 wtdpcb.com
 0.0.0.0 wtlive.com
 0.0.0.0 wtr1.ru
 0.0.0.0 wwgin.com
 0.0.0.0 www-banner.chat.ru
-0.0.0.0 www.4009997279.com
 0.0.0.0 www.51ysxs.com
 0.0.0.0 www.banner-link.com.br
 0.0.0.0 www.defygravity.com
@@ -2948,11 +2919,9 @@
 0.0.0.0 xin-lian.cn
 0.0.0.0 xingyunjiaren.com
 0.0.0.0 xinyangmeiye.com
-0.0.0.0 xioooo.com
 0.0.0.0 xiti.com
 0.0.0.0 xius.com
 0.0.0.0 xn--orw0a8690a.com
-0.0.0.0 xoads.com
 0.0.0.0 xobjzmhopjbboqkmc.com
 0.0.0.0 xplusone.com
 0.0.0.0 xponsor.com
@@ -2988,7 +2957,6 @@
 0.0.0.0 yoc-performance.com
 0.0.0.0 yoc.mobi
 0.0.0.0 yoggrt.com
-0.0.0.0 youknownow.ru
 0.0.0.0 youthfire.com
 0.0.0.0 ysbbcrypsc.com
 0.0.0.0 yserch.com
@@ -3010,7 +2978,6 @@
 0.0.0.0 zeus.developershed.com
 0.0.0.0 zeusclicks.com
 0.0.0.0 zhongpandz.com
-0.0.0.0 ziheyuan.com
 0.0.0.0 zintext.com
 0.0.0.0 zmedia.com
 0.0.0.0 zmt100.com
@@ -3019,8 +2986,8 @@
 
 # Hosts - disconnect.me-malvertising
 # Source - https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
-# Generated - 03.08.2018
+# Generated - 10.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 3018
+# Total Domains: 2985
 # License: MIT
 

@@ -543,7 +543,6 @@
 0.0.0.0 hjvdkrjmxngg.com
 0.0.0.0 hljiofrtqenc.com
 0.0.0.0 hmcczsoimnjxzi.com
-0.0.0.0 hmcjupvbxxyx.com
 0.0.0.0 hnivikwwypcv.com
 0.0.0.0 hnkbivnten.com
 0.0.0.0 hnqnftzzytjl.com
@@ -620,7 +619,6 @@
 0.0.0.0 ivqoqtozlmjp.com
 0.0.0.0 iwanttoearn.money
 0.0.0.0 ixsxgaegvplo.com
-0.0.0.0 ixzhwyuxxvxb.com
 0.0.0.0 ixznwuxokydz.com
 0.0.0.0 iygdvith.com
 0.0.0.0 izixtxrvogaq.com
@@ -736,7 +734,6 @@
 0.0.0.0 krb.crypto-coins.club
 0.0.0.0 krb.cryptomine.pro
 0.0.0.0 krilxjkgttmp.com
-0.0.0.0 krmuxxubtkrg.com
 0.0.0.0 krsdoqvsmgld.com
 0.0.0.0 kryptex.info
 0.0.0.0 ktrmzzrlkbet.com
@@ -1375,7 +1372,6 @@
 0.0.0.0 umwsjnsvfzuo.com
 0.0.0.0 unrbpcqmiybu.com
 0.0.0.0 uoarbhxfyygn.com
-0.0.0.0 uqqgyniatjtf.com
 0.0.0.0 urijswfbgh.com
 0.0.0.0 uro.miningpoolhub.com
 0.0.0.0 urqxrzrphsga.com
@@ -1872,8 +1868,8 @@
 
 # Hosts - anudeep-coinminer
 # Source - https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt
-# Generated - 03.08.2018
+# Generated - 10.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 1871
+# Total Domains: 1867
 # License: MIT
 

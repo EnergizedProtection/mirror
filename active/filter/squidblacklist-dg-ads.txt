@@ -1,5 +1,4 @@
 0.0.0.0 0icep80f.com
-0.0.0.0 0pixl.com
 0.0.0.0 118-oew-181.mktoresp.com
 0.0.0.0 123date.me
 0.0.0.0 12place.com
@@ -23,7 +22,6 @@
 0.0.0.0 2beon.co.kr
 0.0.0.0 2mdn.info
 0.0.0.0 32b4oilo.com
-0.0.0.0 3393.com
 0.0.0.0 33across.com
 0.0.0.0 360ads.com
 0.0.0.0 360adstrack.com
@@ -822,7 +820,6 @@
 0.0.0.0 ads.outpersonals.com
 0.0.0.0 ads.passion.com
 0.0.0.0 ads.pennet.com
-0.0.0.0 ads.penny-arcade.com
 0.0.0.0 ads.persgroep.net
 0.0.0.0 ads.phonemates.com
 0.0.0.0 ads.phpclasses.org
@@ -1432,6 +1429,7 @@
 0.0.0.0 avenuea.com
 0.0.0.0 avercarto.com
 0.0.0.0 avpa.javalobby.org
+0.0.0.0 avres.net
 0.0.0.0 awakebottlestudy.com
 0.0.0.0 awempire.com
 0.0.0.0 awin1.com
@@ -1560,7 +1558,6 @@
 0.0.0.0 beringmedia.com
 0.0.0.0 best-pr.info
 0.0.0.0 best-top.ro
-0.0.0.0 bestarmour4u.work
 0.0.0.0 bestcasinopartner.com
 0.0.0.0 bestdeals.ws
 0.0.0.0 bestforexpartners.com
@@ -1596,7 +1593,6 @@
 0.0.0.0 bitmedianetwork.com
 0.0.0.0 bitx.tv
 0.0.0.0 bizad.nikkeibp.co.jp
-0.0.0.0 bizrate.com
 0.0.0.0 bizzclick.com
 0.0.0.0 blardenso.com
 0.0.0.0 blast4traffic.com
@@ -1626,7 +1622,6 @@
 0.0.0.0 bonzai.ad
 0.0.0.0 boo-box.com
 0.0.0.0 boom-boom-vroom.com
-0.0.0.0 boom.ro
 0.0.0.0 boomads.com
 0.0.0.0 boost-my-pr.de
 0.0.0.0 boostads.net
@@ -1672,7 +1667,6 @@
 0.0.0.0 budurl.com
 0.0.0.0 buildtrafficx.com
 0.0.0.0 bunchofads.com
-0.0.0.0 bunny-net.com
 0.0.0.0 businessclick.com
 0.0.0.0 buxflow.com
 0.0.0.0 buxp.org
@@ -2103,7 +2097,6 @@
 0.0.0.0 eiv.baidu.com
 0.0.0.0 ekmas.com
 0.0.0.0 elasticad.net
-0.0.0.0 electnext.com
 0.0.0.0 electosake.com
 0.0.0.0 emarketer.com
 0.0.0.0 emediate.dk
@@ -2323,6 +2316,7 @@
 0.0.0.0 groovinads.com
 0.0.0.0 groupcommerce.com
 0.0.0.0 grt02.com
+0.0.0.0 grt03.com
 0.0.0.0 gtop100.com
 0.0.0.0 guitaralliance.com
 0.0.0.0 gumgum.com
@@ -2533,7 +2527,6 @@
 0.0.0.0 inuxu.biz
 0.0.0.0 inuxu.co.in
 0.0.0.0 invernetter.info
-0.0.0.0 investingchannel.com
 0.0.0.0 inviziads.com
 0.0.0.0 ioms.bfmio.com
 0.0.0.0 ip-adress.com
@@ -2560,7 +2553,6 @@
 0.0.0.0 javacript.ga
 0.0.0.0 javacript.gq
 0.0.0.0 javacript.tk
-0.0.0.0 jcnqc.us
 0.0.0.0 jcount.com
 0.0.0.0 jeetyetmedia.com
 0.0.0.0 jemmgroup.com
@@ -2826,10 +2818,10 @@
 0.0.0.0 mentad.com
 0.0.0.0 metaffiliation.com
 0.0.0.0 metanetwork.com
+0.0.0.0 metapelite.com
 0.0.0.0 metavertising.com
 0.0.0.0 methodcash.com
 0.0.0.0 metogo.work
-0.0.0.0 metrics.brightcove.com
 0.0.0.0 metrics.io
 0.0.0.0 metrics.windowsitpro.com
 0.0.0.0 meya41w7.com
@@ -3017,7 +3009,6 @@
 0.0.0.0 nowlooking.net
 0.0.0.0 nowspots.com
 0.0.0.0 nplexmedia.com
-0.0.0.0 nrfort.com
 0.0.0.0 nscontext.com
 0.0.0.0 nsmartad.com
 0.0.0.0 nspmotion.com
@@ -3170,6 +3161,7 @@
 0.0.0.0 pc-ads.com
 0.0.0.0 pcash.imlive.com
 0.0.0.0 pe2k2dty.com
+0.0.0.0 peakclick.com
 0.0.0.0 pebblemedia.be
 0.0.0.0 peemee.com
 0.0.0.0 peep-auktion.de
@@ -3961,6 +3953,7 @@
 0.0.0.0 track.gaysupercocks.com
 0.0.0.0 track.geekgirlsex.com
 0.0.0.0 track.giantgaycocks.com
+0.0.0.0 track.givemeanime.com
 0.0.0.0 track.grandegirls.com
 0.0.0.0 track.happinessandloves.com
 0.0.0.0 track.hardcoretoons.com
@@ -4027,7 +4020,6 @@
 0.0.0.0 track.premiumpass.com
 0.0.0.0 track.pricespider.com
 0.0.0.0 track.privatetranssexual.com
-0.0.0.0 track.prospertrack37.info
 0.0.0.0 track.recreativ.ru
 0.0.0.0 track.rocket10.com
 0.0.0.0 track.rtb-media.ru
@@ -4541,8 +4533,8 @@
 
 # Hosts - squidblacklist-dg-ads
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/squidblacklist-ads.txt
-# Generated - 03.08.2018
+# Generated - 10.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 4540
+# Total Domains: 4532
 # License: MIT
 

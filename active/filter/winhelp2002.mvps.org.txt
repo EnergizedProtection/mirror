@@ -352,7 +352,6 @@
 0.0.0.0 a.trkme.net
 0.0.0.0 a.tvn.lv
 0.0.0.0 a.ucoz.net
-0.0.0.0 a.visualrevenue.com
 0.0.0.0 a.vonage.com
 0.0.0.0 a.websponsors.com
 0.0.0.0 a.wikia-beacon.com
@@ -657,7 +656,6 @@
 0.0.0.0 ad.track.us.org
 0.0.0.0 ad.trafficshop.com
 0.0.0.0 ad.traffique.net
-0.0.0.0 ad.trident.net
 0.0.0.0 ad.triplemind.com
 0.0.0.0 ad.turn.com
 0.0.0.0 ad.tv2.no
@@ -694,7 +692,6 @@
 0.0.0.0 ad1.doublepimp.com
 0.0.0.0 ad1.emediate.dk
 0.0.0.0 ad1.emediate.se
-0.0.0.0 ad1.netshelter.net
 0.0.0.0 ad1.nownews.com
 0.0.0.0 ad1.pamedia.com.au
 0.0.0.0 ad1.speedbit.com
@@ -716,7 +713,6 @@
 0.0.0.0 ad2.hotels.com
 0.0.0.0 ad2.ireklama.cz
 0.0.0.0 ad2.neodatagroup.com
-0.0.0.0 ad2.netshelter.net
 0.0.0.0 ad2.rambler.ru
 0.0.0.0 ad2.speedbit.com
 0.0.0.0 ad2.turn.com
@@ -732,11 +728,9 @@
 0.0.0.0 ad4.adfarm1.adition.com
 0.0.0.0 ad4.bigmir.net
 0.0.0.0 ad4.gueb.com
-0.0.0.0 ad4.netshelter.net
 0.0.0.0 ad4.speedbit.com
 0.0.0.0 ad4mat.de
 0.0.0.0 ad5.bigmir.net
-0.0.0.0 ad5.netshelter.net
 0.0.0.0 ad5.speedbit.com
 0.0.0.0 ad6.bigmir.net
 0.0.0.0 ad6.speedbit.com
@@ -1503,7 +1497,6 @@
 0.0.0.0 ads.tele.net
 0.0.0.0 ads.telecinco.es
 0.0.0.0 ads.thegauntlet.com
-0.0.0.0 ads.thehorse.com
 0.0.0.0 ads.themoneytizer.com
 0.0.0.0 ads.thetrainingofo.com
 0.0.0.0 ads.timesunion.com
@@ -3323,7 +3316,6 @@
 0.0.0.0 cdn.clic2pub.com
 0.0.0.0 cdn.clicktale.net
 0.0.0.0 cdn.comparemetrics.com
-0.0.0.0 cdn.complexmedianetwork.com
 0.0.0.0 cdn.content.exoticads.com
 0.0.0.0 cdn.contentspread.net
 0.0.0.0 cdn.cpmstar.com
@@ -3946,7 +3938,6 @@
 0.0.0.0 counter.gemius.pl
 0.0.0.0 counter.hitmir.ru
 0.0.0.0 counter.hitslink.com
-0.0.0.0 counter.internet.ge
 0.0.0.0 counter.jasmin.hu
 0.0.0.0 counter.joins.com
 0.0.0.0 counter.kmindex.ru
@@ -4454,7 +4445,6 @@
 0.0.0.0 dm.travelocity.com
 0.0.0.0 dmcontactmanagement.122.2o7.net
 0.0.0.0 dmeserv.newsinc.com
-0.0.0.0 dmp.adform.net
 0.0.0.0 dmp.gravity4.com
 0.0.0.0 dmp.theadex.com
 0.0.0.0 dms.netmng.com
@@ -6787,7 +6777,6 @@
 0.0.0.0 metrics.bloomberg.com
 0.0.0.0 metrics.bose.com
 0.0.0.0 metrics.boston.com
-0.0.0.0 metrics.brightcove.com
 0.0.0.0 metrics.car.com
 0.0.0.0 metrics.caranddriver.com
 0.0.0.0 metrics.carbonite.com
@@ -6833,7 +6822,6 @@
 0.0.0.0 metrics.govexec.com
 0.0.0.0 metrics.harley-davidson.com
 0.0.0.0 metrics.hbogo.com
-0.0.0.0 metrics.hhgregg.com
 0.0.0.0 metrics.homebase.co.uk
 0.0.0.0 metrics.hoovers.com
 0.0.0.0 metrics.howstuffworks.com
@@ -7519,7 +7507,6 @@
 0.0.0.0 oascentral.dominionenterprises.com
 0.0.0.0 oascentral.emarketer.com
 0.0.0.0 oascentral.emedicine.com
-0.0.0.0 oascentral.escapistmagazine.com
 0.0.0.0 oascentral.fiercemarkets.com
 0.0.0.0 oascentral.fosters.com
 0.0.0.0 oascentral.freedom.com
@@ -8057,7 +8044,6 @@
 0.0.0.0 pixel.tapad.com
 0.0.0.0 pixel.theagency.com
 0.0.0.0 pixel.watch
-0.0.0.0 pixel.wp.com
 0.0.0.0 pixel.yabidos.com
 0.0.0.0 pixel.yola.com
 0.0.0.0 pixel1097.everesttech.net
@@ -8219,7 +8205,6 @@
 0.0.0.0 prod-js.aws.y-track.com
 0.0.0.0 prod-services.interactiveone.com
 0.0.0.0 product-reviews.uk.intellitxt.com
-0.0.0.0 prof.beta.estat.com
 0.0.0.0 prof.estat.com
 0.0.0.0 profiles.hitslink.com
 0.0.0.0 profiling.avandor.com
@@ -8730,7 +8715,6 @@
 0.0.0.0 s.tribalfusion.com
 0.0.0.0 s.tyxo.com
 0.0.0.0 s.webtrends.com
-0.0.0.0 s.zkcdn.net
 0.0.0.0 s01-delivery.addynamo.net
 0.0.0.0 s01.delivery.addynamo.com
 0.0.0.0 s01.flagcounter.com
@@ -9467,7 +9451,6 @@
 0.0.0.0 ssl-sl-retargeting.adsonar.com
 0.0.0.0 ssl-vg03.met.vgwort.de
 0.0.0.0 ssl.clickbank.net
-0.0.0.0 ssl.google-analytics.com
 0.0.0.0 ssl.mousestats.com
 0.0.0.0 ssl.siteimprove.com
 0.0.0.0 ssl.xplosion.de
@@ -9884,7 +9867,6 @@
 0.0.0.0 t.abnad.net
 0.0.0.0 t.acxiom-online.com
 0.0.0.0 t.adk2.com
-0.0.0.0 t.adonly.com
 0.0.0.0 t.ads.pof.com
 0.0.0.0 t.afftrackr.com
 0.0.0.0 t.bbtrack.net
@@ -11139,7 +11121,6 @@
 0.0.0.0 www.acmexxx.com
 0.0.0.0 www.ad-groups.com
 0.0.0.0 www.ad-net.co.uk
-0.0.0.0 www.ad-skills.nl
 0.0.0.0 www.ad-souk.com
 0.0.0.0 www.ad-z.de
 0.0.0.0 www.ad.admitad.com
@@ -11164,7 +11145,6 @@
 0.0.0.0 www.addwish.com
 0.0.0.0 www.adelixir.com
 0.0.0.0 www.adengage.com
-0.0.0.0 www.adexit.com
 0.0.0.0 www.adfirmative.com
 0.0.0.0 www.adforgames.com
 0.0.0.0 www.adfusion.com
@@ -11386,7 +11366,6 @@
 0.0.0.0 www.cnstats.com
 0.0.0.0 www.co2stats.com
 0.0.0.0 www.codeads.com
-0.0.0.0 www.collect.mentad.com
 0.0.0.0 www.comclick.com
 0.0.0.0 www.commission-junction.com
 0.0.0.0 www.commissionempire.com
@@ -11535,7 +11514,6 @@
 0.0.0.0 www.game-clicks.com
 0.0.0.0 www.gameplaylabs.com
 0.0.0.0 www.gamevance.com
-0.0.0.0 www.gbcash.com
 0.0.0.0 www.gcmadvertising.com
 0.0.0.0 www.geolocation.performgroup.com
 0.0.0.0 www.geoplugin.net
@@ -11758,7 +11736,6 @@
 0.0.0.0 www.onestatfree.com
 0.0.0.0 www.oofun.com
 0.0.0.0 www.opinionlab.com
-0.0.0.0 www.optimum-hits.com
 0.0.0.0 www.oreware.com
 0.0.0.0 www.os-downloads.com
 0.0.0.0 www.otherossettlement.com
@@ -12361,8 +12338,8 @@
 
 # Hosts - winhelp2002.mvps.org
 # Source - http://winhelp2002.mvps.org/hosts.txt
-# Generated - 03.08.2018
+# Generated - 10.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 12360
+# Total Domains: 12337
 # License: MIT
 

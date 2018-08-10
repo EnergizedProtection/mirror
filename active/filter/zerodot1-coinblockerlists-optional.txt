@@ -70,6 +70,7 @@
 0.0.0.0 btc.a-ads.com
 0.0.0.0 cdn.inwemo.com
 0.0.0.0 cdn2.inwemo.com
+0.0.0.0 cex.io
 0.0.0.0 chainradar.com
 0.0.0.0 changelly.com
 0.0.0.0 chat.binance.com
@@ -199,7 +200,6 @@
 0.0.0.0 peerhash.com
 0.0.0.0 pool.emercoin.com
 0.0.0.0 pool2.emercoin.com
-0.0.0.0 pools1.cryptopia.co.nz
 0.0.0.0 pop3.awesomeminer.com
 0.0.0.0 preorder.trezor.io
 0.0.0.0 pricing.jaxx.io
@@ -371,7 +371,7 @@
 
 # Hosts - zerodot1-coinblockerlists-optional
 # Source - https://zerodot1.gitlab.io/CoinBlockerLists/hosts_optional
-# Generated - 03.08.2018
+# Generated - 10.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 370
 # License: MIT

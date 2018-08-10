@@ -1,4 +1,3 @@
-0.0.0.0 255.255.255.255broadcasthost
 0.0.0.0 511tx.gov
 0.0.0.0 511wi.gov
 0.0.0.0 9-11commission.gov
@@ -3195,7 +3194,6 @@
 0.0.0.0 mlkday.gov
 0.0.0.0 mmc.gov
 0.0.0.0 mn.gov
-0.0.0.0 mn.mn.co.cu
 0.0.0.0 mncourts.gov
 0.0.0.0 mndnr.gov
 0.0.0.0 mndot.gov
@@ -6526,8 +6524,8 @@
 
 # Hosts - nsa-blocklist
 # Source - https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/HOSTS
-# Generated - 03.08.2018
+# Generated - 10.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 6525
+# Total Domains: 6523
 # License: MIT
 

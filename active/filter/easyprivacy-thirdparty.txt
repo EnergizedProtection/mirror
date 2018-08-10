@@ -245,7 +245,6 @@
 0.0.0.0 d2nxi61n77zqpl.cloudfront.net
 0.0.0.0 d2oh4tlt9mrke9.cloudfront.net
 0.0.0.0 d2ry9vue95px0b.cloudfront.net
-0.0.0.0 d2so4705rl485y.cloudfront.net
 0.0.0.0 d2tcg4i9q4js4a.cloudfront.net
 0.0.0.0 d2tgfbvjf3q6hn.cloudfront.net
 0.0.0.0 d2xgf76oeu9pbh.cloudfront.net
@@ -428,7 +427,6 @@
 0.0.0.0 metering.pagesuite.com
 0.0.0.0 metric.nwsource.com
 0.0.0.0 metrics-api.librato.com
-0.0.0.0 metrics.brightcove.com
 0.0.0.0 metrics.ctvdigital.net
 0.0.0.0 metrics.el-mundo.net
 0.0.0.0 metrics.feedroom.com
@@ -496,7 +494,6 @@
 0.0.0.0 pixel.solvemedia.com
 0.0.0.0 pixel.sprinklr.com
 0.0.0.0 pixel.tree.com
-0.0.0.0 pixel.wp.com
 0.0.0.0 pixel.xmladfeed.com
 0.0.0.0 pixel.yabidos.com
 0.0.0.0 pixel.yola.com
@@ -703,7 +700,6 @@
 0.0.0.0 track.tcppu.com
 0.0.0.0 track.td3x.com
 0.0.0.0 track.uc.cn
-0.0.0.0 track.uniqodo.com
 0.0.0.0 track.untd.com
 0.0.0.0 track.vscash.com
 0.0.0.0 track.written.com
@@ -820,8 +816,8 @@
 
 # Hosts - easyprivacy-thirdparty
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easyprivacy-thirdparty.txt
-# Generated - 03.08.2018
+# Generated - 10.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 819
+# Total Domains: 815
 # License: MIT
 

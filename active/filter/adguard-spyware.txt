@@ -110,7 +110,6 @@
 0.0.0.0 c.opinion.com.ua
 0.0.0.0 c.t-online.de
 0.0.0.0 c.tbex.ru
-0.0.0.0 c00.adobe.com
 0.0.0.0 c1hit.tut.by
 0.0.0.0 ca.video-cdn.net
 0.0.0.0 cc.calltracking.ru
@@ -214,7 +213,6 @@
 0.0.0.0 d2q7mvwub8tmwf.cloudfront.net
 0.0.0.0 d2qmp7jjpd79k7.cloudfront.net
 0.0.0.0 d2ry9vue95px0b.cloudfront.net
-0.0.0.0 d2so4705rl485y.cloudfront.net
 0.0.0.0 d2tgfbvjf3q6hn.cloudfront.net
 0.0.0.0 d2xgf76oeu9pbh.cloudfront.net
 0.0.0.0 d303e3cdddb4ded4b6ff495a7b496ed5.s3.amazonaws.com
@@ -364,6 +362,7 @@
 0.0.0.0 logger.virgul.com
 0.0.0.0 logging.carambo.la
 0.0.0.0 logql.yahoo.co.jp
+0.0.0.0 logs.ntvplus.tv
 0.0.0.0 logs.spilgames.com
 0.0.0.0 logs.thebloggernetwork.com
 0.0.0.0 loxodo-ct.ext.nile.works
@@ -380,7 +379,6 @@
 0.0.0.0 metric-agent.i10c.net
 0.0.0.0 metric.timewarnercable.com
 0.0.0.0 metrics-api.librato.com
-0.0.0.0 metrics.brightcove.com
 0.0.0.0 metrics.cnn.com
 0.0.0.0 metrics.foxnews.com
 0.0.0.0 metrics.mzstatic.com
@@ -446,7 +444,6 @@
 0.0.0.0 pixel.quantserve.com
 0.0.0.0 pixel.roymorgan.com
 0.0.0.0 pixel.watch
-0.0.0.0 pixel.wp.com
 0.0.0.0 pixel.yabidos.com
 0.0.0.0 pixelg.adswizz.com
 0.0.0.0 pixelhere.com
@@ -643,6 +640,7 @@
 0.0.0.0 tracking.adactioninteractive.com
 0.0.0.0 tracking.adweb.co.kr
 0.0.0.0 tracking.bdi-services.de
+0.0.0.0 tracking.deluxe-marketing.com
 0.0.0.0 tracking.epicgames.com
 0.0.0.0 tracking.g2crowd.com
 0.0.0.0 tracking.kurier.at
@@ -706,8 +704,8 @@
 
 # Hosts - adguard-spyware
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-spyware-firstparty.txt
-# Generated - 03.08.2018
+# Generated - 10.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 705
+# Total Domains: 703
 # License: MIT
 

@@ -448,7 +448,6 @@
 0.0.0.0 cpatraffictracker.com
 0.0.0.0 cpaway.afftrack.com
 0.0.0.0 crackfulldownload.com
-0.0.0.0 crackguru.tk
 0.0.0.0 crackspider.net
 0.0.0.0 cracksplanet.com
 0.0.0.0 crackzplanet.com
@@ -748,7 +747,6 @@
 0.0.0.0 hacking.mysteria.cz
 0.0.0.0 hackkitarena.tk
 0.0.0.0 haedong.es.kr
-0.0.0.0 handlerhackz.tk
 0.0.0.0 handyarchive.com
 0.0.0.0 hanulsms.com
 0.0.0.0 hapjes-maken.eu
@@ -813,13 +811,11 @@
 0.0.0.0 img.clicksagent.com
 0.0.0.0 img.coldstoragemn.com
 0.0.0.0 img.ruclicks.com
-0.0.0.0 img.thebugs.ws
 0.0.0.0 img001.com
 0.0.0.0 img2.sankakustatic.com
 0.0.0.0 in.joinourwebsite.com
 0.0.0.0 in.riskymail4free.com
 0.0.0.0 info.com
-0.0.0.0 infospace.tk
 0.0.0.0 infra.by
 0.0.0.0 inlinea.co.uk
 0.0.0.0 innatek.com
@@ -1549,7 +1545,6 @@
 0.0.0.0 the-kret.popunder.ru
 0.0.0.0 theads.me
 0.0.0.0 thebighits.com
-0.0.0.0 thebugs.ws
 0.0.0.0 themexp.org
 0.0.0.0 themillionaireinpjs.net
 0.0.0.0 thenewupdatee.redirectme.net
@@ -2012,7 +2007,6 @@
 0.0.0.0 www.cswilliamsburg.com
 0.0.0.0 www.ctibank.com
 0.0.0.0 www.ctrck.com
-0.0.0.0 www.cudacorp.com
 0.0.0.0 www.customersupporthelp.com
 0.0.0.0 www.cybermecca.com
 0.0.0.0 www.cyberzine.com
@@ -2513,7 +2507,6 @@
 0.0.0.0 www.searchmagna.com
 0.0.0.0 www.searchmagnified.com
 0.0.0.0 www.searchnet.com
-0.0.0.0 www.searchnigeria.net
 0.0.0.0 www.searchnut.com
 0.0.0.0 www.searchremagnified.com
 0.0.0.0 www.searchresultsguide.com
@@ -2591,7 +2584,6 @@
 0.0.0.0 www.theads.me
 0.0.0.0 www.thebighits.com
 0.0.0.0 www.thebigoutdoors.co.uk
-0.0.0.0 www.thebugs.ws
 0.0.0.0 www.themillionaireinpjs.net
 0.0.0.0 www.theroamingjew.com
 0.0.0.0 www.thesearchagency.net
@@ -2914,8 +2906,8 @@
 
 # Hosts - fademind-add.risk
 # Source - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
-# Generated - 03.08.2018
+# Generated - 10.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 2913
+# Total Domains: 2905
 # License: MIT
 

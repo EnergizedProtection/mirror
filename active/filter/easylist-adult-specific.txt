@@ -14,6 +14,7 @@
 0.0.0.0 brcache.madthumbs.com
 0.0.0.0 bugel.pronpic.org
 0.0.0.0 cams.pornrabbit.com
+0.0.0.0 camvideos.tv
 0.0.0.0 creatives.cliphunter.com
 0.0.0.0 creatives.pichunter.com
 0.0.0.0 d1wi563t0137vz.cloudfront.net
@@ -43,8 +44,8 @@
 
 # Hosts - easylist-adult-specific
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easylist-adult-specific.txt
-# Generated - 03.08.2018
+# Generated - 10.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 42
+# Total Domains: 43
 # License: MIT
 

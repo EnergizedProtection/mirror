@@ -116,7 +116,6 @@
 0.0.0.0 acookie.alimama.com
 0.0.0.0 acookie.linezing.com
 0.0.0.0 acs4baichuan.m.taobao.com
-0.0.0.0 acstatic-dun.126.net
 0.0.0.0 act.commercial.shouji.360.cn
 0.0.0.0 activate-sea.adobe.com
 0.0.0.0 activate-sjc0.adobe.com
@@ -207,7 +206,6 @@
 0.0.0.0 adn.insight.ucweb.com
 0.0.0.0 adobe-dns-2.adobe.com
 0.0.0.0 adobe-dns-3.adobe.com
-0.0.0.0 adobe-dns.adobe.com
 0.0.0.0 adping.qq.com
 0.0.0.0 adplace.adsame.com
 0.0.0.0 adplexmedia.adk2.co
@@ -1430,7 +1428,6 @@
 0.0.0.0 js.union-wifi.com
 0.0.0.0 js.users.51.la
 0.0.0.0 js.wu65.com
-0.0.0.0 js.xiansuper.com
 0.0.0.0 js.yoyi.tv
 0.0.0.0 js1151.yongkang6.com
 0.0.0.0 js1151.zhudiaosz.com
@@ -1503,7 +1500,6 @@
 0.0.0.0 lives.l.qq.com
 0.0.0.0 lk.brand.sogou.com
 0.0.0.0 ll.atdmt.com
-0.0.0.0 lm.licenses.adobe.com
 0.0.0.0 lm.souid.com
 0.0.0.0 lmlicenses.wip4.adobe.com
 0.0.0.0 lndnserror1.wo.com.cn
@@ -1667,7 +1663,6 @@
 0.0.0.0 mobads-logs.baidu.com
 0.0.0.0 mobads.baidu.com
 0.0.0.0 mobi.adsage.com
-0.0.0.0 mobile.qzone.qq.com
 0.0.0.0 mobileads.msn.com
 0.0.0.0 mobilelog.kugou.com
 0.0.0.0 moka.inte.sogoucdn.com
@@ -2413,7 +2408,6 @@
 0.0.0.0 ss.missyouxi.com
 0.0.0.0 ssdk.adkmob.com
 0.0.0.0 ssl-cdn.static.browser.mi-img.com
-0.0.0.0 ssl.google-analytics.com
 0.0.0.0 ssl.ymapp.com
 0.0.0.0 ssp.0531kt.com
 0.0.0.0 ssp.adpush.cn
@@ -2639,7 +2633,6 @@
 0.0.0.0 u291014.nr1234.com
 0.0.0.0 uat1.bfsspadserver.8le8le.com
 0.0.0.0 ubmcmm.baidustatic.com
-0.0.0.0 uc.xiansuper.com
 0.0.0.0 uc9.ucweb.com
 0.0.0.0 ucus.ucweb.com
 0.0.0.0 udash.umengcloud.com
@@ -3127,8 +3120,8 @@
 
 # Hosts - neohost
 # Source - https://hosts.nfz.moe/full/hosts
-# Generated - 03.08.2018
+# Generated - 10.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 3126
+# Total Domains: 3119
 # License: MIT
 

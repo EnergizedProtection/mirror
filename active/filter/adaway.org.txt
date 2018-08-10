@@ -114,7 +114,6 @@
 0.0.0.0 lb.usemaxserver.de
 0.0.0.0 lp.mp.mydas.mobi
 0.0.0.0 lp.mydas.mobi
-0.0.0.0 m.adsymptotic.com
 0.0.0.0 m.quantserve.com
 0.0.0.0 m2m1.inner-active.mobi
 0.0.0.0 mc.yandex.ru
@@ -127,7 +126,6 @@
 0.0.0.0 media.mydas.mobi
 0.0.0.0 mobile.banzai.it
 0.0.0.0 mobileads.msn.com
-0.0.0.0 mobiledl.adobe.com
 0.0.0.0 mobpartner.mobi
 0.0.0.0 mwc.velti.com
 0.0.0.0 netdna.reporo.net
@@ -184,8 +182,8 @@
 
 # Hosts - adaway.org
 # Source - https://adaway.org/hosts.txt
-# Generated - 03.08.2018
+# Generated - 10.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 183
+# Total Domains: 181
 # License: MIT
 

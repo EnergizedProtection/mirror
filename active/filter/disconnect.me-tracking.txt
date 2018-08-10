@@ -33,7 +33,7 @@
 
 # Hosts - disconnect.me-tracking
 # Source - https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Generated - 03.08.2018
+# Generated - 10.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 32
 # License: MIT

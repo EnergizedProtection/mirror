@@ -10,7 +10,6 @@
 0.0.0.0 2name.com
 0.0.0.0 300kg.ru
 0.0.0.0 3dmgame.com
-0.0.0.0 3warez.com
 0.0.0.0 4allprograms.net
 0.0.0.0 4players.org
 0.0.0.0 4realtorrentz.com
@@ -399,7 +398,6 @@
 0.0.0.0 idmserialkeycrack.com
 0.0.0.0 iktin.ru
 0.0.0.0 imastudios.com
-0.0.0.0 img.thebugs.ws
 0.0.0.0 imodzone.net
 0.0.0.0 imost.com
 0.0.0.0 imzdl.com
@@ -1808,7 +1806,6 @@
 0.0.0.0 www.teryer.ru
 0.0.0.0 www.the-underdogs.org
 0.0.0.0 www.thebugs.us
-0.0.0.0 www.thebugs.ws
 0.0.0.0 www.thecompletewebs.net
 0.0.0.0 www.thedisappearanceofeleanorrigby-1.tumblr.com
 0.0.0.0 www.theflashwarez.com
@@ -2038,8 +2035,8 @@
 
 # Hosts - hosts-file.net-wrz
 # Source - https://hosts-file.net/wrz.txt
-# Generated - 03.08.2018
+# Generated - 10.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 2037
+# Total Domains: 2034
 # License: MIT
 

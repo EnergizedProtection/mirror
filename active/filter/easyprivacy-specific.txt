@@ -98,7 +98,6 @@
 0.0.0.0 click2.cafepress.com
 0.0.0.0 clicks.hurriyet.com.tr
 0.0.0.0 clicks.traffictrader.net
-0.0.0.0 client-event-reporter.twitch.tv
 0.0.0.0 clkstat.china.cn
 0.0.0.0 clog.go.com
 0.0.0.0 clvk.viki.io
@@ -171,6 +170,7 @@
 0.0.0.0 g2a-com.newsletter.com.pl
 0.0.0.0 ga.canoe.ca
 0.0.0.0 ga.nsimg.net
+0.0.0.0 gateway.reddit.com
 0.0.0.0 gekko.spiceworks.com
 0.0.0.0 geo.hltv.org
 0.0.0.0 geo.homepage-web.com
@@ -217,6 +217,7 @@
 0.0.0.0 intelli.ageuk.org.uk
 0.0.0.0 intent.cbsi.com
 0.0.0.0 ip.breitbart.com
+0.0.0.0 ip.pichunter.com
 0.0.0.0 lh.secure.yahoo.com
 0.0.0.0 lilb2.shutterstock.com
 0.0.0.0 linkpuls.idg.no
@@ -278,7 +279,6 @@
 0.0.0.0 mms.syracuse.com
 0.0.0.0 mms.theroot.com
 0.0.0.0 mts-ws.rueducommerce.fr
-0.0.0.0 navlog.channel4.com
 0.0.0.0 nb.myspace.com
 0.0.0.0 net.haier.com
 0.0.0.0 nmtracking.netflix.com
@@ -348,7 +348,6 @@
 0.0.0.0 rta2.metro.co.uk
 0.0.0.0 rtn.thestar.com
 0.0.0.0 s.infogr.am
-0.0.0.0 s.youtube.com
 0.0.0.0 sa.bbc.co.uk
 0.0.0.0 sa.squareup.com
 0.0.0.0 sa135.macworld.co.uk
@@ -516,6 +515,7 @@
 0.0.0.0 stats.townnews.com
 0.0.0.0 stats.uswitch.com
 0.0.0.0 stats.vc.gg
+0.0.0.0 stats.videodelivery.net
 0.0.0.0 stats.visistat.com
 0.0.0.0 stats.vulture.com
 0.0.0.0 stats.wordpress.com
@@ -618,7 +618,6 @@
 0.0.0.0 trackpm.shop2market.com
 0.0.0.0 traffic.buyservices.com
 0.0.0.0 traktr.news.com.au
-0.0.0.0 trowel.twitch.tv
 0.0.0.0 tw.i.hulu.com
 0.0.0.0 unid.go.com
 0.0.0.0 up.nytimes.com
@@ -652,8 +651,8 @@
 
 # Hosts - easyprivacy-specific
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easyprivacy-specific.txt
-# Generated - 03.08.2018
+# Generated - 10.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 651
+# Total Domains: 650
 # License: MIT
 

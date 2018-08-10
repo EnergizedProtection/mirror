@@ -1667,7 +1667,6 @@
 0.0.0.0 no.williamhillcasino.com
 0.0.0.0 nofaxpaydayloans.com.au
 0.0.0.0 nomorebeingalone.com
-0.0.0.0 nonnudebbw.com
 0.0.0.0 noodles.co
 0.0.0.0 norrinradd.crimecheck.hop.clickbank.net
 0.0.0.0 norrinradd.robotstock.hop.clickbank.net
@@ -2089,7 +2088,6 @@
 0.0.0.0 servicemagic.com
 0.0.0.0 servisco.net
 0.0.0.0 sevenfiguremastermindteam.com
-0.0.0.0 sevenforums.com
 0.0.0.0 sex-tracker.com
 0.0.0.0 sex500.com
 0.0.0.0 sexcomic.com
@@ -3609,7 +3607,6 @@
 0.0.0.0 www.servermax.de
 0.0.0.0 www.servicemagic.com
 0.0.0.0 www.sevenfiguremastermindteam.com
-0.0.0.0 www.sevenforums.com
 0.0.0.0 www.sexegratis.com
 0.0.0.0 www.sexfranco.com
 0.0.0.0 www.sexgame.co
@@ -4006,8 +4003,8 @@
 
 # Hosts - hosts-file.net-mmt
 # Source - https://hosts-file.net/mmt.txt
-# Generated - 03.08.2018
+# Generated - 10.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 4005
+# Total Domains: 4002
 # License: MIT
 

@@ -336,7 +336,6 @@
 0.0.0.0 rover.ebay.com
 0.0.0.0 ru4.com
 0.0.0.0 rubiconproject.com
-0.0.0.0 s.youtube.com
 0.0.0.0 sbal4kp.com
 0.0.0.0 scorecardresearch.com
 0.0.0.0 scribol.com
@@ -355,7 +354,6 @@
 0.0.0.0 smrt.as
 0.0.0.0 snapengage.com
 0.0.0.0 sonobi.com
-0.0.0.0 spade.twitch.tv
 0.0.0.0 specificclick.net
 0.0.0.0 spoutable.com
 0.0.0.0 springserve.com
@@ -439,8 +437,8 @@
 
 # Hosts - blockzilla
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/blockzilla.txt
-# Generated - 03.08.2018
+# Generated - 10.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 438
+# Total Domains: 436
 # License: MIT
 

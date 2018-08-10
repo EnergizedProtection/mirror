@@ -5,7 +5,6 @@
 0.0.0.0 boysontube.com
 0.0.0.0 boywankers.com
 0.0.0.0 br.youporn.com
-0.0.0.0 broadcasthost
 0.0.0.0 camboystube.net
 0.0.0.0 cn.txxx.com
 0.0.0.0 cz.pornhub.com
@@ -28,7 +27,6 @@
 0.0.0.0 es.xhamster.com
 0.0.0.0 es.youporn.com
 0.0.0.0 favgayporn.com
-0.0.0.0 fe80::1%lo0
 0.0.0.0 fr.pornhub.com
 0.0.0.0 fr.spankbang.com
 0.0.0.0 fr.txxx.com
@@ -46,7 +44,6 @@
 0.0.0.0 jp.xhamster.com
 0.0.0.0 jp.youporn.com
 0.0.0.0 kr.xhamster.com
-0.0.0.0 local
 0.0.0.0 localhost.localdomain
 0.0.0.0 ludwig-walkenhorst.com
 0.0.0.0 m.4tube.com
@@ -279,7 +276,6 @@
 0.0.0.0 www.adultrevenueservice.com
 0.0.0.0 www.adultscandy.com
 0.0.0.0 www.adulttrafficads.com
-0.0.0.0 www.adultvalleycash.com
 0.0.0.0 www.adultvideofinder.com
 0.0.0.0 www.adultvideosteens.com
 0.0.0.0 www.adultwebmastersonline.com
@@ -400,7 +396,6 @@
 0.0.0.0 www.angelalittle.net
 0.0.0.0 www.angelamelini.com
 0.0.0.0 www.angelarchives.com
-0.0.0.0 www.angelartemis.an.ohost.de
 0.0.0.0 www.angelaryan.com
 0.0.0.0 www.angelasalvagno.com
 0.0.0.0 www.angelasavage.com
@@ -1387,7 +1382,6 @@
 0.0.0.0 www.eroxia.com
 0.0.0.0 www.escort23.com
 0.0.0.0 www.escort69.pt
-0.0.0.0 www.escortbayanankaratc.net
 0.0.0.0 www.escortdirectory.com
 0.0.0.0 www.escortera.com
 0.0.0.0 www.escortguide.com
@@ -1546,7 +1540,6 @@
 0.0.0.0 www.filediva.com
 0.0.0.0 www.filefactory.com
 0.0.0.0 www.filestube.com
-0.0.0.0 www.filipinavirgin.net
 0.0.0.0 www.filipinawebcams.com
 0.0.0.0 www.filles-webcams.com
 0.0.0.0 www.film-x-gratos.com
@@ -1605,7 +1598,6 @@
 0.0.0.0 www.free-babes-webcams.com
 0.0.0.0 www.free-famous-toons.com
 0.0.0.0 www.free-hardcoresex.org
-0.0.0.0 www.free-nylon-porn.com
 0.0.0.0 www.free-sex-sexy-gallery.net
 0.0.0.0 www.free-the-nipple.tumblr.com
 0.0.0.0 www.free-toplisten.at
@@ -1625,7 +1617,6 @@
 0.0.0.0 www.freeandeasyangels.homestead.com
 0.0.0.0 www.freeatkgals.com
 0.0.0.0 www.freebestsexstories.com
-0.0.0.0 www.freeblogsearch.com
 0.0.0.0 www.freecc.sex-explorer.com
 0.0.0.0 www.freefuckvidz.com
 0.0.0.0 www.freehindisexstories.com
@@ -1733,7 +1724,6 @@
 0.0.0.0 www.gaytube.com
 0.0.0.0 www.gaytwinkwebcams.com
 0.0.0.0 www.gaywebcams.com
-0.0.0.0 www.gbcash.com
 0.0.0.0 www.gdoeuut.angelfire.com
 0.0.0.0 www.gelbooru.com
 0.0.0.0 www.genericporn.tumblr.com
@@ -3738,7 +3728,6 @@
 0.0.0.0 www.teensinasia.com
 0.0.0.0 www.teenslikeitbig.com
 0.0.0.0 www.teensloveblackcocks.com
-0.0.0.0 www.teensondicks.com
 0.0.0.0 www.teensporn.net
 0.0.0.0 www.teensxxxvideoz.com
 0.0.0.0 www.teentubexxxl.com
@@ -3840,7 +3829,6 @@
 0.0.0.0 www.tiny4k.com
 0.0.0.0 www.tinychat.com
 0.0.0.0 www.tinyeve.net
-0.0.0.0 www.tinylittlevirgin.com
 0.0.0.0 www.tinynibbles.com
 0.0.0.0 www.tinyvirgins.cjb.net
 0.0.0.0 www.titflicks.com
@@ -3896,7 +3884,6 @@
 0.0.0.0 www.track.pornaccess.com
 0.0.0.0 www.tracker.ero-advertising.com
 0.0.0.0 www.tracking.fanbridge.com
-0.0.0.0 www.tradehardlinks.com
 0.0.0.0 www.tradgardshus.angelfire.com
 0.0.0.0 www.traffic.ru
 0.0.0.0 www.trailerwmv.com
@@ -4365,7 +4352,6 @@
 0.0.0.0 www.xxxstreams.eu
 0.0.0.0 www.xxxstreams.org
 0.0.0.0 www.xxxtubedot.com
-0.0.0.0 www.xxxvideoporno.it
 0.0.0.0 www.xxxvogue.net
 0.0.0.0 www.xxxwebtraffic.com
 0.0.0.0 www.xxxx-porn.tumblr.com
@@ -4489,8 +4475,8 @@
 
 # Hosts - clefspeare-pornhosts
 # Source - https://raw.githubusercontent.com/Clefspeare13/pornhosts/master/0.0.0.0/hosts
-# Generated - 03.08.2018
+# Generated - 10.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 4488
+# Total Domains: 4474
 # License: MIT
 

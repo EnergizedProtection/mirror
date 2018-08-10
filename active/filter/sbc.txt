@@ -238,6 +238,7 @@
 0.0.0.0 assets.alphonso.tv
 0.0.0.0 ata.ero-advertising.com
 0.0.0.0 authbe.sec.intl.miui.com
+0.0.0.0 bacr.com.pk
 0.0.0.0 bale.alphonso.tv
 0.0.0.0 ban3ers.ero-advertising.com
 0.0.0.0 ban4ers.ero-advertising.com
@@ -473,7 +474,6 @@
 0.0.0.0 mediadirectx.com
 0.0.0.0 mediaparade.net
 0.0.0.0 metrics.adage.com
-0.0.0.0 metrics.brightcove.com
 0.0.0.0 miami.ero-advertising.com
 0.0.0.0 mktg.tvpage.com
 0.0.0.0 mobile.pipe.aria.microsoft.com
@@ -491,7 +491,6 @@
 0.0.0.0 nata.ero-advertising.com
 0.0.0.0 nativesdks.mparticle.com
 0.0.0.0 newlimitedoffer.com
-0.0.0.0 nexus.ensighten.com
 0.0.0.0 nexus.officeapps.live.com
 0.0.0.0 nexusrules.officeapps.live.com
 0.0.0.0 neymar.alphonso.tv
@@ -512,6 +511,7 @@
 0.0.0.0 ovc2-ustokyyneikyfasnm.stackpathdns.com
 0.0.0.0 ozil.alphonso.tv
 0.0.0.0 pagepeel.ero-advertising.com
+0.0.0.0 pakistanelevators.pk
 0.0.0.0 pata.ero-advertising.com
 0.0.0.0 pele.alphonso.tv
 0.0.0.0 perf.mmstat.com
@@ -562,7 +562,6 @@
 0.0.0.0 rtblbtr.alphonso.tv
 0.0.0.0 rules.quantcount.com
 0.0.0.0 s.ero-advertising.com
-0.0.0.0 s.zkcdn.net
 0.0.0.0 s10.hiadspaces.ero-advertising.com
 0.0.0.0 s10.hipaces.ero-advertising.com
 0.0.0.0 s10.his.ero-advertising.com
@@ -613,7 +612,6 @@
 0.0.0.0 srv.pixel.parsely.com
 0.0.0.0 ssl.widgets.webengage.com
 0.0.0.0 ssp.face2trade.com
-0.0.0.0 sstats.adobe.com
 0.0.0.0 stage.tvpage.com
 0.0.0.0 stat-c.maxthon.com
 0.0.0.0 static.clmbtech.com
@@ -676,8 +674,6 @@
 0.0.0.0 urldelivery.com
 0.0.0.0 users.ero-advertising.com
 0.0.0.0 users.quantumgraph.com
-0.0.0.0 v10.events.data.microsoft.com
-0.0.0.0 v10.vortex-win.data.microsoft.com
 0.0.0.0 vamsoupowoa.com
 0.0.0.0 vanpersie.alphonso.tv
 0.0.0.0 vdtrack.com
@@ -774,8 +770,8 @@
 
 # Hosts - sbc
 # Source - https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts
-# Generated - 03.08.2018
+# Generated - 10.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 773
+# Total Domains: 769
 # License: MIT
 

@@ -168,7 +168,6 @@
 0.0.0.0 alt.24x7loan.com
 0.0.0.0 amazinglesbos.com
 0.0.0.0 amgkse.mat.eveshamairporttaxis.co.uk
-0.0.0.0 ananhp.net.a1traveldirect.co.uk
 0.0.0.0 angree.indianmedicalsupply.org
 0.0.0.0 animation-1.com
 0.0.0.0 antpoker.com
@@ -895,7 +894,6 @@
 0.0.0.0 wow.laurita.org
 0.0.0.0 wshf8y.lero.worldkickboxingcommission.com
 0.0.0.0 wufrre.pool.pchamberlain.co.uk
-0.0.0.0 ww2.pagerankchecker.pw
 0.0.0.0 www.13duyfzvxbqncjq1co9whwj.hmip.net
 0.0.0.0 www.1meterchocolate.com
 0.0.0.0 www.alarif.org
@@ -1060,8 +1058,8 @@
 
 # Hosts - hosts-file.net-exp
 # Source - https://hosts-file.net/exp.txt
-# Generated - 03.08.2018
+# Generated - 10.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 1059
+# Total Domains: 1057
 # License: MIT
 

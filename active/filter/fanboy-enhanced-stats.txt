@@ -25,7 +25,6 @@
 0.0.0.0 google-analytics.com
 0.0.0.0 hitcount.de
 0.0.0.0 hitpage.de
-0.0.0.0 images.dmca.com
 0.0.0.0 images.scanalert.com
 0.0.0.0 instantssl.com
 0.0.0.0 ipstats.de
@@ -34,7 +33,6 @@
 0.0.0.0 letsstat.nl
 0.0.0.0 mark.reevoo.com
 0.0.0.0 matchcows.com
-0.0.0.0 medals.bizrate.com
 0.0.0.0 mediapass.com
 0.0.0.0 my.leadpages.net
 0.0.0.0 mystats.nl
@@ -100,8 +98,8 @@
 
 # Hosts - fanboy-enhanced-stats
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/fanboy-enhanced-stats.txt
-# Generated - 03.08.2018
+# Generated - 10.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 99
+# Total Domains: 97
 # License: MIT
 

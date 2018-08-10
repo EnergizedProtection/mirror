@@ -250,6 +250,7 @@
 0.0.0.0 bridgetrack.com
 0.0.0.0 brokerbabe.com
 0.0.0.0 bttn.io
+0.0.0.0 bu1.duba.com
 0.0.0.0 bubblesmedia.ru
 0.0.0.0 burstnet.com
 0.0.0.0 buzzad.io
@@ -427,7 +428,6 @@
 0.0.0.0 intellitxt.com
 0.0.0.0 intermarkets.net
 0.0.0.0 intowow.com
-0.0.0.0 investingchannel.com
 0.0.0.0 iqzone.com
 0.0.0.0 javacript.gq
 0.0.0.0 jfduv7.com
@@ -794,7 +794,7 @@
 
 # Hosts - adguard-mobile-ads
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-mobile-ads.txt
-# Generated - 03.08.2018
+# Generated - 10.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 793
 # License: MIT

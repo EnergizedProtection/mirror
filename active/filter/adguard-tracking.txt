@@ -115,6 +115,7 @@
 0.0.0.0 admdspc.com
 0.0.0.0 admeo.ru
 0.0.0.0 admitad.com
+0.0.0.0 adnz.co
 0.0.0.0 adobetag.com
 0.0.0.0 adoftheyear.com
 0.0.0.0 adoric.com
@@ -312,7 +313,6 @@
 0.0.0.0 bitrix.info
 0.0.0.0 bizible.com
 0.0.0.0 bizo.com
-0.0.0.0 bizrate.com
 0.0.0.0 bizspring.net
 0.0.0.0 bkrtx.com
 0.0.0.0 bkvtrack.com
@@ -357,6 +357,7 @@
 0.0.0.0 bounce-ads.de
 0.0.0.0 bounceexchange.com
 0.0.0.0 bouncex.com
+0.0.0.0 bouncyproperty.com
 0.0.0.0 brassrule.com
 0.0.0.0 brat-online.ro
 0.0.0.0 brcdn.com
@@ -626,6 +627,7 @@
 0.0.0.0 datvantage.com
 0.0.0.0 daylogs.com
 0.0.0.0 dc-storm.com
+0.0.0.0 dcmn.com
 0.0.0.0 de17a.com
 0.0.0.0 decdna.net
 0.0.0.0 decenthat.com
@@ -1966,6 +1968,7 @@
 0.0.0.0 scorecardresearch.com
 0.0.0.0 scounter.rambler.ru
 0.0.0.0 scoutanalytics.net
+0.0.0.0 screechingfurniture.com
 0.0.0.0 scrippscontroller.com
 0.0.0.0 script.ag
 0.0.0.0 script.opentracker.net
@@ -2711,8 +2714,8 @@
 
 # Hosts - adguard-tracking
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-tracking-servers.txt
-# Generated - 03.08.2018
+# Generated - 10.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 2710
+# Total Domains: 2713
 # License: MIT
 

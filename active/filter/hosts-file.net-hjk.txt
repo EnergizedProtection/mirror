@@ -3,6 +3,7 @@
 0.0.0.0 51.net
 0.0.0.0 51115.com
 0.0.0.0 9p.cn
+0.0.0.0 active-revenue1.impcodear.xyz
 0.0.0.0 activerevenue1.ustest.xyz
 0.0.0.0 adblockerext.com
 0.0.0.0 adblockext.com
@@ -79,6 +80,7 @@
 0.0.0.0 lycos.com.org
 0.0.0.0 malware-alert-trojan-hack-errorcode211345.wintest33.xyz
 0.0.0.0 maxis5018.space
+0.0.0.0 medication.stream
 0.0.0.0 meet754seeuye.info
 0.0.0.0 meetyourmessenger.co.uk
 0.0.0.0 mega-track.info
@@ -93,12 +95,14 @@
 0.0.0.0 oload.win
 0.0.0.0 orgy.com
 0.0.0.0 ostrichten.stream
+0.0.0.0 ovidten.stream
 0.0.0.0 pcspeedbooster.com
 0.0.0.0 phukienhung.com
 0.0.0.0 polgrand.net
 0.0.0.0 protecterext.com
 0.0.0.0 protecttoolext.com
 0.0.0.0 psn.cn
+0.0.0.0 pushtraffic.xyz
 0.0.0.0 qu123.com
 0.0.0.0 query.network
 0.0.0.0 quickquacksearch.com
@@ -119,8 +123,10 @@
 0.0.0.0 searchy.tools
 0.0.0.0 securetoolext.com
 0.0.0.0 security-acb22.stream
+0.0.0.0 security-alert-malicious-items-detected-errorx10000x1be.impcode6.xyz
 0.0.0.0 securityext.com
 0.0.0.0 serch-direct.com
+0.0.0.0 server3.andhugedeal.info
 0.0.0.0 server4.beginanywhere.info
 0.0.0.0 server4.convertsrvr.com
 0.0.0.0 server4.inagentleway.info
@@ -131,6 +137,7 @@
 0.0.0.0 server4.sticker-happy.com
 0.0.0.0 server4.sweetfantasy.info
 0.0.0.0 server4.themiengirls.info
+0.0.0.0 server4.whowoeitbetter.info
 0.0.0.0 sitesure.com
 0.0.0.0 smouch.net
 0.0.0.0 spiderjump.site
@@ -236,8 +243,8 @@
 
 # Hosts - hosts-file.net-hjk
 # Source - https://hosts-file.net/hjk.txt
-# Generated - 03.08.2018
+# Generated - 10.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 235
+# Total Domains: 242
 # License: MIT
 

@@ -4,7 +4,6 @@
 0.0.0.0 ad-score.com
 0.0.0.0 ad-serverparc.nl
 0.0.0.0 ad.groupon.co.uk
-0.0.0.0 adblockerkillswebsites.pw
 0.0.0.0 adbutler-tachyon.com
 0.0.0.0 adcash.com
 0.0.0.0 adcentriconline.com
@@ -292,7 +291,6 @@
 0.0.0.0 flite.com
 0.0.0.0 fogzyads.com
 0.0.0.0 followistic.com
-0.0.0.0 force.com
 0.0.0.0 forkmedia.in
 0.0.0.0 formalyzer.com
 0.0.0.0 forter.com
@@ -417,7 +415,6 @@
 0.0.0.0 likemastr.com
 0.0.0.0 linkbucks.com
 0.0.0.0 linkoffers.net
-0.0.0.0 linksynergy.com
 0.0.0.0 listrakbi.com
 0.0.0.0 liveadexchanger.com
 0.0.0.0 liveadvert.com
@@ -518,7 +515,6 @@
 0.0.0.0 onstate.co.uk
 0.0.0.0 onstate.com
 0.0.0.0 ontoplist.com
-0.0.0.0 ooyala.com
 0.0.0.0 optilead.co.uk
 0.0.0.0 optinmonster.com
 0.0.0.0 optnmnstr.com
@@ -784,7 +780,6 @@
 0.0.0.0 videologygroup.com
 0.0.0.0 vidlux.com
 0.0.0.0 vidmark.com
-0.0.0.0 vidyard.com
 0.0.0.0 viglink.com
 0.0.0.0 vindicosuite.com
 0.0.0.0 visistat.com
@@ -806,8 +801,6 @@
 0.0.0.0 whoisvisiting.com
 0.0.0.0 wickhillnews.com
 0.0.0.0 wikia-beacon.com
-0.0.0.0 wistia.com
-0.0.0.0 wistia.net
 0.0.0.0 woopra.com
 0.0.0.0 wowanalytics.co.uk
 0.0.0.0 wrightsmedia.com
@@ -841,8 +834,8 @@
 
 # Hosts - quidsup-notrack
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/quidsup-no-track.txt
-# Generated - 03.08.2018
+# Generated - 10.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 840
+# Total Domains: 833
 # License: MIT
 

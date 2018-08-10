@@ -351,6 +351,7 @@
 0.0.0.0 financeforum.ru
 0.0.0.0 firmware.center
 0.0.0.0 flare-analytics.com
+0.0.0.0 flashx.co
 0.0.0.0 flnqmin.org
 0.0.0.0 flowplayer.space
 0.0.0.0 formulawire.com
@@ -455,7 +456,6 @@
 0.0.0.0 insdrbot.com
 0.0.0.0 intense.hashvault.pro
 0.0.0.0 intensecoin.crypto-webminer.com
-0.0.0.0 interestingz.pw
 0.0.0.0 ipv6.freebitco.in
 0.0.0.0 irrrymucwxjl.ru
 0.0.0.0 istlandoll.com
@@ -557,7 +557,6 @@
 0.0.0.0 mepirtedic.com
 0.0.0.0 metrika.ron.si
 0.0.0.0 mfio.cf
-0.0.0.0 min.imageflux.cf
 0.0.0.0 mine.gay-hotvideo.net
 0.0.0.0 mine.nahnoji.cz
 0.0.0.0 mine.torrent.pw
@@ -747,6 +746,7 @@
 0.0.0.0 play.video2.stream.vidzi.tv
 0.0.0.0 play.videos.vidto.me
 0.0.0.0 play.vidzi.tv
+0.0.0.0 play.web.flashx.co
 0.0.0.0 play.wm.yololike.space
 0.0.0.0 play.www.intellecthosting.net
 0.0.0.0 play.xmr.101010.pl
@@ -844,6 +844,7 @@
 0.0.0.0 s2.video.estream.nu
 0.0.0.0 s2.video2.stream.vidzi.tv
 0.0.0.0 s2.vidtod.me
+0.0.0.0 s2.web.flashx.co
 0.0.0.0 s2.wm.yololike.space
 0.0.0.0 s2p.estream.to
 0.0.0.0 s3.analytics.blue
@@ -859,6 +860,7 @@
 0.0.0.0 s3.video.estream.nu
 0.0.0.0 s3.video2.stream.vidzi.tv
 0.0.0.0 s3.vidtod.me
+0.0.0.0 s3.web.flashx.co
 0.0.0.0 s3.wm.yololike.space
 0.0.0.0 s3p.estream.to
 0.0.0.0 s7ven.com
@@ -1055,6 +1057,7 @@
 0.0.0.0 wasm.stream
 0.0.0.0 wasm24.ru
 0.0.0.0 web.dle-news.pw
+0.0.0.0 web.flashx.co
 0.0.0.0 web.rocks.io
 0.0.0.0 web.stati.bid
 0.0.0.0 webassembly.stream
@@ -1404,6 +1407,7 @@
 0.0.0.0 wss.stati.bid
 0.0.0.0 wtm.monitoringservice.co
 0.0.0.0 wty46.com
+0.0.0.0 ww2.flashx.co
 0.0.0.0 ww8.adminer.com
 0.0.0.0 www.1q2w3.fun
 0.0.0.0 www.1q2w3.me
@@ -1412,7 +1416,6 @@
 0.0.0.0 www.2giga.download
 0.0.0.0 www.2giga.link
 0.0.0.0 www.50bots.nullrefexcep.com
-0.0.0.0 www.64uq73u7ug.webcam
 0.0.0.0 www.8000plus.si
 0.0.0.0 www.a-o.ninja
 0.0.0.0 www.a.proxy4.nullrefexcep.com
@@ -1608,6 +1611,7 @@
 0.0.0.0 www.fili.tv
 0.0.0.0 www.financeforum.ru
 0.0.0.0 www.flare-analytics.com
+0.0.0.0 www.flashx.co
 0.0.0.0 www.flnqmin.org
 0.0.0.0 www.fortrader.ru
 0.0.0.0 www.foxx.to
@@ -1845,7 +1849,6 @@
 0.0.0.0 www.punchsub.net
 0.0.0.0 www.qlzwfzfatjth.ru
 0.0.0.0 www.qpmsybxqvlje.ru
-0.0.0.0 www.rapidvideo.com
 0.0.0.0 www.ratingtoplist.com
 0.0.0.0 www.rbkshort.info
 0.0.0.0 www.realnetwrk.com
@@ -1907,7 +1910,6 @@
 0.0.0.0 www.sxcdn5.herokuapp.com
 0.0.0.0 www.sxcdn6.now.sh
 0.0.0.0 www.synconnector.com
-0.0.0.0 www.tazm9p7tso.trade
 0.0.0.0 www.techtricksworld.com
 0.0.0.0 www.template-download.top
 0.0.0.0 www.terethat.ru
@@ -2118,8 +2120,8 @@
 
 # Hosts - zerodot1-coinblockerlists-browser
 # Source - https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
-# Generated - 03.08.2018
+# Generated - 10.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 2117
+# Total Domains: 2119
 # License: MIT
 

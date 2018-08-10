@@ -186,6 +186,7 @@
 0.0.0.0 dosugrostov.site
 0.0.0.0 drupa.com
 0.0.0.0 earn-from-articles.com
+0.0.0.0 earnity-money.info
 0.0.0.0 easycommerce.cf
 0.0.0.0 ecomp3.ru
 0.0.0.0 econom.co
@@ -237,6 +238,7 @@
 0.0.0.0 free-fbook-traffic.com
 0.0.0.0 free-share-buttons.com
 0.0.0.0 free-video-tool.com
+0.0.0.0 free-website-traffic.com
 0.0.0.0 freenode.info
 0.0.0.0 freewhatsappload.com
 0.0.0.0 freewlan.info
@@ -248,6 +250,7 @@
 0.0.0.0 gearsadspromo.club
 0.0.0.0 generalporn.org
 0.0.0.0 germes-trans.com
+0.0.0.0 get-clickize.info
 0.0.0.0 get-free-social-traffic.com
 0.0.0.0 get-free-traffic-now.com
 0.0.0.0 get-more-freeer-visitors.info
@@ -310,6 +313,7 @@
 0.0.0.0 izhstrelok.ru
 0.0.0.0 jjbabskoe.ru
 0.0.0.0 jobius.com.ua
+0.0.0.0 jumkite.com
 0.0.0.0 justkillingti.me
 0.0.0.0 justprofit.xyz
 0.0.0.0 kabbalah-red-bracelets.com
@@ -469,6 +473,7 @@
 0.0.0.0 podarkilove.ru
 0.0.0.0 podemnik.pro
 0.0.0.0 podseka1.ru
+0.0.0.0 poiskzakona.ru
 0.0.0.0 pokupaylegko.ru
 0.0.0.0 popads.net
 0.0.0.0 popugaychiki.com
@@ -580,6 +585,7 @@
 0.0.0.0 smailik.org
 0.0.0.0 smartphonediscount.info
 0.0.0.0 snabs.kz
+0.0.0.0 snegozaderzhatel.ru
 0.0.0.0 snip.tw
 0.0.0.0 sochi-3d.ru
 0.0.0.0 social-buttons.com
@@ -734,8 +740,8 @@
 
 # Hosts - matomo.org-spammers
 # Source - https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt
-# Generated - 03.08.2018
+# Generated - 10.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 733
+# Total Domains: 739
 # License: MIT
 

@@ -10559,7 +10559,6 @@
 0.0.0.0 maturexxxpics.net
 0.0.0.0 maturexxxpix.com
 0.0.0.0 maturexxxsex.com
-0.0.0.0 maturez.name
 0.0.0.0 maturezilla.com
 0.0.0.0 maturezporn.com
 0.0.0.0 maturezzzone.com
@@ -16218,7 +16217,6 @@
 0.0.0.0 soundsofpleasure.tumblr.com
 0.0.0.0 sourtimes.org
 0.0.0.0 sousexy.pt
-0.0.0.0 south-indian-sex.org
 0.0.0.0 southanonymous.tumblr.com
 0.0.0.0 southern-charms.com
 0.0.0.0 southern-charms2.com
@@ -20155,8 +20153,8 @@
 
 # Hosts - porn-top1million
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/porn-top1m.txt
-# Generated - 03.08.2018
+# Generated - 10.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 20154
+# Total Domains: 20152
 # License: MIT
 
