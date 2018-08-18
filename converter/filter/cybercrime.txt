@@ -1,12 +1,43 @@
 # cybercrime Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://v.firebog.net/hosts/Cybercrime.txt
-# Last Converted - Fri, 10 Aug 2018 09:12:04 -0400
+# Last Converted - Sat, 18 Aug 2018 03:44:46 -0400
 # Energized - ad.porn.malware blocking.
 # License: MIT
 
-0.0.0.0 visitik.men
+0.0.0.0 hi-j.com
+0.0.0.0 reveszn.ru
+0.0.0.0 supreonlin.temp.swtest.ru
+0.0.0.0 yeniyildirimkargo.com.tr
+0.0.0.0 snapdealrightnow.com
+0.0.0.0 o937101s.beget.tech
+0.0.0.0 rdsviewer.com
+0.0.0.0 suabepga.net
+0.0.0.0 exploitedforums.in
+0.0.0.0 radioebwu.com
+0.0.0.0 publicvoicexml.org
+0.0.0.0 lifestuu.beget.tech
+0.0.0.0 launchgrowthtoday1.download
+0.0.0.0 adobeupdater.mcdir.ru
+0.0.0.0 4itok.kl.com.ua
+0.0.0.0 hunterbase.xyz
+0.0.0.0 inrzweb.co.uk
+0.0.0.0 readysteadyretire.co.uk
+0.0.0.0 myofferta.ch
+0.0.0.0 atafl.edu
+0.0.0.0 s20188101.onlinehome-server.info
+0.0.0.0 madlovert.ml
+0.0.0.0 firstfive.net
+0.0.0.0 greenoasis-int.com
+0.0.0.0 www.suplusbless.com
+0.0.0.0 ordheet.gq
+0.0.0.0 bsales.cf
+0.0.0.0 katherinajetter.com
 0.0.0.0 crackerme.info
+0.0.0.0 xxfg118.ru
+0.0.0.0 itkulo0w.beget.tech
+0.0.0.0 propertymanagementmelbourne.biz
+0.0.0.0 visitik.men
 0.0.0.0 pashafrendley.hr00.ru
 0.0.0.0 modexintl.xyz
 0.0.0.0 taughtcom.ga
@@ -65,7 +96,6 @@
 0.0.0.0 newskyinternational.com
 0.0.0.0 newskyspaces.us
 0.0.0.0 cofancio.com
-0.0.0.0 reveszn.ru
 0.0.0.0 bosch-pharmia.com
 0.0.0.0 adirektiva.com
 0.0.0.0 www.jjken.be
@@ -316,7 +346,6 @@
 0.0.0.0 gsstationery.com.my
 0.0.0.0 varsolar.com
 0.0.0.0 traducaosimultaneabrasil.com.br
-0.0.0.0 greenoasis-int.com
 0.0.0.0 heroskatopirango.com
 0.0.0.0 henrikoffice.tk
 0.0.0.0 lahtiprecission.ru

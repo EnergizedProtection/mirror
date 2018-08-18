@@ -1,7 +1,7 @@
 # easyprivacy Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://easylist.to/easylist/easyprivacy.txt
-# Last Converted - Fri, 10 Aug 2018 09:11:52 -0400
+# Last Converted - Sat, 18 Aug 2018 03:44:36 -0400
 # Energized - ad.porn.malware blocking.
 # License: MIT
 
@@ -1238,6 +1238,7 @@
 0.0.0.0 marketshot.com
 0.0.0.0 marketshot.fr
 0.0.0.0 markitondemand.com
+0.0.0.0 maropost.com
 0.0.0.0 martianstats.com
 0.0.0.0 maryneallynndyl.com
 0.0.0.0 masterstats.com
@@ -1548,6 +1549,7 @@
 0.0.0.0 pntrac.com
 0.0.0.0 pntrs.com
 0.0.0.0 pointomatic.com
+0.0.0.0 polarcdn-pentos.com
 0.0.0.0 popsample.com
 0.0.0.0 popt.in
 0.0.0.0 populr.me
@@ -1860,6 +1862,7 @@
 0.0.0.0 soflopxl.com
 0.0.0.0 softonic-analytics.net
 0.0.0.0 sojern.com
+0.0.0.0 soko.ai
 0.0.0.0 sokrati.com
 0.0.0.0 sometrics.com
 0.0.0.0 sophus3.com
@@ -2844,6 +2847,8 @@
 0.0.0.0 adcrowd.com
 0.0.0.0 addcontrol.net
 0.0.0.0 admeira.ch
+0.0.0.0 adnz.co
+0.0.0.0 adquality.ch
 0.0.0.0 adrank24.de
 0.0.0.0 adtraxx.de
 0.0.0.0 adzoe.de
@@ -5323,7 +5328,7 @@
 0.0.0.0 g2a-com.newsletter.com.pl
 0.0.0.0 ga.canoe.ca
 0.0.0.0 ga.nsimg.net
-0.0.0.0 gateway.reddit.com
+0.0.0.0 gateway.reddit.com|
 0.0.0.0 gcpdata.telegraph.co.uk
 0.0.0.0 gekko.spiceworks.com
 0.0.0.0 geo.hltv.org
@@ -5943,6 +5948,9 @@
 0.0.0.0 cpxl.golem.de
 0.0.0.0 dpm.bluray-disc.de
 0.0.0.0 dw-eu.com.com
+0.0.0.0 ens.luzernerzeitung.ch
+0.0.0.0 ens.nzz.ch
+0.0.0.0 ens.tagblatt.ch
 0.0.0.0 event.dkb.de
 0.0.0.0 extszm.web.de
 0.0.0.0 fc.vodafone.de

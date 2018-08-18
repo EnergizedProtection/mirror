@@ -1,7 +1,7 @@
 # easyprivacy-tracking-servers Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers.txt
-# Last Converted - Fri, 10 Aug 2018 09:11:53 -0400
+# Last Converted - Sat, 18 Aug 2018 03:44:38 -0400
 # Energized - ad.porn.malware blocking.
 # License: MIT
 
@@ -1234,6 +1234,7 @@
 0.0.0.0 marketshot.com
 0.0.0.0 marketshot.fr
 0.0.0.0 markitondemand.com
+0.0.0.0 maropost.com
 0.0.0.0 martianstats.com
 0.0.0.0 maryneallynndyl.com
 0.0.0.0 masterstats.com
@@ -1544,6 +1545,7 @@
 0.0.0.0 pntrac.com
 0.0.0.0 pntrs.com
 0.0.0.0 pointomatic.com
+0.0.0.0 polarcdn-pentos.com
 0.0.0.0 popsample.com
 0.0.0.0 popt.in
 0.0.0.0 populr.me
@@ -1856,6 +1858,7 @@
 0.0.0.0 soflopxl.com
 0.0.0.0 softonic-analytics.net
 0.0.0.0 sojern.com
+0.0.0.0 soko.ai
 0.0.0.0 sokrati.com
 0.0.0.0 sometrics.com
 0.0.0.0 sophus3.com
