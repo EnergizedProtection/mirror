@@ -1,15 +1,12 @@
 0.0.0.0 74055djs.info
 0.0.0.0 aceadsys.net
 0.0.0.0 addon.downloadterms.com
-0.0.0.0 admdftjs.info
 0.0.0.0 adserver.iminent.com
 0.0.0.0 adsupplyads.com
 0.0.0.0 apiskywebbercom-a.akamaihd.net
 0.0.0.0 baixaki.com.br
 0.0.0.0 bestpriceninja.com
 0.0.0.0 bigfineads.com
-0.0.0.0 blkz2x.com
-0.0.0.0 bobrojs.info
 0.0.0.0 boostsaves.com
 0.0.0.0 browserutility1.net
 0.0.0.0 cbapp.com
@@ -35,7 +32,6 @@
 0.0.0.0 find-allyouneed.com
 0.0.0.0 flwapp.com
 0.0.0.0 ginyas.com
-0.0.0.0 gir.driveropti.net
 0.0.0.0 iabfjs.info
 0.0.0.0 iaftjs.info
 0.0.0.0 intext.nav-links.com
@@ -96,8 +92,8 @@
 
 # Hosts - adware-filters
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adware-filters.txt
-# Generated - 10.08.2018
+# Generated - 18.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 95
+# Total Domains: 91
 # License: MIT
 

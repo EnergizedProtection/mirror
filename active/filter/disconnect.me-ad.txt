@@ -167,7 +167,6 @@
 0.0.0.0 adadvisor.net
 0.0.0.0 adap.tv
 0.0.0.0 adapt.tv
-0.0.0.0 adbanner.ro
 0.0.0.0 adbard.net
 0.0.0.0 adblade.com
 0.0.0.0 adblockanalytics.com
@@ -212,7 +211,6 @@
 0.0.0.0 adengage.com
 0.0.0.0 adexpose.com
 0.0.0.0 adext.inkclub.com
-0.0.0.0 adf.ly
 0.0.0.0 adfactor.nl
 0.0.0.0 adfarm.mediaplex.com
 0.0.0.0 adflight.com
@@ -254,7 +252,6 @@
 0.0.0.0 adland.ru
 0.0.0.0 adledge.com
 0.0.0.0 adlegend.com
-0.0.0.0 adlink.de
 0.0.0.0 adlog.com.com
 0.0.0.0 adloox.com
 0.0.0.0 adlooxtracking.com
@@ -1057,7 +1054,6 @@
 0.0.0.0 bn.bfast.com
 0.0.0.0 boersego-ads.de
 0.0.0.0 boldchat.com
-0.0.0.0 boom.ro
 0.0.0.0 boomads.com
 0.0.0.0 boost-my-pr.de
 0.0.0.0 box.anchorfree.net
@@ -1122,7 +1118,6 @@
 0.0.0.0 chartbeat.net
 0.0.0.0 checkm8.com
 0.0.0.0 checkstat.nl
-0.0.0.0 chestionar.ro
 0.0.0.0 chitika.com
 0.0.0.0 chitika.net
 0.0.0.0 cibleclick.com
@@ -1509,7 +1504,6 @@
 0.0.0.0 idcounter.com
 0.0.0.0 iddiction.com
 0.0.0.0 identads.com
-0.0.0.0 idot.cz
 0.0.0.0 idregie.com
 0.0.0.0 idtargeting.com
 0.0.0.0 ientrymail.com
@@ -2219,7 +2213,6 @@
 0.0.0.0 switchadhub.com
 0.0.0.0 switchads.com
 0.0.0.0 swordfishdc.com
-0.0.0.0 sx.trhnt.com
 0.0.0.0 t.insigit.com
 0.0.0.0 t.pusk.ru
 0.0.0.0 taboola.com
@@ -2512,8 +2505,8 @@
 
 # Hosts - disconnect.me-ad
 # Source - https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Generated - 10.08.2018
+# Generated - 18.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 2511
+# Total Domains: 2504
 # License: MIT
 

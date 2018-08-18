@@ -14585,7 +14585,6 @@
 0.0.0.0 ad.yam.com.tw
 0.0.0.0 ad.yieldlab.net
 0.0.0.0 ad.yieldmanager.com
-0.0.0.0 ad.yieldpartners.com
 0.0.0.0 ad.yllix.com
 0.0.0.0 ad.yourmedia.com
 0.0.0.0 ad.yoyo.pl
@@ -15800,7 +15799,6 @@
 0.0.0.0 adbank.go2cloud.org
 0.0.0.0 adbanner.cz
 0.0.0.0 adbanner.mylinea.com
-0.0.0.0 adbanner.ro
 0.0.0.0 adbanners.bizland.com
 0.0.0.0 adbard.net
 0.0.0.0 adbazaar.go2cloud.org
@@ -15850,7 +15848,6 @@
 0.0.0.0 adclear.adclear.net
 0.0.0.0 adclear.net
 0.0.0.0 adclick.com
-0.0.0.0 adclick.de
 0.0.0.0 adclick.lv
 0.0.0.0 adclick.nl
 0.0.0.0 adclick.pk
@@ -15899,7 +15896,6 @@
 0.0.0.0 addupp.com
 0.0.0.0 addvaluemedia.go2affise.com
 0.0.0.0 addvaluemedia.go2cloud.org
-0.0.0.0 addynamics.eu
 0.0.0.0 addynamix.com
 0.0.0.0 addynamo.net
 0.0.0.0 ade.clmbtech.com
@@ -16312,7 +16308,6 @@
 0.0.0.0 adpetizer.go2cloud.org
 0.0.0.0 adpile.go2affise.com
 0.0.0.0 adpionier.de
-0.0.0.0 adplace.adsame.com
 0.0.0.0 adplace.i.adsame.com
 0.0.0.0 adplans.info
 0.0.0.0 adplans.net
@@ -16473,7 +16468,6 @@
 0.0.0.0 ads.babal.net
 0.0.0.0 ads.bakersfield.com
 0.0.0.0 ads.bangkokpost.co.th
-0.0.0.0 ads.banner-link.com.br
 0.0.0.0 ads.basal.ca
 0.0.0.0 ads.bcsyndication.com
 0.0.0.0 ads.befan.it
@@ -16753,7 +16747,6 @@
 0.0.0.0 ads.immobilienscout24.de
 0.0.0.0 ads.inbox.lv
 0.0.0.0 ads.incmd03.com
-0.0.0.0 ads.incmd09.com
 0.0.0.0 ads.indians.com
 0.0.0.0 ads.indiatimes.com
 0.0.0.0 ads.indystar.com
@@ -17990,7 +17983,6 @@
 0.0.0.0 adserving.hugecpm.com
 0.0.0.0 adserving.localpages.com
 0.0.0.0 adserving.mediatrafficreports.com
-0.0.0.0 adserving.pro
 0.0.0.0 adserving.supreme.clicksor.com
 0.0.0.0 adserving.uniquetrafficgroup.com
 0.0.0.0 adservinginternational.com
@@ -18141,7 +18133,6 @@
 0.0.0.0 adtagger.com
 0.0.0.0 adtaily.com
 0.0.0.0 adtank.go2cloud.org
-0.0.0.0 adtarget.ro
 0.0.0.0 adtds.trackads.net
 0.0.0.0 adtecc.com
 0.0.0.0 adtech.com
@@ -18444,7 +18435,6 @@
 0.0.0.0 adx.metanetwork.com
 0.0.0.0 adx.panet.co.il
 0.0.0.0 adxite.com
-0.0.0.0 adxmarket.com
 0.0.0.0 adxpansion.com
 0.0.0.0 adxpop.com
 0.0.0.0 adxpose.com
@@ -18468,7 +18458,6 @@
 0.0.0.0 aeekj.voluumtrk.com
 0.0.0.0 aehistory.112.2o7.net
 0.0.0.0 aeht9.voluumtrk.com
-0.0.0.0 aen.belugaboost.com
 0.0.0.0 aeps.112.2o7.net
 0.0.0.0 aetv.112.2o7.net
 0.0.0.0 aexp.demdex.net
@@ -18754,7 +18743,6 @@
 0.0.0.0 ak.webfetti.com
 0.0.0.0 ak1.abmr.net
 0.0.0.0 ak1.imgaft.com
-0.0.0.0 ak1s.abmr.net
 0.0.0.0 aka-cdn-ns.adtech.de
 0.0.0.0 aka-cdn-ns.adtechus.com
 0.0.0.0 aka-cdn.adtechus.com
@@ -19497,7 +19485,6 @@
 0.0.0.0 aud.pubmatic.com
 0.0.0.0 audi-club.ru
 0.0.0.0 audiag.112.2o7.net
-0.0.0.0 audience.powerlinks.com
 0.0.0.0 audience360.dpmsrv.com
 0.0.0.0 audio.digidip.net
 0.0.0.0 audio.iad.cimedia.net
@@ -20553,7 +20540,6 @@
 0.0.0.0 bannersgomlm.com
 0.0.0.0 bannersng.yell.com
 0.0.0.0 bannersolutions.com
-0.0.0.0 bannersolutions.de
 0.0.0.0 bannerspace.com
 0.0.0.0 bannersponsor.com
 0.0.0.0 bannerswap.com
@@ -20774,7 +20760,6 @@
 0.0.0.0 binglee-com-au.b.appier.net
 0.0.0.0 bingocabin.com
 0.0.0.0 bingsclspe.download
-0.0.0.0 bit.do
 0.0.0.0 bit.ehow.com
 0.0.0.0 bitable.com
 0.0.0.0 bitburg.adtech.fr
@@ -20798,7 +20783,6 @@
 0.0.0.0 blatfee.ero-advertising.com
 0.0.0.0 blazedlvlwzwt.download
 0.0.0.0 bleepingcomputer.us.intellitxt.com
-0.0.0.0 bleua.ecefibwja.xyz
 0.0.0.0 blindferretmedia.go2cloud.org
 0.0.0.0 blkget6.com
 0.0.0.0 blm.bz
@@ -20876,7 +20860,6 @@
 0.0.0.0 bonjikoa.com
 0.0.0.0 book-mark.net
 0.0.0.0 bookcorps.com
-0.0.0.0 boom.ro
 0.0.0.0 boomerang.com.au
 0.0.0.0 boomingsbzboqfg.download
 0.0.0.0 boomottkr.download
@@ -22311,7 +22294,6 @@
 0.0.0.0 bx.clickmedia.ro
 0.0.0.0 bxsql.clickmedia.ro
 0.0.0.0 bxtop.voluumtrk.com
-0.0.0.0 by.advertising.com
 0.0.0.0 bytecenter.com
 0.0.0.0 byxng.voluumtrk.com
 0.0.0.0 bzpibgazalternant.review
@@ -22868,7 +22850,6 @@
 0.0.0.0 cdn.niche.videosz.com
 0.0.0.0 cdn.o333o.com
 0.0.0.0 cdn.onescreen.net
-0.0.0.0 cdn.onlinecountdowns.com
 0.0.0.0 cdn.optimatic.com
 0.0.0.0 cdn.optimizely.com
 0.0.0.0 cdn.pardot.com
@@ -22961,10 +22942,8 @@
 0.0.0.0 cdn1.tags1.revdepo.com
 0.0.0.0 cdn1.traffichaus.com
 0.0.0.0 cdn1.tribalfusion.com
-0.0.0.0 cdn11.00zasdf.pw
 0.0.0.0 cdn11.abbp1.pw
 0.0.0.0 cdn11.contentabc.com
-0.0.0.0 cdn11.plmokn.pw
 0.0.0.0 cdn11.routehero.com
 0.0.0.0 cdn15.acloudimages.com
 0.0.0.0 cdn1b.adspace.porntube.com
@@ -23103,7 +23082,6 @@
 0.0.0.0 chefkoch01.webtrekk.net
 0.0.0.0 cherryaffiliates.omarsys.com
 0.0.0.0 chessmob.go2affise.com
-0.0.0.0 chestionar.ro
 0.0.0.0 chgqm.voluumtrk.com
 0.0.0.0 chi-only.outbrain.com
 0.0.0.0 chi2only.outbrain.com
@@ -23286,7 +23264,6 @@
 0.0.0.0 click.mobtimizer.com
 0.0.0.0 click.monstracking.com
 0.0.0.0 click.mz.simba.taobao.com
-0.0.0.0 click.news2.v3.email-publisher.com
 0.0.0.0 click.oxcash.com
 0.0.0.0 click.pandaapp.com
 0.0.0.0 click.payserve.com
@@ -23299,7 +23276,6 @@
 0.0.0.0 click.simba.taobao.com
 0.0.0.0 click.startappexchange.com
 0.0.0.0 click.tanx.com
-0.0.0.0 click.topica.com
 0.0.0.0 click.trklinklog.com
 0.0.0.0 click.tv.repubblica.it
 0.0.0.0 click.tz.simba.taobao.com
@@ -23323,7 +23299,6 @@
 0.0.0.0 clickability.net
 0.0.0.0 clickability.org
 0.0.0.0 clickable.com
-0.0.0.0 clickad.com.pl
 0.0.0.0 clickad.pl
 0.0.0.0 clickadin.com
 0.0.0.0 clickadscounter.com
@@ -23509,7 +23484,6 @@
 0.0.0.0 clvrtrkr.go2cloud.org
 0.0.0.0 clz3.net
 0.0.0.0 cm-cl35.fresheye.com
-0.0.0.0 cm.ac3.msn.com
 0.0.0.0 cm.adgrx.com
 0.0.0.0 cm.adkmob.com
 0.0.0.0 cm.dpclk.com
@@ -23563,7 +23537,6 @@
 0.0.0.0 cnnfn.savethis.clickability.com
 0.0.0.0 cnnglobal.122.2o7.net
 0.0.0.0 cnstats.cdev.eu
-0.0.0.0 cnt.in.bookmyshow.com
 0.0.0.0 cnt.likealaugh.org
 0.0.0.0 cnt.logoslovo.ru
 0.0.0.0 cnt.my
@@ -25224,7 +25197,6 @@
 0.0.0.0 cs9.livetex.ru
 0.0.0.0 csc.beap.bc.yahoo.com
 0.0.0.0 cshoppingbox.partner.leguide.com
-0.0.0.0 csi.gstatic.com
 0.0.0.0 csnation.us.intellitxt.com
 0.0.0.0 cso6i.voluumtrk.com
 0.0.0.0 csstatic.com
@@ -25305,7 +25277,6 @@
 0.0.0.0 cz8.clickzzs.nl
 0.0.0.0 czrqs.voluumtrk.com
 0.0.0.0 d.adcash.com
-0.0.0.0 d.addelive.com
 0.0.0.0 d.adroll.com
 0.0.0.0 d.adx.io
 0.0.0.0 d.adxcore.com
@@ -25318,9 +25289,6 @@
 0.0.0.0 d.billyaffcontent.com
 0.0.0.0 d.btttag.com
 0.0.0.0 d.chango.com
-0.0.0.0 d.delivery45.com
-0.0.0.0 d.delivery47.com
-0.0.0.0 d.delivery49.com
 0.0.0.0 d.delivery51.com
 0.0.0.0 d.financenewsalert.com
 0.0.0.0 d.foxadd.com
@@ -25622,7 +25590,6 @@
 0.0.0.0 dcvnupudgiest.review
 0.0.0.0 dcw.1592878.com
 0.0.0.0 dd.connextra.com
-0.0.0.0 dd.myapp.com
 0.0.0.0 ddefvibhjwoolfat.review
 0.0.0.0 ddfnmo6ev4fd.cloudfront.net
 0.0.0.0 ddgmb.voluumtrk.com
@@ -27674,7 +27641,6 @@
 0.0.0.0 free-counter.co.uk
 0.0.0.0 free-counters.co.uk
 0.0.0.0 free-stats.com
-0.0.0.0 free-stats.i8.com
 0.0.0.0 free.atdmt.com
 0.0.0.0 free.livejasmin.com
 0.0.0.0 free.realtracker.com
@@ -28138,7 +28104,6 @@
 0.0.0.0 go.adversal.com
 0.0.0.0 go.affec.tv
 0.0.0.0 go.by
-0.0.0.0 go.clickhoptk.com
 0.0.0.0 go.clicktrackopt.com
 0.0.0.0 go.coxds.com
 0.0.0.0 go.deliverymodo.com
@@ -29346,7 +29311,6 @@
 0.0.0.0 indocpa.go2cloud.org
 0.0.0.0 indoorspkacwv.download
 0.0.0.0 industryclick.com
-0.0.0.0 indystar.com
 0.0.0.0 inebriatesqmwpaz.download
 0.0.0.0 inedo.com
 0.0.0.0 inentasky.com
@@ -30303,7 +30267,6 @@
 0.0.0.0 log.advista.no
 0.0.0.0 log.amitshah.net
 0.0.0.0 log.btopenworld.com
-0.0.0.0 log.chartbeat.com
 0.0.0.0 log.formr.io
 0.0.0.0 log.gemscool.com
 0.0.0.0 log.go.com
@@ -31184,7 +31147,6 @@
 0.0.0.0 mobile18.in.com
 0.0.0.0 mobileactive.com
 0.0.0.0 mobileads.ero-advertising.com
-0.0.0.0 mobileads.mobilebanner.net
 0.0.0.0 mobileads.msn.com
 0.0.0.0 mobileadvertisinghub.com
 0.0.0.0 mobileapptracking.com
@@ -32840,7 +32802,6 @@
 0.0.0.0 pn2.adserver.yahoo.com
 0.0.0.0 pnx6n.voluumtrk.com
 0.0.0.0 pnytimes.chartbeat.net
-0.0.0.0 po.st
 0.0.0.0 pocketmedia.go2cloud.org
 0.0.0.0 pocketpc.digidip.net
 0.0.0.0 poconorecordcom.112.2o7.net
@@ -34367,6 +34328,7 @@
 0.0.0.0 securejump.net
 0.0.0.0 securemetrics.apple.com
 0.0.0.0 securepaths.com
+0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 securestudies.com
 0.0.0.0 securetracking2.com
 0.0.0.0 secursors.com
@@ -35033,6 +34995,7 @@
 0.0.0.0 ssl-vznetzst.ivwbox.de
 0.0.0.0 ssl-youtube.2cnt.net
 0.0.0.0 ssl.clickbank.net
+0.0.0.0 ssl.google-analytics.com
 0.0.0.0 ssl.linksynergy.com
 0.0.0.0 ssl.luckyorange.com
 0.0.0.0 ssl.safepoollink.com
@@ -37191,6 +37154,7 @@
 0.0.0.0 umbel.com
 0.0.0.0 umbs.ero-advertising.com
 0.0.0.0 umeng.com
+0.0.0.0 umprow.com
 0.0.0.0 ums.adtech.de
 0.0.0.0 unadvertising.info
 0.0.0.0 unboxingdotfb.download
@@ -45002,8 +44966,8 @@
 
 # Hosts - hosts-file.net-ats
 # Source - https://hosts-file.net/ad_servers.txt
-# Generated - 10.08.2018
+# Generated - 18.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 45001
+# Total Domains: 44965
 # License: MIT
 

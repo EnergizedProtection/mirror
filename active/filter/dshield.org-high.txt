@@ -17,7 +17,6 @@
 0.0.0.0 aqmip.fr
 0.0.0.0 as3ws.fopyirr.com
 0.0.0.0 avast-mail-security.download
-0.0.0.0 az-armaturen.su
 0.0.0.0 b4youfred5485jgsa3453f.italazudda.com
 0.0.0.0 bright.su
 0.0.0.0 chhathpuja.com
@@ -58,10 +57,6 @@
 0.0.0.0 gyodundena.hotmail.ru
 0.0.0.0 h3ds4.maconslab.com
 0.0.0.0 h5nuwefkuh134ljngkasdbasfg.corolbugan.com
-0.0.0.0 hjhqmbxyinislkkt.18lmhb.top
-0.0.0.0 hjhqmbxyinislkkt.18zrup.top
-0.0.0.0 hjhqmbxyinislkkt.1bcnad.top
-0.0.0.0 hjhqmbxyinislkkt.1jmip6.top
 0.0.0.0 hrfgd74nfksjdcnnklnwefvdsf.materdunst.com
 0.0.0.0 hruner.com
 0.0.0.0 hui-ain-apparel.tk
@@ -76,7 +71,6 @@
 0.0.0.0 islenpiding.hotmail.ru
 0.0.0.0 ivansaru.418.com1.ru
 0.0.0.0 jangasm.org
-0.0.0.0 jazmany.cu.ma
 0.0.0.0 jhomitevd2abj3fk.onion.to
 0.0.0.0 juhacjacjckclqf.pw
 0.0.0.0 k234s.ascotsprue.com
@@ -119,25 +113,19 @@
 0.0.0.0 ojmekzw4mujvqeju.bioserv.at
 0.0.0.0 ojmekzw4mujvqeju.dreamtest.at
 0.0.0.0 oqwygprskqv65j72.12kb9j.top
-0.0.0.0 oqwygprskqv65j72.13gpqd.top
-0.0.0.0 oqwygprskqv65j72.13rdvu.top
-0.0.0.0 oqwygprskqv65j72.14jqyo.top
 0.0.0.0 oqwygprskqv65j72.17q8f6.top
 0.0.0.0 oqwygprskqv65j72.1aj1bb.top
-0.0.0.0 oqwygprskqv65j72.1d88b8.top
 0.0.0.0 oqwygprskqv65j72.1dofqx.top
 0.0.0.0 oqwygprskqv65j72.1fdlhn.top
-0.0.0.0 oqwygprskqv65j72.1fs9pz.top
 0.0.0.0 oqwygprskqv65j72.1gam57.top
 0.0.0.0 oqwygprskqv65j72.1gqj8x.top
-0.0.0.0 oqwygprskqv65j72.1hbdbx.top
 0.0.0.0 oqwygprskqv65j72.1j1x2b.top
 0.0.0.0 oqwygprskqv65j72.1jquw7.top
-0.0.0.0 oqwygprskqv65j72.1kh9ct.top
 0.0.0.0 oqwygprskqv65j72.1mudaw.top
 0.0.0.0 oqwygprskqv65j72.1nzpby.top
 0.0.0.0 ozfin.ru
 0.0.0.0 p-alpha.ooo.al
+0.0.0.0 pagaldaily.com
 0.0.0.0 pandyi.com
 0.0.0.0 panel.vargakragard.se
 0.0.0.0 pharirgatic.hotmail.ru
@@ -228,8 +216,8 @@
 
 # Hosts - dshield.org-high
 # Source - https://www.dshield.org/feeds/suspiciousdomains_High.txt
-# Generated - 10.08.2018
+# Generated - 18.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 227
+# Total Domains: 215
 # License: MIT
 

@@ -37,7 +37,6 @@
 0.0.0.0 bitspark2.com
 0.0.0.0 bitstannp.net
 0.0.0.0 bittirrex.com
-0.0.0.0 bittrex.cash
 0.0.0.0 bittrex.com11648724328774.cf
 0.0.0.0 bittrex.com1987465798.ga
 0.0.0.0 bittrex.comze.com
@@ -56,7 +55,6 @@
 0.0.0.0 blockcrein.info
 0.0.0.0 blocklichan.info
 0.0.0.0 blocknux.com
-0.0.0.0 blockstack.network
 0.0.0.0 bloclkicihan.info
 0.0.0.0 blodkchainwallet.com
 0.0.0.0 blodkchainwallet.info
@@ -70,7 +68,6 @@
 0.0.0.0 bluzelle.cc
 0.0.0.0 bluzelle.eu
 0.0.0.0 bluzelle.im
-0.0.0.0 bluzelle.network
 0.0.0.0 breadtokenapp.com
 0.0.0.0 bricklblock.io
 0.0.0.0 byzantiumfork.com
@@ -78,8 +75,6 @@
 0.0.0.0 cashaa.co
 0.0.0.0 cedarlake.org
 0.0.0.0 centra-token.com
-0.0.0.0 centra.credit
-0.0.0.0 centra.vip
 0.0.0.0 chainlink.tech
 0.0.0.0 chainlinksmartcontract.com
 0.0.0.0 change-bank.co
@@ -87,7 +82,6 @@
 0.0.0.0 changellyl.net
 0.0.0.0 changellyli.com
 0.0.0.0 charge-bank.com
-0.0.0.0 cindicator.network
 0.0.0.0 claimbcd.com
 0.0.0.0 claimether.com
 0.0.0.0 cloudkitties.co
@@ -99,8 +93,6 @@
 0.0.0.0 coin-wallet.info
 0.0.0.0 coin.red-puise.com
 0.0.0.0 coindash.ml
-0.0.0.0 coindash.ru
-0.0.0.0 coindash.tech
 0.0.0.0 coinkbase.com
 0.0.0.0 coinrbase.com
 0.0.0.0 coinswallet.info
@@ -113,7 +105,6 @@
 0.0.0.0 daditoken.com
 0.0.0.0 dai-stablecoin.com
 0.0.0.0 data-token.com
-0.0.0.0 datum.sale
 0.0.0.0 decentraiand.org
 0.0.0.0 decentraland.pro
 0.0.0.0 decentralland.org
@@ -854,8 +845,8 @@
 
 # Hosts - eth-phishing-detect
 # Source - https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/master/src/hosts.txt
-# Generated - 10.08.2018
+# Generated - 18.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 853
+# Total Domains: 844
 # License: MIT
 

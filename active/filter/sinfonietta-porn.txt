@@ -166,7 +166,6 @@
 0.0.0.0 adserver.realhomesex.net
 0.0.0.0 adserver.sextracker.com
 0.0.0.0 adsgangsta.com
-0.0.0.0 adult-adv.com
 0.0.0.0 adult-banner-ads.com
 0.0.0.0 adult-clips.us
 0.0.0.0 adult-extreme.com
@@ -295,7 +294,6 @@
 0.0.0.0 anal-webcams.com
 0.0.0.0 analdildolesbians.com
 0.0.0.0 analytics.pimproll.com
-0.0.0.0 anawjarrate.info
 0.0.0.0 angel-anime.com
 0.0.0.0 angel-collection.com
 0.0.0.0 angel-companions.co.uk
@@ -309,7 +307,6 @@
 0.0.0.0 angel.cn8828.com
 0.0.0.0 angel.comcen.com.au
 0.0.0.0 angel.ne.jp
-0.0.0.0 angel.se
 0.0.0.0 angel20.com
 0.0.0.0 angel4christyb.com
 0.0.0.0 angel4host.com
@@ -329,7 +326,6 @@
 0.0.0.0 angelagrant.com
 0.0.0.0 angelalittle.net
 0.0.0.0 angelamelini.com
-0.0.0.0 angelartemis.an.ohost.de
 0.0.0.0 angelaryan.com
 0.0.0.0 angelasalvagno.com
 0.0.0.0 angelasavage.com
@@ -432,7 +428,6 @@
 0.0.0.0 angelmodel.book.fr
 0.0.0.0 angelmodel.info
 0.0.0.0 angelmovies.com
-0.0.0.0 angelnicole.co.uk
 0.0.0.0 angelochec.net
 0.0.0.0 angelofmalevolence.com
 0.0.0.0 angelopetibatoo.free.fr
@@ -495,7 +490,6 @@
 0.0.0.0 angelvalentine.org
 0.0.0.0 angelwhite.extra.hu
 0.0.0.0 angelwoods.com
-0.0.0.0 angelys-club.fr
 0.0.0.0 animal-cartoons.com
 0.0.0.0 animal6.net
 0.0.0.0 animalrating.com
@@ -904,7 +898,6 @@
 0.0.0.0 cheapadultdvd.com
 0.0.0.0 cheekybanners.com
 0.0.0.0 cheggit.me
-0.0.0.0 cherrynovelty.com
 0.0.0.0 chezangelique.free.fr
 0.0.0.0 chibiangel86.bravejournal.com
 0.0.0.0 chicasenwebcams.com
@@ -2986,6 +2979,7 @@
 0.0.0.0 sexdating.com
 0.0.0.0 sexdisney.com
 0.0.0.0 sexfg.com
+0.0.0.0 sexfortuna.com
 0.0.0.0 sexgalaxy.net
 0.0.0.0 sexgangsters.com
 0.0.0.0 sexhunter.x0.nl
@@ -5375,6 +5369,7 @@
 0.0.0.0 www.sexdisney.com
 0.0.0.0 www.sexfg.com
 0.0.0.0 www.sexfind.com
+0.0.0.0 www.sexfortuna.com
 0.0.0.0 www.sexinyourcity.com
 0.0.0.0 www.sexlist.com
 0.0.0.0 www.sexmaxx.com
@@ -6058,8 +6053,8 @@
 
 # Hosts - sinfonietta-porn
 # Source - https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/pornography-hosts
-# Generated - 10.08.2018
+# Generated - 18.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 6057
+# Total Domains: 6052
 # License: MIT
 

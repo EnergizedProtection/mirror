@@ -32,10 +32,8 @@
 0.0.0.0 ab4tn.com
 0.0.0.0 abakys.ru
 0.0.0.0 abbp1.pw
-0.0.0.0 abbp2.pw
 0.0.0.0 abgeobalancer.com
 0.0.0.0 abusedbabysitters.com
-0.0.0.0 acceptableads.pw
 0.0.0.0 accesssearch.click
 0.0.0.0 acmexxx.com
 0.0.0.0 actionlocker.com
@@ -73,7 +71,6 @@
 0.0.0.0 adultlinkexchange.com
 0.0.0.0 adultmediabuying.com
 0.0.0.0 adultmoviegroup.com
-0.0.0.0 adultoafiliados.com.br
 0.0.0.0 adultsense.com
 0.0.0.0 adultsense.org
 0.0.0.0 adulttubetraffic.com
@@ -91,7 +88,6 @@
 0.0.0.0 advredir.com
 0.0.0.0 advsense.info
 0.0.0.0 adxite.com
-0.0.0.0 adxmarket.com
 0.0.0.0 adxpansion.com
 0.0.0.0 adzs.com
 0.0.0.0 aemediatraffic.com
@@ -116,7 +112,6 @@
 0.0.0.0 apromoweb.com
 0.0.0.0 are-ter.com
 0.0.0.0 asiafriendfinder.com
-0.0.0.0 aufderhar.net
 0.0.0.0 augrenso.com
 0.0.0.0 automoc.net
 0.0.0.0 awentw.com
@@ -216,7 +211,6 @@
 0.0.0.0 datingamateurs.com
 0.0.0.0 datingcensored.com
 0.0.0.0 datingidol.com
-0.0.0.0 dblpmp.com
 0.0.0.0 deecash.com
 0.0.0.0 dematom.com
 0.0.0.0 digitaldesire.com
@@ -802,8 +796,8 @@
 
 # Hosts - easylist-adult-adservers
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easylist-adult-adservers.txt
-# Generated - 10.08.2018
+# Generated - 18.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 801
+# Total Domains: 795
 # License: MIT
 

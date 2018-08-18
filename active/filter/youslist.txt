@@ -113,7 +113,7 @@
 
 # Hosts - youslist
 # Source - https://raw.githubusercontent.com/yous/YousList/master/hosts.txt
-# Generated - 10.08.2018
+# Generated - 18.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 112
 # License: MIT

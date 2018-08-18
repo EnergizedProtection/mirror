@@ -243,7 +243,6 @@
 0.0.0.0 77search.com
 0.0.0.0 78843.hittail.com
 0.0.0.0 79423.analytics.edgekey.net
-0.0.0.0 79423.analytics.edgesuite.net
 0.0.0.0 7979.nosubid.blueseek.com
 0.0.0.0 7search.com
 0.0.0.0 7vws1j1j.com
@@ -304,7 +303,6 @@
 0.0.0.0 a.fox.com
 0.0.0.0 a.giantrealm.com
 0.0.0.0 a.global.msads.net
-0.0.0.0 a.goember.com
 0.0.0.0 a.gsmarena.com
 0.0.0.0 a.heavy-r.com
 0.0.0.0 a.heretv.com
@@ -1237,7 +1235,6 @@
 0.0.0.0 ads.indexinfo.org
 0.0.0.0 ads.inews.bg
 0.0.0.0 ads.infomediainc.com
-0.0.0.0 ads.insmarket.bg
 0.0.0.0 ads.inspirestudio.net
 0.0.0.0 ads.intergi.com
 0.0.0.0 ads.investingchannel.com
@@ -1926,7 +1923,6 @@
 0.0.0.0 advert.travlang.com
 0.0.0.0 advert.uloz.to
 0.0.0.0 advert2.ananzi.co.za
-0.0.0.0 advertisement.bg
 0.0.0.0 advertisementnl.112.2o7.net
 0.0.0.0 advertising.bayoubuzz.com
 0.0.0.0 advertising.com
@@ -2048,7 +2044,6 @@
 0.0.0.0 ak.quantcast.com
 0.0.0.0 ak.sail-horizon.com
 0.0.0.0 ak1.abmr.net
-0.0.0.0 ak1s.abmr.net
 0.0.0.0 aka-cdn-ns.adtech.de
 0.0.0.0 aka-cdn-ns.adtechus.com
 0.0.0.0 aka-cdn.adtech.de
@@ -2749,7 +2744,6 @@
 0.0.0.0 bbc.112.2o7.net
 0.0.0.0 bbcdn-bbnaut.ibillboard.com
 0.0.0.0 bbcdn-tag.ibillboard.com
-0.0.0.0 bbcdn.code.intext.billboard.cz
 0.0.0.0 bbcdn.code.new.smartcontext.pl
 0.0.0.0 bbcdn.go.adlv.bbelements.com
 0.0.0.0 bbcdn.go.arbopl.bbelements.com
@@ -3722,7 +3716,6 @@
 0.0.0.0 code.directadvert.ru
 0.0.0.0 code.etracker.com
 0.0.0.0 code.impresionesweb.com
-0.0.0.0 code.intext.billboard.cz
 0.0.0.0 code.poptm.com
 0.0.0.0 code.rtbsystem.com
 0.0.0.0 code.superstats.com
@@ -3858,7 +3851,6 @@
 0.0.0.0 cooltechzone.us.intellitxt.com
 0.0.0.0 coolwebstats.com
 0.0.0.0 coop.crwdcntrl.net
-0.0.0.0 core.ad20.net
 0.0.0.0 core.adunity.com
 0.0.0.0 core.bluefly.com
 0.0.0.0 core.insightexpressai.com
@@ -5011,7 +5003,6 @@
 0.0.0.0 fr.slidein.clickintext.net
 0.0.0.0 freakads.com
 0.0.0.0 free-stats.com
-0.0.0.0 free-stats.i8.com
 0.0.0.0 free.adultcomix.biz
 0.0.0.0 free.aol.com
 0.0.0.0 free.cartoonpornguide.com
@@ -5170,7 +5161,6 @@
 0.0.0.0 geo.qualaroo.com
 0.0.0.0 geo.query.yahoo.com
 0.0.0.0 geo.safelinktracker.com
-0.0.0.0 geo.sanoma.fi
 0.0.0.0 geo.widdit.com
 0.0.0.0 geo.xxxblackbook.com
 0.0.0.0 geo.yad2.co.il
@@ -5526,7 +5516,6 @@
 0.0.0.0 hlamedia.adk2x.com
 0.0.0.0 hlok.qertewrt.com
 0.0.0.0 hm.d1.sc.omtrdc.net
-0.0.0.0 hm.webtrends.com
 0.0.0.0 hmortensen.tns-cs.net
 0.0.0.0 hngn.com.us.intellitxt.com
 0.0.0.0 hollyrude.us.intellitxt.com
@@ -9446,6 +9435,7 @@
 0.0.0.0 ssl-sl-retargeting.adsonar.com
 0.0.0.0 ssl-vg03.met.vgwort.de
 0.0.0.0 ssl.clickbank.net
+0.0.0.0 ssl.google-analytics.com
 0.0.0.0 ssl.mousestats.com
 0.0.0.0 ssl.siteimprove.com
 0.0.0.0 ssl.xplosion.de
@@ -12333,8 +12323,8 @@
 
 # Hosts - winhelp2002.mvps.org
 # Source - http://winhelp2002.mvps.org/hosts.txt
-# Generated - 10.08.2018
+# Generated - 18.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 12332
+# Total Domains: 12322
 # License: MIT
 

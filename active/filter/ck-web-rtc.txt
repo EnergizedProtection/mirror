@@ -15,7 +15,6 @@
 0.0.0.0 5link.ir
 0.0.0.0 5ok.com.ru
 0.0.0.0 5ok.com.ua
-0.0.0.0 6blog.ir
 0.0.0.0 703804.com
 0.0.0.0 7ganj.ir
 0.0.0.0 80lou.com
@@ -33,12 +32,10 @@
 0.0.0.0 agariopvp.biz
 0.0.0.0 agricultureinstructor.blogspot.com
 0.0.0.0 agromedia.rs
-0.0.0.0 akhbarejavan.ir
 0.0.0.0 alirezaclassseven.ir
 0.0.0.0 allcigs.com
 0.0.0.0 allgameonline.net
 0.0.0.0 amissexy.com
-0.0.0.0 anaface.ir
 0.0.0.0 android-er.blogspot.com
 0.0.0.0 android-revolution-hd.blogspot.com
 0.0.0.0 androidandme.com
@@ -88,11 +85,9 @@
 0.0.0.0 blacktube.com
 0.0.0.0 blivakker.no
 0.0.0.0 blivuartignu.com
-0.0.0.0 blueblog.ir
 0.0.0.0 bluewin.ch
 0.0.0.0 bollywoodkart.com
 0.0.0.0 bookmarkrally.info
-0.0.0.0 boursenovin.ir
 0.0.0.0 brandsdal.no
 0.0.0.0 bravefrontierglobal.blogspot.com
 0.0.0.0 btstor.xyz
@@ -280,7 +275,6 @@
 0.0.0.0 hellohotties.com
 0.0.0.0 hepan.com
 0.0.0.0 himexam.net
-0.0.0.0 hollywoodlife.com
 0.0.0.0 homage.com
 0.0.0.0 homewp.ir
 0.0.0.0 hookupsfinder.com
@@ -672,8 +666,8 @@
 
 # Hosts - ck-web-rtc
 # Source - https://raw.githubusercontent.com/CHEF-KOCH/WebRTC-tracking/master/WebRTC.txt
-# Generated - 10.08.2018
+# Generated - 18.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 671
+# Total Domains: 665
 # License: MIT
 

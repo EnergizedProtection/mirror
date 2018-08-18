@@ -28,10 +28,6 @@
 0.0.0.0 gwe32fdr74bhfsyujb34gfszfv.zatcurr.com
 0.0.0.0 h3ds4.maconslab.com
 0.0.0.0 h5nuwefkuh134ljngkasdbasfg.corolbugan.com
-0.0.0.0 hjhqmbxyinislkkt.18lmhb.top
-0.0.0.0 hjhqmbxyinislkkt.18zrup.top
-0.0.0.0 hjhqmbxyinislkkt.1bcnad.top
-0.0.0.0 hjhqmbxyinislkkt.1jmip6.top
 0.0.0.0 hrfgd74nfksjdcnnklnwefvdsf.materdunst.com
 0.0.0.0 i01001.dgn.vn
 0.0.0.0 i3ezlvkoi7fwyood.onion.to
@@ -61,21 +57,14 @@
 0.0.0.0 ojmekzw4mujvqeju.bioserv.at
 0.0.0.0 ojmekzw4mujvqeju.dreamtest.at
 0.0.0.0 oqwygprskqv65j72.12kb9j.top
-0.0.0.0 oqwygprskqv65j72.13gpqd.top
-0.0.0.0 oqwygprskqv65j72.13rdvu.top
-0.0.0.0 oqwygprskqv65j72.14jqyo.top
 0.0.0.0 oqwygprskqv65j72.17q8f6.top
 0.0.0.0 oqwygprskqv65j72.1aj1bb.top
-0.0.0.0 oqwygprskqv65j72.1d88b8.top
 0.0.0.0 oqwygprskqv65j72.1dofqx.top
 0.0.0.0 oqwygprskqv65j72.1fdlhn.top
-0.0.0.0 oqwygprskqv65j72.1fs9pz.top
 0.0.0.0 oqwygprskqv65j72.1gam57.top
 0.0.0.0 oqwygprskqv65j72.1gqj8x.top
-0.0.0.0 oqwygprskqv65j72.1hbdbx.top
 0.0.0.0 oqwygprskqv65j72.1j1x2b.top
 0.0.0.0 oqwygprskqv65j72.1jquw7.top
-0.0.0.0 oqwygprskqv65j72.1kh9ct.top
 0.0.0.0 oqwygprskqv65j72.1mudaw.top
 0.0.0.0 oqwygprskqv65j72.1nzpby.top
 0.0.0.0 ozfin.ru
@@ -132,8 +121,8 @@
 
 # Hosts - ransomwaretracker.abuse.ch
 # Source - https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt
-# Generated - 10.08.2018
+# Generated - 18.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 131
+# Total Domains: 120
 # License: MIT
 

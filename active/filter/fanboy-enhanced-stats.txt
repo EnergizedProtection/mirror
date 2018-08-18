@@ -1,4 +1,3 @@
-0.0.0.0 adblockers-ns.servicebus.windows.net
 0.0.0.0 algorithmia.com
 0.0.0.0 areyouahuman.com
 0.0.0.0 avgthreatlabs.com
@@ -98,8 +97,8 @@
 
 # Hosts - fanboy-enhanced-stats
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/fanboy-enhanced-stats.txt
-# Generated - 10.08.2018
+# Generated - 18.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 97
+# Total Domains: 96
 # License: MIT
 

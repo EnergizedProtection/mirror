@@ -29,7 +29,6 @@
 0.0.0.0 2a6ks2.blow.harrisretreat.com
 0.0.0.0 2ggfhp.pal.wkcengland.co.uk
 0.0.0.0 2hjd24.shet.eveshamairporttransfers.co.uk
-0.0.0.0 2mnxpe.kozer.2ndincome4u.org.uk
 0.0.0.0 2nfupu.kal.wkcengland.com
 0.0.0.0 2nmh93.gay.tathamservice.com
 0.0.0.0 2npqau.last.pershoreairporttaxis.co.uk
@@ -107,7 +106,6 @@
 0.0.0.0 7zea66.hbg.hebdenbridgedental.co.uk
 0.0.0.0 7zrc9f.shet.eveshamairporttransfers.co.uk
 0.0.0.0 815z6a.nt.nativetrees.co.uk
-0.0.0.0 887gsc.kozer.2ndincome4u.org.uk
 0.0.0.0 88c4v9.lol.airporttaxipershore.co.uk
 0.0.0.0 8bgatc.mat.eveshamairporttaxis.co.uk
 0.0.0.0 8bk6em.come.evesham-taxis.co.uk
@@ -214,7 +212,6 @@
 0.0.0.0 bvtjuy.koll.pershoreairporttransfers.co.uk
 0.0.0.0 bye.ancestrybloodhound.info
 0.0.0.0 byznw1.moro.pershoreprivatehire.co.uk
-0.0.0.0 bzawfy.kozer.2ndincome4u.org.uk
 0.0.0.0 c1k8zh.pal.wkcengland.co.uk
 0.0.0.0 c5nwe9.gow.englishwoodlands.co.uk
 0.0.0.0 c9mowk.pool.pchamberlain.co.uk
@@ -228,7 +225,6 @@
 0.0.0.0 cdu1um.beg.smalltailsbfr.com
 0.0.0.0 cgcgff.servicemanagementforumusa.com
 0.0.0.0 cheap-florida-fr44.com
-0.0.0.0 chrabv.kozer.2ndincome4u.org.uk
 0.0.0.0 close.i-kiddi.com
 0.0.0.0 clubtenisunion.cl
 0.0.0.0 cmdonbd.jamaicankiss.com
@@ -279,7 +275,6 @@
 0.0.0.0 dsnt5t.lol.airporttaxipershore.co.uk
 0.0.0.0 dsrqha.gay.tathamservice.com
 0.0.0.0 dthrgy.nt.nativetrees.co.uk
-0.0.0.0 dtwucw.net.a1traveldirect.co.uk
 0.0.0.0 dzyf7f.beg.smalltailsbfr.com
 0.0.0.0 e2f5op.nt.nativetrees.co.uk
 0.0.0.0 e34nbf.last.pershoreairporttaxis.co.uk
@@ -372,7 +367,6 @@
 0.0.0.0 g3wqaj.jik.thetreecentre.com
 0.0.0.0 g4pytz.beg.smalltailsbfr.com
 0.0.0.0 gamx4c.idf.iandunford.co.uk
-0.0.0.0 gaumtj.net.a1traveldirect.co.uk
 0.0.0.0 gav5m7.yell.back2balancephysio.co.uk
 0.0.0.0 gbn5eb.jik.thetreecentre.com
 0.0.0.0 geer.exposedreport.com
@@ -1058,8 +1052,8 @@
 
 # Hosts - hosts-file.net-exp
 # Source - https://hosts-file.net/exp.txt
-# Generated - 10.08.2018
+# Generated - 18.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 1057
+# Total Domains: 1051
 # License: MIT
 

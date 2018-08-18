@@ -115,7 +115,6 @@
 0.0.0.0 ad-delivery.net
 0.0.0.0 ad-flow.com
 0.0.0.0 ad-gbn.com
-0.0.0.0 ad-goi.com
 0.0.0.0 ad-indicator.com
 0.0.0.0 ad-maven.com
 0.0.0.0 ad-media.org
@@ -339,6 +338,7 @@
 0.0.0.0 adex.cloud
 0.0.0.0 adex.tech
 0.0.0.0 adexchange.io
+0.0.0.0 adexpose.com
 0.0.0.0 adext.inkclub.com
 0.0.0.0 adextent.com
 0.0.0.0 adf01.net
@@ -924,7 +924,6 @@
 0.0.0.0 ads.wwe.biz
 0.0.0.0 ads.xdne.com
 0.0.0.0 ads.xhamster.com
-0.0.0.0 ads.xprofiles.com
 0.0.0.0 ads.xtra.co.nz
 0.0.0.0 ads.xxxad.net
 0.0.0.0 ads.y-0.net
@@ -1359,7 +1358,6 @@
 0.0.0.0 applovin.com
 0.0.0.0 appnexus.com
 0.0.0.0 appolicious.com
-0.0.0.0 apportium.com
 0.0.0.0 appredeem.com
 0.0.0.0 approstar.com
 0.0.0.0 appsfire.com
@@ -1558,10 +1556,10 @@
 0.0.0.0 beringmedia.com
 0.0.0.0 best-pr.info
 0.0.0.0 best-top.ro
-0.0.0.0 bestcasinopartner.com
 0.0.0.0 bestdeals.ws
 0.0.0.0 bestforexpartners.com
 0.0.0.0 bestgameads.com
+0.0.0.0 besthitsnow.com
 0.0.0.0 bestofferdirect.com
 0.0.0.0 bestonlinecoupons.com
 0.0.0.0 bestpricewala.com
@@ -1691,6 +1689,7 @@
 0.0.0.0 campaign.bharatmatrimony.com
 0.0.0.0 campanja.com
 0.0.0.0 caniamedia.com
+0.0.0.0 canoeklix.com
 0.0.0.0 capacitygrid.com
 0.0.0.0 captifymedia.com
 0.0.0.0 carbonads.com
@@ -2009,7 +2008,6 @@
 0.0.0.0 ditdotsol.com
 0.0.0.0 ditwrite.com
 0.0.0.0 dj-updates.com
-0.0.0.0 dltags.com
 0.0.0.0 dmtracker.com
 0.0.0.0 dmu20vut.com
 0.0.0.0 dnads.directnic.com
@@ -2066,7 +2064,6 @@
 0.0.0.0 e7081.g.akamaiedge.net
 0.0.0.0 e8960.e2.akamaiedge.net
 0.0.0.0 e9mlrvy1.com
-0.0.0.0 eads.to
 0.0.0.0 earnify.com
 0.0.0.0 eas.almamedia.fi
 0.0.0.0 easyflirt-partners.biz
@@ -2339,7 +2336,6 @@
 0.0.0.0 hb-247.com
 0.0.0.0 healthaffiliatesnetwork.com
 0.0.0.0 hebiichigo.com
-0.0.0.0 helloreverb.com
 0.0.0.0 help.bingads.microsoft.com
 0.0.0.0 hentaicounter.com
 0.0.0.0 herocpm.com
@@ -2387,9 +2383,6 @@
 0.0.0.0 hotkeys.com
 0.0.0.0 hotlog.ru
 0.0.0.0 hotrank.com.tw
-0.0.0.0 hotwords.com
-0.0.0.0 hotwords.com.br
-0.0.0.0 hotwords.com.mx
 0.0.0.0 hoverr.co
 0.0.0.0 hoverr.media
 0.0.0.0 hplose.de
@@ -2423,7 +2416,6 @@
 0.0.0.0 icptrack.com
 0.0.0.0 idealmedia.com
 0.0.0.0 identads.com
-0.0.0.0 idot.cz
 0.0.0.0 idownloadgalore.com
 0.0.0.0 idreammedia.com
 0.0.0.0 idtargeting.com
@@ -2579,6 +2571,7 @@
 0.0.0.0 julysystems.com
 0.0.0.0 jumboaffiliates.com
 0.0.0.0 jumia.com.ng
+0.0.0.0 jumptap.com
 0.0.0.0 jursp.com
 0.0.0.0 justrelevant.com
 0.0.0.0 jzwjq.ads.tremorhub.com
@@ -2778,7 +2771,6 @@
 0.0.0.0 media6degrees.com
 0.0.0.0 mediaarea.eu
 0.0.0.0 mediabrix.com
-0.0.0.0 mediadvertising.ro
 0.0.0.0 mediaffiliation.com
 0.0.0.0 mediaforce.com
 0.0.0.0 mediaforge.com
@@ -3060,7 +3052,6 @@
 0.0.0.0 onad.eu
 0.0.0.0 onads.com
 0.0.0.0 onclkds.com
-0.0.0.0 oneandonlynetwork.com
 0.0.0.0 onenetworkdirect.com
 0.0.0.0 onenetworkdirect.net
 0.0.0.0 onespot.com
@@ -3103,7 +3094,6 @@
 0.0.0.0 othersonline.com
 0.0.0.0 otto-images.developershed.com
 0.0.0.0 out-there-media.com
-0.0.0.0 overturs.com
 0.0.0.0 ovtopli.ru
 0.0.0.0 owebmoney.ru
 0.0.0.0 owlads.io
@@ -3206,7 +3196,6 @@
 0.0.0.0 platformiq-del.aquaplatform.com
 0.0.0.0 platinumadvertisement.com
 0.0.0.0 play4traffic.com
-0.0.0.0 playhaven.com
 0.0.0.0 playukinternet.com
 0.0.0.0 pleeko.com
 0.0.0.0 plenomedia.com
@@ -3325,7 +3314,6 @@
 0.0.0.0 pubmatic.com
 0.0.0.0 pubnation.com
 0.0.0.0 pubs.lemonde.fr
-0.0.0.0 pubted.com
 0.0.0.0 pubx.co
 0.0.0.0 puhtml.com
 0.0.0.0 pulsemgr.com
@@ -3596,7 +3584,6 @@
 0.0.0.0 sin1-ib.adnxs.com
 0.0.0.0 sinoa.com
 0.0.0.0 siteencore.com
-0.0.0.0 sitemeter.com
 0.0.0.0 sitescout.com
 0.0.0.0 sitescoutadserver.com
 0.0.0.0 sitestat.com
@@ -3657,7 +3644,6 @@
 0.0.0.0 spinbox.versiontracker.com
 0.0.0.0 splinky.com
 0.0.0.0 splut.com
-0.0.0.0 spmxs.com
 0.0.0.0 spongecell.com
 0.0.0.0 sponsorads.de
 0.0.0.0 sponsoredtweets.com
@@ -3761,7 +3747,6 @@
 0.0.0.0 switchads.com
 0.0.0.0 swoop.com
 0.0.0.0 swordfishdc.com
-0.0.0.0 sx.trhnt.com
 0.0.0.0 synhandler.net
 0.0.0.0 t.insigit.com
 0.0.0.0 t3q7af0z.com
@@ -4087,7 +4072,6 @@
 0.0.0.0 track.xmax.jp
 0.0.0.0 track.xtrasize.com
 0.0.0.0 track.xtrasize.pl
-0.0.0.0 track.yinuoapp.com
 0.0.0.0 track.youngyasmin.com
 0.0.0.0 trackaffpix.com
 0.0.0.0 trackalyzer.com
@@ -4186,7 +4170,6 @@
 0.0.0.0 tremorvideo.com
 0.0.0.0 trendcounter.com
 0.0.0.0 trenpyle.com
-0.0.0.0 trhunt.com
 0.0.0.0 triadmedianetwork.com
 0.0.0.0 tribalfusion.com
 0.0.0.0 tribpubads.com
@@ -4532,8 +4515,8 @@
 
 # Hosts - squidblacklist-dg-ads
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/squidblacklist-ads.txt
-# Generated - 10.08.2018
+# Generated - 18.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 4531
+# Total Domains: 4514
 # License: MIT
 

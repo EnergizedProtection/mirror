@@ -78,7 +78,6 @@
 0.0.0.0 api.netflare.info
 0.0.0.0 api.ppoi.org
 0.0.0.0 api.pzoifaum.info
-0.0.0.0 api.viaxmr.com
 0.0.0.0 api.xmrpool.net
 0.0.0.0 app.pr0gramm.com
 0.0.0.0 appelamule.com
@@ -762,7 +761,6 @@
 0.0.0.0 pool.aeon.hashvault.pro
 0.0.0.0 pool.bmnr.pw
 0.0.0.0 pool.coinblind.com
-0.0.0.0 pool.coinimp.com
 0.0.0.0 pool.coinrail.io
 0.0.0.0 pool.electroneum.hashvault.pro
 0.0.0.0 pool.etn.spacepools.org
@@ -772,7 +770,6 @@
 0.0.0.0 pool.monero.hashvault.pro
 0.0.0.0 pool.sumokoin.hashvault.pro
 0.0.0.0 pool.supportxmr.com
-0.0.0.0 pool2.coinimp.com
 0.0.0.0 power.tainiesonline.pw
 0.0.0.0 ppoi.org
 0.0.0.0 pr0gram.org
@@ -1448,13 +1445,11 @@
 0.0.0.0 www.aeros06.tk
 0.0.0.0 www.aeros07.tk
 0.0.0.0 www.aeros08.tk
-0.0.0.0 www.afdjljiyagf.ru
 0.0.0.0 www.afminer.com
 0.0.0.0 www.ait7ee.win
 0.0.0.0 www.allfontshere.press
 0.0.0.0 www.altavista.ovh
 0.0.0.0 www.altpool.pro
-0.0.0.0 www.amhixwqagiz.ru
 0.0.0.0 www.andlache.com
 0.0.0.0 www.andrew.nullrefexcep.com
 0.0.0.0 www.anime.reactor.cc
@@ -1473,7 +1468,6 @@
 0.0.0.0 www.avero.xyz
 0.0.0.0 www.averoconnector.com
 0.0.0.0 www.axoncoho.tk
-0.0.0.0 www.aymcsx.ru
 0.0.0.0 www.b.proxy4.nullrefexcep.com
 0.0.0.0 www.bablace.com
 0.0.0.0 www.backend.freecontent.win
@@ -1489,7 +1483,6 @@
 0.0.0.0 www.bizoninvest.com
 0.0.0.0 www.bjorksta.men
 0.0.0.0 www.blockchained.party
-0.0.0.0 www.bmnadutub.ru
 0.0.0.0 www.bowithow.com
 0.0.0.0 www.brominer.com
 0.0.0.0 www.browsermine.com
@@ -1585,28 +1578,20 @@
 0.0.0.0 www.dinastycoin.crypto-webminer.com
 0.0.0.0 www.directprimal.com
 0.0.0.0 www.dmdamedia.hu
-0.0.0.0 www.dxmhkisurxxxhm.ru
-0.0.0.0 www.dzizsih.ru
 0.0.0.0 www.earncoins.club
 0.0.0.0 www.easyhash.io
 0.0.0.0 www.eeme7j.win
-0.0.0.0 www.eflbruwqt.ru
 0.0.0.0 www.electroneum.crypto-webminer.com
 0.0.0.0 www.encoding.ovh
-0.0.0.0 www.ermaseuc.ru
 0.0.0.0 www.et-code.ru
 0.0.0.0 www.etacontent.com
 0.0.0.0 www.eth-pocket.com
 0.0.0.0 www.eth-pocket.de
 0.0.0.0 www.eth-pocket.eu
 0.0.0.0 www.ethtrader.de
-0.0.0.0 www.etlrsq.ru
-0.0.0.0 www.etzbnfuigipwvs.ru
 0.0.0.0 www.eucsoft.com
 0.0.0.0 www.evengparme.com
-0.0.0.0 www.fatisin.ru
 0.0.0.0 www.fblaster.com
-0.0.0.0 www.fdtpyqqsnzxvt.ru
 0.0.0.0 www.fili.cc
 0.0.0.0 www.fili.tv
 0.0.0.0 www.financeforum.ru
@@ -1636,7 +1621,6 @@
 0.0.0.0 www.freshrefreshnerer186rb.info
 0.0.0.0 www.fruitice.realnetwrk.com
 0.0.0.0 www.ftp.freecontent.net
-0.0.0.0 www.ftzivuesohvebj.ru
 0.0.0.0 www.futeboltv.com
 0.0.0.0 www.fxnow.ru
 0.0.0.0 www.gemius.pl
@@ -1654,13 +1638,10 @@
 0.0.0.0 www.hashto.cash
 0.0.0.0 www.hashvault.pro
 0.0.0.0 www.hatcalter.com
-0.0.0.0 www.hbeuwgqt.ru
 0.0.0.0 www.hegrinhar.com
 0.0.0.0 www.hemnes.win
 0.0.0.0 www.hide.ovh
 0.0.0.0 www.hit.gemius.pl
-0.0.0.0 www.hjnbvg.ru
-0.0.0.0 www.hlpidkr.ru
 0.0.0.0 www.hodlers.party
 0.0.0.0 www.hodling.faith
 0.0.0.0 www.horrorscopeme.ml
@@ -1670,25 +1651,16 @@
 0.0.0.0 www.hostingcloud.download
 0.0.0.0 www.hostingcloud.faith
 0.0.0.0 www.hostingcloud.loan
-0.0.0.0 www.hrfziiddxa.ru
 0.0.0.0 www.httpp.gdn
 0.0.0.0 www.httpswww.coinimp.com
-0.0.0.0 www.igdxzzeglrlqm.ru
 0.0.0.0 www.igrid.org
-0.0.0.0 www.ihdvilappuxpgiv.ru
-0.0.0.0 www.imhvlhaelvvbrq.ru
 0.0.0.0 www.infamylists.com
 0.0.0.0 www.ingorob.com
 0.0.0.0 www.ininmacerad.pro
 0.0.0.0 www.intensecoin.crypto-webminer.com
 0.0.0.0 www.inwemo.com
 0.0.0.0 www.ipv6.freebitco.in
-0.0.0.0 www.irrrymucwxjl.ru
 0.0.0.0 www.itsmyturn.nablabee.com
-0.0.0.0 www.ivuovhsn.ru
-0.0.0.0 www.ixvenhgwukn.ru
-0.0.0.0 www.japveny.ru
-0.0.0.0 www.jhfdmiwcgnty.ru
 0.0.0.0 www.jhondi33.duckdns.org
 0.0.0.0 www.jqassets.download
 0.0.0.0 www.jqcdn.download
@@ -1700,7 +1672,6 @@
 0.0.0.0 www.jquerrycdn.download
 0.0.0.0 www.jquery-cdn.download
 0.0.0.0 www.jqwww.download
-0.0.0.0 www.jqxrrygqnagn.ru
 0.0.0.0 www.js.coinhive.com
 0.0.0.0 www.jsccnn.com
 0.0.0.0 www.jscdndel.com
@@ -1718,34 +1689,25 @@
 0.0.0.0 www.jurty.ml
 0.0.0.0 www.jurtym.cf
 0.0.0.0 www.juststatic.info
-0.0.0.0 www.jwduahujge.ru
-0.0.0.0 www.jwwhsqz.ru
 0.0.0.0 www.kalipasindra.online
 0.0.0.0 www.karbowanec.crypto-webminer.com
-0.0.0.0 www.kdmkauchahynhrs.ru
 0.0.0.0 www.kedtise.com
 0.0.0.0 www.kinohabr.net
 0.0.0.0 www.kippbeak.cf
 0.0.0.0 www.kisshentai.net
 0.0.0.0 www.kiwifarms.net
 0.0.0.0 www.krb.devphp.org.ua
-0.0.0.0 www.ksimdw.ru
 0.0.0.0 www.kunay.nullrefexcep.com
-0.0.0.0 www.kxrcjhogag.ru
 0.0.0.0 www.lan.datasecu.download
 0.0.0.0 www.laserveradedomaina.com
-0.0.0.0 www.ledhenone.com
 0.0.0.0 www.ledinund.com
 0.0.0.0 www.lib.coin-hive.com
 0.0.0.0 www.lib.xmrm.pw
 0.0.0.0 www.lightminer.co
 0.0.0.0 www.likeminer.nablabee.com
 0.0.0.0 www.live.4480.org
-0.0.0.0 www.lmeeulcfttqv.ru
 0.0.0.0 www.lmodr.biz
 0.0.0.0 www.lookvision.info
-0.0.0.0 www.losital.ru
-0.0.0.0 www.ltstyov.ru
 0.0.0.0 www.mariuspetrescu.gq
 0.0.0.0 www.mataharirama.xyz
 0.0.0.0 www.mebablo.com
@@ -1797,7 +1759,6 @@
 0.0.0.0 www.mytestminer.xyz
 0.0.0.0 www.nablabee.com
 0.0.0.0 www.nathetsof.com
-0.0.0.0 www.nddmcconmqsy.ru
 0.0.0.0 www.nebabrop.com
 0.0.0.0 www.nerdorium.org
 0.0.0.0 www.nerohut.com
@@ -1807,31 +1768,23 @@
 0.0.0.0 www.niematego.tk
 0.0.0.0 www.nimiq.watch
 0.0.0.0 www.nimiqpool.com
-0.0.0.0 www.ningtoldrop.ru
 0.0.0.0 www.nitsche.top
 0.0.0.0 www.noblock.pro
 0.0.0.0 www.node.coin-hive.com
-0.0.0.0 www.norespar.ru
 0.0.0.0 www.novaminers.tk
 0.0.0.0 www.npcdn1.now.sh
 0.0.0.0 www.ns2.cryptotab.net
 0.0.0.0 www.nullrefexcep.com
 0.0.0.0 www.nunu-001.now.sh
 0.0.0.0 www.oei1.gq
-0.0.0.0 www.ogondkskyahxa.ru
-0.0.0.0 www.okexysylgzo.ru
 0.0.0.0 www.openkatalog.com
-0.0.0.0 www.oxwwoeukjispema.ru
 0.0.0.0 www.papoto.com
 0.0.0.0 www.party-nngvitbizn.now.sh
 0.0.0.0 www.party-vqgdyvoycc.now.sh
 0.0.0.0 www.pascal3.science
-0.0.0.0 www.pcejuyhjucmkiny.ru
 0.0.0.0 www.pearno.com
 0.0.0.0 www.pebx.pl
-0.0.0.0 www.pertosj.ru
 0.0.0.0 www.play.intellecthosting.net
-0.0.0.0 www.plexcoin.info
 0.0.0.0 www.pool.coinimp.com
 0.0.0.0 www.pool2.coinimp.com
 0.0.0.0 www.ppoi.org
@@ -1847,8 +1800,6 @@
 0.0.0.0 www.proxy8.nullrefexcep.com
 0.0.0.0 www.proxy9.nullrefexcep.com
 0.0.0.0 www.punchsub.net
-0.0.0.0 www.qlzwfzfatjth.ru
-0.0.0.0 www.qpmsybxqvlje.ru
 0.0.0.0 www.ratingtoplist.com
 0.0.0.0 www.rbkshort.info
 0.0.0.0 www.realnetwrk.com
@@ -1866,7 +1817,6 @@
 0.0.0.0 www.rmawm7mw.top
 0.0.0.0 www.rocks.io
 0.0.0.0 www.ron.si
-0.0.0.0 www.rowherthat.ru
 0.0.0.0 www.s7ven.com
 0.0.0.0 www.safelinkconverter.com
 0.0.0.0 www.salamaleyum.com
@@ -1884,7 +1834,6 @@
 0.0.0.0 www.sm3na.com
 0.0.0.0 www.snahome.com
 0.0.0.0 www.sparechange.io
-0.0.0.0 www.sptlkiyjsglayc.ru
 0.0.0.0 www.sss.freecontent.date
 0.0.0.0 www.stat0808.info
 0.0.0.0 www.stati.bid
@@ -1944,10 +1893,7 @@
 0.0.0.0 www.viaxmr.com
 0.0.0.0 www.videoplayer2.xyz
 0.0.0.0 www.vkcdnservice.com
-0.0.0.0 www.voumxy.ru
-0.0.0.0 www.vpzccwpyilvoyg.ru
 0.0.0.0 www.vuryua.ru
-0.0.0.0 www.vzzexalcirfgrf.ru
 0.0.0.0 www.w13.coinhive.com
 0.0.0.0 www.wallet.brominer.com
 0.0.0.0 www.wasm.stream
@@ -1965,20 +1911,14 @@
 0.0.0.0 www.whathyx.com
 0.0.0.0 www.whereismommy.gq
 0.0.0.0 www.whysoserius.club
-0.0.0.0 www.wildianing.ru
 0.0.0.0 www.willacrit.com
 0.0.0.0 www.witthethim.com
 0.0.0.0 www.wkkjfcgjofbix.ru
-0.0.0.0 www.wmemsnhgldd.ru
-0.0.0.0 www.wmwmwwfmkvucbln.ru
-0.0.0.0 www.wnmyerzbjhu.ru
 0.0.0.0 www.wo15.coinhive.com
 0.0.0.0 www.wordc.ga
 0.0.0.0 www.worker.salon.com
 0.0.0.0 www.wpcdn1.herokuapp.com
-0.0.0.0 www.wqgkainysj.ru
 0.0.0.0 www.wronpeci.com
-0.0.0.0 www.wrxgandsfcz.ru
 0.0.0.0 www.ws.xmrm.pw
 0.0.0.0 www.ws000.coinhive.com
 0.0.0.0 www.ws001.www.datasecu.download
@@ -2058,18 +1998,11 @@
 0.0.0.0 www.xmg.cool
 0.0.0.0 www.xmr.cool
 0.0.0.0 www.xmrpool.net
-0.0.0.0 www.xssrmimmnq.ru
 0.0.0.0 www.xvideosharing.site
 0.0.0.0 www.xy.nullrefexcep.com
-0.0.0.0 www.ybjfsqcevow.ru
-0.0.0.0 www.yoaabgvkm.ru
 0.0.0.0 www.youporn.sexy
-0.0.0.0 www.zavzlen.ru
-0.0.0.0 www.zivbxion.ru
-0.0.0.0 www.ziykrgc.ru
 0.0.0.0 www.zlx.com.br
 0.0.0.0 www.zny.coiner.site
-0.0.0.0 www.zzqhsrg.ru
 0.0.0.0 www1.2giga.link
 0.0.0.0 www2.2giga.link
 0.0.0.0 www2.adfreetv.ch
@@ -2120,8 +2053,8 @@
 
 # Hosts - zerodot1-coinblockerlists-browser
 # Source - https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
-# Generated - 10.08.2018
+# Generated - 18.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 2119
+# Total Domains: 2052
 # License: MIT
 

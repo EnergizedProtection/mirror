@@ -120,8 +120,6 @@
 0.0.0.0 ad.turn.com
 0.0.0.0 ad.vrvm.com
 0.0.0.0 ad.weplayer.cc
-0.0.0.0 ad.xiaomi.com
-0.0.0.0 ad1.xiaomi.com
 0.0.0.0 ad120m.com
 0.0.0.0 ad127m.com
 0.0.0.0 ad132m.com
@@ -134,7 +132,6 @@
 0.0.0.0 adback.tango.me
 0.0.0.0 adbetnet.advertserve.com
 0.0.0.0 adblade.com
-0.0.0.0 adbrau.com
 0.0.0.0 adbuddiz.com
 0.0.0.0 adc3-launch.adcolony.com
 0.0.0.0 adcamp.ru
@@ -200,7 +197,6 @@
 0.0.0.0 adquota.com
 0.0.0.0 ads-chunks.prod.ihrhls.com
 0.0.0.0 ads-rain.com
-0.0.0.0 ads-west-colo.adsymptotic.com
 0.0.0.0 ads.2mdnsys.com
 0.0.0.0 ads.ad2iction.com
 0.0.0.0 ads.admarvel.com
@@ -223,6 +219,7 @@
 0.0.0.0 ads.fotoable.com
 0.0.0.0 ads.gionee.com
 0.0.0.0 ads.glispa.com
+0.0.0.0 ads.greengeeks.com
 0.0.0.0 ads.heyzap.com
 0.0.0.0 ads.jianchiapp.com
 0.0.0.0 ads.linkshrink.net
@@ -231,6 +228,7 @@
 0.0.0.0 ads.mopub.com
 0.0.0.0 ads.mp.mydas.mobi
 0.0.0.0 ads.msn.com
+0.0.0.0 ads.nayemador.com
 0.0.0.0 ads.nexage.com
 0.0.0.0 ads.pdbarea.com
 0.0.0.0 ads.pinger.com
@@ -397,7 +395,6 @@
 0.0.0.0 analytics.colacoweb.net
 0.0.0.0 analytics.ff.avast.com
 0.0.0.0 analytics.htmedia.in
-0.0.0.0 analytics.idealmedia.com
 0.0.0.0 analytics.jabong.com
 0.0.0.0 analytics.liftoff.io
 0.0.0.0 analytics.lk.api.ditto.com
@@ -500,7 +497,6 @@
 0.0.0.0 api.usebutton.com
 0.0.0.0 api.vip.miui.com
 0.0.0.0 api.wshareit.com
-0.0.0.0 api.xiaomi.com
 0.0.0.0 api.xmpush.xiaomi.com
 0.0.0.0 api2.batmobi.net
 0.0.0.0 api5.batmobil.net
@@ -608,7 +604,6 @@
 0.0.0.0 bdads.mobi
 0.0.0.0 bdapi.ads.oppomobile.com
 0.0.0.0 bdexpress.uodoo.com
-0.0.0.0 be01.hh.xiaomi.com
 0.0.0.0 beacon.carfax.com
 0.0.0.0 beacon.qq.com
 0.0.0.0 beacon.shazam.com
@@ -664,7 +659,6 @@
 0.0.0.0 bttrack.com
 0.0.0.0 bubblesmedia.ru
 0.0.0.0 burstnet.com
-0.0.0.0 bustime.xyz
 0.0.0.0 buzzad.io
 0.0.0.0 buzzcity.net
 0.0.0.0 buzzclicks.com
@@ -675,6 +669,7 @@
 0.0.0.0 c.atdmt.com
 0.0.0.0 c.betrad.com
 0.0.0.0 c.bigmir.net
+0.0.0.0 c.disquscdn.com
 0.0.0.0 c.dlx.addthis.com
 0.0.0.0 c.id.mi.com
 0.0.0.0 c.msn.com
@@ -808,6 +803,7 @@
 0.0.0.0 cnc.fe01.lg.xiaomi.com
 0.0.0.0 cnt.my
 0.0.0.0 code.cdn.mozilla.net
+0.0.0.0 codepushupdates.azureedge.net
 0.0.0.0 collector-axa.cloud.ca.com
 0.0.0.0 collector.brandify.com
 0.0.0.0 collector.cloudmosa.net
@@ -820,6 +816,7 @@
 0.0.0.0 config.safedk.com
 0.0.0.0 config.tremorhub.com
 0.0.0.0 config2.mparticle.com
+0.0.0.0 connect.facebook.net
 0.0.0.0 connect.rom.miui.com
 0.0.0.0 connect.tapjoy.com
 0.0.0.0 consent.truste.com
@@ -839,7 +836,6 @@
 0.0.0.0 corpext.msitadfs.glbdns2.microsoft.com
 0.0.0.0 cosiloon.com
 0.0.0.0 countante.info
-0.0.0.0 counter.hdvb.info
 0.0.0.0 counter.idealmedia.com
 0.0.0.0 counter.kingsoft.com
 0.0.0.0 cp.pushwoosh.com
@@ -871,7 +867,6 @@
 0.0.0.0 cs126.wpc.teliasoneracdn.net
 0.0.0.0 cs283.wpc.teliasoneracdn.net
 0.0.0.0 cse.google.com
-0.0.0.0 csi.gstatic.com
 0.0.0.0 ct0.addthis.com
 0.0.0.0 ct1.addthis.com
 0.0.0.0 ct2.addthis.com
@@ -1081,6 +1076,7 @@
 0.0.0.0 feedback.windows.com
 0.0.0.0 felinetech.net
 0.0.0.0 fhr.cdn.mozilla.net
+0.0.0.0 fhtlyoqzyjjof.com
 0.0.0.0 fiksu.com
 0.0.0.0 file.market.xiaomi.com
 0.0.0.0 file.xmpush.xiaomi.com
@@ -1115,7 +1111,6 @@
 0.0.0.0 fusionads.net
 0.0.0.0 fwmrm.net
 0.0.0.0 fyber.com
-0.0.0.0 g.cn
 0.0.0.0 g.dlx.addthis.com
 0.0.0.0 g.msn.com
 0.0.0.0 gabyuyxwcubwdp.com
@@ -1140,7 +1135,6 @@
 0.0.0.0 getgoodclicks.com
 0.0.0.0 getyourchance16.loan
 0.0.0.0 gew1.ap.spotify.com
-0.0.0.0 gigya.com
 0.0.0.0 gj.applog.uc.cn
 0.0.0.0 gj.track.uc.cn
 0.0.0.0 gjapplog.uc.cn
@@ -1268,6 +1262,7 @@
 0.0.0.0 image.pandora.xiaomi.com
 0.0.0.0 image.uc.cn
 0.0.0.0 images.babyboomboomads.com
+0.0.0.0 imagetopng.club
 0.0.0.0 imagzine.oppomobile.com
 0.0.0.0 imasdk.googleapis.com
 0.0.0.0 ime.api.xiaomi.com
@@ -1364,6 +1359,7 @@
 0.0.0.0 k5market.com
 0.0.0.0 kavanga.ru
 0.0.0.0 keydot.net
+0.0.0.0 kfxrukfzqazrs.com
 0.0.0.0 kiderence-habilton.com
 0.0.0.0 kinesis.us-east-1amazonaws.com
 0.0.0.0 kiosked.com
@@ -1552,6 +1548,7 @@
 0.0.0.0 mobiledl.adboe.com
 0.0.0.0 mobilelog.upqzfile.com
 0.0.0.0 mobilenetworkscoring-pa.googleapis.com
+0.0.0.0 mobileoffers-h-download.com
 0.0.0.0 mobizme.net
 0.0.0.0 mobodid.com
 0.0.0.0 moboland.net
@@ -1699,7 +1696,6 @@
 0.0.0.0 orion.iad.appboy.com
 0.0.0.0 outbrain.com
 0.0.0.0 outcome.supersonicads.com
-0.0.0.0 ovc2-ustokyyneikyfasnm.stackpathdns.com
 0.0.0.0 owap.su
 0.0.0.0 p-behacdn.ksmobile.net
 0.0.0.0 p.addthis.com
@@ -1741,6 +1737,7 @@
 0.0.0.0 pdl.gionee.com
 0.0.0.0 perf-events.cloud.unity3d.com
 0.0.0.0 perf.mmstat.com
+0.0.0.0 perimeterx.net
 0.0.0.0 pflexads.com
 0.0.0.0 phluant.com
 0.0.0.0 phonecallapi.micloud.xiaomi.net
@@ -1876,6 +1873,7 @@
 0.0.0.0 req.startappservice.com
 0.0.0.0 resolver.gslb.mi-idc.com
 0.0.0.0 resolver.msg.xiaomi.net
+0.0.0.0 responsidelok.info
 0.0.0.0 results.celebration-staff.com
 0.0.0.0 retarget.ssl-services.com
 0.0.0.0 retiremely.com
@@ -1909,6 +1907,7 @@
 0.0.0.0 rubiconproject.com
 0.0.0.0 rules.quantcount.com
 0.0.0.0 rundsp.com
+0.0.0.0 runwtxeisppmt.com
 0.0.0.0 rw9bj24c2j.s.ad6media.fr
 0.0.0.0 ryybhoklizmuew.com
 0.0.0.0 rzekbhnk.top
@@ -1947,6 +1946,7 @@
 0.0.0.0 script.crazyegg.com
 0.0.0.0 sdad.guru
 0.0.0.0 sdk-b.apptornado.com
+0.0.0.0 sdk-logs.matomy.com
 0.0.0.0 sdk-orion.appboy.com
 0.0.0.0 sdk.adincube.com
 0.0.0.0 sdk.adtiming.com
@@ -1978,6 +1978,7 @@
 0.0.0.0 secure.footprint.net
 0.0.0.0 secure.quantserve.com
 0.0.0.0 securemetrics.apple.com
+0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 seen-on-screen.thewhizmarketing.com
 0.0.0.0 segment.hotstar.com
 0.0.0.0 sekindo.com
@@ -2005,6 +2006,7 @@
 0.0.0.0 sg.mmstat.com
 0.0.0.0 sg.napi.ucweb.com
 0.0.0.0 sgpac.account.xiaomi.com
+0.0.0.0 shalledinition.club
 0.0.0.0 shareasale.com
 0.0.0.0 sharebar.addthis.com
 0.0.0.0 shared.iad.appboy.com
@@ -2052,6 +2054,7 @@
 0.0.0.0 srv.pixel.parsely.com
 0.0.0.0 sscefsol.com
 0.0.0.0 ssl-google-analytics.l.google.com
+0.0.0.0 ssl.google-analytics.com
 0.0.0.0 ssl.p.jwpcdn.com
 0.0.0.0 ssl.widgets.webengage.com
 0.0.0.0 sso.anbtr.com
@@ -2104,6 +2107,7 @@
 0.0.0.0 supersonicads.com
 0.0.0.0 support.addthis.com
 0.0.0.0 support.mozilla.org
+0.0.0.0 surfpush.com
 0.0.0.0 survey.g.doubleclick.net
 0.0.0.0 swelen.com
 0.0.0.0 switchadhub.com
@@ -2206,6 +2210,7 @@
 0.0.0.0 track.performancegenie.mobi
 0.0.0.0 track.pingstart.com
 0.0.0.0 track.special-offers.online
+0.0.0.0 track.superfastmediation.com
 0.0.0.0 track.tenjin.io
 0.0.0.0 track.uc.cn
 0.0.0.0 track.venatusmedia.com
@@ -2354,6 +2359,7 @@
 0.0.0.0 wc-tracking.lavasoft.com
 0.0.0.0 wd.adcolony.com
 0.0.0.0 wdig.vo.llnwd.net
+0.0.0.0 wdjbxcdriyjoeu.com
 0.0.0.0 weather.pandora.xiaomi.com
 0.0.0.0 web.vortex.data.microsoft.com
 0.0.0.0 weblb-wg.dual-gslb.spotify.com
@@ -2399,6 +2405,7 @@
 0.0.0.0 www.dexchangeinc.com
 0.0.0.0 www.egorlz.xyz
 0.0.0.0 www.face2trade.com
+0.0.0.0 www.fhtlyoqzyjjof.com
 0.0.0.0 www.flurry.com
 0.0.0.0 www.google-analytics.com
 0.0.0.0 www.googleadservices.com
@@ -2412,6 +2419,7 @@
 0.0.0.0 www.interia.pl
 0.0.0.0 www.ivwbox.de
 0.0.0.0 www.junbi-tracker.com
+0.0.0.0 www.kfxrukfzqazrs.com
 0.0.0.0 www.kjltrjvjfran.com
 0.0.0.0 www.kmspico.info
 0.0.0.0 www.leanplum.com
@@ -2430,6 +2438,7 @@
 0.0.0.0 www.onclicksuper.com
 0.0.0.0 www.radiorage.com
 0.0.0.0 www.roboinside.me
+0.0.0.0 www.runwtxeisppmt.com
 0.0.0.0 www.sastrk.com
 0.0.0.0 www.sayyac.com
 0.0.0.0 www.sdad.guru
@@ -2440,6 +2449,7 @@
 0.0.0.0 www.thestartmagazine.com
 0.0.0.0 www.uodoo.com
 0.0.0.0 www.usfmwydo.com
+0.0.0.0 www.wdjbxcdriyjoeu.com
 0.0.0.0 www.webmailer.de
 0.0.0.0 www.wizardsbd.com
 0.0.0.0 www.xbtitfm.com
@@ -2516,8 +2526,8 @@
 
 # Hosts - ador-energized
 # Source - https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/EnergizedHosts/EnergizedHosts
-# Generated - 10.08.2018
+# Generated - 18.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 2515
+# Total Domains: 2525
 # License: MIT
 

@@ -1,3 +1,4 @@
+0.0.0.0 alerts.ndtv.com
 0.0.0.0 alerts.thedailystar.net
 0.0.0.0 cf-particle-html.eip.telegraph.co.uk
 0.0.0.0 cnil.links-lab.fr
@@ -19,6 +20,7 @@
 0.0.0.0 mdsngpush.finanzen.net
 0.0.0.0 newsletter.bdnews24.com
 0.0.0.0 newsletters.vocento.com
+0.0.0.0 notifiche.secoloditalia.it
 0.0.0.0 notify.hindustantimes.com
 0.0.0.0 policies.warnerbros.com
 0.0.0.0 privacy.purch.com
@@ -28,14 +30,15 @@
 0.0.0.0 share.baidu.com
 0.0.0.0 social.dw.de
 0.0.0.0 sp.knowyourmeme.com
+0.0.0.0 thenational-gb.thenational.scot
 0.0.0.0 twitter-badges.s3.amazonaws.com
 0.0.0.0 widgets.sprinkletxt.com
 0.0.0.0 zgody.infor.pl
 
 # Hosts - fanboy-annoyance
 # Source - https://raw.githubusercontent.com/hectorm/hMirror/master/data/fanboy-annoyance/list.txt
-# Generated - 10.08.2018
+# Generated - 18.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 33
+# Total Domains: 36
 # License: MIT
 

@@ -140,7 +140,6 @@
 0.0.0.0 affntwklnk.com
 0.0.0.0 afftrack.com
 0.0.0.0 afx.tagcdn.com
-0.0.0.0 agstracker.com
 0.0.0.0 aimes.com
 0.0.0.0 aintdoinshit.com
 0.0.0.0 aircrack-ng.softonic.fr
@@ -2906,8 +2905,8 @@
 
 # Hosts - fademind-add.risk
 # Source - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
-# Generated - 10.08.2018
+# Generated - 18.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 2905
+# Total Domains: 2904
 # License: MIT
 

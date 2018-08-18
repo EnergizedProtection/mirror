@@ -17,7 +17,6 @@
 0.0.0.0 adcash.com
 0.0.0.0 addroplet.com
 0.0.0.0 adexchangeprediction.com
-0.0.0.0 adf.ly
 0.0.0.0 adform.net
 0.0.0.0 adgebra.co.in
 0.0.0.0 adglare.net
@@ -437,8 +436,8 @@
 
 # Hosts - blockzilla
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/blockzilla.txt
-# Generated - 10.08.2018
+# Generated - 18.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 436
+# Total Domains: 435
 # License: MIT
 

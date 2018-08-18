@@ -436,7 +436,6 @@
 0.0.0.0 clashofclanshack.me
 0.0.0.0 clashofclanshackcheat.com
 0.0.0.0 clashofclanshackcheats.info
-0.0.0.0 clashofclanshackcheats.net
 0.0.0.0 clashofclanshacked.com
 0.0.0.0 clashofclanshackers.net
 0.0.0.0 clashofclanshackgems.com
@@ -484,7 +483,6 @@
 0.0.0.0 codegenerator.me
 0.0.0.0 codegeneratorfree.net
 0.0.0.0 codepsngratuit.com
-0.0.0.0 codepsngratuit.fr
 0.0.0.0 codes-keys.com
 0.0.0.0 codes4free.net
 0.0.0.0 codes4psn.com
@@ -512,7 +510,6 @@
 0.0.0.0 commentpiratercomptefacebook.org
 0.0.0.0 comoespiarwhatsapp.com
 0.0.0.0 compte-facebook.ws
-0.0.0.0 confidencegames.com
 0.0.0.0 continuumdownload.com
 0.0.0.0 convectiontoasterovenreviews.biz
 0.0.0.0 conversationalingelligence.com
@@ -655,7 +652,6 @@
 0.0.0.0 csgomagnatcase.com
 0.0.0.0 csgomana.com
 0.0.0.0 csgomezo.com
-0.0.0.0 csgomix.top
 0.0.0.0 csgomoney.money
 0.0.0.0 csgomonstercase.com
 0.0.0.0 csgoneo.top
@@ -697,8 +693,6 @@
 0.0.0.0 csgotrade.zone
 0.0.0.0 csgotradebit.com
 0.0.0.0 csgotradegear.com
-0.0.0.0 csgotradegun.com
-0.0.0.0 csgotradejet.com
 0.0.0.0 csgotunes.com
 0.0.0.0 csgoultras.com
 0.0.0.0 csgouno.com
@@ -754,7 +748,6 @@
 0.0.0.0 ddtankhacks.com
 0.0.0.0 decoderactive.com
 0.0.0.0 defaulthacks.com
-0.0.0.0 dehacks.com
 0.0.0.0 delicatecase.com
 0.0.0.0 deluxecheat.com
 0.0.0.0 deluxesave.com
@@ -846,7 +839,6 @@
 0.0.0.0 downloadne.com
 0.0.0.0 downloadnow.us
 0.0.0.0 downloadnt.com
-0.0.0.0 downloadot.com
 0.0.0.0 downloadpokemonxandy.com
 0.0.0.0 downloadpokemonxy.com
 0.0.0.0 downloadps3jailbreak.com
@@ -1526,7 +1518,6 @@
 0.0.0.0 gamespress.net
 0.0.0.0 gamesps4free.com
 0.0.0.0 gamessteam.com
-0.0.0.0 gamestipshacks.com
 0.0.0.0 gamestrick.org
 0.0.0.0 gametofaster.com
 0.0.0.0 gametrainersave.com
@@ -1580,7 +1571,6 @@
 0.0.0.0 getgiftcards.org
 0.0.0.0 gethack.net
 0.0.0.0 gethacknow.com
-0.0.0.0 gethacksfree.com
 0.0.0.0 getleakedsnaps.com
 0.0.0.0 getmerch.us
 0.0.0.0 getminecraft.eu
@@ -1705,7 +1695,6 @@
 0.0.0.0 gta5onlinedownload.com
 0.0.0.0 gta5onlinehack.net
 0.0.0.0 gta5onlinemoneygenerator.com
-0.0.0.0 gta5onlinemoneyhack.xyz
 0.0.0.0 gta5onlinemoneyserver.com
 0.0.0.0 gta5unlimitedmoney.com
 0.0.0.0 gtaonlinemoneyhacks.com
@@ -1844,7 +1833,6 @@
 0.0.0.0 hackscentral.com
 0.0.0.0 hackscheats.org
 0.0.0.0 hackscity.org
-0.0.0.0 hacksclashofclans.net
 0.0.0.0 hacksclub.com
 0.0.0.0 hackscommunity.com
 0.0.0.0 hacksday.com
@@ -2988,7 +2976,6 @@
 0.0.0.0 steam-wallet.com
 0.0.0.0 steamanaylst.com
 0.0.0.0 steambetway.com
-0.0.0.0 steamcammunitu.com
 0.0.0.0 steamcamrnunitty.com
 0.0.0.0 steamchristmas.com
 0.0.0.0 steamcode.org
@@ -3010,7 +2997,6 @@
 0.0.0.0 steammarketcap.com
 0.0.0.0 steamskins.ru
 0.0.0.0 steamtops.com
-0.0.0.0 steamtrade.store
 0.0.0.0 steamunibets.com
 0.0.0.0 steamwalletadder.com
 0.0.0.0 steamwalletcodes.com
@@ -3136,10 +3122,8 @@
 0.0.0.0 tradebot.online
 0.0.0.0 tradebot.site
 0.0.0.0 tradebot.top
-0.0.0.0 tradecsgo.top
 0.0.0.0 tradefastskin.com
 0.0.0.0 tradego.pro
-0.0.0.0 tradego.store
 0.0.0.0 traderockets.com
 0.0.0.0 trades-arena.com
 0.0.0.0 tradingcsgo.com
@@ -3451,8 +3435,8 @@
 
 # Hosts - spam404.com-adblocklist
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/spam404-ad.txt
-# Generated - 10.08.2018
+# Generated - 18.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 3450
+# Total Domains: 3434
 # License: MIT
 

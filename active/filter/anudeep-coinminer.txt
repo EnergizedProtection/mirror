@@ -16,7 +16,6 @@
 0.0.0.0 adgsfoxoavmc.com
 0.0.0.0 adminer.com
 0.0.0.0 ads.bitcoin.com
-0.0.0.0 afbfoxmwzlqa.com
 0.0.0.0 afdyfxfrwbfy.com
 0.0.0.0 afminer.com
 0.0.0.0 agiuzlmavpnlb.com
@@ -24,7 +23,6 @@
 0.0.0.0 ahyuzjgukqyd.com
 0.0.0.0 aionvpexcmm.com
 0.0.0.0 ajfziqehnwvz.com
-0.0.0.0 akviqfqbwqqj.com
 0.0.0.0 aladbvddjsxf.com
 0.0.0.0 alimabi.cn
 0.0.0.0 amhpbhyxfgvd.com
@@ -33,7 +31,6 @@
 0.0.0.0 anime.reactor.cc
 0.0.0.0 anleqthwxxns.com
 0.0.0.0 anogjkubvdfe.com
-0.0.0.0 anoufpjmkled.com
 0.0.0.0 api.coinhive.com
 0.0.0.0 api.minemonero.pro
 0.0.0.0 api.moneroocean.stream
@@ -41,11 +38,9 @@
 0.0.0.0 aqeukceruxzd.com
 0.0.0.0 aqjdigkqvmakz.com
 0.0.0.0 aqornnfwxmua.com
-0.0.0.0 arawegnvvufy.com
 0.0.0.0 arfttojxv.com
 0.0.0.0 aservices.party
 0.0.0.0 asia.miningspeed.com
-0.0.0.0 ataufekxogxr.com
 0.0.0.0 atlanta.minemonero.pro
 0.0.0.0 atlas.phoenixcoin.org
 0.0.0.0 auroramine.com
@@ -53,20 +48,15 @@
 0.0.0.0 authedwebmine.cz
 0.0.0.0 autoconfig.cryptominingpool.eu
 0.0.0.0 autodiscover.cryptominingpool.eu
-0.0.0.0 avdfcctzwfdk.com
-0.0.0.0 awgyhiupjzvu.com
 0.0.0.0 awrspmpj.com
 0.0.0.0 axaggthnkquj.com
 0.0.0.0 axeobgnsk.com
 0.0.0.0 ayhdwulehfdwn.com
-0.0.0.0 ayjebauqdrys.com
-0.0.0.0 ayozhcgcsyun.com
 0.0.0.0 azhdgruuvllzxg.com
 0.0.0.0 azvjudwr.info
 0.0.0.0 back4.2giga.link
 0.0.0.0 baiduccdn1.com
 0.0.0.0 barflyghlcdj.website
-0.0.0.0 batigfkcbwpb.com
 0.0.0.0 bauffnmtou.com
 0.0.0.0 bbheuxcancwj.com
 0.0.0.0 bbzwbxchqgph.com
@@ -90,7 +80,6 @@
 0.0.0.0 bitminter.com
 0.0.0.0 bitnex.io
 0.0.0.0 bitzfree.com
-0.0.0.0 bkgesylgvrgf.com
 0.0.0.0 bkscqpflg.com
 0.0.0.0 bkxkodsmrnqd.com
 0.0.0.0 blog.bitcoin.cz
@@ -108,12 +97,9 @@
 0.0.0.0 bpprksdgogtw.com
 0.0.0.0 bqgvtryyrhjmf.com
 0.0.0.0 bqscwtvpvugopg.com
-0.0.0.0 bqytfutmwulr.com
 0.0.0.0 bravo-mining.com
 0.0.0.0 briqumvlvzshh.com
 0.0.0.0 brjbzbxbcqjb.com
-0.0.0.0 brtcmjchfyel.com
-0.0.0.0 brygxppyaugt.com
 0.0.0.0 bsd.suprnova.cc
 0.0.0.0 bsupflnjmuzn.com
 0.0.0.0 btc.suprnova.cc
@@ -123,11 +109,8 @@
 0.0.0.0 btcz.suprnova.cc
 0.0.0.0 btg.altpool.pro
 0.0.0.0 btgpool.pro
-0.0.0.0 btkcdqrzmqca.com
 0.0.0.0 btwpplvcqao.com
 0.0.0.0 btx.suprnova.cc
-0.0.0.0 btxoeiisonxh.com
-0.0.0.0 budyxjttmjkf.com
 0.0.0.0 buhxsaifjxupaj.com
 0.0.0.0 buitxcrnucyi.com
 0.0.0.0 bvrkzhtxlgono.com
@@ -138,16 +121,13 @@
 0.0.0.0 bwssvome.com
 0.0.0.0 bxexufifrsfr.com
 0.0.0.0 bxrjiqoajbbh.com
-0.0.0.0 bzgwkxnjqjdz.com
 0.0.0.0 bznmgijglbpr.com
 0.0.0.0 bzyrhqbdldds.com
 0.0.0.0 c7e935.netlify.com
 0.0.0.0 cafvzpusl.com
 0.0.0.0 calc.btgpool.pro
 0.0.0.0 capodannoinversilia.com
-0.0.0.0 cawcwpvmpcje.com
 0.0.0.0 cbrqndeptsw.com
-0.0.0.0 cdhzxcwuibzk.com
 0.0.0.0 cdn.rocks.io
 0.0.0.0 cesxssavc.com
 0.0.0.0 cfyvrgvopaejx.com
@@ -156,12 +136,8 @@
 0.0.0.0 chzashakbgds.com
 0.0.0.0 cikzhemgwchl.com
 0.0.0.0 cirkev.bitcoin.cz
-0.0.0.0 cjnwobsladbq.com
-0.0.0.0 cjxdbmxtnqmy.com
 0.0.0.0 ckfctuaga.com
 0.0.0.0 ckjjcarzu.com
-0.0.0.0 ckqkwhampiyb.com
-0.0.0.0 ckqpusmxvilv.com
 0.0.0.0 ckxhoidrflu.com
 0.0.0.0 cledghtdrjtb.com
 0.0.0.0 clhkbfqzwpst.com
@@ -191,16 +167,11 @@
 0.0.0.0 coyhvotxgrnq.com
 0.0.0.0 cozjfzlng.com
 0.0.0.0 cpdafetdjtdsy.com
-0.0.0.0 cpdoalzgwnwf.com
-0.0.0.0 cpkbdmkguggh.com
 0.0.0.0 cpmjpcefbwqr.com
 0.0.0.0 cpxjivpayggg.com
 0.0.0.0 cpynfeqyqfby.com
-0.0.0.0 cqbabfsyfqse.com
 0.0.0.0 cqbphspgvhuk.com
 0.0.0.0 cqfnvznw.info
-0.0.0.0 cqoyvpldkmqt.com
-0.0.0.0 croxdfrdjfnt.com
 0.0.0.0 crpiucewddag.com
 0.0.0.0 cryptmonero.com
 0.0.0.0 crypto-coins.club
@@ -212,16 +183,11 @@
 0.0.0.0 cryptoxpool.com
 0.0.0.0 cslxhmchzgbx.com
 0.0.0.0 csxokexd.com
-0.0.0.0 ctjwmzryhcoj.com
-0.0.0.0 ctplyvuuzdcv.com
 0.0.0.0 ctrb.jscdndel.com
-0.0.0.0 ctzvtevpcssx.com
 0.0.0.0 cuchpagh.com
-0.0.0.0 cwofongvtbsi.com
 0.0.0.0 cyrirvvrn.com
 0.0.0.0 cyxagtpeggjv.com
 0.0.0.0 czcydlrnu.com
-0.0.0.0 czcyppdffuhh.com
 0.0.0.0 czgeitdowtlv.com
 0.0.0.0 czihyzbul.com
 0.0.0.0 czppmlbidjdx.com
@@ -231,10 +197,8 @@
 0.0.0.0 dajoetsja.com
 0.0.0.0 dash.suprnova.cc
 0.0.0.0 daxnfpzmnfdr.com
-0.0.0.0 dbojgaxhxalh.com
 0.0.0.0 dbysmkeerpzo.com
 0.0.0.0 dc.deltapool.net
-0.0.0.0 dcmatjqifoim.com
 0.0.0.0 dcr-api.suprnova.cc
 0.0.0.0 dcr-gw.suprnova.cc
 0.0.0.0 dcr.suprnova.cc
@@ -1004,7 +968,6 @@
 0.0.0.0 oubibahphzsz.com
 0.0.0.0 oubriojtpnps.com
 0.0.0.0 oulxdvvpmfcd.com
-0.0.0.0 ovc2-ustokyyneikyfasnm.stackpathdns.com
 0.0.0.0 ovchjqpdh.com
 0.0.0.0 ovcksawwem.com
 0.0.0.0 ovrdkhamiljt.com
@@ -1868,8 +1831,8 @@
 
 # Hosts - anudeep-coinminer
 # Source - https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt
-# Generated - 10.08.2018
+# Generated - 18.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 1867
+# Total Domains: 1830
 # License: MIT
 

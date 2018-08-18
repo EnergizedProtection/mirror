@@ -175,7 +175,6 @@
 0.0.0.0 counter.yadro.ru
 0.0.0.0 cpxl.golem.de
 0.0.0.0 crm.zenguard.biz
-0.0.0.0 csi.gstatic.com
 0.0.0.0 csr.onet.pl
 0.0.0.0 ct.pinterest.com
 0.0.0.0 ctl.mobitrack.co.kr
@@ -450,6 +449,7 @@
 0.0.0.0 pixiedust.buzzfeed.com
 0.0.0.0 pos.baidu.com
 0.0.0.0 pp-serve.newsinc.com
+0.0.0.0 prd-collector-anon-video.playbuzz.com
 0.0.0.0 prd-collector-anon.playbuzz.com
 0.0.0.0 production-eqbc.lvp.llnw.net
 0.0.0.0 production-mcs.lvp.llnw.net
@@ -704,7 +704,7 @@
 
 # Hosts - adguard-spyware
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-spyware-firstparty.txt
-# Generated - 10.08.2018
+# Generated - 18.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 703
 # License: MIT

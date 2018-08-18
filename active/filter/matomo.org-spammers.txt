@@ -23,7 +23,6 @@
 0.0.0.0 acunetix-referrer.com
 0.0.0.0 adanih.com
 0.0.0.0 adcash.com
-0.0.0.0 adf.ly
 0.0.0.0 adtiger.tk
 0.0.0.0 adventureparkcostarica.com
 0.0.0.0 adviceforum.info
@@ -36,7 +35,6 @@
 0.0.0.0 alibestsale.com
 0.0.0.0 aliexsale.ru
 0.0.0.0 alinabaniecka.pl
-0.0.0.0 alkanfarma.org
 0.0.0.0 allergick.com
 0.0.0.0 allergija.com
 0.0.0.0 allknow.info
@@ -55,7 +53,6 @@
 0.0.0.0 antiguabarbuda.ru
 0.0.0.0 apteka-pharm.ru
 0.0.0.0 arendakvartir.kz
-0.0.0.0 arkkivoltti.net
 0.0.0.0 artpaint-market.ru
 0.0.0.0 artparquet.ru
 0.0.0.0 ask-yug.com
@@ -68,11 +65,9 @@
 0.0.0.0 autovideobroadcast.com
 0.0.0.0 avkzarabotok.info
 0.0.0.0 avtovykup.kz
-0.0.0.0 azartclub.org
 0.0.0.0 azbukafree.com
 0.0.0.0 azlex.uz
 0.0.0.0 baixar-musicas-gratis.com
-0.0.0.0 baladur.ru
 0.0.0.0 balitouroffice.com
 0.0.0.0 balkanfarma.org
 0.0.0.0 bard-real.com.ua
@@ -84,7 +79,6 @@
 0.0.0.0 best-deal-hdd.pro
 0.0.0.0 best-seo-offer.com
 0.0.0.0 best-seo-solution.com
-0.0.0.0 bestmobilityscooterstoday.com
 0.0.0.0 bestofferhddbyt.info
 0.0.0.0 bestofferhddeed.info
 0.0.0.0 bestwebsitesawards.com
@@ -109,7 +103,6 @@
 0.0.0.0 brillianty.info
 0.0.0.0 brk-rti.ru
 0.0.0.0 brothers-smaller.ru
-0.0.0.0 brusilov.ru
 0.0.0.0 bsell.ru
 0.0.0.0 bufetout.ru
 0.0.0.0 burger-imperia.com
@@ -235,7 +228,6 @@
 0.0.0.0 forum69.info
 0.0.0.0 foxweber.com
 0.0.0.0 frauplus.ru
-0.0.0.0 free-fbook-traffic.com
 0.0.0.0 free-share-buttons.com
 0.0.0.0 free-video-tool.com
 0.0.0.0 free-website-traffic.com
@@ -740,8 +732,8 @@
 
 # Hosts - matomo.org-spammers
 # Source - https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt
-# Generated - 10.08.2018
+# Generated - 18.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 739
+# Total Domains: 731
 # License: MIT
 

@@ -26,7 +26,7 @@
 
 # Hosts - adguard-safari
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-safari.txt
-# Generated - 10.08.2018
+# Generated - 18.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 25
 # License: MIT

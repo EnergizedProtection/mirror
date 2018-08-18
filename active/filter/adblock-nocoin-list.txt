@@ -338,13 +338,11 @@
 0.0.0.0 wss.rand.com.ru
 0.0.0.0 wtm.monitoringservice.co
 0.0.0.0 www.authedwebmine.cz
-0.0.0.0 www.aymcsx.ru
 0.0.0.0 www.blockchained.party
 0.0.0.0 www.coinimp.com
 0.0.0.0 www.coinimp.net
 0.0.0.0 www.cryptonoter.com
 0.0.0.0 www.datasecu.download
-0.0.0.0 www.etzbnfuigipwvs.ru
 0.0.0.0 www.freecontent.bid
 0.0.0.0 www.freecontent.date
 0.0.0.0 www.freecontent.faith
@@ -380,8 +378,8 @@
 
 # Hosts - adblock-nocoin-list
 # Source - https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
-# Generated - 10.08.2018
+# Generated - 18.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 379
+# Total Domains: 377
 # License: MIT
 

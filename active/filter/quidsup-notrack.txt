@@ -314,7 +314,6 @@
 0.0.0.0 getdrip.com
 0.0.0.0 gettraff.com
 0.0.0.0 ggimg.tapas.net
-0.0.0.0 gigya.com
 0.0.0.0 gldsta-02-or.com
 0.0.0.0 go-mpulse.net
 0.0.0.0 go2cloud.org
@@ -544,7 +543,6 @@
 0.0.0.0 plugerr.com
 0.0.0.0 plymedia.com
 0.0.0.0 pmpubs.com
-0.0.0.0 po.st
 0.0.0.0 pointroll.com
 0.0.0.0 polar.me
 0.0.0.0 polarmobile.com
@@ -773,7 +771,6 @@
 0.0.0.0 vertmarkets.com
 0.0.0.0 veruta.com
 0.0.0.0 vgwort.de
-0.0.0.0 viafoura.com
 0.0.0.0 viazza.com
 0.0.0.0 viazza.info
 0.0.0.0 videoadex.com
@@ -795,7 +792,6 @@
 0.0.0.0 watcheezy.net
 0.0.0.0 wci-fl.com
 0.0.0.0 webgains.com
-0.0.0.0 webmd.com
 0.0.0.0 websiteperform.com
 0.0.0.0 webvitality.me
 0.0.0.0 whoisvisiting.com
@@ -834,8 +830,8 @@
 
 # Hosts - quidsup-notrack
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/quidsup-no-track.txt
-# Generated - 10.08.2018
+# Generated - 18.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 833
+# Total Domains: 829
 # License: MIT
 

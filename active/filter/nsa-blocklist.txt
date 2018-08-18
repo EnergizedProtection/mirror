@@ -77,7 +77,6 @@
 0.0.0.0 alabpp.gov
 0.0.0.0 alacop.gov
 0.0.0.0 alada.gov
-0.0.0.0 aladna.gov
 0.0.0.0 alamedaca.gov
 0.0.0.0 alamoheightstx.gov
 0.0.0.0 alasafe.gov
@@ -366,7 +365,6 @@
 0.0.0.0 azhs.gov
 0.0.0.0 azica.gov
 0.0.0.0 azinsurance.gov
-0.0.0.0 azinvestor.gov
 0.0.0.0 azjobconnection.gov
 0.0.0.0 azjuved.gov
 0.0.0.0 azkidsneedu.gov
@@ -386,7 +384,6 @@
 0.0.0.0 azospb.gov
 0.0.0.0 azot.gov
 0.0.0.0 azpa.gov
-0.0.0.0 azparks.gov
 0.0.0.0 azph.gov
 0.0.0.0 azpharmacy.gov
 0.0.0.0 azpost.gov
@@ -428,7 +425,6 @@
 0.0.0.0 b.in-addr.cn
 0.0.0.0 b.ns.broadviewnet.net
 0.0.0.0 b.ns.interland.net
-0.0.0.0 b.ns.verio.net
 0.0.0.0 b3extdns.broadwing.com
 0.0.0.0 b3extdns2.broadwing.com
 0.0.0.0 b4wv.gov
@@ -559,7 +555,6 @@
 0.0.0.0 bj-dns.cncnet.net
 0.0.0.0 bja.gov
 0.0.0.0 bjs.gov
-0.0.0.0 bjsns.cnc-idc.com
 0.0.0.0 blacksburg.gov
 0.0.0.0 blainecounty-mt.gov
 0.0.0.0 blairsville-ga.gov
@@ -636,7 +631,6 @@
 0.0.0.0 broadview-il.gov
 0.0.0.0 brockton-ma.gov
 0.0.0.0 brokenarrowok.gov
-0.0.0.0 brookfield-wi.gov
 0.0.0.0 brookfieldct.gov
 0.0.0.0 brookfieldil.gov
 0.0.0.0 brookhavenga.gov
@@ -700,7 +694,6 @@
 0.0.0.0 c.dns.tds.net
 0.0.0.0 c.in-addr.cn
 0.0.0.0 c.ns.interland.net
-0.0.0.0 c.ns.verio.net
 0.0.0.0 ca.gov
 0.0.0.0 cabarruscountync.gov
 0.0.0.0 cabazonindians-nsn.gov
@@ -830,7 +823,6 @@
 0.0.0.0 charlestown-nh.gov
 0.0.0.0 charlottenc.gov
 0.0.0.0 charlottesvilleva.gov
-0.0.0.0 charon.tceq.state.tx.us
 0.0.0.0 chatham-ma.gov
 0.0.0.0 chatham-va.gov
 0.0.0.0 chathamtownship-nj.gov
@@ -840,7 +832,6 @@
 0.0.0.0 cheathamcountytn.gov
 0.0.0.0 chelancountywa.gov
 0.0.0.0 chelseama.gov
-0.0.0.0 cherokee-nsn.gov
 0.0.0.0 cherokeecounty-al.gov
 0.0.0.0 cherokeecounty-nc.gov
 0.0.0.0 cherokeecountyks.gov
@@ -915,7 +906,6 @@
 0.0.0.0 cityofcrisfield-md.gov
 0.0.0.0 cityofcudahyca.gov
 0.0.0.0 cityofdalton-ga.gov
-0.0.0.0 cityofdouglasga.gov
 0.0.0.0 cityofdunbarwv.gov
 0.0.0.0 cityofeudoraks.gov
 0.0.0.0 cityoffargo-nd.gov
@@ -965,7 +955,6 @@
 0.0.0.0 cityofparma-oh.gov
 0.0.0.0 cityofpassaicnj.gov
 0.0.0.0 cityofpattersonla.gov
-0.0.0.0 cityofphoenix.gov
 0.0.0.0 cityofpigeonforgetn.gov
 0.0.0.0 cityofplainville-ks.gov
 0.0.0.0 cityofplattsburgh-ny.gov
@@ -981,7 +970,6 @@
 0.0.0.0 cityofsunrisefl.gov
 0.0.0.0 cityofsunriseflorida.gov
 0.0.0.0 cityoftitusvillepa.gov
-0.0.0.0 cityoftorranceca.gov
 0.0.0.0 cityoftylertx.gov
 0.0.0.0 cityofwarrenpa.gov
 0.0.0.0 cityofwashingtonga.gov
@@ -995,7 +983,6 @@
 0.0.0.0 clarkcountyohio.gov
 0.0.0.0 clarkecounty.gov
 0.0.0.0 clarkstonga.gov
-0.0.0.0 clatsopcountyor.gov
 0.0.0.0 claycountyin.gov
 0.0.0.0 claycountymn.gov
 0.0.0.0 claycountymo.gov
@@ -1125,7 +1112,6 @@
 0.0.0.0 corningar.gov
 0.0.0.0 cornwallny.gov
 0.0.0.0 coronadoca.gov
-0.0.0.0 corpuschristi-tx.gov
 0.0.0.0 corrypa.gov
 0.0.0.0 corsair.millersville.edu
 0.0.0.0 corunna-mi.gov
@@ -1264,7 +1250,6 @@
 0.0.0.0 defense.gov
 0.0.0.0 defiant.netgate.net.nz
 0.0.0.0 dekalbcountyga.gov
-0.0.0.0 dekalbcountyil.gov
 0.0.0.0 dekorra-wi.gov
 0.0.0.0 del.gov
 0.0.0.0 delaware.gov
@@ -6524,8 +6509,8 @@
 
 # Hosts - nsa-blocklist
 # Source - https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/HOSTS
-# Generated - 10.08.2018
+# Generated - 18.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 6523
+# Total Domains: 6508
 # License: MIT
 

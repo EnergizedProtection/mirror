@@ -386,7 +386,6 @@
 0.0.0.0 www.milf.erolove.in
 0.0.0.0 www.mistress.xblog.in
 0.0.0.0 www.msni.it
-0.0.0.0 www.multcloud.com
 0.0.0.0 www.musclehealthfitness.com
 0.0.0.0 www.musclesupplementsreviews.org
 0.0.0.0 www.my-xcam.com
@@ -496,8 +495,8 @@
 
 # Hosts - hosts-file.net-grm
 # Source - https://hosts-file.net/grm.txt
-# Generated - 10.08.2018
+# Generated - 18.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 495
+# Total Domains: 494
 # License: MIT
 

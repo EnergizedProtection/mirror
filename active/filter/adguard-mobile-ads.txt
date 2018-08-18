@@ -44,7 +44,6 @@
 0.0.0.0 adback.tango.me
 0.0.0.0 adbetnet.advertserve.com
 0.0.0.0 adblade.com
-0.0.0.0 adbrau.com
 0.0.0.0 adbuddiz.com
 0.0.0.0 adcamp.ru
 0.0.0.0 adcash.com
@@ -275,6 +274,7 @@
 0.0.0.0 cdn.cpiera.com
 0.0.0.0 cdn.hdat.xyz
 0.0.0.0 cdn.unityads.unity3d.com
+0.0.0.0 cdn1.ettoday.net
 0.0.0.0 cdn7.rocks
 0.0.0.0 cdns.lodeo.io
 0.0.0.0 celtra.com
@@ -310,7 +310,6 @@
 0.0.0.0 crosspromotion-us.avosapps.us
 0.0.0.0 crosspromotion.weplayer.cc
 0.0.0.0 crossrider.com
-0.0.0.0 csi.gstatic.com
 0.0.0.0 ctl.buyt.in
 0.0.0.0 d1zkodo2u3p4pe.cloudfront.net
 0.0.0.0 d2nrdy2pg3k168.cloudfront.net
@@ -530,6 +529,7 @@
 0.0.0.0 mpx.mopub.com
 0.0.0.0 msads.net
 0.0.0.0 msbmopod.vo.llnwd.net
+0.0.0.0 msg.ettoday.net
 0.0.0.0 msntest.serving-sys.com
 0.0.0.0 mtburn.com
 0.0.0.0 mtburn.jp
@@ -794,7 +794,7 @@
 
 # Hosts - adguard-mobile-ads
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-mobile-ads.txt
-# Generated - 10.08.2018
+# Generated - 18.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 793
 # License: MIT

@@ -182,7 +182,6 @@
 0.0.0.0 analysistools.net
 0.0.0.0 analytics-egain.com
 0.0.0.0 analyticswizard.com
-0.0.0.0 analytk.com
 0.0.0.0 anametrix.com
 0.0.0.0 anametrix.net
 0.0.0.0 andersenit.dk
@@ -208,7 +207,6 @@
 0.0.0.0 aprtx.com
 0.0.0.0 aqtracker.com
 0.0.0.0 arcadeweb.com
-0.0.0.0 arena-quantum.co.uk
 0.0.0.0 argyresthia.com
 0.0.0.0 ariseboundary.com
 0.0.0.0 arkayne.com
@@ -222,11 +220,9 @@
 0.0.0.0 atatus.com
 0.0.0.0 atdmt.com
 0.0.0.0 athenainstitute.biz
-0.0.0.0 atoshonetwork.com
 0.0.0.0 atraxio.com
 0.0.0.0 atsfi.de
 0.0.0.0 atticwicket.com
-0.0.0.0 attracta.com
 0.0.0.0 audienceamplify.com
 0.0.0.0 audienceinsights.net
 0.0.0.0 audienceiq.com
@@ -335,7 +331,6 @@
 0.0.0.0 blogtoplist.com
 0.0.0.0 blogtraffic.de
 0.0.0.0 blogtw.net
-0.0.0.0 blogverzeichnis.eu
 0.0.0.0 bluecava.com
 0.0.0.0 blueconic.net
 0.0.0.0 bluecounter.de
@@ -422,7 +417,6 @@
 0.0.0.0 chartbeat.net
 0.0.0.0 checkeffect.at
 0.0.0.0 checkstat.nl
-0.0.0.0 chengyuplaza.com
 0.0.0.0 cherrythread.com
 0.0.0.0 chiefcurrent.com
 0.0.0.0 christiantop1000.com
@@ -532,7 +526,6 @@
 0.0.0.0 count.rbc.ru
 0.0.0.0 count24.de
 0.0.0.0 countar.de
-0.0.0.0 countby.com
 0.0.0.0 counter-city.de
 0.0.0.0 counter-go.de
 0.0.0.0 counter-gratis.com
@@ -612,7 +605,6 @@
 0.0.0.0 cybermonitor.com
 0.0.0.0 cytoclause.com
 0.0.0.0 dacounter.com
-0.0.0.0 dailycaller-alerts.com
 0.0.0.0 dapxl.com
 0.0.0.0 dashboard.io
 0.0.0.0 data-analytics.jp
@@ -1098,7 +1090,6 @@
 0.0.0.0 hydr.work
 0.0.0.0 hyfntrak.com
 0.0.0.0 hyperactivate.com
-0.0.0.0 hypestat.com
 0.0.0.0 i-stats.com
 0.0.0.0 iadvize.com
 0.0.0.0 ib-ibi.com
@@ -2714,8 +2705,8 @@
 
 # Hosts - adguard-tracking
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-tracking-servers.txt
-# Generated - 10.08.2018
+# Generated - 18.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 2713
+# Total Domains: 2704
 # License: MIT
 

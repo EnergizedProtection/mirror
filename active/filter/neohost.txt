@@ -142,7 +142,6 @@
 0.0.0.0 ad.duapps.com
 0.0.0.0 ad.flurry.com
 0.0.0.0 ad.gamebox.360.cn
-0.0.0.0 ad.greedland.net
 0.0.0.0 ad.holaq.com
 0.0.0.0 ad.jp.doubleclick.net
 0.0.0.0 ad.jsnbrynb.com
@@ -157,7 +156,6 @@
 0.0.0.0 ad.wretch.cc
 0.0.0.0 ad.xxguan.cn
 0.0.0.0 ad.zuimeitianqi.com
-0.0.0.0 ad1.greedland.net
 0.0.0.0 ad1.udn.com
 0.0.0.0 ad2.sina.com.cn
 0.0.0.0 ad2.udn.com
@@ -201,13 +199,11 @@
 0.0.0.0 admd.yam.com
 0.0.0.0 admeld.adnxs.com
 0.0.0.0 admin.cooguo.com
-0.0.0.0 admin.wooboo.com.cn
 0.0.0.0 adn.atdmt.com
 0.0.0.0 adn.insight.ucweb.com
 0.0.0.0 adobe-dns-2.adobe.com
 0.0.0.0 adobe-dns-3.adobe.com
 0.0.0.0 adping.qq.com
-0.0.0.0 adplace.adsame.com
 0.0.0.0 adplexmedia.adk2.co
 0.0.0.0 adplexmedia.adk2x.com
 0.0.0.0 adpm.app.qq.com
@@ -215,7 +211,6 @@
 0.0.0.0 adpublish.ydstatic.com
 0.0.0.0 adrdir.qq.com
 0.0.0.0 adres.myaora.net
-0.0.0.0 ads-west-colo.adsymptotic.com
 0.0.0.0 ads.adaptv.advertising.com
 0.0.0.0 ads.creative-serving.com
 0.0.0.0 ads.eu.msn.com
@@ -577,7 +572,6 @@
 0.0.0.0 c.wcpt.biz.weibo.com
 0.0.0.0 c.wrating.com
 0.0.0.0 c.x.cn.miaozhen.com
-0.0.0.0 c.xhsxgmt.cn
 0.0.0.0 c0.ifengimg.com
 0.0.0.0 c0i8h8ac7e.bid
 0.0.0.0 c1.adform.net
@@ -701,7 +695,6 @@
 0.0.0.0 cm.p4p.cn.yahoo.com
 0.0.0.0 cm.pos.baidu.com
 0.0.0.0 cm.reachmax.cn
-0.0.0.0 cm.vamaker.com
 0.0.0.0 cm066.getui.igexin.com
 0.0.0.0 cmc.tanx.com
 0.0.0.0 cmcdl.cmcm.com
@@ -815,8 +808,6 @@
 0.0.0.0 cpro2.baidustatic.com
 0.0.0.0 cpu-admin.baidu.com
 0.0.0.0 cpu.baidu.com
-0.0.0.0 cpv.czpush.com
-0.0.0.0 cpv.ty229.com
 0.0.0.0 cr-p16.ladsp.com
 0.0.0.0 cr.m.liebao.cn
 0.0.0.0 crashlytics.163.com
@@ -833,7 +824,6 @@
 0.0.0.0 ct.niu.xunlei.com
 0.0.0.0 cti.w55c.net
 0.0.0.0 cws-cctv.conviva.com
-0.0.0.0 cz01016102.ms758.com
 0.0.0.0 d.107788.com
 0.0.0.0 d.clkservice.youdao.com
 0.0.0.0 d.gdt.qq.com
@@ -899,7 +889,6 @@
 0.0.0.0 dfc1.benbaisteel.com
 0.0.0.0 diaopic.14bobo.com
 0.0.0.0 digg.analytics.live.com
-0.0.0.0 dip.szhyzkj.com
 0.0.0.0 dir.minigame.qq.com
 0.0.0.0 dis.criteo.com
 0.0.0.0 dis.us.criteo.com
@@ -2312,6 +2301,7 @@
 0.0.0.0 secure.adnxs.com
 0.0.0.0 secure.fastclick.net
 0.0.0.0 secure.img-cdn.mediaplex.com
+0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 security.browser.miui.com
 0.0.0.0 seen.hgo7r.cn
 0.0.0.0 selfie.snapmobileasia.net
@@ -2408,6 +2398,7 @@
 0.0.0.0 ss.missyouxi.com
 0.0.0.0 ssdk.adkmob.com
 0.0.0.0 ssl-cdn.static.browser.mi-img.com
+0.0.0.0 ssl.google-analytics.com
 0.0.0.0 ssl.ymapp.com
 0.0.0.0 ssp.0531kt.com
 0.0.0.0 ssp.adpush.cn
@@ -3120,8 +3111,8 @@
 
 # Hosts - neohost
 # Source - https://hosts.nfz.moe/full/hosts
-# Generated - 10.08.2018
+# Generated - 18.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 3119
+# Total Domains: 3110
 # License: MIT
 

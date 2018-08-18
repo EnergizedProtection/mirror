@@ -156,7 +156,6 @@
 0.0.0.0 click.appinthestore.com
 0.0.0.0 click.aristotle.net
 0.0.0.0 click.rssfwd.com
-0.0.0.0 click1.email.nymagazine.com
 0.0.0.0 clicks.dealer.com
 0.0.0.0 clickthru.lefbc.com
 0.0.0.0 clicktracker.iscan.nl
@@ -199,7 +198,6 @@
 0.0.0.0 counter.top.ge
 0.0.0.0 counter.yadro.ru
 0.0.0.0 counters.freewebs.com
-0.0.0.0 csi.gstatic.com
 0.0.0.0 csp-collector.appspot.com
 0.0.0.0 ct.eid.co.nz
 0.0.0.0 ct.itbusinessedge.com
@@ -273,7 +271,6 @@
 0.0.0.0 d8rk54i4mohrb.cloudfront.net
 0.0.0.0 daq0d0aotgq0f.cloudfront.net
 0.0.0.0 data.alexa.com
-0.0.0.0 data.beyond.com
 0.0.0.0 data.circulate.com
 0.0.0.0 data.gosquared.com
 0.0.0.0 data.imakenews.com
@@ -816,8 +813,8 @@
 
 # Hosts - easyprivacy-thirdparty
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easyprivacy-thirdparty.txt
-# Generated - 10.08.2018
+# Generated - 18.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 815
+# Total Domains: 812
 # License: MIT
 

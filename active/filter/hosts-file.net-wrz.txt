@@ -22,7 +22,6 @@
 0.0.0.0 8millimeters.com
 0.0.0.0 a2zapk.com
 0.0.0.0 a2zcrack.com
-0.0.0.0 abandon5000.com
 0.0.0.0 abv-media.ru
 0.0.0.0 activationkeys.org
 0.0.0.0 addone.ru
@@ -114,7 +113,6 @@
 0.0.0.0 cdcovers.cc
 0.0.0.0 cddownloadeasy.org
 0.0.0.0 cddownloadfree.org
-0.0.0.0 cddownloadfull.org
 0.0.0.0 cdkeysgames.com
 0.0.0.0 cdownloaderz522.cf
 0.0.0.0 cheat-gam3.com
@@ -158,12 +156,12 @@
 0.0.0.0 cracksone.com
 0.0.0.0 crackspider.net
 0.0.0.0 cracksurl.com
-0.0.0.0 cracktower.com
 0.0.0.0 crackvilla.com
 0.0.0.0 crackway.com
 0.0.0.0 crackzplanet.com
 0.0.0.0 crackzplanet.org
 0.0.0.0 cracx.com
+0.0.0.0 cracxactivator.com
 0.0.0.0 cracxsoftware.com
 0.0.0.0 cracxtool.com
 0.0.0.0 craftkeys.com
@@ -332,7 +330,6 @@
 0.0.0.0 fullstuff.co
 0.0.0.0 fullversions.org
 0.0.0.0 fullversionsoftwaredownload.blogspot.com
-0.0.0.0 fzmovies.net
 0.0.0.0 fzmoviez.org
 0.0.0.0 fztvseries.mobi
 0.0.0.0 g2g.fm
@@ -927,7 +924,6 @@
 0.0.0.0 tryfile.com
 0.0.0.0 tulsapost.com
 0.0.0.0 tvconsoles.ru
-0.0.0.0 tvseries.in
 0.0.0.0 tvspring.com
 0.0.0.0 tvtokio.ru
 0.0.0.0 twilightkisses.com
@@ -968,7 +964,6 @@
 0.0.0.0 vidics.com
 0.0.0.0 vidics.eu
 0.0.0.0 vidspot.net
-0.0.0.0 vidto.me
 0.0.0.0 vip-file.com
 0.0.0.0 vkstreaming.org
 0.0.0.0 vongolafamily.com
@@ -1216,6 +1211,7 @@
 0.0.0.0 www.crackz.ws
 0.0.0.0 www.crackzplanet.com
 0.0.0.0 www.cracx.com
+0.0.0.0 www.cracxactivator.com
 0.0.0.0 www.cracxsoftware.com
 0.0.0.0 www.craftkeys.com
 0.0.0.0 www.cricfree.sx
@@ -1931,6 +1927,7 @@
 0.0.0.0 www.win2crack.blogspot.in
 0.0.0.0 www.windows10ny.com
 0.0.0.0 www.windows8iso.org
+0.0.0.0 www.windowstool.net
 0.0.0.0 www.worldofcracksoft.com
 0.0.0.0 www.wow-movies.org
 0.0.0.0 www.wqsky.com
@@ -2035,8 +2032,8 @@
 
 # Hosts - hosts-file.net-wrz
 # Source - https://hosts-file.net/wrz.txt
-# Generated - 10.08.2018
+# Generated - 18.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 2034
+# Total Domains: 2031
 # License: MIT
 

@@ -1927,7 +1927,6 @@
 0.0.0.0 www.hobomovies.com
 0.0.0.0 www.hogclips.com
 0.0.0.0 www.holloporn.com
-0.0.0.0 www.hollywoodlife.com
 0.0.0.0 www.hollywoodtuna.com
 0.0.0.0 www.holylol.com
 0.0.0.0 www.holytaco.com
@@ -4475,8 +4474,8 @@
 
 # Hosts - clefspeare-pornhosts
 # Source - https://raw.githubusercontent.com/Clefspeare13/pornhosts/master/0.0.0.0/hosts
-# Generated - 10.08.2018
+# Generated - 18.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 4474
+# Total Domains: 4473
 # License: MIT
 

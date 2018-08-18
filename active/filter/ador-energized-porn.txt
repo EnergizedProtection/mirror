@@ -1,3 +1,4 @@
+0.0.0.0 ads.nayemador.com
 0.0.0.0 afterrape.net
 0.0.0.0 angelsx.com
 0.0.0.0 beeg.com
@@ -140,8 +141,8 @@
 
 # Hosts - ador-energized-porn
 # Source - https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/EnergizedHosts/EnergizedPorn
-# Generated - 10.08.2018
+# Generated - 18.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 139
+# Total Domains: 140
 # License: MIT
 

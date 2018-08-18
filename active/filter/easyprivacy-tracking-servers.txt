@@ -196,7 +196,6 @@
 0.0.0.0 analytics.blue
 0.0.0.0 analyticschecker.com
 0.0.0.0 analyticswizard.com
-0.0.0.0 analytk.com
 0.0.0.0 anametrix.com
 0.0.0.0 anametrix.net
 0.0.0.0 andagainanotherthing.com
@@ -225,7 +224,6 @@
 0.0.0.0 aqqgli3vle.bid
 0.0.0.0 aqtracker.com
 0.0.0.0 arcadeweb.com
-0.0.0.0 arena-quantum.co.uk
 0.0.0.0 arianelab.com
 0.0.0.0 arkayne.com
 0.0.0.0 arlime.com
@@ -240,9 +238,7 @@
 0.0.0.0 astro-way.com
 0.0.0.0 atatus.com
 0.0.0.0 athenainstitute.biz
-0.0.0.0 atoshonetwork.com
 0.0.0.0 atticwicket.com
-0.0.0.0 attracta.com
 0.0.0.0 attraqt.com
 0.0.0.0 attributionapp.com
 0.0.0.0 audienceamplify.com
@@ -571,7 +567,6 @@
 0.0.0.0 coremetrics.com
 0.0.0.0 coremotives.com
 0.0.0.0 cost1action.com
-0.0.0.0 countby.com
 0.0.0.0 counter.gd
 0.0.0.0 counter.top.kg
 0.0.0.0 counter160.com
@@ -639,7 +634,6 @@
 0.0.0.0 dable.io
 0.0.0.0 dacounter.com
 0.0.0.0 dadi.technology
-0.0.0.0 dailycaller-alerts.com
 0.0.0.0 dapxl.com
 0.0.0.0 dashboard.io
 0.0.0.0 data-analytics.jp
@@ -1085,7 +1079,6 @@
 0.0.0.0 hxtrack.com
 0.0.0.0 hyfntrak.com
 0.0.0.0 hyperactivate.com
-0.0.0.0 hypestat.com
 0.0.0.0 i-stats.com
 0.0.0.0 i401xox.com
 0.0.0.0 iadvize.com
@@ -1351,6 +1344,7 @@
 0.0.0.0 marketshot.com
 0.0.0.0 marketshot.fr
 0.0.0.0 markitondemand.com
+0.0.0.0 maropost.com
 0.0.0.0 masterstats.com
 0.0.0.0 matheranalytics.com
 0.0.0.0 mathtag.com
@@ -1711,6 +1705,7 @@
 0.0.0.0 pntrs.com
 0.0.0.0 podrltid.info
 0.0.0.0 pointomatic.com
+0.0.0.0 polarcdn-pentos.com
 0.0.0.0 pool.etn.spacepools.org
 0.0.0.0 poolmining.eu
 0.0.0.0 poolmining.net
@@ -2034,6 +2029,7 @@
 0.0.0.0 soflopxl.com
 0.0.0.0 softonic-analytics.net
 0.0.0.0 sojern.com
+0.0.0.0 soko.ai
 0.0.0.0 sokrati.com
 0.0.0.0 sometrics.com
 0.0.0.0 sophus3.com
@@ -2575,8 +2571,8 @@
 
 # Hosts - easyprivacy-tracking-servers
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easyprivacy-tracking-servers.txt
-# Generated - 10.08.2018
+# Generated - 18.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 2574
+# Total Domains: 2570
 # License: MIT
 

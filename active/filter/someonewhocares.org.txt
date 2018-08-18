@@ -285,7 +285,6 @@
 0.0.0.0 ad.linkstorms.com
 0.0.0.0 ad.linksynergy.com
 0.0.0.0 ad.livere.co.kr
-0.0.0.0 ad.lyricswire.com
 0.0.0.0 ad.mail.ru
 0.0.0.0 ad.maist.jp
 0.0.0.0 ad.mangareader.net
@@ -599,7 +598,6 @@
 0.0.0.0 adimg.com.com
 0.0.0.0 adin.bigpoint.com
 0.0.0.0 adipex.24sws.ws
-0.0.0.0 adipex.hut1.ru
 0.0.0.0 adipex.shengen.ru
 0.0.0.0 adipexp.3xforum.ro
 0.0.0.0 adipics.com
@@ -657,7 +655,6 @@
 0.0.0.0 adobee.com
 0.0.0.0 adobur.com
 0.0.0.0 adocean.pl
-0.0.0.0 adopt.precisead.com
 0.0.0.0 adopt.specificclick.net
 0.0.0.0 adotube.com
 0.0.0.0 adp.gazeta.pl
@@ -966,7 +963,6 @@
 0.0.0.0 ads.northjersey.com
 0.0.0.0 ads.novem.pl
 0.0.0.0 ads.novinhagostosa10.com
-0.0.0.0 ads.nowrunning.com
 0.0.0.0 ads.nwsource.com
 0.0.0.0 ads.nwsource.com.edgesuite.net
 0.0.0.0 ads.nyi.net
@@ -1338,7 +1334,6 @@
 0.0.0.0 adserver.matchcraft.com
 0.0.0.0 adserver.merc.com
 0.0.0.0 adserver.mindshare.de
-0.0.0.0 adserver.mobsmith.com
 0.0.0.0 adserver.myownemail.com
 0.0.0.0 adserver.netcreators.nl
 0.0.0.0 adserver.news.com
@@ -1436,7 +1431,6 @@
 0.0.0.0 adsp.haberturk.com
 0.0.0.0 adspaces.ero-advertising.com
 0.0.0.0 adspirit.net
-0.0.0.0 adspiro.pl
 0.0.0.0 adsqqclick.qq.com
 0.0.0.0 adsrevenue.net
 0.0.0.0 adsrich.qq.com
@@ -1516,7 +1510,6 @@
 0.0.0.0 adverterenbijsbs.nl
 0.0.0.0 advertise.com
 0.0.0.0 advertisement.avosapps.us
-0.0.0.0 advertisers.federatedmedia.net
 0.0.0.0 advertising.aol.com
 0.0.0.0 advertising.bbcworldwide.com
 0.0.0.0 advertising.com
@@ -1582,7 +1575,6 @@
 0.0.0.0 affiliates.globat.com
 0.0.0.0 affiliation-france.com
 0.0.0.0 affimg.pop6.com
-0.0.0.0 afform.co.uk
 0.0.0.0 affpartners.com
 0.0.0.0 affpool.com
 0.0.0.0 affrh2023.com
@@ -1743,6 +1735,7 @@
 0.0.0.0 app3.letitbefaster.life
 0.0.0.0 app3.letitbefaster.website
 0.0.0.0 app3.letslowbefast.site
+0.0.0.0 app4.greatmacsoft.tech
 0.0.0.0 app4.letitbefaster.life
 0.0.0.0 app4.letitbefaster.website
 0.0.0.0 app4.letslowbefast.life
@@ -1837,7 +1830,6 @@
 0.0.0.0 automobi.oewabox.at
 0.0.0.0 automotive-offer.com
 0.0.0.0 autoweb.112.2o7.net
-0.0.0.0 avidnewssource.com
 0.0.0.0 avpa.dzone.com
 0.0.0.0 avpa.javalobby.org
 0.0.0.0 awrz.net
@@ -1899,7 +1891,6 @@
 0.0.0.0 banner.ringofon.com
 0.0.0.0 banner.techarp.com
 0.0.0.0 banner1.pornhost.com
-0.0.0.0 banner2.inet-traffic.com
 0.0.0.0 bannerads.de
 0.0.0.0 bannerconnect.net
 0.0.0.0 bannerfarm.ace.advertising.com
@@ -2110,19 +2101,14 @@
 0.0.0.0 buy-cialis-online.iscool.nl
 0.0.0.0 buy-cialis.freewebtools.com
 0.0.0.0 buy-cialis.splinder.com
-0.0.0.0 buy-fioricet.hut1.ru
 0.0.0.0 buy-lortab-online.iscool.nl
-0.0.0.0 buy-lortab.hut1.ru
 0.0.0.0 buy-phentermine-online.135.it
 0.0.0.0 buy-phentermine-online.i-ltda.net
 0.0.0.0 buy-phentermine.thepizza.net
 0.0.0.0 buy-ultram-online.iscool.nl
-0.0.0.0 buy-valium.hut1.ru
 0.0.0.0 buy-vicodin-online.supersite.fr
-0.0.0.0 buy-vicodin.hut1.ru
 0.0.0.0 buy-vicodin.iscool.nl
 0.0.0.0 buy-xanax.aztecaonline.net
-0.0.0.0 buy-xanax.hut1.ru
 0.0.0.0 buycialisonline.7h.com
 0.0.0.0 buyfioricetonline.7h.com
 0.0.0.0 buyfioricetonline.freeservers.com
@@ -2276,7 +2262,6 @@
 0.0.0.0 cardgamespidersolitaire.com
 0.0.0.0 cards.virtuagirlhd.com
 0.0.0.0 careers.112.2o7.net
-0.0.0.0 carisoprodol.hut1.ru
 0.0.0.0 carisoprodol.shengen.ru
 0.0.0.0 carmuffler.net
 0.0.0.0 cartoonnetwork.122.2o7.net
@@ -2285,7 +2270,6 @@
 0.0.0.0 casalemedia.com
 0.0.0.0 cash-advance.now-cash.com
 0.0.0.0 cashback.co.uk
-0.0.0.0 cashbackwow.co.uk
 0.0.0.0 cashcounter.com
 0.0.0.0 cashflowmarketing.com
 0.0.0.0 cashreportz.com
@@ -2569,7 +2553,6 @@
 0.0.0.0 codeexplain.com
 0.0.0.0 codegur.com
 0.0.0.0 codeotel.com
-0.0.0.0 coderexception.com
 0.0.0.0 coffeehausblog.com
 0.0.0.0 coin-ad.com
 0.0.0.0 coin-have.com
@@ -2795,7 +2778,6 @@
 0.0.0.0 creditburner.blueadvertise.com
 0.0.0.0 creditsoffer.blogspot.com
 0.0.0.0 crewardscyprus.top
-0.0.0.0 crllmzsy.top
 0.0.0.0 crossout.net
 0.0.0.0 crosspixel.demdex.net
 0.0.0.0 crowdgravity.com
@@ -3011,7 +2993,6 @@
 0.0.0.0 downloads.mytvandmovies.com
 0.0.0.0 dp1.33across.com
 0.0.0.0 dpbolvw.net
-0.0.0.0 dpm.demdex.net
 0.0.0.0 dqs001.adtech.fr
 0.0.0.0 dqs001.adtech.us
 0.0.0.0 dr.soso.com
@@ -3655,7 +3636,6 @@
 0.0.0.0 ghmtr.hit.gemius.pl
 0.0.0.0 giftcardchallenge.com
 0.0.0.0 giftcardsurveys.us.com
-0.0.0.0 giftrewardzone.com
 0.0.0.0 gigaonclick.com
 0.0.0.0 gimg.baidu.com
 0.0.0.0 gimmethatreward.com
@@ -3721,7 +3701,6 @@
 0.0.0.0 googletagservices.com
 0.0.0.0 googlewordpad.info
 0.0.0.0 goplayz.com
-0.0.0.0 gorensin.info
 0.0.0.0 gorillanation.us.intellitxt.com
 0.0.0.0 gostats.com
 0.0.0.0 govahoyuge.itup.pw
@@ -3902,7 +3881,6 @@
 0.0.0.0 honarkhaneh.net
 0.0.0.0 honestsun.top
 0.0.0.0 honolulu.app.ur.gcion.com
-0.0.0.0 honouncil.info
 0.0.0.0 hooqy.com
 0.0.0.0 host207.ewtn.com
 0.0.0.0 host6.hitbox.com
@@ -3932,7 +3910,6 @@
 0.0.0.0 hub.com.pl
 0.0.0.0 huis.istats.nl
 0.0.0.0 huiwiw.hit.gemius.pl
-0.0.0.0 humption.info
 0.0.0.0 huntingtonbank.tt.omtrdc.net
 0.0.0.0 huomdgde.adocean.pl
 0.0.0.0 hydrocodone.irondel.swisshost.by
@@ -4407,7 +4384,6 @@
 0.0.0.0 like.likewut.net
 0.0.0.0 likeportal.com
 0.0.0.0 likespike.com
-0.0.0.0 lilovakia.info
 0.0.0.0 link.masterstats.com
 0.0.0.0 link2me.ru
 0.0.0.0 link4ads.com
@@ -4592,7 +4568,6 @@
 0.0.0.0 maxim.122.2o7.net
 0.0.0.0 maxmusics.com
 0.0.0.0 maxonclick.com
-0.0.0.0 maxserving.com
 0.0.0.0 maxvr.112.2o7.net
 0.0.0.0 mb01.com
 0.0.0.0 mbi3.kuicr.kyoto-u.ac.jp
@@ -4706,7 +4681,6 @@
 0.0.0.0 metrics.dallasnews.com
 0.0.0.0 metrics.elle.com
 0.0.0.0 metrics.experts-exchange.com
-0.0.0.0 metrics.foxnews.com
 0.0.0.0 metrics.gap.com
 0.0.0.0 metrics.health.com
 0.0.0.0 metrics.hrblock.com
@@ -6054,6 +6028,7 @@
 0.0.0.0 secure.netscope.marktest.pt
 0.0.0.0 secure.webconnect.net
 0.0.0.0 securecontactinfo.com
+0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 securerr.com
 0.0.0.0 securerunner.com
 0.0.0.0 security60-e.com
@@ -8511,8 +8486,8 @@
 
 # Hosts - someonewhocares.org
 # Source - http://someonewhocares.org/hosts/hosts
-# Generated - 10.08.2018
+# Generated - 18.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 8510
+# Total Domains: 8485
 # License: MIT
 

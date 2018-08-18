@@ -4,7 +4,7 @@
 0.0.0.0 51115.com
 0.0.0.0 9p.cn
 0.0.0.0 active-revenue1.impcodear.xyz
-0.0.0.0 activerevenue1.ustest.xyz
+0.0.0.0 active-revenue2.impcodear2.xyz
 0.0.0.0 adblockerext.com
 0.0.0.0 adblockext.com
 0.0.0.0 adblocktoolext.com
@@ -14,7 +14,6 @@
 0.0.0.0 api.toptenreviews.com
 0.0.0.0 apiurl.org
 0.0.0.0 avgasses.stream
-0.0.0.0 bigbil33.club
 0.0.0.0 bimegg5.info
 0.0.0.0 biology-chidden.stream
 0.0.0.0 booting522-info.ml
@@ -124,6 +123,8 @@
 0.0.0.0 securetoolext.com
 0.0.0.0 security-acb22.stream
 0.0.0.0 security-alert-malicious-items-detected-errorx10000x1be.impcode6.xyz
+0.0.0.0 security-alert-malicious-items-detected-errorx10000x1be.impcode78.xyz
+0.0.0.0 security-alert-malicious-items-detected-errorx10000x1be.impcode85.xyz
 0.0.0.0 securityext.com
 0.0.0.0 serch-direct.com
 0.0.0.0 server3.andhugedeal.info
@@ -243,8 +244,8 @@
 
 # Hosts - hosts-file.net-hjk
 # Source - https://hosts-file.net/hjk.txt
-# Generated - 10.08.2018
+# Generated - 18.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 242
+# Total Domains: 243
 # License: MIT
 

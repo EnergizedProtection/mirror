@@ -88,7 +88,6 @@
 0.0.0.0 config.safedk.com
 0.0.0.0 config.uca.cloud.unity3d.com
 0.0.0.0 config2.mparticle.com
-0.0.0.0 counter.hdvb.info
 0.0.0.0 counter.kingsoft.com
 0.0.0.0 crasheye.cn
 0.0.0.0 crwdcntrl.net
@@ -117,6 +116,7 @@
 0.0.0.0 fraudmetrix.cn
 0.0.0.0 gate.hockeyapp.net
 0.0.0.0 gcm.ksmobile.com
+0.0.0.0 geo.go2s.co
 0.0.0.0 geoinfo.i2w.io
 0.0.0.0 geoip.fotoable.net
 0.0.0.0 geoip.ifunny.co
@@ -140,6 +140,7 @@
 0.0.0.0 loadus.exelator.com
 0.0.0.0 localytics.com
 0.0.0.0 log.droid4x.cn
+0.0.0.0 log.go2s.co
 0.0.0.0 log.umsns.com
 0.0.0.0 logcollector.viewster.com
 0.0.0.0 logconfig.polarisoffice.com
@@ -263,8 +264,8 @@
 
 # Hosts - adguard-mobile-spyware
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-mobile-spyware.txt
-# Generated - 10.08.2018
+# Generated - 18.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 262
+# Total Domains: 263
 # License: MIT
 

@@ -21,7 +21,6 @@
 0.0.0.0 alb.reddit.com
 0.0.0.0 analysis.focalprice.com
 0.0.0.0 analytic.imlive.com
-0.0.0.0 analytics.247sports.com
 0.0.0.0 analytics.adfreetime.com
 0.0.0.0 analytics.archive.org
 0.0.0.0 analytics.brave.com
@@ -170,7 +169,7 @@
 0.0.0.0 g2a-com.newsletter.com.pl
 0.0.0.0 ga.canoe.ca
 0.0.0.0 ga.nsimg.net
-0.0.0.0 gateway.reddit.com
+0.0.0.0 gateway.reddit.com|
 0.0.0.0 gekko.spiceworks.com
 0.0.0.0 geo.hltv.org
 0.0.0.0 geo.homepage-web.com
@@ -651,8 +650,8 @@
 
 # Hosts - easyprivacy-specific
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easyprivacy-specific.txt
-# Generated - 10.08.2018
+# Generated - 18.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 650
+# Total Domains: 649
 # License: MIT
 

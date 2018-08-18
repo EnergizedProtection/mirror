@@ -180,6 +180,7 @@
 0.0.0.0 admo.tv
 0.0.0.0 admother.com
 0.0.0.0 adnxs.com
+0.0.0.0 adnz.co
 0.0.0.0 adobedtm.com
 0.0.0.0 adobetag.com
 0.0.0.0 adoftheyear.com
@@ -188,6 +189,7 @@
 0.0.0.0 adpies.com
 0.0.0.0 adplusplus.fr
 0.0.0.0 adprotraffic.com
+0.0.0.0 adquality.ch
 0.0.0.0 adrank24.de
 0.0.0.0 adrizer.com
 0.0.0.0 adrta.com
@@ -316,7 +318,6 @@
 0.0.0.0 analytics-static.ugc.bazaarvoice.com
 0.0.0.0 analytics.163.com
 0.0.0.0 analytics.21cn.com
-0.0.0.0 analytics.247sports.com
 0.0.0.0 analytics.30m.com
 0.0.0.0 analytics.aasaam.com
 0.0.0.0 analytics.abacast.com
@@ -443,7 +444,6 @@
 0.0.0.0 analyticsip.net
 0.0.0.0 analyticsv2.dol.gr
 0.0.0.0 analyticswizard.com
-0.0.0.0 analytk.com
 0.0.0.0 analyze.full-marke.com
 0.0.0.0 analyzer.fc2.com
 0.0.0.0 analyzer2.fc2.com
@@ -488,7 +488,6 @@
 0.0.0.0 aqqgli3vle.bid
 0.0.0.0 aqtracker.com
 0.0.0.0 arcadeweb.com
-0.0.0.0 arena-quantum.co.uk
 0.0.0.0 arianelab.com
 0.0.0.0 arkayne.com
 0.0.0.0 arlime.com
@@ -509,13 +508,11 @@
 0.0.0.0 athenainstitute.biz
 0.0.0.0 athenatmpbeacon.theglobeandmail.ca
 0.0.0.0 atlas.astrology.com
-0.0.0.0 atoshonetwork.com
 0.0.0.0 atrack.allposters.com
 0.0.0.0 atrack.art.com
 0.0.0.0 atraxio.com
 0.0.0.0 atsfi.de
 0.0.0.0 atticwicket.com
-0.0.0.0 attracta.com
 0.0.0.0 attraqt.com
 0.0.0.0 attributionapp.com
 0.0.0.0 attributiontrackingga.googlecode.com
@@ -731,7 +728,6 @@
 0.0.0.0 blogtoplist.com
 0.0.0.0 blogtraffic.de
 0.0.0.0 blogtw.net
-0.0.0.0 blogverzeichnis.eu
 0.0.0.0 bloomjoy.com
 0.0.0.0 bluecava.com
 0.0.0.0 blueconic.net
@@ -945,7 +941,6 @@
 0.0.0.0 click.udimg.com
 0.0.0.0 click.uol.com.br
 0.0.0.0 click.vgnett.no
-0.0.0.0 click1.email.nymagazine.com
 0.0.0.0 click2.cafepress.com
 0.0.0.0 click4assistance.co.uk
 0.0.0.0 clickable.net
@@ -987,7 +982,6 @@
 0.0.0.0 clixcount.com
 0.0.0.0 clixpy.com
 0.0.0.0 clk.onet.pl
-0.0.0.0 clkd.at
 0.0.0.0 clkstat.china.cn
 0.0.0.0 clkstat.qihoo.com
 0.0.0.0 clod.pw
@@ -1157,7 +1151,6 @@
 0.0.0.0 count24.de
 0.0.0.0 count5.pconline.com.cn
 0.0.0.0 countar.de
-0.0.0.0 countby.com
 0.0.0.0 counter-city.de
 0.0.0.0 counter-go.de
 0.0.0.0 counter-gratis.com
@@ -1283,7 +1276,6 @@
 0.0.0.0 csbew.com
 0.0.0.0 csdata1.com
 0.0.0.0 csgocpu.com
-0.0.0.0 csi.gstatic.com
 0.0.0.0 csp-collector.appspot.com
 0.0.0.0 csr.onet.pl
 0.0.0.0 cszz.ru
@@ -1388,13 +1380,11 @@
 0.0.0.0 dable.io
 0.0.0.0 dacounter.com
 0.0.0.0 dadi.technology
-0.0.0.0 dailycaller-alerts.com
 0.0.0.0 dapxl.com
 0.0.0.0 daq0d0aotgq0f.cloudfront.net
 0.0.0.0 dashboard.io
 0.0.0.0 data-analytics.jp
 0.0.0.0 data.alexa.com
-0.0.0.0 data.beyond.com
 0.0.0.0 data.circulate.com
 0.0.0.0 data.econa.com
 0.0.0.0 data.gosquared.com
@@ -1637,6 +1627,9 @@
 0.0.0.0 enhance.com
 0.0.0.0 enlightenment.secureshoppingbasket.com
 0.0.0.0 enquisite.com
+0.0.0.0 ens.luzernerzeitung.ch
+0.0.0.0 ens.nzz.ch
+0.0.0.0 ens.tagblatt.ch
 0.0.0.0 ensighten.com
 0.0.0.0 enter-system.com
 0.0.0.0 enticelabs.com
@@ -1923,7 +1916,7 @@
 0.0.0.0 gacela.eu
 0.0.0.0 gallupnet.fi
 0.0.0.0 gammachug.com
-0.0.0.0 gateway.reddit.com
+0.0.0.0 gateway.reddit.com|
 0.0.0.0 gaug.es
 0.0.0.0 gay-hotvideo.net
 0.0.0.0 gbotvisit.com
@@ -2206,7 +2199,6 @@
 0.0.0.0 hxtrack.com
 0.0.0.0 hyfntrak.com
 0.0.0.0 hyperactivate.com
-0.0.0.0 hypestat.com
 0.0.0.0 i-mobile.co.jp
 0.0.0.0 i-stats.com
 0.0.0.0 i.imedia.cz
@@ -2234,7 +2226,6 @@
 0.0.0.0 ideoclick.com
 0.0.0.0 idio.co
 0.0.0.0 idntfy.ru
-0.0.0.0 idot.cz
 0.0.0.0 idt.id-news.net
 0.0.0.0 idtargeting.com
 0.0.0.0 iedc.fitbit.com
@@ -2700,6 +2691,7 @@
 0.0.0.0 marketshot.fr
 0.0.0.0 markitondemand.com
 0.0.0.0 marktest.pt
+0.0.0.0 maropost.com
 0.0.0.0 marsflag.com
 0.0.0.0 mas.nth.ch
 0.0.0.0 masterstats.com
@@ -3350,6 +3342,7 @@
 0.0.0.0 pocitadlo.sk
 0.0.0.0 podrltid.info
 0.0.0.0 pointomatic.com
+0.0.0.0 polarcdn-pentos.com
 0.0.0.0 polymorphicads.jp
 0.0.0.0 pong.gannettdigital.com
 0.0.0.0 pong.production.gannettdigital.com
@@ -3899,6 +3892,7 @@
 0.0.0.0 soflopxl.com
 0.0.0.0 softonic-analytics.net
 0.0.0.0 sojern.com
+0.0.0.0 soko.ai
 0.0.0.0 sokrati.com
 0.0.0.0 sometrics.com
 0.0.0.0 somniture.theglobeandmail.com
@@ -5378,8 +5372,8 @@
 
 # Hosts - easyprivacy
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easyprivacy.txt
-# Generated - 10.08.2018
+# Generated - 18.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 5377
+# Total Domains: 5371
 # License: MIT
 

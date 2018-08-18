@@ -89,9 +89,7 @@
 0.0.0.0 bidr.io
 0.0.0.0 bidswitch.net
 0.0.0.0 bidtheatre.com
-0.0.0.0 bildstatic.de
 0.0.0.0 bing.com
-0.0.0.0 bit.ly
 0.0.0.0 bizographics.com
 0.0.0.0 bkrtx.com
 0.0.0.0 bloxcms.com
@@ -236,7 +234,6 @@
 0.0.0.0 flite.com
 0.0.0.0 flyerboard.com
 0.0.0.0 flyertown.ca
-0.0.0.0 fncstatic.com
 0.0.0.0 fonts.googleapis.com
 0.0.0.0 forumcomm.com
 0.0.0.0 foxsports.com.au
@@ -251,7 +248,6 @@
 0.0.0.0 getclicky.com
 0.0.0.0 ghbtns.com
 0.0.0.0 ghdig.com
-0.0.0.0 gigya.com
 0.0.0.0 global.adserver.yahoo.com
 0.0.0.0 go-mpulse.net
 0.0.0.0 google-analytics.com
@@ -533,8 +529,6 @@
 0.0.0.0 vdna-assets.com
 0.0.0.0 ventunotech.com
 0.0.0.0 veruta.com
-0.0.0.0 viafoura.com
-0.0.0.0 viafoura.net
 0.0.0.0 videoamp.com
 0.0.0.0 videohub.tv
 0.0.0.0 videostat.com
@@ -560,8 +554,6 @@
 0.0.0.0 wishabi.net
 0.0.0.0 workey.se
 0.0.0.0 wtp101.com
-0.0.0.0 wunderground.com
-0.0.0.0 www.googleapis.com
 0.0.0.0 wxug.com
 0.0.0.0 xg4ken.com
 0.0.0.0 xplosion.de
@@ -586,8 +578,8 @@
 
 # Hosts - better-fyi-trackers
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/better-fyi-trackers.txt
-# Generated - 10.08.2018
+# Generated - 18.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 585
+# Total Domains: 577
 # License: MIT
 

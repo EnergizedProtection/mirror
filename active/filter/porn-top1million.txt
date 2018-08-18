@@ -1633,7 +1633,6 @@
 0.0.0.0 aussiespeedoguy.org
 0.0.0.0 authenticfootballers.com
 0.0.0.0 autismserenity.tumblr.com
-0.0.0.0 auto-login-xxx.com
 0.0.0.0 autoblow2.com
 0.0.0.0 autumnriley.com
 0.0.0.0 av-babes.com
@@ -3669,7 +3668,6 @@
 0.0.0.0 cockylingerie.tumblr.com
 0.0.0.0 coco-de-mer.com
 0.0.0.0 coco.fr
-0.0.0.0 coco.tj
 0.0.0.0 cocogals.com
 0.0.0.0 cocomilfs.com
 0.0.0.0 code-fetish.com
@@ -4018,7 +4016,6 @@
 0.0.0.0 cutieporno.com
 0.0.0.0 cutiesover30.com
 0.0.0.0 cutscenes.net
-0.0.0.0 cutt.us
 0.0.0.0 cuttietwinks.com
 0.0.0.0 cyancapsule.tumblr.com
 0.0.0.0 cyberdating.net
@@ -5457,7 +5454,6 @@
 0.0.0.0 fapxl.com
 0.0.0.0 fapxxx.com
 0.0.0.0 farangdingdong.com
-0.0.0.0 fark.com
 0.0.0.0 farm-porn.com
 0.0.0.0 farmsexfree.com
 0.0.0.0 farrahlovely.tumblr.com
@@ -18262,7 +18258,6 @@
 0.0.0.0 upvintagesex.com
 0.0.0.0 upvintagetube.com
 0.0.0.0 uralesbian.com
-0.0.0.0 urbandictionary.com
 0.0.0.0 ure-sen.com
 0.0.0.0 urerotic.com
 0.0.0.0 urlcash.net
@@ -20153,8 +20148,8 @@
 
 # Hosts - porn-top1million
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/porn-top1m.txt
-# Generated - 10.08.2018
+# Generated - 18.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 20152
+# Total Domains: 20147
 # License: MIT
 

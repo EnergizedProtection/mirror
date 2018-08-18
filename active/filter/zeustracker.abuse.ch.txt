@@ -5,7 +5,6 @@
 0.0.0.0 alvoportas.com.br
 0.0.0.0 anderlechti.com
 0.0.0.0 avast-mail-security.download
-0.0.0.0 az-armaturen.su
 0.0.0.0 bright.su
 0.0.0.0 casaroyai.com
 0.0.0.0 chhathpuja.com
@@ -41,7 +40,6 @@
 0.0.0.0 islenpiding.hotmail.ru
 0.0.0.0 ivansaru.418.com1.ru
 0.0.0.0 jangasm.org
-0.0.0.0 jazmany.cu.ma
 0.0.0.0 karma-bodrum.com
 0.0.0.0 kaydayeuti.axfree.com
 0.0.0.0 kesikelyaf.com
@@ -105,8 +103,8 @@
 
 # Hosts - zeustracker.abuse.ch
 # Source - https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Generated - 10.08.2018
+# Generated - 18.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 104
+# Total Domains: 102
 # License: MIT
 

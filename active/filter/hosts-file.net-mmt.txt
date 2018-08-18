@@ -2935,7 +2935,6 @@
 0.0.0.0 www.expeneminders.com
 0.0.0.0 www.expenseminders.com
 0.0.0.0 www.expensesforless.com
-0.0.0.0 www.experts-exchange.com
 0.0.0.0 www.extremecocks.com
 0.0.0.0 www.extrememature.com
 0.0.0.0 www.f-monitor.ru
@@ -3701,7 +3700,6 @@
 0.0.0.0 www.teendebate.com
 0.0.0.0 www.teenwise.com
 0.0.0.0 www.teloxtoc.com
-0.0.0.0 www.tenforums.com
 0.0.0.0 www.tfuller.com
 0.0.0.0 www.tgp-world.com
 0.0.0.0 www.theadultwire.com
@@ -4003,8 +4001,8 @@
 
 # Hosts - hosts-file.net-mmt
 # Source - https://hosts-file.net/mmt.txt
-# Generated - 10.08.2018
+# Generated - 18.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 4002
+# Total Domains: 4000
 # License: MIT
 

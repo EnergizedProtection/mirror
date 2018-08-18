@@ -87,7 +87,6 @@
 0.0.0.0 eqx.smartadserver.com
 0.0.0.0 events.foreseeresults.com
 0.0.0.0 eviltracker.net
-0.0.0.0 ftpcontent.worldnow.com
 0.0.0.0 gemini.yahoo.com
 0.0.0.0 go.mobpartner.mobi
 0.0.0.0 go.vrvm.com
@@ -182,8 +181,8 @@
 
 # Hosts - adaway.org
 # Source - https://adaway.org/hosts.txt
-# Generated - 10.08.2018
+# Generated - 18.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 181
+# Total Domains: 180
 # License: MIT
 

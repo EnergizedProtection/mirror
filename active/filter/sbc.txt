@@ -161,7 +161,6 @@
 0.0.0.0 analytics-digit-in.cdn.ampproject.org
 0.0.0.0 analytics-production.hapyak.com
 0.0.0.0 analytics-static.ugc.bazaarvoice.com
-0.0.0.0 analytics.247sports.com
 0.0.0.0 analytics.adspaces.ero-advertising.com
 0.0.0.0 analytics.archive.org
 0.0.0.0 analytics.bitrix.info
@@ -508,7 +507,6 @@
 0.0.0.0 optout.alphonso.tv
 0.0.0.0 orion.iad.appboy.com
 0.0.0.0 oscar.alphonso.tv
-0.0.0.0 ovc2-ustokyyneikyfasnm.stackpathdns.com
 0.0.0.0 ozil.alphonso.tv
 0.0.0.0 pagepeel.ero-advertising.com
 0.0.0.0 pakistanelevators.pk
@@ -770,8 +768,8 @@
 
 # Hosts - sbc
 # Source - https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts
-# Generated - 10.08.2018
+# Generated - 18.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 769
+# Total Domains: 767
 # License: MIT
 

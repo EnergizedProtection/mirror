@@ -6,12 +6,10 @@
 0.0.0.0 08819.com
 0.0.0.0 1010fz.com
 0.0.0.0 101order.com
-0.0.0.0 114oldest.com
 0.0.0.0 123found.com
 0.0.0.0 12directions.com
 0.0.0.0 140proof.com
 0.0.0.0 1788111.com
-0.0.0.0 17so.so
 0.0.0.0 180hits.de
 0.0.0.0 180searchassistant.com
 0.0.0.0 18cum.com
@@ -34,7 +32,6 @@
 0.0.0.0 3cinteractive.com
 0.0.0.0 3dmv.net
 0.0.0.0 3e1.cn
-0.0.0.0 3xstuff.com
 0.0.0.0 4006868488.cn
 0.0.0.0 4affiliate.net
 0.0.0.0 4d5.net
@@ -45,7 +42,6 @@
 0.0.0.0 518ad.com
 0.0.0.0 51lvyu.com
 0.0.0.0 51yes.com
-0.0.0.0 51ysxs.com
 0.0.0.0 52yxg.cn
 0.0.0.0 54fangtan.com
 0.0.0.0 54ly.com
@@ -210,7 +206,6 @@
 0.0.0.0 adadvisor.net
 0.0.0.0 adap.tv
 0.0.0.0 adapt.tv
-0.0.0.0 adbanner.ro
 0.0.0.0 adbard.net
 0.0.0.0 adblade.com
 0.0.0.0 adblockanalytics.com
@@ -255,7 +250,6 @@
 0.0.0.0 adengage.com
 0.0.0.0 adexpose.com
 0.0.0.0 adext.inkclub.com
-0.0.0.0 adf.ly
 0.0.0.0 adfactor.nl
 0.0.0.0 adfarm.mediaplex.com
 0.0.0.0 adflight.com
@@ -299,7 +293,6 @@
 0.0.0.0 adland.ru
 0.0.0.0 adledge.com
 0.0.0.0 adlegend.com
-0.0.0.0 adlink.de
 0.0.0.0 adlog.com.com
 0.0.0.0 adloox.com
 0.0.0.0 adlooxtracking.com
@@ -902,7 +895,6 @@
 0.0.0.0 ah-ha.com
 0.0.0.0 ahalogy.com
 0.0.0.0 ahlswh.net
-0.0.0.0 ahmhls.com
 0.0.0.0 aim4media.com
 0.0.0.0 aipp-italia.it
 0.0.0.0 airbrake.io
@@ -940,7 +932,6 @@
 0.0.0.0 anm.intelli-direct.com
 0.0.0.0 annedouglas.com
 0.0.0.0 annonser.dagbladet.no
-0.0.0.0 aonikesi.com
 0.0.0.0 apex-ad.com
 0.0.0.0 api.addthis.com
 0.0.0.0 api.intensifier.de
@@ -1009,7 +1000,6 @@
 0.0.0.0 backbeatmedia.com
 0.0.0.0 bafuhotel.com
 0.0.0.0 bag86.com
-0.0.0.0 baiduyisheng.com
 0.0.0.0 bango.net
 0.0.0.0 banik.redigy.cz
 0.0.0.0 banner-exchange-24.de
@@ -1097,7 +1087,6 @@
 0.0.0.0 bans.adserver.co.il
 0.0.0.0 bans.bride.ru
 0.0.0.0 barnesandnoble.bfast.com
-0.0.0.0 baryote.com
 0.0.0.0 basic-check.disconnect.me
 0.0.0.0 baypops.com
 0.0.0.0 bbelements.com
@@ -1115,7 +1104,6 @@
 0.0.0.0 best-pr.info
 0.0.0.0 best-top.ro
 0.0.0.0 bestsearch.net
-0.0.0.0 bga100.cn
 0.0.0.0 bhclicks.com
 0.0.0.0 bi2vl.com
 0.0.0.0 bidclix.com
@@ -1159,7 +1147,6 @@
 0.0.0.0 bohoth.com
 0.0.0.0 boldchat.com
 0.0.0.0 bomar-spa.com
-0.0.0.0 boom.ro
 0.0.0.0 boomads.com
 0.0.0.0 boost-my-pr.de
 0.0.0.0 bor-bogdanych.com
@@ -1201,6 +1188,7 @@
 0.0.0.0 callfire.com
 0.0.0.0 callloop.com
 0.0.0.0 campaign.bharatmatrimony.com
+0.0.0.0 campus.miim.ac.in
 0.0.0.0 caniamedia.com
 0.0.0.0 carbonads.com
 0.0.0.0 carbonads.net
@@ -1233,7 +1221,6 @@
 0.0.0.0 centralamericarealestateinvestment.com
 0.0.0.0 ceskydomov.alias.ngs.modry.cz
 0.0.0.0 cetrk.com
-0.0.0.0 cfcgl.com
 0.0.0.0 cgicounter.puretec.de
 0.0.0.0 ch.questionmarket.com
 0.0.0.0 chango.com
@@ -1245,10 +1232,7 @@
 0.0.0.0 check-updates.net
 0.0.0.0 checkm8.com
 0.0.0.0 checkstat.nl
-0.0.0.0 chestionar.ro
-0.0.0.0 china-hangyi.com
 0.0.0.0 china-zhenao.com
-0.0.0.0 chinatlz.com
 0.0.0.0 chitika.com
 0.0.0.0 chitika.net
 0.0.0.0 choongmoosports.co.kr
@@ -1305,7 +1289,6 @@
 0.0.0.0 cluster.adultworld.com
 0.0.0.0 clustrmaps.com
 0.0.0.0 cmpstar.com
-0.0.0.0 cn-lushan.com
 0.0.0.0 cnomy.com
 0.0.0.0 cnt.spbland.ru
 0.0.0.0 cnt1.pocitadlo.cz
@@ -1321,8 +1304,6 @@
 0.0.0.0 company-target.com
 0.0.0.0 comprabanner.it
 0.0.0.0 concerone.com
-0.0.0.0 condosguru.com
-0.0.0.0 congchuzs.com
 0.0.0.0 connextra.com
 0.0.0.0 contaxe.de
 0.0.0.0 content.acc-hd.de
@@ -1374,7 +1355,6 @@
 0.0.0.0 creafi.com
 0.0.0.0 creative-serving.com
 0.0.0.0 creatives.as4x.tmcs.net
-0.0.0.0 creatives.co.in
 0.0.0.0 creatives.livejasmin.com
 0.0.0.0 crispads.com
 0.0.0.0 crispmedia.com
@@ -1385,7 +1365,6 @@
 0.0.0.0 crowdgravity.com
 0.0.0.0 crtv.mate1.com
 0.0.0.0 crwdcntrl.net
-0.0.0.0 csbjkj.com
 0.0.0.0 ctnetwork.hu
 0.0.0.0 cubics.com
 0.0.0.0 curiouserdesserts.com
@@ -1433,9 +1412,7 @@
 0.0.0.0 displayadsmedia.com
 0.0.0.0 displaypagerank.com
 0.0.0.0 dist.belnk.com
-0.0.0.0 divecatalina.com
 0.0.0.0 djcalvin.com
-0.0.0.0 djplazebo.com
 0.0.0.0 dmtracker.com
 0.0.0.0 dnads.directnic.com
 0.0.0.0 dns-vip.net
@@ -1445,7 +1422,6 @@
 0.0.0.0 domainsponsor.com
 0.0.0.0 domainsteam.de
 0.0.0.0 domdex.com
-0.0.0.0 dookioo.com
 0.0.0.0 dotomi.com
 0.0.0.0 doubleclick.com
 0.0.0.0 doubleclick.de
@@ -1455,9 +1431,6 @@
 0.0.0.0 down.nishuoa.com
 0.0.0.0 down.tututool.com
 0.0.0.0 downlaod.vstart.net
-0.0.0.0 downloadally.com
-0.0.0.0 downloadcypher.com
-0.0.0.0 dpgjjs.com
 0.0.0.0 drawbrid.ge
 0.0.0.0 drteachme.com
 0.0.0.0 drumcash.com
@@ -1581,7 +1554,6 @@
 0.0.0.0 feedbackresearch.com
 0.0.0.0 feedjit.com
 0.0.0.0 fejsbuk.com.ba
-0.0.0.0 fenshaolu.com.cn
 0.0.0.0 festival.cocobau.com
 0.0.0.0 fffddd11.cn
 0.0.0.0 ffsi.info
@@ -1621,7 +1593,6 @@
 0.0.0.0 freestats.com
 0.0.0.0 freestats.tv
 0.0.0.0 freewebcounter.com
-0.0.0.0 fs-11.com
 0.0.0.0 funklicks.com
 0.0.0.0 funpageexchange.com
 0.0.0.0 fusionads.net
@@ -1679,7 +1650,6 @@
 0.0.0.0 gtsads.com
 0.0.0.0 gtsmobi.com
 0.0.0.0 guangdelvyou.com
-0.0.0.0 guihua-china.com
 0.0.0.0 guppymedia.com
 0.0.0.0 gxqyyq.com
 0.0.0.0 h148.cn
@@ -1701,7 +1671,6 @@
 0.0.0.0 heyos.com
 0.0.0.0 heywire.com
 0.0.0.0 hgads.com
-0.0.0.0 hhj3.cn
 0.0.0.0 hidden.gogoceleb.com
 0.0.0.0 hightrafficads.com
 0.0.0.0 hihimn.com
@@ -1727,7 +1696,6 @@
 0.0.0.0 hitslink.com
 0.0.0.0 hittail.com
 0.0.0.0 hkfg.net
-0.0.0.0 hlzx8.com
 0.0.0.0 hncshunyin.cn
 0.0.0.0 hntldgk.com
 0.0.0.0 hollandbusinessadvertising.nl
@@ -1743,14 +1711,11 @@
 0.0.0.0 htmlhubing.xyz
 0.0.0.0 htpm.com.cn
 0.0.0.0 httpool.com
-0.0.0.0 https443.net
 0.0.0.0 htyzs.cn
-0.0.0.0 huidakms.com.cn
 0.0.0.0 humandemand.com
 0.0.0.0 humanding.com
 0.0.0.0 hurricanedigitalmedia.com
 0.0.0.0 hydramedia.com
-0.0.0.0 hyl-zh.lentor.net
 0.0.0.0 hyperbanner.net
 0.0.0.0 hypertracker.com
 0.0.0.0 hzm6.com
@@ -1769,7 +1734,6 @@
 0.0.0.0 idcounter.com
 0.0.0.0 iddiction.com
 0.0.0.0 identads.com
-0.0.0.0 idot.cz
 0.0.0.0 idregie.com
 0.0.0.0 idtargeting.com
 0.0.0.0 ientrymail.com
@@ -1864,8 +1828,6 @@
 0.0.0.0 junjiezyc.com
 0.0.0.0 justrelevant.com
 0.0.0.0 justwebads.com
-0.0.0.0 jxcsteel.com
-0.0.0.0 jxy88.com
 0.0.0.0 k.iinfo.cz
 0.0.0.0 k6r.net
 0.0.0.0 kanoodle.com
@@ -2046,7 +2008,6 @@
 0.0.0.0 mintrace.com
 0.0.0.0 misstrends.com
 0.0.0.0 miva.com
-0.0.0.0 mixandbatch2000.co.uk
 0.0.0.0 mixpanel.com
 0.0.0.0 mixtraffic.com
 0.0.0.0 mjhkj8.u5a.wentserver.com
@@ -2082,7 +2043,6 @@
 0.0.0.0 mobyt.com
 0.0.0.0 mocean.mobi
 0.0.0.0 moceanmobile.com
-0.0.0.0 modijie.com
 0.0.0.0 mogreet.com
 0.0.0.0 mojiva.com
 0.0.0.0 monetizemore.com
@@ -2097,7 +2057,6 @@
 0.0.0.0 movestone.net
 0.0.0.0 mpstat.us
 0.0.0.0 mr-rank.de
-0.0.0.0 mrappolt.de
 0.0.0.0 mrskincash.com
 0.0.0.0 mtree.com
 0.0.0.0 musiccounter.ru
@@ -2158,7 +2117,6 @@
 0.0.0.0 nexprice.com
 0.0.0.0 ng3.ads.warnerbros.com
 0.0.0.0 nitroclicks.com
-0.0.0.0 nonglirili.net
 0.0.0.0 novem.pl
 0.0.0.0 nppmwatch.com
 0.0.0.0 nt002.cn
@@ -2386,7 +2344,6 @@
 0.0.0.0 realteencash.com
 0.0.0.0 realtracker.com
 0.0.0.0 rebisihut.com
-0.0.0.0 reddii.org
 0.0.0.0 redinvestor.com
 0.0.0.0 redmas.com
 0.0.0.0 reduxmedia.com
@@ -2427,7 +2384,6 @@
 0.0.0.0 rightstats.com
 0.0.0.0 rlcdn.com
 0.0.0.0 rle.ru
-0.0.0.0 rlxl.com
 0.0.0.0 rmads.msn.com
 0.0.0.0 rmedia.boston.com
 0.0.0.0 roar.com
@@ -2476,7 +2432,6 @@
 0.0.0.0 sensismediasmart.com.au
 0.0.0.0 seo4india.com
 0.0.0.0 seopoint.com
-0.0.0.0 seres.https443.net
 0.0.0.0 serv0.com
 0.0.0.0 servedby-buysellads.com
 0.0.0.0 servedbyadbutler.com
@@ -2609,7 +2564,6 @@
 0.0.0.0 switchads.com
 0.0.0.0 swordfishdc.com
 0.0.0.0 swzhb.com
-0.0.0.0 sx.trhnt.com
 0.0.0.0 sympation.com
 0.0.0.0 szdamuzhi.com
 0.0.0.0 sznaucer-figa.nd.e-wro.pl
@@ -2706,7 +2660,6 @@
 0.0.0.0 touchads.com
 0.0.0.0 touchclarity.com
 0.0.0.0 tour.brazzers.com
-0.0.0.0 toursportsimage.com
 0.0.0.0 tpnads.com
 0.0.0.0 track.adform.net
 0.0.0.0 track.anchorfree.com
@@ -2871,7 +2824,6 @@
 0.0.0.0 window.nixnet.cz
 0.0.0.0 wintricksbanner.googlepages.com
 0.0.0.0 witch-counter.de
-0.0.0.0 wittyvideos.com
 0.0.0.0 wlmarketing.com
 0.0.0.0 wmirk.ru
 0.0.0.0 wonderlandads.com
@@ -2883,7 +2835,6 @@
 0.0.0.0 wtr1.ru
 0.0.0.0 wwgin.com
 0.0.0.0 www-banner.chat.ru
-0.0.0.0 www.51ysxs.com
 0.0.0.0 www.banner-link.com.br
 0.0.0.0 www.defygravity.com
 0.0.0.0 www.dnps.com
@@ -2915,7 +2866,6 @@
 0.0.0.0 xianyicao.net
 0.0.0.0 xiazai.dns-vip.net
 0.0.0.0 xin-lian.cn
-0.0.0.0 xingyunjiaren.com
 0.0.0.0 xinyangmeiye.com
 0.0.0.0 xiti.com
 0.0.0.0 xius.com
@@ -2959,7 +2909,6 @@
 0.0.0.0 ysbbcrypsc.com
 0.0.0.0 yserch.com
 0.0.0.0 yttestsite.com
-0.0.0.0 yuejinjx.com
 0.0.0.0 yuilop.com
 0.0.0.0 yume.com
 0.0.0.0 yuminhong.blog.neworiental.org
@@ -2984,8 +2933,8 @@
 
 # Hosts - disconnect.me-malvertising
 # Source - https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
-# Generated - 10.08.2018
+# Generated - 18.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 2983
+# Total Domains: 2932
 # License: MIT
 
