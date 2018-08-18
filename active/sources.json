@@ -16,7 +16,6 @@
   {"name": "adguard-social-trackers",            "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-social-trackers.txt"},
   {"name": "adguard-spyware",                    "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-spyware-firstparty.txt"},
   {"name": "adguard-tracking",                   "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-tracking-servers.txt"},
-  {"name": "adversity-anti-social",              "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adversity-anti-social.txt"},
   {"name": "adware-filters",                     "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adware-filters.txt"},
   {"name": "airelle-pub",                        "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/EnergizedProtection/mirror/master/mirror/airelle-pub.txt"},
   {"name": "airelle-rsk",                        "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/EnergizedProtection/mirror/master/mirror/airelle-rsk.txt"},
