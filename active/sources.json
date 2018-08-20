@@ -74,7 +74,6 @@
   {"name": "malwaredomains.com-immortaldomains", "enabled": true,  "format": "plain",   "url": "https://malwaredomains.usu.edu/immortal_domains.txt"},
   {"name": "malwaredomains.com-justdomains",     "enabled": true,  "format": "plain",   "url": "https://malwaredomains.usu.edu/justdomains"},
   {"name": "matomo.org-spammers",                "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt"},
-  {"name": "michaeltrimm-hosts-blocking",        "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/michaeltrimm/hosts-blocking/master/_hosts.txt"},
   {"name": "mitchellkrogza-badd-boyz-hosts",     "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts"},
   {"name": "moaab",                              "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/moaab.txt"},
   {"name": "mobile-ad-trackers",                 "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/jawz101/MobileAdTrackers/master/hosts"},
