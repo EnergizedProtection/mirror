@@ -83,6 +83,9 @@ $lists = array(
 	// Fanboy Complete
 	'fanboy-complete' => 'https://fanboy.co.nz/r/fanboy-complete.txt',
 	
+	// Hexxium Creations Threat List
+	'hexxium-creations-threat-list' => 'https://raw.githubusercontent.com/HexxiumCreations/threat-list/gh-pages/hexxiumthreatlist.txt',
+	
 	// MoaAB
 	//'moaab' => 'http://adblock.mahakala.is/',
   
