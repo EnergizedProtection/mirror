@@ -145,7 +145,8 @@ foreach ( $lists as $name => $list ) {
 	$hosts .= "# Converted From - {$list}\n";
 	$hosts .= "# Last Converted - " . date( 'r' ) . "\n";
 	$hosts .= "# Energized - ad.porn.malware blocking.\n";
-	$hosts .= "# License: MIT\n\n";
+	$hosts .= "# https://nayemador.com/energized\n";
+	$hosts .= "# License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license\n\n";
 
 	// Loop through each ad filter.
 	foreach ( $lines as $filter ) {
@@ -188,7 +189,7 @@ foreach ( $lists as $name => $list ) {
 
 		// Replace filter syntax with HOSTS syntax.
 		// @todo Perhaps skip $third-party, $image and $popup?
-		$filter = str_replace( array( '||', '^third-party', '^', '$websocket', ',websocket', ',other', '$other', '$subdocument', ',subdocument', '$important', ',important', '$object-subrequest', ',object-subrequest', '$third-party', '^third-party', ',third-party', 'third-party', '$image', ',image', ',script', '$script', ',object', '$object', '$popup', ',popup', '$empty', ',empty' ), '', $filter );
+		$filter = str_replace( array( '||', '|', '^third-party', '^', '$websocket', ',websocket', ',other', '$other', '$subdocument', ',subdocument', '$important', ',important', '$object-subrequest', ',object-subrequest', '$third-party', '^third-party', ',third-party', 'third-party', '$image', ',image', ',script', '$script', ',object', '$object', '$popup', ',popup', '$empty', ',empty' ), '', $filter );
 
 		// Skip rules matching 'xmlhttprequest' for now.
 		if ( false !== strpos( $filter, 'xmlhttprequest' ) ) {
