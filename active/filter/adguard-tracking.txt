@@ -534,6 +534,7 @@
 0.0.0.0 counter-treff.de
 0.0.0.0 counter.de
 0.0.0.0 counter.gd
+0.0.0.0 counter.log24.ru
 0.0.0.0 counter160.com
 0.0.0.0 counter27.ch
 0.0.0.0 counterbot.com
@@ -699,7 +700,6 @@
 0.0.0.0 e-referrer.com
 0.0.0.0 e-webtrack.net
 0.0.0.0 e-zeeinternet.com
-0.0.0.0 eanalyzer.de
 0.0.0.0 earnitup.com
 0.0.0.0 easy-hit-counters.com
 0.0.0.0 easycounter.com
@@ -756,7 +756,6 @@
 0.0.0.0 eps-analyzer.de
 0.0.0.0 ereportz.com
 0.0.0.0 eresmas.net
-0.0.0.0 erkaseriilan.com.tr
 0.0.0.0 erotikcounter.org
 0.0.0.0 erotop.lv
 0.0.0.0 esearchvision.com
@@ -1298,7 +1297,6 @@
 0.0.0.0 linkpulse.com
 0.0.0.0 linkxchanger.com
 0.0.0.0 listrakbi.com
-0.0.0.0 listtop.ru
 0.0.0.0 livecount.fr
 0.0.0.0 livecounter.dk
 0.0.0.0 livehit.net
@@ -1682,7 +1680,6 @@
 0.0.0.0 permutive.com
 0.0.0.0 persianstat.com
 0.0.0.0 persianstat.ir
-0.0.0.0 personage.name
 0.0.0.0 personyze.com
 0.0.0.0 petametrics.com
 0.0.0.0 pfxlive.com
@@ -1740,7 +1737,6 @@
 0.0.0.0 posst.co
 0.0.0.0 postaffiliatepro.com
 0.0.0.0 postclickmarketing.com
-0.0.0.0 powerbar-pagerank.de
 0.0.0.0 powercount.com
 0.0.0.0 ppctracking.net
 0.0.0.0 pr-chart.com
@@ -1796,7 +1792,6 @@
 0.0.0.0 q-stats.nl
 0.0.0.0 qbaka.net
 0.0.0.0 qbop.com
-0.0.0.0 qdtracking.com
 0.0.0.0 qoijertneio.com
 0.0.0.0 qsstats.com
 0.0.0.0 quadran.eu
@@ -2004,7 +1999,6 @@
 0.0.0.0 sepyra.com
 0.0.0.0 serious-partners.com
 0.0.0.0 servedbyopenx.com
-0.0.0.0 servinator.pw
 0.0.0.0 servingtrkid.com
 0.0.0.0 servustats.com
 0.0.0.0 sessioncam.com
@@ -2050,7 +2044,6 @@
 0.0.0.0 sitereport.org
 0.0.0.0 sitestat.com
 0.0.0.0 sitestatlog.net
-0.0.0.0 sitestats.info
 0.0.0.0 sitetag.us
 0.0.0.0 sitetagger.co.uk
 0.0.0.0 sitetistik.com
@@ -2150,7 +2143,6 @@
 0.0.0.0 statistiche.ws
 0.0.0.0 statistichegratis.net
 0.0.0.0 statistik-gallup.net
-0.0.0.0 statistika.lv
 0.0.0.0 statistiq.com
 0.0.0.0 statistx.com
 0.0.0.0 statlife.ru
@@ -2538,7 +2530,6 @@
 0.0.0.0 web-stat.net
 0.0.0.0 web-visor.com
 0.0.0.0 web100kz.com
-0.0.0.0 webalytics.pw
 0.0.0.0 webclicks24.com
 0.0.0.0 webclicktracker.com
 0.0.0.0 webcompteur.com
@@ -2555,7 +2546,6 @@
 0.0.0.0 webgozar.ir
 0.0.0.0 webhits.de
 0.0.0.0 webiqonline.com
-0.0.0.0 webkatalog.li
 0.0.0.0 webleads-tracker.com
 0.0.0.0 weblist.de
 0.0.0.0 weblog.com.ua
@@ -2648,7 +2638,6 @@
 0.0.0.0 x-traceur.com
 0.0.0.0 x.ligatus.com
 0.0.0.0 xclaimwords.net
-0.0.0.0 xclk-integracion.com
 0.0.0.0 xcounter.ch
 0.0.0.0 xg4ken.com
 0.0.0.0 xhit.com
@@ -2665,7 +2654,6 @@
 0.0.0.0 xyztraffic.com
 0.0.0.0 y-track.com
 0.0.0.0 yadro.ru
-0.0.0.0 yadropro.ru
 0.0.0.0 yamanoha.com
 0.0.0.0 yaudience.com
 0.0.0.0 ybotvisit.com
@@ -2705,8 +2693,8 @@
 
 # Hosts - adguard-tracking
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-tracking-servers.txt
-# Generated - 18.08.2018
+# Generated - 24.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 2704
+# Total Domains: 2692
 # License: MIT
 

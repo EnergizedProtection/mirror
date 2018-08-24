@@ -361,7 +361,6 @@
 0.0.0.0 www.monkeyminer.net
 0.0.0.0 www.mutuza.win
 0.0.0.0 www.sparechange.io
-0.0.0.0 www.terethat.ru
 0.0.0.0 www.verifier.live
 0.0.0.0 www.webassembly.stream
 0.0.0.0 www.webmine.cz
@@ -378,8 +377,8 @@
 
 # Hosts - adblock-nocoin-list
 # Source - https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
-# Generated - 18.08.2018
+# Generated - 24.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 377
+# Total Domains: 376
 # License: MIT
 

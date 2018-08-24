@@ -552,7 +552,6 @@
 0.0.0.0 sftrack.searchforce.net
 0.0.0.0 shared.65twenty.com
 0.0.0.0 sig.atdmt.com
-0.0.0.0 sig.gamerdna.com
 0.0.0.0 slidedeck.com
 0.0.0.0 smrt.as
 0.0.0.0 snaps.vidiemi.com
@@ -590,7 +589,6 @@
 0.0.0.0 stats.lightningcast.net
 0.0.0.0 stats.lotlinx.com
 0.0.0.0 stats.magnify.net
-0.0.0.0 stats.manticoretechnology.com
 0.0.0.0 stats.mituyu.com
 0.0.0.0 stats.nebula.fi
 0.0.0.0 stats.netbopdev.co.uk
@@ -784,12 +782,10 @@
 0.0.0.0 uim.tifbs.net
 0.0.0.0 upt.graphiq.com
 0.0.0.0 urc.taboolasyndication.com
-0.0.0.0 userlog.synapseip.tv
 0.0.0.0 video-ad-stats.googlesyndication.com
 0.0.0.0 visit.webhosting.yahoo.com
 0.0.0.0 vtracking.in.com
 0.0.0.0 w88.m.espn.go.com
-0.0.0.0 watch.teroti.com
 0.0.0.0 web1.51.la
 0.0.0.0 webcare.byside.com
 0.0.0.0 webeffective.keynote.com
@@ -813,8 +809,8 @@
 
 # Hosts - easyprivacy-thirdparty
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easyprivacy-thirdparty.txt
-# Generated - 18.08.2018
+# Generated - 24.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 812
+# Total Domains: 808
 # License: MIT
 

@@ -412,7 +412,6 @@
 0.0.0.0 optimize-stats.voxmedia.com
 0.0.0.0 p.raasnet.com
 0.0.0.0 p.smartertravel.com
-0.0.0.0 p.typekit.net
 0.0.0.0 p.vtracy.de
 0.0.0.0 p.yotpo.com
 0.0.0.0 p0.raasnet.com
@@ -518,7 +517,6 @@
 0.0.0.0 stats.kaltura.com
 0.0.0.0 stats.mako.co.il
 0.0.0.0 stats.media.onet.pl
-0.0.0.0 stats.mirror.co.uk
 0.0.0.0 stats.olark.com
 0.0.0.0 stats.pandora.com
 0.0.0.0 stats.persgroep.be
@@ -608,6 +606,7 @@
 0.0.0.0 track.dictionary.com
 0.0.0.0 track.effiliation.com
 0.0.0.0 track.express.de
+0.0.0.0 track.hujiang.com
 0.0.0.0 track.leadhit.io
 0.0.0.0 track.mopo.de
 0.0.0.0 track.noz.de
@@ -625,6 +624,7 @@
 0.0.0.0 track.ultimate-guitar.com
 0.0.0.0 track.zappos.com
 0.0.0.0 track2.trbo.com
+0.0.0.0 trackcommon.hujiang.com
 0.0.0.0 tracker.affirm.com
 0.0.0.0 tracker.ampush.io
 0.0.0.0 tracker.brainsins.com
@@ -676,7 +676,6 @@
 0.0.0.0 try.abtasty.com
 0.0.0.0 u.btserve.com
 0.0.0.0 ucounter.ucoz.net
-0.0.0.0 udc.msn.com
 0.0.0.0 udc.yahoo.com
 0.0.0.0 ui.oix.net
 0.0.0.0 um-public-panel-prod.s3.amazonaws.com
@@ -704,8 +703,8 @@
 
 # Hosts - adguard-spyware
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-spyware-firstparty.txt
-# Generated - 18.08.2018
+# Generated - 24.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 703
+# Total Domains: 702
 # License: MIT
 

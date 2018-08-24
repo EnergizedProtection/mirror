@@ -505,7 +505,6 @@
 0.0.0.0 pictureturn.com
 0.0.0.0 plachetde.biz
 0.0.0.0 plantaosexy.com
-0.0.0.0 plmokn.pw
 0.0.0.0 plugrush.com
 0.0.0.0 pnads.com
 0.0.0.0 polimantu.com
@@ -517,7 +516,6 @@
 0.0.0.0 popxxx.net
 0.0.0.0 porkolt.com
 0.0.0.0 porn-hitz.com
-0.0.0.0 porn-site-builder.com
 0.0.0.0 porn300.com
 0.0.0.0 porn88.net
 0.0.0.0 porn99.net
@@ -679,7 +677,6 @@
 0.0.0.0 traffbiz.ru
 0.0.0.0 traffic-in.com
 0.0.0.0 traffic.ru
-0.0.0.0 trafficholder.com
 0.0.0.0 traffichunt.com
 0.0.0.0 trafficjunky.com
 0.0.0.0 trafficpimps.com
@@ -796,8 +793,8 @@
 
 # Hosts - easylist-adult-adservers
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easylist-adult-adservers.txt
-# Generated - 18.08.2018
+# Generated - 24.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 795
+# Total Domains: 792
 # License: MIT
 

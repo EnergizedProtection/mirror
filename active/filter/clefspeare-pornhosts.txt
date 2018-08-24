@@ -935,7 +935,6 @@
 0.0.0.0 www.campreferral.angelfire.com
 0.0.0.0 www.cams.com
 0.0.0.0 www.camsangels.com
-0.0.0.0 www.camshowdownloads.com
 0.0.0.0 www.camshunt.com
 0.0.0.0 www.camsoda.com
 0.0.0.0 www.camster.com
@@ -1687,7 +1686,6 @@
 0.0.0.0 www.futahentai.com
 0.0.0.0 www.futanarizone.tumblr.com
 0.0.0.0 www.fux.com
-0.0.0.0 www.fuxybabes.com
 0.0.0.0 www.fymeir.angelfire.com
 0.0.0.0 www.gabe6146.tumblr.com
 0.0.0.0 www.gabrio.com
@@ -2126,7 +2124,6 @@
 0.0.0.0 www.itskelseyobsession.tumblr.com
 0.0.0.0 www.iuehulb.angelfire.com
 0.0.0.0 www.ivanafukalot.com
-0.0.0.0 www.ivhunter.com
 0.0.0.0 www.iwank.tv
 0.0.0.0 www.iwantporn.net
 0.0.0.0 www.iwanttocrushmyballs.tumblr.com
@@ -2458,7 +2455,6 @@
 0.0.0.0 www.mature-maniacs.com
 0.0.0.0 www.mature-sex-movies.com
 0.0.0.0 www.mature-sex-video.com
-0.0.0.0 www.maturehills.com
 0.0.0.0 www.maturetubeporn.com
 0.0.0.0 www.maturewebcams.com
 0.0.0.0 www.maxesangels.com
@@ -3407,7 +3403,6 @@
 0.0.0.0 www.sex2inc.com
 0.0.0.0 www.sex3.com
 0.0.0.0 www.sexad.net
-0.0.0.0 www.sexangels.net
 0.0.0.0 www.sexcess.net
 0.0.0.0 www.sexcount.de
 0.0.0.0 www.sexcounter.com
@@ -3635,7 +3630,6 @@
 0.0.0.0 www.submissed.com
 0.0.0.0 www.submityourflicks.com
 0.0.0.0 www.sucksex.com
-0.0.0.0 www.suicideangel.com
 0.0.0.0 www.suicidegirls.tumblr.com
 0.0.0.0 www.sultanswomen.com
 0.0.0.0 www.sumptuousdaydreams.tumblr.com
@@ -3930,7 +3924,6 @@
 0.0.0.0 www.tubestack.com
 0.0.0.0 www.tubeteencam.com
 0.0.0.0 www.tubeteener.com
-0.0.0.0 www.tubething.com
 0.0.0.0 www.tubewolf.com
 0.0.0.0 www.tuboff.com
 0.0.0.0 www.tubxporn.com
@@ -4073,7 +4066,6 @@
 0.0.0.0 www.virgindot.com
 0.0.0.0 www.virgingalactic.ca
 0.0.0.0 www.virginhaven.com
-0.0.0.0 www.virginhigh.com
 0.0.0.0 www.virginhoney.com
 0.0.0.0 www.virginhood.com
 0.0.0.0 www.virginia-model.info
@@ -4474,8 +4466,8 @@
 
 # Hosts - clefspeare-pornhosts
 # Source - https://raw.githubusercontent.com/Clefspeare13/pornhosts/master/0.0.0.0/hosts
-# Generated - 18.08.2018
+# Generated - 24.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 4473
+# Total Domains: 4465
 # License: MIT
 

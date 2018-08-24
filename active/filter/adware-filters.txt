@@ -79,7 +79,6 @@
 0.0.0.0 tlscdn.com
 0.0.0.0 toprelatedtopics.com
 0.0.0.0 trkjmp.com
-0.0.0.0 tt.friendschecker.com
 0.0.0.0 tt.toparcadehits.com
 0.0.0.0 tubebsjs.info
 0.0.0.0 ver-pelis.net
@@ -92,8 +91,8 @@
 
 # Hosts - adware-filters
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adware-filters.txt
-# Generated - 18.08.2018
+# Generated - 24.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 91
+# Total Domains: 90
 # License: MIT
 

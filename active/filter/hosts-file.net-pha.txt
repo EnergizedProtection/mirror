@@ -900,6 +900,8 @@
 0.0.0.0 bestdealmeds24.com
 0.0.0.0 bestdealu.su
 0.0.0.0 bestdealy.su
+0.0.0.0 bestdiscountq.su
+0.0.0.0 bestdiscountw.su
 0.0.0.0 bestdrugs24.com
 0.0.0.0 bestdrugsstore.ru
 0.0.0.0 bestdrugsworld.com
@@ -1134,6 +1136,7 @@
 0.0.0.0 brynntamarra.ru
 0.0.0.0 btivhogeje.stockmarketc.su
 0.0.0.0 buanno.com
+0.0.0.0 bullsac.com
 0.0.0.0 bunnybobette.ru
 0.0.0.0 bunnykarola.ru
 0.0.0.0 bunnysusann.ru
@@ -1826,6 +1829,7 @@
 0.0.0.0 cialismsd.com
 0.0.0.0 cialismth.com
 0.0.0.0 cialismtl.com
+0.0.0.0 cialisn.comparent
 0.0.0.0 cialisnajtaniej.pl
 0.0.0.0 cialisned.com
 0.0.0.0 cialisnem.com
@@ -2490,6 +2494,9 @@
 0.0.0.0 evangelinalorettalorna.ru
 0.0.0.0 evangelineleela.ru
 0.0.0.0 evannewhitney.ru
+0.0.0.0 eventstarto.su
+0.0.0.0 eventstartp.su
+0.0.0.0 eventstartr.su
 0.0.0.0 evepharmacy.com
 0.0.0.0 everyrxdose.com
 0.0.0.0 evinakademi.com
@@ -2725,7 +2732,6 @@
 0.0.0.0 foryourx.com
 0.0.0.0 fouziu.hotpricea.su
 0.0.0.0 fqowfrx.topkservise.su
-0.0.0.0 fqu.vipstocko.su
 0.0.0.0 fr-pharmacy.com
 0.0.0.0 fr.alledstore.com
 0.0.0.0 fr.saferxmd.com
@@ -2951,7 +2957,6 @@
 0.0.0.0 getpricec.su
 0.0.0.0 getroman.com
 0.0.0.0 getrxbest724.ru
-0.0.0.0 gffmgr.salehousetop.su
 0.0.0.0 ggtree.xn--80aglaiio2ee.xn--p1ai
 0.0.0.0 giesothylru.net46.net
 0.0.0.0 gilbertemarta.ru
@@ -3080,6 +3085,7 @@
 0.0.0.0 greatsaler.su
 0.0.0.0 greatsales.su
 0.0.0.0 greatshopnet.com
+0.0.0.0 greatstorek.su
 0.0.0.0 greatstorel.su
 0.0.0.0 greattraden.su
 0.0.0.0 greattradeo.su
@@ -4288,6 +4294,7 @@
 0.0.0.0 mormarkets.com
 0.0.0.0 mos-film-gk.ru
 0.0.0.0 mosttrustedtabs.com
+0.0.0.0 motechautomotive.com
 0.0.0.0 motrinstore.com
 0.0.0.0 mr-potolok.ru
 0.0.0.0 mr-webmaster.ru
@@ -5154,6 +5161,7 @@
 0.0.0.0 pricelifea.su
 0.0.0.0 pricemarketg.su
 0.0.0.0 pricemastera.su
+0.0.0.0 pricemasterb.su
 0.0.0.0 pricemasterc.su
 0.0.0.0 priceplusx.su
 0.0.0.0 priceplusy.su
@@ -5211,6 +5219,7 @@
 0.0.0.0 propecia.name
 0.0.0.0 propeciaaustralia.name
 0.0.0.0 propeciahq.com
+0.0.0.0 propecial.com
 0.0.0.0 propeciausfinasteridhq.com
 0.0.0.0 propeciawithoutprescription.ru
 0.0.0.0 proprice.su
@@ -5266,7 +5275,6 @@
 0.0.0.0 puresmartwebmart.ru
 0.0.0.0 putribenang.com
 0.0.0.0 pvbarr.xn--j1aafhy6bpm.xn--p1ai
-0.0.0.0 pvrgeypwi.storeplusa.su
 0.0.0.0 pyaveqfhb.trygroupa.su
 0.0.0.0 pzaoasaeca.clubactivitya.su
 0.0.0.0 q-softbank.com
@@ -5304,6 +5312,7 @@
 0.0.0.0 qyno.saveworkmart123.ru
 0.0.0.0 qywhicyq.mybestonlinea.su
 0.0.0.0 qyxreugh.getrestinfom.su
+0.0.0.0 rabbitinahat.com
 0.0.0.0 rachellerodina.asia
 0.0.0.0 rachelseline.ru
 0.0.0.0 radjasia.com
@@ -7297,6 +7306,8 @@
 0.0.0.0 www.bestdeali.su
 0.0.0.0 www.bestdealu.su
 0.0.0.0 www.bestdealy.su
+0.0.0.0 www.bestdiscountq.su
+0.0.0.0 www.bestdiscountw.su
 0.0.0.0 www.bestdrugs24.com
 0.0.0.0 www.bestdrugsstore.ru
 0.0.0.0 www.bestdrugsworld.com
@@ -8809,6 +8820,9 @@
 0.0.0.0 www.evangelinalorettalorna.ru
 0.0.0.0 www.evangelineleela.ru
 0.0.0.0 www.evannewhitney.ru
+0.0.0.0 www.eventstarto.su
+0.0.0.0 www.eventstartp.su
+0.0.0.0 www.eventstartr.su
 0.0.0.0 www.evepharmacy.com
 0.0.0.0 www.everyrxdose.com
 0.0.0.0 www.evipharmacy.com
@@ -9399,6 +9413,8 @@
 0.0.0.0 www.greatsaler.su
 0.0.0.0 www.greatsales.su
 0.0.0.0 www.greatshopnet.com
+0.0.0.0 www.greatstorek.su
+0.0.0.0 www.greatstorel.su
 0.0.0.0 www.greattraden.su
 0.0.0.0 www.greattradeo.su
 0.0.0.0 www.greattradep.su
@@ -11335,6 +11351,7 @@
 0.0.0.0 www.pricelifea.su
 0.0.0.0 www.pricemarketg.su
 0.0.0.0 www.pricemastera.su
+0.0.0.0 www.pricemasterb.su
 0.0.0.0 www.pricemasterc.su
 0.0.0.0 www.priceplusx.su
 0.0.0.0 www.priceplusy.su
@@ -13172,7 +13189,6 @@
 0.0.0.0 www.yvipharmacy.com
 0.0.0.0 www.yyxh.com
 0.0.0.0 www.zafonpharmacy.ru
-0.0.0.0 www.zanaflex.mediahostforph.com
 0.0.0.0 www.zanetaemmalyn.su
 0.0.0.0 www.zantac-no-prescription-needed-pj.soup.io
 0.0.0.0 www.zantac-online-el.soup.io
@@ -13208,7 +13224,6 @@
 0.0.0.0 www.zithromaxcheap.pen.io
 0.0.0.0 www.zithromaxforsale.org
 0.0.0.0 www.zithromaxhelp.com
-0.0.0.0 www.zithromaxonline.mediahostforph.com
 0.0.0.0 www.zithromaxonline.name
 0.0.0.0 www.zjusad.getrestinfom.su
 0.0.0.0 www.zk-in-action-pdfpk.soup.io
@@ -13421,8 +13436,8 @@
 
 # Hosts - hosts-file.net-pha
 # Source - https://hosts-file.net/pha.txt
-# Generated - 18.08.2018
+# Generated - 24.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 13420
+# Total Domains: 13435
 # License: MIT
 

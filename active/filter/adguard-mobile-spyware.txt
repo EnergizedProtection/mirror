@@ -264,7 +264,7 @@
 
 # Hosts - adguard-mobile-spyware
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-mobile-spyware.txt
-# Generated - 18.08.2018
+# Generated - 24.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 263
 # License: MIT

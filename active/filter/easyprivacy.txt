@@ -1562,7 +1562,6 @@
 0.0.0.0 e.funnymel.com
 0.0.0.0 ea.celio.com
 0.0.0.0 ea.lexpress.fr
-0.0.0.0 eanalyzer.de
 0.0.0.0 earnitup.com
 0.0.0.0 easy-hit-counters.com
 0.0.0.0 easy.lv
@@ -1916,7 +1915,7 @@
 0.0.0.0 gacela.eu
 0.0.0.0 gallupnet.fi
 0.0.0.0 gammachug.com
-0.0.0.0 gateway.reddit.com|
+0.0.0.0 gateway.reddit.com
 0.0.0.0 gaug.es
 0.0.0.0 gay-hotvideo.net
 0.0.0.0 gbotvisit.com
@@ -2496,7 +2495,6 @@
 0.0.0.0 leadtracking.plumvoice.com
 0.0.0.0 leadvision.dotmailer.co.uk
 0.0.0.0 leadzu.com
-0.0.0.0 leanplum.com
 0.0.0.0 ledhenone.com
 0.0.0.0 ledinund.com
 0.0.0.0 legenhit.com
@@ -2529,7 +2527,6 @@
 0.0.0.0 linkwi.se
 0.0.0.0 linkxchanger.com
 0.0.0.0 listrakbi.com
-0.0.0.0 listtop.ru
 0.0.0.0 litix.io
 0.0.0.0 live.cxo.name
 0.0.0.0 live.ec2.cxo.name
@@ -3228,7 +3225,6 @@
 0.0.0.0 perr.h-cdn.com
 0.0.0.0 persianstat.com
 0.0.0.0 persianstat.ir
-0.0.0.0 personage.name
 0.0.0.0 personyze.com
 0.0.0.0 pertholin.com
 0.0.0.0 petametrics.com
@@ -3358,7 +3354,6 @@
 0.0.0.0 postaffiliatepro.com
 0.0.0.0 postclickmarketing.com
 0.0.0.0 postpixel.vindicosuite.com
-0.0.0.0 powerbar-pagerank.de
 0.0.0.0 powercount.com
 0.0.0.0 powercount.jswelt.de
 0.0.0.0 powersearch.us.com
@@ -3456,7 +3451,6 @@
 0.0.0.0 q-stats.nl
 0.0.0.0 qbaka.net
 0.0.0.0 qbop.com
-0.0.0.0 qdtracking.com
 0.0.0.0 qlitics.com
 0.0.0.0 qlog.adap.tv
 0.0.0.0 qlzn6i1l.com
@@ -3780,7 +3774,6 @@
 0.0.0.0 servedby.o2.co.uk
 0.0.0.0 service-stat.tbn.ru
 0.0.0.0 servicetick.com
-0.0.0.0 servinator.pw
 0.0.0.0 serving-sys.com
 0.0.0.0 servingpps.com
 0.0.0.0 servingtrkid.com
@@ -3811,7 +3804,6 @@
 0.0.0.0 sidebar.issuu.com
 0.0.0.0 siftscience.com
 0.0.0.0 sig.atdmt.com
-0.0.0.0 sig.gamerdna.com
 0.0.0.0 signup-way.com
 0.0.0.0 silimbompom.com
 0.0.0.0 silvergamed.com
@@ -4130,9 +4122,7 @@
 0.0.0.0 statistics.tattermedia.com
 0.0.0.0 statistics.wibiya.com
 0.0.0.0 statistik-gallup.net
-0.0.0.0 statistik.motorpresse.de
 0.0.0.0 statistik.simaja.de
-0.0.0.0 statistika.lv
 0.0.0.0 statistiq.com
 0.0.0.0 statistx.com
 0.0.0.0 statm.the-adult-company.com
@@ -4196,7 +4186,6 @@
 0.0.0.0 stats.macmillanusa.com
 0.0.0.0 stats.magnify.net
 0.0.0.0 stats.mako.co.il
-0.0.0.0 stats.manticoretechnology.com
 0.0.0.0 stats.media.onet.pl
 0.0.0.0 stats.miarroba.info
 0.0.0.0 stats.milenio.com
@@ -4231,7 +4220,6 @@
 0.0.0.0 stats.solidopinion.com
 0.0.0.0 stats.someecards.com
 0.0.0.0 stats.splinder.com
-0.0.0.0 stats.storify.com
 0.0.0.0 stats.technopia.it
 0.0.0.0 stats.teledyski.info
 0.0.0.0 stats.thevideo.me
@@ -4573,7 +4561,6 @@
 0.0.0.0 traceless.me
 0.0.0.0 tracelytics.com
 0.0.0.0 tracemyip.org
-0.0.0.0 tracer.perezhilton.com
 0.0.0.0 traceworks.com
 0.0.0.0 track-web.net
 0.0.0.0 track.24heures.ch
@@ -4813,6 +4800,7 @@
 0.0.0.0 trackinglabs.com
 0.0.0.0 trackkas.com
 0.0.0.0 trackla.stackla.com
+0.0.0.0 trackmytarget.com
 0.0.0.0 trackmyweb.net
 0.0.0.0 trackpm.shop2market.com
 0.0.0.0 tracks.arubamediamarketing.it
@@ -4982,7 +4970,6 @@
 0.0.0.0 userdive.com
 0.0.0.0 userdmp.com
 0.0.0.0 userfly.com
-0.0.0.0 userlog.synapseip.tv
 0.0.0.0 userlook.com
 0.0.0.0 userneeds.dk
 0.0.0.0 userreplay.net
@@ -5110,7 +5097,6 @@
 0.0.0.0 warlog.ru
 0.0.0.0 warp.prnewswire.co.uk
 0.0.0.0 wasm24.ru
-0.0.0.0 watch.teroti.com
 0.0.0.0 watson.live.com
 0.0.0.0 waudit.cz
 0.0.0.0 waust.at
@@ -5128,7 +5114,6 @@
 0.0.0.0 web-visor.com
 0.0.0.0 web.dle-news.pw
 0.0.0.0 web1.51.la
-0.0.0.0 webalytics.pw
 0.0.0.0 webassembly.stream
 0.0.0.0 webcare.byside.com
 0.0.0.0 webclicktracker.com
@@ -5150,7 +5135,6 @@
 0.0.0.0 webhit.snd.no
 0.0.0.0 webhits.de
 0.0.0.0 webiqonline.com
-0.0.0.0 webkatalog.li
 0.0.0.0 webleads-tracker.com
 0.0.0.0 weblist.de
 0.0.0.0 weblog.com.ua
@@ -5285,7 +5269,6 @@
 0.0.0.0 x.weather.com
 0.0.0.0 xbasfbno.info
 0.0.0.0 xclaimwords.net
-0.0.0.0 xclk-integracion.com
 0.0.0.0 xcounter.ch
 0.0.0.0 xfast.host
 0.0.0.0 xg4ken.com
@@ -5372,8 +5355,8 @@
 
 # Hosts - easyprivacy
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easyprivacy.txt
-# Generated - 18.08.2018
+# Generated - 24.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 5371
+# Total Domains: 5354
 # License: MIT
 

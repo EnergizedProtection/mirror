@@ -440,7 +440,6 @@
 0.0.0.0 ourhf.com
 0.0.0.0 ovo.com
 0.0.0.0 p2pchange.is
-0.0.0.0 p30download.com
 0.0.0.0 p30world.com
 0.0.0.0 panimix.com
 0.0.0.0 par30dl.com
@@ -666,8 +665,8 @@
 
 # Hosts - ck-web-rtc
 # Source - https://raw.githubusercontent.com/CHEF-KOCH/WebRTC-tracking/master/WebRTC.txt
-# Generated - 18.08.2018
+# Generated - 24.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 665
+# Total Domains: 664
 # License: MIT
 

@@ -332,7 +332,6 @@
 0.0.0.0 richmedia247.com
 0.0.0.0 rkdms.com
 0.0.0.0 rlcdn.com
-0.0.0.0 rover.ebay.com
 0.0.0.0 ru4.com
 0.0.0.0 rubiconproject.com
 0.0.0.0 sbal4kp.com
@@ -436,8 +435,8 @@
 
 # Hosts - blockzilla
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/blockzilla.txt
-# Generated - 18.08.2018
+# Generated - 24.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 435
+# Total Domains: 434
 # License: MIT
 

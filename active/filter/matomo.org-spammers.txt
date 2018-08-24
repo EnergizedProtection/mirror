@@ -64,6 +64,7 @@
 0.0.0.0 autoseo-traffic.com
 0.0.0.0 autovideobroadcast.com
 0.0.0.0 avkzarabotok.info
+0.0.0.0 avtointeres.ru
 0.0.0.0 avtovykup.kz
 0.0.0.0 azbukafree.com
 0.0.0.0 azlex.uz
@@ -241,6 +242,7 @@
 0.0.0.0 gearcraft.us
 0.0.0.0 gearsadspromo.club
 0.0.0.0 generalporn.org
+0.0.0.0 gepatit-info.top
 0.0.0.0 germes-trans.com
 0.0.0.0 get-clickize.info
 0.0.0.0 get-free-social-traffic.com
@@ -679,7 +681,6 @@
 0.0.0.0 we-ping-for-youic.info
 0.0.0.0 website-analytics.online
 0.0.0.0 website-analyzer.info
-0.0.0.0 websites-reviews.com
 0.0.0.0 weburlopener.com
 0.0.0.0 woman-orgasm.ru
 0.0.0.0 wordpresscore.com
@@ -732,8 +733,8 @@
 
 # Hosts - matomo.org-spammers
 # Source - https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt
-# Generated - 18.08.2018
+# Generated - 24.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 731
+# Total Domains: 732
 # License: MIT
 

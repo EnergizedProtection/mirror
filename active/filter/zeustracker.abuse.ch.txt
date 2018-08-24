@@ -83,7 +83,6 @@
 0.0.0.0 stats.lead.mysitehosted.com
 0.0.0.0 teeth.co.jp
 0.0.0.0 tekadrian.pro
-0.0.0.0 teksoft.pro
 0.0.0.0 telefonfiyatlari.org
 0.0.0.0 treatstartaugusth.info
 0.0.0.0 u0003321.cp.regruhosting.ru
@@ -103,8 +102,8 @@
 
 # Hosts - zeustracker.abuse.ch
 # Source - https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Generated - 18.08.2018
+# Generated - 24.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 102
+# Total Domains: 101
 # License: MIT
 

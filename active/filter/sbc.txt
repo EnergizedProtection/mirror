@@ -10,7 +10,6 @@
 0.0.0.0 2fspeedclicks.ero-advertising.com
 0.0.0.0 30-day-change.com
 0.0.0.0 3ds.ero-advertising.com
-0.0.0.0 4448269.fls.doubleclick.net
 0.0.0.0 4anners.ero-advertising.com
 0.0.0.0 9ata.ero-advertising.com
 0.0.0.0 a.stat.xiaomi.com
@@ -19,59 +18,7 @@
 0.0.0.0 abclipper-ui1.alphonso.tv
 0.0.0.0 abtest.mistat.intl.xiaomi.com
 0.0.0.0 abtest.mistat.xiaomi.com
-0.0.0.0 acr10.alphonso.tv
-0.0.0.0 acr11.alphonso.tv
-0.0.0.0 acr12.alphonso.tv
-0.0.0.0 acr13.alphonso.tv
-0.0.0.0 acr14.alphonso.tv
-0.0.0.0 acr15.alphonso.tv
-0.0.0.0 acr16.alphonso.tv
-0.0.0.0 acr17.alphonso.tv
-0.0.0.0 acr18.alphonso.tv
-0.0.0.0 acr19.alphonso.tv
 0.0.0.0 acr2.alphonso.tv
-0.0.0.0 acr20.alphonso.tv
-0.0.0.0 acr21.alphonso.tv
-0.0.0.0 acr22.alphonso.tv
-0.0.0.0 acr23.alphonso.tv
-0.0.0.0 acr25.alphonso.tv
-0.0.0.0 acr26.alphonso.tv
-0.0.0.0 acr27.alphonso.tv
-0.0.0.0 acr28.alphonso.tv
-0.0.0.0 acr29.alphonso.tv
-0.0.0.0 acr3.alphonso.tv
-0.0.0.0 acr30.alphonso.tv
-0.0.0.0 acr31.alphonso.tv
-0.0.0.0 acr32.alphonso.tv
-0.0.0.0 acr33.alphonso.tv
-0.0.0.0 acr34.alphonso.tv
-0.0.0.0 acr35.alphonso.tv
-0.0.0.0 acr36.alphonso.tv
-0.0.0.0 acr37.alphonso.tv
-0.0.0.0 acr39.alphonso.tv
-0.0.0.0 acr4.alphonso.tv
-0.0.0.0 acr40.alphonso.tv
-0.0.0.0 acr41.alphonso.tv
-0.0.0.0 acr42.alphonso.tv
-0.0.0.0 acr43.alphonso.tv
-0.0.0.0 acr44.alphonso.tv
-0.0.0.0 acr45.alphonso.tv
-0.0.0.0 acr46.alphonso.tv
-0.0.0.0 acr47.alphonso.tv
-0.0.0.0 acr49.alphonso.tv
-0.0.0.0 acr5.alphonso.tv
-0.0.0.0 acr51.alphonso.tv
-0.0.0.0 acr52.alphonso.tv
-0.0.0.0 acr53.alphonso.tv
-0.0.0.0 acr54.alphonso.tv
-0.0.0.0 acr55.alphonso.tv
-0.0.0.0 acr56.alphonso.tv
-0.0.0.0 acr58.alphonso.tv
-0.0.0.0 acr59.alphonso.tv
-0.0.0.0 acr6.alphonso.tv
-0.0.0.0 acr7.alphonso.tv
-0.0.0.0 acr8.alphonso.tv
-0.0.0.0 acr9.alphonso.tv
 0.0.0.0 acrdb.alphonso.tv
 0.0.0.0 acspaces.ero-advertising.com
 0.0.0.0 ad.360in.com
@@ -214,7 +161,6 @@
 0.0.0.0 api.redshell.io
 0.0.0.0 api.rollbar.com
 0.0.0.0 api.sec.intl.miui.com
-0.0.0.0 api.setting.intl.miui.com
 0.0.0.0 api.stats.appa.pe
 0.0.0.0 api.taplytics.com
 0.0.0.0 api.treasuredata.com
@@ -342,11 +288,9 @@
 0.0.0.0 device-api.urbanairship.com
 0.0.0.0 device-metrics-us-2.amazon.com
 0.0.0.0 device-metrics-us.amazon.com
-0.0.0.0 dimaria.alphonso.tv
 0.0.0.0 dobre-programy.pl
 0.0.0.0 dobre-programy.xyz
 0.0.0.0 dobreprogramy.pro
-0.0.0.0 donovan.alphonso.tv
 0.0.0.0 dsp.face2trade.com
 0.0.0.0 dts.startappservice.com
 0.0.0.0 dtta.ero-advertising.com
@@ -684,7 +628,6 @@
 0.0.0.0 watson.telemetry.microsoft.com
 0.0.0.0 wc-tracking.lavasoft.com
 0.0.0.0 wdata.ero-advertising.com
-0.0.0.0 web.vortex.data.microsoft.com
 0.0.0.0 web2.alphonso.tv
 0.0.0.0 webstats.adspaces.ero-advertising.com
 0.0.0.0 weconfirmyou.com
@@ -706,7 +649,6 @@
 0.0.0.0 www.adspaces.ero-advertising.com
 0.0.0.0 www.alliance4media.com
 0.0.0.0 www.alphonso.tv
-0.0.0.0 www.api.ad.intl.xiaomi.com
 0.0.0.0 www.arkonziv.com
 0.0.0.0 www.banners.ero-advertising.com
 0.0.0.0 www.banners2.ero-advertising.com
@@ -736,7 +678,6 @@
 0.0.0.0 www.performanceadexchange.com
 0.0.0.0 www.popads.ero-advertising.com
 0.0.0.0 www.pussysaga.com
-0.0.0.0 www.quickcash-system.com
 0.0.0.0 www.roboinside.me
 0.0.0.0 www.rollbar.com
 0.0.0.0 www.security-check-551.com
@@ -750,7 +691,6 @@
 0.0.0.0 www.tvpage.com
 0.0.0.0 www.tvpassport.com
 0.0.0.0 www.urldelivery.com
-0.0.0.0 www.vdtrack.com
 0.0.0.0 www.www.cpm20.com
 0.0.0.0 www.zekiatagur.com
 0.0.0.0 wzrkt.com
@@ -768,8 +708,8 @@
 
 # Hosts - sbc
 # Source - https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts
-# Generated - 18.08.2018
+# Generated - 24.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 767
+# Total Domains: 707
 # License: MIT
 

@@ -169,7 +169,7 @@
 0.0.0.0 g2a-com.newsletter.com.pl
 0.0.0.0 ga.canoe.ca
 0.0.0.0 ga.nsimg.net
-0.0.0.0 gateway.reddit.com|
+0.0.0.0 gateway.reddit.com
 0.0.0.0 gekko.spiceworks.com
 0.0.0.0 geo.hltv.org
 0.0.0.0 geo.homepage-web.com
@@ -509,7 +509,6 @@
 0.0.0.0 stats.shoppydoo.com
 0.0.0.0 stats.slideshare.net
 0.0.0.0 stats.someecards.com
-0.0.0.0 stats.storify.com
 0.0.0.0 stats.thevideo.me
 0.0.0.0 stats.townnews.com
 0.0.0.0 stats.uswitch.com
@@ -556,7 +555,6 @@
 0.0.0.0 tkpi.delta.com
 0.0.0.0 tools.ranker.com
 0.0.0.0 top.wn.com
-0.0.0.0 tracer.perezhilton.com
 0.0.0.0 track.briskfile.com
 0.0.0.0 track.catalogs.com
 0.0.0.0 track.cbs.com
@@ -650,8 +648,8 @@
 
 # Hosts - easyprivacy-specific
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easyprivacy-specific.txt
-# Generated - 18.08.2018
+# Generated - 24.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 649
+# Total Domains: 647
 # License: MIT
 

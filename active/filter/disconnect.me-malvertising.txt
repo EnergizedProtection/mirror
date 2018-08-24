@@ -1,7 +1,6 @@
 0.0.0.0 0001.2waky.com
 0.0.0.0 01388.net
 0.0.0.0 029999.com
-0.0.0.0 0538ly.cn
 0.0.0.0 0871ggw.net
 0.0.0.0 08819.com
 0.0.0.0 1010fz.com
@@ -39,13 +38,11 @@
 0.0.0.0 4mads.com
 0.0.0.0 50websads.com
 0.0.0.0 510w.com
-0.0.0.0 518ad.com
 0.0.0.0 51lvyu.com
 0.0.0.0 51yes.com
 0.0.0.0 52yxg.cn
 0.0.0.0 54fangtan.com
 0.0.0.0 54ly.com
-0.0.0.0 56hj.cn
 0.0.0.0 5thfinger.com
 0.0.0.0 600z.com
 0.0.0.0 66av.cc
@@ -60,7 +57,6 @@
 0.0.0.0 818tl.com
 0.0.0.0 8883448.com
 0.0.0.0 911718.net
-0.0.0.0 978qp.com
 0.0.0.0 97boss.com
 0.0.0.0 980media.com
 0.0.0.0 981718.cn
@@ -940,7 +936,6 @@
 0.0.0.0 appboy.com
 0.0.0.0 appdog.com
 0.0.0.0 appflood.com
-0.0.0.0 apphay.me
 0.0.0.0 appia.com
 0.0.0.0 appier.com
 0.0.0.0 appimmobilier.com
@@ -999,7 +994,6 @@
 0.0.0.0 baby.py.shangdu.com
 0.0.0.0 backbeatmedia.com
 0.0.0.0 bafuhotel.com
-0.0.0.0 bag86.com
 0.0.0.0 bango.net
 0.0.0.0 banik.redigy.cz
 0.0.0.0 banner-exchange-24.de
@@ -1120,7 +1114,6 @@
 0.0.0.0 bitads.net
 0.0.0.0 bitmedianetwork.com
 0.0.0.0 bizad.nikkeibp.co.jp
-0.0.0.0 bjdxhs.com
 0.0.0.0 bjhmt.com
 0.0.0.0 bjpgqsc.com
 0.0.0.0 bkkjob.com
@@ -1154,7 +1147,6 @@
 0.0.0.0 box.anchorfree.net
 0.0.0.0 bpath.com
 0.0.0.0 bqbbw.com
-0.0.0.0 bradyhansen.com
 0.0.0.0 braincash.com
 0.0.0.0 brandmeacademy.com
 0.0.0.0 brandreachsys.com
@@ -1376,7 +1368,6 @@
 0.0.0.0 czqmc.com
 0.0.0.0 d.adroll.com
 0.0.0.0 d4n.platformd.com
-0.0.0.0 daguogroup.com
 0.0.0.0 dakic-ia-300.com
 0.0.0.0 danban.com
 0.0.0.0 dapper.net
@@ -1489,7 +1480,6 @@
 0.0.0.0 estat.com
 0.0.0.0 etahub.com
 0.0.0.0 etargetnet.com
-0.0.0.0 etbld.com
 0.0.0.0 ethicalads.net
 0.0.0.0 etnkorea.com
 0.0.0.0 etracker.de
@@ -1499,7 +1489,6 @@
 0.0.0.0 eu1.madsone.com
 0.0.0.0 eur.a1.yimg.com
 0.0.0.0 eurekster.com
-0.0.0.0 euroasia-p.com
 0.0.0.0 euroclick.com
 0.0.0.0 eurocompkft.hu
 0.0.0.0 european-toplist.de
@@ -1559,7 +1548,6 @@
 0.0.0.0 ffsi.info
 0.0.0.0 ffxcam.fairfax.com.au
 0.0.0.0 fg.bibleandbullets.com
-0.0.0.0 fideln.com
 0.0.0.0 fiksu.com
 0.0.0.0 fileserver.co.kr
 0.0.0.0 fimc.net
@@ -1619,7 +1607,6 @@
 0.0.0.0 geo.digitalpoint.com
 0.0.0.0 geobanner.adultfriendfinder.com
 0.0.0.0 geovisite.com
-0.0.0.0 german-linkindex.de
 0.0.0.0 getclicky.com
 0.0.0.0 getexceptional.com
 0.0.0.0 gillingscamps.co.uk
@@ -1633,6 +1620,7 @@
 0.0.0.0 gmads.net
 0.0.0.0 go-rank.de
 0.0.0.0 goadservices.com
+0.0.0.0 god123.cn
 0.0.0.0 goingplatinum.com
 0.0.0.0 gold.weborama.fr
 0.0.0.0 goldspotmedia.com
@@ -1707,7 +1695,6 @@
 0.0.0.0 hotrank.com.tw
 0.0.0.0 hotslotpot.cn
 0.0.0.0 hsbarbershop.co.uk
-0.0.0.0 hsych.com
 0.0.0.0 htmlhubing.xyz
 0.0.0.0 htpm.com.cn
 0.0.0.0 httpool.com
@@ -1739,7 +1726,6 @@
 0.0.0.0 ientrymail.com
 0.0.0.0 iesnare.com
 0.0.0.0 ifa.tube8live.com
-0.0.0.0 ifighi.net
 0.0.0.0 ilbanner.com
 0.0.0.0 ilead.itrack.it
 0.0.0.0 iloopmobile.com
@@ -1820,7 +1806,6 @@
 0.0.0.0 jokedollars.com
 0.0.0.0 js.users.51.la
 0.0.0.0 jsbwpg.com
-0.0.0.0 jsngupdwxeoa.uglyas.com
 0.0.0.0 jtti.net
 0.0.0.0 juicyads.com
 0.0.0.0 julysystems.com
@@ -1844,7 +1829,6 @@
 0.0.0.0 kontera.com
 0.0.0.0 kt-g.de
 0.0.0.0 ktu.sv2.biz
-0.0.0.0 kuaiyan.com.cn
 0.0.0.0 kumykoz.com
 0.0.0.0 lakequincy.com
 0.0.0.0 laos.luangprabang.free.fr
@@ -1868,9 +1852,7 @@
 0.0.0.0 leonarderickson.chez.com
 0.0.0.0 levelrate.de
 0.0.0.0 lfcraft.com
-0.0.0.0 lfgkyy.com
 0.0.0.0 lfstmedia.com
-0.0.0.0 liberated.org
 0.0.0.0 lifestreetmedia.com
 0.0.0.0 liftdna.com
 0.0.0.0 ligatus.com
@@ -1908,7 +1890,6 @@
 0.0.0.0 lop.com
 0.0.0.0 lousecn.cn
 0.0.0.0 lucidmedia.com
-0.0.0.0 luguanmm.com
 0.0.0.0 lunarads.com
 0.0.0.0 lzjl.com
 0.0.0.0 m1.webstats4u.com
@@ -1944,7 +1925,6 @@
 0.0.0.0 marketron.com
 0.0.0.0 maroonspider.com
 0.0.0.0 mas.sector.sk
-0.0.0.0 masasaudi.com
 0.0.0.0 masjlr.com
 0.0.0.0 mastermind.com
 0.0.0.0 matchcraft.com
@@ -1997,7 +1977,6 @@
 0.0.0.0 metaresolver.com
 0.0.0.0 methodcash.com
 0.0.0.0 metrics.windowsitpro.com
-0.0.0.0 metzgerconsulting.com
 0.0.0.0 mgid.com
 0.0.0.0 miarroba.com
 0.0.0.0 microstatic.pl
@@ -2072,10 +2051,8 @@
 0.0.0.0 mysimash.info
 0.0.0.0 mystat-in.net
 0.0.0.0 mystat.pl
-0.0.0.0 mythings.com
 0.0.0.0 mytop-in.net
 0.0.0.0 n69.com
-0.0.0.0 n85853.cn
 0.0.0.0 naiadsystems.com
 0.0.0.0 naj.sk
 0.0.0.0 namimedia.com
@@ -2185,14 +2162,12 @@
 0.0.0.0 pagerank-ranking.com
 0.0.0.0 pagerank-ranking.de
 0.0.0.0 pagerank-server7.de
-0.0.0.0 pagerank-submitter.com
 0.0.0.0 pagerank-submitter.de
 0.0.0.0 pagerank-suchmaschine.de
 0.0.0.0 pagerank-united.de
 0.0.0.0 pagerank4u.eu
 0.0.0.0 pagerank4you.com
 0.0.0.0 pageranktop.com
-0.0.0.0 panthawas.com
 0.0.0.0 papayamobile.com
 0.0.0.0 paranteztanitim.com
 0.0.0.0 partage-facile.com
@@ -2325,7 +2300,6 @@
 0.0.0.0 ranking-id.de
 0.0.0.0 ranking-links.de
 0.0.0.0 ranking-liste.de
-0.0.0.0 ranking-street.de
 0.0.0.0 rankingchart.de
 0.0.0.0 rankingscout.com
 0.0.0.0 rankyou.com
@@ -2458,7 +2432,6 @@
 0.0.0.0 shoppingads.com
 0.0.0.0 siccash.com
 0.0.0.0 sidebar.angelfire.com
-0.0.0.0 sightshare.com
 0.0.0.0 signalhq.com
 0.0.0.0 simplequiltmaking.com
 0.0.0.0 simpletexting.com
@@ -2480,11 +2453,9 @@
 0.0.0.0 snapads.com
 0.0.0.0 snapgiant.com
 0.0.0.0 snoobi.com
-0.0.0.0 snrp.uglyas.com
 0.0.0.0 socialspark.com
 0.0.0.0 softclick.com.br
 0.0.0.0 softh.blogsky.com
-0.0.0.0 softtube.cn
 0.0.0.0 sorclan.za.pl
 0.0.0.0 spacash.com
 0.0.0.0 sparkstudios.com
@@ -2546,7 +2517,6 @@
 0.0.0.0 stoneb.cn
 0.0.0.0 strikead.com
 0.0.0.0 strikeiron.com
-0.0.0.0 subeihm.com
 0.0.0.0 subscribe.hearstmags.com
 0.0.0.0 sugoicounter.com
 0.0.0.0 sunggysus.com
@@ -2613,7 +2583,6 @@
 0.0.0.0 therichkids.com
 0.0.0.0 thinknear.com
 0.0.0.0 thinkupfront.com
-0.0.0.0 thomashobbs.com
 0.0.0.0 thrnt.com
 0.0.0.0 throne.thehelpbiz.com
 0.0.0.0 thruport.com
@@ -2680,7 +2649,6 @@
 0.0.0.0 traffic-exchange.com
 0.0.0.0 trafficadept.com
 0.0.0.0 trafficfactory.biz
-0.0.0.0 trafficholder.com
 0.0.0.0 traffichunt.com
 0.0.0.0 trafficjunky.net
 0.0.0.0 trafficleader.com
@@ -2717,7 +2685,6 @@
 0.0.0.0 tyroo.com
 0.0.0.0 uarating.com
 0.0.0.0 ubermedia.com
-0.0.0.0 uglyas.com
 0.0.0.0 ukbanners.com
 0.0.0.0 ultramercial.com
 0.0.0.0 ultsearch.com
@@ -2843,9 +2810,7 @@
 0.0.0.0 www.money4exit.de
 0.0.0.0 www.photo-ads.co.uk
 0.0.0.0 www.qqkabb.com
-0.0.0.0 www.softtube.cn
 0.0.0.0 www.unicaitaly.it
-0.0.0.0 www.weigezhiyao.com
 0.0.0.0 www.wwgin.com
 0.0.0.0 www.yserch.com
 0.0.0.0 www8.glam.com
@@ -2863,7 +2828,6 @@
 0.0.0.0 xertive.com
 0.0.0.0 xg4ken.com
 0.0.0.0 xi1111.com
-0.0.0.0 xianyicao.net
 0.0.0.0 xiazai.dns-vip.net
 0.0.0.0 xin-lian.cn
 0.0.0.0 xinyangmeiye.com
@@ -2933,8 +2897,8 @@
 
 # Hosts - disconnect.me-malvertising
 # Source - https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
-# Generated - 18.08.2018
+# Generated - 24.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 2932
+# Total Domains: 2896
 # License: MIT
 

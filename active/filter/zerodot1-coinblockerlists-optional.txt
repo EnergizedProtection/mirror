@@ -62,7 +62,6 @@
 0.0.0.0 cryptoguiminer.com
 0.0.0.0 cryptonaut.org
 0.0.0.0 cryptonotemining.org
-0.0.0.0 cryptopia.co.nz
 0.0.0.0 cur.lv
 0.0.0.0 dash-bitcore1.trezor.io
 0.0.0.0 dashboard.inwemo.com
@@ -259,7 +258,6 @@
 0.0.0.0 www.cryptoguiminer.com
 0.0.0.0 www.cryptonaut.org
 0.0.0.0 www.cryptonotemining.org
-0.0.0.0 www.cryptopia.co.nz
 0.0.0.0 www.cur.lv
 0.0.0.0 www.dash-bitcore1.trezor.io
 0.0.0.0 www.dogeminer.cc
@@ -338,8 +336,8 @@
 
 # Hosts - zerodot1-coinblockerlists-optional
 # Source - https://zerodot1.gitlab.io/CoinBlockerLists/hosts_optional
-# Generated - 18.08.2018
+# Generated - 24.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 337
+# Total Domains: 335
 # License: MIT
 

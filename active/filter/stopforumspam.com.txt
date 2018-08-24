@@ -12000,7 +12000,7 @@
 
 # Hosts - stopforumspam.com
 # Source - https://stopforumspam.com/downloads/toxic_domains_whole.txt
-# Generated - 18.08.2018
+# Generated - 24.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 11999
 # License: MIT

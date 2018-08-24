@@ -89,7 +89,6 @@
 0.0.0.0 bidr.io
 0.0.0.0 bidswitch.net
 0.0.0.0 bidtheatre.com
-0.0.0.0 bing.com
 0.0.0.0 bizographics.com
 0.0.0.0 bkrtx.com
 0.0.0.0 bloxcms.com
@@ -314,7 +313,6 @@
 0.0.0.0 licdn.com
 0.0.0.0 lifestreet.com
 0.0.0.0 lijit.com
-0.0.0.0 linkedin.com
 0.0.0.0 livedap.com
 0.0.0.0 livefyre.com
 0.0.0.0 liveperson.net
@@ -354,7 +352,6 @@
 0.0.0.0 msn.com
 0.0.0.0 mxptint.net
 0.0.0.0 myteamscoop.com
-0.0.0.0 mythings.com
 0.0.0.0 myvisualiq.net
 0.0.0.0 myvoicenation.com
 0.0.0.0 n.gemini.yahoo.com
@@ -396,7 +393,6 @@
 0.0.0.0 petametrics.com
 0.0.0.0 pictela.net
 0.0.0.0 pingdom.net
-0.0.0.0 pinimg.com
 0.0.0.0 pippio.com
 0.0.0.0 pix.sr
 0.0.0.0 pixel.ad
@@ -511,7 +507,6 @@
 0.0.0.0 truoptik.com
 0.0.0.0 truste.com
 0.0.0.0 tubemogul.com
-0.0.0.0 tumblr.com
 0.0.0.0 turn.com
 0.0.0.0 turner.com
 0.0.0.0 tynt.com
@@ -521,10 +516,8 @@
 0.0.0.0 undertone.com
 0.0.0.0 univide.com
 0.0.0.0 unrulymedia.com
-0.0.0.0 us-west-2.elb.amazonaws.com
 0.0.0.0 us.adserver.yahoo.com
 0.0.0.0 userreport.com
-0.0.0.0 uts-af.com
 0.0.0.0 vast.com
 0.0.0.0 vdna-assets.com
 0.0.0.0 ventunotech.com
@@ -578,8 +571,8 @@
 
 # Hosts - better-fyi-trackers
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/better-fyi-trackers.txt
-# Generated - 18.08.2018
+# Generated - 24.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 577
+# Total Domains: 570
 # License: MIT
 

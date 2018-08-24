@@ -1265,7 +1265,6 @@
 0.0.0.0 leadsius.com
 0.0.0.0 leadsmonitor.io
 0.0.0.0 leadsrx.com
-0.0.0.0 leanplum.com
 0.0.0.0 ledhenone.com
 0.0.0.0 ledinund.com
 0.0.0.0 legolas-media.com
@@ -1761,7 +1760,6 @@
 0.0.0.0 q-stats.nl
 0.0.0.0 qbaka.net
 0.0.0.0 qbop.com
-0.0.0.0 qdtracking.com
 0.0.0.0 qlitics.com
 0.0.0.0 qlzn6i1l.com
 0.0.0.0 qoijertneio.com
@@ -1943,7 +1941,6 @@
 0.0.0.0 serie-vostfr.com
 0.0.0.0 serious-partners.com
 0.0.0.0 serv-ac.com
-0.0.0.0 servinator.pw
 0.0.0.0 serving-sys.com
 0.0.0.0 servingpps.com
 0.0.0.0 servingtrkid.com
@@ -2241,6 +2238,7 @@
 0.0.0.0 tracking202.com
 0.0.0.0 trackinglabs.com
 0.0.0.0 trackkas.com
+0.0.0.0 trackmytarget.com
 0.0.0.0 trackmyweb.net
 0.0.0.0 trackset.com
 0.0.0.0 tracksy.com
@@ -2425,7 +2423,6 @@
 0.0.0.0 web-stat.com
 0.0.0.0 web-stat.net
 0.0.0.0 web.dle-news.pw
-0.0.0.0 webalytics.pw
 0.0.0.0 webassembly.stream
 0.0.0.0 webclicktracker.com
 0.0.0.0 webcounter.co.za
@@ -2511,7 +2508,6 @@
 0.0.0.0 x-stat.de
 0.0.0.0 x.ligatus.com
 0.0.0.0 xbasfbno.info
-0.0.0.0 xclk-integracion.com
 0.0.0.0 xfast.host
 0.0.0.0 xg4ken.com
 0.0.0.0 xiti.com
@@ -2571,8 +2567,8 @@
 
 # Hosts - easyprivacy-tracking-servers
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easyprivacy-tracking-servers.txt
-# Generated - 18.08.2018
+# Generated - 24.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 2570
+# Total Domains: 2566
 # License: MIT
 

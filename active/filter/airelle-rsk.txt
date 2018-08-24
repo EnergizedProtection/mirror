@@ -573,7 +573,6 @@
 0.0.0.0 138.216.232.72.static.reverse.ltdomains.com
 0.0.0.0 138.72.202.84.customer.cdi.no
 0.0.0.0 138.sub-70-222-103.myvzw.com
-0.0.0.0 1385157996.dhcp.dbnet.dk
 0.0.0.0 139-218-132-95.pool.ukrtel.net
 0.0.0.0 139.195.232.72.static.reverse.ltdomains.com
 0.0.0.0 139.207.232.72.static.reverse.ltdomains.com
@@ -3493,7 +3492,6 @@
 0.0.0.0 33.sub-70-197-153.myvzw.com
 0.0.0.0 3368.bookonline.com.cn
 0.0.0.0 33db9538.com
-0.0.0.0 33iqst.com
 0.0.0.0 33nn.com
 0.0.0.0 34-224-64-208-dedicated.multacom.com
 0.0.0.0 34.219.36.72.static.reverse.ltdomains.com
@@ -3539,7 +3537,6 @@
 0.0.0.0 38707-223419.link.iwanttodeliver.com
 0.0.0.0 38pension.com
 0.0.0.0 39-71-113-92.pool.ukrtel.net
-0.0.0.0 39-8-ftth.onsnetstudenten.nl
 0.0.0.0 39-93.com
 0.0.0.0 39.red-81-47-137.staticip.rima-tde.net
 0.0.0.0 39.sub-75-220-53.myvzw.com
@@ -10577,7 +10574,6 @@
 0.0.0.0 ads-personal.com
 0.0.0.0 ads-sa.com
 0.0.0.0 ads-service.com
-0.0.0.0 ads.24.com
 0.0.0.0 ads.3sfmedia.com
 0.0.0.0 ads.4tube.com
 0.0.0.0 ads.abqjournal.com
@@ -13248,7 +13244,6 @@
 0.0.0.0 adultmoviespost.com
 0.0.0.0 adultprovide.com
 0.0.0.0 adultscandy.com
-0.0.0.0 adultsearchplanet.com
 0.0.0.0 adultsense.org
 0.0.0.0 adultsgames.net
 0.0.0.0 adultsonlyvids.com
@@ -13529,7 +13524,6 @@
 0.0.0.0 affiliate.mobi.espotting.com
 0.0.0.0 affiliate.nl.espotting.com
 0.0.0.0 affiliate.no.espotting.com
-0.0.0.0 affiliate.pmclicks.com
 0.0.0.0 affiliate.se.espotting.com
 0.0.0.0 affiliate.viator.com
 0.0.0.0 affiliateall.com
@@ -13715,7 +13709,6 @@
 0.0.0.0 ainjiashop.bookonline.com.cn
 0.0.0.0 aino.mycitytoolbar.com
 0.0.0.0 ainshengshudian.bookonline.com.cn
-0.0.0.0 aintdoinshit.com
 0.0.0.0 aio31.com
 0.0.0.0 aioclub.com
 0.0.0.0 aiongood.3322.org
@@ -15198,7 +15191,6 @@
 0.0.0.0 assimil.mystoretoolbar.com
 0.0.0.0 assistance-en-sig.blogspot.com
 0.0.0.0 assistance.formalog.pro
-0.0.0.0 assoc-amazon.de
 0.0.0.0 assoced.si.it.112.2o7.net
 0.0.0.0 associatedcreative.net
 0.0.0.0 assoicatedcontent.112.2o7.net
@@ -15991,7 +15983,6 @@
 0.0.0.0 banners.icams.com
 0.0.0.0 banners.idg.com.br
 0.0.0.0 banners.images.streamray.com
-0.0.0.0 banners.inetfast.com
 0.0.0.0 banners.jewishfriendfinder.com
 0.0.0.0 banners.lativio.com
 0.0.0.0 banners.leadingedgecash.com
@@ -22062,7 +22053,6 @@
 0.0.0.0 clickthrutraffic.com
 0.0.0.0 clicktrack.onlineemailmarketing.com
 0.0.0.0 clicktrack.wnu.com
-0.0.0.0 clicktracker.alloymarketing.com
 0.0.0.0 clicktrade.com
 0.0.0.0 clickxchange.com
 0.0.0.0 clickzs.com
@@ -25541,7 +25531,6 @@
 0.0.0.0 dietpills4free.net
 0.0.0.0 dieutribenhkhop.com
 0.0.0.0 differentmusiknonstopradio.media-toolbar.com
-0.0.0.0 diffusion.agava.com
 0.0.0.0 dig.do
 0.0.0.0 digchrogerebert.122.2o7.net
 0.0.0.0 digg.112.2o7.net
@@ -26329,7 +26318,6 @@
 0.0.0.0 downloadprovider.net
 0.0.0.0 downloadrevenues.com
 0.0.0.0 downloads-whatsapp.com
-0.0.0.0 downloads.180solutions.com
 0.0.0.0 downloads.5star-network.com
 0.0.0.0 downloads.exampacs.net
 0.0.0.0 downloads.khinsider.com
@@ -27351,7 +27339,6 @@
 0.0.0.0 ecardrewards.com
 0.0.0.0 ecb79.neoplus.adsl.tpnet.pl
 0.0.0.0 ecc133.neoplus.adsl.tpnet.pl
-0.0.0.0 ecchilove.nazwa.pl
 0.0.0.0 ecd179.neoplus.adsl.tpnet.pl
 0.0.0.0 ece230.neoplus.adsl.tpnet.pl
 0.0.0.0 ece34.neoplus.adsl.tpnet.pl
@@ -29066,7 +29053,6 @@
 0.0.0.0 exhacked.com
 0.0.0.0 exila.info
 0.0.0.0 exis.info
-0.0.0.0 exit.megago.com
 0.0.0.0 exit.oxcash2.com
 0.0.0.0 exit.silvercash.com
 0.0.0.0 exitexchange.com
@@ -29263,7 +29249,6 @@
 0.0.0.0 faccebook.ca.cx
 0.0.0.0 face-book-proxy-list.razor.pureleads.sendori.com
 0.0.0.0 face-vote.com
-0.0.0.0 facebook-com-log-in.thelavishchick.com
 0.0.0.0 facebook-hack-account.com
 0.0.0.0 facebook-hacker-001.blogspot.co.uk
 0.0.0.0 facebook-hacks.com
@@ -30698,7 +30683,6 @@
 0.0.0.0 freeserials.spb.ru
 0.0.0.0 freeserials.ws
 0.0.0.0 freeserverproxy.net
-0.0.0.0 freesex-movies.info
 0.0.0.0 freesexlifestyle.com
 0.0.0.0 freeshare.za.org
 0.0.0.0 freesharewarecenter.com
@@ -30924,7 +30908,6 @@
 0.0.0.0 fuckporn.com
 0.0.0.0 fuckteencunt.com
 0.0.0.0 fuckunion.com
-0.0.0.0 fudgeson.co.tv
 0.0.0.0 fuehrerschein24.net
 0.0.0.0 fuehrerscheincheck.com
 0.0.0.0 fuelbuck.com
@@ -31920,7 +31903,6 @@
 0.0.0.0 gmsaturn.112.2o7.net
 0.0.0.0 gmtuae.com
 0.0.0.0 gmxhome.de
-0.0.0.0 gnc.com.102.112.2o7.net
 0.0.0.0 gnci-ict.com
 0.0.0.0 gncr.org
 0.0.0.0 gnnet.co.kr
@@ -32983,7 +32965,6 @@
 0.0.0.0 hackersnoobs.foroactivo.com
 0.0.0.0 hackersoft.clan.su
 0.0.0.0 hackersonlineclub.com
-0.0.0.0 hackerspider.de
 0.0.0.0 hackersrus.phpnet.us
 0.0.0.0 hackerstuff.com
 0.0.0.0 hackersuniversit.com
@@ -33700,7 +33681,6 @@
 0.0.0.0 histotheek.mylibrarytoolbar.com
 0.0.0.0 hit-counter.udub.com
 0.0.0.0 hit-now.com
-0.0.0.0 hit.clickaider.com
 0.0.0.0 hit.gemius.pl
 0.0.0.0 hit.hotlog.ru
 0.0.0.0 hit.ourtoolbar.com
@@ -33884,7 +33864,6 @@
 0.0.0.0 homexfiles.com
 0.0.0.0 homler.net
 0.0.0.0 honcomdev.122.2o7.net
-0.0.0.0 honda.com.102.112.2o7.net
 0.0.0.0 honda.com.112.2o7.net
 0.0.0.0 hondahookup.us.intellitxt.com
 0.0.0.0 hondaphil.com.ph
@@ -35605,7 +35584,6 @@
 0.0.0.0 instagramhack.com
 0.0.0.0 install.007guard.com
 0.0.0.0 install.browsertoolbar.com
-0.0.0.0 install.freedownloadsoft.net
 0.0.0.0 install.play3w.com
 0.0.0.0 install.power-url.de
 0.0.0.0 install.searchtab.net
@@ -36338,7 +36316,6 @@
 0.0.0.0 irc.deoxy.org
 0.0.0.0 irc.xerologic.net
 0.0.0.0 irc.xevion.net
-0.0.0.0 irc.xposed.org
 0.0.0.0 ircbeginner.com
 0.0.0.0 ircd.zief.pl
 0.0.0.0 ircfm.net
@@ -37300,7 +37277,6 @@
 0.0.0.0 justwebads.com
 0.0.0.0 justyjohnxplodes.ddns.net
 0.0.0.0 jutcom.com
-0.0.0.0 jvanjcx4.impregnable.net
 0.0.0.0 jw.sdcjxy.com
 0.0.0.0 jwalla.cjt1.net
 0.0.0.0 jwarezp2p.cjt1.net
@@ -39707,7 +39683,6 @@
 0.0.0.0 maspuigroig.com
 0.0.0.0 mass-appeal.com
 0.0.0.0 mass-traffic.com
-0.0.0.0 massages-erotiques-paris.com
 0.0.0.0 massearch.com
 0.0.0.0 masslan.com
 0.0.0.0 massmail.isandt.com
@@ -40087,7 +40062,6 @@
 0.0.0.0 megaproxy.com
 0.0.0.0 megared.cl
 0.0.0.0 megarockradio.myradiotoolbar.com
-0.0.0.0 megarulez.com
 0.0.0.0 megarus.3dn.ru
 0.0.0.0 megasearchbar.com
 0.0.0.0 megaserial.net
@@ -40375,7 +40349,6 @@
 0.0.0.0 metrics.philly.com
 0.0.0.0 metrics.post-gazette.com
 0.0.0.0 metrics.premiereradio.net
-0.0.0.0 metrics.radioshack.com
 0.0.0.0 metrics.ralphlauren.co.uk
 0.0.0.0 metrics.rcsmetrics.it
 0.0.0.0 metrics.realage.com
@@ -41315,7 +41288,6 @@
 0.0.0.0 mpire.112.2o7.net
 0.0.0.0 mpkselyatino.ru
 0.0.0.0 mplanning.com
-0.0.0.0 mplayerdownloader.com
 0.0.0.0 mplaylist.com
 0.0.0.0 mpleger.de
 0.0.0.0 mpmain.112.2o7.net
@@ -41610,13 +41582,8 @@
 0.0.0.0 mural.uv.es
 0.0.0.0 murbil.hostei.com
 0.0.0.0 murcs.org
-0.0.0.0 murdoch.edu.au.102.112.2o7.net
 0.0.0.0 muriloseguros.com.br
-0.0.0.0 murkinduxck.co.tv
 0.0.0.0 murkinduxck.uni.cc
-0.0.0.0 murkinduxck1.co.tv
-0.0.0.0 murkinduxck2.co.tv
-0.0.0.0 murkinduxck3.co.tv
 0.0.0.0 murtadha.koom.ma
 0.0.0.0 musah.info
 0.0.0.0 musavirprestige.com
@@ -42129,7 +42096,6 @@
 0.0.0.0 naturalsuccessprinciples.com
 0.0.0.0 naturasoftware.com
 0.0.0.0 nature-meds-shop.com
-0.0.0.0 nature.org.102.112.2o7.net
 0.0.0.0 naturesagro.com
 0.0.0.0 naturopathiesante.fr
 0.0.0.0 naturstein-schubert.de
@@ -42284,7 +42250,6 @@
 0.0.0.0 net.net
 0.0.0.0 net.site-id.nl
 0.0.0.0 net.smokybonesbbq.com
-0.0.0.0 net.xibu315.com
 0.0.0.0 net155-163.mclink.it
 0.0.0.0 net2.net-downloads.com
 0.0.0.0 net2008.com
@@ -42317,7 +42282,6 @@
 0.0.0.0 netgears.com
 0.0.0.0 netguardtoolbar.com
 0.0.0.0 nethacker.de
-0.0.0.0 nethit-free.nl
 0.0.0.0 neti.hypermart.net
 0.0.0.0 netika.net
 0.0.0.0 netimo.net
@@ -42705,7 +42669,6 @@
 0.0.0.0 nmcomrockhill.112.2o7.net
 0.0.0.0 nmdurham.112.2o7.net
 0.0.0.0 nmedev.122.2o7.net
-0.0.0.0 nmetrics.samsung.com
 0.0.0.0 nmextensions.com
 0.0.0.0 nmfabb.com
 0.0.0.0 nmfortworth.112.2o7.net
@@ -42768,7 +42731,6 @@
 0.0.0.0 noah.reddion.com
 0.0.0.0 noahsamazing.mytowntoolbar.com
 0.0.0.0 nobilitas.cz
-0.0.0.0 noblindlinks.com
 0.0.0.0 noblocker.com
 0.0.0.0 noblocks.info
 0.0.0.0 nobodyspeakstruth.narod.ru
@@ -42961,7 +42923,6 @@
 0.0.0.0 nottingham.nswebhost.com
 0.0.0.0 nottingham.ws
 0.0.0.0 noukoubungei.web.fc2.com
-0.0.0.0 nourteenthp.angelcities.com
 0.0.0.0 nova.andersenit.dk
 0.0.0.0 nova.realmedia.fr
 0.0.0.0 novacopia.net
@@ -43267,7 +43228,6 @@
 0.0.0.0 nxads.internet.com
 0.0.0.0 nxguolu.net
 0.0.0.0 nxt.ru
-0.0.0.0 ny.contentmatch.net
 0.0.0.0 nyadmcncserve-05y06a.com
 0.0.0.0 nyads.ny.publicus.com
 0.0.0.0 nyala.sdnp.org.mw
@@ -43486,7 +43446,6 @@
 0.0.0.0 oas-fr.video.on.nytimes.com
 0.0.0.0 oas.deejay.it
 0.0.0.0 oas.eurosport.com
-0.0.0.0 oas.mainetoday.com
 0.0.0.0 oas.repubblica.it
 0.0.0.0 oas.roanoke.com
 0.0.0.0 oas.salon.com
@@ -43782,7 +43741,6 @@
 0.0.0.0 oascentral.villagevoice.com
 0.0.0.0 oascentral.virtualtourist.com
 0.0.0.0 oascentral.walmartwom.com
-0.0.0.0 oascentral.warcry.com
 0.0.0.0 oascentral.washtimes.com
 0.0.0.0 oascentral.wciv.com
 0.0.0.0 oascentral.wenxuecity.com
@@ -43957,7 +43915,6 @@
 0.0.0.0 ojiplus.com
 0.0.0.0 ojobuscador.ourtoolbar.com
 0.0.0.0 ojolink.fr
-0.0.0.0 ojtobu.angelcities.com
 0.0.0.0 ok-search.com
 0.0.0.0 okao.uni.cc
 0.0.0.0 okao1.uni.cc
@@ -44309,7 +44266,6 @@
 0.0.0.0 omgomg.info
 0.0.0.0 omgschool.com
 0.0.0.0 omn.crackle.com
-0.0.0.0 omn.sonypictures.com
 0.0.0.0 omni.basspro.com
 0.0.0.0 omni.canadiantire.ca
 0.0.0.0 omni.focus.de
@@ -44522,7 +44478,6 @@
 0.0.0.0 oosee.barginginfrance.net
 0.0.0.0 ooss.myblogtoolbar.com
 0.0.0.0 ooting.com
-0.0.0.0 oovqsvi.angelcities.com
 0.0.0.0 oowhe.frost-electric-supply.com
 0.0.0.0 opal.webserwer.pl
 0.0.0.0 opcionestrategica.com
@@ -45032,7 +44987,6 @@
 0.0.0.0 palmgadget.com
 0.0.0.0 palmglobal.112.2o7.net
 0.0.0.0 palmus.112.2o7.net
-0.0.0.0 palserv.0catch.com
 0.0.0.0 palsol.com
 0.0.0.0 palsol.net
 0.0.0.0 paltalkjava.cjt1.net
@@ -45682,7 +45636,6 @@
 0.0.0.0 pilotronix.com
 0.0.0.0 pimprig.us.intellitxt.com
 0.0.0.0 pinakfoods.com
-0.0.0.0 ping.180solutions.com
 0.0.0.0 pingponggoods.com.tw
 0.0.0.0 pinkberrytube.com
 0.0.0.0 pinturasfantasia.com
@@ -45979,7 +45932,6 @@
 0.0.0.0 px24.com
 0.0.0.0 pxlgnpgecom-a.akamaihd.net
 0.0.0.0 pyjamagirls.de
-0.0.0.0 qacupuzute.angelcities.com
 0.0.0.0 qadservice.com
 0.0.0.0 qip.ru
 0.0.0.0 qippi.com
@@ -45990,7 +45942,6 @@
 0.0.0.0 qoogler.com
 0.0.0.0 qptest.ru
 0.0.0.0 qpyosxkmcc.yi.org
-0.0.0.0 qqewfjdp.angelcities.com
 0.0.0.0 qqhelper.com
 0.0.0.0 qriswell.50webs.com
 0.0.0.0 qrlsx.com
@@ -46023,7 +45974,6 @@
 0.0.0.0 qyfamen.com
 0.0.0.0 qzcpotzdkfyn.com
 0.0.0.0 qzip.cjb.net
-0.0.0.0 r.babenet.com
 0.0.0.0 r1.literotica.com
 0.0.0.0 r2prod.com
 0.0.0.0 rabunkowyspelimeyer.greenfishlight.net
@@ -46133,7 +46083,6 @@
 0.0.0.0 registrycleanersreviewed.com
 0.0.0.0 registrycleanertop.com
 0.0.0.0 registrydefender.com
-0.0.0.0 regrecall.com
 0.0.0.0 regrep.reclean.hop.clickbank.net
 0.0.0.0 regularien.ruthli.com
 0.0.0.0 rejtjel.hu
@@ -46331,51 +46280,13 @@
 0.0.0.0 s.adnxtr.com
 0.0.0.0 s1-tracking.adalyser.com
 0.0.0.0 s1.cookingluck.com
-0.0.0.0 s10.sitemeter.com
-0.0.0.0 s11.sitemeter.com
-0.0.0.0 s12.sitemeter.com
-0.0.0.0 s13.sitemeter.com
-0.0.0.0 s14.sitemeter.com
-0.0.0.0 s15.sitemeter.com
-0.0.0.0 s16.sitemeter.com
-0.0.0.0 s17.sitemeter.com
-0.0.0.0 s18.sitemeter.com
-0.0.0.0 s19.sitemeter.com
 0.0.0.0 s1prod-ams.ho.ua
 0.0.0.0 s2.cookingluck.com
 0.0.0.0 s2.zalivalka.ru
-0.0.0.0 s20.sitemeter.com
-0.0.0.0 s21.sitemeter.com
-0.0.0.0 s22.sitemeter.com
-0.0.0.0 s23.sitemeter.com
-0.0.0.0 s24.sitemeter.com
-0.0.0.0 s25.sitemeter.com
-0.0.0.0 s26.sitemeter.com
-0.0.0.0 s27.sitemeter.com
-0.0.0.0 s28.sitemeter.com
-0.0.0.0 s29.sitemeter.com
 0.0.0.0 s2beachshackgoa.com
 0.0.0.0 s3.cookingluck.com
-0.0.0.0 s30.sitemeter.com
-0.0.0.0 s31.sitemeter.com
-0.0.0.0 s32.sitemeter.com
-0.0.0.0 s33.sitemeter.com
-0.0.0.0 s34.sitemeter.com
-0.0.0.0 s35.sitemeter.com
-0.0.0.0 s36.sitemeter.com
-0.0.0.0 s37.sitemeter.com
-0.0.0.0 s38.sitemeter.com
-0.0.0.0 s39.sitemeter.com
 0.0.0.0 s393640255.onlinehome.us
 0.0.0.0 s4.cookingluck.com
-0.0.0.0 s41.sitemeter.com
-0.0.0.0 s42.sitemeter.com
-0.0.0.0 s43.sitemeter.com
-0.0.0.0 s44.sitemeter.com
-0.0.0.0 s45.sitemeter.com
-0.0.0.0 s46.sitemeter.com
-0.0.0.0 s47.sitemeter.com
-0.0.0.0 s48.sitemeter.com
 0.0.0.0 s5.cookingluck.com
 0.0.0.0 s6.cookingluck.com
 0.0.0.0 s603253812.websitehome.co.uk
@@ -46426,7 +46337,6 @@
 0.0.0.0 safety-4391.ucoz.ro
 0.0.0.0 safety-speed.ru
 0.0.0.0 safety-user.my1.ru
-0.0.0.0 safety.amw.com
 0.0.0.0 safetydownload.com
 0.0.0.0 safetyhall.com
 0.0.0.0 safetyhomepage.com
@@ -46855,14 +46765,6 @@
 0.0.0.0 slotchbar.com
 0.0.0.0 slurpeeshack.tumblr.com
 0.0.0.0 slutloadlive.com
-0.0.0.0 sm1.sitemeter.com
-0.0.0.0 sm3.sitemeter.com
-0.0.0.0 sm4.sitemeter.com
-0.0.0.0 sm5.sitemeter.com
-0.0.0.0 sm6.sitemeter.com
-0.0.0.0 sm7.sitemeter.com
-0.0.0.0 sm8.sitemeter.com
-0.0.0.0 sm9.sitemeter.com
 0.0.0.0 small-choices.com
 0.0.0.0 smart-security.biz
 0.0.0.0 smart-serials.com
@@ -46892,7 +46794,6 @@
 0.0.0.0 sms.drwhox.com
 0.0.0.0 sms.idolmovies.com
 0.0.0.0 sms.paintballlingco.net
-0.0.0.0 smscore.de
 0.0.0.0 smspartnerprogramm.com
 0.0.0.0 smsversand.net
 0.0.0.0 smt112.com
@@ -47554,7 +47455,6 @@
 0.0.0.0 toogle.com
 0.0.0.0 toohs.com
 0.0.0.0 tool-site.com
-0.0.0.0 toolbar.azebar.com
 0.0.0.0 toolbar.cc
 0.0.0.0 toolbar.wibiya.com
 0.0.0.0 toolbar3.trafficgeneration.biz
@@ -47621,7 +47521,6 @@
 0.0.0.0 track.enviodemails.com
 0.0.0.0 track.freemmo2017.com
 0.0.0.0 track.lawoftrade.com
-0.0.0.0 track.learntotradesrv.com
 0.0.0.0 track.msadcenter.afgz.com
 0.0.0.0 track.msadcenter.ajfy.com
 0.0.0.0 track.msadcenter.ceio.com
@@ -47629,7 +47528,6 @@
 0.0.0.0 track.msadcenter.dxr.com
 0.0.0.0 track.msadcenter.emee.com
 0.0.0.0 track.msadcenter.hih.com
-0.0.0.0 track.msadcenter.igzr.com
 0.0.0.0 track.msadcenter.iuf.com
 0.0.0.0 track.msadcenter.jzz.com
 0.0.0.0 track.msadcenter.kfgy.com
@@ -47801,7 +47699,6 @@
 0.0.0.0 tuuliolosuhteet.thecontractorsgps.com
 0.0.0.0 tv-2-pc.com
 0.0.0.0 tv-project.de
-0.0.0.0 tv.180solutions.com
 0.0.0.0 tv.zaberno.com
 0.0.0.0 tvas-b.pw
 0.0.0.0 tvcm.com.br
@@ -47934,7 +47831,6 @@
 0.0.0.0 updates.spywarequake.com
 0.0.0.0 updatesantivirus.com
 0.0.0.0 upload.luckyorange.net
-0.0.0.0 uploads.180solutions.com
 0.0.0.0 uploads.tmweb.ru
 0.0.0.0 upspiral.com
 0.0.0.0 uragon.net
@@ -48492,7 +48388,6 @@
 0.0.0.0 www.136136.net
 0.0.0.0 www.13one.de
 0.0.0.0 www.163ns.com
-0.0.0.0 www.180solutions.com
 0.0.0.0 www.1sexparty.com
 0.0.0.0 www.1stantivirus.com
 0.0.0.0 www.2007-download.com
@@ -48509,7 +48404,6 @@
 0.0.0.0 www.3mates.com
 0.0.0.0 www.3shadz.com
 0.0.0.0 www.3warez.com
-0.0.0.0 www.4mpg.com
 0.0.0.0 www.4u-byme.com
 0.0.0.0 www.59cn.cn
 0.0.0.0 www.5zgmu7o20kt5d8yq.com
@@ -48536,7 +48430,6 @@
 0.0.0.0 www.abvira.de
 0.0.0.0 www.ac66.cn
 0.0.0.0 www.acansorga.it
-0.0.0.0 www.accessclips.com
 0.0.0.0 www.accidentadvicehelpline.co.uk
 0.0.0.0 www.acclaimenvironmental.co.uk
 0.0.0.0 www.acez.com
@@ -48746,7 +48639,6 @@
 0.0.0.0 www.artistsagainstwar.it
 0.0.0.0 www.artx.strefa.pl
 0.0.0.0 www.asdbiz.biz
-0.0.0.0 www.asecureboard.com
 0.0.0.0 www.askmilk.com
 0.0.0.0 www.asntivir.de
 0.0.0.0 www.asphalt8hack.org
@@ -48806,7 +48698,6 @@
 0.0.0.0 www.azetapiemonte.it
 0.0.0.0 www.azhacks.com
 0.0.0.0 www.azrodandclassic.com
-0.0.0.0 www.babenet.com
 0.0.0.0 www.badoo.com
 0.0.0.0 www.bagana.net
 0.0.0.0 www.baiduqqsina.cn
@@ -48938,13 +48829,11 @@
 0.0.0.0 www.chura.pl
 0.0.0.0 www.ciapparelli.com
 0.0.0.0 www.cifor.com
-0.0.0.0 www.cinemadownload.com
 0.0.0.0 www.cirriere.it
 0.0.0.0 www.cjt1.net
 0.0.0.0 www.clap4ya.com
 0.0.0.0 www.clashofkingshacker.com
 0.0.0.0 www.clashroyalehacked.net
-0.0.0.0 www.clckm.com
 0.0.0.0 www.clean-cracks.com
 0.0.0.0 www.clean-space.com
 0.0.0.0 www.cleansoftwares.com
@@ -48981,7 +48870,6 @@
 0.0.0.0 www.computerrecover.com
 0.0.0.0 www.concime.com
 0.0.0.0 www.consumeralternatives.org
-0.0.0.0 www.content.dollarrevenue.com
 0.0.0.0 www.content.ireit.com
 0.0.0.0 www.contentcleaner.com
 0.0.0.0 www.contentmantra.com
@@ -49016,7 +48904,6 @@
 0.0.0.0 www.crackdb.com
 0.0.0.0 www.crackdb.org
 0.0.0.0 www.cracked-apple.com
-0.0.0.0 www.crackedearth.com
 0.0.0.0 www.crackedlix.ru
 0.0.0.0 www.crackedreal.com
 0.0.0.0 www.crackevo.com
@@ -49082,7 +48969,6 @@
 0.0.0.0 www.depraetere.net
 0.0.0.0 www.desifever.com
 0.0.0.0 www.designmeat.com
-0.0.0.0 www.deskwizz.com
 0.0.0.0 www.destine.broker.go.ro
 0.0.0.0 www.deutschenoote.com
 0.0.0.0 www.deviantwarez.com
@@ -49255,7 +49141,6 @@
 0.0.0.0 www.fifa14-hack-players.biz
 0.0.0.0 www.file-extractor.com
 0.0.0.0 www.filefortune.com
-0.0.0.0 www.fileparade.com
 0.0.0.0 www.fileprotector.com
 0.0.0.0 www.filevoom.com
 0.0.0.0 www.filix.it
@@ -49485,7 +49370,6 @@
 0.0.0.0 www.hackerscontent.com
 0.0.0.0 www.hackerseiten.ws
 0.0.0.0 www.hackersoftware.ws
-0.0.0.0 www.hackerspider.de
 0.0.0.0 www.hackertools.ws
 0.0.0.0 www.hackerwatch.org
 0.0.0.0 www.hackerzcity.com
@@ -49537,12 +49421,10 @@
 0.0.0.0 www.hfs.url.tw
 0.0.0.0 www.hh-shaker.com.sa
 0.0.0.0 www.hi-segno.com
-0.0.0.0 www.hiboss.com
 0.0.0.0 www.hillclimbracinghackcoins.com
 0.0.0.0 www.hirehack.net
 0.0.0.0 www.hitekshop.vn
 0.0.0.0 www.hochzeitsgedichte.de
-0.0.0.0 www.holdhelptime.com
 0.0.0.0 www.holika.com
 0.0.0.0 www.home-business-wealth.com
 0.0.0.0 www.homelandnetwork.com
@@ -49550,8 +49432,6 @@
 0.0.0.0 www.hopto.org
 0.0.0.0 www.hospedar.xpg.com.br
 0.0.0.0 www.host-it.co.uk
-0.0.0.0 www.hostance.net
-0.0.0.0 www.hotbar.com
 0.0.0.0 www.hotelnidodaquila.it
 0.0.0.0 www.howtohackafacebookaccount.com
 0.0.0.0 www.howtohackgmailpasswords.com
@@ -49579,7 +49459,6 @@
 0.0.0.0 www.ikpma.org
 0.0.0.0 www.ilbero.it
 0.0.0.0 www.iloadr.com
-0.0.0.0 www.imagesmovies.com
 0.0.0.0 www.imagewarp.com
 0.0.0.0 www.imaginarium.home.ro
 0.0.0.0 www.imp3download.com
@@ -49820,7 +49699,6 @@
 0.0.0.0 www.milleniumitaly.com
 0.0.0.0 www.millhavenplace.co.uk
 0.0.0.0 www.minkssalon.com
-0.0.0.0 www.mirarsearch.com
 0.0.0.0 www.mirrors.site50.net
 0.0.0.0 www.mitfahr-portal.de
 0.0.0.0 www.mm26.com
@@ -49940,10 +49818,8 @@
 0.0.0.0 www.nippon.to
 0.0.0.0 www.nixon-peabody.com
 0.0.0.0 www.nkredit.com
-0.0.0.0 www.nmextensions.com
 0.0.0.0 www.noadware.good-2-go.com
 0.0.0.0 www.noadware.ws
-0.0.0.0 www.noblindlinks.com
 0.0.0.0 www.noema2k.it
 0.0.0.0 www.noogle.it
 0.0.0.0 www.novahacks.com
@@ -50103,9 +49979,7 @@
 0.0.0.0 www.peakclick.com
 0.0.0.0 www.pearltrees.com
 0.0.0.0 www.pececitos.com
-0.0.0.0 www.penile-enlargement.biz
 0.0.0.0 www.perfectchoice1.com
-0.0.0.0 www.perfectedsecurity.com
 0.0.0.0 www.performanceoptimizer.com
 0.0.0.0 www.peritiassicurativi.org
 0.0.0.0 www.personalshoppingservice.it
@@ -50162,7 +50036,6 @@
 0.0.0.0 www.profit-cash.biz
 0.0.0.0 www.profumodilibriecannella.com
 0.0.0.0 www.programaricardoborges.com
-0.0.0.0 www.promo.dollarrevenue.com
 0.0.0.0 www.protectmypc.net
 0.0.0.0 www.protekkimya.com
 0.0.0.0 www.protopartners.com
@@ -50215,7 +50088,6 @@
 0.0.0.0 www.redirectme.net
 0.0.0.0 www.reducelnk.com
 0.0.0.0 www.registry-cleaners-compared.com
-0.0.0.0 www.registrysweeper.com
 0.0.0.0 www.relaxtool.com
 0.0.0.0 www.rempko.sk
 0.0.0.0 www.reniero.org
@@ -50338,7 +50210,6 @@
 0.0.0.0 www.shemalespornmag.com
 0.0.0.0 www.shinilchurch.net
 0.0.0.0 www.shivartatoo.com
-0.0.0.0 www.shopperreports.com
 0.0.0.0 www.shore-view.com
 0.0.0.0 www.sieas.com
 0.0.0.0 www.sieltre.it
@@ -50516,7 +50387,6 @@
 0.0.0.0 www.theaimonline.com
 0.0.0.0 www.thecounter.com
 0.0.0.0 www.thecrack.us
-0.0.0.0 www.thecracks.us
 0.0.0.0 www.themillionaireinpjs.net
 0.0.0.0 www.themittenblog.com
 0.0.0.0 www.theoreon.com
@@ -50561,7 +50431,6 @@
 0.0.0.0 www.tommasobovone.com
 0.0.0.0 www.toochattoo.com
 0.0.0.0 www.toohs.com
-0.0.0.0 www.toolbar.azebar.com
 0.0.0.0 www.toolbar3.trafficgeneration.biz
 0.0.0.0 www.toolbar5.trafficgeneration.biz
 0.0.0.0 www.top-banners.com
@@ -50623,7 +50492,6 @@
 0.0.0.0 www.u7u.cn
 0.0.0.0 www.ucleaner.com
 0.0.0.0 www.ucmal.com
-0.0.0.0 www.udefender.com
 0.0.0.0 www.ufixer.com
 0.0.0.0 www.ugwarez.biz
 0.0.0.0 www.uibo.it
@@ -50705,7 +50573,6 @@
 0.0.0.0 www.warez.biz
 0.0.0.0 www.warez.com
 0.0.0.0 www.warez.loxblog.com
-0.0.0.0 www.warez13.fr.st
 0.0.0.0 www.warezaccess.com
 0.0.0.0 www.warezclient.com
 0.0.0.0 www.warezcrawler.net
@@ -50792,7 +50659,6 @@
 0.0.0.0 www.wwwbowcreek.com
 0.0.0.0 www.wwwcareerpath.com
 0.0.0.0 www.wwwcdnow.com
-0.0.0.0 www.wwwdiynet.com
 0.0.0.0 www.wwwfrostwire.com
 0.0.0.0 www.wwwgmacmortgage.com
 0.0.0.0 www.wwwmancow.com
@@ -50803,7 +50669,6 @@
 0.0.0.0 www.xchangetrak.com
 0.0.0.0 www.xenon.com.au
 0.0.0.0 www.xforce-cracks.com
-0.0.0.0 www.xibu315.com
 0.0.0.0 www.xmlwindataweb.net
 0.0.0.0 www.xntivir.de
 0.0.0.0 www.xolod-teplo.ru
@@ -50967,7 +50832,6 @@
 0.0.0.0 xtravideos.com
 0.0.0.0 xtremesoftware-ltd.com
 0.0.0.0 xtremetipsntricks.blogspot.com
-0.0.0.0 xu.xu.pl
 0.0.0.0 xupiter.com
 0.0.0.0 xuvmtbnz.net
 0.0.0.0 xwarez.webcom.pl
@@ -51172,8 +51036,8 @@
 
 # Hosts - airelle-rsk
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/mirror/airelle-rsk.txt
-# Generated - 18.08.2018
+# Generated - 24.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 51171
+# Total Domains: 51035
 # License: MIT
 

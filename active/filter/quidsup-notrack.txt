@@ -487,7 +487,6 @@
 0.0.0.0 mydas.mobi
 0.0.0.0 mystats.in
 0.0.0.0 myswitchads.com
-0.0.0.0 mythings.com
 0.0.0.0 nanigans.com
 0.0.0.0 netcommunities.com
 0.0.0.0 netmng.com
@@ -532,7 +531,6 @@
 0.0.0.0 perfectaudience.com
 0.0.0.0 piksel.com
 0.0.0.0 pingdom.net
-0.0.0.0 pipeaota.com
 0.0.0.0 pixel.brit.co
 0.0.0.0 pixel.honestjohn.co.uk
 0.0.0.0 pixel.reddit.com
@@ -830,8 +828,8 @@
 
 # Hosts - quidsup-notrack
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/quidsup-no-track.txt
-# Generated - 18.08.2018
+# Generated - 24.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 829
+# Total Domains: 827
 # License: MIT
 

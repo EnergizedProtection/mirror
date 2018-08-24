@@ -140,8 +140,8 @@
 0.0.0.0 yourporn.sexy
 
 # Hosts - ador-energized-porn
-# Source - https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/EnergizedHosts/EnergizedPorn
-# Generated - 18.08.2018
+# Source - https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts-porn
+# Generated - 24.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 140
 # License: MIT

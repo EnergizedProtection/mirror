@@ -19,7 +19,6 @@
 0.0.0.0 4info.com
 0.0.0.0 4mads.com
 0.0.0.0 50websads.com
-0.0.0.0 518ad.com
 0.0.0.0 51yes.com
 0.0.0.0 5thfinger.com
 0.0.0.0 600z.com
@@ -1418,7 +1417,6 @@
 0.0.0.0 geo.digitalpoint.com
 0.0.0.0 geobanner.adultfriendfinder.com
 0.0.0.0 geovisite.com
-0.0.0.0 german-linkindex.de
 0.0.0.0 getclicky.com
 0.0.0.0 globalismedia.com
 0.0.0.0 globaltakeoff.net
@@ -1779,7 +1777,6 @@
 0.0.0.0 myscreen.com
 0.0.0.0 mystat-in.net
 0.0.0.0 mystat.pl
-0.0.0.0 mythings.com
 0.0.0.0 mytop-in.net
 0.0.0.0 n69.com
 0.0.0.0 naiadsystems.com
@@ -1883,7 +1880,6 @@
 0.0.0.0 pagerank-ranking.com
 0.0.0.0 pagerank-ranking.de
 0.0.0.0 pagerank-server7.de
-0.0.0.0 pagerank-submitter.com
 0.0.0.0 pagerank-submitter.de
 0.0.0.0 pagerank-suchmaschine.de
 0.0.0.0 pagerank-united.de
@@ -2013,7 +2009,6 @@
 0.0.0.0 ranking-id.de
 0.0.0.0 ranking-links.de
 0.0.0.0 ranking-liste.de
-0.0.0.0 ranking-street.de
 0.0.0.0 rankingchart.de
 0.0.0.0 rankingscout.com
 0.0.0.0 rankyou.com
@@ -2312,7 +2307,6 @@
 0.0.0.0 traffic-exchange.com
 0.0.0.0 trafficadept.com
 0.0.0.0 trafficfactory.biz
-0.0.0.0 trafficholder.com
 0.0.0.0 traffichunt.com
 0.0.0.0 trafficjunky.net
 0.0.0.0 trafficleader.com
@@ -2505,8 +2499,8 @@
 
 # Hosts - disconnect.me-ad
 # Source - https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Generated - 18.08.2018
+# Generated - 24.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 2504
+# Total Domains: 2498
 # License: MIT
 

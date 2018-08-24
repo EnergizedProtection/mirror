@@ -2333,7 +2333,6 @@
 0.0.0.0 toutcela.com
 0.0.0.0 tracking.cashpartner.com
 0.0.0.0 traffic.revenuedirect.com
-0.0.0.0 trafficadmin.net
 0.0.0.0 trafficblvd.com
 0.0.0.0 trafficsources.com
 0.0.0.0 traffiliate.com
@@ -2690,7 +2689,6 @@
 0.0.0.0 www.blackprofessionalpeoplemeet.com
 0.0.0.0 www.blackwhores.net
 0.0.0.0 www.bleachingskin.info
-0.0.0.0 www.blkpuddin.com
 0.0.0.0 www.blockacountry.com
 0.0.0.0 www.blowjobsonline.com
 0.0.0.0 www.blueprintbonus.com
@@ -2713,7 +2711,6 @@
 0.0.0.0 www.busty-stars.net
 0.0.0.0 www.bustyweb.us
 0.0.0.0 www.buyonlineguide.com
-0.0.0.0 www.byblosweb.com
 0.0.0.0 www.cali.net
 0.0.0.0 www.calipeoplemeet.com
 0.0.0.0 www.caltiger.com
@@ -3445,7 +3442,6 @@
 0.0.0.0 www.pcrepairpro9.com
 0.0.0.0 www.pcsecuritysheild.com
 0.0.0.0 www.pcsecurityshield.com
-0.0.0.0 www.pcsecuritywall.com
 0.0.0.0 www.pcsecurityzone.com
 0.0.0.0 www.pcspeedup.com
 0.0.0.0 www.pcspeedupaff.com
@@ -3485,7 +3481,6 @@
 0.0.0.0 www.pornmixer.com
 0.0.0.0 www.pornogay.co
 0.0.0.0 www.postloop.com
-0.0.0.0 www.postmasterbannernet.com
 0.0.0.0 www.potenzmittel-scout.com
 0.0.0.0 www.power4home.com
 0.0.0.0 www.prank.com
@@ -3504,7 +3499,6 @@
 0.0.0.0 www.printersforfree.com
 0.0.0.0 www.privacy-pc.com
 0.0.0.0 www.prize-factory.com
-0.0.0.0 www.prizes.co.uk
 0.0.0.0 www.prizetoday.ca
 0.0.0.0 www.prno.com
 0.0.0.0 www.proactol.com
@@ -3676,7 +3670,6 @@
 0.0.0.0 www.stupid.co
 0.0.0.0 www.subscribe.livingsocial.com
 0.0.0.0 www.suckpenis.com
-0.0.0.0 www.summercollins.com
 0.0.0.0 www.summerisover.com
 0.0.0.0 www.summerwasfun.com
 0.0.0.0 www.suoristusrauta.com
@@ -3736,7 +3729,6 @@
 0.0.0.0 www.toppcfix.com
 0.0.0.0 www.totalpchealth.com
 0.0.0.0 www.totalwellnesscleanse.com
-0.0.0.0 www.trafficadmin.net
 0.0.0.0 www.trafficblvd.com
 0.0.0.0 www.trafficsources.com
 0.0.0.0 www.traffiliate.com
@@ -4001,8 +3993,8 @@
 
 # Hosts - hosts-file.net-mmt
 # Source - https://hosts-file.net/mmt.txt
-# Generated - 18.08.2018
+# Generated - 24.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 4000
+# Total Domains: 3992
 # License: MIT
 

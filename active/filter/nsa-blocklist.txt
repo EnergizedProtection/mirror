@@ -122,7 +122,6 @@
 0.0.0.0 americanmemory.gov
 0.0.0.0 americansamoa.gov
 0.0.0.0 americaslibrary.gov
-0.0.0.0 americasstory.gov
 0.0.0.0 americathebeautifulquarters.gov
 0.0.0.0 americorp.gov
 0.0.0.0 americorps.gov
@@ -432,7 +431,6 @@
 0.0.0.0 babylon-x.com
 0.0.0.0 bacacountyco.gov
 0.0.0.0 backserver.sjzc.edu.cn
-0.0.0.0 backup-ns.yn.cninfo.net
 0.0.0.0 badriver-nsn.gov
 0.0.0.0 bainbridgewa.gov
 0.0.0.0 baldwincountyal.gov
@@ -641,7 +639,6 @@
 0.0.0.0 broomecountyny.gov
 0.0.0.0 browncounty-in.gov
 0.0.0.0 browncountyohio.gov
-0.0.0.0 browncountywi.gov
 0.0.0.0 brownsvilletn.gov
 0.0.0.0 brownwoodtexas.gov
 0.0.0.0 brumby.cowan.edu.au
@@ -1467,7 +1464,6 @@
 0.0.0.0 dns1.radiant.net
 0.0.0.0 dns1.red.net
 0.0.0.0 dns1.redelectrica.com
-0.0.0.0 dns1.rentech.net
 0.0.0.0 dns1.rmplc.co.uk
 0.0.0.0 dns1.rose.net
 0.0.0.0 dns1.rr.com
@@ -1478,7 +1474,6 @@
 0.0.0.0 dns1.solinus.com
 0.0.0.0 dns1.sparedns.com
 0.0.0.0 dns1.star.co.uk
-0.0.0.0 dns1.sts.virtua.com.br
 0.0.0.0 dns1.supermedia.pl
 0.0.0.0 dns1.t-com.hr
 0.0.0.0 dns1.t-net.net.ve
@@ -1533,7 +1528,6 @@
 0.0.0.0 dns2.cncitynet.net
 0.0.0.0 dns2.cnuninet.net
 0.0.0.0 dns2.corbina.net
-0.0.0.0 dns2.ctb.virtua.com.br
 0.0.0.0 dns2.ctnt.com.cn
 0.0.0.0 dns2.cvtci.com.ar
 0.0.0.0 dns2.cyberus.ca
@@ -1582,7 +1576,6 @@
 0.0.0.0 dns2.ncu.edu.cn
 0.0.0.0 dns2.neric.org
 0.0.0.0 dns2.newnanutilities.org
-0.0.0.0 dns2.nsgroup.net
 0.0.0.0 dns2.nstel.com
 0.0.0.0 dns2.ntli.net
 0.0.0.0 dns2.nwtgigalink.com
@@ -1595,7 +1588,6 @@
 0.0.0.0 dns2.racsa.co.cr
 0.0.0.0 dns2.radiant.net
 0.0.0.0 dns2.red.net
-0.0.0.0 dns2.rentech.net
 0.0.0.0 dns2.retsat1.com.pl
 0.0.0.0 dns2.rmplc.co.uk
 0.0.0.0 dns2.rose.net
@@ -1606,7 +1598,6 @@
 0.0.0.0 dns2.sercomtel.com.br
 0.0.0.0 dns2.shell.com
 0.0.0.0 dns2.solinus.com
-0.0.0.0 dns2.sts.virtua.com.br
 0.0.0.0 dns2.t-com.hr
 0.0.0.0 dns2.t-net.net.ve
 0.0.0.0 dns2.telia.com
@@ -1640,7 +1631,6 @@
 0.0.0.0 dns3.infoave.net
 0.0.0.0 dns3.merit.net
 0.0.0.0 dns3.mrse.com.ar
-0.0.0.0 dns3.nw.verio.net
 0.0.0.0 dns3.racsa.co.cr
 0.0.0.0 dns3.retsat1.com.pl
 0.0.0.0 dns3.rpi.edu
@@ -1656,7 +1646,6 @@
 0.0.0.0 dns4.de.ignite.net
 0.0.0.0 dns4.fasttelco.net
 0.0.0.0 dns4.infoave.net
-0.0.0.0 dns4.nw.verio.net
 0.0.0.0 dns4.racsa.co.cr
 0.0.0.0 dns4.rr.com
 0.0.0.0 dns4.sercomtel.com.br
@@ -1719,8 +1708,6 @@
 0.0.0.0 dsdn-gh1-uea06.nsa.gov
 0.0.0.0 dtv.gov
 0.0.0.0 dub-name-svc-1.compuserve.com
-0.0.0.0 dublin-ca.gov
-0.0.0.0 dublinca.gov
 0.0.0.0 dublinohiousa.gov
 0.0.0.0 duboispa.gov
 0.0.0.0 dudleyma.gov
@@ -1748,13 +1735,11 @@
 0.0.0.0 dyndns.oni.pt
 0.0.0.0 e-eihq01.eis.ernet.in
 0.0.0.0 e-eihq02.eis.ernet.in
-0.0.0.0 e-iisc02.iisc.ernet.in
 0.0.0.0 e.dns.br
 0.0.0.0 e.dns.kr
 0.0.0.0 e.dns.tds.net
 0.0.0.0 e3000.hallym.ac.kr
 0.0.0.0 e3dns.ericy.com
-0.0.0.0 e450.hbmu.edu.cn
 0.0.0.0 eac.gov
 0.0.0.0 eaclearinghouse.gov
 0.0.0.0 eagaraz.gov
@@ -1854,7 +1839,6 @@
 0.0.0.0 eop.gov
 0.0.0.0 epa.gov
 0.0.0.0 epsilon3.umsl.edu
-0.0.0.0 erdc.gov
 0.0.0.0 erie.gov
 0.0.0.0 erieco.gov
 0.0.0.0 esa.gov
@@ -2106,7 +2090,6 @@
 0.0.0.0 fridleymn.gov
 0.0.0.0 friendshipheightsmd.gov
 0.0.0.0 friscotexas.gov
-0.0.0.0 friscotx.gov
 0.0.0.0 fromberg-mt.gov
 0.0.0.0 frtib.gov
 0.0.0.0 frtr.gov
@@ -2132,7 +2115,6 @@
 0.0.0.0 g.dns.kr
 0.0.0.0 g5.gov
 0.0.0.0 ga.gov
-0.0.0.0 gacourts.gov
 0.0.0.0 gadol.gov
 0.0.0.0 gadsdencountyfl.gov
 0.0.0.0 gahanna.gov
@@ -2223,7 +2205,6 @@
 0.0.0.0 governmentjobs.gov
 0.0.0.0 govinfo.gov
 0.0.0.0 govloans.gov
-0.0.0.0 govotevermont.gov
 0.0.0.0 govsales.gov
 0.0.0.0 gpo.gov
 0.0.0.0 gps.gov
@@ -2255,7 +2236,6 @@
 0.0.0.0 greenfield-ma.gov
 0.0.0.0 greenfield-nh.gov
 0.0.0.0 greenhoustontx.gov
-0.0.0.0 greensboro-ga.gov
 0.0.0.0 greensboro-nc.gov
 0.0.0.0 greensboroga.gov
 0.0.0.0 greensvillecountyva.gov
@@ -2309,7 +2289,6 @@
 0.0.0.0 hallcountyne.gov
 0.0.0.0 hamblencountytn.gov
 0.0.0.0 hamilton-ny.gov
-0.0.0.0 hamiltoncountyflorida.gov
 0.0.0.0 hamiltoncountyny.gov
 0.0.0.0 hamiltonma.gov
 0.0.0.0 hamiltontn.gov
@@ -2578,7 +2557,6 @@
 0.0.0.0 iowaelectrical.gov
 0.0.0.0 iowaelevators.gov
 0.0.0.0 iowafinanceauthority.gov
-0.0.0.0 iowafinancialaidapplication.gov
 0.0.0.0 iowaforms.gov
 0.0.0.0 iowafraudfighters.gov
 0.0.0.0 iowagrants.gov
@@ -2651,7 +2629,6 @@
 0.0.0.0 jem.gov
 0.0.0.0 jenningscounty-in.gov
 0.0.0.0 jerichovt.gov
-0.0.0.0 jerseycitynj.gov
 0.0.0.0 jesupga.gov
 0.0.0.0 jewishheritage.gov
 0.0.0.0 jewishheritagemonth.gov
@@ -2689,7 +2666,6 @@
 0.0.0.0 kdheks.gov
 0.0.0.0 kdns1.highway.telekom.at
 0.0.0.0 kdns2.highway.telekom.at
-0.0.0.0 kdns3.highway.telekom.at
 0.0.0.0 keithcountyne.gov
 0.0.0.0 kelso.gov
 0.0.0.0 kemah-tx.gov
@@ -2763,7 +2739,6 @@
 0.0.0.0 lakesitetn.gov
 0.0.0.0 lakestation-in.gov
 0.0.0.0 lakestevenswa.gov
-0.0.0.0 lakeville-mn.gov
 0.0.0.0 lakevillemn.gov
 0.0.0.0 lakevillemnfire.gov
 0.0.0.0 lakeway-tx.gov
@@ -2866,7 +2841,6 @@
 0.0.0.0 loctps.gov
 0.0.0.0 locustgrove-ga.gov
 0.0.0.0 lodi.gov
-0.0.0.0 lodica.gov
 0.0.0.0 loganco.gov
 0.0.0.0 logancountyco.gov
 0.0.0.0 logantownship-pa.gov
@@ -2894,7 +2868,6 @@
 0.0.0.0 louisiana.gov
 0.0.0.0 louisianaentertainment.gov
 0.0.0.0 louisianafaststart.gov
-0.0.0.0 louisianamap.gov
 0.0.0.0 louisianamusic.gov
 0.0.0.0 louisvilleco.gov
 0.0.0.0 louisvilleky.gov
@@ -2935,7 +2908,6 @@
 0.0.0.0 macpac.gov
 0.0.0.0 madang.ajou.ac.kr
 0.0.0.0 madeirabeachfl.gov
-0.0.0.0 madera-ca.gov
 0.0.0.0 madison-in.gov
 0.0.0.0 madisoncountyal.gov
 0.0.0.0 madisoncountync.gov
@@ -3050,7 +3022,6 @@
 0.0.0.0 matematica.univaq.it
 0.0.0.0 mathewscountyva.gov
 0.0.0.0 matthewsnc.gov
-0.0.0.0 mauicounty-hi.gov
 0.0.0.0 mauicounty.gov
 0.0.0.0 max.gov
 0.0.0.0 mayaguezpr.gov
@@ -3076,7 +3047,6 @@
 0.0.0.0 mdcourts.gov
 0.0.0.0 me.gov
 0.0.0.0 meadeky.gov
-0.0.0.0 meadowsplacetx.gov
 0.0.0.0 measuretn.gov
 0.0.0.0 mechoopda-nsn.gov
 0.0.0.0 mecklenburgcountync.gov
@@ -3086,7 +3056,6 @@
 0.0.0.0 medicalcountermeasures.gov
 0.0.0.0 medicare.gov
 0.0.0.0 medina-wa.gov
-0.0.0.0 medline.gov
 0.0.0.0 medlineplus.gov
 0.0.0.0 medpac.gov
 0.0.0.0 megamail.megared.com.mx
@@ -3215,7 +3184,6 @@
 0.0.0.0 moodyalabama.gov
 0.0.0.0 moorecountync.gov
 0.0.0.0 moorparkca.gov
-0.0.0.0 mordecai.lrlaw.com
 0.0.0.0 morehead-ky.gov
 0.0.0.0 morgancounty-oh.gov
 0.0.0.0 morgancountytn.gov
@@ -3230,7 +3198,6 @@
 0.0.0.0 motgate.mot.com
 0.0.0.0 moultonboroughnh.gov
 0.0.0.0 mountainairnm.gov
-0.0.0.0 mountainhouseca.gov
 0.0.0.0 mountainpark-ga.gov
 0.0.0.0 mountainview.gov
 0.0.0.0 mountcarmeltn.gov
@@ -3277,10 +3244,7 @@
 0.0.0.0 mymedicare.gov
 0.0.0.0 mymoney.gov
 0.0.0.0 myncretirement.gov
-0.0.0.0 mynevada.gov
-0.0.0.0 mynextmove.gov
 0.0.0.0 myohio.gov
-0.0.0.0 mypay.gov
 0.0.0.0 mytennessee.gov
 0.0.0.0 n1.davenport.edu
 0.0.0.0 n2.davenport.edu
@@ -3302,7 +3266,6 @@
 0.0.0.0 nantucket-ma.gov
 0.0.0.0 napa-ca.gov
 0.0.0.0 naplescityut.gov
-0.0.0.0 nara-at-work.gov
 0.0.0.0 nara.gov
 0.0.0.0 narragansettri.gov
 0.0.0.0 nasa.gov
@@ -3324,7 +3287,6 @@
 0.0.0.0 nationalmap.gov
 0.0.0.0 nationalresourcedirectory.gov
 0.0.0.0 nationalservice.gov
-0.0.0.0 nationalserviceresources.gov
 0.0.0.0 nationsreportcard.gov
 0.0.0.0 nativeamericanheritagemonth.gov
 0.0.0.0 natronacounty-wy.gov
@@ -3388,7 +3350,6 @@
 0.0.0.0 nebraskalegislature.gov
 0.0.0.0 nebraskamap.gov
 0.0.0.0 nebraskaspending.gov
-0.0.0.0 nebraskaunicameral.gov
 0.0.0.0 needhamma.gov
 0.0.0.0 neglecteddiseases.gov
 0.0.0.0 neh.gov
@@ -3401,11 +3362,9 @@
 0.0.0.0 neptuno.redglobal.net
 0.0.0.0 nersc.gov
 0.0.0.0 networkmaryland.gov
-0.0.0.0 networx.gov
 0.0.0.0 neup.gov
 0.0.0.0 nevada.gov
 0.0.0.0 nevadacityca.gov
-0.0.0.0 nevadahomeagain.gov
 0.0.0.0 nevadatreasurer.gov
 0.0.0.0 newbedford-ma.gov
 0.0.0.0 newbergoregon.gov
@@ -3463,7 +3422,6 @@
 0.0.0.0 nic.gov.jo
 0.0.0.0 nic.grnet.gr
 0.0.0.0 nicic.gov
-0.0.0.0 nickel.rs
 0.0.0.0 nickknowlson.com
 0.0.0.0 nickleplatedads.com
 0.0.0.0 niem.gov
@@ -3542,7 +3500,6 @@
 0.0.0.0 normanok.gov
 0.0.0.0 normanparkga.gov
 0.0.0.0 norridge-il.gov
-0.0.0.0 north-dakota.gov
 0.0.0.0 northadams-ma.gov
 0.0.0.0 northamptonma.gov
 0.0.0.0 northbendwa.gov
@@ -3578,7 +3535,6 @@
 0.0.0.0 nrc-gateway.gov
 0.0.0.0 nrd.gov
 0.0.0.0 nrel.gov
-0.0.0.0 nro.gov
 0.0.0.0 nrojr.gov
 0.0.0.0 ns-a.bbtec.net
 0.0.0.0 ns-a.pnap.net
@@ -3604,10 +3560,8 @@
 0.0.0.0 ns-kn001.ocn.ad.jp
 0.0.0.0 ns-kn002.ocn.ad.jp
 0.0.0.0 ns-os001.ocn.ad.jp
-0.0.0.0 ns-ott47.nortelnetworks.com
 0.0.0.0 ns-pd.online.sh.cn
 0.0.0.0 ns-px.online.sh.cn
-0.0.0.0 ns-rch47.nortelnetworks.com
 0.0.0.0 ns-se.elisa.net
 0.0.0.0 ns-secondary.funet.fi
 0.0.0.0 ns-soa.darenet.dk
@@ -3617,7 +3571,6 @@
 0.0.0.0 ns.adc.nexteldata.net
 0.0.0.0 ns.ahhfptt.net.cn
 0.0.0.0 ns.ahwhtel.net.cn
-0.0.0.0 ns.amigo.net.gt
 0.0.0.0 ns.artelecom.ru
 0.0.0.0 ns.ati.tn
 0.0.0.0 ns.atnet.ru
@@ -3673,10 +3626,8 @@
 0.0.0.0 ns.euro.net
 0.0.0.0 ns.euronet.nl
 0.0.0.0 ns.evo.bg
-0.0.0.0 ns.expansion-net.ro
 0.0.0.0 ns.eyes.co.kr
 0.0.0.0 ns.fibrlink.net
-0.0.0.0 ns.foo.fh-furtwangen.de
 0.0.0.0 ns.gabontelecom.com
 0.0.0.0 ns.gslzptt.net.cn
 0.0.0.0 ns.guangzhou.gd.cn
@@ -3788,7 +3739,6 @@
 0.0.0.0 ns.timeson.com.cn
 0.0.0.0 ns.tiscalinet.it
 0.0.0.0 ns.tnet.co.th
-0.0.0.0 ns.topallnet.ro
 0.0.0.0 ns.transtelecom.net
 0.0.0.0 ns.twnic.net
 0.0.0.0 ns.ua.net
@@ -3923,7 +3873,6 @@
 0.0.0.0 ns1.blueriver.net
 0.0.0.0 ns1.bnt.com
 0.0.0.0 ns1.bostondatacenters.com
-0.0.0.0 ns1.botucatu.flash.tv.br
 0.0.0.0 ns1.brazoria-inet.com
 0.0.0.0 ns1.brmemc.net
 0.0.0.0 ns1.bt.net
@@ -4001,7 +3950,6 @@
 0.0.0.0 ns1.ericsson.se
 0.0.0.0 ns1.es.net
 0.0.0.0 ns1.estel.ro
-0.0.0.0 ns1.ethome.com.tw
 0.0.0.0 ns1.ethr.net
 0.0.0.0 ns1.eu.concert.net
 0.0.0.0 ns1.eurorings.net
@@ -4117,7 +4065,6 @@
 0.0.0.0 ns1.newsouth.net
 0.0.0.0 ns1.nextra.no
 0.0.0.0 ns1.nile-online.net
-0.0.0.0 ns1.nlayer.net
 0.0.0.0 ns1.nodak.edu
 0.0.0.0 ns1.noos.net
 0.0.0.0 ns1.nosc.mil
@@ -4140,7 +4087,6 @@
 0.0.0.0 ns1.otenet.gr
 0.0.0.0 ns1.pacific.net.hk
 0.0.0.0 ns1.pacific.net.in
-0.0.0.0 ns1.pacific.net.ph
 0.0.0.0 ns1.paetec.net
 0.0.0.0 ns1.pantel.net
 0.0.0.0 ns1.pbi.net
@@ -4169,7 +4115,6 @@
 0.0.0.0 ns1.rol.net.mv
 0.0.0.0 ns1.romtelecom.net
 0.0.0.0 ns1.rtconline.com
-0.0.0.0 ns1.sagonet.com
 0.0.0.0 ns1.saudi.net.sa
 0.0.0.0 ns1.savvis.net
 0.0.0.0 ns1.sc163.net
@@ -4269,7 +4214,6 @@
 0.0.0.0 ns17c.wh.ocn.ne.jp
 0.0.0.0 ns1o.ctihk.com
 0.0.0.0 ns1rev.bensoft.ro
-0.0.0.0 ns2-auth.alltel.net
 0.0.0.0 ns2-auth.etb.net.co
 0.0.0.0 ns2-auth.sprintlink.net
 0.0.0.0 ns2-auth.windstream.net
@@ -4284,7 +4228,6 @@
 0.0.0.0 ns2.aic.fr
 0.0.0.0 ns2.ajato.com.br
 0.0.0.0 ns2.americatelnet.com.pe
-0.0.0.0 ns2.amigo.net.gt
 0.0.0.0 ns2.amis.net
 0.0.0.0 ns2.amstec.net
 0.0.0.0 ns2.ans.co.kr
@@ -4317,7 +4260,6 @@
 0.0.0.0 ns2.bnet.net.tr
 0.0.0.0 ns2.bnt.com
 0.0.0.0 ns2.bostondatacenters.com
-0.0.0.0 ns2.botucatu.flash.tv.br
 0.0.0.0 ns2.brainerd.net
 0.0.0.0 ns2.brazoria-inet.com
 0.0.0.0 ns2.breezein.net
@@ -4406,7 +4348,6 @@
 0.0.0.0 ns2.ericsson.se
 0.0.0.0 ns2.es.net
 0.0.0.0 ns2.etel.sk
-0.0.0.0 ns2.ethome.com.tw
 0.0.0.0 ns2.ethr.net
 0.0.0.0 ns2.eu.concert.net
 0.0.0.0 ns2.eurorings.net
@@ -4526,7 +4467,6 @@
 0.0.0.0 ns2.newsouth.net
 0.0.0.0 ns2.nextra.no
 0.0.0.0 ns2.nile-online.net
-0.0.0.0 ns2.nlayer.net
 0.0.0.0 ns2.noc4hosts.com
 0.0.0.0 ns2.noos.net
 0.0.0.0 ns2.npgco.com
@@ -4545,7 +4485,6 @@
 0.0.0.0 ns2.otenet.gr
 0.0.0.0 ns2.pacific.net.hk
 0.0.0.0 ns2.pacific.net.in
-0.0.0.0 ns2.pacific.net.ph
 0.0.0.0 ns2.paetec.net
 0.0.0.0 ns2.pantel.net
 0.0.0.0 ns2.pbi.net
@@ -4578,7 +4517,6 @@
 0.0.0.0 ns2.romtelecom.net
 0.0.0.0 ns2.rtconline.com
 0.0.0.0 ns2.rtn.net.mx
-0.0.0.0 ns2.sagonet.com
 0.0.0.0 ns2.saudi.net.sa
 0.0.0.0 ns2.sc163.net
 0.0.0.0 ns2.sc2000.net
@@ -4641,7 +4579,6 @@
 0.0.0.0 ns2.tierzero.net
 0.0.0.0 ns2.time.net.my
 0.0.0.0 ns2.tm.net.my
-0.0.0.0 ns2.topallnet.ro
 0.0.0.0 ns2.totbb.net
 0.0.0.0 ns2.totisp.net
 0.0.0.0 ns2.towerstream.com
@@ -4929,9 +4866,7 @@
 0.0.0.0 ohiocourtofclaims.gov
 0.0.0.0 ohiocourts.gov
 0.0.0.0 ohiodnr.gov
-0.0.0.0 ohioheretohelp.gov
 0.0.0.0 ohiohouse.gov
-0.0.0.0 ohiohousinglocator.gov
 0.0.0.0 ohiojudicialcenter.gov
 0.0.0.0 ohiomeansaccessibility.gov
 0.0.0.0 ohiomeansjobs.gov
@@ -5170,7 +5105,6 @@
 0.0.0.0 pittsfield-mi.gov
 0.0.0.0 pittsfieldnh.gov
 0.0.0.0 pittsylvaniacountyva.gov
-0.0.0.0 pksweb.austria.eu.net
 0.0.0.0 plainfieldnj.gov
 0.0.0.0 plainlanguage.gov
 0.0.0.0 plandomeheights-ny.gov
@@ -5244,7 +5178,6 @@
 0.0.0.0 presidentialdocuments.gov
 0.0.0.0 presidentialserviceawards.gov
 0.0.0.0 presidio.gov
-0.0.0.0 presidiotrust.gov
 0.0.0.0 presqueislemaine.gov
 0.0.0.0 prestoncountywv.gov
 0.0.0.0 pretrialservices.gov
@@ -5311,13 +5244,11 @@
 0.0.0.0 readyalabama.gov
 0.0.0.0 readyalbanycounty-ny.gov
 0.0.0.0 readybusiness.gov
-0.0.0.0 readyharriscountytx.gov
 0.0.0.0 readyhoustontx.gov
 0.0.0.0 readymchenrycountyil.gov
 0.0.0.0 readynh.gov
 0.0.0.0 readysouthtexas.gov
 0.0.0.0 readyvirginia.gov
-0.0.0.0 readywv.gov
 0.0.0.0 reaganlibrary.gov
 0.0.0.0 realestatesales.gov
 0.0.0.0 realpropertyprofile.gov
@@ -5359,7 +5290,6 @@
 0.0.0.0 rialtoca.gov
 0.0.0.0 ricetx.gov
 0.0.0.0 richfieldwi.gov
-0.0.0.0 richlandms.gov
 0.0.0.0 richlands-va.gov
 0.0.0.0 richlandsnc.gov
 0.0.0.0 richmondhill-ga.gov
@@ -5367,7 +5297,6 @@
 0.0.0.0 richmondtx.gov
 0.0.0.0 richmondvt.gov
 0.0.0.0 richwoodtx.gov
-0.0.0.0 richwoodwv.gov
 0.0.0.0 ridesharewi.gov
 0.0.0.0 ridesharewisconsin.gov
 0.0.0.0 ridgecrest-ca.gov
@@ -5388,7 +5317,6 @@
 0.0.0.0 rns3.twnic.net
 0.0.0.0 roamingshoresoh.gov
 0.0.0.0 roanecountytn.gov
-0.0.0.0 roanokecounty-va.gov
 0.0.0.0 roanokecountyva.gov
 0.0.0.0 roanokecountyvirginia.gov
 0.0.0.0 roanokeva.gov
@@ -5463,7 +5391,6 @@
 0.0.0.0 safesd.gov
 0.0.0.0 safetyact.gov
 0.0.0.0 safetyvideos.gov
-0.0.0.0 safeyouth.gov
 0.0.0.0 sagharborny.gov
 0.0.0.0 saguachecounty-co.gov
 0.0.0.0 sahuaritaaz.gov
@@ -5521,7 +5448,6 @@
 0.0.0.0 scdps.gov
 0.0.0.0 schelp.gov
 0.0.0.0 schenectadyny.gov
-0.0.0.0 schertz-tx.gov
 0.0.0.0 schohariecounty-ny.gov
 0.0.0.0 schouse.gov
 0.0.0.0 scidac.gov
@@ -5662,7 +5588,6 @@
 0.0.0.0 sno-nsn.gov
 0.0.0.0 snohomishcountywa.gov
 0.0.0.0 snohomishwa.gov
-0.0.0.0 snowflake-az.gov
 0.0.0.0 sns.avonet.cz
 0.0.0.0 sns.btc-net.bg
 0.0.0.0 sns.gov
@@ -5808,7 +5733,6 @@
 0.0.0.0 surgoinsvilletn.gov
 0.0.0.0 surpriseaz.gov
 0.0.0.0 surrycountyva.gov
-0.0.0.0 susanvilleindianrancheria-nsn.gov
 0.0.0.0 sussexcountyde.gov
 0.0.0.0 sussexcountyva.gov
 0.0.0.0 sussi.cressoft.com.pk
@@ -5820,23 +5744,19 @@
 0.0.0.0 swinomish-nsn.gov
 0.0.0.0 swo-nsn.gov
 0.0.0.0 swpa.gov
-0.0.0.0 swtjci.swtjc.cc.tx.us
 0.0.0.0 sydname01-ge0.powertel.net.au
 0.0.0.0 sydname02-ge0.powertel.net.au
 0.0.0.0 sylacaugaal.gov
 0.0.0.0 symbols.gov
 0.0.0.0 syracuseks.gov
-0.0.0.0 t.ns.verio.net
 0.0.0.0 taaps.gov
 0.0.0.0 tachi-yokut-nsn.gov
-0.0.0.0 tacomawa.gov
 0.0.0.0 takomaparkmd.gov
 0.0.0.0 talbotcountymd.gov
 0.0.0.0 tallapoosaga.gov
 0.0.0.0 tallassee-al.gov
 0.0.0.0 tamacountyiowa.gov
 0.0.0.0 tamarugo.cec.uchile.cl
-0.0.0.0 tamaya-nsn.gov
 0.0.0.0 tampafl.gov
 0.0.0.0 taosha.cc
 0.0.0.0 tappahannock-va.gov
@@ -5915,7 +5835,6 @@
 0.0.0.0 tn.gov
 0.0.0.0 tnag.gov
 0.0.0.0 tncourts.gov
-0.0.0.0 tnecd.gov
 0.0.0.0 tnedu.gov
 0.0.0.0 tniis.gov
 0.0.0.0 tnk12.gov
@@ -5962,8 +5881,6 @@
 0.0.0.0 townofnashvillenc.gov
 0.0.0.0 townofnorth-sc.gov
 0.0.0.0 townofnortheastny.gov
-0.0.0.0 townoforangeva.gov
-0.0.0.0 townofoysterbay-ny.gov
 0.0.0.0 townofpenningtonva.gov
 0.0.0.0 townoframapo-ny.gov
 0.0.0.0 townofriverheadny.gov
@@ -6044,7 +5961,6 @@
 0.0.0.0 tuscaloosa-al.gov
 0.0.0.0 tuskegeealabama.gov
 0.0.0.0 tuxedopark-ny.gov
-0.0.0.0 tva.gov
 0.0.0.0 tvaoig.gov
 0.0.0.0 twai.gov
 0.0.0.0 twins.ee.nctu.edu.tw
@@ -6057,7 +5973,6 @@
 0.0.0.0 tymwsv02.fitweb.or.jp
 0.0.0.0 tyngsboroughma.gov
 0.0.0.0 tyringham-ma.gov
-0.0.0.0 u.ns.verio.net
 0.0.0.0 ucrdatatool.gov
 0.0.0.0 uctx.gov
 0.0.0.0 udall.gov
@@ -6173,7 +6088,6 @@
 0.0.0.0 vermonthealthconnect.gov
 0.0.0.0 vermonttreasurer.gov
 0.0.0.0 vermontville-mi.gov
-0.0.0.0 vermontvotesforkids.gov
 0.0.0.0 vernon-ct.gov
 0.0.0.0 vernonia-or.gov
 0.0.0.0 vernontwp-pa.gov
@@ -6243,7 +6157,6 @@
 0.0.0.0 wallawallawa.gov
 0.0.0.0 walpole-ma.gov
 0.0.0.0 waltoncountyga.gov
-0.0.0.0 waltonhillsohio.gov
 0.0.0.0 wanatah-in.gov
 0.0.0.0 wapa.gov
 0.0.0.0 wappingersfallsny.gov
@@ -6365,7 +6278,6 @@
 0.0.0.0 wigrants.gov
 0.0.0.0 wilawlibrary.gov
 0.0.0.0 wilbraham-ma.gov
-0.0.0.0 wildfire.gov
 0.0.0.0 wildlifeadaptationstrategy.gov
 0.0.0.0 wildohio.gov
 0.0.0.0 wildwood-fl.gov
@@ -6457,9 +6369,7 @@
 0.0.0.0 www.cfd.or.jp
 0.0.0.0 www.elim.net
 0.0.0.0 www.nursat.kz
-0.0.0.0 www.pue.uia.mx
 0.0.0.0 www.siom.ac.cn
-0.0.0.0 www.tceq.state.tx.us
 0.0.0.0 www2.din.or.jp
 0.0.0.0 www3.din.or.jp
 0.0.0.0 wy.gov
@@ -6509,8 +6419,8 @@
 
 # Hosts - nsa-blocklist
 # Source - https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/HOSTS
-# Generated - 18.08.2018
+# Generated - 24.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 6508
+# Total Domains: 6418
 # License: MIT
 

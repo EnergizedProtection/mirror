@@ -269,7 +269,6 @@
 0.0.0.0 adadvisor.net
 0.0.0.0 adaos-ads.net
 0.0.0.0 adap.tv
-0.0.0.0 adapd.com
 0.0.0.0 adapt.tv
 0.0.0.0 adbard.net
 0.0.0.0 adbit.co
@@ -1101,7 +1100,6 @@
 0.0.0.0 adsys.townnews.com
 0.0.0.0 adsystem.simplemachines.org
 0.0.0.0 adtaily.com
-0.0.0.0 adtaily.pl
 0.0.0.0 adtecc.com
 0.0.0.0 adtech.com
 0.0.0.0 adtech.de
@@ -1390,10 +1388,7 @@
 0.0.0.0 assets.pornpreviews.com
 0.0.0.0 assets.sizedoesmatter.com
 0.0.0.0 assets1.exgfnetwork.com
-0.0.0.0 assoc-amazon.ca
-0.0.0.0 assoc-amazon.co.uk
 0.0.0.0 assoc-amazon.com
-0.0.0.0 assoc-amazon.de
 0.0.0.0 assoc-amazon.fr
 0.0.0.0 at-adserver.alltop.com
 0.0.0.0 atadserver.com
@@ -1556,6 +1551,7 @@
 0.0.0.0 beringmedia.com
 0.0.0.0 best-pr.info
 0.0.0.0 best-top.ro
+0.0.0.0 bestcasinopartner.com
 0.0.0.0 bestdeals.ws
 0.0.0.0 bestforexpartners.com
 0.0.0.0 bestgameads.com
@@ -1937,7 +1933,6 @@
 0.0.0.0 crtv.mate1.com
 0.0.0.0 crwdcntrl.net
 0.0.0.0 ctenetwork.com
-0.0.0.0 ctm-media.com
 0.0.0.0 ctnetwork.hu
 0.0.0.0 ctrhub.com
 0.0.0.0 ctrmanager.com
@@ -2383,6 +2378,8 @@
 0.0.0.0 hotkeys.com
 0.0.0.0 hotlog.ru
 0.0.0.0 hotrank.com.tw
+0.0.0.0 hotwords.com
+0.0.0.0 hotwords.com.br
 0.0.0.0 hoverr.co
 0.0.0.0 hoverr.media
 0.0.0.0 hplose.de
@@ -3052,6 +3049,7 @@
 0.0.0.0 onad.eu
 0.0.0.0 onads.com
 0.0.0.0 onclkds.com
+0.0.0.0 oneandonlynetwork.com
 0.0.0.0 onenetworkdirect.com
 0.0.0.0 onenetworkdirect.net
 0.0.0.0 onespot.com
@@ -3182,7 +3180,6 @@
 0.0.0.0 piercial.com
 0.0.0.0 pimproll.com
 0.0.0.0 pip-pip-pop.com
-0.0.0.0 pipeaota.com
 0.0.0.0 pipsol.net
 0.0.0.0 piticlik.com
 0.0.0.0 pivotrunner.com
@@ -3806,6 +3803,7 @@
 0.0.0.0 thebannerexchange.com
 0.0.0.0 thecounter.com
 0.0.0.0 thefoxes.ru
+0.0.0.0 thefriendlyvideo2updating.win
 0.0.0.0 theloungenet.com
 0.0.0.0 themidnightmatulas.com
 0.0.0.0 therichkids.com
@@ -3856,6 +3854,7 @@
 0.0.0.0 topqualitylink.com
 0.0.0.0 toprebates.com
 0.0.0.0 topsafelist.net
+0.0.0.0 topsearcher.com
 0.0.0.0 topsite.lv
 0.0.0.0 topsites.com.br
 0.0.0.0 toro-tags.com
@@ -3951,7 +3950,6 @@
 0.0.0.0 track.hotmovies.com
 0.0.0.0 track.hotteenskissing.com
 0.0.0.0 track.hubspot.com
-0.0.0.0 track.hxczzzw.com
 0.0.0.0 track.ideatrck.com
 0.0.0.0 track.impactfive.com
 0.0.0.0 track.indiauncovered.com
@@ -4415,7 +4413,6 @@
 0.0.0.0 www-banner.chat.ru
 0.0.0.0 www8.glam.com
 0.0.0.0 wwwadcntr.com
-0.0.0.0 wwwp.link
 0.0.0.0 x-traceur.com
 0.0.0.0 x.shopsavvy.com
 0.0.0.0 x4300tiz.com
@@ -4469,6 +4466,7 @@
 0.0.0.0 yobr.net
 0.0.0.0 yoc-adserver.com
 0.0.0.0 yoc-performance.com
+0.0.0.0 yoc.mobi
 0.0.0.0 yoggrt.com
 0.0.0.0 youlamedia.com
 0.0.0.0 youlouk.com
@@ -4515,8 +4513,8 @@
 
 # Hosts - squidblacklist-dg-ads
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/squidblacklist-ads.txt
-# Generated - 18.08.2018
+# Generated - 24.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 4514
+# Total Domains: 4512
 # License: MIT
 

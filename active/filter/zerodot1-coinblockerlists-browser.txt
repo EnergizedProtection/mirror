@@ -36,6 +36,7 @@
 0.0.0.0 a-o.ninja
 0.0.0.0 a.proxy4.nullrefexcep.com
 0.0.0.0 a.proxy5.nullrefexcep.com
+0.0.0.0 aalbbh84.info
 0.0.0.0 aba.ae
 0.0.0.0 abc.pema.cl
 0.0.0.0 acbp0020171456.page.tl
@@ -52,6 +53,7 @@
 0.0.0.0 afflow.18-plus.net
 0.0.0.0 afminer.com
 0.0.0.0 ait7ee.win
+0.0.0.0 ajcryptominer.com
 0.0.0.0 ajplugins.com
 0.0.0.0 allfontshere.press
 0.0.0.0 altavista.ovh
@@ -109,12 +111,14 @@
 0.0.0.0 back4.2giga.link
 0.0.0.0 backend.freecontent.win
 0.0.0.0 baiduccdn1.com
+0.0.0.0 bajarlo.net
 0.0.0.0 basepush.com
 0.0.0.0 bauersagtnein.myeffect.net
 0.0.0.0 baywttgdhe.download
 0.0.0.0 bcn.cpufan.club
 0.0.0.0 becanium.com
 0.0.0.0 befirstcdn.com
+0.0.0.0 belicimo.pw
 0.0.0.0 berateveng.ru
 0.0.0.0 bestcoinsignals.com
 0.0.0.0 besti.ga
@@ -129,9 +133,11 @@
 0.0.0.0 bitcoiner.win
 0.0.0.0 bizoninvest.com
 0.0.0.0 bjorksta.men
+0.0.0.0 black-js.github.io
 0.0.0.0 blockchain.jsecoin.com
 0.0.0.0 blockchained.party
 0.0.0.0 blox.minexmr.com
+0.0.0.0 blue-js.github.io
 0.0.0.0 bmcm.ml
 0.0.0.0 bmcm.pw
 0.0.0.0 bmnadutub.ru
@@ -158,8 +164,10 @@
 0.0.0.0 captchas.freebitco.in
 0.0.0.0 carrel.services
 0.0.0.0 carry.myeffect.net
+0.0.0.0 cc.gofile.io
 0.0.0.0 ccvwtdtwyu.trade
 0.0.0.0 cd.freecontent.win
+0.0.0.0 cdjchpojgifwc.ru
 0.0.0.0 cdn-analytics.pl
 0.0.0.0 cdn-code.host
 0.0.0.0 cdn-jquery.host
@@ -191,6 +199,7 @@
 0.0.0.0 chicago01.electroneum.hashvault.pro
 0.0.0.0 chmproxy.bid
 0.0.0.0 chws.browsermine.com
+0.0.0.0 cieh.mx
 0.0.0.0 clgserv.pro
 0.0.0.0 cliggi.download
 0.0.0.0 clod.pw
@@ -231,6 +240,7 @@
 0.0.0.0 coinhove.com
 0.0.0.0 coinhub.win
 0.0.0.0 coinimp.com
+0.0.0.0 coinimp.com/scripts
 0.0.0.0 coinimp.net
 0.0.0.0 coinive.com
 0.0.0.0 coinjive.com
@@ -242,6 +252,7 @@
 0.0.0.0 colnhive.com
 0.0.0.0 conhive.com
 0.0.0.0 cookiescript.info
+0.0.0.0 cookiescript.infos
 0.0.0.0 cookiescriptcdn.pro
 0.0.0.0 cpu2cash.link
 0.0.0.0 cpufan.club
@@ -271,10 +282,12 @@
 0.0.0.0 cvp6.asvoxod.ru
 0.0.0.0 cvp7.asvoxod.ru
 0.0.0.0 cvp8.asvoxod.ru
+0.0.0.0 d-ns.ga
 0.0.0.0 d.cfcdist.gdn
 0.0.0.0 d.cfcnet.gdn
 0.0.0.0 d.cfcnet.top
 0.0.0.0 d.cpufan.club
+0.0.0.0 d.greece-search.com
 0.0.0.0 d1e1rbybdt265x.cloudfront.net
 0.0.0.0 d3ahinqqx1dy5v.cloudfront.net
 0.0.0.0 d3ddidv77grh0f.cloudfront.net
@@ -304,6 +317,7 @@
 0.0.0.0 do69ifsly4.me
 0.0.0.0 donate.cpufan.club
 0.0.0.0 dxmhkisurxxxhm.ru
+0.0.0.0 dynya-may.github.io
 0.0.0.0 dzizsih.ru
 0.0.0.0 earncoins.club
 0.0.0.0 easyhash.io
@@ -351,6 +365,7 @@
 0.0.0.0 firmware.center
 0.0.0.0 flare-analytics.com
 0.0.0.0 flashx.co
+0.0.0.0 fljgsht.ru
 0.0.0.0 flnqmin.org
 0.0.0.0 flowplayer.space
 0.0.0.0 formulawire.com
@@ -387,6 +402,7 @@
 0.0.0.0 fxnow.ru
 0.0.0.0 g-content.bid
 0.0.0.0 g.0x1f4b0.com
+0.0.0.0 gay-hotvideo.net
 0.0.0.0 gekko.coinnebula.com
 0.0.0.0 gemius.pl
 0.0.0.0 get.webxmr.com
@@ -412,6 +428,7 @@
 0.0.0.0 gulf.moneroocean.stream
 0.0.0.0 gustaver.ddns.net
 0.0.0.0 hallaert.online
+0.0.0.0 harvest.surge.sh
 0.0.0.0 hashforcash.us
 0.0.0.0 hashing.win
 0.0.0.0 hashto.cash
@@ -427,6 +444,7 @@
 0.0.0.0 hive.tubetitties.com
 0.0.0.0 hiy.vidzi.tv
 0.0.0.0 hjnbvg.ru
+0.0.0.0 hk.rs
 0.0.0.0 hlpidkr.ru
 0.0.0.0 hodlers.party
 0.0.0.0 hodling.faith
@@ -438,9 +456,9 @@
 0.0.0.0 hostingcloud.download
 0.0.0.0 hostingcloud.faith
 0.0.0.0 hostingcloud.loan
+0.0.0.0 hqq.tvhqq.watch
 0.0.0.0 hrfziiddxa.ru
 0.0.0.0 httpp.gdn
-0.0.0.0 httpswww.coinimp.com
 0.0.0.0 huiwiw.hit.gemius.pl
 0.0.0.0 hzsod71wov.me
 0.0.0.0 iaheyftbsn.review
@@ -453,8 +471,10 @@
 0.0.0.0 ingorob.com
 0.0.0.0 ininmacerad.pro
 0.0.0.0 insdrbot.com
+0.0.0.0 intellecthosting.net
 0.0.0.0 intense.hashvault.pro
 0.0.0.0 intensecoin.crypto-webminer.com
+0.0.0.0 inwemo.com
 0.0.0.0 ipv6.freebitco.in
 0.0.0.0 irrrymucwxjl.ru
 0.0.0.0 istlandoll.com
@@ -491,6 +511,7 @@
 0.0.0.0 jshosting.stream
 0.0.0.0 jshosting.trade
 0.0.0.0 jshosting.win
+0.0.0.0 jssdk.beetv.net
 0.0.0.0 jurty.ml
 0.0.0.0 jurtym.cf
 0.0.0.0 juststatic.info
@@ -503,6 +524,7 @@
 0.0.0.0 kdowqlpt.info
 0.0.0.0 kedtise.com
 0.0.0.0 kho3au7l4z.me
+0.0.0.0 kickass.cd
 0.0.0.0 kinohabr.net
 0.0.0.0 kippbeak.cf
 0.0.0.0 kissdoujin.com
@@ -533,6 +555,7 @@
 0.0.0.0 losital.ru
 0.0.0.0 lottery-lists.freebitco.in
 0.0.0.0 ltstyov.ru
+0.0.0.0 lumanajaska.ml
 0.0.0.0 m.anyfiles.ovh
 0.0.0.0 m.miricommunity.net
 0.0.0.0 m1.stream.vidzi.tv
@@ -551,6 +574,7 @@
 0.0.0.0 malictuiar.com
 0.0.0.0 manila-1.xmrpool.net
 0.0.0.0 mariuspetrescu.gq
+0.0.0.0 may-js.github.io
 0.0.0.0 mebablo.com
 0.0.0.0 megabanners.cf
 0.0.0.0 mepirtedic.com
@@ -585,6 +609,7 @@
 0.0.0.0 mining.freebitco.in
 0.0.0.0 minr.nullrefexcep.com
 0.0.0.0 minr.pw
+0.0.0.0 minr.pw/inject
 0.0.0.0 miscws002.coinhive.com
 0.0.0.0 miscws005.coinhive.com
 0.0.0.0 miscws009.coinhive.com
@@ -593,10 +618,12 @@
 0.0.0.0 miscws018.coinhive.com
 0.0.0.0 miscws027.coinhive.com
 0.0.0.0 miscws029.coinhive.com
+0.0.0.0 mix.kinostuff.com
 0.0.0.0 mlib.browsermine.com
 0.0.0.0 mm.zubovskaya-banya.ru
 0.0.0.0 mmc.center
 0.0.0.0 mmpool.org
+0.0.0.0 mollnia.com
 0.0.0.0 monad.network
 0.0.0.0 moneone.ga
 0.0.0.0 monerise.com
@@ -611,6 +638,7 @@
 0.0.0.0 monitoringservice.co
 0.0.0.0 monkeyminer.net
 0.0.0.0 moonbit.co.in
+0.0.0.0 moonify.io
 0.0.0.0 moonsade.com
 0.0.0.0 morningdigit.com
 0.0.0.0 moscow05.electroneum.hashvault.pro
@@ -673,6 +701,9 @@
 0.0.0.0 ogrid.org
 0.0.0.0 okexysylgzo.ru
 0.0.0.0 old.browsermine.com
+0.0.0.0 omine.org
+0.0.0.0 on.animeteatr.ru
+0.0.0.0 one-jj.github.io
 0.0.0.0 open-hive-server-1.pp.ua
 0.0.0.0 openkatalog.com
 0.0.0.0 oxwwoeukjispema.ru
@@ -690,6 +721,8 @@
 0.0.0.0 pdheuryopd.loan
 0.0.0.0 pearno.com
 0.0.0.0 pebx.pl
+0.0.0.0 pema.cl
+0.0.0.0 perrege.ru
 0.0.0.0 pertholin.com
 0.0.0.0 pertosj.ru
 0.0.0.0 phx-2.xmrpool.net
@@ -708,6 +741,7 @@
 0.0.0.0 play.flowplayer.space
 0.0.0.0 play.freebsd.nnna.ru
 0.0.0.0 play.go.cloot.ga
+0.0.0.0 play.gramombird.com
 0.0.0.0 play.js.vidoza.net
 0.0.0.0 play.malictuiar.com
 0.0.0.0 play.mine.gay-hotvideo.net
@@ -770,16 +804,19 @@
 0.0.0.0 pool.monero.hashvault.pro
 0.0.0.0 pool.sumokoin.hashvault.pro
 0.0.0.0 pool.supportxmr.com
+0.0.0.0 povw1deo.com/player7/jwpsrve.js
 0.0.0.0 power.tainiesonline.pw
 0.0.0.0 ppoi.org
 0.0.0.0 pr0gram.org
 0.0.0.0 premiumstats.xyz
 0.0.0.0 pricefbcf.gq
 0.0.0.0 projectpoi.com
+0.0.0.0 proofly.win
 0.0.0.0 proxy-ajcryptominer.ajplugins.com
 0.0.0.0 proxy-ddsjfhkmnk.now.sh
 0.0.0.0 proxy-khlizawelj.now.sh
 0.0.0.0 proxy.ajcryptominer.com
+0.0.0.0 proxy.multikonline.ru
 0.0.0.0 proxy.mytestminer.xyz
 0.0.0.0 proxy.nullrefexcep.com
 0.0.0.0 proxy2.nullrefexcep.com
@@ -788,6 +825,7 @@
 0.0.0.0 proxy7.nullrefexcep.com
 0.0.0.0 proxy8.nullrefexcep.com
 0.0.0.0 proxy9.nullrefexcep.com
+0.0.0.0 prsrjdr.ru
 0.0.0.0 punchsub.net
 0.0.0.0 pushno.com
 0.0.0.0 px1.papoto.com
@@ -804,6 +842,7 @@
 0.0.0.0 rbkshort.info
 0.0.0.0 realnetwrk.com
 0.0.0.0 reasedoper.pw
+0.0.0.0 red-js.github.io
 0.0.0.0 refresh-js.bitbucket.io
 0.0.0.0 refreshnerer27.info
 0.0.0.0 refreshnerer27rb.info
@@ -823,6 +862,7 @@
 0.0.0.0 rocks.io
 0.0.0.0 ron.si
 0.0.0.0 rot.ron.si
+0.0.0.0 rove.cl
 0.0.0.0 rowherthat.ru
 0.0.0.0 s.analytics.blue
 0.0.0.0 s003.papoto.com
@@ -838,6 +878,7 @@
 0.0.0.0 s2.play.estream.xyz
 0.0.0.0 s2.play.tainiesonline.pw
 0.0.0.0 s2.play.vidzi.tv
+0.0.0.0 s2.thersprens.com
 0.0.0.0 s2.video.estream.nu
 0.0.0.0 s2.video2.stream.vidzi.tv
 0.0.0.0 s2.vidtod.me
@@ -854,6 +895,7 @@
 0.0.0.0 s3.play.estream.xyz
 0.0.0.0 s3.play.tainiesonline.pw
 0.0.0.0 s3.play.vidzi.tv
+0.0.0.0 s3.thersprens.com
 0.0.0.0 s3.video.estream.nu
 0.0.0.0 s3.video2.stream.vidzi.tv
 0.0.0.0 s3.vidtod.me
@@ -871,6 +913,7 @@
 0.0.0.0 sbhmn-miner.com
 0.0.0.0 scaleway.ovh
 0.0.0.0 scriptproxy.pie.net.pk
+0.0.0.0 scripts.mrpiracy.xyz
 0.0.0.0 sdfsf.freecontent.date
 0.0.0.0 sea.cryptaloot.pro
 0.0.0.0 sea.cryptoloot.pro
@@ -894,6 +937,7 @@
 0.0.0.0 sharing-is-caring.info
 0.0.0.0 shrink-service.it
 0.0.0.0 sickrage.ca
+0.0.0.0 sighash.info
 0.0.0.0 silimbompom.com
 0.0.0.0 silver.crypto.csgocpu.com
 0.0.0.0 simpleco.in
@@ -918,6 +962,7 @@
 0.0.0.0 stat.maalaimalar.com
 0.0.0.0 stat.miraben.pw
 0.0.0.0 stat0808.info
+0.0.0.0 stati.bid
 0.0.0.0 stati.in
 0.0.0.0 static-02.flu.cc
 0.0.0.0 static-net.nut.cc
@@ -947,6 +992,7 @@
 0.0.0.0 stream.nullrefexcep.com
 0.0.0.0 streamdream.ws
 0.0.0.0 streamplay.me
+0.0.0.0 streamplay.to
 0.0.0.0 sumo.cpufan.club
 0.0.0.0 sumo.hashvault.pro
 0.0.0.0 sumokoin.crypto-webminer.com
@@ -956,6 +1002,7 @@
 0.0.0.0 supportxmr.com
 0.0.0.0 svivqrhrh.ru
 0.0.0.0 swanson.ron.si
+0.0.0.0 swiftmining.win
 0.0.0.0 sword.directprimal.com
 0.0.0.0 sxcdn02.now.sh
 0.0.0.0 sxcdn03.now.sh
@@ -969,6 +1016,8 @@
 0.0.0.0 sydney01.monero.hashvault.pro
 0.0.0.0 synconnector.com
 0.0.0.0 t.analytics.blue
+0.0.0.0 tainiesonline.pw
+0.0.0.0 tainiesonline.stream
 0.0.0.0 tazm9p7tso.trade
 0.0.0.0 techtricksworld.com
 0.0.0.0 template-download.top
@@ -993,9 +1042,11 @@
 0.0.0.0 thewhizmarketing.com
 0.0.0.0 thewhizproducts.com
 0.0.0.0 thewise.com
+0.0.0.0 three-jj.github.io
 0.0.0.0 todogecoin.biz
 0.0.0.0 toftofcal.com
 0.0.0.0 tokyodrift.ga
+0.0.0.0 torrent.pw
 0.0.0.0 tracking.freebitco.in
 0.0.0.0 traffic-gate-service.info
 0.0.0.0 traffic-info-service.info
@@ -1009,8 +1060,10 @@
 0.0.0.0 tulip18.com
 0.0.0.0 turnsocial.com
 0.0.0.0 turnsocial.now.sh
+0.0.0.0 two-jj.github.io
 0.0.0.0 udqgbokvzbnqkf.ru
 0.0.0.0 uebawtz7.me
+0.0.0.0 ugmfvqsu.ru
 0.0.0.0 ullnot.download
 0.0.0.0 ulnawoyyzbljc.ru
 0.0.0.0 unrummaged.com
@@ -1024,10 +1077,12 @@
 0.0.0.0 us2.cfcnet.gdn
 0.0.0.0 us3.cpufan.club
 0.0.0.0 uswest.cpufan.club
+0.0.0.0 uzljra.ru
 0.0.0.0 v90327ux.beget.tech
 0.0.0.0 vcfs6ip5h6.bid
 0.0.0.0 vcrypt.net
 0.0.0.0 vegas-1.xmrpool.net
+0.0.0.0 verifier.live
 0.0.0.0 veritrol.com
 0.0.0.0 verresof.com
 0.0.0.0 vg02h8z1ul.me
@@ -1039,6 +1094,7 @@
 0.0.0.0 videoplayer2.xyz
 0.0.0.0 vip.cfcnet.top
 0.0.0.0 vjcyehtqm9.me
+0.0.0.0 vkcdnservice.appspot.com
 0.0.0.0 vkcdnservice.com
 0.0.0.0 vl8c4g7tmo.me
 0.0.0.0 voumxy.ru
@@ -1053,6 +1109,7 @@
 0.0.0.0 wallet.brominer.com
 0.0.0.0 wasm.stream
 0.0.0.0 wasm24.ru
+0.0.0.0 wbmwss.beetv.net
 0.0.0.0 web.dle-news.pw
 0.0.0.0 web.flashx.co
 0.0.0.0 web.rocks.io
@@ -1081,6 +1138,7 @@
 0.0.0.0 wkkjfcgjofbix.ru
 0.0.0.0 wm.yololike.space
 0.0.0.0 wmemsnhgldd.ru
+0.0.0.0 wmtech.website
 0.0.0.0 wmwmwwfmkvucbln.ru
 0.0.0.0 wnmyerzbjhu.ru
 0.0.0.0 wo15.coinhive.com
@@ -1401,6 +1459,7 @@
 0.0.0.0 wsnew.freebitco.in
 0.0.0.0 wsp.marketgid.com
 0.0.0.0 wss.nablabee.com
+0.0.0.0 wss.rand.com.ru
 0.0.0.0 wss.stati.bid
 0.0.0.0 wtm.monitoringservice.co
 0.0.0.0 wty46.com
@@ -1560,7 +1619,6 @@
 0.0.0.0 www.cryptosearch.site
 0.0.0.0 www.cryptotab.net
 0.0.0.0 www.cryptown.netlify.com
-0.0.0.0 www.ctlrnwbv.ru
 0.0.0.0 www.darking03.tk
 0.0.0.0 www.darking04.tk
 0.0.0.0 www.darking05.tk
@@ -1652,7 +1710,6 @@
 0.0.0.0 www.hostingcloud.faith
 0.0.0.0 www.hostingcloud.loan
 0.0.0.0 www.httpp.gdn
-0.0.0.0 www.httpswww.coinimp.com
 0.0.0.0 www.igrid.org
 0.0.0.0 www.infamylists.com
 0.0.0.0 www.ingorob.com
@@ -1785,8 +1842,6 @@
 0.0.0.0 www.pearno.com
 0.0.0.0 www.pebx.pl
 0.0.0.0 www.play.intellecthosting.net
-0.0.0.0 www.pool.coinimp.com
-0.0.0.0 www.pool2.coinimp.com
 0.0.0.0 www.ppoi.org
 0.0.0.0 www.pricefbcf.gq
 0.0.0.0 www.proj2018.xyz
@@ -1848,7 +1903,6 @@
 0.0.0.0 www.sumokoin.crypto-webminer.com
 0.0.0.0 www.supportxmr.com
 0.0.0.0 www.supportxmr.com.cdn.cloudflare.net
-0.0.0.0 www.svivqrhrh.ru
 0.0.0.0 www.sxcdn02.now.sh
 0.0.0.0 www.sxcdn03.now.sh
 0.0.0.0 www.sxcdn04.now.sh
@@ -1861,9 +1915,6 @@
 0.0.0.0 www.synconnector.com
 0.0.0.0 www.techtricksworld.com
 0.0.0.0 www.template-download.top
-0.0.0.0 www.terethat.ru
-0.0.0.0 www.tgtvbngp.ru
-0.0.0.0 www.thathislitt.ru
 0.0.0.0 www.thatresha.com
 0.0.0.0 www.theappguruz.com
 0.0.0.0 www.thelifeisbinary.netlify.com
@@ -1881,19 +1932,16 @@
 0.0.0.0 www.tubetitties.com
 0.0.0.0 www.turnsocial.com
 0.0.0.0 www.turnsocial.now.sh
-0.0.0.0 www.udqgbokvzbnqkf.ru
 0.0.0.0 www.ullnot.download
-0.0.0.0 www.ulnawoyyzbljc.ru
-0.0.0.0 www.uoldid.ru
 0.0.0.0 www.update-your-pc.info
 0.0.0.0 www.v90327ux.beget.tech
 0.0.0.0 www.vcrypt.net
+0.0.0.0 www.verifier.live
 0.0.0.0 www.veritrol.com
 0.0.0.0 www.verresof.com
 0.0.0.0 www.viaxmr.com
 0.0.0.0 www.videoplayer2.xyz
 0.0.0.0 www.vkcdnservice.com
-0.0.0.0 www.vuryua.ru
 0.0.0.0 www.w13.coinhive.com
 0.0.0.0 www.wallet.brominer.com
 0.0.0.0 www.wasm.stream
@@ -1913,7 +1961,6 @@
 0.0.0.0 www.whysoserius.club
 0.0.0.0 www.willacrit.com
 0.0.0.0 www.witthethim.com
-0.0.0.0 www.wkkjfcgjofbix.ru
 0.0.0.0 www.wo15.coinhive.com
 0.0.0.0 www.wordc.ga
 0.0.0.0 www.worker.salon.com
@@ -2012,8 +2059,8 @@
 0.0.0.0 www5.2giga.link
 0.0.0.0 www6.2giga.link
 0.0.0.0 www7.2giga.link
-0.0.0.0 x.browsermine.com
 0.0.0.0 xbasfbno.info
+0.0.0.0 xgefmxd.ru
 0.0.0.0 xgmc6lu8fs.me
 0.0.0.0 xmg.cool
 0.0.0.0 xmr.101010.pl
@@ -2023,6 +2070,7 @@
 0.0.0.0 xmr.cryptonoter.com
 0.0.0.0 xmr.e-libra.ru
 0.0.0.0 xmr.mining.best
+0.0.0.0 xmr.omine.org
 0.0.0.0 xmr1.crypto-pool.fr
 0.0.0.0 xmr3.crypto-pool.fr
 0.0.0.0 xmr5.crypto-pool.fr
@@ -2037,8 +2085,10 @@
 0.0.0.0 xy.nullrefexcep.com
 0.0.0.0 ybjfsqcevow.ru
 0.0.0.0 yoaabgvkm.ru
+0.0.0.0 yololike.space
 0.0.0.0 you.tubetitties.com
 0.0.0.0 youporn.sexy
+0.0.0.0 yourloganalytics.com
 0.0.0.0 yqaywudifu.date
 0.0.0.0 yrdrtzmsmt.com
 0.0.0.0 zavzlen.ru
@@ -2053,8 +2103,8 @@
 
 # Hosts - zerodot1-coinblockerlists-browser
 # Source - https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
-# Generated - 18.08.2018
+# Generated - 24.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 2052
+# Total Domains: 2102
 # License: MIT
 

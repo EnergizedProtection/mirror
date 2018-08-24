@@ -930,7 +930,6 @@
 0.0.0.0 ads-us.pictela.net
 0.0.0.0 ads-v-darwin.hulu.com
 0.0.0.0 ads.20minutes.fr
-0.0.0.0 ads.24.com
 0.0.0.0 ads.359group.com
 0.0.0.0 ads.3bay.bg
 0.0.0.0 ads.3e-news.net
@@ -1454,7 +1453,6 @@
 0.0.0.0 ads.silive.com
 0.0.0.0 ads.sina.com
 0.0.0.0 ads.singlescash.com
-0.0.0.0 ads.sitemeter.com
 0.0.0.0 ads.skelbiu.lt
 0.0.0.0 ads.skinected.com
 0.0.0.0 ads.skupe.net
@@ -1570,7 +1568,6 @@
 0.0.0.0 ads.xda-developers.com
 0.0.0.0 ads.xhamster.com
 0.0.0.0 ads.xpg.com.br
-0.0.0.0 ads.xprofiles.com
 0.0.0.0 ads.xtargeting.com
 0.0.0.0 ads.xtra.co.nz
 0.0.0.0 ads.xxxbunker.com
@@ -2414,7 +2411,6 @@
 0.0.0.0 atrk.alexametrics.com
 0.0.0.0 atspace.de.intellitxt.com
 0.0.0.0 attribution.webmarketing123.com
-0.0.0.0 au-01.adtomafusion.com
 0.0.0.0 au-cdn.effectivemeasure.net
 0.0.0.0 au.2.cqcounter.com
 0.0.0.0 au.adserver.yahoo.com
@@ -2668,7 +2664,6 @@
 0.0.0.0 banners.host.bannerflow.com
 0.0.0.0 banners.icams.com
 0.0.0.0 banners.images.streamray.com
-0.0.0.0 banners.inetfast.com
 0.0.0.0 banners.jewishfriendfinder.com
 0.0.0.0 banners.lativio.com
 0.0.0.0 banners.leadingedgecash.com
@@ -6210,7 +6205,6 @@
 0.0.0.0 l8.zedo.com
 0.0.0.0 lab88inc.112.2o7.net
 0.0.0.0 laboroflove.us.intellitxt.com
-0.0.0.0 labs-cdn.revcontent.com
 0.0.0.0 labs.natpal.com
 0.0.0.0 laineygossip.us.intellitxt.com
 0.0.0.0 lakeshore.d1.sc.omtrdc.net
@@ -6588,7 +6582,6 @@
 0.0.0.0 matomy.adk2.co
 0.0.0.0 mattressusa.122.2o7.net
 0.0.0.0 mau.sextracker.com
-0.0.0.0 maurobb.freecounter.it
 0.0.0.0 max.bannermanager.gr
 0.0.0.0 max.gunggo.com
 0.0.0.0 maxim.122.2o7.net
@@ -6843,7 +6836,6 @@
 0.0.0.0 metrics.petsmart.com
 0.0.0.0 metrics.philly.com
 0.0.0.0 metrics.politico.com
-0.0.0.0 metrics.radioshack.com
 0.0.0.0 metrics.ralphlauren.com
 0.0.0.0 metrics.rcsmetrics.it
 0.0.0.0 metrics.retailmenot.com
@@ -7576,7 +7568,6 @@
 0.0.0.0 oascentral.villagevoice.com
 0.0.0.0 oascentral.virtualtourist.com
 0.0.0.0 oascentral.walmartwom.com
-0.0.0.0 oascentral.warcry.com
 0.0.0.0 oascentral.washtimes.com
 0.0.0.0 oascentral.wciv.com
 0.0.0.0 oascentral.westword.com
@@ -7634,7 +7625,6 @@
 0.0.0.0 om.webcrawler.com
 0.0.0.0 ometrics.netapp.com
 0.0.0.0 omn.crackle.com
-0.0.0.0 omn.sonypictures.com
 0.0.0.0 omni.basspro.com
 0.0.0.0 omni.canadiantire.ca
 0.0.0.0 omni.cash.ch
@@ -8729,8 +8719,6 @@
 0.0.0.0 s1.skgde.adocean.pl
 0.0.0.0 s10.cnzz.com
 0.0.0.0 s10.flagcounter.com
-0.0.0.0 s10.histats.com
-0.0.0.0 s10.sitemeter.com
 0.0.0.0 s101.cnzz.com
 0.0.0.0 s102.cnzz.com
 0.0.0.0 s103.cnzz.com
@@ -8741,7 +8729,6 @@
 0.0.0.0 s11.cnzz.com
 0.0.0.0 s11.flagcounter.com
 0.0.0.0 s11.histats.com
-0.0.0.0 s11.sitemeter.com
 0.0.0.0 s110.cnzz.com
 0.0.0.0 s111.cnzz.com
 0.0.0.0 s112.cnzz.com
@@ -8751,32 +8738,24 @@
 0.0.0.0 s118.cnzz.com
 0.0.0.0 s1184.t.eloqua.com
 0.0.0.0 s12.cnzz.com
-0.0.0.0 s12.sitemeter.com
 0.0.0.0 s120.cnzz.com
 0.0.0.0 s128.histats.com
 0.0.0.0 s129js.histats.com
 0.0.0.0 s13.cnzz.com
-0.0.0.0 s13.sitemeter.com
 0.0.0.0 s130.cnzz.com
 0.0.0.0 s131.cnzz.com
 0.0.0.0 s132.cnzz.com
 0.0.0.0 s1325.t.eloqua.com
 0.0.0.0 s137.cnzz.com
 0.0.0.0 s14.cnzz.com
-0.0.0.0 s14.sitemeter.com
 0.0.0.0 s1415903351.t.eloqua.com
 0.0.0.0 s142.cnzz.com
 0.0.0.0 s1471.t.eloqua.com
 0.0.0.0 s1481.t.eloqua.com
 0.0.0.0 s15.cnzz.com
-0.0.0.0 s15.sitemeter.com
 0.0.0.0 s16.cnzz.com
-0.0.0.0 s16.sitemeter.com
-0.0.0.0 s17.sitemeter.com
 0.0.0.0 s18.cnzz.com
-0.0.0.0 s18.sitemeter.com
 0.0.0.0 s19.cnzz.com
-0.0.0.0 s19.sitemeter.com
 0.0.0.0 s2.hit.stat.pl
 0.0.0.0 s2.hit.stat24.com
 0.0.0.0 s2.shinystat.com
@@ -8784,26 +8763,16 @@
 0.0.0.0 s2.statcounter.com
 0.0.0.0 s2.tracemyip.org
 0.0.0.0 s20.cnzz.com
-0.0.0.0 s20.sitemeter.com
-0.0.0.0 s21.sitemeter.com
 0.0.0.0 s212.ucoz.net
 0.0.0.0 s2150.t.eloqua.com
 0.0.0.0 s22.cnzz.com
-0.0.0.0 s22.sitemeter.com
 0.0.0.0 s23.cnzz.com
-0.0.0.0 s23.sitemeter.com
 0.0.0.0 s24.cnzz.com
-0.0.0.0 s24.sitemeter.com
 0.0.0.0 s248.meetrics.net
-0.0.0.0 s25.sitemeter.com
 0.0.0.0 s26.cnzz.com
-0.0.0.0 s26.sitemeter.com
-0.0.0.0 s27.sitemeter.com
 0.0.0.0 s28.cnzz.com
-0.0.0.0 s28.sitemeter.com
 0.0.0.0 s282.meetrics.net
 0.0.0.0 s29.cnzz.com
-0.0.0.0 s29.sitemeter.com
 0.0.0.0 s3.addthis.com
 0.0.0.0 s3.buysellads.com
 0.0.0.0 s3.cnzz.com
@@ -8813,51 +8782,29 @@
 0.0.0.0 s3.shinystat.com
 0.0.0.0 s3.shinystat.it
 0.0.0.0 s30.cnzz.com
-0.0.0.0 s30.sitemeter.com
 0.0.0.0 s300.meetrics.net
 0.0.0.0 s3015.t.eloqua.com
-0.0.0.0 s31.sitemeter.com
 0.0.0.0 s32.research.de.com
-0.0.0.0 s32.sitemeter.com
 0.0.0.0 s323.t.eloqua.com
 0.0.0.0 s33.cnzz.com
-0.0.0.0 s33.sitemeter.com
 0.0.0.0 s34.cnzz.com
-0.0.0.0 s34.sitemeter.com
-0.0.0.0 s35.sitemeter.com
-0.0.0.0 s36.sitemeter.com
 0.0.0.0 s37.cnzz.com
-0.0.0.0 s37.sitemeter.com
 0.0.0.0 s38.cnzz.com
-0.0.0.0 s38.sitemeter.com
-0.0.0.0 s39.sitemeter.com
 0.0.0.0 s4.cnzz.com
 0.0.0.0 s4.histats.com
 0.0.0.0 s4.hit.stat.pl
 0.0.0.0 s4.hit.stat24.com
 0.0.0.0 s4.shinystat.com
 0.0.0.0 s4.shinystat.it
-0.0.0.0 s40.sitemeter.com
-0.0.0.0 s41.sitemeter.com
 0.0.0.0 s42.cpmaffiliation.com
-0.0.0.0 s42.sitemeter.com
-0.0.0.0 s43.sitemeter.com
-0.0.0.0 s44.sitemeter.com
-0.0.0.0 s45.sitemeter.com
-0.0.0.0 s46.sitemeter.com
 0.0.0.0 s47.cnzz.com
-0.0.0.0 s47.sitemeter.com
 0.0.0.0 s48.cnzz.com
-0.0.0.0 s48.sitemeter.com
-0.0.0.0 s49.sitemeter.com
 0.0.0.0 s4is.histats.com
 0.0.0.0 s4le.net
 0.0.0.0 s5.cnzz.com
 0.0.0.0 s5.spn.ee
 0.0.0.0 s50.cnzz.com
-0.0.0.0 s50.sitemeter.com
 0.0.0.0 s51.cnzz.com
-0.0.0.0 s51.sitemeter.com
 0.0.0.0 s54.cnzz.com
 0.0.0.0 s55.cnzz.com
 0.0.0.0 s6-pixel.c1exchange.com
@@ -9238,10 +9185,8 @@
 0.0.0.0 simplehitcounter.com
 0.0.0.0 sin1.g.adnxs.com
 0.0.0.0 sinettrk.com
-0.0.0.0 siniature.com
 0.0.0.0 sinuatemedia.com
 0.0.0.0 sisco.hit.stat.pl
-0.0.0.0 site-stats.i8.com
 0.0.0.0 site-stats.rbl.ms
 0.0.0.0 site.falconbucks.com
 0.0.0.0 site.johnlewis.com
@@ -9272,15 +9217,6 @@
 0.0.0.0 slovakia.hit.gemius.pl
 0.0.0.0 slt.hit.gemius.pl
 0.0.0.0 sltravelcom.112.2o7.net
-0.0.0.0 sm1.sitemeter.com
-0.0.0.0 sm2.sitemeter.com
-0.0.0.0 sm3.sitemeter.com
-0.0.0.0 sm4.sitemeter.com
-0.0.0.0 sm5.sitemeter.com
-0.0.0.0 sm6.sitemeter.com
-0.0.0.0 sm7.sitemeter.com
-0.0.0.0 sm8.sitemeter.com
-0.0.0.0 sm9.sitemeter.com
 0.0.0.0 smaato.net
 0.0.0.0 smart.hola.com
 0.0.0.0 smart.styria-digital.com
@@ -9634,7 +9570,6 @@
 0.0.0.0 stats.clicktracks.com
 0.0.0.0 stats.cloudwp.io
 0.0.0.0 stats.concierge.com
-0.0.0.0 stats.dailyrecord.co.uk
 0.0.0.0 stats.dice.com
 0.0.0.0 stats.directexpose.com
 0.0.0.0 stats.directnic.com
@@ -9665,7 +9600,6 @@
 0.0.0.0 stats.livingsocial.com
 0.0.0.0 stats.magnify.net
 0.0.0.0 stats.mako.co.il
-0.0.0.0 stats.manticoretechnology.com
 0.0.0.0 stats.media.onet.pl
 0.0.0.0 stats.metacount.com
 0.0.0.0 stats.mezzobit.com
@@ -9832,7 +9766,6 @@
 0.0.0.0 sync.cmedia.s3.amazonaws.com
 0.0.0.0 sync.go.sonobi.com
 0.0.0.0 sync.mathtag.com
-0.0.0.0 sync.monarchads.com
 0.0.0.0 sync.rhythmxchange.com
 0.0.0.0 sync.richmetrics.com
 0.0.0.0 sync.search.spotxchange.com
@@ -9893,7 +9826,6 @@
 0.0.0.0 t1.extreme-dm.com
 0.0.0.0 t1.softonicads.com
 0.0.0.0 t1.stormiq.com
-0.0.0.0 t1.tentaculos.net
 0.0.0.0 t1.trackalyzer.com
 0.0.0.0 t13.intelliad.de
 0.0.0.0 t2.softonicads.com
@@ -9938,7 +9870,6 @@
 0.0.0.0 tags.expo9.exponential.com
 0.0.0.0 tags.extole.com
 0.0.0.0 tags.h12-media.com
-0.0.0.0 tags.hypeads.org
 0.0.0.0 tags.mathtag.com
 0.0.0.0 tags.mdotlabs.com
 0.0.0.0 tags.mediaforge.com
@@ -10250,7 +10181,6 @@
 0.0.0.0 tr.webantenna.info
 0.0.0.0 tr1.frosmo.com
 0.0.0.0 tr1.myroitracking.com
-0.0.0.0 tracer.perezhilton.com
 0.0.0.0 track.absoluteclickscom.com
 0.0.0.0 track.acclaimnetwork.com
 0.0.0.0 track.ad4mmo.com
@@ -10533,7 +10463,6 @@
 0.0.0.0 txt.adv.vz.ru
 0.0.0.0 u-ads.adap.tv
 0.0.0.0 u.extreme-dm.com
-0.0.0.0 u.heatmap.it
 0.0.0.0 u.openx.net
 0.0.0.0 u0.extreme-dm.com
 0.0.0.0 u1.extreme-dm.com
@@ -10555,7 +10484,6 @@
 0.0.0.0 uberads.net
 0.0.0.0 ubergizmo.us.intellitxt.com
 0.0.0.0 ucounter.ucoz.net
-0.0.0.0 udc.msn.com
 0.0.0.0 udm.ia6.scorecardresearch.com
 0.0.0.0 udm.ia7.scorecardresearch.com
 0.0.0.0 udm.ia8.scorecardresearch.com
@@ -10691,7 +10619,6 @@
 0.0.0.0 vault9.us.intellitxt.com
 0.0.0.0 vbadbg.hit.gemius.pl
 0.0.0.0 vbbg.adocean.pl
-0.0.0.0 vclicks.net
 0.0.0.0 vcomdeepdiscount.112.2o7.net
 0.0.0.0 vcommerce.112.2o7.net
 0.0.0.0 vcontent.e-messenger.net
@@ -11234,7 +11161,6 @@
 0.0.0.0 www.arcadebanners.com
 0.0.0.0 www.ariboo.com
 0.0.0.0 www.artcomix.com
-0.0.0.0 www.assoc-amazon.com
 0.0.0.0 www.atdmt.com
 0.0.0.0 www.atlasdmt.com
 0.0.0.0 www.atomictime.net
@@ -11473,7 +11399,6 @@
 0.0.0.0 www.free-hardcoresex.org
 0.0.0.0 www.free-toplisten.at
 0.0.0.0 www.freecamdollars.com
-0.0.0.0 www.freecounter.it
 0.0.0.0 www.freedownloadzone.com
 0.0.0.0 www.freeezinebucks.com
 0.0.0.0 www.freehitwebcounters.com
@@ -11771,7 +11696,6 @@
 0.0.0.0 www.projectwonderful.com
 0.0.0.0 www.promo.com.au
 0.0.0.0 www.promobenef.com
-0.0.0.0 www.promotion-campaigns.com
 0.0.0.0 www.ps7894.com
 0.0.0.0 www.pstats.com
 0.0.0.0 www.pubdirecte.com
@@ -11803,7 +11727,6 @@
 0.0.0.0 www.refer.ru
 0.0.0.0 www.registrydefender.com
 0.0.0.0 www.registryfix.com
-0.0.0.0 www.registrysweeper.com
 0.0.0.0 www.relevantknowledge.com
 0.0.0.0 www.relmaxtop.com
 0.0.0.0 www.res-x.com
@@ -11819,7 +11742,6 @@
 0.0.0.0 www.ruclicks.com
 0.0.0.0 www.s2d6.com
 0.0.0.0 www.sacredphoenix.com
-0.0.0.0 www.scambiobanner.tv
 0.0.0.0 www.searchacross.com
 0.0.0.0 www.searchapps.me
 0.0.0.0 www.searchmachine.com
@@ -12323,8 +12245,8 @@
 
 # Hosts - winhelp2002.mvps.org
 # Source - http://winhelp2002.mvps.org/hosts.txt
-# Generated - 18.08.2018
+# Generated - 24.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 12322
+# Total Domains: 12244
 # License: MIT
 

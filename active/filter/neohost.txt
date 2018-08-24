@@ -1317,7 +1317,6 @@
 0.0.0.0 img0.egou.com
 0.0.0.0 img01.taotaosou.cn
 0.0.0.0 img1.126.net
-0.0.0.0 img1.gtimg.com
 0.0.0.0 img1.km.com
 0.0.0.0 img1.pcfg.cache.wps.cn
 0.0.0.0 img1.sj.qq.com
@@ -1952,7 +1951,6 @@
 0.0.0.0 r2.adwo.com
 0.0.0.0 r3.adwo.com
 0.0.0.0 r8nu86wg.me
-0.0.0.0 ra.gtimg.com
 0.0.0.0 rabbit.meitustat.com
 0.0.0.0 rabbit.mtadvert.com
 0.0.0.0 rabbit.tg.meitu.com
@@ -2227,7 +2225,6 @@
 0.0.0.0 sammax.adsame.com
 0.0.0.0 sammix.adsame.com
 0.0.0.0 samrt.adsame.com
-0.0.0.0 sas816.ujikdd041o.cn
 0.0.0.0 sax.sina.com.cn
 0.0.0.0 sax1.sina.com.cn
 0.0.0.0 sax2.sina.com.cn
@@ -2627,7 +2624,6 @@
 0.0.0.0 uc9.ucweb.com
 0.0.0.0 ucus.ucweb.com
 0.0.0.0 udash.umengcloud.com
-0.0.0.0 udc.msn.com
 0.0.0.0 udpolimenew.baidu.com
 0.0.0.0 uebawtz7.me
 0.0.0.0 uedas.qdmm.com
@@ -2742,7 +2738,6 @@
 0.0.0.0 w.gdown.baidu.com
 0.0.0.0 w.l.qq.com
 0.0.0.0 w.m.taobao.com
-0.0.0.0 w.wooboo.com.cn
 0.0.0.0 w.x.baidu.com
 0.0.0.0 w.xiaopiaoyou.com
 0.0.0.0 w.yinyuehu.cn
@@ -3111,8 +3106,8 @@
 
 # Hosts - neohost
 # Source - https://hosts.nfz.moe/full/hosts
-# Generated - 18.08.2018
+# Generated - 24.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 3110
+# Total Domains: 3105
 # License: MIT
 

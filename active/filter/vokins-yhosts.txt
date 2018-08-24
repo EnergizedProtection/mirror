@@ -111,6 +111,7 @@
 0.0.0.0 66.8ox.cn
 0.0.0.0 6a4cc.leygv.com
 0.0.0.0 6a4cc.lutrw.com
+0.0.0.0 6a4cc.luvbq.com
 0.0.0.0 6vhao.kkcaicai.com
 0.0.0.0 7208853.hitslink.com
 0.0.0.0 749808.com
@@ -579,7 +580,6 @@
 0.0.0.0 ads.wasu.tv
 0.0.0.0 ads.web.aol.com
 0.0.0.0 ads.wepiao.com
-0.0.0.0 ads.xprofiles.com
 0.0.0.0 ads.yahoo.com
 0.0.0.0 ads.yam.com
 0.0.0.0 ads1.lfengmobile.com
@@ -1001,6 +1001,7 @@
 0.0.0.0 b.code.tanwanyx.com
 0.0.0.0 b.epinv.com
 0.0.0.0 b.flyreading.cn
+0.0.0.0 b.kuangtuiguoo18888.com
 0.0.0.0 b.qchannel03.cn
 0.0.0.0 b.rifub.com
 0.0.0.0 b.scorecardresearch.com
@@ -1925,6 +1926,7 @@
 0.0.0.0 dolphin.ftimg.net
 0.0.0.0 dolphin1.adsame.com
 0.0.0.0 dolphin4.ftimg.net
+0.0.0.0 domed.shenbimall.com
 0.0.0.0 doubleclick.ctfile.com
 0.0.0.0 dougou88.com
 0.0.0.0 down.360.cn
@@ -2077,7 +2079,10 @@
 0.0.0.0 e.harbinbaojia.net
 0.0.0.0 e.hellomingpian.com
 0.0.0.0 e.hgrqp.com
+0.0.0.0 e.hissq.com
 0.0.0.0 e.hk7799.net
+0.0.0.0 e.hkmqp.com
+0.0.0.0 e.hogyp.com
 0.0.0.0 e.htper.com
 0.0.0.0 e.huaas.com
 0.0.0.0 e.hunpp.com
@@ -2085,6 +2090,7 @@
 0.0.0.0 e.hyzui.com
 0.0.0.0 e.icyrd.com
 0.0.0.0 e.iierq.com
+0.0.0.0 e.iruad.com
 0.0.0.0 e.ishowms.com
 0.0.0.0 e.jgkto.com
 0.0.0.0 e.jiaas.com
@@ -3297,6 +3303,7 @@
 0.0.0.0 m.96mob.com
 0.0.0.0 m.abfirst.cn
 0.0.0.0 m.ad.zhangyue.com
+0.0.0.0 m.adaog.com
 0.0.0.0 m.addthis.com
 0.0.0.0 m.addthisedge.com
 0.0.0.0 m.admedia.com
@@ -3345,6 +3352,7 @@
 0.0.0.0 m.daishuxy.com
 0.0.0.0 m.dante2007.com
 0.0.0.0 m.data.mob.com
+0.0.0.0 m.dgaoz.com
 0.0.0.0 m.dilcn.net
 0.0.0.0 m.diogv.com
 0.0.0.0 m.dnfeu.com
@@ -3354,6 +3362,7 @@
 0.0.0.0 m.dxectas1.cn
 0.0.0.0 m.dxmci.com
 0.0.0.0 m.edo5.com
+0.0.0.0 m.efeiy.com
 0.0.0.0 m.ehxyz.com
 0.0.0.0 m.emgwq.com
 0.0.0.0 m.ennmt.com
@@ -3385,14 +3394,17 @@
 0.0.0.0 m.guanren9.com
 0.0.0.0 m.guifei99.com
 0.0.0.0 m.gujinyue.com
+0.0.0.0 m.gwdqp.com
 0.0.0.0 m.gxkyl.com
 0.0.0.0 m.haowj.com.cn
 0.0.0.0 m.harbinbaojia.net
 0.0.0.0 m.hellomingpian.com
 0.0.0.0 m.heygugu.com
 0.0.0.0 m.hhllyt.com
+0.0.0.0 m.hissq.com
 0.0.0.0 m.hk7799.net
 0.0.0.0 m.hkmqp.com
+0.0.0.0 m.hogyp.com
 0.0.0.0 m.hot-mob.com
 0.0.0.0 m.hpfjy.com
 0.0.0.0 m.hpzyl.com
@@ -3404,6 +3416,7 @@
 0.0.0.0 m.ienkdaged.cn
 0.0.0.0 m.ienkdago.cn
 0.0.0.0 m.irs01.com
+0.0.0.0 m.iruad.com
 0.0.0.0 m.ishowms.com
 0.0.0.0 m.jcwwxn.com
 0.0.0.0 m.jgkto.com
@@ -3833,7 +3846,6 @@
 0.0.0.0 news-l.play.aiseet.atianqi.com
 0.0.0.0 news-l.play.cp81.ott.cibntv.net
 0.0.0.0 news-l.play.ott.video.qq.com
-0.0.0.0 news-log.51y5.net
 0.0.0.0 news.51y5.net
 0.0.0.0 news.58.com
 0.0.0.0 news.cxxtv.com
@@ -3869,7 +3881,6 @@
 0.0.0.0 nhz.adwo.com
 0.0.0.0 ninemsn.imrworldwide.com
 0.0.0.0 niwd.zhybw88.com
-0.0.0.0 njs.imagicskin.com
 0.0.0.0 njs.myyage.com
 0.0.0.0 njs.reliancevalve.com
 0.0.0.0 nlog.baidu.com
@@ -3888,7 +3899,6 @@
 0.0.0.0 nw5.jkjjkj.top
 0.0.0.0 nwejs.alcryp.com
 0.0.0.0 nym2-tr.adnxs.com
-0.0.0.0 o.08jm.cn
 0.0.0.0 o.if.qidian.com
 0.0.0.0 o.minisplat.cn
 0.0.0.0 oa-panther.data.aliyun.com
@@ -4077,9 +4087,7 @@
 0.0.0.0 pic.ea3w.com
 0.0.0.0 pic.eduancm.com
 0.0.0.0 pic.fastapi.net
-0.0.0.0 pic.fengniao.com
 0.0.0.0 pic.haowj.com.cn
-0.0.0.0 pic.hkivs.cn
 0.0.0.0 pic.jd-bbs.com
 0.0.0.0 pic.jdbbs.com
 0.0.0.0 pic.jdunion.com
@@ -4286,7 +4294,6 @@
 0.0.0.0 r01.3dwwwgame.com
 0.0.0.0 r2.adwo.com
 0.0.0.0 r3.adwo.com
-0.0.0.0 ra.gtimg.com
 0.0.0.0 rabbit.meitustat.com
 0.0.0.0 rabbit.mtadvert.com
 0.0.0.0 rabbit.tg.meitu.com
@@ -4354,6 +4361,7 @@
 0.0.0.0 return.adsame.com
 0.0.0.0 rfir2.50w.me
 0.0.0.0 rh.code.jjyx.com
+0.0.0.0 rh.greenbetterkids.com
 0.0.0.0 rich.kuwo.cn
 0.0.0.0 rigel.baidustatic.com
 0.0.0.0 river.zhidao.baidu.com
@@ -4375,7 +4383,6 @@
 0.0.0.0 rp.gwallet.com
 0.0.0.0 rplog.baidu.com
 0.0.0.0 rpnews.itaoxiaoshuo.com
-0.0.0.0 rprsv.richpush.cn
 0.0.0.0 rr.knet.cn
 0.0.0.0 rrr.youle55.com
 0.0.0.0 rs.haohaowan8.com
@@ -4450,7 +4457,6 @@
 0.0.0.0 s.khgj.cn
 0.0.0.0 s.l8l9.com
 0.0.0.0 s.lianmeng.360.cn
-0.0.0.0 s.m.csefaazc.com.cn
 0.0.0.0 s.maipubao.cn
 0.0.0.0 s.meimeidaren.com
 0.0.0.0 s.mgwcn.com
@@ -4502,7 +4508,6 @@
 0.0.0.0 s1.stat.lianmeng.360.cn
 0.0.0.0 s1.tansuotv.com
 0.0.0.0 s10.cnzz.com
-0.0.0.0 s10.histats.com
 0.0.0.0 s100.cnzz.com
 0.0.0.0 s101.cnzz.com
 0.0.0.0 s102.cnzz.com
@@ -5449,7 +5454,6 @@
 0.0.0.0 ucus.ucweb.com
 0.0.0.0 udash.umengcloud.com
 0.0.0.0 udata.mixmarket.biz
-0.0.0.0 udc.msn.com
 0.0.0.0 udm.scorecardresearch.com
 0.0.0.0 ue.ueadlian.com
 0.0.0.0 ue.yeyoucdn.com
@@ -5473,7 +5477,6 @@
 0.0.0.0 un.52rkl.cn
 0.0.0.0 un.soarfi.cn
 0.0.0.0 un.winasdaq.com
-0.0.0.0 un.xlcun.com
 0.0.0.0 un2.banmamedia.com
 0.0.0.0 unconf.mobad.ijinshan.com
 0.0.0.0 unilog.wostore.cn
@@ -5669,7 +5672,6 @@
 0.0.0.0 w.sharethis.com
 0.0.0.0 w.waacorp.com
 0.0.0.0 w.werpig.com
-0.0.0.0 w.wooboo.com.cn
 0.0.0.0 w.x.baidu.com
 0.0.0.0 w.xiaopiaoyou.com
 0.0.0.0 w.yamaidei.cn
@@ -6040,6 +6042,7 @@
 0.0.0.0 www.jndczg.com
 0.0.0.0 www.jpush.cn
 0.0.0.0 www.jrdkc.com
+0.0.0.0 www.jrhaigou.com
 0.0.0.0 www.juren0.com
 0.0.0.0 www.jutou5.com
 0.0.0.0 www.juzi.cn
@@ -6207,7 +6210,6 @@
 0.0.0.0 www.ydqzkj.com
 0.0.0.0 www.yengo.com
 0.0.0.0 www.yezilm.com
-0.0.0.0 www.yhwjd.com
 0.0.0.0 www.yijifen.com
 0.0.0.0 www.yiluup.com
 0.0.0.0 www.yinooo.com
@@ -6223,7 +6225,6 @@
 0.0.0.0 www.yqjxzw.com
 0.0.0.0 www.ytdksb.com
 0.0.0.0 www.yueyelive.com
-0.0.0.0 www.yunxuu.com
 0.0.0.0 www.yzaosite.com
 0.0.0.0 www.zamplus.com
 0.0.0.0 www.zhidian3g.cn
@@ -6255,7 +6256,6 @@
 0.0.0.0 wxtz.houmags.com
 0.0.0.0 wxwm1.ikuailian.com
 0.0.0.0 wxwm2.ikuailian.com
-0.0.0.0 wy.ce22d.cn
 0.0.0.0 wyt.wwetjy.com
 0.0.0.0 wz.37wan.com
 0.0.0.0 x.120ask.com
@@ -6317,7 +6317,6 @@
 0.0.0.0 xz.ercfh.com
 0.0.0.0 xz.tongji.shouji56.com
 0.0.0.0 xzq.greenxf.net
-0.0.0.0 y.3957957.com
 0.0.0.0 y.5125129.com
 0.0.0.0 y.da.hunantv.com
 0.0.0.0 y.da.mgtv.com
@@ -6424,6 +6423,7 @@
 0.0.0.0 zs7.cnzz.com
 0.0.0.0 zs8.cnzz.com
 0.0.0.0 zs9.cnzz.com
+0.0.0.0 zst.jzntxs.com
 0.0.0.0 zt.adsage.com
 0.0.0.0 ztd.szkdst.com
 0.0.0.0 ztrpm.lu.sogou.com
@@ -6443,13 +6443,11 @@
 0.0.0.0 zzpush.58.com
 0.0.0.0 zzy.mipujia.com
 0.0.0.0 zzy1.mipujia.com
-0.0.0.0 zzz7.52896368.com
-0.0.0.0 zzzzz4.52896368.com
 
 # Hosts - vokins-yhosts
 # Source - https://raw.githubusercontent.com/vokins/yhosts/master/hosts
-# Generated - 18.08.2018
+# Generated - 24.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 6447
+# Total Domains: 6445
 # License: MIT
 

@@ -845,7 +845,7 @@
 
 # Hosts - eth-phishing-detect
 # Source - https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/master/src/hosts.txt
-# Generated - 18.08.2018
+# Generated - 24.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 844
 # License: MIT

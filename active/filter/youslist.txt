@@ -38,6 +38,7 @@
 0.0.0.0 ad2.thisisgame.com
 0.0.0.0 adbiz.co.kr
 0.0.0.0 adbiz2.co.kr
+0.0.0.0 adbiz3.co.kr
 0.0.0.0 adclickservice.com
 0.0.0.0 ade.realclick.co.kr
 0.0.0.0 adex.ednplus.com
@@ -99,7 +100,6 @@
 0.0.0.0 nw.realssp.co.kr
 0.0.0.0 p.lumieyes.com
 0.0.0.0 plugin.2beon.co.kr
-0.0.0.0 prism.pandora.tv
 0.0.0.0 prwidgets.com
 0.0.0.0 pub.adpnut.com
 0.0.0.0 pubads.g.doubleclick.net
@@ -113,7 +113,7 @@
 
 # Hosts - youslist
 # Source - https://raw.githubusercontent.com/yous/YousList/master/hosts.txt
-# Generated - 18.08.2018
+# Generated - 24.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 112
 # License: MIT

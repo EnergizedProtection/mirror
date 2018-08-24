@@ -181,7 +181,7 @@
 
 # Hosts - adaway.org
 # Source - https://adaway.org/hosts.txt
-# Generated - 18.08.2018
+# Generated - 24.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 180
 # License: MIT

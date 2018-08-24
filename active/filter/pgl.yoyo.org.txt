@@ -17,7 +17,6 @@
 0.0.0.0 4affiliate.net
 0.0.0.0 4d5.net
 0.0.0.0 50websads.com
-0.0.0.0 518ad.com
 0.0.0.0 51yes.com
 0.0.0.0 600z.com
 0.0.0.0 777partner.com
@@ -890,7 +889,6 @@
 0.0.0.0 annonser.dagbladet.no
 0.0.0.0 anxiousapples.com
 0.0.0.0 api.intensifier.de
-0.0.0.0 app-analytics.snapchat.com
 0.0.0.0 app.pendo.io
 0.0.0.0 appsflyer.com
 0.0.0.0 aps.hearstnp.com
@@ -1120,6 +1118,7 @@
 0.0.0.0 chameleon.ad
 0.0.0.0 channel1vids.com
 0.0.0.0 channelintelligence.com
+0.0.0.0 chardwardse.club
 0.0.0.0 chart.dk
 0.0.0.0 chartbeat.com
 0.0.0.0 chartbeat.net
@@ -2040,7 +2039,6 @@
 0.0.0.0 ranking-id.de
 0.0.0.0 ranking-links.de
 0.0.0.0 ranking-liste.de
-0.0.0.0 ranking-street.de
 0.0.0.0 rankingchart.de
 0.0.0.0 rankingscout.com
 0.0.0.0 rankyou.com
@@ -2075,6 +2073,7 @@
 0.0.0.0 relevanz10.de
 0.0.0.0 relmaxtop.com
 0.0.0.0 remarketingpixel.com
+0.0.0.0 remistrainew.club
 0.0.0.0 remotead.cnet.com
 0.0.0.0 remox.com
 0.0.0.0 republika.onet.pl
@@ -2379,7 +2378,6 @@
 0.0.0.0 traffic.focuusing.com
 0.0.0.0 trafficadept.com
 0.0.0.0 trafficfactory.biz
-0.0.0.0 trafficholder.com
 0.0.0.0 traffichunt.com
 0.0.0.0 trafficjunky.net
 0.0.0.0 trafficleader.com
@@ -2575,8 +2573,8 @@
 
 # Hosts - pgl.yoyo.org
 # Source - https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&mimetype=plaintext
-# Generated - 18.08.2018
+# Generated - 24.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 2574
+# Total Domains: 2572
 # License: MIT
 

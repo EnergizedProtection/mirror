@@ -137,7 +137,6 @@
 0.0.0.0 adsrvr.org
 0.0.0.0 adsx.greystripe.com
 0.0.0.0 adsymptotic.com
-0.0.0.0 adtaily.pl
 0.0.0.0 adtech.de
 0.0.0.0 adtheorent.com
 0.0.0.0 adtilt.com
@@ -451,7 +450,6 @@
 0.0.0.0 lduhtrp.net
 0.0.0.0 leadboltads.net
 0.0.0.0 leadzu.com
-0.0.0.0 leanplum.com
 0.0.0.0 lfstmedia.com
 0.0.0.0 lgse.com
 0.0.0.0 liftdna.com
@@ -463,9 +461,7 @@
 0.0.0.0 lxqcgj.com
 0.0.0.0 m-shes.ru
 0.0.0.0 m.mixadvert.com
-0.0.0.0 m.mrsasharingspace.com
 0.0.0.0 m.yap.yahoo.com
-0.0.0.0 ma-code.ru
 0.0.0.0 mad.mobisky.pl
 0.0.0.0 madadsmedia.com
 0.0.0.0 madnet.ru
@@ -540,7 +536,6 @@
 0.0.0.0 mxvp-feature-toggle-prod-1.zenmxapps.com
 0.0.0.0 mydas.mobi
 0.0.0.0 myinfotopia.com
-0.0.0.0 mythings.com
 0.0.0.0 n152adserv.com
 0.0.0.0 n4403ad.doubleclick.net
 0.0.0.0 nanigans.com
@@ -634,7 +629,6 @@
 0.0.0.0 rtbpop.com
 0.0.0.0 rubiconproject.com
 0.0.0.0 s.innovid.com
-0.0.0.0 sas816.ujikdd041o.cn
 0.0.0.0 saymedia.com
 0.0.0.0 sc.smardroid.com
 0.0.0.0 scorecardresearch.com
@@ -794,8 +788,8 @@
 
 # Hosts - adguard-mobile-ads
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-mobile-ads.txt
-# Generated - 18.08.2018
+# Generated - 24.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 793
+# Total Domains: 787
 # License: MIT
 

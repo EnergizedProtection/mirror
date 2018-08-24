@@ -17679,7 +17679,6 @@
 0.0.0.0 tpornstars.com
 0.0.0.0 tpowis.net
 0.0.0.0 traffic-hits.com
-0.0.0.0 trafficholder.com
 0.0.0.0 trafficshop.com
 0.0.0.0 training-your-property.tumblr.com
 0.0.0.0 tram-pararam.com
@@ -20148,8 +20147,8 @@
 
 # Hosts - porn-top1million
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/porn-top1m.txt
-# Generated - 18.08.2018
+# Generated - 24.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 20147
+# Total Domains: 20146
 # License: MIT
 

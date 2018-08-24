@@ -100,7 +100,6 @@
 0.0.0.0 manager.koocash.fr
 0.0.0.0 map.pop6.com
 0.0.0.0 media.eurolive.com
-0.0.0.0 media.match.com
 0.0.0.0 media.mykocam.com
 0.0.0.0 media.mykodial.com
 0.0.0.0 media.pussycash.com
@@ -151,8 +150,8 @@
 
 # Hosts - easylist-adult-thirdparty
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easylist-adult-thirdparty.txt
-# Generated - 18.08.2018
+# Generated - 24.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 150
+# Total Domains: 149
 # License: MIT
 

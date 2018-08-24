@@ -176,7 +176,6 @@
 0.0.0.0 awpcase.com
 0.0.0.0 azcodegenerator.com
 0.0.0.0 azhacks.com
-0.0.0.0 babyapp.us
 0.0.0.0 babyxox.com
 0.0.0.0 bacani.info
 0.0.0.0 backupthefile.com
@@ -1455,7 +1454,6 @@
 0.0.0.0 freeminecraft.me
 0.0.0.0 freeminecraft.social-cheats.com
 0.0.0.0 freeminecraft.us
-0.0.0.0 freeminecraftaccountsz.com
 0.0.0.0 freeminecraftcodes.org
 0.0.0.0 freeminecraftcodesgen.com
 0.0.0.0 freeminecraftforever.com
@@ -1510,7 +1508,6 @@
 0.0.0.0 freeskypecredits.cleanfile.org
 0.0.0.0 freeskypecreditvoucher.com
 0.0.0.0 freesocialfollowers.net
-0.0.0.0 freesoftgenerators.com
 0.0.0.0 freesoftware4all.com
 0.0.0.0 freespingratis.com
 0.0.0.0 freespotifypremiumcodes.com
@@ -1652,7 +1649,6 @@
 0.0.0.0 gamesarea24.com
 0.0.0.0 gamesbase24.com
 0.0.0.0 gamescheat24.com
-0.0.0.0 gamescheatparadise.com
 0.0.0.0 gamescrack.fr
 0.0.0.0 gamescrack.org
 0.0.0.0 gamesemulated.com
@@ -1960,7 +1956,6 @@
 0.0.0.0 hackingfacebook.net
 0.0.0.0 hackingfree.com
 0.0.0.0 hackingnation.org
-0.0.0.0 hackingtwitter.com
 0.0.0.0 hackinstagram.net
 0.0.0.0 hackinto.net
 0.0.0.0 hackiosgames.com
@@ -1969,7 +1964,6 @@
 0.0.0.0 hackleagueoflegends.org
 0.0.0.0 hacklizard.com
 0.0.0.0 hacklot.com
-0.0.0.0 hackmeout.net
 0.0.0.0 hackmobilegames.com
 0.0.0.0 hackmyapps.com
 0.0.0.0 hackncheatshouse.win
@@ -2058,7 +2052,6 @@
 0.0.0.0 hacktooldownload.com
 0.0.0.0 hacktools2013.com
 0.0.0.0 hacktoolsforeveryone.info
-0.0.0.0 hacktubes.com
 0.0.0.0 hackwifipass.com
 0.0.0.0 hackworld.biz
 0.0.0.0 hackxgames.com
@@ -3443,7 +3436,6 @@
 0.0.0.0 timeswap.pro
 0.0.0.0 tintubright.com
 0.0.0.0 tinyfileshost.com
-0.0.0.0 titanfall-beta.com
 0.0.0.0 titanfalldownload.com
 0.0.0.0 titanium-hack.com
 0.0.0.0 titaniumhacks.com
@@ -3491,7 +3483,6 @@
 0.0.0.0 tradebot.site
 0.0.0.0 tradebot.top
 0.0.0.0 tradefastskin.com
-0.0.0.0 tradego.pro
 0.0.0.0 traderockets.com
 0.0.0.0 trades-arena.com
 0.0.0.0 tradingcsgo.com
@@ -3856,8 +3847,8 @@
 
 # Hosts - spam404.com-main-blacklist
 # Source - https://raw.githubusercontent.com/Dawsey21/Lists/master/main-blacklist.txt
-# Generated - 18.08.2018
+# Generated - 24.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 3855
+# Total Domains: 3846
 # License: MIT
 

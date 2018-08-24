@@ -163,6 +163,7 @@
 0.0.0.0 ajonwaburnaboy.site88.net
 0.0.0.0 ak.meelk.com.ua
 0.0.0.0 akamaifilms.com
+0.0.0.0 akarcengal.com
 0.0.0.0 akbarworld.com
 0.0.0.0 akdenizklima.com.tr
 0.0.0.0 akdenizparkbahce.com
@@ -1018,7 +1019,6 @@
 0.0.0.0 doliv777.com
 0.0.0.0 dollarboot.com
 0.0.0.0 domainsender.info
-0.0.0.0 domainsvilla.ml
 0.0.0.0 domaljevac.net
 0.0.0.0 dominicana1.com
 0.0.0.0 dominique.lucquin.free.fr
@@ -1237,7 +1237,6 @@
 0.0.0.0 eyecatchersoptique.com
 0.0.0.0 eyota.com.sg
 0.0.0.0 eze-bizz.info
-0.0.0.0 ezeoma.agrillcs.com
 0.0.0.0 ezratyu.gdn
 0.0.0.0 f0182637.xsph.ru
 0.0.0.0 f100h.com
@@ -1748,6 +1747,7 @@
 0.0.0.0 iln.club
 0.0.0.0 iloa.kozow.com
 0.0.0.0 ilovemountains.netne.net
+0.0.0.0 imagic-box.com
 0.0.0.0 imaginecomputing.info
 0.0.0.0 imanprojects.com
 0.0.0.0 imbaxqxq.org
@@ -1977,7 +1977,6 @@
 0.0.0.0 kenkenlimted.top
 0.0.0.0 kenyabixa.com
 0.0.0.0 kenyawebonline.co.ke
-0.0.0.0 ketinis.info
 0.0.0.0 keyar12f.beget.tech
 0.0.0.0 keybase.zz.mu
 0.0.0.0 keybogdan.hi2.ro
@@ -1988,6 +1987,7 @@
 0.0.0.0 khstrikergames.top
 0.0.0.0 kidzrox.com
 0.0.0.0 kiiooni.com
+0.0.0.0 kikidoyoulabme222.ru
 0.0.0.0 kindomstar.com
 0.0.0.0 kinesk.com
 0.0.0.0 king.thawaslobem.com
@@ -2451,6 +2451,7 @@
 0.0.0.0 motorambari.com
 0.0.0.0 motorfan-com.tk
 0.0.0.0 mountaintopbuilders.com
+0.0.0.0 mountsoftt.ru
 0.0.0.0 mouraplas.com
 0.0.0.0 mov4wrd.com
 0.0.0.0 moviewebtv.com
@@ -3487,6 +3488,7 @@
 0.0.0.0 supersaiyan.ru
 0.0.0.0 superseguro.com
 0.0.0.0 supleather.biz
+0.0.0.0 supmine.pro
 0.0.0.0 supremedmitry.zzz.com.ua
 0.0.0.0 supreonlin.temp.swtest.ru
 0.0.0.0 sureserver.xyz
@@ -4883,8 +4885,8 @@
 
 # Hosts - cybercrime
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/cybercrime.txt
-# Generated - 18.08.2018
+# Generated - 24.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 4882
+# Total Domains: 4884
 # License: MIT
 

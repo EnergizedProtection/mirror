@@ -141,7 +141,6 @@
 0.0.0.0 afftrack.com
 0.0.0.0 afx.tagcdn.com
 0.0.0.0 aimes.com
-0.0.0.0 aintdoinshit.com
 0.0.0.0 aircrack-ng.softonic.fr
 0.0.0.0 aitligold.tripod.com
 0.0.0.0 aitsngnuu.angelcities.com
@@ -1073,7 +1072,6 @@
 0.0.0.0 nmapquest.com
 0.0.0.0 noredirecto.redirectme.net
 0.0.0.0 notrecommended.co.uk
-0.0.0.0 nourteenthp.angelcities.com
 0.0.0.0 nryb.com
 0.0.0.0 ns1.ntkrnlpa.info
 0.0.0.0 ns1.the-sinner.net
@@ -1089,7 +1087,6 @@
 0.0.0.0 offlinehbpl.hbpl.co.uk
 0.0.0.0 ohiomm.com
 0.0.0.0 ojolink.fr
-0.0.0.0 ojtobu.angelcities.com
 0.0.0.0 oldgames.zp.ua
 0.0.0.0 omnicleaningservices.com
 0.0.0.0 onadstracker.com
@@ -1101,7 +1098,6 @@
 0.0.0.0 onwardclick.com
 0.0.0.0 onwey.com
 0.0.0.0 oofun.com
-0.0.0.0 oovqsvi.angelcities.com
 0.0.0.0 open.oneplus.net
 0.0.0.0 opendownloadmanager.com
 0.0.0.0 opensoftwareupdate.com
@@ -1159,7 +1155,6 @@
 0.0.0.0 petrenko.biz
 0.0.0.0 petsmovies.com
 0.0.0.0 pfaltzgraf.com
-0.0.0.0 pfcuay.o-f.com
 0.0.0.0 pgalvaoteles.pt
 0.0.0.0 php4you.biz
 0.0.0.0 pillsmoney.com
@@ -1231,9 +1226,7 @@
 0.0.0.0 px24.com
 0.0.0.0 pxlgnpgecom-a.akamaihd.net
 0.0.0.0 q.zeroredirect.com
-0.0.0.0 qacupuzute.angelcities.com
 0.0.0.0 qikdownloads.com
-0.0.0.0 qqewfjdp.angelcities.com
 0.0.0.0 qrcdownload.ibcustomerzone.com
 0.0.0.0 quad-cleaner.com
 0.0.0.0 quad-registry-cleaner.softonic.fr
@@ -1498,8 +1491,6 @@
 0.0.0.0 stephens-laughlin.com
 0.0.0.0 stignita.zapto.org
 0.0.0.0 stop-sign.com
-0.0.0.0 strangeduckfilms.com
-0.0.0.0 stressx.org
 0.0.0.0 stripteas.com
 0.0.0.0 sttvisa.com
 0.0.0.0 studenti.unipa.it
@@ -1713,7 +1704,6 @@
 0.0.0.0 valuehost.co.uk
 0.0.0.0 vanguardair.com
 0.0.0.0 vasanthkumar.com
-0.0.0.0 vclicks.net
 0.0.0.0 vdhu.com
 0.0.0.0 venturead.com
 0.0.0.0 verifiedbyverisigned.com
@@ -1771,7 +1761,6 @@
 0.0.0.0 winlock.usa.cc
 0.0.0.0 winscholarship.com
 0.0.0.0 wkmg.co.kr
-0.0.0.0 wmediaplayernow.com
 0.0.0.0 wmmax.com
 0.0.0.0 wmserver.net
 0.0.0.0 wnt-40.seeweb.it
@@ -1841,7 +1830,6 @@
 0.0.0.0 www.andr.net
 0.0.0.0 www.angelinajoliepics.com
 0.0.0.0 www.angelsinuniform.com
-0.0.0.0 www.anglewinks.com
 0.0.0.0 www.angolotesti.it
 0.0.0.0 www.animal-drawings.com
 0.0.0.0 www.animal36.com
@@ -1863,7 +1851,6 @@
 0.0.0.0 www.assculturaleincontri.it
 0.0.0.0 www.atinna.com
 0.0.0.0 www.atmovs.com
-0.0.0.0 www.atofilms.com
 0.0.0.0 www.auctiondirectory.org
 0.0.0.0 www.audia6.com
 0.0.0.0 www.auto-overview.com
@@ -1906,14 +1893,12 @@
 0.0.0.0 www.bonzbuddy.com
 0.0.0.0 www.bonzibuddi.com
 0.0.0.0 www.bonzybuddy.com
-0.0.0.0 www.bormis.com
 0.0.0.0 www.bracalemusic.com
 0.0.0.0 www.brainfox.com
 0.0.0.0 www.brevardmusic.com
 0.0.0.0 www.bride1.com
 0.0.0.0 www.browseraccelerator.com
 0.0.0.0 www.buffalogoesout.com
-0.0.0.0 www.bugsurf.com
 0.0.0.0 www.bulgariabg.com
 0.0.0.0 www.butterfly-media.co.uk
 0.0.0.0 www.buyingedge.com
@@ -1926,7 +1911,6 @@
 0.0.0.0 www.calworthingtonford.com
 0.0.0.0 www.candidography.com
 0.0.0.0 www.catgallery.com
-0.0.0.0 www.catz4.com
 0.0.0.0 www.caue971.org
 0.0.0.0 www.cbtopsites.com
 0.0.0.0 www.ccbilleu.com
@@ -2085,15 +2069,12 @@
 0.0.0.0 www.fastdownload10.com
 0.0.0.0 www.fastnclick.com
 0.0.0.0 www.favicon.com
-0.0.0.0 www.federatedstores.com
 0.0.0.0 www.federicksofhollywood.com
 0.0.0.0 www.feiyang163.com
 0.0.0.0 www.fiduciariobajio.com.mx
 0.0.0.0 www.filefortune.com
-0.0.0.0 www.firstconsumers.com
 0.0.0.0 www.fixcleaner.com
 0.0.0.0 www.flashcasino.com
-0.0.0.0 www.flashdem.fr
 0.0.0.0 www.flowtec.com.br
 0.0.0.0 www.fmcurling.org
 0.0.0.0 www.foreclousure.com
@@ -2181,9 +2162,7 @@
 0.0.0.0 www.hidemyass.com
 0.0.0.0 www.historykill.com
 0.0.0.0 www.hlserve.com
-0.0.0.0 www.hnskorea.co.kr
 0.0.0.0 www.hoerbird.net
-0.0.0.0 www.holdhelptime.com
 0.0.0.0 www.holika.com
 0.0.0.0 www.homedepoy.com
 0.0.0.0 www.homrdepot.com
@@ -2201,7 +2180,6 @@
 0.0.0.0 www.ieginc.com
 0.0.0.0 www.ifastnet.com
 0.0.0.0 www.igame4free.com
-0.0.0.0 www.imagesmovies.com
 0.0.0.0 www.info.com
 0.0.0.0 www.infra.by
 0.0.0.0 www.innatek.com
@@ -2224,7 +2202,6 @@
 0.0.0.0 www.jejuskypension.com
 0.0.0.0 www.jmp2click.com
 0.0.0.0 www.joecartonn.com
-0.0.0.0 www.joetoons.com
 0.0.0.0 www.joincreditexpert.co.uk
 0.0.0.0 www.joinourwebsite.com
 0.0.0.0 www.josip-stadler.org
@@ -2466,7 +2443,6 @@
 0.0.0.0 www.registrycleanertop.com
 0.0.0.0 www.registrydefender.com
 0.0.0.0 www.registryfix.com
-0.0.0.0 www.registrysweeper.com
 0.0.0.0 www.removearrest.com
 0.0.0.0 www.rentfromart.com
 0.0.0.0 www.researchnow.co.uk
@@ -2682,7 +2658,6 @@
 0.0.0.0 www.webservis.gen.tr
 0.0.0.0 www.websitehome.co.uk
 0.0.0.0 www.westerntaneyfire.com
-0.0.0.0 www.whengirlsgowild.com
 0.0.0.0 www.widestep.com
 0.0.0.0 www.win-spy.com
 0.0.0.0 www.winadiscount.com
@@ -2715,7 +2690,6 @@
 0.0.0.0 www.wwwcheaptickets.com
 0.0.0.0 www.wwwcnnnews.com
 0.0.0.0 www.wwwdiscounthotel.com
-0.0.0.0 www.wwwdiynet.com
 0.0.0.0 www.wwwdollar.com
 0.0.0.0 www.wwwgamepro.com
 0.0.0.0 www.wwwgameshark.com
@@ -2756,7 +2730,6 @@
 0.0.0.0 www.zoodrawings.com
 0.0.0.0 www.zoogdiesney.com
 0.0.0.0 www.zoogdinsney.com
-0.0.0.0 www.zoogdisany.com
 0.0.0.0 www.zoogdiseny.com
 0.0.0.0 www.zoogdisiny.com
 0.0.0.0 www.zoogdisny.com
@@ -2905,8 +2878,8 @@
 
 # Hosts - fademind-add.risk
 # Source - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
-# Generated - 18.08.2018
+# Generated - 24.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 2904
+# Total Domains: 2877
 # License: MIT
 
