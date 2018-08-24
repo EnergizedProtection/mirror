@@ -1,7 +1,7 @@
 # squidblacklist-ads Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - http://www.squidblacklist.org/downloads/dg-ads.acl
-# Last Converted - Fri, 24 Aug 2018 08:52:10 -0400
+# Last Converted - Fri, 24 Aug 2018 09:39:02 -0400
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -66,6 +66,7 @@
 0.0.0.0 888promos.com
 0.0.0.0 8s8.eu
 0.0.0.0 8yxupue8.com
+0.0.0.0 9376ec23d50b1.com
 0.0.0.0 97d73lsi.com
 0.0.0.0 980media.com
 0.0.0.0 99count.com
@@ -150,6 +151,7 @@
 0.0.0.0 ad.angel-live.com
 0.0.0.0 ad.anuntis.com
 0.0.0.0 adaos-ads.net
+0.0.0.0 adapd.com
 0.0.0.0 ad.api.kaffnet.com
 0.0.0.0 ad.apps.fm
 0.0.0.0 adapt.tv
@@ -1243,6 +1245,7 @@
 0.0.0.0 adzouk.com
 0.0.0.0 adzpower.com
 0.0.0.0 adzs.nl
+0.0.0.0 aeghae5y.com
 0.0.0.0 af-ad.co.uk
 0.0.0.0 aff.biz
 0.0.0.0 affbot1.com
@@ -1512,7 +1515,6 @@
 0.0.0.0 banners.cams.com
 0.0.0.0 banners.clubseventeen.com
 0.0.0.0 banners.czi.cz
-0.0.0.0 banners.dine.com
 0.0.0.0 banners.direction-x.com
 0.0.0.0 banners.easydns.com
 0.0.0.0 banners.freett.com
@@ -1954,6 +1956,7 @@
 0.0.0.0 crtv.mate1.com
 0.0.0.0 crwdcntrl.net
 0.0.0.0 ctenetwork.com
+0.0.0.0 ctm-media.com
 0.0.0.0 ctnetwork.hu
 0.0.0.0 ctrhub.com
 0.0.0.0 ctrmanager.com
@@ -3870,6 +3873,7 @@
 0.0.0.0 top20free.com
 0.0.0.0 top90.ro
 0.0.0.0 topad.mobi
+0.0.0.0 topauto10.com
 0.0.0.0 topbarh.box.sk
 0.0.0.0 topbucks.com
 0.0.0.0 top-casting-termine.de
@@ -4283,6 +4287,7 @@
 0.0.0.0 utarget.ru
 0.0.0.0 utils.mediageneral.net
 0.0.0.0 v1.cnzz.com
+0.0.0.0 v1n7c.com
 0.0.0.0 v2cigs.com
 0.0.0.0 v3g4s.com
 0.0.0.0 vacwrite.com

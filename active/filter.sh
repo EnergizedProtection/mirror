@@ -132,7 +132,7 @@ echo "[+] Active Size: $activesize"
 echo "$divider\n"
 
 # Append Header
-echo "\n# Hosts - $name\n# Source - $url\n# Generated - $DATE\n# Created with Quizzer by @adroitadorkhan - nayemador.com\n# Total Domains: $totaldomains\n# License: MIT\n" >> $fresh
+echo "\n# Hosts - $name\n# Source - $url\n# Generated - $DATE\n# Created with Quizzer by @adroitadorkhan - nayemador.com\n# Total Domains: $totaldomains\n# License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license\n" >> $fresh
 # Uncomment to get HOSTS
 # sed -i '1s/^/# Hosts - $name\n# Source - $url\#Generated - $DATE\n# Created with Quizzer by @adroitadorkhan (nayemador.com)\n# Total Domains: $totaldomains\n/' $active
 
