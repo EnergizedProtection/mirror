@@ -58,6 +58,7 @@
 0.0.0.0 888promos.com
 0.0.0.0 8s8.eu
 0.0.0.0 8yxupue8.com
+0.0.0.0 9376ec23d50b1.com
 0.0.0.0 97d73lsi.com
 0.0.0.0 980media.com
 0.0.0.0 99count.com
@@ -269,6 +270,7 @@
 0.0.0.0 adadvisor.net
 0.0.0.0 adaos-ads.net
 0.0.0.0 adap.tv
+0.0.0.0 adapd.com
 0.0.0.0 adapt.tv
 0.0.0.0 adbard.net
 0.0.0.0 adbit.co
@@ -1238,6 +1240,7 @@
 0.0.0.0 adzouk.com
 0.0.0.0 adzpower.com
 0.0.0.0 adzs.nl
+0.0.0.0 aeghae5y.com
 0.0.0.0 af-ad.co.uk
 0.0.0.0 aff.biz
 0.0.0.0 affbot1.com
@@ -1501,7 +1504,6 @@
 0.0.0.0 banners.cams.com
 0.0.0.0 banners.clubseventeen.com
 0.0.0.0 banners.czi.cz
-0.0.0.0 banners.dine.com
 0.0.0.0 banners.direction-x.com
 0.0.0.0 banners.easydns.com
 0.0.0.0 banners.freett.com
@@ -1933,6 +1935,7 @@
 0.0.0.0 crtv.mate1.com
 0.0.0.0 crwdcntrl.net
 0.0.0.0 ctenetwork.com
+0.0.0.0 ctm-media.com
 0.0.0.0 ctnetwork.hu
 0.0.0.0 ctrhub.com
 0.0.0.0 ctrmanager.com
@@ -3841,6 +3844,7 @@
 0.0.0.0 top20free.com
 0.0.0.0 top90.ro
 0.0.0.0 topad.mobi
+0.0.0.0 topauto10.com
 0.0.0.0 topbarh.box.sk
 0.0.0.0 topbucks.com
 0.0.0.0 topeuro.biz
@@ -4251,6 +4255,7 @@
 0.0.0.0 utils.mediageneral.net
 0.0.0.0 v.movad.de
 0.0.0.0 v1.cnzz.com
+0.0.0.0 v1n7c.com
 0.0.0.0 v2cigs.com
 0.0.0.0 v3g4s.com
 0.0.0.0 vacwrite.com
@@ -4515,6 +4520,6 @@
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/squidblacklist-ads.txt
 # Generated - 24.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 4512
-# License: MIT
+# Total Domains: 4517
+# License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

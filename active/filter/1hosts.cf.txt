@@ -20488,6 +20488,7 @@
 0.0.0.0 d2c.ne.jp
 0.0.0.0 d2cgumzzqhgmdu.cloudfront.net
 0.0.0.0 d2cmedia.ca
+0.0.0.0 d2d8qsxiai9qwj.cloudfront.net
 0.0.0.0 d2dq2ahtl5zl1z.cloudfront.net
 0.0.0.0 d2eb561c06fa6.com
 0.0.0.0 d2fbkzyicji7c4.cloudfront.net
@@ -25744,7 +25745,6 @@
 0.0.0.0 forum.accesstrade.vn
 0.0.0.0 forum.admitad.com
 0.0.0.0 forum.livejasmin.com
-0.0.0.0 forum.ucweb.com
 0.0.0.0 forumcomm-d.openx.net
 0.0.0.0 forumiklan.com
 0.0.0.0 forumprofi.de
@@ -26976,7 +26976,6 @@
 0.0.0.0 gjreg.code.weddingeeos.com
 0.0.0.0 gjtrack.uc.cn
 0.0.0.0 gjtrack.ucweb.com
-0.0.0.0 gjxz2.ucweb.com
 0.0.0.0 gjysjl.com
 0.0.0.0 gklfs-idnhw.ads.tremorhub.com
 0.0.0.0 gklfs-x8k98.ads.tremorhub.com
@@ -40377,7 +40376,6 @@
 0.0.0.0 pd.ok365.com
 0.0.0.0 pdb.adsnative.com
 0.0.0.0 pdc.micloud.xiaomi.net
-0.0.0.0 pdds.ucweb.com
 0.0.0.0 pde.lp4.io
 0.0.0.0 pdeltatre.chartbeat.net
 0.0.0.0 pdev.chartbeat.net
@@ -41000,6 +40998,7 @@
 0.0.0.0 pixel.nymag.com
 0.0.0.0 pixel.onaudience.com
 0.0.0.0 pixel.parsely.com
+0.0.0.0 pixel.pladform.ru
 0.0.0.0 pixel.prfct.co
 0.0.0.0 pixel.probtn.com
 0.0.0.0 pixel.propublica.org
@@ -44146,6 +44145,7 @@
 0.0.0.0 res-x.com
 0.0.0.0 res.adplus.co.id
 0.0.0.0 res.aduu.cn
+0.0.0.0 res.apk.vidmate.net
 0.0.0.0 res.cocounion.com
 0.0.0.0 res.dxpmedia.com
 0.0.0.0 res.icast.cn
@@ -46904,6 +46904,7 @@
 0.0.0.0 sf2ej57.com
 0.0.0.0 sfa27.smi2.net
 0.0.0.0 sfawiner.com
+0.0.0.0 sfdt.vidmate.mobi
 0.0.0.0 sfg-d.openx.net
 0.0.0.0 sfi4.com
 0.0.0.0 sfl.downloadfilesnow.info
@@ -60719,6 +60720,7 @@
 0.0.0.0 www.kickassratios.com
 0.0.0.0 www.kids-in-sandbox.com
 0.0.0.0 www.kidzilla.info
+0.0.0.0 www.kijiji.ca
 0.0.0.0 www.killsometime.com
 0.0.0.0 www.kinocash.com
 0.0.0.0 www.kinohabr.net
@@ -64901,6 +64903,6 @@
 # Source - https://1hosts.cf
 # Generated - 24.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 64898
-# License: MIT
+# Total Domains: 64900
+# License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 
