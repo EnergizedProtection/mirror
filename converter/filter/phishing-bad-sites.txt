@@ -1,11 +1,15 @@
 # phishing-bad-sites Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - http://phishing.mailscanner.info/phishing.bad.sites.conf
-# Last Converted - Fri, 24 Aug 2018 08:08:57 -0400
+# Last Converted - Fri, 24 Aug 2018 08:52:12 -0400
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
 
+0.0.0.0 365chainge.xyz
+0.0.0.0 t3rrminal.club
+0.0.0.0 betschange.online
+0.0.0.0 faury-unico.com
 0.0.0.0 bloggercom.info
 0.0.0.0 ethfs.blogspot.com
 0.0.0.0 www.clockowner.com
@@ -13,6 +17,7 @@
 0.0.0.0 13b14bfe05.000webhostapp.com
 0.0.0.0 podarkizaoprosi.000webhostapp.com
 0.0.0.0 anastasiykaponomareva.000webhostapp.com
+0.0.0.0 extraboy.tk
 0.0.0.0 gmailsecurity.webservis.ru
 0.0.0.0 constnentalsrl.com
 0.0.0.0 vkcomed.000webhostapp.com
@@ -28,9 +33,11 @@
 0.0.0.0 brianlodis.com
 0.0.0.0 astsupershop.com
 0.0.0.0 nedakitabevi.com
+0.0.0.0 next-konkurs.000webhostapp.com
 0.0.0.0 auth-vkclub-photo7642469.000webhostapp.com
 0.0.0.0 c3328b.000webhostapp.com
 0.0.0.0 bridgemusic.xyz
+0.0.0.0 vkmobileverfy.000webhostapp.com
 0.0.0.0 anton1337.000webhostapp.com
 0.0.0.0 ethereum-foundation.info
 0.0.0.0 exmiu.com
@@ -56,6 +63,7 @@
 0.0.0.0 blockcnalh.com
 0.0.0.0 exploretransactions.info
 0.0.0.0 apps-bittrex.com
+0.0.0.0 beverleydesantis.com
 0.0.0.0 app-dineshsharma200801.000webhostapp.com
 0.0.0.0 636f42f3ca.000webhostapp.com
 0.0.0.0 acessoconta.cf
@@ -90,6 +98,7 @@
 0.0.0.0 www.bdsims.com
 0.0.0.0 mygremss0404.000webhostapp.com
 0.0.0.0 nsrgr12.usa.cc
+0.0.0.0 bancoposta.sicurezza.poste.it.taborda.com
 0.0.0.0 hanzelflorentin.com
 0.0.0.0 sigin-apple.com
 0.0.0.0 signin-appleid.hostitasap.com
@@ -129,11 +138,15 @@
 0.0.0.0 sdam638.aiq.ru
 0.0.0.0 vnontakte.000webhostapp.com
 0.0.0.0 scuvrifasi.at.ua
+0.0.0.0 gmy.su
 0.0.0.0 www.sicoob.atendimento30horas.host
 0.0.0.0 theomorphic-tubing.000webhostapp.com
+0.0.0.0 vk.cc
 0.0.0.0 creationxpress.com
 0.0.0.0 smartsavermagazines.com
 0.0.0.0 lhp.co.id
+0.0.0.0 www.saint-pierre-saint-jean.com
+0.0.0.0 www.molinomachmar.cl
 0.0.0.0 secure243.servconfig.com
 0.0.0.0 services.runescape.com-whs.top
 0.0.0.0 secure03a-account-login.taqueriaelfestival.com
@@ -142,19 +155,38 @@
 0.0.0.0 www.olgamontilla.com
 0.0.0.0 post-filters.cf
 0.0.0.0 dranhoumankare.com
+0.0.0.0 www.blufer.com.br
 0.0.0.0 davidatanzer.com
+0.0.0.0 vantagegp.com
+0.0.0.0 smm.maxsys.pro
+0.0.0.0 rollcase.win
+0.0.0.0 photoattitudes.com
+0.0.0.0 kingdomradioonline.com
+0.0.0.0 dba-dk-2300-2-vaer-lejlighed-id-1045724400.weebly.com
 0.0.0.0 help-settings-590052157815869.hol.es
 0.0.0.0 fft88-delova.c9users.io
+0.0.0.0 atendsac1.pro
+0.0.0.0 adventls.com
 0.0.0.0 s21.kbagi.com
+0.0.0.0 b-moderne.com
 0.0.0.0 comcomnetwork.tk
 0.0.0.0 sicredibr.weebly.com
+0.0.0.0 cef.mail0t.ga
 0.0.0.0 k-bagi.com
 0.0.0.0 apple-id.com-manage.account-access.support-linked.tokensid.necessary-api.com
 0.0.0.0 jenniferetamires.com.br
+0.0.0.0 itaucardbrdeesconto.com
+0.0.0.0 acessoltau.br-en.online
+0.0.0.0 services.runescape.com-mjw.top
 0.0.0.0 rioroi.000webhostapp.com
+0.0.0.0 deloyconsulting.com
+0.0.0.0 new-update-account.com
+0.0.0.0 www.maxpowersemi.com
 0.0.0.0 coinbase.tx-pr0.com
 0.0.0.0 gruposasperus.com
+0.0.0.0 secure.runescape.com-whs.top
 0.0.0.0 supportservice.co.vu
+0.0.0.0 www.pinheiroshotel.tur.br
 0.0.0.0 zonasegurabeta.via-bcp.ml
 0.0.0.0 tradelk.com
 0.0.0.0 paypal-scurrty.herokuapp.com
@@ -163,8 +195,10 @@
 0.0.0.0 www.projetosinfoplus.com.br
 0.0.0.0 sac24hsicredi.com
 0.0.0.0 mzimv8.000webhostapp.com
+0.0.0.0 aigjsm.baer.gob.ve
 0.0.0.0 ks-silesia.pl
 0.0.0.0 viatraderh.com.br
+0.0.0.0 clappermedia.com
 0.0.0.0 ceo.org.my
 0.0.0.0 payment.gateway-revenue.ids0292630.nececa.com
 0.0.0.0 a.newsurl.bid
@@ -175,6 +209,7 @@
 0.0.0.0 englisheteach.org.in
 0.0.0.0 blackheads-on-nose.com
 0.0.0.0 vipsearch.com
+0.0.0.0 cloudcajapiura.online
 0.0.0.0 mydocomo-smt.com
 0.0.0.0 bcpzonaseguras.nzidniuz.com
 0.0.0.0 flexnet.ca
@@ -186,6 +221,7 @@
 0.0.0.0 paypal.co.uk.d2qv.pw
 0.0.0.0 internetline.top
 0.0.0.0 www.activate-wfb.today
+0.0.0.0 www.movie-masala.com
 0.0.0.0 habexllc.com
 0.0.0.0 portalonline.cf
 0.0.0.0 www.bcpzonasegurabeta.viabcp.com.iniciar.sesion.coralingenieria.com
@@ -345,7 +381,6 @@
 0.0.0.0 cmhome-novorb.com
 0.0.0.0 account-verification-paypal.ternser.com
 0.0.0.0 futurotrabajo.cl
-0.0.0.0 secure.runescape.com-whs.top
 0.0.0.0 pemberitahuanfb201.wixsite.com
 0.0.0.0 8244.ad-cl.live
 0.0.0.0 jorppu.arkku.net
@@ -495,7 +530,6 @@
 0.0.0.0 kerasscuyy.in
 0.0.0.0 btinternet.com-region.com
 0.0.0.0 emcanidelo.net
-0.0.0.0 acessoltau.br-en.online
 0.0.0.0 encrypted-tbn0.gstatic.com
 0.0.0.0 palmasshop.com
 0.0.0.0 bbvaaseguros.ddns.net
@@ -539,11 +573,13 @@
 0.0.0.0 atendimento-bb-seguro.contrerasandres.com
 0.0.0.0 benkman32.ml
 0.0.0.0 toysforeveryoccasion.com
+0.0.0.0 big-prize.online
 0.0.0.0 accverifty-idenity.reservationtravelhotelz.com
 0.0.0.0 niso.byethost8.com
 0.0.0.0 septik-ovk.ru
 0.0.0.0 www.kers-consulting.com
 0.0.0.0 panel.expasset.com.user-notif.com
+0.0.0.0 mechtayte.ru
 0.0.0.0 www.homeprotectquote.com
 0.0.0.0 sctdnname.info
 0.0.0.0 lumoura.com
@@ -746,6 +782,7 @@
 0.0.0.0 money-info.ga
 0.0.0.0 goal.itsinthedetails.net
 0.0.0.0 ctoken-pluspp.club
+0.0.0.0 a0229221.xsph.ru
 0.0.0.0 sitiotianeuzatioluiz.com.br
 0.0.0.0 cryptopay.altervista.org
 0.0.0.0 blackblocke.com
@@ -905,6 +942,7 @@
 0.0.0.0 www.kerfit.com
 0.0.0.0 sunrisemail.godaddysites.com
 0.0.0.0 seguro-mobile.com
+0.0.0.0 ugago.in
 0.0.0.0 phar-ubu.info
 0.0.0.0 qwtr.info
 0.0.0.0 tabserver.info
@@ -947,7 +985,6 @@
 0.0.0.0 f-a-r-fu-r-i-e-d-e-p-l-a-s-t-i-c-13.gleeze.com
 0.0.0.0 ethereum-giveaway.czweb.org
 0.0.0.0 dpd-platnosc.online
-0.0.0.0 gmy.su
 0.0.0.0 giveaway.xf.cz
 0.0.0.0 montegrappa.com.pa
 0.0.0.0 www.myworkforce.org
@@ -1354,6 +1391,7 @@
 0.0.0.0 globalsoccercr.com
 0.0.0.0 hotelroyaltaj.com
 0.0.0.0 hotelvaishnavi.com
+0.0.0.0 asderpi.site
 0.0.0.0 fasto.site
 0.0.0.0 mybaksi.site
 0.0.0.0 form.jotform.com
@@ -1407,7 +1445,6 @@
 0.0.0.0 www.xtrois.online
 0.0.0.0 mystickers.win
 0.0.0.0 iiiiud.blogspot.com
-0.0.0.0 vk.cc
 0.0.0.0 44342-edwardmutale32.000webhostapp.com
 0.0.0.0 www.cfemme.com.br
 0.0.0.0 orzitrattori.it
@@ -4466,40 +4503,21 @@
 0.0.0.0 tour.idiasporan.com
 0.0.0.0 nosupprot.blogspot.com
 0.0.0.0 verifikasiakun177.wixsite.com
-0.0.0.0 limpatudodeofertas.com
-0.0.0.0 agostomesdosdesconto.com
 0.0.0.0 bnb-token.org
 0.0.0.0 beachpools.co.za
-0.0.0.0 supporxi.beget.tech
-0.0.0.0 www.sarasotahandson.com
 0.0.0.0 telstra-webmail.com
-0.0.0.0 paypaickj3cv85.com.naha-issues.tk
 0.0.0.0 www-custssecureapps.blogspot.com
 0.0.0.0 us-battle.com
 0.0.0.0 www.us-battle.com
-0.0.0.0 www.servidorseguromaintenance.com
-0.0.0.0 www.customerpaymaintenance.com
-0.0.0.0 recovery909.hol.es
 0.0.0.0 1ink.info
 0.0.0.0 coinlivetracker.com
 0.0.0.0 idexmarket.me
-0.0.0.0 piezasgraficas.com
-0.0.0.0 helps-services.hol.es
 0.0.0.0 reffer.in
 0.0.0.0 apbbsaidnsanisanianis.blogspot.com
-0.0.0.0 stickers.epizy.com
-0.0.0.0 www.artematriz.com
 0.0.0.0 idex-exchange.market
 0.0.0.0 csmoney.ru.net
-0.0.0.0 wefadsfestgretertreter5tre.epizy.com
 0.0.0.0 smellsforyou.com
 0.0.0.0 softbank.zz.am
-0.0.0.0 retour.website
-0.0.0.0 bombinas7.com
-0.0.0.0 u828219292.hostingerapp.com
-0.0.0.0 cancel-block-fb.hol.es
-0.0.0.0 warning-info.96.lt
-0.0.0.0 102154460ie.hol.es
 0.0.0.0 www.clickconfirmation.com
 0.0.0.0 bridge.sfo1.admarketplace.net
 0.0.0.0 bnb.medium-air.org
@@ -4512,8 +4530,6 @@
 0.0.0.0 official.ethx10.com
 0.0.0.0 dennisjjenkins.com
 0.0.0.0 www.enlightbusinesssolutions.com
-0.0.0.0 onlinefinanceacademy.com
-0.0.0.0 skintop.pro
 0.0.0.0 app-secure-account.com
 0.0.0.0 www.artebianca.it
 0.0.0.0 ethereum-transfer.net
@@ -4562,7 +4578,6 @@
 0.0.0.0 galvbay-my.sharepoint.com
 0.0.0.0 knob.usa.cc
 0.0.0.0 www.fundacionfernandogonzalez.com
-0.0.0.0 cohim.bid
 0.0.0.0 tabservlogner.services
 0.0.0.0 petrornaxrefining.com
 0.0.0.0 eyechannel.com.br
@@ -4573,7 +4588,6 @@
 0.0.0.0 erciyesler.com
 0.0.0.0 elaborates.igg.biz
 0.0.0.0 wnidsnianidainiasisdiasn.blogspot.com
-0.0.0.0 frixtioneasup.info
 0.0.0.0 ewerneownfuiowenoioniew.blogspot.com
 0.0.0.0 2017.stephenwhyte.com
 0.0.0.0 dat725.com
@@ -4584,7 +4598,6 @@
 0.0.0.0 www.expertfreetips.net
 0.0.0.0 bigethereum.org
 0.0.0.0 www.faak.news
-0.0.0.0 rgjxakuy.tk
 0.0.0.0 email-service.win
 0.0.0.0 canfotomania.win
 0.0.0.0 copyprofy.ru
@@ -4600,11 +4613,8 @@
 0.0.0.0 eapfotomania.win
 0.0.0.0 busanopen.org
 0.0.0.0 app-1533063823.000webhostapp.com
-0.0.0.0 ethereumfast.io
 0.0.0.0 mediumblogs.top
-0.0.0.0 sanvero-travel.net
 0.0.0.0 www.effyjewelry.com
-0.0.0.0 swelterzservices.co.uk
 0.0.0.0 elon-musk.org
 0.0.0.0 aturuobi.atwebpages.com
 0.0.0.0 www.cgi-bin.update-acccount.service.login.vrrefrigeracao.com.br
@@ -4656,7 +4666,6 @@
 0.0.0.0 ethdrop.co
 0.0.0.0 www.ph-giveaways.com
 0.0.0.0 steam.zombieden.cn
-0.0.0.0 www.ahccddi.org.tw
 0.0.0.0 mediumblogsot.top
 0.0.0.0 ethereum-return.top
 0.0.0.0 medium-airdrop-promo.com
@@ -4822,6 +4831,7 @@
 0.0.0.0 www.carecompare.com
 0.0.0.0 balneario.com
 0.0.0.0 www.spettacolomagiabambini.it
+0.0.0.0 appel.swisscom-mms.com
 0.0.0.0 superstar.uz
 0.0.0.0 healthlinkmedicalcenter-my.sharepoint.com
 0.0.0.0 www.club21ids.is
@@ -4852,8 +4862,8 @@
 0.0.0.0 www.myethereumswallet.com
 0.0.0.0 www.etherwallet.adamluvshis.com
 0.0.0.0 fgcoin.io
-0.0.0.0 ethermone.info
 0.0.0.0 www.pvgsaroc.org.tw
+0.0.0.0 ethermone.info
 0.0.0.0 www.mdrubio.com
 0.0.0.0 ume.la
 0.0.0.0 paypal.oghacks.org
@@ -4862,7 +4872,6 @@
 0.0.0.0 beinsport.wingifte.com
 0.0.0.0 csgoknifeone.com
 0.0.0.0 skins-giveaway.com
-0.0.0.0 www.hogewoodhouse.com
 0.0.0.0 ltmediagroup.com
 0.0.0.0 sdn01pedurungan.sch.id
 0.0.0.0 slowjamsradio.co
@@ -8441,6 +8450,7 @@
 0.0.0.0 programis.bid
 0.0.0.0 mayhelp.bid
 0.0.0.0 snd.115promo.club
+0.0.0.0 www.get-express-vpn.com
 0.0.0.0 www.begambleaware.org
 0.0.0.0 brainshrinks.bid
 0.0.0.0 mostpeople.bid

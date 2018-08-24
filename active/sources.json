@@ -56,6 +56,7 @@
   {"name": "fanboy-annoyance",                   "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/hectorm/hMirror/master/data/fanboy-annoyance/list.txt"},
   {"name": "fanboy-enhanced-stats",              "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/fanboy-enhanced-stats.txt"},
   {"name": "gasb-pe",                            "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/EnergizedProtection/mirror/master/mirror/GASB-PE.active.txt"},
+  {"name": "hexxium-creations-threat-list",      "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/hexxium-creations-threat-list.txt"},
   {"name": "hosts-file.net-ats",                 "enabled": true,  "format": "plain",   "url": "https://hosts-file.net/ad_servers.txt"},
   {"name": "hosts-file.net-emd",                 "enabled": true,  "format": "plain",   "url": "https://hosts-file.net/emd.txt"},
   {"name": "hosts-file.net-exp",                 "enabled": true,  "format": "plain",   "url": "https://hosts-file.net/exp.txt"},
