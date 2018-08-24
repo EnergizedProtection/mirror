@@ -1,9 +1,10 @@
 # adware-filters Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://easylist-downloads.adblockplus.org/adwarefilters.txt
-# Last Converted - Sat, 18 Aug 2018 03:44:34 -0400
+# Last Converted - Fri, 24 Aug 2018 08:08:46 -0400
 # Energized - ad.porn.malware blocking.
-# License: MIT
+# https://nayemador.com/energized
+# License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
 
 0.0.0.0 74055djs.info
 0.0.0.0 aceadsys.net

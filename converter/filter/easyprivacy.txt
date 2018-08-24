@@ -1,9 +1,10 @@
 # easyprivacy Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://easylist.to/easylist/easyprivacy.txt
-# Last Converted - Sat, 18 Aug 2018 03:44:36 -0400
+# Last Converted - Fri, 24 Aug 2018 08:08:48 -0400
 # Energized - ad.porn.malware blocking.
-# License: MIT
+# https://nayemador.com/energized
+# License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
 
 0.0.0.0 -geoIP.js
 0.0.0.0 -scroll-tracker.js
@@ -2065,6 +2066,7 @@
 0.0.0.0 tracking202.com
 0.0.0.0 trackinglabs.com
 0.0.0.0 trackkas.com
+0.0.0.0 trackmytarget.com
 0.0.0.0 trackmyweb.net
 0.0.0.0 trackset.com
 0.0.0.0 tracksy.com
@@ -5328,7 +5330,7 @@
 0.0.0.0 g2a-com.newsletter.com.pl
 0.0.0.0 ga.canoe.ca
 0.0.0.0 ga.nsimg.net
-0.0.0.0 gateway.reddit.com|
+0.0.0.0 gateway.reddit.com
 0.0.0.0 gcpdata.telegraph.co.uk
 0.0.0.0 gekko.spiceworks.com
 0.0.0.0 geo.hltv.org

@@ -1,9 +1,10 @@
 # squidblacklist-ads Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - http://www.squidblacklist.org/downloads/dg-ads.acl
-# Last Converted - Sat, 18 Aug 2018 03:44:44 -0400
+# Last Converted - Fri, 24 Aug 2018 08:08:54 -0400
 # Energized - ad.porn.malware blocking.
-# License: MIT
+# https://nayemador.com/energized
+# License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
 
 0.0.0.0 0icep80f.com
 0.0.0.0 118-oew-181.mktoresp.com
@@ -84,6 +85,7 @@
 0.0.0.0 aax-cpm.amazon-adsystem.com
 0.0.0.0 abacho.net
 0.0.0.0 abc-ads.com
+0.0.0.0 abletomeet.com
 0.0.0.0 abramarketing.com
 0.0.0.0 abum.com
 0.0.0.0 a.c0594.com
@@ -148,7 +150,6 @@
 0.0.0.0 ad.angel-live.com
 0.0.0.0 ad.anuntis.com
 0.0.0.0 adaos-ads.net
-0.0.0.0 adapd.com
 0.0.0.0 ad.api.kaffnet.com
 0.0.0.0 ad.apps.fm
 0.0.0.0 adapt.tv
@@ -970,6 +971,7 @@
 0.0.0.0 adsrevenue.net
 0.0.0.0 adsring.com
 0.0.0.0 ads-rm.looksmart.com
+0.0.0.0 ads.rottentomatoes.com
 0.0.0.0 ads.rugbyamateur.fr
 0.0.0.0 ads.ruralpress.com
 0.0.0.0 adsrv.deviantart.com
@@ -1564,6 +1566,7 @@
 0.0.0.0 belwrite.com
 0.0.0.0 bepolite.eu
 0.0.0.0 beringmedia.com
+0.0.0.0 bestcasinopartner.com
 0.0.0.0 bestdeals.ws
 0.0.0.0 bestforexpartners.com
 0.0.0.0 bestgameads.com
@@ -1805,6 +1808,7 @@
 0.0.0.0 clickmedia.ro
 0.0.0.0 clickmngr.com
 0.0.0.0 clickmon.co.kr
+0.0.0.0 clicknano.com
 0.0.0.0 click.scour.com
 0.0.0.0 clicks.equantum.com
 0.0.0.0 clickserve.cc-dt.com
@@ -1950,7 +1954,6 @@
 0.0.0.0 crtv.mate1.com
 0.0.0.0 crwdcntrl.net
 0.0.0.0 ctenetwork.com
-0.0.0.0 ctm-media.com
 0.0.0.0 ctnetwork.hu
 0.0.0.0 ctrhub.com
 0.0.0.0 ctrmanager.com
@@ -2398,6 +2401,8 @@
 0.0.0.0 hotlog.ru
 0.0.0.0 hotptp.com
 0.0.0.0 hotrank.com.tw
+0.0.0.0 hotwords.com
+0.0.0.0 hotwords.com.br
 0.0.0.0 hoverr.co
 0.0.0.0 hoverr.media
 0.0.0.0 hplose.de
@@ -2575,7 +2580,6 @@
 0.0.0.0 joetec.net
 0.0.0.0 joytocash.com
 0.0.0.0 jque.net
-0.0.0.0 js.cdn.ac
 0.0.0.0 jscount.com
 0.0.0.0 jsretra.com
 0.0.0.0 jssearch.net
@@ -3073,6 +3077,7 @@
 0.0.0.0 onad.eu
 0.0.0.0 onads.com
 0.0.0.0 onclkds.com
+0.0.0.0 oneandonlynetwork.com
 0.0.0.0 onenetworkdirect.com
 0.0.0.0 onenetworkdirect.net
 0.0.0.0 onespot.com
@@ -3827,8 +3832,10 @@
 0.0.0.0 theadhost.com
 0.0.0.0 theads.me
 0.0.0.0 thebannerexchange.com
+0.0.0.0 thebugs.ws
 0.0.0.0 thecounter.com
 0.0.0.0 thefoxes.ru
+0.0.0.0 thefriendlyvideo2updating.win
 0.0.0.0 theloungenet.com
 0.0.0.0 themidnightmatulas.com
 0.0.0.0 therichkids.com
@@ -3879,6 +3886,7 @@
 0.0.0.0 topqualitylink.com
 0.0.0.0 toprebates.com
 0.0.0.0 topsafelist.net
+0.0.0.0 topsearcher.com
 0.0.0.0 top-site-list.com
 0.0.0.0 topsite.lv
 0.0.0.0 topsites.com.br
@@ -3992,7 +4000,6 @@
 0.0.0.0 track.hotmovies.com
 0.0.0.0 track.hotteenskissing.com
 0.0.0.0 track.hubspot.com
-0.0.0.0 track.hxczzzw.com
 0.0.0.0 track.ideatrck.com
 0.0.0.0 track.impactfive.com
 0.0.0.0 track.indiauncovered.com
@@ -4441,7 +4448,6 @@
 0.0.0.0 www8.glam.com
 0.0.0.0 wwwadcntr.com
 0.0.0.0 www-banner.chat.ru
-0.0.0.0 wwwp.link
 0.0.0.0 x4300tiz.com
 0.0.0.0 x6.yakiuchi.com
 0.0.0.0 xadcentral.com
@@ -4494,6 +4500,7 @@
 0.0.0.0 yllix.com
 0.0.0.0 yobr.net
 0.0.0.0 yoc-adserver.com
+0.0.0.0 yoc.mobi
 0.0.0.0 yoc-performance.com
 0.0.0.0 yoggrt.com
 0.0.0.0 youlamedia.com

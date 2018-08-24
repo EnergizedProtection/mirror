@@ -1,10 +1,12 @@
 # adguard-tracking-servers Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers.txt
-# Last Converted - Sat, 18 Aug 2018 03:44:31 -0400
+# Last Converted - Fri, 24 Aug 2018 08:08:44 -0400
 # Energized - ad.porn.malware blocking.
-# License: MIT
+# https://nayemador.com/energized
+# License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
 
+0.0.0.0 counter.log24.ru
 0.0.0.0 dcmn.com
 0.0.0.0 bouncyproperty.com
 0.0.0.0 adnz.co

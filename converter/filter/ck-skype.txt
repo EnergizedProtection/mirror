@@ -1,9 +1,10 @@
 # ck-skype Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/Corporations/Skype%20Ad-Free/CK%27s-Skype-FilterList.txt
-# Last Converted - Sat, 18 Aug 2018 03:44:43 -0400
+# Last Converted - Fri, 24 Aug 2018 08:08:54 -0400
 # Energized - ad.porn.malware blocking.
-# License: MIT
+# https://nayemador.com/energized
+# License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
 
 0.0.0.0 134.170.30.202
 0.0.0.0 137.116.81.24

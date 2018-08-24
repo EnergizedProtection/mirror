@@ -1,9 +1,10 @@
 # better-fyi-trackers Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/anarki999/Adblock-List-Archive/master/Better.fyiTrackersBlocklist.txt
-# Last Converted - Sat, 18 Aug 2018 03:44:35 -0400
+# Last Converted - Fri, 24 Aug 2018 08:08:47 -0400
 # Energized - ad.porn.malware blocking.
-# License: MIT
+# https://nayemador.com/energized
+# License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
 
 0.0.0.0 33across.com
 0.0.0.0 adadvisor.net

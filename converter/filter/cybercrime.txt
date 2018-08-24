@@ -1,10 +1,17 @@
 # cybercrime Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://v.firebog.net/hosts/Cybercrime.txt
-# Last Converted - Sat, 18 Aug 2018 03:44:46 -0400
+# Last Converted - Fri, 24 Aug 2018 08:08:57 -0400
 # Energized - ad.porn.malware blocking.
-# License: MIT
+# https://nayemador.com/energized
+# License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
 
+0.0.0.0 akarcengal.com
+0.0.0.0 kikidoyoulabme222.ru
+0.0.0.0 imagic-box.com
+0.0.0.0 mountsoftt.ru
+0.0.0.0 supmine.pro
+0.0.0.0 theonlygoodman.com
 0.0.0.0 hi-j.com
 0.0.0.0 reveszn.ru
 0.0.0.0 supreonlin.temp.swtest.ru
@@ -91,7 +98,6 @@
 0.0.0.0 life-is-beautiful.in
 0.0.0.0 service-us.ml
 0.0.0.0 ortaksistem.com
-0.0.0.0 theonlygoodman.com
 0.0.0.0 astoundingpainting.com
 0.0.0.0 newskyinternational.com
 0.0.0.0 newskyspaces.us

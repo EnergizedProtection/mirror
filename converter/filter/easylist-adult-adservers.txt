@@ -1,9 +1,10 @@
 # easylist-adult-adservers Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_adservers.txt
-# Last Converted - Sat, 18 Aug 2018 03:44:38 -0400
+# Last Converted - Fri, 24 Aug 2018 08:08:49 -0400
 # Energized - ad.porn.malware blocking.
-# License: MIT
+# https://nayemador.com/energized
+# License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
 
 0.0.0.0 00zasdf.pw
 0.0.0.0 0llii0g6.com
