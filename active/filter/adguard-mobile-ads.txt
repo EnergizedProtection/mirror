@@ -113,6 +113,7 @@
 0.0.0.0 ads.youtube.com
 0.0.0.0 adsafeprotected.com
 0.0.0.0 adsame.com
+0.0.0.0 adsapi.manhuaren.com
 0.0.0.0 adscale.de
 0.0.0.0 adsdk.vrvm.com
 0.0.0.0 adsee.jp
@@ -343,6 +344,7 @@
 0.0.0.0 etcodes.com
 0.0.0.0 eu-ad.sam4m.com
 0.0.0.0 eu-ma.sam4m.com
+0.0.0.0 euadsapi.manhuaren.com
 0.0.0.0 exe.bid
 0.0.0.0 exp.glispa.com
 0.0.0.0 exponential.com
@@ -383,6 +385,7 @@
 0.0.0.0 gwallet.com
 0.0.0.0 gynax.com
 0.0.0.0 h12-media.com
+0.0.0.0 h5.wannaplay.cn
 0.0.0.0 ha-api.pushwoosh.com
 0.0.0.0 harvardbp.vo.llnwd.net
 0.0.0.0 heyzap.com
@@ -407,7 +410,6 @@
 0.0.0.0 iamediaserve.com
 0.0.0.0 icvdm.vo.llnwd.net
 0.0.0.0 id1.cn
-0.0.0.0 imasdk.googleapis.com
 0.0.0.0 inclk.com
 0.0.0.0 infolinks.com
 0.0.0.0 ingamesads.gameloft.com
@@ -648,6 +650,7 @@
 0.0.0.0 sharethrough.com
 0.0.0.0 silvermob.com
 0.0.0.0 singular.net
+0.0.0.0 sitemaji.com
 0.0.0.0 sitescout.com
 0.0.0.0 smaato.net
 0.0.0.0 smaclick.com
@@ -788,8 +791,8 @@
 
 # Hosts - adguard-mobile-ads
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-mobile-ads.txt
-# Generated - 24.08.2018
+# Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 787
+# Total Domains: 790
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

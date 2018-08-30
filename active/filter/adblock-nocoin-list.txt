@@ -133,7 +133,6 @@
 0.0.0.0 gramombird.com
 0.0.0.0 gridiogrid.com
 0.0.0.0 gustaver.ddns.net
-0.0.0.0 hallaert.online
 0.0.0.0 hashing.win
 0.0.0.0 hatcalter.com
 0.0.0.0 hegrinhar.com
@@ -189,7 +188,6 @@
 0.0.0.0 minexmr.stream
 0.0.0.0 minr.pw
 0.0.0.0 mlib.browsermine.com
-0.0.0.0 mm.zubovskaya-banya.ru
 0.0.0.0 moneone.ga
 0.0.0.0 monerominer.rocks
 0.0.0.0 moonsade.com
@@ -377,8 +375,8 @@
 
 # Hosts - adblock-nocoin-list
 # Source - https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
-# Generated - 24.08.2018
+# Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 376
+# Total Domains: 374
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

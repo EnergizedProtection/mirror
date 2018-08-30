@@ -47,7 +47,6 @@
 0.0.0.0 analytics.favcy.com
 0.0.0.0 analytics.groupe-seb.com
 0.0.0.0 analytics.gvim.mobi
-0.0.0.0 analytics.hosting24.com
 0.0.0.0 analytics.kaltura.com
 0.0.0.0 analytics.kapost.com
 0.0.0.0 analytics.live.com
@@ -104,6 +103,7 @@
 0.0.0.0 axislogger.appspot.com
 0.0.0.0 b.bedop.com
 0.0.0.0 bab.frb.io
+0.0.0.0 backstage.funnelenvy.com
 0.0.0.0 barium.cheezdev.com
 0.0.0.0 bat.bing.com
 0.0.0.0 beacon.affil.walmart.com
@@ -443,7 +443,6 @@
 0.0.0.0 n.mailfire.io
 0.0.0.0 neocounter.neoworx-blog-tools.net
 0.0.0.0 newsanalytics.com.au
-0.0.0.0 newsletters.nationalgeographic.com
 0.0.0.0 ninja.onap.io
 0.0.0.0 nol.yahoo.com
 0.0.0.0 nova.dice.net
@@ -468,7 +467,6 @@
 0.0.0.0 pebed.dm.gg
 0.0.0.0 peermapcontent.affino.com
 0.0.0.0 performance.typekit.net
-0.0.0.0 perr.h-cdn.com
 0.0.0.0 petitionermaster.appspot.com
 0.0.0.0 phantom.nudgespot.com
 0.0.0.0 phoenix.untd.com
@@ -514,14 +512,12 @@
 0.0.0.0 px.dynamicyield.com
 0.0.0.0 px.marchex.io
 0.0.0.0 px.owneriq.net
-0.0.0.0 px.spiceworks.com
 0.0.0.0 px.topspin.net
 0.0.0.0 pxlgnpgecom-a.akamaihd.net
 0.0.0.0 qlog.adap.tv
 0.0.0.0 qubitanalytics.appspot.com
 0.0.0.0 r.mail.ru
 0.0.0.0 r.msn.com
-0.0.0.0 ramp.purch.com
 0.0.0.0 recs.atgsvcs.com
 0.0.0.0 redir.widdit.com
 0.0.0.0 referrer.disqus.com
@@ -636,7 +632,6 @@
 0.0.0.0 t.menepe.com
 0.0.0.0 t.powerreviews.com
 0.0.0.0 t.pswec.com
-0.0.0.0 t.purch.com
 0.0.0.0 t.sgc.io
 0.0.0.0 t.sharethis.com
 0.0.0.0 t.smile.eu
@@ -809,8 +804,8 @@
 
 # Hosts - easyprivacy-thirdparty
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easyprivacy-thirdparty.txt
-# Generated - 24.08.2018
+# Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 808
+# Total Domains: 803
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

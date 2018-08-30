@@ -13,7 +13,6 @@
 0.0.0.0 24-tabs.ru
 0.0.0.0 247gamerz.com
 0.0.0.0 247playz.com
-0.0.0.0 24exchange.org
 0.0.0.0 24game7.com
 0.0.0.0 24hourdrugsource.com
 0.0.0.0 24pillshop.com
@@ -349,7 +348,6 @@
 0.0.0.0 carderx.com
 0.0.0.0 carrecase.com
 0.0.0.0 case-csgo.com
-0.0.0.0 casejar.ae
 0.0.0.0 casejar.io
 0.0.0.0 casejar.net
 0.0.0.0 casemaster-cs.com
@@ -594,7 +592,6 @@
 0.0.0.0 continuumdownload.com
 0.0.0.0 convectiontoasterovenreviews.biz
 0.0.0.0 conversationalingelligence.com
-0.0.0.0 cool-hacks.com
 0.0.0.0 cooldocument.com
 0.0.0.0 cooldownloadz.com
 0.0.0.0 corehacks.com
@@ -1122,7 +1119,6 @@
 0.0.0.0 farmepiccheats.elitegamershub.com
 0.0.0.0 farmingsimulator.dlcodes.com
 0.0.0.0 farmville2.fbgamesgiveaway.com
-0.0.0.0 farmville2hack.com
 0.0.0.0 farmville2hack.social-cheats.com
 0.0.0.0 fast-hack.com
 0.0.0.0 fastfilez.net
@@ -1444,7 +1440,6 @@
 0.0.0.0 freelolhacks.com
 0.0.0.0 freelolskins.com
 0.0.0.0 freemaddencoins.com
-0.0.0.0 freemazon.org
 0.0.0.0 freemcaccount.com
 0.0.0.0 freemcdonalds.holidayvoucher.us
 0.0.0.0 freemeez.com
@@ -1477,7 +1472,6 @@
 0.0.0.0 freeplaystationcards.info
 0.0.0.0 freeplaystationplus.com-promotions.us
 0.0.0.0 freepmoney.com
-0.0.0.0 freepremiumsoftwares.com
 0.0.0.0 freepremiumstuff.com
 0.0.0.0 freeprimefiles.com
 0.0.0.0 freeprize4u.com
@@ -1494,7 +1488,6 @@
 0.0.0.0 freepsncodesnosurvey.club
 0.0.0.0 freepsncodesz.com
 0.0.0.0 freepsnforever.com
-0.0.0.0 freepsnoffers.com
 0.0.0.0 freepsnxbcodes.com
 0.0.0.0 freepubg.com
 0.0.0.0 freerandomcsgoskins.com
@@ -2839,7 +2832,6 @@
 0.0.0.0 premiumhackgames.com
 0.0.0.0 premiumprovide.com
 0.0.0.0 premiumtool.net
-0.0.0.0 premiumtools.org
 0.0.0.0 premiumuploading.com
 0.0.0.0 presentskins.com
 0.0.0.0 prestigehackforghosts.dlcodes.com
@@ -2901,8 +2893,6 @@
 0.0.0.0 psnzone.com
 0.0.0.0 pspgamesfd.com
 0.0.0.0 psvitaapps.com
-0.0.0.0 psvitafreegames.com
-0.0.0.0 psvitaromsgames.com
 0.0.0.0 pubg-trade.com
 0.0.0.0 pubg4roll.com
 0.0.0.0 pubgblitz.com
@@ -3847,8 +3837,8 @@
 
 # Hosts - spam404.com-main-blacklist
 # Source - https://raw.githubusercontent.com/Dawsey21/Lists/master/main-blacklist.txt
-# Generated - 24.08.2018
+# Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 3846
+# Total Domains: 3836
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

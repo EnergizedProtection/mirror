@@ -103,6 +103,7 @@
 0.0.0.0 acupuncturecanaid.com
 0.0.0.0 ad.icab.pk
 0.0.0.0 adamlikes.com
+0.0.0.0 addhun.ml
 0.0.0.0 adexeintl.com
 0.0.0.0 adirektiva.com
 0.0.0.0 adkjt.3utilities.com
@@ -222,6 +223,7 @@
 0.0.0.0 almutosaliq.com
 0.0.0.0 alnassar.com.sa
 0.0.0.0 alpacas7231.tk
+0.0.0.0 alpacham.com
 0.0.0.0 alpharealm.cwsurf.de
 0.0.0.0 alpretreat.com.au
 0.0.0.0 alrayyanplastics.com
@@ -517,6 +519,7 @@
 0.0.0.0 blacksmithsoftware.net
 0.0.0.0 blaztech.us
 0.0.0.0 blessmouse.com
+0.0.0.0 blocomplimited.biz
 0.0.0.0 blog.geometriadescriptiva.com
 0.0.0.0 blog.gothicangelclothing.co.uk
 0.0.0.0 blog.milesfranklin.com
@@ -734,6 +737,7 @@
 0.0.0.0 claire-morin.com
 0.0.0.0 classicfinefoods.co.uk
 0.0.0.0 classicfllters.com
+0.0.0.0 claudfx.win
 0.0.0.0 claudiomauricio.com
 0.0.0.0 clavera.cat
 0.0.0.0 clawteamwear.com
@@ -777,6 +781,7 @@
 0.0.0.0 colovenvip.tk
 0.0.0.0 com-saint-martin.com
 0.0.0.0 com4u.comuf.com
+0.0.0.0 comatprojects.com
 0.0.0.0 come2travel.com
 0.0.0.0 comercializate.es
 0.0.0.0 comie.ru
@@ -893,6 +898,7 @@
 0.0.0.0 dalovega.netii.net
 0.0.0.0 damsimon.com
 0.0.0.0 dandidanillo.biz
+0.0.0.0 dandoesinternet.com
 0.0.0.0 danhviet.com.vn
 0.0.0.0 danielnotexist.com
 0.0.0.0 danislenefc.info
@@ -957,6 +963,7 @@
 0.0.0.0 detailingpro.co.in
 0.0.0.0 detini.nut.cc
 0.0.0.0 devbug.su
+0.0.0.0 devhaevents.us
 0.0.0.0 devicewindow.comule.com
 0.0.0.0 devine.comxa.com
 0.0.0.0 devnet.hostzi.com
@@ -1139,12 +1146,14 @@
 0.0.0.0 emailsclient.com
 0.0.0.0 emakgroup.de
 0.0.0.0 embarasstor.com
+0.0.0.0 embramedica.com.br
 0.0.0.0 emeka.kenal-cn.com
 0.0.0.0 emineucakerdogan.com
 0.0.0.0 emintechoilfield.com
 0.0.0.0 emioannina.gr
 0.0.0.0 emiretas.com
 0.0.0.0 empireacoustical.com
+0.0.0.0 empirestate.ga
 0.0.0.0 empressbridge.com
 0.0.0.0 enclassicals.com
 0.0.0.0 encryptup.com
@@ -1354,6 +1363,7 @@
 0.0.0.0 forthanj.beget.tech
 0.0.0.0 fortresmuch.com
 0.0.0.0 fortuna-group.com.ua
+0.0.0.0 forum.somedizzy.com
 0.0.0.0 forum.xcpus.com
 0.0.0.0 forumescoindonesia.com
 0.0.0.0 forwarderindia.cf
@@ -1648,6 +1658,7 @@
 0.0.0.0 hitech-mfg.cf
 0.0.0.0 hitemoffline.club
 0.0.0.0 hitlerloco.xtrweb.com
+0.0.0.0 hkenngr.com
 0.0.0.0 hkp.kr
 0.0.0.0 hkv.si
 0.0.0.0 hlionggroup.com
@@ -1849,6 +1860,7 @@
 0.0.0.0 jasonstaulo.totalh.net
 0.0.0.0 javelinkay.club
 0.0.0.0 jawedfumigation.com
+0.0.0.0 jaygarish.com
 0.0.0.0 jaysman.darkbastard.com.de
 0.0.0.0 jbcompany.org
 0.0.0.0 jda3.byethost3.com
@@ -2050,7 +2062,6 @@
 0.0.0.0 kz.thawaslobem.com
 0.0.0.0 l2cc9521.justinstalledpanel.com
 0.0.0.0 l2fog.ru
-0.0.0.0 l3d.pp.ru
 0.0.0.0 l63567ur.beget.tech
 0.0.0.0 labibread.info
 0.0.0.0 laboosti.com
@@ -2061,7 +2072,6 @@
 0.0.0.0 laerskoolkameelfontein.co.za
 0.0.0.0 lagginfo.com
 0.0.0.0 lahtiprecission.com
-0.0.0.0 lahtiprecission.ir
 0.0.0.0 lahtiprecission.ru
 0.0.0.0 laico-atlantic.gm
 0.0.0.0 laidojimopaslaugos.com
@@ -2298,6 +2308,7 @@
 0.0.0.0 marijuanatv.ws
 0.0.0.0 mariya-myronenko.com
 0.0.0.0 markampanya.com
+0.0.0.0 marketdarkwebs.win
 0.0.0.0 marketing.cartli.com.ua
 0.0.0.0 markiz.lh1.in
 0.0.0.0 marklandrydesign.com
@@ -2400,6 +2411,7 @@
 0.0.0.0 minervaafoods.com
 0.0.0.0 mini-azs.com.ua
 0.0.0.0 minjo.info
+0.0.0.0 minoutohd.000webhostapp.com
 0.0.0.0 mirror.servehalflife.com
 0.0.0.0 mishabarkanov.com
 0.0.0.0 missry3w.bget.ru
@@ -2652,7 +2664,9 @@
 0.0.0.0 octaver.ga
 0.0.0.0 october10.su
 0.0.0.0 octopus.black
+0.0.0.0 odili12.com
 0.0.0.0 ofanele.com
+0.0.0.0 off335.info
 0.0.0.0 officefwd.ga
 0.0.0.0 officefwd231.ga
 0.0.0.0 ogaces.ru
@@ -2706,6 +2720,7 @@
 0.0.0.0 opror.ru
 0.0.0.0 optron-co.tk
 0.0.0.0 opzbox.gdn
+0.0.0.0 or-truuce.tk
 0.0.0.0 oracleglass.com
 0.0.0.0 orangefeb.herobo.com
 0.0.0.0 orangefornowsee.webatu.com
@@ -2857,6 +2872,7 @@
 0.0.0.0 plasplupunion.com
 0.0.0.0 playstation2online.com
 0.0.0.0 playstation3online.com
+0.0.0.0 pldtdsll.net
 0.0.0.0 plumberspro.us
 0.0.0.0 plustech.gr
 0.0.0.0 pluswareltd.tk
@@ -2912,6 +2928,7 @@
 0.0.0.0 pounds.central-hispano.eu
 0.0.0.0 powblock.com
 0.0.0.0 powdereddoughnut.com
+0.0.0.0 poweringinfluence.com
 0.0.0.0 powermusk.com
 0.0.0.0 poweroftech.com
 0.0.0.0 powerturk.rocks
@@ -3058,6 +3075,7 @@
 0.0.0.0 revdupmarketing.com
 0.0.0.0 reveszn.ru
 0.0.0.0 rezoupdate.freehostingking.com
+0.0.0.0 rhombus-rolen.com
 0.0.0.0 richardkmet.sk
 0.0.0.0 richardplay.com
 0.0.0.0 richwellgroupsinc.com
@@ -3460,6 +3478,7 @@
 0.0.0.0 stronghx.beget.tech
 0.0.0.0 strut.hi2.ro
 0.0.0.0 strutitinca.ro
+0.0.0.0 studemplo.com
 0.0.0.0 studio020.com
 0.0.0.0 studio69.co.id
 0.0.0.0 stuttafordszim.com
@@ -3759,6 +3778,8 @@
 0.0.0.0 twentysixjune.biz
 0.0.0.0 twilight.zzz.com.ua
 0.0.0.0 twobads.1.vg
+0.0.0.0 typingone.xyz
+0.0.0.0 typrat.club
 0.0.0.0 tytoldran.win
 0.0.0.0 tywebbing.ml
 0.0.0.0 u.eastmoon.pl
@@ -4004,7 +4025,6 @@
 0.0.0.0 wetlandoilgas.com
 0.0.0.0 wewqeqw.webege.com
 0.0.0.0 wfgrma5m.beget.tech
-0.0.0.0 whe.medai-gruop.com
 0.0.0.0 whenyouplaygood.com
 0.0.0.0 whipwack.com
 0.0.0.0 whirpy.webege.com
@@ -4885,8 +4905,8 @@
 
 # Hosts - cybercrime
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/cybercrime.txt
-# Generated - 24.08.2018
+# Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 4884
+# Total Domains: 4904
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

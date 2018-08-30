@@ -329,7 +329,6 @@
 0.0.0.0 ads.affiliates-spinit.com
 0.0.0.0 ads.affiliates.match.com
 0.0.0.0 ads.ak.facebook.com.edgesuite.net
-0.0.0.0 ads.allvatar.com
 0.0.0.0 ads.alt.com
 0.0.0.0 ads.amdmb.com
 0.0.0.0 ads.amigos.com
@@ -740,7 +739,6 @@
 0.0.0.0 adspeed.net
 0.0.0.0 adspirit.de
 0.0.0.0 adsponse.de
-0.0.0.0 adsremote.scrippsnetworks.com
 0.0.0.0 adsrevenue.net
 0.0.0.0 adsrv.deviantart.com
 0.0.0.0 adsrv.iol.co.za
@@ -1081,6 +1079,7 @@
 0.0.0.0 buzzonclick.com
 0.0.0.0 bwp.download.com
 0.0.0.0 c.bigmir.net
+0.0.0.0 c.evidon.com
 0.0.0.0 c1.nowlinux.com
 0.0.0.0 c1exchange.com
 0.0.0.0 calmfoot.com
@@ -1107,7 +1106,6 @@
 0.0.0.0 casterist.info
 0.0.0.0 cbanners.virtuagirlhd.com
 0.0.0.0 cdn.freefarcy.com
-0.0.0.0 cdn.onesignal.com
 0.0.0.0 cdn.segment.com
 0.0.0.0 cecash.com
 0.0.0.0 centerpointmedia.com
@@ -1470,9 +1468,7 @@
 0.0.0.0 go-rank.de
 0.0.0.0 goingplatinum.com
 0.0.0.0 goldstats.com
-0.0.0.0 google-analytics.com
 0.0.0.0 googleadservices.com
-0.0.0.0 googlesyndication.com
 0.0.0.0 gorgeousground.com
 0.0.0.0 gostats.com
 0.0.0.0 gp.dejanews.com
@@ -1588,7 +1584,6 @@
 0.0.0.0 intelliads.com
 0.0.0.0 intellitxt.com
 0.0.0.0 intentmedia.com
-0.0.0.0 intentmedia.net
 0.0.0.0 interactive.forthnet.gr
 0.0.0.0 intergi.com
 0.0.0.0 internetfuel.com
@@ -1929,6 +1924,7 @@
 0.0.0.0 performancing.com
 0.0.0.0 permutive.com
 0.0.0.0 personagraph.com
+0.0.0.0 pgl.example
 0.0.0.0 pgmediaserve.com
 0.0.0.0 pgpartner.com
 0.0.0.0 pheedo.com
@@ -1942,6 +1938,7 @@
 0.0.0.0 pillscash.com
 0.0.0.0 pimproll.com
 0.0.0.0 ping.ublock.org
+0.0.0.0 pippio.com
 0.0.0.0 pixel.adsafeprotected.com
 0.0.0.0 pixel.condenastdigital.com
 0.0.0.0 pixel.digitru.st
@@ -2059,7 +2056,6 @@
 0.0.0.0 realtracker.com
 0.0.0.0 receptiveink.com
 0.0.0.0 record.mrwin.com
-0.0.0.0 redirectvoluum.com
 0.0.0.0 reduxmedia.com
 0.0.0.0 referralware.com
 0.0.0.0 referrer.disqus.com
@@ -2099,6 +2095,7 @@
 0.0.0.0 rose.ixbt.com
 0.0.0.0 rotabanner.com
 0.0.0.0 roxr.net
+0.0.0.0 rta.dailymail.co.uk
 0.0.0.0 rtbpop.com
 0.0.0.0 rtbpopd.com
 0.0.0.0 rtmark.net
@@ -2465,7 +2462,7 @@
 0.0.0.0 vrs.cz
 0.0.0.0 vs.tucows.com
 0.0.0.0 vungle.com
-0.0.0.0 vutzmxahqio.co
+0.0.0.0 wa.and.co.uk
 0.0.0.0 warlog.ru
 0.0.0.0 watchingthat.com
 0.0.0.0 wdads.sx.atl.publicus.com
@@ -2573,8 +2570,8 @@
 
 # Hosts - pgl.yoyo.org
 # Source - https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&mimetype=plaintext
-# Generated - 24.08.2018
+# Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 2572
+# Total Domains: 2569
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

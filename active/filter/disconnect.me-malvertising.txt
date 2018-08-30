@@ -36,16 +36,15 @@
 0.0.0.0 4d5.net
 0.0.0.0 4info.com
 0.0.0.0 4mads.com
+0.0.0.0 5-g.cn
 0.0.0.0 50websads.com
 0.0.0.0 510w.com
 0.0.0.0 51lvyu.com
 0.0.0.0 51yes.com
-0.0.0.0 52yxg.cn
 0.0.0.0 54fangtan.com
 0.0.0.0 54ly.com
 0.0.0.0 5thfinger.com
 0.0.0.0 600z.com
-0.0.0.0 66av.cc
 0.0.0.0 75ww.com
 0.0.0.0 777partner.com
 0.0.0.0 777seo.com
@@ -53,7 +52,6 @@
 0.0.0.0 7bpeople.com
 0.0.0.0 7search.com
 0.0.0.0 7speed.info
-0.0.0.0 805678.com
 0.0.0.0 818tl.com
 0.0.0.0 8883448.com
 0.0.0.0 911718.net
@@ -374,7 +372,6 @@
 0.0.0.0 ads.adverline.com
 0.0.0.0 ads.affiliates.match.com
 0.0.0.0 ads.ak.facebook.com.edgesuite.net
-0.0.0.0 ads.allvatar.com
 0.0.0.0 ads.alt.com
 0.0.0.0 ads.amdmb.com
 0.0.0.0 ads.amigos.com
@@ -771,7 +768,6 @@
 0.0.0.0 adspeed.net
 0.0.0.0 adspirit.de
 0.0.0.0 adsponse.de
-0.0.0.0 adsremote.scrippsnetworks.com
 0.0.0.0 adsrevenue.net
 0.0.0.0 adsrv.deviantart.com
 0.0.0.0 adsrv.iol.co.za
@@ -890,7 +886,6 @@
 0.0.0.0 affiliation-france.com
 0.0.0.0 ah-ha.com
 0.0.0.0 ahalogy.com
-0.0.0.0 ahlswh.net
 0.0.0.0 aim4media.com
 0.0.0.0 aipp-italia.it
 0.0.0.0 airbrake.io
@@ -1164,7 +1159,6 @@
 0.0.0.0 bullseye.backbeatmedia.com
 0.0.0.0 burstly.com
 0.0.0.0 burstmedia.com
-0.0.0.0 business.opera.com
 0.0.0.0 buthoprus.narod.ru
 0.0.0.0 buyhitscheap.com
 0.0.0.0 buyonshop.com
@@ -1229,7 +1223,6 @@
 0.0.0.0 chitika.net
 0.0.0.0 choongmoosports.co.kr
 0.0.0.0 cibleclick.com
-0.0.0.0 cinemaedvd.com
 0.0.0.0 cityads.telus.net
 0.0.0.0 citygrid.com
 0.0.0.0 cj.com
@@ -1368,6 +1361,7 @@
 0.0.0.0 czqmc.com
 0.0.0.0 d.adroll.com
 0.0.0.0 d4n.platformd.com
+0.0.0.0 daguogroup.com
 0.0.0.0 dakic-ia-300.com
 0.0.0.0 danban.com
 0.0.0.0 dapper.net
@@ -1381,7 +1375,6 @@
 0.0.0.0 deanmediagroup.com
 0.0.0.0 debtbusterloans.com
 0.0.0.0 dedicatedmedia.com
-0.0.0.0 defygravity.com
 0.0.0.0 deltagroup.kz
 0.0.0.0 demandbase.com
 0.0.0.0 dfclamp.com
@@ -1392,7 +1385,6 @@
 0.0.0.0 dialerporn.com
 0.0.0.0 didtheyreadit.com
 0.0.0.0 dinkelbrezel.de
-0.0.0.0 dionneg.com
 0.0.0.0 direct-xxx-access.com
 0.0.0.0 directaclick.com
 0.0.0.0 directivepub.com
@@ -1428,7 +1420,6 @@
 0.0.0.0 druming.free.fr
 0.0.0.0 dtdn.cn
 0.0.0.0 dtstesting.com
-0.0.0.0 duchieu.de
 0.0.0.0 dusmin.com
 0.0.0.0 dwcreations.net
 0.0.0.0 dwdpi.co.kr
@@ -1441,7 +1432,6 @@
 0.0.0.0 e-n-t-e-r-n-e-x.com
 0.0.0.0 e-planning.net
 0.0.0.0 e.kde.cz
-0.0.0.0 e2bworld.com
 0.0.0.0 eadexchange.com
 0.0.0.0 earnify.com
 0.0.0.0 eas.almamedia.fi
@@ -1539,7 +1529,6 @@
 0.0.0.0 fb-promotions.com
 0.0.0.0 fc.webmasterpro.de
 0.0.0.0 fchabkirchen-frauenberg.de
-0.0.0.0 federaciondepastores.com
 0.0.0.0 feedbackresearch.com
 0.0.0.0 feedjit.com
 0.0.0.0 fejsbuk.com.ba
@@ -1561,7 +1550,6 @@
 0.0.0.0 flashtalking.com
 0.0.0.0 fleshlightcash.com
 0.0.0.0 flexbanner.com
-0.0.0.0 flipvine.com
 0.0.0.0 floridayachtpartners.com
 0.0.0.0 flowgo.com
 0.0.0.0 flurry.com
@@ -1625,7 +1613,6 @@
 0.0.0.0 gold.weborama.fr
 0.0.0.0 goldspotmedia.com
 0.0.0.0 goldstats.com
-0.0.0.0 googlesyndication.com
 0.0.0.0 gostats.com
 0.0.0.0 gotoip55.com
 0.0.0.0 gp.dejanews.com
@@ -1637,7 +1624,6 @@
 0.0.0.0 gtop100.com
 0.0.0.0 gtsads.com
 0.0.0.0 gtsmobi.com
-0.0.0.0 guangdelvyou.com
 0.0.0.0 guppymedia.com
 0.0.0.0 gxqyyq.com
 0.0.0.0 h148.cn
@@ -1647,7 +1633,6 @@
 0.0.0.0 harrenmedia.com
 0.0.0.0 harrenmedianetwork.com
 0.0.0.0 havamedia.net
-0.0.0.0 hdrhsy.cn
 0.0.0.0 hdxxpp.com
 0.0.0.0 heias.com
 0.0.0.0 hentaicounter.com
@@ -1696,7 +1681,6 @@
 0.0.0.0 hotslotpot.cn
 0.0.0.0 hsbarbershop.co.uk
 0.0.0.0 htmlhubing.xyz
-0.0.0.0 htpm.com.cn
 0.0.0.0 httpool.com
 0.0.0.0 htyzs.cn
 0.0.0.0 humandemand.com
@@ -1810,7 +1794,6 @@
 0.0.0.0 juicyads.com
 0.0.0.0 julysystems.com
 0.0.0.0 jumptap.com
-0.0.0.0 junjiezyc.com
 0.0.0.0 justrelevant.com
 0.0.0.0 justwebads.com
 0.0.0.0 k.iinfo.cz
@@ -1893,7 +1876,6 @@
 0.0.0.0 lunarads.com
 0.0.0.0 lzjl.com
 0.0.0.0 m1.webstats4u.com
-0.0.0.0 macallinecn.com
 0.0.0.0 madadsmedia.com
 0.0.0.0 madclient.uimserv.net
 0.0.0.0 madisonavenue.com
@@ -1901,7 +1883,6 @@
 0.0.0.0 mads.cnet.com
 0.0.0.0 madserve.org
 0.0.0.0 madvertise.de
-0.0.0.0 mafund.cn
 0.0.0.0 magnetic.com
 0.0.0.0 mail3x.com
 0.0.0.0 malayalam-net.com
@@ -2198,12 +2179,10 @@
 0.0.0.0 performancing.com
 0.0.0.0 pgmediaserve.com
 0.0.0.0 pgpartner.com
-0.0.0.0 pham.duchieu.de
 0.0.0.0 pheedo.com
 0.0.0.0 phizzle.com
 0.0.0.0 phluant.com
 0.0.0.0 phoenix-adrunner.mycomputer.com
-0.0.0.0 phonearena.com
 0.0.0.0 phpadsnew.new.natuurpark.nl
 0.0.0.0 phpmyvisites.net
 0.0.0.0 phunware.com
@@ -2401,7 +2380,6 @@
 0.0.0.0 sedotracker.com
 0.0.0.0 selak.info
 0.0.0.0 senddroid.com
-0.0.0.0 senrima.ru
 0.0.0.0 sensenetworks.com
 0.0.0.0 sensismediasmart.com.au
 0.0.0.0 seo4india.com
@@ -2670,7 +2648,6 @@
 0.0.0.0 trhunt.com
 0.0.0.0 tribalfusion.com
 0.0.0.0 trix.net
-0.0.0.0 trouble.cachetinvestments.com
 0.0.0.0 truehits.net
 0.0.0.0 truehits1.gits.net.th
 0.0.0.0 truehits2.gits.net.th
@@ -2699,6 +2676,7 @@
 0.0.0.0 urlcash.net
 0.0.0.0 us.a1.yimg.com
 0.0.0.0 usapromotravel.com
+0.0.0.0 user53122.vs.speednames.com
 0.0.0.0 usergrid.com
 0.0.0.0 utarget.co.uk
 0.0.0.0 utils.mediageneral.net
@@ -2734,7 +2712,6 @@
 0.0.0.0 visual-pagerank.fr
 0.0.0.0 visualrevenue.com
 0.0.0.0 voicefive.com
-0.0.0.0 volpefurniture.com
 0.0.0.0 vpon.com
 0.0.0.0 vra4.com
 0.0.0.0 vrs.cz
@@ -2803,7 +2780,6 @@
 0.0.0.0 wwgin.com
 0.0.0.0 www-banner.chat.ru
 0.0.0.0 www.banner-link.com.br
-0.0.0.0 www.defygravity.com
 0.0.0.0 www.dnps.com
 0.0.0.0 www.fchabkirchen-frauenberg.de
 0.0.0.0 www.kaplanindex.com
@@ -2841,12 +2817,10 @@
 0.0.0.0 xrea.com
 0.0.0.0 xtendmedia.com
 0.0.0.0 xtremetop100.com
-0.0.0.0 xtxgsx.com
 0.0.0.0 xxxcounter.com
 0.0.0.0 xxxmyself.com
 0.0.0.0 xy-cs.net
 0.0.0.0 xy7elite.com
-0.0.0.0 xzsk.com
 0.0.0.0 y.ibsys.com
 0.0.0.0 ya-googl.ws
 0.0.0.0 yab-adimages.s3.amazonaws.com
@@ -2897,8 +2871,8 @@
 
 # Hosts - disconnect.me-malvertising
 # Source - https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
-# Generated - 24.08.2018
+# Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 2896
+# Total Domains: 2870
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

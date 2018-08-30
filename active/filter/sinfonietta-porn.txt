@@ -85,7 +85,6 @@
 0.0.0.0 ad1.doublepimp.com
 0.0.0.0 ad2.doublepimp.com
 0.0.0.0 adamandeve.com
-0.0.0.0 adameve.com
 0.0.0.0 adb.fling.com
 0.0.0.0 address.9hz.com
 0.0.0.0 adflash.affairsclub.com
@@ -132,7 +131,6 @@
 0.0.0.0 ads.playboy.com
 0.0.0.0 ads.pornerbros.com
 0.0.0.0 ads.premiumaccounts.com
-0.0.0.0 ads.privatefeeds.com
 0.0.0.0 ads.purefuck.com
 0.0.0.0 ads.redlightcenter.com
 0.0.0.0 ads.sexandsubmission.com
@@ -557,7 +555,6 @@
 0.0.0.0 asianxtv.com
 0.0.0.0 askjolene.ero-advertising.com
 0.0.0.0 asktiava.com
-0.0.0.0 asmhentai.com
 0.0.0.0 ass1st.com
 0.0.0.0 ass2waist.com
 0.0.0.0 assangels.com
@@ -1233,7 +1230,6 @@
 0.0.0.0 erome.com
 0.0.0.0 eroprofile.com
 0.0.0.0 erosberry.com
-0.0.0.0 eroshare.com
 0.0.0.0 eroswebcams.com
 0.0.0.0 erotic-pictures-blog.com
 0.0.0.0 eroticbeauties.net
@@ -2341,7 +2337,6 @@
 0.0.0.0 myfreeblack.com
 0.0.0.0 myfreecams.com
 0.0.0.0 mygaysites.com
-0.0.0.0 mygaywebcams.com
 0.0.0.0 myhentai.tv
 0.0.0.0 myhentaicomics.com
 0.0.0.0 myhentaiheaven.net
@@ -2434,7 +2429,6 @@
 0.0.0.0 nextdoornikki.com
 0.0.0.0 nextpic.com
 0.0.0.0 nfsx.com
-0.0.0.0 nhentai.net
 0.0.0.0 nichearena.com
 0.0.0.0 nichewebcams.com
 0.0.0.0 nicolegravesvideo.com
@@ -2802,7 +2796,6 @@
 0.0.0.0 ranks.sextracker.com
 0.0.0.0 rapeinporn.com
 0.0.0.0 rapeinsleep.com
-0.0.0.0 rapidgator.net
 0.0.0.0 rarbg.com
 0.0.0.0 rarescandals.xyz
 0.0.0.0 rareteenporn.com
@@ -3564,7 +3557,6 @@
 0.0.0.0 virginiablueridge.com
 0.0.0.0 virginiasanden.deviantart.com
 0.0.0.0 virginidad.com
-0.0.0.0 virginidad.nl
 0.0.0.0 virginie.daviaud.free.fr
 0.0.0.0 virginie.efira.free.fr
 0.0.0.0 virginie.efira.nue.online.fr
@@ -3746,7 +3738,6 @@
 0.0.0.0 www.2bigtobetrue.com
 0.0.0.0 www.2damnhot.com
 0.0.0.0 www.2gfx.com
-0.0.0.0 www.321webcams.com
 0.0.0.0 www.3angelsvideo.com
 0.0.0.0 www.3animalsex.com
 0.0.0.0 www.3at3ot.com
@@ -3778,7 +3769,6 @@
 0.0.0.0 www.absolute-live.com
 0.0.0.0 www.acmexxx.com
 0.0.0.0 www.adamandeve.com
-0.0.0.0 www.adameve.com
 0.0.0.0 www.adressesx.com
 0.0.0.0 www.adsgangsta.com
 0.0.0.0 www.adult-banner-ads.com
@@ -4289,7 +4279,6 @@
 0.0.0.0 www.cumforcover.com
 0.0.0.0 www.cummypantyhose.com
 0.0.0.0 www.cumpleaser.com
-0.0.0.0 www.cumshotscenes.com
 0.0.0.0 www.cumswap.net
 0.0.0.0 www.cute-virgins.net
 0.0.0.0 www.cutegurlz.com
@@ -5361,7 +5350,6 @@
 0.0.0.0 www.sexcess.net
 0.0.0.0 www.sexcount.de
 0.0.0.0 www.sexcounter.com
-0.0.0.0 www.sexdisney.com
 0.0.0.0 www.sexfg.com
 0.0.0.0 www.sexfind.com
 0.0.0.0 www.sexfortuna.com
@@ -6046,8 +6034,8 @@
 
 # Hosts - sinfonietta-porn
 # Source - https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/pornography-hosts
-# Generated - 24.08.2018
+# Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 6045
+# Total Domains: 6033
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

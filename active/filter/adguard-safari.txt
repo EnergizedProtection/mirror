@@ -6,7 +6,6 @@
 0.0.0.0 cnbole.net
 0.0.0.0 d3nvrqlo8rj1kw.cloudfront.net
 0.0.0.0 directadvert.ru
-0.0.0.0 fls-na.amazon.com
 0.0.0.0 go.mobiprotg.com
 0.0.0.0 i-vengo.com
 0.0.0.0 jisucn.com
@@ -26,8 +25,8 @@
 
 # Hosts - adguard-safari
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-safari.txt
-# Generated - 24.08.2018
+# Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 25
+# Total Domains: 24
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

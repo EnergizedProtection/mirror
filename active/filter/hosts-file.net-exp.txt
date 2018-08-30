@@ -309,7 +309,6 @@
 0.0.0.0 ez66jp.broz.northerndishedends.co
 0.0.0.0 ezz4tm.gow.englishwoodlands.co.uk
 0.0.0.0 f263w7.ndc.northern-dishedends.co.uk
-0.0.0.0 f53mo7.kozer.2ndincome4u.org.uk
 0.0.0.0 f56x18.best.pershoretaxis.co.uk
 0.0.0.0 f5wcr6.best.pershoretaxis.co.uk
 0.0.0.0 face.chasingyourdreamradio.com
@@ -518,7 +517,6 @@
 0.0.0.0 mhzthrs.servicemanagementforum.org
 0.0.0.0 michellelalaclark.com
 0.0.0.0 mil.mykiddi.co.uk
-0.0.0.0 mill.miltontech.co.uk
 0.0.0.0 mind.indianmedicalsupplies.org
 0.0.0.0 mindstormstudio.ro
 0.0.0.0 minute.askewmag.co.uk
@@ -637,7 +635,6 @@
 0.0.0.0 q6jme1.last.pershoreairporttaxis.co.uk
 0.0.0.0 q7wg99.kal.wkcengland.com
 0.0.0.0 qcon.co.za
-0.0.0.0 qcq8n5.kozer.2ndincome4u.org.uk
 0.0.0.0 qdkqsv.koll.pershoreairporttransfers.co.uk
 0.0.0.0 qezmyw.beg.smalltailsbfr.com
 0.0.0.0 qfkvsm.last.pershoreairporttaxis.co.uk
@@ -1018,7 +1015,6 @@
 0.0.0.0 y756sp.pal.wkcengland.co.uk
 0.0.0.0 y77b7n.gay.tathamservice.com
 0.0.0.0 y9nwqa.best.pershoretaxis.co.uk
-0.0.0.0 y9q8s1.kozer.2ndincome4u.org.uk
 0.0.0.0 yalensiaquadrantile.clearlakefirst.com
 0.0.0.0 yamatodapersoonallisuushirit.mjnursing70.com
 0.0.0.0 yasnogorie.tora.ru
@@ -1052,8 +1048,8 @@
 
 # Hosts - hosts-file.net-exp
 # Source - https://hosts-file.net/exp.txt
-# Generated - 24.08.2018
+# Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 1051
+# Total Domains: 1047
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

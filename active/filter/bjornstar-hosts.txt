@@ -84,7 +84,6 @@
 0.0.0.0 954342a215200637a.com
 0.0.0.0 97.media.tumblr.com
 0.0.0.0 99.media.tumblr.com
-0.0.0.0 a-0001.a-msedge.net
 0.0.0.0 a-ads.com
 0.0.0.0 a.ad-sys.com
 0.0.0.0 a.adfornet.com
@@ -587,7 +586,6 @@
 0.0.0.0 analytics.apnewsregistry.com
 0.0.0.0 analytics.aweber.com
 0.0.0.0 analytics.carambo.la
-0.0.0.0 analytics.hosting24.com
 0.0.0.0 analytics.kaltura.com
 0.0.0.0 analytics.livestream.com
 0.0.0.0 analytics.microsoft.com
@@ -618,7 +616,6 @@
 0.0.0.0 api.asiandate.com
 0.0.0.0 api.boomtrain.com
 0.0.0.0 api.bounceexchange.com
-0.0.0.0 api.branch.io
 0.0.0.0 api.briteverify.com
 0.0.0.0 api.circularhub.com
 0.0.0.0 api.clickaine.com
@@ -706,7 +703,6 @@
 0.0.0.0 asset.f-tra.com
 0.0.0.0 asset.pagefair.com
 0.0.0.0 asset.pagefair.net
-0.0.0.0 assets.adobedtm.com
 0.0.0.0 assets.bounceexchange.com
 0.0.0.0 assets.buysellads.com
 0.0.0.0 assets.callisto.fm
@@ -718,7 +714,6 @@
 0.0.0.0 assets.lateral.io
 0.0.0.0 assets.luminate.com
 0.0.0.0 assets.myvoicenation.com
-0.0.0.0 assets.zendesk.com
 0.0.0.0 assets2.superrewards-images.com
 0.0.0.0 assist.infospace.com.edgesuite.net
 0.0.0.0 assist.shaw.ca
@@ -778,7 +773,6 @@
 0.0.0.0 bam.nr-data.net
 0.0.0.0 bambergerkennanchitinous.com
 0.0.0.0 bamsocial.com
-0.0.0.0 banner.sweetmedia.org
 0.0.0.0 banner.techarp.com
 0.0.0.0 banner.vrtzads.com
 0.0.0.0 banner1.pornhost.com
@@ -823,8 +817,6 @@
 0.0.0.0 bdimg.share.baidu.com
 0.0.0.0 bdv.bidvertiser.com
 0.0.0.0 bea4.v.fwmrm.net
-0.0.0.0 beacon-1.newrelic.com
-0.0.0.0 beacon-3.newrelic.com
 0.0.0.0 beacon.afy11.net
 0.0.0.0 beacon.gu-web.net
 0.0.0.0 beacon.krxd.net
@@ -958,7 +950,6 @@
 0.0.0.0 c.lytics.io
 0.0.0.0 c.mgid.com
 0.0.0.0 c.mobpartner.mobi
-0.0.0.0 c.msn.com
 0.0.0.0 c.my.com
 0.0.0.0 c.nakanohito.jp
 0.0.0.0 c.pub.network
@@ -972,7 +963,6 @@
 0.0.0.0 c.traffic-media.co.uk
 0.0.0.0 c.trello.com
 0.0.0.0 c.yvoschaap.com
-0.0.0.0 c1.microsoft.com
 0.0.0.0 c1.onedmp.com
 0.0.0.0 c1.openx.org
 0.0.0.0 c1.popads.net
@@ -1069,7 +1059,6 @@
 0.0.0.0 cdn.appround.biz
 0.0.0.0 cdn.at.atwola.com
 0.0.0.0 cdn.atomicwarez.com
-0.0.0.0 cdn.betrad.com
 0.0.0.0 cdn.bidsystem.com
 0.0.0.0 cdn.bidvertiser.com
 0.0.0.0 cdn.bitmedianetwork.com
@@ -1116,8 +1105,6 @@
 0.0.0.0 cdn.krxd.net
 0.0.0.0 cdn.lfstmedia.com
 0.0.0.0 cdn.lift.acquia.com
-0.0.0.0 cdn.livechatinc.com
-0.0.0.0 cdn.livefyre.com
 0.0.0.0 cdn.logly.co.jp
 0.0.0.0 cdn.magnuum.com
 0.0.0.0 cdn.media6degrees.com
@@ -1130,7 +1117,6 @@
 0.0.0.0 cdn.nsstatic.net
 0.0.0.0 cdn.octoshape.net
 0.0.0.0 cdn.oggifinogi.com
-0.0.0.0 cdn.onesignal.com
 0.0.0.0 cdn.optimatic.com
 0.0.0.0 cdn.optimizely.com
 0.0.0.0 cdn.pardot.com
@@ -1209,7 +1195,6 @@
 0.0.0.0 cdn2sitescout.edgesuite.net
 0.0.0.0 cdn3.adexprt.com
 0.0.0.0 cdn3.glyde.com
-0.0.0.0 cdn3.optimizely.com
 0.0.0.0 cdn5.tribalfusion.com
 0.0.0.0 cdn6.vizury.com
 0.0.0.0 cdn77.cdnplanet.com
@@ -1229,7 +1214,6 @@
 0.0.0.0 cfcdn.fhserve.com
 0.0.0.0 cfiles.5min.com
 0.0.0.0 cfnewsads.thomasnet.com
-0.0.0.0 cfvod.kaltura.com
 0.0.0.0 cgi.pub.qq.com
 0.0.0.0 ch.questionmarket.com
 0.0.0.0 ch2.chamo-chat.com
@@ -1250,7 +1234,6 @@
 0.0.0.0 chicoryapp.com
 0.0.0.0 chie8oo.com
 0.0.0.0 chiptionics.co
-0.0.0.0 choices.truste.com
 0.0.0.0 choolslot.info
 0.0.0.0 christmasvideos333.com
 0.0.0.0 chrome-devtools-frontend.appspot.com
@@ -1366,7 +1349,6 @@
 0.0.0.0 connect.decknetwork.net
 0.0.0.0 connexity.net
 0.0.0.0 consent.cmp.oath.com
-0.0.0.0 consent.truste.com
 0.0.0.0 constintptr.com
 0.0.0.0 content-ssl.yieldmanager.com
 0.0.0.0 content.aimatch.com
@@ -1495,7 +1477,6 @@
 0.0.0.0 d2ghscazvn398x.cloudfront.net
 0.0.0.0 d2lo2tipcl3aii.cloudfront.net
 0.0.0.0 d3.zedo.com
-0.0.0.0 d31qbv1cthcecs.cloudfront.net
 0.0.0.0 d3al52d8cojds7.cloudfront.net
 0.0.0.0 d3alijertxiv6b.cloudfront.net
 0.0.0.0 d3cesrg5igdcgt.cloudfront.net
@@ -1692,7 +1673,6 @@
 0.0.0.0 eclkspsa.com
 0.0.0.0 econducte.com
 0.0.0.0 ecpmrocks.com
-0.0.0.0 edge.quantserve.com
 0.0.0.0 edge.ru4.com
 0.0.0.0 edge.sharethis.com
 0.0.0.0 edge.sphere.com
@@ -1704,7 +1684,6 @@
 0.0.0.0 embed.5min.com
 0.0.0.0 embed.insticator.com
 0.0.0.0 embed.newsinc.com
-0.0.0.0 embed.spotify.com
 0.0.0.0 embed.wistia.com
 0.0.0.0 emdianetwork.net
 0.0.0.0 emoshe.hairpr.hop.clickbank.net
@@ -1865,7 +1844,6 @@
 0.0.0.0 flokwire.com
 0.0.0.0 fls-fe.amazon.co.jp
 0.0.0.0 fls-na.amazon-adsystem.com
-0.0.0.0 fls-na.amazon.com
 0.0.0.0 flv.sales.cbs.com
 0.0.0.0 fmt.ads80.com
 0.0.0.0 fnkyyrgraizy.com
@@ -2004,7 +1982,6 @@
 0.0.0.0 gogvo.com
 0.0.0.0 goku.brightcove.com
 0.0.0.0 goldunionmobi.com
-0.0.0.0 google-analytics.com
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googleadservices.com
 0.0.0.0 googletagmanager.com
@@ -2068,7 +2045,6 @@
 0.0.0.0 hcimg.realclick.co.kr
 0.0.0.0 hd100546b.com
 0.0.0.0 healthline-d.openx.net
-0.0.0.0 hello.myfonts.net
 0.0.0.0 helpdesk.com-supportfasthelpproblem.pro
 0.0.0.0 hexagon-analytics.com
 0.0.0.0 hfmcompany.122.2o7.net
@@ -2128,7 +2104,6 @@
 0.0.0.0 i.bongacash.com
 0.0.0.0 i.chie8oo.com
 0.0.0.0 i.firstload.net
-0.0.0.0 i.i.cbsi.com
 0.0.0.0 i.i.com.com
 0.0.0.0 i.iabout.kr
 0.0.0.0 i.isohunt.to
@@ -2183,7 +2158,6 @@
 0.0.0.0 icompass.insightexpressai.com
 0.0.0.0 icon.cnzz.com
 0.0.0.0 icotop.io
-0.0.0.0 id.google.com
 0.0.0.0 idpix.media6degrees.com
 0.0.0.0 idsync.rlcdn.com
 0.0.0.0 ie8eamus.com
@@ -2242,7 +2216,6 @@
 0.0.0.0 imamby.ru
 0.0.0.0 img-cdn.mediaplex.com
 0.0.0.0 img-cdn.sometrics.com
-0.0.0.0 img-s-msn-com.akamaized.net
 0.0.0.0 img.3bu.cn
 0.0.0.0 img.6waves.com
 0.0.0.0 img.70e.com
@@ -2251,7 +2224,6 @@
 0.0.0.0 img.adpnut.com
 0.0.0.0 img.ads.pixiv.org
 0.0.0.0 img.ak.impact-ad.jp
-0.0.0.0 img.alicdn.com
 0.0.0.0 img.alimama.cn
 0.0.0.0 img.directtrack.com
 0.0.0.0 img.dt00.net
@@ -2273,10 +2245,8 @@
 0.0.0.0 img01.nasmedia.co.kr
 0.0.0.0 img02.taobaocdn.com
 0.0.0.0 img03.taobaocdn.com
-0.0.0.0 img1.blogblog.com
 0.0.0.0 img11.megarotic.com
 0.0.0.0 img12.megarotic.com
-0.0.0.0 img2.blogblog.com
 0.0.0.0 img2.crystalclearmovies.com
 0.0.0.0 img2.depositfiles.net
 0.0.0.0 img9.1133.cc
@@ -2424,7 +2394,6 @@
 0.0.0.0 js.himediads.com
 0.0.0.0 js.hs-analytics.net
 0.0.0.0 js.hs-scripts.com
-0.0.0.0 js.indexww.com
 0.0.0.0 js.intercomcdn.com
 0.0.0.0 js.juicyads.com
 0.0.0.0 js.kau.li
@@ -2482,7 +2451,6 @@
 0.0.0.0 khlgdlarmqnp.com
 0.0.0.0 khzbeucrltin.com
 0.0.0.0 kingsisle.hs.llnwd.net
-0.0.0.0 kinja-debug.firebaseio.com
 0.0.0.0 kissmetrics.com
 0.0.0.0 kitchen.juicer.cc
 0.0.0.0 kjkwrmwdyhi.com
@@ -2497,7 +2465,6 @@
 0.0.0.0 kvors.com
 0.0.0.0 kwasar.pw
 0.0.0.0 l.apture.com
-0.0.0.0 l.betrad.com
 0.0.0.0 l.logly.co.jp
 0.0.0.0 l.longtailvideo.com
 0.0.0.0 l.ooyala.com
@@ -2547,7 +2514,6 @@
 0.0.0.0 links.fulldls.com
 0.0.0.0 links.industrybrains.com
 0.0.0.0 links.torrentreactor.net
-0.0.0.0 linkshrink.net
 0.0.0.0 linkwaw.co
 0.0.0.0 linkyahoo.info
 0.0.0.0 linogu.info
@@ -2709,7 +2675,6 @@
 0.0.0.0 media.socialreach.com
 0.0.0.0 media.sportsbetaffiliates.com.au
 0.0.0.0 media.sumo.com
-0.0.0.0 media.sweetmedia.org
 0.0.0.0 media.trafficfactory.biz
 0.0.0.0 media.trafficjunky.net
 0.0.0.0 media.ze5.com
@@ -2914,7 +2879,6 @@
 0.0.0.0 nydailynews.d1.sc.omtrdc.net
 0.0.0.0 nyrane.ru
 0.0.0.0 o.advg.jp
-0.0.0.0 o.aolcdn.com
 0.0.0.0 o1.qnsr.com
 0.0.0.0 oas.newsquestdigital.co.uk
 0.0.0.0 oascentral.adage.com
@@ -2938,7 +2902,6 @@
 0.0.0.0 ohcs.uu.gl
 0.0.0.0 okt.to
 0.0.0.0 olthorol.com
-0.0.0.0 om.cbsi.com
 0.0.0.0 omni.dispatch.com
 0.0.0.0 omni.springserve.com
 0.0.0.0 omniture.secure.miisolutions.net
@@ -3002,7 +2965,6 @@
 0.0.0.0 p.amoad.com
 0.0.0.0 p.ato.mx
 0.0.0.0 p.ic.tynt.com
-0.0.0.0 p.imgur.com
 0.0.0.0 p.inte.sogou.com
 0.0.0.0 p.l.qq.com
 0.0.0.0 p.nexac.com
@@ -3104,7 +3066,6 @@
 0.0.0.0 pixel.mathtag.com
 0.0.0.0 pixel.mtrcs.samba.tv
 0.0.0.0 pixel.parsely.com
-0.0.0.0 pixel.quantserve.com
 0.0.0.0 pixel.reddit.com
 0.0.0.0 pixel.redditmedia.com
 0.0.0.0 pixel.rubiconproject.com
@@ -3146,10 +3107,7 @@
 0.0.0.0 play.leadzupc.com
 0.0.0.0 play.play.estream.to
 0.0.0.0 play.realfreegames.net
-0.0.0.0 play.spotify.com
-0.0.0.0 play.spotify.edgekey.net
 0.0.0.0 player-cdn.beachfrontmedia.com
-0.0.0.0 player.cnevids.com
 0.0.0.0 player.lstat.youku.com
 0.0.0.0 player2.entropymedia.com
 0.0.0.0 playproz.com
@@ -3211,7 +3169,6 @@
 0.0.0.0 preligions.com
 0.0.0.0 premium-cams.com
 0.0.0.0 presidery.info
-0.0.0.0 privacy-policy.truste.com
 0.0.0.0 privitize.com
 0.0.0.0 prjcq.com
 0.0.0.0 prm.mumbai-invest.email
@@ -3349,7 +3306,6 @@
 0.0.0.0 randomfaster.club
 0.0.0.0 randomvideo.co
 0.0.0.0 rapid-downloads.com
-0.0.0.0 rapidgator.net
 0.0.0.0 rapistory.info
 0.0.0.0 rasius.pro
 0.0.0.0 rbmijhdvh.com
@@ -3403,7 +3359,6 @@
 0.0.0.0 reports.cedexis.com
 0.0.0.0 req.connect.wunderloop.net
 0.0.0.0 request-information-api.ext.nile.works
-0.0.0.0 res.cloudinary.com
 0.0.0.0 res.union.yeyou.com
 0.0.0.0 reseguiden-external.expressen.se
 0.0.0.0 resources.ea.com
@@ -3438,7 +3393,6 @@
 0.0.0.0 rotator.trafficstars.info
 0.0.0.0 rotumal.com
 0.0.0.0 route.carambo.la
-0.0.0.0 rover.ebay.com
 0.0.0.0 row.bc.yahoo.com
 0.0.0.0 rp.gwallet.com
 0.0.0.0 rpc-php.trafficfactory.biz
@@ -3529,7 +3483,6 @@
 0.0.0.0 s.webtrends.com
 0.0.0.0 s.xvideos.com
 0.0.0.0 s.yjtag.jp
-0.0.0.0 s0.2mdn.net
 0.0.0.0 s01.flagcounter.com
 0.0.0.0 s01.usercash.com
 0.0.0.0 s02.flagcounter.com
@@ -3605,7 +3558,6 @@
 0.0.0.0 scmplayer.net
 0.0.0.0 scomcluster.cxense.com
 0.0.0.0 scr.kliksaya.com
-0.0.0.0 scribol.com
 0.0.0.0 script.about.co.kr
 0.0.0.0 script.crazyegg.com
 0.0.0.0 script.hotjar.com
@@ -3623,7 +3575,6 @@
 0.0.0.0 sea.waveview.info
 0.0.0.0 seal-akron.bbb.org
 0.0.0.0 seal.godaddy.com
-0.0.0.0 seal.verisign.com
 0.0.0.0 seal.websecurity.norton.com
 0.0.0.0 seals.trustedverified.com
 0.0.0.0 seals.websiteprotection.com
@@ -3647,10 +3598,8 @@
 0.0.0.0 secure-gg.imrworldwide.com
 0.0.0.0 secure-gl.imrworldwide.com
 0.0.0.0 secure-uk.imrworldwide.com
-0.0.0.0 secure-us.imrworldwide.com
 0.0.0.0 secure-yt.imrworldwide.com
 0.0.0.0 secure.adnxs.com
-0.0.0.0 secure.avangate.com
 0.0.0.0 secure.bidverdrs.com
 0.0.0.0 secure.bidvertiser.com
 0.0.0.0 secure.buypremiumtech.com
@@ -3770,7 +3719,6 @@
 0.0.0.0 sm.hardsextube.com
 0.0.0.0 smartcj.com
 0.0.0.0 smarticon.geotrust.com
-0.0.0.0 smartlock.google.com
 0.0.0.0 smcheck.org
 0.0.0.0 smetrics.gettyimages.com
 0.0.0.0 smetrics.shinseibank.com
@@ -3836,7 +3784,6 @@
 0.0.0.0 srv.carbonads.net
 0.0.0.0 srv.imonomy.com
 0.0.0.0 srvpub.com
-0.0.0.0 sscdn.banners.advidi.com
 0.0.0.0 ssegs.btrll.com
 0.0.0.0 ssl.cdn.turner.com
 0.0.0.0 ssl.clickbank.net
@@ -4016,7 +3963,6 @@
 0.0.0.0 stupidguy.info
 0.0.0.0 style.china.alibaba.com
 0.0.0.0 style.hiiir.com
-0.0.0.0 subscribe.wired.com
 0.0.0.0 suitesmart.com
 0.0.0.0 sumo.b-cdn.net
 0.0.0.0 sumo.com
@@ -4098,7 +4044,6 @@
 0.0.0.0 t.paypal.com
 0.0.0.0 t.teads.tv
 0.0.0.0 t.tmdn2015x9.com
-0.0.0.0 t.umblr.com
 0.0.0.0 t.userporn.com
 0.0.0.0 t.voltrk.site
 0.0.0.0 t.yigouw.com
@@ -4577,7 +4522,6 @@
 0.0.0.0 widgets.causes.com
 0.0.0.0 widgets.digg.com
 0.0.0.0 widgets.flux.com
-0.0.0.0 widgets.getpocket.com
 0.0.0.0 widgets.outbrain.com
 0.0.0.0 widgets.stackcommerce.com
 0.0.0.0 widgets.tcimg.com
@@ -4708,7 +4652,6 @@
 0.0.0.0 www.bcloudhost.com
 0.0.0.0 www.bestgamerz.com
 0.0.0.0 www.besthitsnow.com
-0.0.0.0 www.bet365.com
 0.0.0.0 www.bhmqoolzgxnp.com
 0.0.0.0 www.binaryoptionsnewbies.com
 0.0.0.0 www.binverse.com
@@ -4936,7 +4879,6 @@
 0.0.0.0 www.lightinthebox.com
 0.0.0.0 www.liilsuive.bid
 0.0.0.0 www.lijit.com
-0.0.0.0 www.linkbucks.com
 0.0.0.0 www.linkbucksmedia.com
 0.0.0.0 www.linkconnector.com
 0.0.0.0 www.linkhaitao.com
@@ -5045,7 +4987,6 @@
 0.0.0.0 www.pjtra.com
 0.0.0.0 www.placehold.it
 0.0.0.0 www.plaxo.com
-0.0.0.0 www.play-asia.com
 0.0.0.0 www.plimus.com
 0.0.0.0 www.pokerstars.com
 0.0.0.0 www.popcash.net
@@ -5341,7 +5282,6 @@
 0.0.0.0 yads.c.yimg.jp
 0.0.0.0 yads.yahoo.co.jp
 0.0.0.0 yads.zedo.com
-0.0.0.0 yandex.ru
 0.0.0.0 yastatic.net
 0.0.0.0 yb.torchbrowser.com
 0.0.0.0 yceresa.info
@@ -5361,7 +5301,6 @@
 0.0.0.0 yrxhmallcirx.com
 0.0.0.0 yt.moatads.com
 0.0.0.0 yt1187.net
-0.0.0.0 yts.ag
 0.0.0.0 yts.moatads.com
 0.0.0.0 yule.86sousuo.com
 0.0.0.0 yumenetworks.com
@@ -5418,8 +5357,8 @@
 
 # Hosts - bjornstar-hosts
 # Source - https://raw.githubusercontent.com/bjornstar/hosts/master/hosts
-# Generated - 24.08.2018
+# Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 5417
+# Total Domains: 5356
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

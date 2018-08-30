@@ -804,8 +804,6 @@
 0.0.0.0 adfarm1.adition.com
 0.0.0.0 adfiles.o2.pl.sds.o2.pl
 0.0.0.0 adflash.affairsclub.com
-0.0.0.0 adfoc.us
-0.0.0.0 adfocus.ru
 0.0.0.0 adforce.ru
 0.0.0.0 adfun.ru
 0.0.0.0 adgebra.co.in
@@ -1302,7 +1300,6 @@
 0.0.0.0 ads.millionairemate.com
 0.0.0.0 ads.milliyet.cubecdn.net
 0.0.0.0 ads.mindviz.com
-0.0.0.0 ads.mixbg.net
 0.0.0.0 ads.mlive.com
 0.0.0.0 ads.mnemosoft.com
 0.0.0.0 ads.mobclix.com
@@ -1649,7 +1646,6 @@
 0.0.0.0 adsbox.detik.com
 0.0.0.0 adsby.klikki.com
 0.0.0.0 adsby.webtraffic.se
-0.0.0.0 adscampaign.net
 0.0.0.0 adscendmedia.com
 0.0.0.0 adsearch.adkontekst.pl
 0.0.0.0 adsearch.wp.pl
@@ -2592,7 +2588,6 @@
 0.0.0.0 banner.nttnavi.co.jp
 0.0.0.0 banner.oddcast.com
 0.0.0.0 banner.passion.com
-0.0.0.0 banner.play-asia.com
 0.0.0.0 banner.relcom.ru
 0.0.0.0 banner.search.bg
 0.0.0.0 banner.sedem.bg
@@ -2761,12 +2756,6 @@
 0.0.0.0 be.sitestat.com
 0.0.0.0 bea4.v.fwmrm.net
 0.0.0.0 beachfrontio.com
-0.0.0.0 beacon-1.newrelic.com
-0.0.0.0 beacon-2.newrelic.com
-0.0.0.0 beacon-3.newrelic.com
-0.0.0.0 beacon-4.newrelic.com
-0.0.0.0 beacon-5.newrelic.com
-0.0.0.0 beacon-6.newrelic.com
 0.0.0.0 beacon-us-iad2.rubiconproject.com
 0.0.0.0 beacon.affil.walmart.com
 0.0.0.0 beacon.afy11.net
@@ -3014,7 +3003,6 @@
 0.0.0.0 c.codeonclick.com
 0.0.0.0 c.ecliks.com
 0.0.0.0 c.effectivemeasure.net
-0.0.0.0 c.enhance.com
 0.0.0.0 c.f5mtrack.com
 0.0.0.0 c.flx1.com
 0.0.0.0 c.fqtag.com
@@ -3265,7 +3253,6 @@
 0.0.0.0 cdn.adsafeprotected.com
 0.0.0.0 cdn.adspirit.de
 0.0.0.0 cdn.adsrvmedia.net
-0.0.0.0 cdn.adstatic.com
 0.0.0.0 cdn.adstract.com
 0.0.0.0 cdn.adtrace.org
 0.0.0.0 cdn.adtradr.com
@@ -3287,7 +3274,6 @@
 0.0.0.0 cdn.beaconads.com
 0.0.0.0 cdn.beaconpush.com
 0.0.0.0 cdn.behavioralengine.com
-0.0.0.0 cdn.betrad.com
 0.0.0.0 cdn.bidvertiser.com
 0.0.0.0 cdn.bizible.com
 0.0.0.0 cdn.blueconic.net
@@ -3357,7 +3343,6 @@
 0.0.0.0 cdn.mercent.com
 0.0.0.0 cdn.mgid.com
 0.0.0.0 cdn.mirageads.net
-0.0.0.0 cdn.mplxtms.com
 0.0.0.0 cdn.my-pc-cleaner.org
 0.0.0.0 cdn.ndparking.com
 0.0.0.0 cdn.nsimg.net
@@ -3435,7 +3420,6 @@
 0.0.0.0 cdn2.adsdk.com
 0.0.0.0 cdn2sitescout-a.akamaihd.net
 0.0.0.0 cdn3.emediate.eu
-0.0.0.0 cdn3.optimizely.com
 0.0.0.0 cdn4s.steelhousemedia.com
 0.0.0.0 cdn5.js.ad.dotandad.com
 0.0.0.0 cdn5.tribalfusion.com
@@ -3838,7 +3822,6 @@
 0.0.0.0 conversion-pixel.invitemedia.com
 0.0.0.0 conversion.7search.com
 0.0.0.0 convusmp.admailtiser.com
-0.0.0.0 cookie.monster.com
 0.0.0.0 cookies.cmpnet.com
 0.0.0.0 cookingcom.112.2o7.net
 0.0.0.0 cooksrecipes.us.intellitxt.com
@@ -4186,7 +4169,6 @@
 0.0.0.0 d2.zedo.com
 0.0.0.0 d24n15hnbwhuhn.cloudfront.net
 0.0.0.0 d26b395fwzu5fz.cloudfront.net
-0.0.0.0 d2c8v52ll5s99u.cloudfront.net
 0.0.0.0 d2cgumzzqhgmdu.cloudfront.net
 0.0.0.0 d2nq0f8d9ofdwv.cloudfront.net
 0.0.0.0 d2oh4tlt9mrke9.cloudfront.net
@@ -4194,7 +4176,6 @@
 0.0.0.0 d2vig74li2resi.cloudfront.net
 0.0.0.0 d2zah9y47r7bi2.cloudfront.net
 0.0.0.0 d3.zedo.com
-0.0.0.0 d31qbv1cthcecs.cloudfront.net
 0.0.0.0 d33f10u0pfpplc.cloudfront.net
 0.0.0.0 d342r80tvdrdhm.cloudfront.net
 0.0.0.0 d3dcugpvnepf41.cloudfront.net
@@ -4238,7 +4219,6 @@
 0.0.0.0 data.de.coremetrics.com
 0.0.0.0 data.emimino.cz
 0.0.0.0 data.ero-advertising.com
-0.0.0.0 data.flurry.com
 0.0.0.0 data.gosquared.com
 0.0.0.0 data.kataweb.it
 0.0.0.0 data.mobclix.com
@@ -4611,7 +4591,6 @@
 0.0.0.0 edge.aperture.displaymarketplace.com
 0.0.0.0 edge.ayboll.com
 0.0.0.0 edge.metroleads.com
-0.0.0.0 edge.quantserve.com
 0.0.0.0 edge.simplereach.com
 0.0.0.0 edietsmain.112.2o7.net
 0.0.0.0 edipresse.adocean.pl
@@ -5048,7 +5027,6 @@
 0.0.0.0 g.admedia.com
 0.0.0.0 g.adspeed.net
 0.0.0.0 g.blogads.com
-0.0.0.0 g.p.mybuys.com
 0.0.0.0 g.promosrv.com
 0.0.0.0 g.websponsors.com
 0.0.0.0 g.zedo.com
@@ -5295,7 +5273,6 @@
 0.0.0.0 gonintendo.us.intellitxt.com
 0.0.0.0 gonzogrape.gumgum.com
 0.0.0.0 goo.freelogs.com
-0.0.0.0 google-analytics.com
 0.0.0.0 google.tucows.com
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googleads2.g.doubleclick.net
@@ -6071,7 +6048,6 @@
 0.0.0.0 js.hotlog.ru
 0.0.0.0 js.hs-analytics.net
 0.0.0.0 js.hubspot.com
-0.0.0.0 js.indexww.com
 0.0.0.0 js.juicyads.com
 0.0.0.0 js.livehelper.com
 0.0.0.0 js.matheranalytics.com
@@ -6186,7 +6162,6 @@
 0.0.0.0 kz.search.need2find.com
 0.0.0.0 kz.tns-counter.ru
 0.0.0.0 l.adxcore.com
-0.0.0.0 l.betrad.com
 0.0.0.0 l.kavanga.ru
 0.0.0.0 l.linkpulse.com
 0.0.0.0 l.lp4.io
@@ -6208,7 +6183,6 @@
 0.0.0.0 labs.natpal.com
 0.0.0.0 laineygossip.us.intellitxt.com
 0.0.0.0 lakeshore.d1.sc.omtrdc.net
-0.0.0.0 land.pckeeper.software
 0.0.0.0 landing.trafficz.com
 0.0.0.0 landingpages.sunnytoolz.com
 0.0.0.0 landings.trafficz.com
@@ -7406,7 +7380,6 @@
 0.0.0.0 oas.five.tv
 0.0.0.0 oas.ilsecoloxix.it
 0.0.0.0 oas.maktoobblog.com
-0.0.0.0 oas.monster.com
 0.0.0.0 oas.northernandshell.co.uk
 0.0.0.0 oas.offremedia.com
 0.0.0.0 oas.populisengage.com
@@ -7608,7 +7581,6 @@
 0.0.0.0 olxro-d.openx.net
 0.0.0.0 om.blockbuster.com
 0.0.0.0 om.businessweek.com
-0.0.0.0 om.cbsi.com
 0.0.0.0 om.cnet.co.uk
 0.0.0.0 om.craftsman.com
 0.0.0.0 om.dowjoneson.com
@@ -7965,7 +7937,6 @@
 0.0.0.0 piwik.mortgageloan.com
 0.0.0.0 piwik.n24.de
 0.0.0.0 piwik.onlinemagasinet.no
-0.0.0.0 piwik.org
 0.0.0.0 piwik.pokerlistings.com
 0.0.0.0 piwik.redtube.com
 0.0.0.0 piwik.wsws.org
@@ -7996,7 +7967,6 @@
 0.0.0.0 pixel.cpex.cz
 0.0.0.0 pixel.crosspixel.net
 0.0.0.0 pixel.everesttech.net
-0.0.0.0 pixel.facebook.com
 0.0.0.0 pixel.indieclick.com
 0.0.0.0 pixel.industrybrains.com
 0.0.0.0 pixel.invitemedia.com
@@ -8007,7 +7977,6 @@
 0.0.0.0 pixel.newscred.com
 0.0.0.0 pixel.parsely.com
 0.0.0.0 pixel.pcworld.com
-0.0.0.0 pixel.quantserve.com
 0.0.0.0 pixel.realtor.com
 0.0.0.0 pixel.redditmedia.com
 0.0.0.0 pixel.rubiconproject.com
@@ -8651,7 +8620,6 @@
 0.0.0.0 rutrk.org
 0.0.0.0 rv-gateway.supersonicads.com
 0.0.0.0 rv.furaffinity.net
-0.0.0.0 rvpadvertisingnetwork.com
 0.0.0.0 rx8club.us.intellitxt.com
 0.0.0.0 rydium.us.intellitxt.com
 0.0.0.0 s-adserver.cxad.cxense.com
@@ -8682,7 +8650,6 @@
 0.0.0.0 s.mobclix.com
 0.0.0.0 s.ntv.io
 0.0.0.0 s.pubmine.com
-0.0.0.0 s.shopify.com
 0.0.0.0 s.skimresources.com
 0.0.0.0 s.tagsrvcs.com
 0.0.0.0 s.thebrighttag.com
@@ -9023,7 +8990,6 @@
 0.0.0.0 secure-nz.imrworldwide.com
 0.0.0.0 secure-sg.imrworldwide.com
 0.0.0.0 secure-uk.imrworldwide.com
-0.0.0.0 secure-us.imrworldwide.com
 0.0.0.0 secure-yt.imrworldwide.com
 0.0.0.0 secure-za.imrworldwide.com
 0.0.0.0 secure.ace-tag.advertising.com
@@ -9365,7 +9331,6 @@
 0.0.0.0 ss2.zedo.com
 0.0.0.0 ss3.zedo.com
 0.0.0.0 ss7.zedo.com
-0.0.0.0 sscdn.banners.advidi.com
 0.0.0.0 ssdc.icelandair.com
 0.0.0.0 ssend.microad.jp
 0.0.0.0 ssl-sl-retargeting.adsonar.com
@@ -10319,7 +10284,6 @@
 0.0.0.0 tracking.immobilienscout24.de
 0.0.0.0 tracking.inuvo.com
 0.0.0.0 tracking.justpremium.com
-0.0.0.0 tracking.kurier.at
 0.0.0.0 tracking.lengow.com
 0.0.0.0 tracking.listhub.net
 0.0.0.0 tracking.m6r.eu
@@ -11358,7 +11322,6 @@
 0.0.0.0 www.eliteconcepts.com
 0.0.0.0 www.ellads.com
 0.0.0.0 www.emjcd.com
-0.0.0.0 www.enhance.com
 0.0.0.0 www.enoratraffic.com
 0.0.0.0 www.epicgameads.com
 0.0.0.0 www.erodynamics.nl
@@ -11466,7 +11429,6 @@
 0.0.0.0 www.hotdogsandads.com
 0.0.0.0 www.hotlog.ru
 0.0.0.0 www.hotranks.com
-0.0.0.0 www.hotspotshield.com
 0.0.0.0 www.htmate2.com
 0.0.0.0 www.hubtraffic.com
 0.0.0.0 www.hugedomains.com
@@ -11536,7 +11498,6 @@
 0.0.0.0 www.lifeforminc.com
 0.0.0.0 www.lijit.com
 0.0.0.0 www.linkads.de
-0.0.0.0 www.linkbucks.com
 0.0.0.0 www.linkbuddies.com
 0.0.0.0 www.linkconnector.com
 0.0.0.0 www.linkcounter.com
@@ -11723,7 +11684,6 @@
 0.0.0.0 www.redemptionengine.com
 0.0.0.0 www.redroomnetwork.com
 0.0.0.0 www.reduxmediia.com
-0.0.0.0 www.reelcentric.com
 0.0.0.0 www.refer.ru
 0.0.0.0 www.registrydefender.com
 0.0.0.0 www.registryfix.com
@@ -11972,7 +11932,6 @@
 0.0.0.0 www.whizstats.com
 0.0.0.0 www.widebanner.com
 0.0.0.0 www.win-spy.com
-0.0.0.0 www.winadiscount.com
 0.0.0.0 www.winaproduct.com
 0.0.0.0 www.worldata.com
 0.0.0.0 www.wtp101.com
@@ -12245,8 +12204,8 @@
 
 # Hosts - winhelp2002.mvps.org
 # Source - http://winhelp2002.mvps.org/hosts.txt
-# Generated - 24.08.2018
+# Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 12244
+# Total Domains: 12203
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

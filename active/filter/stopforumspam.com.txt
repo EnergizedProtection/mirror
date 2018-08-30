@@ -492,7 +492,6 @@
 0.0.0.0 aserookadion.uni.cc
 0.0.0.0 ases.info
 0.0.0.0 ashishsingla.com
-0.0.0.0 asics.com
 0.0.0.0 asicsonshop.org
 0.0.0.0 asicsshoes.com
 0.0.0.0 asicsshoessale.com
@@ -4163,7 +4162,6 @@
 0.0.0.0 iceburgsf.com
 0.0.0.0 iceland-is-ace.com
 0.0.0.0 icmocozsm.pl
-0.0.0.0 icon.foundation
 0.0.0.0 iconedit.info
 0.0.0.0 iconfile.info
 0.0.0.0 icotype.info
@@ -12000,8 +11998,8 @@
 
 # Hosts - stopforumspam.com
 # Source - https://stopforumspam.com/downloads/toxic_domains_whole.txt
-# Generated - 24.08.2018
+# Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 11999
+# Total Domains: 11997
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

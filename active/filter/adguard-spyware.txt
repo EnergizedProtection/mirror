@@ -81,7 +81,6 @@
 0.0.0.0 bats.video.yahoo.com
 0.0.0.0 bcd.esprit.de
 0.0.0.0 bdg-analytics.appspot.com
-0.0.0.0 beacon-1.newrelic.com
 0.0.0.0 beacon.errorception.com
 0.0.0.0 beacon.gu-web.net
 0.0.0.0 beacon.guim.co.uk
@@ -105,7 +104,6 @@
 0.0.0.0 c.imrk.net
 0.0.0.0 c.index.ru
 0.0.0.0 c.ipaddress.com
-0.0.0.0 c.msn.com
 0.0.0.0 c.newsinc.com
 0.0.0.0 c.opinion.com.ua
 0.0.0.0 c.t-online.de
@@ -119,7 +117,6 @@
 0.0.0.0 cdn.tagcommander.com
 0.0.0.0 cdnstats-a.akamaihd.net
 0.0.0.0 cj.madeleine.de
-0.0.0.0 clc.stackoverflow.com
 0.0.0.0 clicks.dealer.com
 0.0.0.0 clicks.hurriyet.com.tr
 0.0.0.0 client.perimeterx.net
@@ -218,7 +215,6 @@
 0.0.0.0 d3135glefggiep.cloudfront.net
 0.0.0.0 d31bfnnwekbny6.cloudfront.net
 0.0.0.0 d31j93rd8oukbv.cloudfront.net
-0.0.0.0 d31qbv1cthcecs.cloudfront.net
 0.0.0.0 d34ko97cxuv4p7.cloudfront.net
 0.0.0.0 d36lvucg9kzous.cloudfront.net
 0.0.0.0 d36wtdrdo22bqa.cloudfront.net
@@ -256,7 +252,6 @@
 0.0.0.0 e.reddit.com
 0.0.0.0 e.tw.cx
 0.0.0.0 eclick.baidu.com
-0.0.0.0 edge.quantserve.com
 0.0.0.0 epiv.cardlytics.com
 0.0.0.0 er.mmi.bemobile.ua
 0.0.0.0 err.rambler.ru
@@ -277,12 +272,10 @@
 0.0.0.0 farmer.wego.com
 0.0.0.0 fc.webmasterpro.de
 0.0.0.0 felix.data.tm-awx.com
-0.0.0.0 fls-na.amazon.com
 0.0.0.0 frog.wix.com
 0.0.0.0 front.optimonk.com
 0.0.0.0 funn.graphiq.com
 0.0.0.0 ga.clearbit.com
-0.0.0.0 gekko.spiceworks.com
 0.0.0.0 geo.kaloo.ga
 0.0.0.0 geo.xcel.io
 0.0.0.0 geo.yahoo.com
@@ -313,7 +306,6 @@
 0.0.0.0 hm.baidu.com
 0.0.0.0 hrumpoc.hotels.com
 0.0.0.0 ibeat.indiatimes.com
-0.0.0.0 ichnaea.netflix.com
 0.0.0.0 ig.fp.oix.net
 0.0.0.0 img.opentracker.net
 0.0.0.0 in.cuebiq.com
@@ -366,6 +358,7 @@
 0.0.0.0 logs.thebloggernetwork.com
 0.0.0.0 loxodo-ct.ext.nile.works
 0.0.0.0 m.addthisedge.com
+0.0.0.0 m.adtiming.com
 0.0.0.0 m.trb.com
 0.0.0.0 magnetrack.klangoo.com
 0.0.0.0 marketing.modalife.com
@@ -380,7 +373,6 @@
 0.0.0.0 metrics-api.librato.com
 0.0.0.0 metrics.cnn.com
 0.0.0.0 metrics.foxnews.com
-0.0.0.0 metrics.mzstatic.com
 0.0.0.0 metrics.n-tv.de
 0.0.0.0 metrics.pacsun.com
 0.0.0.0 metrics.toysrus.com
@@ -399,14 +391,11 @@
 0.0.0.0 ngagement-engine.mobify.com
 0.0.0.0 ninja.onap.io
 0.0.0.0 notify-bugs-fra1.rtl.de
-0.0.0.0 ns1.phorm.com
-0.0.0.0 ns2.phorm.com
 0.0.0.0 ns336739.ip-37-187-249.eu
 0.0.0.0 o.addthis.com
 0.0.0.0 oa-stc.zdn.vn
 0.0.0.0 odb.outbrain.com
 0.0.0.0 oimg.nbcuni.com
-0.0.0.0 om.cbsi.com
 0.0.0.0 om.dowjoneson.com
 0.0.0.0 onclickpredictiv.com
 0.0.0.0 optimize-stats.voxmedia.com
@@ -419,7 +408,6 @@
 0.0.0.0 partner.shareaholic.com
 0.0.0.0 pasta.esfile.duapps.com
 0.0.0.0 pb.i.sogou.com
-0.0.0.0 perr.h-cdn.com
 0.0.0.0 perr.hola.org
 0.0.0.0 pf.newegg.com
 0.0.0.0 phen.fabricmedia.ru
@@ -437,9 +425,7 @@
 0.0.0.0 pixel.cdnwidget.com
 0.0.0.0 pixel.condenastdigital.com
 0.0.0.0 pixel.europapress.net
-0.0.0.0 pixel.facebook.com
 0.0.0.0 pixel.parsely.com
-0.0.0.0 pixel.quantserve.com
 0.0.0.0 pixel.roymorgan.com
 0.0.0.0 pixel.watch
 0.0.0.0 pixel.yabidos.com
@@ -461,7 +447,6 @@
 0.0.0.0 r.movad.de
 0.0.0.0 r.my.com
 0.0.0.0 r.remarketingpixel.com
-0.0.0.0 ramp.purch.com
 0.0.0.0 recs.atgsvcs.com
 0.0.0.0 referrer.disqus.com
 0.0.0.0 repdata.usatoday.com
@@ -560,6 +545,7 @@
 0.0.0.0 tagger.opecloud.com
 0.0.0.0 tags.bluekai.com
 0.0.0.0 tags.news.com.au
+0.0.0.0 taskapi.net
 0.0.0.0 te.supportfreecontent.com
 0.0.0.0 ted.dailymail.co.uk
 0.0.0.0 telemetry.allrecipes.com
@@ -643,7 +629,6 @@
 0.0.0.0 tracking.deluxe-marketing.com
 0.0.0.0 tracking.epicgames.com
 0.0.0.0 tracking.g2crowd.com
-0.0.0.0 tracking.kurier.at
 0.0.0.0 tracking.lengow.com
 0.0.0.0 tracking.musixmatch.com
 0.0.0.0 tracking.oe24.at
@@ -678,6 +663,8 @@
 0.0.0.0 ucounter.ucoz.net
 0.0.0.0 udc.yahoo.com
 0.0.0.0 ui.oix.net
+0.0.0.0 ulogs.umeng.com
+0.0.0.0 ulogs.umengcloud.com
 0.0.0.0 um-public-panel-prod.s3.amazonaws.com
 0.0.0.0 ut.o2.pl
 0.0.0.0 video-ad-stats.googlesyndication.com
@@ -699,12 +686,13 @@
 0.0.0.0 ybx.yahoo.co.jp
 0.0.0.0 yield-manager.browsiprod.com
 0.0.0.0 yieldmo-builds.s3.amazonaws.com
+0.0.0.0 yourblocksite.com
 0.0.0.0 zdlogs.sphereup.com
 
 # Hosts - adguard-spyware
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-spyware-firstparty.txt
-# Generated - 24.08.2018
+# Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 702
+# Total Domains: 690
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

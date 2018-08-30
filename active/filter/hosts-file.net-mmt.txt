@@ -237,7 +237,6 @@
 0.0.0.0 asiancunts.com
 0.0.0.0 asianpeoplemeet.com
 0.0.0.0 asians.com-2014.org
-0.0.0.0 ask.com
 0.0.0.0 assart.com
 0.0.0.0 assasin.net
 0.0.0.0 assessmybills.com
@@ -433,7 +432,6 @@
 0.0.0.0 bwaqua.com
 0.0.0.0 byblosweb.com
 0.0.0.0 byethost2.gsnatch.hop.clickbank.net
-0.0.0.0 c.enhance.com
 0.0.0.0 c8fc3dw-sjvg-p5btbk9hcjcjr.hop.clickbank.net
 0.0.0.0 calipeoplemeet.com
 0.0.0.0 caltiger.com
@@ -1271,7 +1269,6 @@
 0.0.0.0 jartmann.robotstock.hop.clickbank.net
 0.0.0.0 jbbl.com
 0.0.0.0 jch02.2squared01.hop.clickbank.net
-0.0.0.0 jdownloader.org
 0.0.0.0 jgky.com
 0.0.0.0 jhacking1.movies01.hop.clickbank.net
 0.0.0.0 jigsaw.co
@@ -1420,7 +1417,6 @@
 0.0.0.0 loweryourbills.biz
 0.0.0.0 ls0908.themovdwn.hop.clickbank.net
 0.0.0.0 lxcoza.webvista2.hop.clickbank.net
-0.0.0.0 lxsctey.300mb.info
 0.0.0.0 lye.cc
 0.0.0.0 m231g.germanabs.hop.clickbank.net
 0.0.0.0 macdude.gteens.com
@@ -1943,7 +1939,6 @@
 0.0.0.0 redirect1.sharedm.hop.clickbank.net
 0.0.0.0 redirecttv.com
 0.0.0.0 reelvidz.com
-0.0.0.0 reference.com
 0.0.0.0 reformasi.com
 0.0.0.0 regcure.software-phile.com
 0.0.0.0 regcure.ueuo.com
@@ -2283,7 +2278,6 @@
 0.0.0.0 thebasil.com
 0.0.0.0 thecloudharvester.com
 0.0.0.0 thecounter.de
-0.0.0.0 thedailybeast.com
 0.0.0.0 thedarkcavern.com
 0.0.0.0 thefamilyexpo.com
 0.0.0.0 thehan.net
@@ -2352,7 +2346,6 @@
 0.0.0.0 tube3.com
 0.0.0.0 tube5.com
 0.0.0.0 tubelaunch.com
-0.0.0.0 tucows.com
 0.0.0.0 tune-up.com
 0.0.0.0 tvgiude.com
 0.0.0.0 tvnoop.com
@@ -2629,7 +2622,6 @@
 0.0.0.0 www.artlive.ru
 0.0.0.0 www.asafesite.com
 0.0.0.0 www.asianpeoplemeet.com
-0.0.0.0 www.ask.com
 0.0.0.0 www.assessmybills.com
 0.0.0.0 www.asuw.com
 0.0.0.0 www.asworld.com
@@ -3544,7 +3536,6 @@
 0.0.0.0 www.regieclick.com
 0.0.0.0 www.reginout.com
 0.0.0.0 www.registry-cleaner.net
-0.0.0.0 www.registry-cleaners-compared.com
 0.0.0.0 www.registryonwindows.com
 0.0.0.0 www.regscan.net
 0.0.0.0 www.removeit.info
@@ -3698,7 +3689,6 @@
 0.0.0.0 www.theadultwire.com
 0.0.0.0 www.thecloudharvester.com
 0.0.0.0 www.thecrack.net
-0.0.0.0 www.thedailybeast.com
 0.0.0.0 www.thedarkcavern.com
 0.0.0.0 www.thegaymen.com
 0.0.0.0 www.thehitman.com
@@ -3740,7 +3730,6 @@
 0.0.0.0 www.tube3.com
 0.0.0.0 www.tube5.com
 0.0.0.0 www.tubelaunch.com
-0.0.0.0 www.tucows.com
 0.0.0.0 www.tune-up.com
 0.0.0.0 www.turnwood.net
 0.0.0.0 www.tvgiude.com
@@ -3993,8 +3982,8 @@
 
 # Hosts - hosts-file.net-mmt
 # Source - https://hosts-file.net/mmt.txt
-# Generated - 24.08.2018
+# Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 3992
+# Total Domains: 3981
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

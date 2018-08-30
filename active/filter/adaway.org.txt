@@ -91,9 +91,7 @@
 0.0.0.0 go.mobpartner.mobi
 0.0.0.0 go.vrvm.com
 0.0.0.0 golds.lp.mydas.mobi
-0.0.0.0 google-analytics.com
 0.0.0.0 googleads.g.doubleclick.net
-0.0.0.0 googlesyndication.com
 0.0.0.0 gsmtop.net
 0.0.0.0 gts-ads.twistbox.com
 0.0.0.0 hhbekxxw5d9e.pflexads.com
@@ -142,7 +140,6 @@
 0.0.0.0 ru.velti.com
 0.0.0.0 s.amazon-adsystem.com
 0.0.0.0 s.mobclix.com
-0.0.0.0 s0.2mdn.net
 0.0.0.0 s3.phluant.com
 0.0.0.0 sf.vserv.mobi
 0.0.0.0 soma.smaato.net
@@ -181,8 +178,8 @@
 
 # Hosts - adaway.org
 # Source - https://adaway.org/hosts.txt
-# Generated - 24.08.2018
+# Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 180
+# Total Domains: 177
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

@@ -10,6 +10,7 @@
 0.0.0.0 cdnthumb3.spankbang.com
 0.0.0.0 cdnthumb4.spankbang.com
 0.0.0.0 cdnthumb5.spankbang.com
+0.0.0.0 clipsage.com
 0.0.0.0 collectionofbestporn.com
 0.0.0.0 cumilf.com
 0.0.0.0 easyporn.xxx
@@ -96,6 +97,7 @@
 0.0.0.0 www.babes.com
 0.0.0.0 www.brazzersnetwork.com
 0.0.0.0 www.cliphunter.com
+0.0.0.0 www.clipsage.com
 0.0.0.0 www.digitalplayground.com
 0.0.0.0 www.drtuber.com
 0.0.0.0 www.eporner.com
@@ -141,8 +143,8 @@
 
 # Hosts - ador-energized-porn
 # Source - https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts-porn
-# Generated - 24.08.2018
+# Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 140
+# Total Domains: 142
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

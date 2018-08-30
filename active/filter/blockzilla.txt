@@ -48,7 +48,6 @@
 0.0.0.0 agkn.com
 0.0.0.0 aimatch.com
 0.0.0.0 airpush.com
-0.0.0.0 alexa.com
 0.0.0.0 amgdgt.com
 0.0.0.0 amung.us
 0.0.0.0 andomedia.com
@@ -298,7 +297,6 @@
 0.0.0.0 pebed.dm.gg
 0.0.0.0 perfdrive.com
 0.0.0.0 perfectaudience.com
-0.0.0.0 perr.h-cdn.com
 0.0.0.0 petametrics.com
 0.0.0.0 phantom.nudgespot.com
 0.0.0.0 picadmedia.com
@@ -320,7 +318,6 @@
 0.0.0.0 quantserve.com
 0.0.0.0 qubitproducts.com
 0.0.0.0 questionmarket.com
-0.0.0.0 ramp.purch.com
 0.0.0.0 recomendedsite.com
 0.0.0.0 referrer.disqus.com
 0.0.0.0 reinvigorate.net
@@ -336,7 +333,6 @@
 0.0.0.0 rubiconproject.com
 0.0.0.0 sbal4kp.com
 0.0.0.0 scorecardresearch.com
-0.0.0.0 scribol.com
 0.0.0.0 sekindo.com
 0.0.0.0 servedbyopenx.com
 0.0.0.0 serving-sys.com
@@ -368,7 +364,6 @@
 0.0.0.0 supert.ag
 0.0.0.0 survicate.com
 0.0.0.0 swoop.com
-0.0.0.0 syndication.twitter.com
 0.0.0.0 taboola.com
 0.0.0.0 taboolasyndication.com
 0.0.0.0 tagcade.com
@@ -422,7 +417,6 @@
 0.0.0.0 xpanama.net
 0.0.0.0 xtendmedia.com
 0.0.0.0 yadro.ru
-0.0.0.0 yandex.ru
 0.0.0.0 yashi.com
 0.0.0.0 yavli.com
 0.0.0.0 yieldlab.net
@@ -435,8 +429,8 @@
 
 # Hosts - blockzilla
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/blockzilla.txt
-# Generated - 24.08.2018
+# Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 434
+# Total Domains: 428
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

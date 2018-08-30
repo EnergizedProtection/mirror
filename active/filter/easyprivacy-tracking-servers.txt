@@ -386,7 +386,6 @@
 0.0.0.0 bsyauqwerd.party
 0.0.0.0 btbuckets.com
 0.0.0.0 btserve.com
-0.0.0.0 btstatic.com
 0.0.0.0 btttag.com
 0.0.0.0 bubblestat.com
 0.0.0.0 bugherd.com
@@ -1004,7 +1003,6 @@
 0.0.0.0 gvisit.com
 0.0.0.0 gweini.com
 0.0.0.0 h4k5.com
-0.0.0.0 hallaert.online
 0.0.0.0 halldata.com
 0.0.0.0 halo77.com
 0.0.0.0 halstats.com
@@ -1619,7 +1617,6 @@
 0.0.0.0 orcapia.com
 0.0.0.0 os-data.com
 0.0.0.0 ositracker.com
-0.0.0.0 ospserver.net
 0.0.0.0 otoshiana.com
 0.0.0.0 otracking.com
 0.0.0.0 ournet-analytics.com
@@ -1941,6 +1938,7 @@
 0.0.0.0 serie-vostfr.com
 0.0.0.0 serious-partners.com
 0.0.0.0 serv-ac.com
+0.0.0.0 servebom.com
 0.0.0.0 serving-sys.com
 0.0.0.0 servingpps.com
 0.0.0.0 servingtrkid.com
@@ -2092,6 +2090,7 @@
 0.0.0.0 statsrely.com
 0.0.0.0 statssheet.com
 0.0.0.0 statsw.com
+0.0.0.0 statswebtown.com
 0.0.0.0 statsy.net
 0.0.0.0 stattooz.com
 0.0.0.0 stattrax.com
@@ -2147,7 +2146,6 @@
 0.0.0.0 tagcommander.com
 0.0.0.0 tagifydiageo.com
 0.0.0.0 tagsrvcs.com
-0.0.0.0 tainiesonline.pw
 0.0.0.0 tamgrt.com
 0.0.0.0 tapfiliate.com
 0.0.0.0 taplytics.com
@@ -2397,7 +2395,6 @@
 0.0.0.0 visualrevenue.com
 0.0.0.0 visualwebsiteoptimizer.com
 0.0.0.0 vivocha.com
-0.0.0.0 vizisense.net
 0.0.0.0 vizury.com
 0.0.0.0 vkcdnservice.com
 0.0.0.0 vmm-satellite1.com
@@ -2567,8 +2564,8 @@
 
 # Hosts - easyprivacy-tracking-servers
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easyprivacy-tracking-servers.txt
-# Generated - 24.08.2018
+# Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 2566
+# Total Domains: 2563
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

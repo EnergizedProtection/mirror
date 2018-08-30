@@ -62,7 +62,6 @@
 0.0.0.0 analytics.blue
 0.0.0.0 andlache.com
 0.0.0.0 andrew.nullrefexcep.com
-0.0.0.0 androidapk.world
 0.0.0.0 anime.reactor.cc
 0.0.0.0 apdrive.win
 0.0.0.0 api.aalbbh84.info
@@ -227,7 +226,6 @@
 0.0.0.0 coiner.site
 0.0.0.0 coinerra.com
 0.0.0.0 coingive.com
-0.0.0.0 coinhiv.com
 0.0.0.0 coinhive-manager.com
 0.0.0.0 coinhive-proxy.party
 0.0.0.0 coinhive.com
@@ -240,7 +238,6 @@
 0.0.0.0 coinhove.com
 0.0.0.0 coinhub.win
 0.0.0.0 coinimp.com
-0.0.0.0 coinimp.com/scripts
 0.0.0.0 coinimp.net
 0.0.0.0 coinive.com
 0.0.0.0 coinjive.com
@@ -303,7 +300,6 @@
 0.0.0.0 dekoder.ws
 0.0.0.0 dev.cryptobara.com
 0.0.0.0 dev.ratingtoplist.com
-0.0.0.0 devappgrant.space
 0.0.0.0 developer.jsecoin.com
 0.0.0.0 dexim.space
 0.0.0.0 didnkinrab.com
@@ -316,6 +312,7 @@
 0.0.0.0 dmg.crypto.csgocpu.com
 0.0.0.0 do69ifsly4.me
 0.0.0.0 donate.cpufan.club
+0.0.0.0 drupalupdates.tk
 0.0.0.0 dxmhkisurxxxhm.ru
 0.0.0.0 dynya-may.github.io
 0.0.0.0 dzizsih.ru
@@ -427,7 +424,6 @@
 0.0.0.0 gtg02.bestsecurepractice.com
 0.0.0.0 gulf.moneroocean.stream
 0.0.0.0 gustaver.ddns.net
-0.0.0.0 hallaert.online
 0.0.0.0 harvest.surge.sh
 0.0.0.0 hashforcash.us
 0.0.0.0 hashing.win
@@ -456,7 +452,6 @@
 0.0.0.0 hostingcloud.download
 0.0.0.0 hostingcloud.faith
 0.0.0.0 hostingcloud.loan
-0.0.0.0 hqq.tvhqq.watch
 0.0.0.0 hrfziiddxa.ru
 0.0.0.0 httpp.gdn
 0.0.0.0 huiwiw.hit.gemius.pl
@@ -595,7 +590,6 @@
 0.0.0.0 miner.pr0gramm.com
 0.0.0.0 minerclaim.net
 0.0.0.0 minercry.pt
-0.0.0.0 minergate.com
 0.0.0.0 minero-proxy-01.now.sh
 0.0.0.0 minero-proxy-02.now.sh
 0.0.0.0 minero-proxy-03.now.sh
@@ -609,7 +603,6 @@
 0.0.0.0 mining.freebitco.in
 0.0.0.0 minr.nullrefexcep.com
 0.0.0.0 minr.pw
-0.0.0.0 minr.pw/inject
 0.0.0.0 miscws002.coinhive.com
 0.0.0.0 miscws005.coinhive.com
 0.0.0.0 miscws009.coinhive.com
@@ -620,7 +613,6 @@
 0.0.0.0 miscws029.coinhive.com
 0.0.0.0 mix.kinostuff.com
 0.0.0.0 mlib.browsermine.com
-0.0.0.0 mm.zubovskaya-banya.ru
 0.0.0.0 mmc.center
 0.0.0.0 mmpool.org
 0.0.0.0 mollnia.com
@@ -634,7 +626,6 @@
 0.0.0.0 monero.hashvault.pro
 0.0.0.0 monerominer.rocks
 0.0.0.0 moneroocean.stream
-0.0.0.0 moneropool.phoenix.dj
 0.0.0.0 monitoringservice.co
 0.0.0.0 monkeyminer.net
 0.0.0.0 moonbit.co.in
@@ -747,7 +738,6 @@
 0.0.0.0 play.mine.gay-hotvideo.net
 0.0.0.0 play.miner.oozing.co
 0.0.0.0 play.mix.kinostuff.com
-0.0.0.0 play.mm.zubovskaya-banya.ru
 0.0.0.0 play.mnr.dorama.site
 0.0.0.0 play.mysite.irkdsu.ru
 0.0.0.0 play.on.animeteatr.ru
@@ -804,7 +794,6 @@
 0.0.0.0 pool.monero.hashvault.pro
 0.0.0.0 pool.sumokoin.hashvault.pro
 0.0.0.0 pool.supportxmr.com
-0.0.0.0 povw1deo.com/player7/jwpsrve.js
 0.0.0.0 power.tainiesonline.pw
 0.0.0.0 ppoi.org
 0.0.0.0 pr0gram.org
@@ -837,7 +826,6 @@
 0.0.0.0 r8nu86wg.me
 0.0.0.0 rack.cryptaloot.pro
 0.0.0.0 rand.com.ru
-0.0.0.0 rapidvideo.com
 0.0.0.0 ratingtoplist.com
 0.0.0.0 rbkshort.info
 0.0.0.0 realnetwrk.com
@@ -1016,12 +1004,10 @@
 0.0.0.0 sydney01.monero.hashvault.pro
 0.0.0.0 synconnector.com
 0.0.0.0 t.analytics.blue
-0.0.0.0 tainiesonline.pw
 0.0.0.0 tainiesonline.stream
 0.0.0.0 tazm9p7tso.trade
 0.0.0.0 techtricksworld.com
 0.0.0.0 template-download.top
-0.0.0.0 teramill.com
 0.0.0.0 terethat.ru
 0.0.0.0 test.cdn-jquery.host
 0.0.0.0 test.directprimal.com
@@ -1036,7 +1022,6 @@
 0.0.0.0 thelifeisbinary.ddns.net
 0.0.0.0 thelifeisbinary.netlify.com
 0.0.0.0 thepiratebay.cr
-0.0.0.0 thepiratebay.org
 0.0.0.0 thepiratebay.wtf
 0.0.0.0 thersprens.com
 0.0.0.0 thewhizmarketing.com
@@ -1069,7 +1054,6 @@
 0.0.0.0 unrummaged.com
 0.0.0.0 uoldid.ru
 0.0.0.0 update-your-pc.info
-0.0.0.0 upgraderservices.cf
 0.0.0.0 us.cfcdist.loan
 0.0.0.0 us.cfcnet.top
 0.0.0.0 us.moneroocean.stream
@@ -1549,7 +1533,6 @@
 0.0.0.0 www.bytecoin.crypto-webminer.com
 0.0.0.0 www.c7e935.netlify.com
 0.0.0.0 www.capodannoinversilia.com
-0.0.0.0 www.carrel.services
 0.0.0.0 www.cd.freecontent.win
 0.0.0.0 www.cdn-analytics.pl
 0.0.0.0 www.cdn-jquery.host
@@ -1564,12 +1547,10 @@
 0.0.0.0 www.chainblock.science
 0.0.0.0 www.chmproxy.bid
 0.0.0.0 www.clgserv.pro
-0.0.0.0 www.cliggi.download
 0.0.0.0 www.clod.pw
 0.0.0.0 www.cloudmedia.gdn
 0.0.0.0 www.cloudmediacdn.com
 0.0.0.0 www.cndhit.xyz
-0.0.0.0 www.cody.services
 0.0.0.0 www.coihive.com
 0.0.0.0 www.coin-have.com
 0.0.0.0 www.coin-hive-proxy-ybydcnjgkl.now.sh
@@ -1583,7 +1564,6 @@
 0.0.0.0 www.coiner.site
 0.0.0.0 www.coinerra.com
 0.0.0.0 www.coingive.com
-0.0.0.0 www.coinhiv.com
 0.0.0.0 www.coinhive-manager.com
 0.0.0.0 www.coinhive-proxy.party
 0.0.0.0 www.coinhive.com
@@ -1630,7 +1610,6 @@
 0.0.0.0 www.dataservices.download
 0.0.0.0 www.deepc.cc
 0.0.0.0 www.dev.ratingtoplist.com
-0.0.0.0 www.devappgrant.space
 0.0.0.0 www.dexim.space
 0.0.0.0 www.didnkinrab.com
 0.0.0.0 www.dinastycoin.crypto-webminer.com
@@ -1690,7 +1669,6 @@
 0.0.0.0 www.greenindex.dynamic-dns.net
 0.0.0.0 www.gridcash.net
 0.0.0.0 www.gridiogrid.com
-0.0.0.0 www.hallaert.online
 0.0.0.0 www.hashforcash.us
 0.0.0.0 www.hashing.win
 0.0.0.0 www.hashto.cash
@@ -1766,7 +1744,6 @@
 0.0.0.0 www.lmodr.biz
 0.0.0.0 www.lookvision.info
 0.0.0.0 www.mariuspetrescu.gq
-0.0.0.0 www.mataharirama.xyz
 0.0.0.0 www.mebablo.com
 0.0.0.0 www.megabanners.cf
 0.0.0.0 www.mfio.cf
@@ -1825,7 +1802,6 @@
 0.0.0.0 www.niematego.tk
 0.0.0.0 www.nimiq.watch
 0.0.0.0 www.nimiqpool.com
-0.0.0.0 www.nitsche.top
 0.0.0.0 www.noblock.pro
 0.0.0.0 www.node.coin-hive.com
 0.0.0.0 www.novaminers.tk
@@ -1885,7 +1861,6 @@
 0.0.0.0 www.sickrage.ca
 0.0.0.0 www.silimbompom.com
 0.0.0.0 www.simpleco.in
-0.0.0.0 www.siteverification.site
 0.0.0.0 www.sm3na.com
 0.0.0.0 www.snahome.com
 0.0.0.0 www.sparechange.io
@@ -1895,7 +1870,6 @@
 0.0.0.0 www.static-02.flu.cc
 0.0.0.0 www.static-net.nut.cc
 0.0.0.0 www.static.reasedoper.pw
-0.0.0.0 www.stats.cryptotab.net
 0.0.0.0 www.stats.infogenservice.com
 0.0.0.0 www.stream.nullrefexcep.com
 0.0.0.0 www.streamdream.ws
@@ -1932,7 +1906,6 @@
 0.0.0.0 www.tubetitties.com
 0.0.0.0 www.turnsocial.com
 0.0.0.0 www.turnsocial.now.sh
-0.0.0.0 www.ullnot.download
 0.0.0.0 www.update-your-pc.info
 0.0.0.0 www.v90327ux.beget.tech
 0.0.0.0 www.vcrypt.net
@@ -2103,8 +2076,8 @@
 
 # Hosts - zerodot1-coinblockerlists-browser
 # Source - https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
-# Generated - 24.08.2018
+# Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 2102
+# Total Domains: 2075
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

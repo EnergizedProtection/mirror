@@ -28,7 +28,6 @@
 0.0.0.0 etoro.com
 0.0.0.0 ezpowerads.com
 0.0.0.0 fast-search.info
-0.0.0.0 fastdist.net
 0.0.0.0 find-allyouneed.com
 0.0.0.0 flwapp.com
 0.0.0.0 ginyas.com
@@ -91,8 +90,8 @@
 
 # Hosts - adware-filters
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adware-filters.txt
-# Generated - 24.08.2018
+# Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 90
+# Total Domains: 89
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

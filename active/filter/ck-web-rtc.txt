@@ -72,7 +72,6 @@
 0.0.0.0 benaughty.dk
 0.0.0.0 bentoforbusiness.com
 0.0.0.0 betseyjohnson.com
-0.0.0.0 bgr.com
 0.0.0.0 bi-xenon.cn
 0.0.0.0 bia2mah.ir
 0.0.0.0 bia4music.com
@@ -80,7 +79,6 @@
 0.0.0.0 bidtellect.com
 0.0.0.0 biggab.com
 0.0.0.0 bitcasino.io
-0.0.0.0 blackberry.com
 0.0.0.0 blackmonsterterror.com
 0.0.0.0 blacktube.com
 0.0.0.0 blivakker.no
@@ -249,7 +247,6 @@
 0.0.0.0 ghostbed.com
 0.0.0.0 giahyab.com
 0.0.0.0 gigantits.com
-0.0.0.0 gigaom.com
 0.0.0.0 gigle.ir
 0.0.0.0 gipfelbuch.ch
 0.0.0.0 globein.com
@@ -300,9 +297,7 @@
 0.0.0.0 infozed.blogspot.com
 0.0.0.0 inside-galaxy.blogspot.com
 0.0.0.0 insideparadeplatz.ch
-0.0.0.0 investopedia.com
 0.0.0.0 ip-api.com
-0.0.0.0 ipleak.net
 0.0.0.0 iranbanou.com
 0.0.0.0 istclub.ir
 0.0.0.0 itsatforum.com
@@ -388,7 +383,6 @@
 0.0.0.0 merrilledge.com
 0.0.0.0 metssfm.tumblr.com
 0.0.0.0 mhuai.com
-0.0.0.0 mihanblog.com
 0.0.0.0 mihanfal.com
 0.0.0.0 milfmovs.com
 0.0.0.0 milfporn.com
@@ -575,7 +569,6 @@
 0.0.0.0 theglow.com.au
 0.0.0.0 themotherish.com
 0.0.0.0 tiket.com
-0.0.0.0 tirebuyer.com
 0.0.0.0 tmonews.com
 0.0.0.0 todaysiphone.com
 0.0.0.0 together2night.com
@@ -605,7 +598,6 @@
 0.0.0.0 uupload.ir
 0.0.0.0 vaghayedaily.ir
 0.0.0.0 vanityplanet.com
-0.0.0.0 variety.com
 0.0.0.0 varietylatino.com
 0.0.0.0 viatech.ir
 0.0.0.0 voisinssolitaires.com
@@ -623,7 +615,6 @@
 0.0.0.0 whatismybrowser.com
 0.0.0.0 whatismyproxy.com
 0.0.0.0 whatleaks.com
-0.0.0.0 whoer.net
 0.0.0.0 wildbuddies.com
 0.0.0.0 wilddate4sex.com
 0.0.0.0 wildmeets.com
@@ -665,8 +656,8 @@
 
 # Hosts - ck-web-rtc
 # Source - https://raw.githubusercontent.com/CHEF-KOCH/WebRTC-tracking/master/WebRTC.txt
-# Generated - 24.08.2018
+# Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 664
+# Total Domains: 655
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

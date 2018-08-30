@@ -197,7 +197,7 @@
 
 # Hosts - ck-barbblock
 # Source - https://raw.githubusercontent.com/CHEF-KOCH/BarbBlock-filter-list/master/HOSTS.txt
-# Generated - 24.08.2018
+# Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 196
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license

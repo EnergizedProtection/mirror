@@ -277,7 +277,6 @@
 0.0.0.0 adui.tg.meitu.com
 0.0.0.0 aduu.cn
 0.0.0.0 adv.app.qq.com
-0.0.0.0 adv.sec.miui.com
 0.0.0.0 adv2.downsave.com
 0.0.0.0 adver.qq.com
 0.0.0.0 adview.cn
@@ -565,7 +564,6 @@
 0.0.0.0 c.l.qq.com
 0.0.0.0 c.m.cn.miaozhen.com
 0.0.0.0 c.minisplat.cn
-0.0.0.0 c.msn.com
 0.0.0.0 c.msn.com.cn
 0.0.0.0 c.rexuebi.com
 0.0.0.0 c.w.inmobi.com
@@ -636,7 +634,6 @@
 0.0.0.0 cf.cdn.inmobi.com
 0.0.0.0 cf8d.stat.gw.youmi.net
 0.0.0.0 cfg.imtt.qq.com
-0.0.0.0 cgi.connect.qq.com
 0.0.0.0 chance.adsensor.org
 0.0.0.0 channel.fanxing.kugou.com
 0.0.0.0 cip6.czpush.com
@@ -815,7 +812,6 @@
 0.0.0.0 cre.dp.sina.cn
 0.0.0.0 cre.mix.sina.com.cn
 0.0.0.0 creative.jdkic.com
-0.0.0.0 crl.microsoft.com
 0.0.0.0 crm-eve.b2b.alibaba-inc.com
 0.0.0.0 crs.baidu.com
 0.0.0.0 cs.dqwjzm.com
@@ -840,7 +836,6 @@
 0.0.0.0 d2.sina.com.cn
 0.0.0.0 d3.sina.com.cn
 0.0.0.0 d3.sinaimg.cn
-0.0.0.0 d31qbv1cthcecs.cloudfront.net
 0.0.0.0 d36eyd5j1kt1m6.cloudfront.net
 0.0.0.0 d3g.qq.com
 0.0.0.0 d3v1lb83psg9di.cloudfront.net
@@ -861,7 +856,6 @@
 0.0.0.0 daohang.114so.cn
 0.0.0.0 dat.gtags.net
 0.0.0.0 data.ads.oppomobile.com
-0.0.0.0 data.flurry.com
 0.0.0.0 data.haoma.sogou.com
 0.0.0.0 data.mistat.xiaomi.com
 0.0.0.0 databank.air.yoyi.com.cn
@@ -1113,6 +1107,7 @@
 0.0.0.0 g.wrating.com
 0.0.0.0 g.x.cn.miaozhen.com
 0.0.0.0 g1.163.com
+0.0.0.0 g1.tagtic.cn
 0.0.0.0 gafxa.code.mytanwan.com
 0.0.0.0 galaxy.bjcathay.com
 0.0.0.0 galaxy.sogoucdn.com
@@ -1140,7 +1135,6 @@
 0.0.0.0 googleadservices.com
 0.0.0.0 googleadsserving.cn
 0.0.0.0 googlecommerce.com
-0.0.0.0 googlesyndication.com
 0.0.0.0 googletagmanager.com
 0.0.0.0 googletagservices.com
 0.0.0.0 goto.sogou.com
@@ -1245,7 +1239,6 @@
 0.0.0.0 i.gdt.qq.com
 0.0.0.0 i.haloapps.com
 0.0.0.0 i.holalauncher.com
-0.0.0.0 i.huilixieye.net
 0.0.0.0 i.ipinyou.com
 0.0.0.0 i.jiathis.com
 0.0.0.0 i.l.inmobicdn.net
@@ -1300,6 +1293,8 @@
 0.0.0.0 img.9ads.net
 0.0.0.0 img.ad.zhangyue.com
 0.0.0.0 img.adbox.sina.com.cn
+0.0.0.0 img.adnyg.com
+0.0.0.0 img.adnyg.com.w.kunlungr.com
 0.0.0.0 img.adpush.cn
 0.0.0.0 img.alimama.cn
 0.0.0.0 img.amp.ad.sina.com.cn
@@ -1444,7 +1439,6 @@
 0.0.0.0 jxlog.istreamsche.com
 0.0.0.0 k.ctsywy.com
 0.0.0.0 keyrun.cn
-0.0.0.0 keystone.mwbsys.com
 0.0.0.0 kfewaz.zh1155.com
 0.0.0.0 kgmobilestat.kugou.com
 0.0.0.0 kho3au7l4z.me
@@ -1504,6 +1498,7 @@
 0.0.0.0 log.music.baidu.com
 0.0.0.0 log.spotify.com
 0.0.0.0 log.stat.kugou.com
+0.0.0.0 log.tagtic.cn
 0.0.0.0 log.tbs.qq.com
 0.0.0.0 log.umsns.com
 0.0.0.0 log.vcgame.cn
@@ -1836,6 +1831,7 @@
 0.0.0.0 pfp.sina.com.cn
 0.0.0.0 pfpip.sina.com
 0.0.0.0 pgdt.gtimg.cn
+0.0.0.0 pgdt.ugdtimg.com
 0.0.0.0 photobucket.adnxs.com
 0.0.0.0 phs.tanx.com
 0.0.0.0 pic.14bobo.com
@@ -1859,7 +1855,6 @@
 0.0.0.0 pixel.adsafeprotected.com
 0.0.0.0 pixel.advertising.com
 0.0.0.0 pixel.mathtag.com
-0.0.0.0 pixel.quantserve.com
 0.0.0.0 pixel.rubiconproject.com
 0.0.0.0 pixel.sitescout.com
 0.0.0.0 pixel.tapad.com
@@ -1890,7 +1885,6 @@
 0.0.0.0 promote.biz.weibo.cn
 0.0.0.0 promotion.aliyun.com
 0.0.0.0 promotion.gomlab.com
-0.0.0.0 proton.flurry.com
 0.0.0.0 proxy.sec.miui.com
 0.0.0.0 ps.haohaowan8.com
 0.0.0.0 ps.map.baidu.com
@@ -2066,7 +2060,6 @@
 0.0.0.0 s.xinghao89.com
 0.0.0.0 s.xmcmn.com
 0.0.0.0 s.youmi.net
-0.0.0.0 s0.2mdn.net
 0.0.0.0 s1.2mdn.net
 0.0.0.0 s1.cmfu.com
 0.0.0.0 s1.cnzz.com
@@ -2276,6 +2269,7 @@
 0.0.0.0 sdkpay.uu.cc
 0.0.0.0 sdksitter.m.sjzhushou.com
 0.0.0.0 sdn.kugou.com
+0.0.0.0 sdownload.stargame.com
 0.0.0.0 sdsp.ipinyou.com
 0.0.0.0 sdu.adwo.com
 0.0.0.0 sea.napi.ucweb.com
@@ -2292,13 +2286,11 @@
 0.0.0.0 secure-sg.imrworldwide.com
 0.0.0.0 secure-sin.adnxs.com
 0.0.0.0 secure-uk.imrworldwide.com
-0.0.0.0 secure-us.imrworldwide.com
 0.0.0.0 secure-yt.imrworldwide.com
 0.0.0.0 secure-za.imrworldwide.com
 0.0.0.0 secure.adnxs.com
 0.0.0.0 secure.fastclick.net
 0.0.0.0 secure.img-cdn.mediaplex.com
-0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 security.browser.miui.com
 0.0.0.0 seen.hgo7r.cn
 0.0.0.0 selfie.snapmobileasia.net
@@ -2634,6 +2626,7 @@
 0.0.0.0 uimg.27admin.com
 0.0.0.0 ulink.cc
 0.0.0.0 ulog.imap.baidu.com
+0.0.0.0 ulogs.umeng.com
 0.0.0.0 um.simpli.fi
 0.0.0.0 um2.eqads.com
 0.0.0.0 uma.gtags.net
@@ -2915,7 +2908,6 @@
 0.0.0.0 www.114so.cn
 0.0.0.0 www.202m.com
 0.0.0.0 www.268mob.cn
-0.0.0.0 www.51.la
 0.0.0.0 www.51link.com
 0.0.0.0 www.706529.com
 0.0.0.0 www.716703.com
@@ -3004,7 +2996,6 @@
 0.0.0.0 www.zhengjian.org
 0.0.0.0 www.zhengwunet.org
 0.0.0.0 www.zhuichaguoji.org
-0.0.0.0 www1.wooboo.com.cn
 0.0.0.0 www5.jkjjkj.top
 0.0.0.0 www6.smartadserver.com
 0.0.0.0 www9.effectivemeasure.net
@@ -3106,8 +3097,8 @@
 
 # Hosts - neohost
 # Source - https://hosts.nfz.moe/full/hosts
-# Generated - 24.08.2018
+# Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 3105
+# Total Domains: 3096
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

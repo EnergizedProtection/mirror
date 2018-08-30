@@ -26,6 +26,7 @@
 0.0.0.0 adtiger.tk
 0.0.0.0 adventureparkcostarica.com
 0.0.0.0 adviceforum.info
+0.0.0.0 aerodizain.com
 0.0.0.0 affordablewebsitesandmobileapps.com
 0.0.0.0 afora.ru
 0.0.0.0 aibolita.com
@@ -53,6 +54,7 @@
 0.0.0.0 antiguabarbuda.ru
 0.0.0.0 apteka-pharm.ru
 0.0.0.0 arendakvartir.kz
+0.0.0.0 artdeko.info
 0.0.0.0 artpaint-market.ru
 0.0.0.0 artparquet.ru
 0.0.0.0 ask-yug.com
@@ -60,6 +62,7 @@
 0.0.0.0 atyks.ru
 0.0.0.0 auto-complex.by
 0.0.0.0 auto-kia-fulldrive.ru
+0.0.0.0 auto-seo-service.org
 0.0.0.0 autoblog.org.ua
 0.0.0.0 autoseo-traffic.com
 0.0.0.0 autovideobroadcast.com
@@ -85,7 +88,6 @@
 0.0.0.0 bestwebsitesawards.com
 0.0.0.0 betterhealthbeauty.com
 0.0.0.0 bezprostatita.com
-0.0.0.0 biglistofwebsites.com
 0.0.0.0 billiard-classic.com.ua
 0.0.0.0 bio-market.kz
 0.0.0.0 biplanecentre.ru
@@ -180,7 +182,7 @@
 0.0.0.0 dosugrostov.site
 0.0.0.0 drupa.com
 0.0.0.0 earn-from-articles.com
-0.0.0.0 earnity-money.info
+0.0.0.0 earnian-money.info
 0.0.0.0 easycommerce.cf
 0.0.0.0 ecomp3.ru
 0.0.0.0 econom.co
@@ -218,6 +220,7 @@
 0.0.0.0 filesclub.net
 0.0.0.0 filesdatabase.net
 0.0.0.0 filter-ot-zheleza.ru
+0.0.0.0 financial-simulation.com
 0.0.0.0 finansov.info
 0.0.0.0 findercarphotos.com
 0.0.0.0 fix-website-errors.com
@@ -253,6 +256,7 @@
 0.0.0.0 getaadsincome.info
 0.0.0.0 getadsincomely.info
 0.0.0.0 getlamborghini.ga
+0.0.0.0 getpy-click.info
 0.0.0.0 getrichquickly.info
 0.0.0.0 ghazel.ru
 0.0.0.0 giftbig.ru
@@ -423,6 +427,7 @@
 0.0.0.0 niki-mlt.ru
 0.0.0.0 nizniynovgorod.dienai.ru
 0.0.0.0 novosti-hi-tech.ru
+0.0.0.0 nubuilderian.info
 0.0.0.0 o-o-11-o-o.com
 0.0.0.0 o-o-6-o-o.com
 0.0.0.0 o-o-6-o-o.ru
@@ -651,6 +656,7 @@
 0.0.0.0 ufa.dienai.ru
 0.0.0.0 ukrainian-poetry.com
 0.0.0.0 ul-potolki.ru
+0.0.0.0 undergroundcityphoto.com
 0.0.0.0 unibus.su
 0.0.0.0 univerfiles.com
 0.0.0.0 unlimitdocs.net
@@ -733,8 +739,8 @@
 
 # Hosts - matomo.org-spammers
 # Source - https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt
-# Generated - 24.08.2018
+# Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 732
+# Total Domains: 738
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

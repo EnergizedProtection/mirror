@@ -18,8 +18,6 @@
 0.0.0.0 ads.bitcoin.com
 0.0.0.0 afminer.com
 0.0.0.0 agiuzlmavpnlb.com
-0.0.0.0 agwsneccrbda.com
-0.0.0.0 ahyuzjgukqyd.com
 0.0.0.0 aionvpexcmm.com
 0.0.0.0 ajfziqehnwvz.com
 0.0.0.0 aladbvddjsxf.com
@@ -61,7 +59,6 @@
 0.0.0.0 bbzwbxchqgph.com
 0.0.0.0 bcc.suprnova.cc
 0.0.0.0 bdggxjonzbmq.com
-0.0.0.0 bdyzewccsqpw.com
 0.0.0.0 behybmunweid.com
 0.0.0.0 beta-mining.bitcoin.cz
 0.0.0.0 bfsssvkowvh.com
@@ -127,14 +124,10 @@
 0.0.0.0 cfyvrgvopaejx.com
 0.0.0.0 cgjyesqhxzzm.com
 0.0.0.0 chc.suprnova.cc
-0.0.0.0 chzashakbgds.com
-0.0.0.0 cikzhemgwchl.com
 0.0.0.0 cirkev.bitcoin.cz
 0.0.0.0 ckfctuaga.com
 0.0.0.0 ckjjcarzu.com
 0.0.0.0 ckxhoidrflu.com
-0.0.0.0 cledghtdrjtb.com
-0.0.0.0 clhkbfqzwpst.com
 0.0.0.0 clortho.multipool.us
 0.0.0.0 cloudcoins.co
 0.0.0.0 cmdnzbuynnm.com
@@ -163,7 +156,6 @@
 0.0.0.0 cpmjpcefbwqr.com
 0.0.0.0 cpxjivpayggg.com
 0.0.0.0 cpynfeqyqfby.com
-0.0.0.0 cqbphspgvhuk.com
 0.0.0.0 cqfnvznw.info
 0.0.0.0 crpiucewddag.com
 0.0.0.0 cryptmonero.com
@@ -183,7 +175,6 @@
 0.0.0.0 czcydlrnu.com
 0.0.0.0 czgeitdowtlv.com
 0.0.0.0 czihyzbul.com
-0.0.0.0 czppmlbidjdx.com
 0.0.0.0 d1.eth.pp.ua
 0.0.0.0 d3iz6lralvg77g.cloudfront.net
 0.0.0.0 dadllrpazourna.com
@@ -227,7 +218,6 @@
 0.0.0.0 dmvegzsxaxn.com
 0.0.0.0 dmvmnafx.com
 0.0.0.0 dneqghbwlmyjnj.com
-0.0.0.0 dnoucjqzsasm.com
 0.0.0.0 dodahirwudrhv.com
 0.0.0.0 dogepool.rf.gd
 0.0.0.0 domdtvbhgg.com
@@ -248,7 +238,6 @@
 0.0.0.0 easmdmxps.com
 0.0.0.0 ecvladelayk.com
 0.0.0.0 edoolqkrnmmnj.com
-0.0.0.0 edxvyyywsxqh.com
 0.0.0.0 eehdssnxola.com
 0.0.0.0 ehxfudlqli.com
 0.0.0.0 eiqzyxofsgzel.com
@@ -266,7 +255,6 @@
 0.0.0.0 emvdlnwph.com
 0.0.0.0 enfupatujiqb.com
 0.0.0.0 eojrldtucqsf.com
-0.0.0.0 epgokiocquxf.com
 0.0.0.0 eptwulil.com
 0.0.0.0 equihash.cryptobroker.io
 0.0.0.0 escobar.pr0gramm.com
@@ -307,7 +295,6 @@
 0.0.0.0 eu.zec.slushpool.com
 0.0.0.0 eu1.bitminter.com
 0.0.0.0 eu2.multipool.us
-0.0.0.0 eupwogkcjczz.com
 0.0.0.0 eutklhuazxlt.com
 0.0.0.0 euxisszoyader.com
 0.0.0.0 evszxlad.com
@@ -334,12 +321,9 @@
 0.0.0.0 feqlklwaafgc.com
 0.0.0.0 ffhwzaenzoue.com
 0.0.0.0 ffpyofnpq.com
-0.0.0.0 fghdembabvwe.com
 0.0.0.0 fgyeepfitnvkzz.com
 0.0.0.0 fiarnvygamgpqf.com
-0.0.0.0 fjuouqwxgbir.com
 0.0.0.0 fjxlbkwhtpil.com
-0.0.0.0 fkianrxjfumm.com
 0.0.0.0 fkphqtgqrfixl.com
 0.0.0.0 fkwwhndzjlqrm.com
 0.0.0.0 flo.suprnova.cc
@@ -413,7 +397,6 @@
 0.0.0.0 gncfttutoiwwq.com
 0.0.0.0 gnmjiishaldus.com
 0.0.0.0 gnnmdzbroemx.com
-0.0.0.0 goodolddownloads.com
 0.0.0.0 gperzgnvuuyx.com
 0.0.0.0 gphfgyrkpumn.com
 0.0.0.0 gquvhveabaem.com
@@ -425,8 +408,6 @@
 0.0.0.0 grxpaizsvdzw.com
 0.0.0.0 gsqwxrtcabdftt.com
 0.0.0.0 gtbfhyprjhqz.com
-0.0.0.0 gtcpsbvtwaqw.com
-0.0.0.0 guhtjoqtobac.com
 0.0.0.0 gulf.moneroocean.stream
 0.0.0.0 gus.host
 0.0.0.0 gverjfuapaag.com
@@ -442,8 +423,6 @@
 0.0.0.0 hasxepvkld.com
 0.0.0.0 hbhcndcpohpwib.com
 0.0.0.0 hbvnnwtoonhh.com
-0.0.0.0 hclccadfmkpw.com
-0.0.0.0 hdwlzheftpin.com
 0.0.0.0 heikwwkqy.com
 0.0.0.0 hexamining.io
 0.0.0.0 heydqkfbglbu.com
@@ -456,31 +435,24 @@
 0.0.0.0 hiypucxjvfka.com
 0.0.0.0 hjeoncuvklqh.com
 0.0.0.0 hjopehvzspngi.com
-0.0.0.0 hjvdkrjmxngg.com
 0.0.0.0 hljiofrtqenc.com
 0.0.0.0 hmcczsoimnjxzi.com
 0.0.0.0 hnivikwwypcv.com
 0.0.0.0 hnkbivnten.com
-0.0.0.0 hnqnftzzytjl.com
 0.0.0.0 hobtkxap.com
 0.0.0.0 hodl.suprnova.cc
 0.0.0.0 hohfiknuk.com
 0.0.0.0 hopafrmwpckj.com
 0.0.0.0 hosqkmnjt.com
-0.0.0.0 howjkpaynzwf.com
 0.0.0.0 hqsxomhxwhpq.com
-0.0.0.0 hqxtsqwpvort.com
 0.0.0.0 hrdbamvfzipe.com
 0.0.0.0 hrvxpinmdyjx.com
 0.0.0.0 hrykyhqtgcro.com
 0.0.0.0 hseyrxoi.com
 0.0.0.0 hsoyrqqsludd.com
-0.0.0.0 hszyozoawqnk.com
 0.0.0.0 htpkxpgbprpklc.com
-0.0.0.0 htrprrrtrwrc.com
 0.0.0.0 httftlckaxj.com
 0.0.0.0 htyazxwc.com
-0.0.0.0 huayucnblhgy.com
 0.0.0.0 hub.miningpoolhub.com
 0.0.0.0 hubvotrpjios.com
 0.0.0.0 huewmezzodzdv.com
@@ -533,7 +505,6 @@
 0.0.0.0 itbiwlsxtigx.com
 0.0.0.0 iupqelechcmj.com
 0.0.0.0 iwanttoearn.money
-0.0.0.0 ixznwuxokydz.com
 0.0.0.0 iygdvith.com
 0.0.0.0 izmwtewwobxy.com
 0.0.0.0 jabcdkwmwnek.com
@@ -587,7 +558,6 @@
 0.0.0.0 jugehjohbc.com
 0.0.0.0 jusrlkubhjnr.com
 0.0.0.0 jvhdxosisifv.com
-0.0.0.0 jvnvvuveozfi.com
 0.0.0.0 jvriybgxne.com
 0.0.0.0 jwbuxywauut.com
 0.0.0.0 jxanmrdurjhw.com
@@ -611,7 +581,6 @@
 0.0.0.0 kissdoujin.com
 0.0.0.0 kisshentai.net
 0.0.0.0 kiwifarms.net
-0.0.0.0 kjnkmidieyrb.com
 0.0.0.0 kkawxvjeluwc.com
 0.0.0.0 klakcdiqmgxq.com
 0.0.0.0 klepuazuxv.com
@@ -645,7 +614,6 @@
 0.0.0.0 lbry.suprnova.cc
 0.0.0.0 lcpqoewrzuxh.com
 0.0.0.0 lcyncwbacrgz.com
-0.0.0.0 ldyiuvdoahxz.com
 0.0.0.0 lebeiivzmm.com
 0.0.0.0 leuojmgbkpcl.com
 0.0.0.0 lfclktkwnc.com
@@ -682,7 +650,6 @@
 0.0.0.0 lwxkgejswn.com
 0.0.0.0 lwyjxvbcjkstxy.com
 0.0.0.0 lxcfaekywx.com
-0.0.0.0 lxghhxdcmumk.com
 0.0.0.0 lyygeitghavmm.com
 0.0.0.0 lzfvonzwjzhz.com
 0.0.0.0 m.bitcoin.cz
@@ -692,7 +659,6 @@
 0.0.0.0 max.suprnova.cc
 0.0.0.0 maxcoin.miningpoolhub.com
 0.0.0.0 mbrxgolis.com
-0.0.0.0 meeaowsxneps.com
 0.0.0.0 menoetius.phoenixcoin.org
 0.0.0.0 mfjegjqb.com
 0.0.0.0 mgrutivnzs.com
@@ -730,7 +696,6 @@
 0.0.0.0 mmdcibihoimt.com
 0.0.0.0 mmpool.org
 0.0.0.0 mmshbwtpx.com
-0.0.0.0 mmygcnboxlam.com
 0.0.0.0 mnanijqnse.com
 0.0.0.0 mobile-mining.com
 0.0.0.0 mobile.bitcoin.cz
@@ -792,8 +757,6 @@
 0.0.0.0 nfqxehrpahqhjf.com
 0.0.0.0 nfzaustkhtkd.com
 0.0.0.0 ngnofhussaao.com
-0.0.0.0 nhbklvpswckx.com
-0.0.0.0 nidjppokmlcx.com
 0.0.0.0 nijksigqjzalcf.com
 0.0.0.0 niviemwsmiaq.com
 0.0.0.0 njcmfnnzwwuj.com
@@ -807,7 +770,6 @@
 0.0.0.0 node2.xmr-tw.org
 0.0.0.0 nodes.bitcoin-russia.ru
 0.0.0.0 nofoxnalt.com
-0.0.0.0 nplrzxvyrhiq.com
 0.0.0.0 nuihcvbixjea.com
 0.0.0.0 nunmnrbjrbsac.com
 0.0.0.0 nvqsjdvgqnyk.com
@@ -878,7 +840,6 @@
 0.0.0.0 podrltid.info
 0.0.0.0 pool.antpool.com
 0.0.0.0 pool.ar-net.info
-0.0.0.0 pool.bitcoin.com
 0.0.0.0 pool.bitcoin.cz
 0.0.0.0 pool.bohemianpool.com
 0.0.0.0 pool.ckpool.org
@@ -935,11 +896,9 @@
 0.0.0.0 qkdywnhtmpgc.com
 0.0.0.0 qkfqyqczawyb.com
 0.0.0.0 qkjltxihv.com
-0.0.0.0 qknuubmfneib.com
 0.0.0.0 qlqvzzcaxto.com
 0.0.0.0 qnsdwkjctkso.com
 0.0.0.0 qogsjvkaoe.com
-0.0.0.0 qoxsriddwmqx.com
 0.0.0.0 qqbwymba.com
 0.0.0.0 qqgtevtjnpwd.com
 0.0.0.0 qrcsppwzjryh.com
@@ -950,14 +909,10 @@
 0.0.0.0 qttmjwno.com
 0.0.0.0 quark.miningpoolhub.com
 0.0.0.0 qumzxkpexf.com
-0.0.0.0 qveuxmbhbhmg.com
-0.0.0.0 qxbnmdjmymqa.com
 0.0.0.0 qxvnvbkcm.com
-0.0.0.0 qyvpgddwqynp.com
 0.0.0.0 qyzoejyqbqyd.com
 0.0.0.0 qzcpotzdkfyn.com
 0.0.0.0 ratchetmining.com
-0.0.0.0 rbgrlqsepeds.com
 0.0.0.0 rcemsoiyil.com
 0.0.0.0 rckxwyowygef.com
 0.0.0.0 rcnkflgtxspr.com
@@ -979,7 +934,6 @@
 0.0.0.0 rijadpczqbdsvb.com
 0.0.0.0 rjljndfgnkcu.com
 0.0.0.0 rjnqbphb.com
-0.0.0.0 rlqvyqgjkxgx.com
 0.0.0.0 rlszkjkcmjxd.com
 0.0.0.0 rnfrfxqztlno.com
 0.0.0.0 rnhkptivhwhc.com
@@ -990,30 +944,22 @@
 0.0.0.0 rqsndrkezz.com
 0.0.0.0 rqthkhiuddlg.com
 0.0.0.0 rriqwzgmaazsp.com
-0.0.0.0 rrrdddbtofnf.com
-0.0.0.0 rrscdnsfunoe.com
 0.0.0.0 rrvkjvhbwnbre.com
-0.0.0.0 rryodgeerrvn.com
 0.0.0.0 rsjpgfugttlh.com
 0.0.0.0 rswgoccwzs.com
-0.0.0.0 rtusxaoxemxy.com
 0.0.0.0 rtwvnrgn.com
 0.0.0.0 rvvslhmmbor.com
 0.0.0.0 rwdkcusan.com
-0.0.0.0 rweqvydtzyre.com
 0.0.0.0 rwxzeoqfj.com
 0.0.0.0 rxczemggfsxx.com
 0.0.0.0 ryhrabmmprehm.com
 0.0.0.0 rylkihtmnvsh.com
-0.0.0.0 rylnirfbokjd.com
 0.0.0.0 ryxpmonwqeg.com
-0.0.0.0 rzgiiioqfpny.com
 0.0.0.0 s.gus.host
 0.0.0.0 s.zsolo.bid
 0.0.0.0 s003.papoto.com
 0.0.0.0 sailznsgbygz.com
 0.0.0.0 salhbbkvs.com
-0.0.0.0 samlmqljptbd.com
 0.0.0.0 satjrvwtaertn.com
 0.0.0.0 sbdedksgqu.com
 0.0.0.0 sbhmn-miner.com
@@ -1030,7 +976,6 @@
 0.0.0.0 sexcoin.miningpoolhub.com
 0.0.0.0 seympfgeyrew.com
 0.0.0.0 sfaprgtgcguh.com
-0.0.0.0 sfmziexfvvru.com
 0.0.0.0 sg.bitcoin.cz
 0.0.0.0 sg.kano.is
 0.0.0.0 sg.stratum.slushpool.com
@@ -1058,7 +1003,6 @@
 0.0.0.0 snxjlicc.com
 0.0.0.0 sohdqpqlgis.com
 0.0.0.0 soibuuqqhuyo.com
-0.0.0.0 soirqzccdtyk.com
 0.0.0.0 solarcoin.miningpoolhub.com
 0.0.0.0 solo.ckpool.org
 0.0.0.0 sologateway.ckpool.org
@@ -1111,7 +1055,6 @@
 0.0.0.0 sydney01.minemonero.pro
 0.0.0.0 synagogalasjmabda.download
 0.0.0.0 tadkozdgbyw.com
-0.0.0.0 tbjjzhkwfezt.com
 0.0.0.0 tchqwqspwjeei.com
 0.0.0.0 tckofxwcaqts.com
 0.0.0.0 tcrinrvfejjh.com
@@ -1139,7 +1082,6 @@
 0.0.0.0 tpfnibqjrpcj.com
 0.0.0.0 tqcxtxglt.com
 0.0.0.0 tratum.bitcoin.cz
-0.0.0.0 trdhjlszfbwk.com
 0.0.0.0 trezor.bitcoin.cz
 0.0.0.0 tugae2.com
 0.0.0.0 tuldmgwvimgowg.com
@@ -1161,7 +1103,6 @@
 0.0.0.0 ufocoin.miningpoolhub.com
 0.0.0.0 uhccvnxi.com
 0.0.0.0 ujjotriglqpkjh.com
-0.0.0.0 ukolwxqopahb.com
 0.0.0.0 ulbriabm.com
 0.0.0.0 ulwsjpfxwniz.com
 0.0.0.0 unrbpcqmiybu.com
@@ -1200,7 +1141,6 @@
 0.0.0.0 usxmrpool.com
 0.0.0.0 uukqjcucva.com
 0.0.0.0 uuvwcjtppeonfq.com
-0.0.0.0 uwnklfxurped.com
 0.0.0.0 uxrvjeyyj.com
 0.0.0.0 uzmmpskwon.com
 0.0.0.0 uzwweczttqlayd.com
@@ -1214,13 +1154,10 @@
 0.0.0.0 vddhkbxeutjr.com
 0.0.0.0 vdnwtglxprwx.com
 0.0.0.0 vdumpcunfa.com
-0.0.0.0 vegmvagvesye.com
-0.0.0.0 vepcsswlpolz.com
 0.0.0.0 verge-scrypt.miningpoolhub.com
 0.0.0.0 versiliaguide.com
 0.0.0.0 vertcoin.miningpoolhub.com
 0.0.0.0 vfsmtbtqducat.com
-0.0.0.0 vhuveukirbuz.com
 0.0.0.0 vid.pr0gramm.com
 0.0.0.0 vimenhhpqnb.com
 0.0.0.0 virtualminingcoin.miningpoolhub.com
@@ -1229,7 +1166,6 @@
 0.0.0.0 vlxgszdgmnay.com
 0.0.0.0 vmqbifesgqs.com
 0.0.0.0 vqmqhkjfbksda.com
-0.0.0.0 vqtjeddutdix.com
 0.0.0.0 vrewpywootyu.com
 0.0.0.0 vreyirfvpytz.com
 0.0.0.0 vrrupikcfcf.com
@@ -1247,14 +1183,12 @@
 0.0.0.0 webmail.xzpool.com
 0.0.0.0 webmine.cz
 0.0.0.0 wegbgideb.com
-0.0.0.0 wehtkuhlwsxy.com
 0.0.0.0 wembbuue.com
 0.0.0.0 weqpkntrxqzh.com
 0.0.0.0 whchsvlxch.site
 0.0.0.0 whgsyczcofwf.com
 0.0.0.0 whxhegjrqlddko.com
 0.0.0.0 wipcpwadysghx.com
-0.0.0.0 wirfpvmoblpa.com
 0.0.0.0 wizejdnlqwcb.com
 0.0.0.0 wjkwjcmeymu.com
 0.0.0.0 wkmuxmlk.com
@@ -1479,17 +1413,14 @@
 0.0.0.0 wyueivwashc.com
 0.0.0.0 xaqbpvojgi.com
 0.0.0.0 xbasfbno.info
-0.0.0.0 xbyvexekkrnt.com
 0.0.0.0 xbzmworkoyrx.com
 0.0.0.0 xcxepcbypxwf.com
 0.0.0.0 xdjeestdoiis.com
-0.0.0.0 xdtliokpaiej.com
 0.0.0.0 xegvnhpwytev.com
 0.0.0.0 xgaethsnmbzi.com
 0.0.0.0 xjehskjzyedb.com
 0.0.0.0 xjjjohojeeozv.com
 0.0.0.0 xkotbziugfturl.com
-0.0.0.0 xlavzhffzwgb.com
 0.0.0.0 xlc.crypto-coins.club
 0.0.0.0 xmg.suprnova.cc
 0.0.0.0 xmr-eu.dwarfpool.com
@@ -1510,7 +1441,6 @@
 0.0.0.0 xmrminerpro.com
 0.0.0.0 xmrpool.eu
 0.0.0.0 xnvsheyceyjv.com
-0.0.0.0 xpjizpoxzosn.com
 0.0.0.0 xpool.net
 0.0.0.0 xqrjfouxkrs.com
 0.0.0.0 xsztfrlkphqy.com
@@ -1529,9 +1459,7 @@
 0.0.0.0 ybrjldiexlqb.com
 0.0.0.0 ychbtidylyna.com
 0.0.0.0 ycpepqbyhvtb.com
-0.0.0.0 yeyddgjqpwya.com
 0.0.0.0 yfgietsfti.com
-0.0.0.0 yfrsukbbfzyf.com
 0.0.0.0 ygyymhfstzuen.com
 0.0.0.0 yhglrmvdxmxm.com
 0.0.0.0 yikkagezqsob.com
@@ -1584,16 +1512,13 @@
 0.0.0.0 zen.miningspeed.com
 0.0.0.0 zen.suprnova.cc
 0.0.0.0 zero.suprnova.cc
-0.0.0.0 zfwzdrzcasov.com
 0.0.0.0 zhqzqupvgczom.com
 0.0.0.0 ziaxamkssw.com
 0.0.0.0 ziglpcxcxetsi.com
 0.0.0.0 zijnobynjmcs.com
 0.0.0.0 zjgbpjmqfaow.com
 0.0.0.0 zkezpfdfnthb.com
-0.0.0.0 zkzpfpoazfgq.com
 0.0.0.0 znnmzggbw.com
-0.0.0.0 zohaqnxwkvyt.com
 0.0.0.0 zowhxkwzjpta.com
 0.0.0.0 zpfjfwbij.com
 0.0.0.0 zprrfpczfpnh.com
@@ -1604,20 +1529,16 @@
 0.0.0.0 zslembevfypr.com
 0.0.0.0 zsxlpdtnyyau.com
 0.0.0.0 zsxwpotlxihvk.com
-0.0.0.0 ztmwkxvvyoao.com
-0.0.0.0 zvttlvbclihk.com
 0.0.0.0 zwxfsqruqlim.com
-0.0.0.0 zxadziqqayup.com
 0.0.0.0 zxafncddmww.com
 0.0.0.0 zxavxgjcjmkh.com
 0.0.0.0 zxjmybvewmso.com
-0.0.0.0 zyleqnzmvupg.com
 0.0.0.0 zylokfmgrtzv.com
 
 # Hosts - anudeep-coinminer
 # Source - https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt
-# Generated - 24.08.2018
+# Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 1615
+# Total Domains: 1536
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

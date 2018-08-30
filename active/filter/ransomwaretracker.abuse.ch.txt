@@ -3,7 +3,6 @@
 0.0.0.0 32kl2rwsjvqjeui7.onion.to
 0.0.0.0 32kl2rwsjvqjeui7.tor2web.org
 0.0.0.0 4w5wihkwyhsav2ha.dreamtest.at
-0.0.0.0 52uo5k3t73ypjije.pop81.com
 0.0.0.0 6dtxgqam4crv6rr6.onion.cab
 0.0.0.0 6g4ds.froekuge.com
 0.0.0.0 88fga.ketteaero.com
@@ -108,8 +107,8 @@
 
 # Hosts - ransomwaretracker.abuse.ch
 # Source - https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt
-# Generated - 24.08.2018
+# Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 107
+# Total Domains: 106
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

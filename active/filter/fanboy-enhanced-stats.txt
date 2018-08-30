@@ -4,7 +4,6 @@
 0.0.0.0 badge.clevergirlscollective.com
 0.0.0.0 beead.fr
 0.0.0.0 blockertools.net
-0.0.0.0 browser-update.org
 0.0.0.0 bunsen.wapolabs.com
 0.0.0.0 capture.trackjs.com
 0.0.0.0 chameleonx.net
@@ -21,7 +20,6 @@
 0.0.0.0 fairblocker.com
 0.0.0.0 freestat.hu
 0.0.0.0 geo.query.yahoo.com
-0.0.0.0 google-analytics.com
 0.0.0.0 hitcount.de
 0.0.0.0 hitpage.de
 0.0.0.0 images.scanalert.com
@@ -45,7 +43,6 @@
 0.0.0.0 ppjol.net
 0.0.0.0 predicta.com.br
 0.0.0.0 preferences.truste.com
-0.0.0.0 privacy-policy.truste.com
 0.0.0.0 ranktraffic.de
 0.0.0.0 rapidstats.de
 0.0.0.0 resellerratings.com
@@ -59,7 +56,6 @@
 0.0.0.0 seal.starfieldtech.com
 0.0.0.0 seal.stellaservice.com
 0.0.0.0 seal.thawte.com
-0.0.0.0 seal.verisign.com
 0.0.0.0 sealserver.trustwave.com
 0.0.0.0 securitymetrics.com
 0.0.0.0 sellpoint.net
@@ -74,7 +70,6 @@
 0.0.0.0 subscriptiongenius.com
 0.0.0.0 syncaccess.net
 0.0.0.0 syncronex.com
-0.0.0.0 thepiratebay.org
 0.0.0.0 tinypass.com
 0.0.0.0 tracedseals.starfieldtech.com
 0.0.0.0 tracking.bestofmicro.com
@@ -97,8 +92,8 @@
 
 # Hosts - fanboy-enhanced-stats
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/fanboy-enhanced-stats.txt
-# Generated - 24.08.2018
+# Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 96
+# Total Domains: 91
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

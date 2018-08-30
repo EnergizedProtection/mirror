@@ -120,6 +120,7 @@
 0.0.0.0 ax47mp-xp-21.com
 0.0.0.0 aztecash.com
 0.0.0.0 baconaces.pro
+0.0.0.0 baletingo.com
 0.0.0.0 banerator.net
 0.0.0.0 bcash4you.com
 0.0.0.0 belamicash.com
@@ -788,13 +789,14 @@
 0.0.0.0 zboac.com
 0.0.0.0 zenhppyad.com
 0.0.0.0 zenkreka.com
+0.0.0.0 zinhavnpak.com
 0.0.0.0 ziphentai.com
 0.0.0.0 zog.link
 
 # Hosts - easylist-adult-adservers
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easylist-adult-adservers.txt
-# Generated - 24.08.2018
+# Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 792
+# Total Domains: 794
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

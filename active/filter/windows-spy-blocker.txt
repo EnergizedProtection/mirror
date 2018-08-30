@@ -65,7 +65,6 @@
 0.0.0.0 by3301-c.1drv.com
 0.0.0.0 by3301-e.1drv.com
 0.0.0.0 c.atdmt.com
-0.0.0.0 c.msn.com
 0.0.0.0 cache.datamart.windows.com
 0.0.0.0 cds10.stn.llnw.net
 0.0.0.0 cds1203.lon.llnw.net
@@ -183,7 +182,6 @@
 0.0.0.0 diagnostics.support.microsoft.com
 0.0.0.0 ec.atdmt.com
 0.0.0.0 flex.msn.com
-0.0.0.0 g.msn.com
 0.0.0.0 geo.settings.data.microsoft.com.akadns.net
 0.0.0.0 h1.msn.com
 0.0.0.0 h2.msn.com
@@ -276,12 +274,10 @@
 0.0.0.0 live.rads.msn.com
 0.0.0.0 location-inference-westus.cloudapp.net
 0.0.0.0 m.adnxs.com
-0.0.0.0 mobile.pipe.aria.microsoft.com
 0.0.0.0 modern.watson.data.microsoft.com.akadns.net
 0.0.0.0 msedge.net
 0.0.0.0 msntest.serving-sys.com
 0.0.0.0 nexus.officeapps.live.com
-0.0.0.0 nexusrules.officeapps.live.com
 0.0.0.0 oca.telemetry.microsoft.com
 0.0.0.0 pre.footprintpredict.com
 0.0.0.0 preview.msn.com
@@ -320,14 +316,12 @@
 0.0.0.0 watson.ppe.telemetry.microsoft.com
 0.0.0.0 watson.telemetry.microsoft.com
 0.0.0.0 wes.df.telemetry.microsoft.com
-0.0.0.0 win10.ipv6.microsoft.com
-0.0.0.0 win1710.ipv6.microsoft.com
 0.0.0.0 www.msedge.net
 
 # Hosts - windows-spy-blocker
 # Source - https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
-# Generated - 24.08.2018
+# Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 325
+# Total Domains: 319
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

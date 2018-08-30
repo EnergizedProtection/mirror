@@ -1,6 +1,5 @@
 0.0.0.0 0daycn.net
 0.0.0.0 100-postal2.blogspot.com
-0.0.0.0 1337x.to
 0.0.0.0 160kbps.4files.net
 0.0.0.0 1clickdown.com
 0.0.0.0 22jumpstreetonlinenow.comunidades.net
@@ -20,7 +19,6 @@
 0.0.0.0 7ur.ru
 0.0.0.0 8hacks.com
 0.0.0.0 8millimeters.com
-0.0.0.0 a2zapk.com
 0.0.0.0 a2zcrack.com
 0.0.0.0 abv-media.ru
 0.0.0.0 activationkeys.org
@@ -48,7 +46,6 @@
 0.0.0.0 apk-free-full-download.blogspot.in
 0.0.0.0 apkgeek.net
 0.0.0.0 apkmate.com
-0.0.0.0 apkmb.com
 0.0.0.0 apkocean.net
 0.0.0.0 appstoreforpc.com
 0.0.0.0 argenteam.net
@@ -261,7 +258,6 @@
 0.0.0.0 episodes-tv.com
 0.0.0.0 etproxy.com
 0.0.0.0 euromovies.me
-0.0.0.0 extratorrent.cc
 0.0.0.0 extratorrentonline.com
 0.0.0.0 ezrss.it
 0.0.0.0 eztv.ag
@@ -431,7 +427,6 @@
 0.0.0.0 keyscity.net
 0.0.0.0 keysfull.com
 0.0.0.0 kickass.so
-0.0.0.0 kickass.to
 0.0.0.0 kickassto.co
 0.0.0.0 kickasstorrents.to
 0.0.0.0 kinguin.net
@@ -662,7 +657,6 @@
 0.0.0.0 pbcrew.info
 0.0.0.0 pc-software.ru
 0.0.0.0 pcfullversion.com
-0.0.0.0 pcgames-download.com
 0.0.0.0 pckeysoft.com
 0.0.0.0 pcsoftncrack.com
 0.0.0.0 pcsoftpro.com
@@ -695,7 +689,6 @@
 0.0.0.0 prescene.com
 0.0.0.0 primartists.com
 0.0.0.0 primewire.ac
-0.0.0.0 primewire.ag
 0.0.0.0 pro-evolution.org
 0.0.0.0 procracks.net
 0.0.0.0 procracksoft.com
@@ -725,7 +718,6 @@
 0.0.0.0 repack.me
 0.0.0.0 requestcracks.com
 0.0.0.0 reverendmike.org
-0.0.0.0 rexdl.com
 0.0.0.0 rfulldownload.com
 0.0.0.0 rlsbb.fr
 0.0.0.0 rlslog.net
@@ -896,7 +888,6 @@
 0.0.0.0 thepiratebay.fm
 0.0.0.0 thepiratebay.gd
 0.0.0.0 thepiratebay.ms
-0.0.0.0 thepiratebay.se
 0.0.0.0 thepiratebay.vg
 0.0.0.0 thesilencemusic.com
 0.0.0.0 thetrickz.com
@@ -943,7 +934,6 @@
 0.0.0.0 uploadbox.com
 0.0.0.0 uploadcity.com
 0.0.0.0 upstore.net
-0.0.0.0 uptobox.com
 0.0.0.0 uraxhayer.ru
 0.0.0.0 usemeplz.com
 0.0.0.0 usenext.com
@@ -980,7 +970,6 @@
 0.0.0.0 wap.topnet.in
 0.0.0.0 wapfun.us
 0.0.0.0 waplog.net
-0.0.0.0 warez-bb.org
 0.0.0.0 warez-start.com
 0.0.0.0 warez-vislovo.ru
 0.0.0.0 warez.loxblog.com
@@ -1307,7 +1296,6 @@
 0.0.0.0 www.euroddl.com
 0.0.0.0 www.euromovies.me
 0.0.0.0 www.evro-stroj.ru
-0.0.0.0 www.extratorrent.cc
 0.0.0.0 www.extratorrentonline.com
 0.0.0.0 www.ezrss.it
 0.0.0.0 www.eztv.ag
@@ -1484,7 +1472,6 @@
 0.0.0.0 www.licensesnkey.com
 0.0.0.0 www.lifemovie.org
 0.0.0.0 www.ligg.org
-0.0.0.0 www.linkbucks.com
 0.0.0.0 www.linkgalleries.net
 0.0.0.0 www.linksbox.net
 0.0.0.0 www.linxdown.com
@@ -1523,7 +1510,6 @@
 0.0.0.0 www.mobtvseries.net
 0.0.0.0 www.mockupgratisan.blogspot.com
 0.0.0.0 www.mockupgratisan.blogspot.in
-0.0.0.0 www.modapkdown.com
 0.0.0.0 www.mondellospizza.com
 0.0.0.0 www.mooslo.com
 0.0.0.0 www.movdl.org
@@ -1634,7 +1620,6 @@
 0.0.0.0 www.prescene.com
 0.0.0.0 www.primartists.com
 0.0.0.0 www.primewire.ac
-0.0.0.0 www.primewire.ag
 0.0.0.0 www.pro-evolution.org
 0.0.0.0 www.procracks.net
 0.0.0.0 www.procracksoft.com
@@ -1660,7 +1645,6 @@
 0.0.0.0 www.realfiles.net
 0.0.0.0 www.reloaded-games.org
 0.0.0.0 www.requestcracks.com
-0.0.0.0 www.revdl.com
 0.0.0.0 www.reverendmike.org
 0.0.0.0 www.rfulldownload.com
 0.0.0.0 www.rlsbb.fr
@@ -2006,7 +1990,6 @@
 0.0.0.0 youhaveavirus.com
 0.0.0.0 youronlinemovies.net
 0.0.0.0 youwatch.org
-0.0.0.0 yts.ag
 0.0.0.0 yts.la
 0.0.0.0 yts.re
 0.0.0.0 zcrack.com
@@ -2032,8 +2015,8 @@
 
 # Hosts - hosts-file.net-wrz
 # Source - https://hosts-file.net/wrz.txt
-# Generated - 24.08.2018
+# Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 2031
+# Total Domains: 2014
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

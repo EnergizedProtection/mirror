@@ -63,7 +63,6 @@
 0.0.0.0 b.myspace.com
 0.0.0.0 bat.adforum.com
 0.0.0.0 bats.video.yahoo.com
-0.0.0.0 beacon-1.newrelic.com
 0.0.0.0 beacon.ehow.com
 0.0.0.0 beacon.examiner.com
 0.0.0.0 beacon.indieclicktv.com
@@ -87,7 +86,6 @@
 0.0.0.0 cdnstats.tube8.com
 0.0.0.0 cem.hotelsapi.io
 0.0.0.0 chkpt.zdnet.com
-0.0.0.0 clc.stackoverflow.com
 0.0.0.0 clck.yandex.com
 0.0.0.0 click.engage.xbox.com
 0.0.0.0 click.jasmin.com
@@ -164,13 +162,11 @@
 0.0.0.0 fresh.techdirt.com
 0.0.0.0 frog.wix.com
 0.0.0.0 funn.graphiq.com
-0.0.0.0 g.msn.com
 0.0.0.0 g.techweekeurope.co.uk
 0.0.0.0 g2a-com.newsletter.com.pl
 0.0.0.0 ga.canoe.ca
 0.0.0.0 ga.nsimg.net
 0.0.0.0 gateway.reddit.com
-0.0.0.0 gekko.spiceworks.com
 0.0.0.0 geo.hltv.org
 0.0.0.0 geo.homepage-web.com
 0.0.0.0 geo.metronews.ca
@@ -283,7 +279,6 @@
 0.0.0.0 nmtracking.netflix.com
 0.0.0.0 oimg.m.cnbc.com
 0.0.0.0 oimg.mobile.cnbc.com
-0.0.0.0 om.cbsi.com
 0.0.0.0 omni.nine.com.au
 0.0.0.0 omniture.stuff.co.nz
 0.0.0.0 omniture.theglobeandmail.com
@@ -309,7 +304,6 @@
 0.0.0.0 pix.eads.com
 0.0.0.0 pix.nbcuni.com
 0.0.0.0 pixel.anyclip.com
-0.0.0.0 pixel.facebook.com
 0.0.0.0 pixel.honestjohn.co.uk
 0.0.0.0 pixel.naij.com
 0.0.0.0 pixel.newsdiscover.com.au
@@ -523,7 +517,6 @@
 0.0.0.0 stats.zmags.com
 0.0.0.0 statscol.pond5.com
 0.0.0.0 statstracker.celebrity-gossip.net
-0.0.0.0 stattrack.0catch.com
 0.0.0.0 stbt.coupons.com
 0.0.0.0 stcollection.moneysupermarket.com
 0.0.0.0 sugar.gameforge.com
@@ -648,8 +641,8 @@
 
 # Hosts - easyprivacy-specific
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easyprivacy-specific.txt
-# Generated - 24.08.2018
+# Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 647
+# Total Domains: 640
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

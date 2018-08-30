@@ -140,7 +140,6 @@
 0.0.0.0 brilig.com
 0.0.0.0 britecove.biz
 0.0.0.0 broker.to
-0.0.0.0 btstatic.com
 0.0.0.0 bugherd.com
 0.0.0.0 builfico.de
 0.0.0.0 burstnet.com
@@ -218,7 +217,6 @@
 0.0.0.0 datacaciques.com
 0.0.0.0 dcoengine.com
 0.0.0.0 deployads.com
-0.0.0.0 device-metrics-us.amazon.com
 0.0.0.0 dianomi.com
 0.0.0.0 directrev.com
 0.0.0.0 displaymarketplace.com
@@ -319,8 +317,6 @@
 0.0.0.0 go2cloud.org
 0.0.0.0 goadservices.com
 0.0.0.0 godatafeed.com
-0.0.0.0 google-analytics.com
-0.0.0.0 googlesyndication.com
 0.0.0.0 googletagmanager.com
 0.0.0.0 googletagservices.com
 0.0.0.0 gorillanation.com
@@ -377,9 +373,7 @@
 0.0.0.0 intellitxt.com
 0.0.0.0 intenta.io
 0.0.0.0 intentiq.com
-0.0.0.0 intentmedia.net
 0.0.0.0 interclick.com
-0.0.0.0 intercom.io
 0.0.0.0 intercomassets.com
 0.0.0.0 invitemedia.com
 0.0.0.0 invoc.us
@@ -412,7 +406,6 @@
 0.0.0.0 liadm.com
 0.0.0.0 lijit.com
 0.0.0.0 likemastr.com
-0.0.0.0 linkbucks.com
 0.0.0.0 linkoffers.net
 0.0.0.0 listrakbi.com
 0.0.0.0 liveadexchanger.com
@@ -629,7 +622,6 @@
 0.0.0.0 servebom.com
 0.0.0.0 servesharp.com
 0.0.0.0 servesharp.net
-0.0.0.0 sessioncam.com
 0.0.0.0 sex-affiliation.com
 0.0.0.0 sg-living.co.jp
 0.0.0.0 sharethis.com
@@ -828,8 +820,8 @@
 
 # Hosts - quidsup-notrack
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/quidsup-no-track.txt
-# Generated - 24.08.2018
+# Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 827
+# Total Domains: 819
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

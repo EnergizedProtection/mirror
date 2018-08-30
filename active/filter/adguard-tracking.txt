@@ -267,7 +267,6 @@
 0.0.0.0 baskettexture.com
 0.0.0.0 bawdybeast.com
 0.0.0.0 baynote.net
-0.0.0.0 bbvc2.com
 0.0.0.0 beamincrease.com
 0.0.0.0 beamkite.com
 0.0.0.0 beanscattering.jp
@@ -363,12 +362,10 @@
 0.0.0.0 broadcastbed.com
 0.0.0.0 bronto.com
 0.0.0.0 browser-statistik.de
-0.0.0.0 browser-update.org
 0.0.0.0 brsrvr.com
 0.0.0.0 bstk.co
 0.0.0.0 bstn-14-ma.com
 0.0.0.0 btbuckets.com
-0.0.0.0 btstatic.com
 0.0.0.0 btttag.com
 0.0.0.0 bubblestat.com
 0.0.0.0 bugherd.com
@@ -456,6 +453,7 @@
 0.0.0.0 clicktracks.com
 0.0.0.0 clickzs.com
 0.0.0.0 clickzzs.nl
+0.0.0.0 client-api.matchinguu.com
 0.0.0.0 clixcount.com
 0.0.0.0 clixpy.com
 0.0.0.0 cloud-exploration.com
@@ -940,7 +938,6 @@
 0.0.0.0 geocontatore.com
 0.0.0.0 geoplugin.net
 0.0.0.0 georiot.com
-0.0.0.0 get35.com
 0.0.0.0 getbackstory.com
 0.0.0.0 getbeacon.io
 0.0.0.0 getclicky.com
@@ -1153,7 +1150,6 @@
 0.0.0.0 intelli-tracker.com
 0.0.0.0 intelliad.de
 0.0.0.0 intelligencefocus.com
-0.0.0.0 intentmedia.net
 0.0.0.0 interakt.ru
 0.0.0.0 interaktiv-net.de
 0.0.0.0 interceptum.com
@@ -1437,7 +1433,6 @@
 0.0.0.0 monetate.net
 0.0.0.0 mongoosemetrics.com
 0.0.0.0 monitis.com
-0.0.0.0 monitor.phorm.com
 0.0.0.0 monitus.net
 0.0.0.0 monkeytracker.cz
 0.0.0.0 moreusers.info
@@ -1582,7 +1577,6 @@
 0.0.0.0 ohmystats.com
 0.0.0.0 oidah.com
 0.0.0.0 oix.com
-0.0.0.0 oix.phorm.com
 0.0.0.0 ojrq.net
 0.0.0.0 okt.to
 0.0.0.0 oktopost.com
@@ -1629,7 +1623,6 @@
 0.0.0.0 os-data.com
 0.0.0.0 ositracker.com
 0.0.0.0 osniffer.pro
-0.0.0.0 ospserver.net
 0.0.0.0 osxau.de
 0.0.0.0 otik.de
 0.0.0.0 otoshiana.com
@@ -1701,7 +1694,6 @@
 0.0.0.0 pingil.com
 0.0.0.0 pingomatic.com
 0.0.0.0 pippio.com
-0.0.0.0 piwik.org
 0.0.0.0 piwik.pro
 0.0.0.0 pixanalytics.com
 0.0.0.0 pixel.ad
@@ -1828,6 +1820,8 @@
 0.0.0.0 raresummer.com
 0.0.0.0 rating.in
 0.0.0.0 rcounter.rambler.ru
+0.0.0.0 rdstation.com
+0.0.0.0 rdstation.com.br
 0.0.0.0 reachforce.com
 0.0.0.0 reachsocket.com
 0.0.0.0 reactful.com
@@ -2002,6 +1996,7 @@
 0.0.0.0 servingtrkid.com
 0.0.0.0 servustats.com
 0.0.0.0 sessioncam.com
+0.0.0.0 settings.crashlytics.com
 0.0.0.0 sexcounter.com
 0.0.0.0 sexystat.com
 0.0.0.0 sf14g.com
@@ -2437,7 +2432,6 @@
 0.0.0.0 userzoom.com
 0.0.0.0 usuarios-online.com
 0.0.0.0 uzrating.com
-0.0.0.0 v.shopify.com
 0.0.0.0 v3cdn.net
 0.0.0.0 valaffiliates.com
 0.0.0.0 valuedopinions.co.uk
@@ -2497,7 +2491,6 @@
 0.0.0.0 visualwebsiteoptimizer.com
 0.0.0.0 vivistats.com
 0.0.0.0 vivocha.com
-0.0.0.0 vizisense.net
 0.0.0.0 vizu.com
 0.0.0.0 vizury.com
 0.0.0.0 vmm-satellite1.com
@@ -2693,8 +2686,8 @@
 
 # Hosts - adguard-tracking
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-tracking-servers.txt
-# Generated - 24.08.2018
+# Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 2692
+# Total Domains: 2685
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

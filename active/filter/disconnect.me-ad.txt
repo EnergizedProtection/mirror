@@ -334,7 +334,6 @@
 0.0.0.0 ads.adverline.com
 0.0.0.0 ads.affiliates.match.com
 0.0.0.0 ads.ak.facebook.com.edgesuite.net
-0.0.0.0 ads.allvatar.com
 0.0.0.0 ads.alt.com
 0.0.0.0 ads.amdmb.com
 0.0.0.0 ads.amigos.com
@@ -731,7 +730,6 @@
 0.0.0.0 adspeed.net
 0.0.0.0 adspirit.de
 0.0.0.0 adsponse.de
-0.0.0.0 adsremote.scrippsnetworks.com
 0.0.0.0 adsrevenue.net
 0.0.0.0 adsrv.deviantart.com
 0.0.0.0 adsrv.iol.co.za
@@ -1069,7 +1067,6 @@
 0.0.0.0 budsinc.com
 0.0.0.0 bullseye.backbeatmedia.com
 0.0.0.0 burstmedia.com
-0.0.0.0 business.opera.com
 0.0.0.0 buyhitscheap.com
 0.0.0.0 buysellads.com
 0.0.0.0 buzzonclick.com
@@ -1430,7 +1427,6 @@
 0.0.0.0 gold.weborama.fr
 0.0.0.0 goldspotmedia.com
 0.0.0.0 goldstats.com
-0.0.0.0 googlesyndication.com
 0.0.0.0 gostats.com
 0.0.0.0 gp.dejanews.com
 0.0.0.0 grafstat.ro
@@ -1917,7 +1913,6 @@
 0.0.0.0 phizzle.com
 0.0.0.0 phluant.com
 0.0.0.0 phoenix-adrunner.mycomputer.com
-0.0.0.0 phonearena.com
 0.0.0.0 phpadsnew.new.natuurpark.nl
 0.0.0.0 phpmyvisites.net
 0.0.0.0 phunware.com
@@ -2499,8 +2494,8 @@
 
 # Hosts - disconnect.me-ad
 # Source - https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Generated - 24.08.2018
+# Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 2498
+# Total Domains: 2493
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

@@ -26,6 +26,7 @@
 0.0.0.0 alinos.xyz
 0.0.0.0 allcodehere.us
 0.0.0.0 allinone-apps.info
+0.0.0.0 always-dealsx24.blogspot.com
 0.0.0.0 alwayslucky.club
 0.0.0.0 amarktflow.com
 0.0.0.0 amazon-gift.ga2h.com
@@ -137,6 +138,7 @@
 0.0.0.0 critical-failure-alert0079.48mn19047307.kw15pdy8xzt4es2man.bid
 0.0.0.0 criticaldefaulterrorx02158.com
 0.0.0.0 crsafepay.com
+0.0.0.0 crypto-gifts.ml
 0.0.0.0 crypto-prize.com
 0.0.0.0 csfastdrop.com
 0.0.0.0 csgoany.com
@@ -555,6 +557,7 @@
 0.0.0.0 musk-official-promo.com
 0.0.0.0 musk-present.blogspot.com
 0.0.0.0 musk-prize.blogspot.com
+0.0.0.0 musk-share.info
 0.0.0.0 musk-shares.blogspot.com
 0.0.0.0 muvideo.us
 0.0.0.0 my-pc-cleaner.org
@@ -675,7 +678,6 @@
 0.0.0.0 rebrand.ly
 0.0.0.0 rectangledownloads.com
 0.0.0.0 redflix.us
-0.0.0.0 redirectvoluum.com
 0.0.0.0 registryeasycleaner.com
 0.0.0.0 reimageplus.com
 0.0.0.0 reliabledownloads.org
@@ -849,6 +851,7 @@
 0.0.0.0 tweakbit.com
 0.0.0.0 twitchgo.org
 0.0.0.0 twittergifts.com
+0.0.0.0 twittergifts.us
 0.0.0.0 uhhk.cricket
 0.0.0.0 ui16d56vitu.tumblr.com
 0.0.0.0 ultra-drop.net
@@ -926,8 +929,8 @@
 
 # Hosts - hexxium-creations-threat-list
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/hexxium-creations-threat-list.txt
-# Generated - 24.08.2018
+# Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 925
+# Total Domains: 928
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

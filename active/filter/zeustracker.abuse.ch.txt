@@ -34,7 +34,6 @@
 0.0.0.0 hi-j.com
 0.0.0.0 hruner.com
 0.0.0.0 hui-ain-apparel.tk
-0.0.0.0 ice.ip64.net
 0.0.0.0 imamnhearte.hotmail.ru
 0.0.0.0 interlogistics.com.vn
 0.0.0.0 islenpiding.hotmail.ru
@@ -46,7 +45,6 @@
 0.0.0.0 kjkdndskjl.info
 0.0.0.0 kntksales.tk
 0.0.0.0 kudrnwosas.faith
-0.0.0.0 l3d.pp.ru
 0.0.0.0 lisovfoxcom.418.com1.ru
 0.0.0.0 lzediamike.trade
 0.0.0.0 malikshabas.com
@@ -102,8 +100,8 @@
 
 # Hosts - zeustracker.abuse.ch
 # Source - https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Generated - 24.08.2018
+# Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 101
+# Total Domains: 99
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

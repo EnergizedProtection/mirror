@@ -4323,7 +4323,6 @@
 0.0.0.0 653280hfc130.tampabay.res.rr.com
 0.0.0.0 653294hfc219.tampabay.res.rr.com
 0.0.0.0 654.stats.misstrends.com
-0.0.0.0 66-146-183-67.skyriver.net
 0.0.0.0 66-162-43-72.static.twtelecom.net
 0.0.0.0 66-168-156-63.dhcp.jcsn.tn.charter.com
 0.0.0.0 66-168-157-254.dhcp.jcsn.tn.charter.com
@@ -10165,7 +10164,6 @@
 0.0.0.0 ad2.hotels.com
 0.0.0.0 ad2.linxcz.cz
 0.0.0.0 ad2.lupa.cz
-0.0.0.0 ad2.mamma.com
 0.0.0.0 ad2.rambler.ru
 0.0.0.0 ad25.com
 0.0.0.0 ad2net.de
@@ -10701,7 +10699,6 @@
 0.0.0.0 ads.livescore.com
 0.0.0.0 ads.loveshack.org
 0.0.0.0 ads.lzjl.com
-0.0.0.0 ads.mamma.com
 0.0.0.0 ads.masslive.com
 0.0.0.0 ads.mediabong.net
 0.0.0.0 ads.mediaodyssey.com
@@ -13147,7 +13144,6 @@
 0.0.0.0 adspics.com
 0.0.0.0 adsplash.de
 0.0.0.0 adspruce.com
-0.0.0.0 adsremote.scrippsnetworks.com
 0.0.0.0 adsrevenue.net
 0.0.0.0 adsrv.bangbros.com
 0.0.0.0 adsrv.dispatch.com
@@ -14517,7 +14513,6 @@
 0.0.0.0 antispyscan.com
 0.0.0.0 antispysolutions.com
 0.0.0.0 antispyspider.us
-0.0.0.0 antispyware.onlinedownloads.org
 0.0.0.0 antispyware.vmn.net
 0.0.0.0 antispywarebot.com
 0.0.0.0 antispywarebox.com
@@ -15914,7 +15909,6 @@
 0.0.0.0 bankwest.112.2o7.net
 0.0.0.0 bannedhost.net
 0.0.0.0 banner-rotation.com
-0.0.0.0 banner.0catch.com
 0.0.0.0 banner.50megs.com
 0.0.0.0 banner.ad.nu
 0.0.0.0 banner.adsrevenue.net
@@ -15931,7 +15925,6 @@
 0.0.0.0 banner.nttnavi.co.jp
 0.0.0.0 banner.passion.com
 0.0.0.0 banner.paypopup.com
-0.0.0.0 banner.play-asia.com
 0.0.0.0 banner.rbc.ru
 0.0.0.0 banner.relcom.ru
 0.0.0.0 banner.search.bg
@@ -15947,7 +15940,6 @@
 0.0.0.0 bannerexchange.troglod.com
 0.0.0.0 bannerfarm.ace.advertising.com
 0.0.0.0 bannerimage.com
-0.0.0.0 bannerimages.0catch.com
 0.0.0.0 bannermarkt.nl
 0.0.0.0 bannerpromotion.it
 0.0.0.0 bannerrage.com
@@ -17090,7 +17082,6 @@
 0.0.0.0 blockedsiteaccess.com
 0.0.0.0 blockfilter.com
 0.0.0.0 blockingbuster.com
-0.0.0.0 blocklist.de
 0.0.0.0 blockmenot.com
 0.0.0.0 blocknoise.media-toolbar.com
 0.0.0.0 blockopen.com
@@ -20066,7 +20057,6 @@
 0.0.0.0 c.cliop.com
 0.0.0.0 c.cnstats.ru
 0.0.0.0 c.cnzz.com
-0.0.0.0 c.enhance.com
 0.0.0.0 c.gamelink.com
 0.0.0.0 c.goclick.com
 0.0.0.0 c.gumgum.com
@@ -23639,7 +23629,6 @@
 0.0.0.0 crackdb.org
 0.0.0.0 crackdump.com
 0.0.0.0 cracked-dot-com-official.tumblr.com
-0.0.0.0 cracked.com
 0.0.0.0 crackedactors.com
 0.0.0.0 crackedanimations.com
 0.0.0.0 crackedapps.com
@@ -24697,7 +24686,6 @@
 0.0.0.0 data.browseraccelerator.com
 0.0.0.0 data.coremetrics.com
 0.0.0.0 data.cpalead.com
-0.0.0.0 data.flurry.com
 0.0.0.0 data.ritzcarlton.com
 0.0.0.0 data.webads.co.nz
 0.0.0.0 data2.perf.overture.com
@@ -25970,7 +25958,6 @@
 0.0.0.0 dom-meblelazienkowe.pl
 0.0.0.0 domaen4u.mycitytoolbar.com
 0.0.0.0 domain-logic.com
-0.0.0.0 domain.dot.tk
 0.0.0.0 domain.politicaltargets.com
 0.0.0.0 domain.uncyc.com
 0.0.0.0 domain1.kro.kr
@@ -28888,7 +28875,6 @@
 0.0.0.0 evh93.neoplus.adsl.tpnet.pl
 0.0.0.0 evi218.neoplus.adsl.tpnet.pl
 0.0.0.0 evi24.neoplus.adsl.tpnet.pl
-0.0.0.0 eviboli576.o-f.com
 0.0.0.0 evidenceeraser.com
 0.0.0.0 evidencenuker.com
 0.0.0.0 evil-shit.de
@@ -30379,7 +30365,6 @@
 0.0.0.0 foxamw.112.2o7.net
 0.0.0.0 foxaz.myforumtoolbar.com
 0.0.0.0 foxcom.112.2o7.net
-0.0.0.0 foxcounter.com
 0.0.0.0 foxentertainment.122.2o7.net
 0.0.0.0 foxglove-cottage.co.uk
 0.0.0.0 foxglove.free.fr
@@ -32849,7 +32834,6 @@
 0.0.0.0 hack8ballpool.org
 0.0.0.0 hack95js.3322.org
 0.0.0.0 hack_center.top-100.pl
-0.0.0.0 hackaday.com
 0.0.0.0 hackagency.com
 0.0.0.0 hackairtel.tk
 0.0.0.0 hackall.net
@@ -33570,7 +33554,6 @@
 0.0.0.0 hidemyadd.com
 0.0.0.0 hidemyadd.net
 0.0.0.0 hidemyass.2u-2.com
-0.0.0.0 hidemyass.com
 0.0.0.0 hidemyass.inc5.com
 0.0.0.0 hidemyass.notlong.com
 0.0.0.0 hidemyass.st20.com
@@ -34201,7 +34184,6 @@
 0.0.0.0 host-n1-118-121.telpol.net.pl
 0.0.0.0 host-n1-97-95.telpol.net.pl
 0.0.0.0 host-vh.host7x24.com
-0.0.0.0 host.connectorltd.com
 0.0.0.0 host.dns-principal.com
 0.0.0.0 host.gudzonserver.com
 0.0.0.0 host.sh06.com
@@ -34430,7 +34412,6 @@
 0.0.0.0 hotspot.cz
 0.0.0.0 hotspot2.wow.lk
 0.0.0.0 hotspotfind.com
-0.0.0.0 hotspotshield.com
 0.0.0.0 hotspotshield.ourtoolbar.com
 0.0.0.0 hotstreams.ru
 0.0.0.0 hottesthandjobs.com
@@ -34874,7 +34855,6 @@
 0.0.0.0 icaescr.com
 0.0.0.0 ical.com
 0.0.0.0 icamotorediciones.es
-0.0.0.0 icanhazip.com
 0.0.0.0 icanquit.co.uk
 0.0.0.0 icastbb.net
 0.0.0.0 icd-fibres.com
@@ -38013,7 +37993,6 @@
 0.0.0.0 laciudadguia.com.ar
 0.0.0.0 lacosanostra.co
 0.0.0.0 lacrima.ru
-0.0.0.0 lacumpa.biz
 0.0.0.0 lada.websitewelcome.com
 0.0.0.0 ladieshj.112.2o7.net
 0.0.0.0 ladonejp.112.2o7.net
@@ -38446,7 +38425,6 @@
 0.0.0.0 lifeforbody.com
 0.0.0.0 lifeforminc.com
 0.0.0.0 lifehack-blog.com
-0.0.0.0 lifehack.org
 0.0.0.0 lifehacker.co.in
 0.0.0.0 lifehacker.jp
 0.0.0.0 lifehacker.neuronation.com
@@ -38589,7 +38567,6 @@
 0.0.0.0 linuxdown.com
 0.0.0.0 linuxienwawa.free.fr
 0.0.0.0 linuxpl.com
-0.0.0.0 linuxtracker.org
 0.0.0.0 lioele.com
 0.0.0.0 liompso.hut2.ru
 0.0.0.0 lionhartcleaning.co.uk
@@ -39861,7 +39838,6 @@
 0.0.0.0 mbuyu.nl
 0.0.0.0 mc-darina.com.ua
 0.0.0.0 mc164.f-h.in
-0.0.0.0 mcaf.ee
 0.0.0.0 mcafee-antivirus.ojolink.fr
 0.0.0.0 mcafee.122.2o7.net
 0.0.0.0 mcafee.com.122.2o7.net
@@ -41070,7 +41046,6 @@
 0.0.0.0 monitor.connexion.co.uk
 0.0.0.0 monitor.exigotechnology.com
 0.0.0.0 monitor.lst.com
-0.0.0.0 monitor.phorm.com
 0.0.0.0 monitor.willstaff.net
 0.0.0.0 monitoring-spy-software.com
 0.0.0.0 monitorinvisibly.com
@@ -41216,7 +41191,6 @@
 0.0.0.0 movies.iwon.com
 0.0.0.0 movies.mystoretoolbar.com
 0.0.0.0 movies.myway.com
-0.0.0.0 movies.ndtv.com
 0.0.0.0 movies.netster.com
 0.0.0.0 movies.real.com
 0.0.0.0 moviesguy.de
@@ -42669,7 +42643,6 @@
 0.0.0.0 nmcomrockhill.112.2o7.net
 0.0.0.0 nmdurham.112.2o7.net
 0.0.0.0 nmedev.122.2o7.net
-0.0.0.0 nmextensions.com
 0.0.0.0 nmfabb.com
 0.0.0.0 nmfortworth.112.2o7.net
 0.0.0.0 nmfresno.112.2o7.net
@@ -43018,8 +42991,6 @@
 0.0.0.0 ns1.netskyn.net
 0.0.0.0 ns1.northbill.com
 0.0.0.0 ns1.ntkrnlpa.info
-0.0.0.0 ns1.oix.com
-0.0.0.0 ns1.oix.net
 0.0.0.0 ns1.omniture.com
 0.0.0.0 ns1.onlywarez.org
 0.0.0.0 ns1.powerplesk.net
@@ -43064,8 +43035,6 @@
 0.0.0.0 ns2.ninewire.com
 0.0.0.0 ns2.northbill.com
 0.0.0.0 ns2.ntkrnlpa.info
-0.0.0.0 ns2.oix.com
-0.0.0.0 ns2.oix.net
 0.0.0.0 ns2.omniture.com
 0.0.0.0 ns2.onlywarez.org
 0.0.0.0 ns2.qusra.net
@@ -43188,7 +43157,6 @@
 0.0.0.0 nugrind.on-4.com
 0.0.0.0 nuker.com
 0.0.0.0 numax.nu-1.com
-0.0.0.0 numb-soft.com
 0.0.0.0 numberhacker.com
 0.0.0.0 numberoneenglish.com
 0.0.0.0 numron.go.th
@@ -44234,7 +44202,6 @@
 0.0.0.0 olwmzionrockguides.122.2o7.net
 0.0.0.0 om.blockbuster.com
 0.0.0.0 om.businessweek.com
-0.0.0.0 om.cbsi.com
 0.0.0.0 om.cnet.co.uk
 0.0.0.0 om.dowjoneson.com
 0.0.0.0 om.expedia.com
@@ -46368,7 +46335,6 @@
 0.0.0.0 samuderaciptaraya.com
 0.0.0.0 samvaulter.com
 0.0.0.0 sandbox.settings.data.microsoft.com.akadns.net
-0.0.0.0 sandbox.tk
 0.0.0.0 sanderma.com
 0.0.0.0 sandpiperchorus.us
 0.0.0.0 sanjustoshopping.com.ar
@@ -46693,7 +46659,6 @@
 0.0.0.0 sihcrotsoo.fidofrontier.com
 0.0.0.0 sijmp.com
 0.0.0.0 silent-majority.net
-0.0.0.0 silkytouch.ca
 0.0.0.0 silocot.com
 0.0.0.0 silstavo.com
 0.0.0.0 silstop.pl
@@ -47336,7 +47301,6 @@
 0.0.0.0 thedoorandfloorshop.co.uk
 0.0.0.0 thedownloadfromwarez.blogspot.com
 0.0.0.0 thefoxes.ru
-0.0.0.0 thefreethoughtproject.com
 0.0.0.0 thegoatblog.com.br
 0.0.0.0 thehackonline.com
 0.0.0.0 thehackspot.com
@@ -47465,7 +47429,6 @@
 0.0.0.0 top-banners.com
 0.0.0.0 top-eleven-hack.com
 0.0.0.0 top-of-software.de
-0.0.0.0 top10registrycleaners.com
 0.0.0.0 topcarshop.ir
 0.0.0.0 topcrack.net
 0.0.0.0 topdissertations.com
@@ -47543,7 +47506,6 @@
 0.0.0.0 track.msadcenter.qru.com
 0.0.0.0 track.msadcenter.qsvv.com
 0.0.0.0 track.msadcenter.rfjq.com
-0.0.0.0 track.msadcenter.sax.com
 0.0.0.0 track.msadcenter.tirj.com
 0.0.0.0 track.msadcenter.tnuw.com
 0.0.0.0 track.msadcenter.toj.com
@@ -47814,7 +47776,6 @@
 0.0.0.0 unlockhack.com
 0.0.0.0 unmaskedman.com
 0.0.0.0 unohack.com
-0.0.0.0 unsplash.com
 0.0.0.0 up.mykings.pw
 0.0.0.0 up1.sibnic.info
 0.0.0.0 up2you.ru
@@ -48075,8 +48036,6 @@
 0.0.0.0 wallytech.net
 0.0.0.0 waly.pl
 0.0.0.0 wamnetwork.com
-0.0.0.0 waptrick.com
-0.0.0.0 warez-bb.org
 0.0.0.0 warez-box.com.websiteoutlook.com
 0.0.0.0 warez-files.com
 0.0.0.0 warez-home.net
@@ -50087,7 +50046,6 @@
 0.0.0.0 www.redir.ws
 0.0.0.0 www.redirectme.net
 0.0.0.0 www.reducelnk.com
-0.0.0.0 www.registry-cleaners-compared.com
 0.0.0.0 www.relaxtool.com
 0.0.0.0 www.rempko.sk
 0.0.0.0 www.reniero.org
@@ -51036,8 +50994,8 @@
 
 # Hosts - airelle-rsk
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/mirror/airelle-rsk.txt
-# Generated - 24.08.2018
+# Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 51035
+# Total Domains: 50993
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

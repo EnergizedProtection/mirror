@@ -177,7 +177,6 @@
 0.0.0.0 anrysys.popunder.ru
 0.0.0.0 ant.com
 0.0.0.0 anticlown.com
-0.0.0.0 antispyware.onlinedownloads.org
 0.0.0.0 anycracks.com
 0.0.0.0 anzanish.tripod.com
 0.0.0.0 api.conduit.com
@@ -340,7 +339,6 @@
 0.0.0.0 cdn.adtrace.org
 0.0.0.0 cdn.advancedmactools.com
 0.0.0.0 cdn.ndparking.com
-0.0.0.0 cdn.onesignal.com
 0.0.0.0 cdn.opensubcontent.com
 0.0.0.0 cdn1.clkoffers.com
 0.0.0.0 cecash.com
@@ -726,7 +724,6 @@
 0.0.0.0 gratisweb.com
 0.0.0.0 gredinatib.org
 0.0.0.0 green.erne.co
-0.0.0.0 grendizer.biz
 0.0.0.0 gserv.zdnet.co.uk
 0.0.0.0 guaranty.com.cn
 0.0.0.0 gulf-industrial.com
@@ -761,7 +758,6 @@
 0.0.0.0 hertzsales.com
 0.0.0.0 hgtzz.com
 0.0.0.0 hidebux.com
-0.0.0.0 hidemyass.com
 0.0.0.0 hira.hopto.org
 0.0.0.0 historykill.com
 0.0.0.0 hitwastedgarden.com
@@ -778,7 +774,6 @@
 0.0.0.0 hosting.conduit.com
 0.0.0.0 hot-bot.com
 0.0.0.0 hot2015rewards.com
-0.0.0.0 hotspotshield.com
 0.0.0.0 howtocleanacomputervirus.com
 0.0.0.0 hustlercash.hit.bg
 0.0.0.0 hy-brasil.mhwang.com
@@ -902,7 +897,6 @@
 0.0.0.0 kz.search.need2find.com
 0.0.0.0 l.zeroredirect.com
 0.0.0.0 laexotic.com
-0.0.0.0 land.pckeeper.software
 0.0.0.0 lanonna.co.uk
 0.0.0.0 lapiden.com
 0.0.0.0 lateecapes.com
@@ -919,7 +913,6 @@
 0.0.0.0 lifeeverest.com
 0.0.0.0 lilian.redirectme.net
 0.0.0.0 linconpark.com
-0.0.0.0 linkbucks.com
 0.0.0.0 linkjumps.com
 0.0.0.0 links.onlinedownloads.org
 0.0.0.0 liqwid.net
@@ -1305,13 +1298,11 @@
 0.0.0.0 s.zeroredirect.com
 0.0.0.0 sacredphoenix.com
 0.0.0.0 sade-ecrivain.com
-0.0.0.0 safelinking.net
 0.0.0.0 safemobilelink.com
 0.0.0.0 safepccleaner.com
 0.0.0.0 saloboy.popunder.ru
 0.0.0.0 samaclub.com
 0.0.0.0 samvaulter.com
-0.0.0.0 sandbox.tk
 0.0.0.0 sankakustatic.com
 0.0.0.0 sasdiskcleaner.com
 0.0.0.0 sayhello.popunder.ru
@@ -1561,7 +1552,6 @@
 0.0.0.0 toonfamilies.net
 0.0.0.0 top.artcomix.com
 0.0.0.0 top.dating.lt
-0.0.0.0 top10registrycleaners.com
 0.0.0.0 top50.co.uk
 0.0.0.0 topqualitylink.com
 0.0.0.0 torgi.kz
@@ -1898,7 +1888,6 @@
 0.0.0.0 www.brevardmusic.com
 0.0.0.0 www.bride1.com
 0.0.0.0 www.browseraccelerator.com
-0.0.0.0 www.buffalogoesout.com
 0.0.0.0 www.bulgariabg.com
 0.0.0.0 www.butterfly-media.co.uk
 0.0.0.0 www.buyingedge.com
@@ -1907,7 +1896,6 @@
 0.0.0.0 www.cabeles.com
 0.0.0.0 www.cadillacescalade.com
 0.0.0.0 www.californiastateparks.com
-0.0.0.0 www.calllwave.com
 0.0.0.0 www.calworthingtonford.com
 0.0.0.0 www.candidography.com
 0.0.0.0 www.catgallery.com
@@ -2024,7 +2012,6 @@
 0.0.0.0 www.dowdenphotography.com
 0.0.0.0 www.down1oads.com
 0.0.0.0 www.downloads-whatsapp.com
-0.0.0.0 www.downloadupload.com
 0.0.0.0 www.downloadwarez.org
 0.0.0.0 www.dp-medien.eu
 0.0.0.0 www.drivotracker.com
@@ -2123,7 +2110,6 @@
 0.0.0.0 www.get-avast.com
 0.0.0.0 www.get-quadcleaner.com
 0.0.0.0 www.getiton.com
-0.0.0.0 www.getmeaticket.co.uk
 0.0.0.0 www.getrockerbox.com
 0.0.0.0 www.getsearchlist.com
 0.0.0.0 www.gilvision.com
@@ -2159,7 +2145,6 @@
 0.0.0.0 www.hertzsales.com
 0.0.0.0 www.hgtzz.com
 0.0.0.0 www.hidebux.com
-0.0.0.0 www.hidemyass.com
 0.0.0.0 www.historykill.com
 0.0.0.0 www.hlserve.com
 0.0.0.0 www.hoerbird.net
@@ -2170,7 +2155,6 @@
 0.0.0.0 www.host-it.co.uk
 0.0.0.0 www.hot-bot.com
 0.0.0.0 www.hot2015rewards.com
-0.0.0.0 www.hotspotshield.com
 0.0.0.0 www.howtocleanacomputervirus.com
 0.0.0.0 www.hustlercash.hit.bg
 0.0.0.0 www.i-games.biz
@@ -2238,7 +2222,6 @@
 0.0.0.0 www.liders.biz
 0.0.0.0 www.lifeeverest.com
 0.0.0.0 www.linconpark.com
-0.0.0.0 www.linkbucks.com
 0.0.0.0 www.linktarget.com
 0.0.0.0 www.liqwid.net
 0.0.0.0 www.litec-fr.com
@@ -2433,7 +2416,6 @@
 0.0.0.0 www.reducelnk.com
 0.0.0.0 www.registry-clean-up.net
 0.0.0.0 www.registry-cleaner.net
-0.0.0.0 www.registry-cleaners-compared.com
 0.0.0.0 www.registry-error-cleaner.com
 0.0.0.0 www.registrycleaner-reviews.net
 0.0.0.0 www.registrycleanerforvista.com
@@ -2464,7 +2446,6 @@
 0.0.0.0 www.ruclicks.com
 0.0.0.0 www.sacredphoenix.com
 0.0.0.0 www.sade-ecrivain.com
-0.0.0.0 www.safelinking.net
 0.0.0.0 www.safepccleaner.com
 0.0.0.0 www.samaclub.com
 0.0.0.0 www.sasdiskcleaner.com
@@ -2583,7 +2564,6 @@
 0.0.0.0 www.trackertracker.com
 0.0.0.0 www.tracki112.com
 0.0.0.0 www.tracklead.net
-0.0.0.0 www.trackzapper.com
 0.0.0.0 www.traff1.com
 0.0.0.0 www.travekocity.com
 0.0.0.0 www.travelasity.com
@@ -2608,7 +2588,6 @@
 0.0.0.0 www.trqvelocity.com
 0.0.0.0 www.trustsoft.com
 0.0.0.0 www.trvelocity.com
-0.0.0.0 www.trx625.com
 0.0.0.0 www.tuckows.com
 0.0.0.0 www.turkeyrank.com
 0.0.0.0 www.twairlines.com
@@ -2660,7 +2639,6 @@
 0.0.0.0 www.westerntaneyfire.com
 0.0.0.0 www.widestep.com
 0.0.0.0 www.win-spy.com
-0.0.0.0 www.winadiscount.com
 0.0.0.0 www.winaproduct.com
 0.0.0.0 www.wincleaner.com
 0.0.0.0 www.winscholarship.com
@@ -2878,8 +2856,8 @@
 
 # Hosts - fademind-add.risk
 # Source - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
-# Generated - 24.08.2018
+# Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 2877
+# Total Domains: 2855
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

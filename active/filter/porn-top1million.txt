@@ -529,7 +529,6 @@
 0.0.0.0 adamandevetv.com
 0.0.0.0 adameteve-mode.fr
 0.0.0.0 adameteve.fr
-0.0.0.0 adameve.com
 0.0.0.0 adamevetoys.com
 0.0.0.0 adamevevod.com
 0.0.0.0 adammale.com
@@ -3266,7 +3265,6 @@
 0.0.0.0 ccgals.com
 0.0.0.0 ccporno.com
 0.0.0.0 ccyhkcs.net
-0.0.0.0 cda.pl
 0.0.0.0 cearalynch.com
 0.0.0.0 cebuanas.com
 0.0.0.0 celeb-cafe.net
@@ -3698,7 +3696,6 @@
 0.0.0.0 collegedudes.com
 0.0.0.0 collegefuckparties.com
 0.0.0.0 collegefy.com
-0.0.0.0 collegehumor.com
 0.0.0.0 collegerules.com
 0.0.0.0 collegesexadvice.com
 0.0.0.0 collegeteenstube.com
@@ -5000,7 +4997,6 @@
 0.0.0.0 erosexotica.com
 0.0.0.0 erosexus.com
 0.0.0.0 erosguia.com
-0.0.0.0 eroshare.com
 0.0.0.0 erosland.it
 0.0.0.0 erosmania.com.br
 0.0.0.0 erospark.de
@@ -7848,7 +7844,6 @@
 0.0.0.0 hisxpress.com
 0.0.0.0 hithomemovies.com
 0.0.0.0 hitohame.com
-0.0.0.0 hitomi.la
 0.0.0.0 hkgasian.tumblr.com
 0.0.0.0 hmangasearcher.com
 0.0.0.0 hmporn.net
@@ -16260,7 +16255,6 @@
 0.0.0.0 spectraltube.com
 0.0.0.0 speedychat.it
 0.0.0.0 spele.nl
-0.0.0.0 spencersonline.com
 0.0.0.0 sperma-studio.com
 0.0.0.0 spermagames.com
 0.0.0.0 spermhospital.com
@@ -18615,7 +18609,6 @@
 0.0.0.0 vladmodels.info
 0.0.0.0 vnagirls.com
 0.0.0.0 voayeurs.com
-0.0.0.0 vod.pl
 0.0.0.0 vodafterdark.com
 0.0.0.0 vodporntv.com
 0.0.0.0 voffka.com
@@ -20147,8 +20140,8 @@
 
 # Hosts - porn-top1million
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/porn-top1m.txt
-# Generated - 24.08.2018
+# Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 20146
+# Total Domains: 20139
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 
