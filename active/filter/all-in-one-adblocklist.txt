@@ -17087,6 +17087,7 @@
 0.0.0.0 goodtag.it
 0.0.0.0 goodthings2018.com
 0.0.0.0 googcapital.com
+0.0.0.0 google-analytics.com
 0.0.0.0 google-pagerank.net
 0.0.0.0 google-play-gift-card-generator.com
 0.0.0.0 google-rank.org
@@ -43398,6 +43399,6 @@
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/all-in-one-adblocklist.txt
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 43395
+# Total Domains: 43396
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

@@ -2861,6 +2861,7 @@
 0.0.0.0 gobuyersupport.rubiconproject.com
 0.0.0.0 gold.adroll.com
 0.0.0.0 goodyield.com
+0.0.0.0 google-analytics.com
 0.0.0.0 googlesyndication.com
 0.0.0.0 gov.aniview.com
 0.0.0.0 gov.appdynamics.com
@@ -7866,6 +7867,6 @@
 # Source - https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 7863
+# Total Domains: 7864
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

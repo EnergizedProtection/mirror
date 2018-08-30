@@ -3552,6 +3552,7 @@
 0.0.0.0 go.vrvm.com
 0.0.0.0 gocdn.ru
 0.0.0.0 goodadvert.ru
+0.0.0.0 google-analytics.com
 0.0.0.0 googleadapis.l.google.com
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googleads4.g.doubleclick.net
@@ -4608,6 +4609,6 @@
 # Source - https://raw.githubusercontent.com/jawz101/MobileAdTrackers/master/hosts
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 4605
+# Total Domains: 4606
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

@@ -1985,6 +1985,7 @@
 0.0.0.0 gogvo.com
 0.0.0.0 goku.brightcove.com
 0.0.0.0 goldunionmobi.com
+0.0.0.0 google-analytics.com
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googleadservices.com
 0.0.0.0 googletagmanager.com
@@ -5363,6 +5364,6 @@
 # Source - https://raw.githubusercontent.com/bjornstar/hosts/master/hosts
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 5360
+# Total Domains: 5361
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

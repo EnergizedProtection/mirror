@@ -20,6 +20,7 @@
 0.0.0.0 fairblocker.com
 0.0.0.0 freestat.hu
 0.0.0.0 geo.query.yahoo.com
+0.0.0.0 google-analytics.com
 0.0.0.0 hitcount.de
 0.0.0.0 hitpage.de
 0.0.0.0 images.scanalert.com
@@ -94,6 +95,6 @@
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/fanboy-enhanced-stats.txt
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 91
+# Total Domains: 92
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

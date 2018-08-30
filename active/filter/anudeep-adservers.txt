@@ -13181,6 +13181,7 @@
 0.0.0.0 goodworldwide-d.openx.net
 0.0.0.0 goog.applovin.com
 0.0.0.0 google-analytics.bi.owox.com
+0.0.0.0 google-analytics.com
 0.0.0.0 google.east-s2s.1rx.io
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googleads2.g.doubleclick.net
@@ -27798,6 +27799,6 @@
 # Source - https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 27795
+# Total Domains: 27796
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

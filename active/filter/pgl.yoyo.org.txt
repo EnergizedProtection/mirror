@@ -1468,6 +1468,7 @@
 0.0.0.0 go-rank.de
 0.0.0.0 goingplatinum.com
 0.0.0.0 goldstats.com
+0.0.0.0 google-analytics.com
 0.0.0.0 googleadservices.com
 0.0.0.0 googlesyndication.com
 0.0.0.0 gorgeousground.com
@@ -2573,6 +2574,6 @@
 # Source - https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&mimetype=plaintext
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 2570
+# Total Domains: 2571
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

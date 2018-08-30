@@ -5274,6 +5274,7 @@
 0.0.0.0 gonintendo.us.intellitxt.com
 0.0.0.0 gonzogrape.gumgum.com
 0.0.0.0 goo.freelogs.com
+0.0.0.0 google-analytics.com
 0.0.0.0 google.tucows.com
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googleads2.g.doubleclick.net
@@ -12209,6 +12210,6 @@
 # Source - http://winhelp2002.mvps.org/hosts.txt
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 12206
+# Total Domains: 12207
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

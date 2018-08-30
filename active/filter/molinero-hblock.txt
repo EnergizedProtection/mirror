@@ -32538,6 +32538,7 @@
 0.0.0.0 google--analytics.com
 0.0.0.0 google-analitics.com
 0.0.0.0 google-anallytics.com
+0.0.0.0 google-analytics.com
 0.0.0.0 google-analytlcs.com
 0.0.0.0 google-analyze.cn
 0.0.0.0 google-chrome.net
@@ -83149,6 +83150,6 @@
 # Source - https://hblock.molinero.xyz/hosts
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 83146
+# Total Domains: 83147
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

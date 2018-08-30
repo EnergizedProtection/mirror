@@ -30655,6 +30655,7 @@
 0.0.0.0 goods-story.ru
 0.0.0.0 goodtraffic.net
 0.0.0.0 goodyear.122.2o7.net
+0.0.0.0 google-analytics.com
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googleads2.g.doubleclick.net
 0.0.0.0 googleads4.g.doubleclick.net
@@ -50830,6 +50831,6 @@
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/ck-ad-tracker.txt
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 50827
+# Total Domains: 50828
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

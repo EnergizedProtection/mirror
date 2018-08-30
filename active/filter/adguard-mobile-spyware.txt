@@ -120,6 +120,7 @@
 0.0.0.0 geoplugin.net
 0.0.0.0 gj.applog.uc.cn
 0.0.0.0 gjapplog.uc.cn
+0.0.0.0 google-analytics.com
 0.0.0.0 googleadapis.l.google.com
 0.0.0.0 iam-agof-app.irquest.com
 0.0.0.0 ilyonanalytics.herokuapp.com
@@ -261,6 +262,6 @@
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-mobile-spyware.txt
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 258
+# Total Domains: 259
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

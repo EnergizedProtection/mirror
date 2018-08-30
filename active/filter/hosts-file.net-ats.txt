@@ -27659,6 +27659,7 @@
 0.0.0.0 goodiemob.com
 0.0.0.0 goodsavingtips.com
 0.0.0.0 goodtraffic.net
+0.0.0.0 google-analytics.com
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googleads2.g.doubleclick.net
 0.0.0.0 googleads4.g.doubleclick.net
@@ -44321,6 +44322,6 @@
 # Source - https://hosts-file.net/ad_servers.txt
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 44318
+# Total Domains: 44319
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

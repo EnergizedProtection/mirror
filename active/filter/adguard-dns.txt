@@ -6387,6 +6387,7 @@
 0.0.0.0 goodlooknews.net
 0.0.0.0 goodluckblockingthis.com
 0.0.0.0 goodtag.it
+0.0.0.0 google-analytics.com
 0.0.0.0 google-pagerank.net
 0.0.0.0 google-rank.org
 0.0.0.0 googleadapis.l.google.com
@@ -16082,6 +16083,6 @@
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-dns.txt
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 16079
+# Total Domains: 16080
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

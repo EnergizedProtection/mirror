@@ -25644,6 +25644,7 @@
 0.0.0.0 googfle.com
 0.0.0.0 googgle.com
 0.0.0.0 googla.com
+0.0.0.0 google-analytics.com
 0.0.0.0 google-analytiss.com
 0.0.0.0 google-analyze.cn
 0.0.0.0 google-money-master.com
@@ -67612,6 +67613,6 @@
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/mirror/GASB-PE.active.txt
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 67609
+# Total Domains: 67610
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

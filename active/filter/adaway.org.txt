@@ -91,6 +91,7 @@
 0.0.0.0 go.mobpartner.mobi
 0.0.0.0 go.vrvm.com
 0.0.0.0 golds.lp.mydas.mobi
+0.0.0.0 google-analytics.com
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googlesyndication.com
 0.0.0.0 gsmtop.net
@@ -182,6 +183,6 @@
 # Source - https://adaway.org/hosts.txt
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 179
+# Total Domains: 180
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

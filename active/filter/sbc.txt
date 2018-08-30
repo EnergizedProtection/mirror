@@ -20110,6 +20110,7 @@
 0.0.0.0 goodyear.122.2o7.net
 0.0.0.0 goodyield.com
 0.0.0.0 googfle.com
+0.0.0.0 google-analytics.com
 0.0.0.0 google-docs.info
 0.0.0.0 google-docs.org
 0.0.0.0 google-hacks.softonic.fr
@@ -51627,6 +51628,6 @@
 # Source - http://sbc.io/hosts/hosts
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 51624
+# Total Domains: 51625
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 
