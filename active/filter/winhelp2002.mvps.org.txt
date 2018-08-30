@@ -4591,6 +4591,7 @@
 0.0.0.0 edge.aperture.displaymarketplace.com
 0.0.0.0 edge.ayboll.com
 0.0.0.0 edge.metroleads.com
+0.0.0.0 edge.quantserve.com
 0.0.0.0 edge.simplereach.com
 0.0.0.0 edietsmain.112.2o7.net
 0.0.0.0 edipresse.adocean.pl
@@ -7967,6 +7968,7 @@
 0.0.0.0 pixel.cpex.cz
 0.0.0.0 pixel.crosspixel.net
 0.0.0.0 pixel.everesttech.net
+0.0.0.0 pixel.facebook.com
 0.0.0.0 pixel.indieclick.com
 0.0.0.0 pixel.industrybrains.com
 0.0.0.0 pixel.invitemedia.com
@@ -10284,6 +10286,7 @@
 0.0.0.0 tracking.immobilienscout24.de
 0.0.0.0 tracking.inuvo.com
 0.0.0.0 tracking.justpremium.com
+0.0.0.0 tracking.kurier.at
 0.0.0.0 tracking.lengow.com
 0.0.0.0 tracking.listhub.net
 0.0.0.0 tracking.m6r.eu
@@ -12206,6 +12209,6 @@
 # Source - http://winhelp2002.mvps.org/hosts.txt
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 12203
+# Total Domains: 12206
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

@@ -3440,6 +3440,7 @@
 0.0.0.0 ec2-54-210-215-33.compute-1.amazonaws.com
 0.0.0.0 ec2-54-86-62-7.compute-1.amazonaws.com
 0.0.0.0 ecpmrocks.com
+0.0.0.0 edge.quantserve.com
 0.0.0.0 edge1.certona.net
 0.0.0.0 edwlifes.vo.llnwd.net
 0.0.0.0 eev-a.tlnk.io
@@ -4072,7 +4073,6 @@
 0.0.0.0 req.startappservice.com
 0.0.0.0 res1.applovin.com
 0.0.0.0 resolver.gslb.mi-idc.com
-0.0.0.0 resolver.msg.xiaomi.net
 0.0.0.0 restartad.com
 0.0.0.0 retarget.ssl-services.com
 0.0.0.0 revcontent.com
@@ -4120,6 +4120,7 @@
 0.0.0.0 s.skimresources.com
 0.0.0.0 s.yieldmo.com
 0.0.0.0 s0-2mdn-net.l.google.com
+0.0.0.0 s0.2mdn.net
 0.0.0.0 s0.doubleclick.net
 0.0.0.0 s0.ipstatp.com
 0.0.0.0 s1.doubleclick.net
@@ -4607,6 +4608,6 @@
 # Source - https://raw.githubusercontent.com/jawz101/MobileAdTrackers/master/hosts
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 4604
+# Total Domains: 4605
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

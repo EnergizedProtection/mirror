@@ -3477,6 +3477,7 @@
 0.0.0.0 aieeeplus.com
 0.0.0.0 aiemont.com
 0.0.0.0 aigysycrmuoetk.com
+0.0.0.0 aikdakxoc.com
 0.0.0.0 aikumi.info
 0.0.0.0 aileronx.com
 0.0.0.0 ailmartransportes.com.br
@@ -7516,6 +7517,7 @@
 0.0.0.0 c.live.com
 0.0.0.0 c.mfstatic.cz
 0.0.0.0 c.mgid.com
+0.0.0.0 c.msn.com
 0.0.0.0 c.netu.tv
 0.0.0.0 c.newsinc.com
 0.0.0.0 c.opinion.com.ua
@@ -8843,6 +8845,7 @@
 0.0.0.0 claxonmedia.com
 0.0.0.0 clayanarch.gq
 0.0.0.0 clayheart.com
+0.0.0.0 clc.stackoverflow.com
 0.0.0.0 clck.yandex.com
 0.0.0.0 clcollegeofpharmacy.com
 0.0.0.0 cldlr.com
@@ -12977,6 +12980,7 @@
 0.0.0.0 edfthzanlsyse.com
 0.0.0.0 edgarbleek.com
 0.0.0.0 edge.bredg.com
+0.0.0.0 edge.quantserve.com
 0.0.0.0 edge.sqweb.com
 0.0.0.0 edgeads.org
 0.0.0.0 edgeadx.net
@@ -17104,6 +17108,7 @@
 0.0.0.0 googleplaygiftcardcodegenerator.com
 0.0.0.0 googleplaygiftcardgenerators.com
 0.0.0.0 googlerank.info
+0.0.0.0 googlesyndication.com
 0.0.0.0 googletagmanager.com
 0.0.0.0 googletagservices.com
 0.0.0.0 goomia.net
@@ -28585,6 +28590,7 @@
 0.0.0.0 pixel.cpex.cz
 0.0.0.0 pixel.digitru.st
 0.0.0.0 pixel.europapress.net
+0.0.0.0 pixel.facebook.com
 0.0.0.0 pixel.fanbridge.com
 0.0.0.0 pixel.glimr.io
 0.0.0.0 pixel.honestjohn.co.uk
@@ -37445,6 +37451,7 @@
 0.0.0.0 tracking.kdata.fr
 0.0.0.0 tracking.keywee.co
 0.0.0.0 tracking.krone.at
+0.0.0.0 tracking.kurier.at
 0.0.0.0 tracking.ladies.de
 0.0.0.0 tracking.lengow.com
 0.0.0.0 tracking.listhub.net
@@ -43391,6 +43398,6 @@
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/all-in-one-adblocklist.txt
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 43388
+# Total Domains: 43395
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

@@ -65,6 +65,7 @@
 0.0.0.0 by3301-c.1drv.com
 0.0.0.0 by3301-e.1drv.com
 0.0.0.0 c.atdmt.com
+0.0.0.0 c.msn.com
 0.0.0.0 cache.datamart.windows.com
 0.0.0.0 cds10.stn.llnw.net
 0.0.0.0 cds1203.lon.llnw.net
@@ -322,6 +323,6 @@
 # Source - https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 319
+# Total Domains: 320
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

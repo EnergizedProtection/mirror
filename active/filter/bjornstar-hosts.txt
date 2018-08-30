@@ -951,6 +951,7 @@
 0.0.0.0 c.lytics.io
 0.0.0.0 c.mgid.com
 0.0.0.0 c.mobpartner.mobi
+0.0.0.0 c.msn.com
 0.0.0.0 c.my.com
 0.0.0.0 c.nakanohito.jp
 0.0.0.0 c.pub.network
@@ -1674,6 +1675,7 @@
 0.0.0.0 eclkspsa.com
 0.0.0.0 econducte.com
 0.0.0.0 ecpmrocks.com
+0.0.0.0 edge.quantserve.com
 0.0.0.0 edge.ru4.com
 0.0.0.0 edge.sharethis.com
 0.0.0.0 edge.sphere.com
@@ -3484,6 +3486,7 @@
 0.0.0.0 s.webtrends.com
 0.0.0.0 s.xvideos.com
 0.0.0.0 s.yjtag.jp
+0.0.0.0 s0.2mdn.net
 0.0.0.0 s01.flagcounter.com
 0.0.0.0 s01.usercash.com
 0.0.0.0 s02.flagcounter.com
@@ -5360,6 +5363,6 @@
 # Source - https://raw.githubusercontent.com/bjornstar/hosts/master/hosts
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 5357
+# Total Domains: 5360
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

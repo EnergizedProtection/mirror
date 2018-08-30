@@ -1013,7 +1013,6 @@
 0.0.0.0 api.bugsnag.com
 0.0.0.0 api.c.avazunativeads.com
 0.0.0.0 api.c.uc.cn
-0.0.0.0 api.chat.xiaomi.net
 0.0.0.0 api.cloudmobi.net
 0.0.0.0 api.collect.data.intl.miui.com
 0.0.0.0 api.comm.miui.com
@@ -1025,7 +1024,6 @@
 0.0.0.0 api.d.xiaomi.com
 0.0.0.0 api.data-monitor.info
 0.0.0.0 api.dedipass.com
-0.0.0.0 api.device.xiaomi.net
 0.0.0.0 api.elysium.opera.com
 0.0.0.0 api.eqmob.com
 0.0.0.0 api.exoclick.com
@@ -1128,7 +1126,6 @@
 0.0.0.0 app-benchmarks.adjust.com
 0.0.0.0 app.appsflyer.com
 0.0.0.0 app.bugsnag.com
-0.0.0.0 app.chat.xiaomi.net
 0.0.0.0 app.crashlytics.com
 0.0.0.0 app.flurry.com
 0.0.0.0 app.migc.xiaomi.com
@@ -2724,7 +2721,6 @@
 0.0.0.0 global.api.tinyhoneybee.com
 0.0.0.0 global.appsflyer.com
 0.0.0.0 global.msads.net
-0.0.0.0 global.search.xiaomi.net
 0.0.0.0 globalapi.ad.xiaomi.com
 0.0.0.0 gloriousbeef.com
 0.0.0.0 glossyads.com
@@ -3340,7 +3336,6 @@
 0.0.0.0 luxadv.com
 0.0.0.0 luxup.ru
 0.0.0.0 lx2k6.meganotify.com
-0.0.0.0 lxcdn.dl.files.xiaomi.net
 0.0.0.0 lxqcgj.com
 0.0.0.0 m-adash.ut.taobao.com
 0.0.0.0 m-dev.addthis.com
@@ -4231,7 +4226,6 @@
 0.0.0.0 rereddit.com
 0.0.0.0 resolutekey.com
 0.0.0.0 resolver.gslb.mi-idc.com
-0.0.0.0 resolver.msg.xiaomi.net
 0.0.0.0 resonantrock.com
 0.0.0.0 resource.clinkad.com
 0.0.0.0 resources.infolinks.com
@@ -4454,8 +4448,6 @@
 0.0.0.0 search.socialnewpagessearch.com
 0.0.0.0 search.uodoo.com
 0.0.0.0 sebder.roboinside.me
-0.0.0.0 sec-cdn.static.xiaomi.net
-0.0.0.0 sec.resource.xiaomi.net
 0.0.0.0 sec.umeng.com
 0.0.0.0 secode2.hd.xiaomi.com
 0.0.0.0 secserv.adtech.de
@@ -6070,6 +6062,6 @@
 # Source - https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 6067
+# Total Domains: 6059
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

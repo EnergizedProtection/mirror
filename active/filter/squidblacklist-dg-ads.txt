@@ -3458,6 +3458,7 @@
 0.0.0.0 ryminos.com
 0.0.0.0 s.adroll.com
 0.0.0.0 s.amazon-adsystem.com
+0.0.0.0 s0.2mdn.net
 0.0.0.0 s1.2mdn.net
 0.0.0.0 s2d6.com
 0.0.0.0 s8ads.com
@@ -4489,6 +4490,6 @@
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/squidblacklist-ads.txt
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 4486
+# Total Domains: 4487
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

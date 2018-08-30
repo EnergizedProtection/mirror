@@ -3282,6 +3282,7 @@
 0.0.0.0 c.index.ru
 0.0.0.0 c.ipaddress.com
 0.0.0.0 c.mfstatic.cz
+0.0.0.0 c.msn.com
 0.0.0.0 c.newsinc.com
 0.0.0.0 c.opinion.com.ua
 0.0.0.0 c.t-online.de
@@ -3600,6 +3601,7 @@
 0.0.0.0 clash-media.com
 0.0.0.0 class64deal.com
 0.0.0.0 claxonmedia.com
+0.0.0.0 clc.stackoverflow.com
 0.0.0.0 clcktms.ru
 0.0.0.0 clclcl.ru
 0.0.0.0 cldlr.com
@@ -5149,6 +5151,7 @@
 0.0.0.0 ed9wkbpy.com
 0.0.0.0 edfthzanlsyse.com
 0.0.0.0 edge-dl.andomedia.com
+0.0.0.0 edge.quantserve.com
 0.0.0.0 edgeads.org
 0.0.0.0 edgeadx.net
 0.0.0.0 edgevertise.com
@@ -10667,6 +10670,7 @@
 0.0.0.0 pixel.cdnwidget.com
 0.0.0.0 pixel.condenastdigital.com
 0.0.0.0 pixel.europapress.net
+0.0.0.0 pixel.facebook.com
 0.0.0.0 pixel.parsely.com
 0.0.0.0 pixel.roymorgan.com
 0.0.0.0 pixel.watch
@@ -11719,7 +11723,6 @@
 0.0.0.0 reseireejoch.info
 0.0.0.0 resolutekey.com
 0.0.0.0 resolver.gslb.mi-idc.com
-0.0.0.0 resolver.msg.xiaomi.net
 0.0.0.0 reson8.com
 0.0.0.0 resonance.pk
 0.0.0.0 resourse43.com
@@ -13833,6 +13836,7 @@
 0.0.0.0 tracking.g2crowd.com
 0.0.0.0 tracking.i2w.io
 0.0.0.0 tracking.intl.miui.com
+0.0.0.0 tracking.kurier.at
 0.0.0.0 tracking.lengow.com
 0.0.0.0 tracking.lenzmx.com
 0.0.0.0 tracking.miui.com
@@ -16078,6 +16082,6 @@
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-dns.txt
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 16075
+# Total Domains: 16079
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

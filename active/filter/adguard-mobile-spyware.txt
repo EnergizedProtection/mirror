@@ -189,7 +189,6 @@
 0.0.0.0 register.appsflyer.com
 0.0.0.0 report.appmetrica.yandex.net
 0.0.0.0 resolver.gslb.mi-idc.com
-0.0.0.0 resolver.msg.xiaomi.net
 0.0.0.0 rlog-api.under9.co
 0.0.0.0 rlog.9gag.com
 0.0.0.0 rt.applovin.com
@@ -262,6 +261,6 @@
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-mobile-spyware.txt
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 259
+# Total Domains: 258
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

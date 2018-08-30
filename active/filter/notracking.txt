@@ -2616,6 +2616,7 @@
 0.0.0.0 ads.mail.bg
 0.0.0.0 ads.mainetoday.com
 0.0.0.0 ads.maleflixxx.tv
+0.0.0.0 ads.mamma.com
 0.0.0.0 ads.mammanett.no
 0.0.0.0 ads.manager.bg
 0.0.0.0 ads.mangomediaads.com
@@ -6806,6 +6807,7 @@
 0.0.0.0 c.mobhubrdrms.com
 0.0.0.0 c.mobishu.com
 0.0.0.0 c.mrdarkddos.com
+0.0.0.0 c.msn.com
 0.0.0.0 c.msn.com.cn
 0.0.0.0 c.msnbc.com
 0.0.0.0 c.mtro.co
@@ -17396,6 +17398,7 @@
 0.0.0.0 pixel.despegar.com
 0.0.0.0 pixel.digitru.st
 0.0.0.0 pixel.eversttech.net
+0.0.0.0 pixel.facebook.com
 0.0.0.0 pixel.fanbridge.com
 0.0.0.0 pixel.getpaidfordata.com
 0.0.0.0 pixel.gfycat.com
@@ -22261,6 +22264,7 @@
 0.0.0.0 tracking.jotform.com
 0.0.0.0 tracking.klicktel.de
 0.0.0.0 tracking.klickthru.com
+0.0.0.0 tracking.kurier.at
 0.0.0.0 tracking.ladies.de
 0.0.0.0 tracking.lcleads.com
 0.0.0.0 tracking.lengow.com
@@ -26423,6 +26427,6 @@
 # Source - https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 26420
+# Total Domains: 26424
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

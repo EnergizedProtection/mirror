@@ -10717,7 +10717,6 @@
 0.0.0.0 api.changelly.com
 0.0.0.0 api.chartbeat.com
 0.0.0.0 api.chartboost.com
-0.0.0.0 api.chat.xiaomi.net
 0.0.0.0 api.cheatsheet.me
 0.0.0.0 api.circularhub.com
 0.0.0.0 api.citygridmedia.com
@@ -10759,7 +10758,6 @@
 0.0.0.0 api.deep-ad.com
 0.0.0.0 api.default.console.ws.adacts.com
 0.0.0.0 api.demandbase.com
-0.0.0.0 api.device.xiaomi.net
 0.0.0.0 api.dewmobile.net
 0.0.0.0 api.dianru.com
 0.0.0.0 api.digitalhomeservices.yahoo.com
@@ -10855,7 +10853,6 @@
 0.0.0.0 api.magmamobile.com
 0.0.0.0 api.mediavoice.com
 0.0.0.0 api.mediego.com
-0.0.0.0 api.micloud.xiaomi.net
 0.0.0.0 api.millennialmedia.com
 0.0.0.0 api.minero.cc
 0.0.0.0 api.minexmr.com
@@ -11275,7 +11272,6 @@
 0.0.0.0 app.brightinfo.com
 0.0.0.0 app.bronto.com
 0.0.0.0 app.bugsnag.com
-0.0.0.0 app.chat.xiaomi.net
 0.0.0.0 app.choozle.com
 0.0.0.0 app.clickfunnels.com
 0.0.0.0 app.cocolog-nifty.com
@@ -25389,7 +25385,6 @@
 0.0.0.0 finative.eu
 0.0.0.0 find-a.jp
 0.0.0.0 find-ip-address.org
-0.0.0.0 find.api.micloud.xiaomi.net
 0.0.0.0 findadvertise.engine.adglare.net
 0.0.0.0 findalternate.com
 0.0.0.0 findanopportunity.com
@@ -26337,7 +26332,6 @@
 0.0.0.0 gallery.apptornado.com
 0.0.0.0 gallery.cdn.pandora.xiaomi.com
 0.0.0.0 gallery.pandora.xiaomi.com
-0.0.0.0 galleryapi.micloud.xiaomi.net
 0.0.0.0 gallica.bnf.fr
 0.0.0.0 gallys.gfrevenge.com
 0.0.0.0 gallys.nastydollars.com
@@ -27024,7 +27018,6 @@
 0.0.0.0 global.proper.io
 0.0.0.0 global.px.quantserve.com
 0.0.0.0 global.qc.rtb.quantserve.com
-0.0.0.0 global.search.xiaomi.net
 0.0.0.0 global.ymtrack.com
 0.0.0.0 global.ymtracking.com
 0.0.0.0 global.yyapi.net
@@ -40387,7 +40380,6 @@
 0.0.0.0 pd.gophercentral.com
 0.0.0.0 pd.ok365.com
 0.0.0.0 pdb.adsnative.com
-0.0.0.0 pdc.micloud.xiaomi.net
 0.0.0.0 pde.lp4.io
 0.0.0.0 pdeltatre.chartbeat.net
 0.0.0.0 pdev.chartbeat.net
@@ -44186,7 +44178,6 @@
 0.0.0.0 resize.mantisadnetwork.com
 0.0.0.0 resolutekey.com
 0.0.0.0 resolver.gslb.mi-idc.com
-0.0.0.0 resolver.msg.xiaomi.net
 0.0.0.0 reson8.com
 0.0.0.0 reson8.com.au
 0.0.0.0 resonance.pk
@@ -46277,7 +46268,6 @@
 0.0.0.0 sebcotrk.com
 0.0.0.0 sebder.roboinside.me
 0.0.0.0 sec-ads.bridgetrack.com
-0.0.0.0 sec-cdn.static.xiaomi.net
 0.0.0.0 sec.hit.gemius.pl
 0.0.0.0 sec.levexis.com
 0.0.0.0 sec.tclclouds.com
@@ -46920,7 +46910,6 @@
 0.0.0.0 sfostage-rtbwin.applovin.com
 0.0.0.0 sfr.fr.ssl.d2.sc.omtrdc.net
 0.0.0.0 sfr.inq.com
-0.0.0.0 sfsapi.micloud.xiaomi.net
 0.0.0.0 sftapi.com
 0.0.0.0 sftp.adlooxtracking.com
 0.0.0.0 sftp.clickability.com
@@ -53395,6 +53384,7 @@
 0.0.0.0 tracking.kissmyads.com
 0.0.0.0 tracking.klickthru.com
 0.0.0.0 tracking.krone.at
+0.0.0.0 tracking.kurier.at
 0.0.0.0 tracking.ladies.de
 0.0.0.0 tracking.lengow.com
 0.0.0.0 tracking.lenzmx.com
@@ -54953,24 +54943,16 @@
 0.0.0.0 us.data.insert.io
 0.0.0.0 us.device.insert.io
 0.0.0.0 us.event.cmp.advertising.com
-0.0.0.0 us.find.api.micloud.xiaomi.net
-0.0.0.0 us.galleryapi.micloud.xiaomi.net
 0.0.0.0 us.i1.yimg.com
 0.0.0.0 us.img.e-planning.net
 0.0.0.0 us.info.lgsmartad.com
 0.0.0.0 us.js.yimg.com
 0.0.0.0 us.jsgc.dt07.net
 0.0.0.0 us.match.com.akadns.net
-0.0.0.0 us.micardapi.micloud.xiaomi.net
 0.0.0.0 us.moneroocean.stream
 0.0.0.0 us.mouseflow.com
-0.0.0.0 us.pdc.micloud.xiaomi.net
-0.0.0.0 us.phonecallapi.micloud.xiaomi.net
 0.0.0.0 us.pixel.newscgp.com
-0.0.0.0 us.sfsapi.micloud.xiaomi.net
 0.0.0.0 us.sitestat.com
-0.0.0.0 us.smsapi.micloud.xiaomi.net
-0.0.0.0 us.statusapi.micloud.xiaomi.net
 0.0.0.0 us.sync-srv.com
 0.0.0.0 us.tags.newscgp.com
 0.0.0.0 us.tracking.justpremium.com
@@ -64883,6 +64865,6 @@
 # Source - https://1hosts.cf
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 64880
+# Total Domains: 64862
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

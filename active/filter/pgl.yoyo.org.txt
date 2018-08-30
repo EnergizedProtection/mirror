@@ -1469,6 +1469,7 @@
 0.0.0.0 goingplatinum.com
 0.0.0.0 goldstats.com
 0.0.0.0 googleadservices.com
+0.0.0.0 googlesyndication.com
 0.0.0.0 gorgeousground.com
 0.0.0.0 gostats.com
 0.0.0.0 gp.dejanews.com
@@ -2572,6 +2573,6 @@
 # Source - https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&mimetype=plaintext
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 2569
+# Total Domains: 2570
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

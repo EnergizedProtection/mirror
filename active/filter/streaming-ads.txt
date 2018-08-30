@@ -30,6 +30,7 @@
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 partner.googleadservices.com
 0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 s0.2mdn.net
 0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 secure.quantserve.com
 0.0.0.0 securepubads.g.doubleclick.net
@@ -50,6 +51,6 @@
 # Source - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/StreamingAds/hosts
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 47
+# Total Domains: 48
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

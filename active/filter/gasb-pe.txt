@@ -4698,6 +4698,7 @@
 0.0.0.0 ads.mail.bg
 0.0.0.0 ads.mail2web.com
 0.0.0.0 ads.makeat.net
+0.0.0.0 ads.mamma.com
 0.0.0.0 ads.manager.co.th
 0.0.0.0 ads.managersonline.nl
 0.0.0.0 ads.manga.net
@@ -13078,6 +13079,7 @@
 0.0.0.0 c.msn.co.kr
 0.0.0.0 c.msn.co.uk
 0.0.0.0 c.msn.co.za
+0.0.0.0 c.msn.com
 0.0.0.0 c.msn.de
 0.0.0.0 c.msn.dk
 0.0.0.0 c.msn.es
@@ -19085,6 +19087,7 @@
 0.0.0.0 edfinancial.122.2o7.net
 0.0.0.0 edfinancialdev.122.2o7.net
 0.0.0.0 edge-dl.andomedia.com
+0.0.0.0 edge.quantserve.com
 0.0.0.0 edge.simplereach.com
 0.0.0.0 edge1.certona.net
 0.0.0.0 edge19-2.testandtarget.omniture.com
@@ -25666,6 +25669,7 @@
 0.0.0.0 googler.de
 0.0.0.0 googlesearch.intellicontact.com
 0.0.0.0 googlesearch.mycitytoolbar.com
+0.0.0.0 googlesyndication.com
 0.0.0.0 googletagservices.com
 0.0.0.0 googletest.bryxen1.hop.clickbank.net
 0.0.0.0 googletranlateservice.in
@@ -38991,6 +38995,7 @@
 0.0.0.0 pixel.carambo.la
 0.0.0.0 pixel.condenastdigital.com
 0.0.0.0 pixel.everesttech.net
+0.0.0.0 pixel.facebook.com
 0.0.0.0 pixel.inbox.exacttarget.com
 0.0.0.0 pixel.mathtag.com
 0.0.0.0 pixel.mathtag.com.edgekey.net
@@ -42111,6 +42116,7 @@
 0.0.0.0 s.xvideos.com
 0.0.0.0 s.yieldmo.com
 0.0.0.0 s.zsolo.bid
+0.0.0.0 s0.2mdn.net
 0.0.0.0 s0.bluestreak.com
 0.0.0.0 s0.sitestat.com
 0.0.0.0 s003.papoto.com
@@ -67606,6 +67612,6 @@
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/mirror/GASB-PE.active.txt
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 67603
+# Total Domains: 67609
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

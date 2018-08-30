@@ -6533,7 +6533,6 @@
 0.0.0.0 api.c.avazunativeads.com
 0.0.0.0 api.carambo.la
 0.0.0.0 api.chartboost.com
-0.0.0.0 api.chat.xiaomi.net
 0.0.0.0 api.clickability.com
 0.0.0.0 api.cloudmobi.net
 0.0.0.0 api.comm.miui.com
@@ -6583,7 +6582,6 @@
 0.0.0.0 api.manage.ensighten.com
 0.0.0.0 api.market.pubnative.net
 0.0.0.0 api.mediavoice.com
-0.0.0.0 api.micloud.xiaomi.net
 0.0.0.0 api.miui.security.xiaomi.com
 0.0.0.0 api.mixpanel.com
 0.0.0.0 api.mobile.cnzz.com
@@ -6812,7 +6810,6 @@
 0.0.0.0 app.atlassolutions.com
 0.0.0.0 app.avocet.io
 0.0.0.0 app.brightinfo.com
-0.0.0.0 app.chat.xiaomi.net
 0.0.0.0 app.choozle.com
 0.0.0.0 app.cnzz.com
 0.0.0.0 app.cointraffic.in
@@ -8083,6 +8080,7 @@
 0.0.0.0 c.mgid.com
 0.0.0.0 c.mp.ucweb.com
 0.0.0.0 c.msas.media.net
+0.0.0.0 c.msn.com
 0.0.0.0 c.offr.rocks
 0.0.0.0 c.parsely.com
 0.0.0.0 c.pub.network
@@ -11184,6 +11182,7 @@
 0.0.0.0 edge-usw2.demdex.net
 0.0.0.0 edge-va6.demdex.net
 0.0.0.0 edge.addthis.com
+0.0.0.0 edge.quantserve.com
 0.0.0.0 edge.reporo.net
 0.0.0.0 edge01.chartbeat.net
 0.0.0.0 edge2.pixel.advertising.com
@@ -12436,7 +12435,6 @@
 0.0.0.0 finanznachrichten.de.intellitxt.com
 0.0.0.0 finanzportal20.112.2o7.net
 0.0.0.0 finanztreff.de.intellitxt.com
-0.0.0.0 find.api.micloud.xiaomi.net
 0.0.0.0 findprices.t.domdex.com
 0.0.0.0 findthebest-auto.t.domdex.com
 0.0.0.0 findthebest-careers.t.domdex.com
@@ -12879,7 +12877,6 @@
 0.0.0.0 gallery.smartadserver.com
 0.0.0.0 gallery.taboola.com
 0.0.0.0 gallery.tubemogul.com
-0.0.0.0 galleryapi.micloud.xiaomi.net
 0.0.0.0 gamefly.inq.com
 0.0.0.0 gamefly.touchcommerce.com
 0.0.0.0 gamepire.de.intellitxt.com
@@ -13190,6 +13187,7 @@
 0.0.0.0 googleads4.g.doubleclick.net
 0.0.0.0 googleadservices.com
 0.0.0.0 googleforwork.co1.qualtrics.com
+0.0.0.0 googlesyndication.com
 0.0.0.0 googletagmanager.com
 0.0.0.0 googletagservices.com
 0.0.0.0 gordonsjewelers.com.102.112.2o7.net
@@ -20511,7 +20509,6 @@
 0.0.0.0 resolutekey.com
 0.0.0.0 resolutionresearch.qualtrics.com
 0.0.0.0 resolver.gslb.mi-idc.com
-0.0.0.0 resolver.msg.xiaomi.net
 0.0.0.0 resource.marketo.com
 0.0.0.0 resources.adroll.com
 0.0.0.0 resources.crazyegg.com
@@ -20948,6 +20945,7 @@
 0.0.0.0 s.vertamedia.com
 0.0.0.0 s.webdatacentr.com
 0.0.0.0 s.xpanama.net
+0.0.0.0 s0.2mdn.net
 0.0.0.0 s0.2mdn.nets1.2mdn.netscontent-atl3-1.xx.fbcdn.netscript.crazyegg.com
 0.0.0.0 s0.doubleclick.net
 0.0.0.0 s019.radikal.ru
@@ -21508,7 +21506,6 @@
 0.0.0.0 seb.d1.sc.omtrdc.net
 0.0.0.0 seb.scorecardresearch.com
 0.0.0.0 sebder.roboinside.me
-0.0.0.0 sec-cdn.static.xiaomi.net
 0.0.0.0 sec.tclclouds.com
 0.0.0.0 sec.umeng.com
 0.0.0.0 seccdn-gl.imrworldwide.com
@@ -25361,19 +25358,11 @@
 0.0.0.0 us.data.insert.io
 0.0.0.0 us.device.insert.io
 0.0.0.0 us.event.cmp.advertising.com
-0.0.0.0 us.find.api.micloud.xiaomi.net
-0.0.0.0 us.galleryapi.micloud.xiaomi.net
 0.0.0.0 us.info.lgsmartad.com
 0.0.0.0 us.labs.teads.tv
 0.0.0.0 us.mgid.com
-0.0.0.0 us.micardapi.micloud.xiaomi.net
 0.0.0.0 us.mouseflow.com
-0.0.0.0 us.pdc.micloud.xiaomi.net
-0.0.0.0 us.phonecallapi.micloud.xiaomi.net
 0.0.0.0 us.qualtrics.com
-0.0.0.0 us.sfsapi.micloud.xiaomi.net
-0.0.0.0 us.smsapi.micloud.xiaomi.net
-0.0.0.0 us.statusapi.micloud.xiaomi.net
 0.0.0.0 us.unidingcom.com
 0.0.0.0 us2.qualtrics.com
 0.0.0.0 usa.quebec-bin.com
@@ -27809,6 +27798,6 @@
 # Source - https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 27806
+# Total Domains: 27795
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

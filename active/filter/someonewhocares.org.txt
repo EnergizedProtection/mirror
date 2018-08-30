@@ -2159,6 +2159,7 @@
 0.0.0.0 c.latam.msn.com
 0.0.0.0 c.lomadee.com
 0.0.0.0 c.mgid.com
+0.0.0.0 c.msn.com
 0.0.0.0 c.my.msn.com
 0.0.0.0 c.nl.msn.com
 0.0.0.0 c.no.msn.com
@@ -3120,6 +3121,7 @@
 0.0.0.0 ecs1.engageya.com
 0.0.0.0 ectestlampsplus1.112.2o7.net
 0.0.0.0 edge.bnmla.com
+0.0.0.0 edge.quantserve.com
 0.0.0.0 edietsmain.112.2o7.net
 0.0.0.0 edirect.hotkeys.com
 0.0.0.0 edmundsinsideline.112.2o7.net
@@ -8412,6 +8414,6 @@
 # Source - http://someonewhocares.org/hosts/hosts
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 8409
+# Total Domains: 8411
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

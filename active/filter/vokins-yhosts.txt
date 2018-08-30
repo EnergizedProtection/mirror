@@ -1244,6 +1244,7 @@
 0.0.0.0 c.mkmp365.com
 0.0.0.0 c.mnjkw.cn
 0.0.0.0 c.mobishu.com
+0.0.0.0 c.msn.com
 0.0.0.0 c.msn.com.cn
 0.0.0.0 c.ningbojipiao.com
 0.0.0.0 c.ns8d.com
@@ -2264,6 +2265,7 @@
 0.0.0.0 ecpm.tanx.com
 0.0.0.0 ed.aijielang.cn
 0.0.0.0 ed.sczhilong.cn
+0.0.0.0 edge.quantserve.com
 0.0.0.0 edge.sharethis.com
 0.0.0.0 edge.yunjiasu.com
 0.0.0.0 edp2.adriver.ru
@@ -4585,6 +4587,7 @@
 0.0.0.0 s.zgclmw.cn
 0.0.0.0 s.zjhoudao.com
 0.0.0.0 s.zlongad.com
+0.0.0.0 s0.2mdn.net
 0.0.0.0 s03.optimix.asia
 0.0.0.0 s1.2mdn.net
 0.0.0.0 s1.adform.net
@@ -6586,6 +6589,6 @@
 # Source - https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 6583
+# Total Domains: 6586
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

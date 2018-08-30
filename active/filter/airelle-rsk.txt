@@ -10699,6 +10699,7 @@
 0.0.0.0 ads.livescore.com
 0.0.0.0 ads.loveshack.org
 0.0.0.0 ads.lzjl.com
+0.0.0.0 ads.mamma.com
 0.0.0.0 ads.masslive.com
 0.0.0.0 ads.mediabong.net
 0.0.0.0 ads.mediaodyssey.com
@@ -50996,6 +50997,6 @@
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/mirror/airelle-rsk.txt
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 50993
+# Total Domains: 50994
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

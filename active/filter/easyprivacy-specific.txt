@@ -86,6 +86,7 @@
 0.0.0.0 cdnstats.tube8.com
 0.0.0.0 cem.hotelsapi.io
 0.0.0.0 chkpt.zdnet.com
+0.0.0.0 clc.stackoverflow.com
 0.0.0.0 clck.yandex.com
 0.0.0.0 click.engage.xbox.com
 0.0.0.0 click.jasmin.com
@@ -304,6 +305,7 @@
 0.0.0.0 pix.eads.com
 0.0.0.0 pix.nbcuni.com
 0.0.0.0 pixel.anyclip.com
+0.0.0.0 pixel.facebook.com
 0.0.0.0 pixel.honestjohn.co.uk
 0.0.0.0 pixel.naij.com
 0.0.0.0 pixel.newsdiscover.com.au
@@ -643,6 +645,6 @@
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easyprivacy-specific.txt
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 640
+# Total Domains: 642
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

@@ -21200,6 +21200,7 @@
 0.0.0.0 edfinancial.122.2o7.net
 0.0.0.0 edfinancialdev.122.2o7.net
 0.0.0.0 edge.analytics.brightedge.com
+0.0.0.0 edge.quantserve.com
 0.0.0.0 edge.sqweb.com
 0.0.0.0 edgetechanalytics.com
 0.0.0.0 edietsmain.112.2o7.net
@@ -41009,6 +41010,7 @@
 0.0.0.0 pixel.adpredictive.com
 0.0.0.0 pixel.bilinmedia.net
 0.0.0.0 pixel.clickon.co.il
+0.0.0.0 pixel.facebook.com
 0.0.0.0 pixel.indieclicktv.com
 0.0.0.0 pixel.invitemedia.com
 0.0.0.0 pixel.monitor1.returnpath.net
@@ -57263,6 +57265,6 @@
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/mirror/airelle-trc.txt
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 57260
+# Total Domains: 57262
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

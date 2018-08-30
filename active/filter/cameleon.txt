@@ -3566,6 +3566,7 @@
 0.0.0.0 ads.mail.bg
 0.0.0.0 ads.mainetoday.com
 0.0.0.0 ads.maleflixxx.tv
+0.0.0.0 ads.mamma.com
 0.0.0.0 ads.manager.bg
 0.0.0.0 ads.marica.bg
 0.0.0.0 ads.mariuana.it
@@ -10536,6 +10537,7 @@
 0.0.0.0 edge.aperture.displaymarketplace.com
 0.0.0.0 edge.ayboll.com
 0.0.0.0 edge.metroleads.com
+0.0.0.0 edge.quantserve.com
 0.0.0.0 edge.simplereach.com
 0.0.0.0 edietsmain.112.2o7.net
 0.0.0.0 edipresse.adocean.pl
@@ -14393,6 +14395,7 @@
 0.0.0.0 pixel.cpex.cz
 0.0.0.0 pixel.crosspixel.net
 0.0.0.0 pixel.everesttech.net
+0.0.0.0 pixel.facebook.com
 0.0.0.0 pixel.indieclick.com
 0.0.0.0 pixel.industrybrains.com
 0.0.0.0 pixel.invitemedia.com
@@ -15153,6 +15156,7 @@
 0.0.0.0 s.webtrends.com
 0.0.0.0 s.xp1.ru4.com
 0.0.0.0 s.xvideos.com
+0.0.0.0 s0.2mdn.net
 0.0.0.0 s01.flagcounter.com
 0.0.0.0 s02.flagcounter.com
 0.0.0.0 s03.flagcounter.com
@@ -16869,6 +16873,7 @@
 0.0.0.0 tracking.hubspot.com
 0.0.0.0 tracking.immobilienscout24.de
 0.0.0.0 tracking.justpremium.com
+0.0.0.0 tracking.kurier.at
 0.0.0.0 tracking.lengow.com
 0.0.0.0 tracking.listhub.net
 0.0.0.0 tracking.m6r.eu
@@ -19476,6 +19481,6 @@
 # Source - http://sysctl.org/cameleon/hosts
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 19473
+# Total Domains: 19478
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

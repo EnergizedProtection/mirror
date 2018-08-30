@@ -1613,6 +1613,7 @@
 0.0.0.0 gold.weborama.fr
 0.0.0.0 goldspotmedia.com
 0.0.0.0 goldstats.com
+0.0.0.0 googlesyndication.com
 0.0.0.0 gostats.com
 0.0.0.0 gotoip55.com
 0.0.0.0 gp.dejanews.com
@@ -2873,6 +2874,6 @@
 # Source - https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 2870
+# Total Domains: 2871
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

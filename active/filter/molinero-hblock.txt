@@ -15143,6 +15143,7 @@
 0.0.0.0 c.mfstatic.cz
 0.0.0.0 c.mgid.com
 0.0.0.0 c.mrdarkddos.com
+0.0.0.0 c.msn.com
 0.0.0.0 c.mtro.co
 0.0.0.0 c.my.msn.com
 0.0.0.0 c.mystat-in.net
@@ -17674,6 +17675,7 @@
 0.0.0.0 clayanarch.gq
 0.0.0.0 clayheart.com
 0.0.0.0 claytransformations.info
+0.0.0.0 clc.stackoverflow.com
 0.0.0.0 clck.ru
 0.0.0.0 clck.yandex.com
 0.0.0.0 clckcloud.com
@@ -24836,6 +24838,7 @@
 0.0.0.0 edge.ayboll.com
 0.0.0.0 edge.bnmla.com
 0.0.0.0 edge.metroleads.com
+0.0.0.0 edge.quantserve.com
 0.0.0.0 edge.reporo.net
 0.0.0.0 edge.simplereach.com
 0.0.0.0 edge.sqweb.com
@@ -32570,6 +32573,7 @@
 0.0.0.0 googleplaygiftcardcodegenerator.com
 0.0.0.0 googlerank.info
 0.0.0.0 googlesgo.com
+0.0.0.0 googlesyndication.com
 0.0.0.0 googletagservices.com
 0.0.0.0 googlew.com
 0.0.0.0 googlewordpad.info
@@ -53728,6 +53732,7 @@
 0.0.0.0 pixel.digitru.st
 0.0.0.0 pixel.europapress.net
 0.0.0.0 pixel.everesttech.net
+0.0.0.0 pixel.facebook.com
 0.0.0.0 pixel.fanbridge.com
 0.0.0.0 pixel.glimr.io
 0.0.0.0 pixel.honestjohn.co.uk
@@ -58457,7 +58462,6 @@
 0.0.0.0 resolvedari.com
 0.0.0.0 resolvedlittlered.com
 0.0.0.0 resolver.gslb.mi-idc.com
-0.0.0.0 resolver.msg.xiaomi.net
 0.0.0.0 resolvethem.com
 0.0.0.0 resolvingserver.com
 0.0.0.0 reson8.com
@@ -59741,6 +59745,7 @@
 0.0.0.0 s.worldofmacros.net
 0.0.0.0 s.yam.com
 0.0.0.0 s.zeroredirect.com
+0.0.0.0 s0.2mdn.net
 0.0.0.0 s003.papoto.com
 0.0.0.0 s01-delivery.addynamo.net
 0.0.0.0 s01.delivery.addynamo.com
@@ -70320,6 +70325,7 @@
 0.0.0.0 tracking.keywee.co
 0.0.0.0 tracking.keywordmax.com
 0.0.0.0 tracking.klickthru.com
+0.0.0.0 tracking.kurier.at
 0.0.0.0 tracking.ladies.de
 0.0.0.0 tracking.lengow.com
 0.0.0.0 tracking.lenzmx.com
@@ -83143,6 +83149,6 @@
 # Source - https://hblock.molinero.xyz/hosts
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 83140
+# Total Domains: 83146
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

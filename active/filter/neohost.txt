@@ -564,6 +564,7 @@
 0.0.0.0 c.l.qq.com
 0.0.0.0 c.m.cn.miaozhen.com
 0.0.0.0 c.minisplat.cn
+0.0.0.0 c.msn.com
 0.0.0.0 c.msn.com.cn
 0.0.0.0 c.rexuebi.com
 0.0.0.0 c.w.inmobi.com
@@ -1135,6 +1136,7 @@
 0.0.0.0 googleadservices.com
 0.0.0.0 googleadsserving.cn
 0.0.0.0 googlecommerce.com
+0.0.0.0 googlesyndication.com
 0.0.0.0 googletagmanager.com
 0.0.0.0 googletagservices.com
 0.0.0.0 goto.sogou.com
@@ -1509,7 +1511,6 @@
 0.0.0.0 logupdate.avlyun.sec.miui.com
 0.0.0.0 ls.l.qq.com
 0.0.0.0 lu.sogou.com
-0.0.0.0 lxcdn.dl.files.xiaomi.net
 0.0.0.0 lycos-eu.imrworldwide.com
 0.0.0.0 m-78.jp
 0.0.0.0 m-adash.m.taobao.com
@@ -1824,7 +1825,6 @@
 0.0.0.0 pcxzo.pluto.sogou.com
 0.0.0.0 pd.dopa.com.cn
 0.0.0.0 pd.ok365.com
-0.0.0.0 pdc.micloud.xiaomi.net
 0.0.0.0 pdl.gionee.com
 0.0.0.0 pdown.stat.360safe.com
 0.0.0.0 pegasus.cmcm.com
@@ -1989,7 +1989,6 @@
 0.0.0.0 res.qhupdate.com
 0.0.0.0 rescn.u3.ucweb.com
 0.0.0.0 resolver.gslb.mi-idc.com
-0.0.0.0 resolver.msg.xiaomi.net
 0.0.0.0 return.adsame.com
 0.0.0.0 rh.code.jjyx.com
 0.0.0.0 rh.qq.com
@@ -2060,6 +2059,7 @@
 0.0.0.0 s.xinghao89.com
 0.0.0.0 s.xmcmn.com
 0.0.0.0 s.youmi.net
+0.0.0.0 s0.2mdn.net
 0.0.0.0 s1.2mdn.net
 0.0.0.0 s1.cmfu.com
 0.0.0.0 s1.cnzz.com
@@ -2273,8 +2273,6 @@
 0.0.0.0 sdsp.ipinyou.com
 0.0.0.0 sdu.adwo.com
 0.0.0.0 sea.napi.ucweb.com
-0.0.0.0 sec-cdn.static.xiaomi.net
-0.0.0.0 sec.resource.xiaomi.net
 0.0.0.0 secretchina.com
 0.0.0.0 secure-asia.imrworldwide.com
 0.0.0.0 secure-au.imrworldwide.com
@@ -3100,6 +3098,6 @@
 # Source - https://hosts.nfz.moe/full/hosts
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 3097
+# Total Domains: 3095
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

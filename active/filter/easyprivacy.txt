@@ -916,6 +916,7 @@
 0.0.0.0 citypaketet.se
 0.0.0.0 cityua.net
 0.0.0.0 claritytag.com
+0.0.0.0 clc.stackoverflow.com
 0.0.0.0 clck.yandex.com
 0.0.0.0 cleananalytics.com
 0.0.0.0 cleveritics.com
@@ -3270,6 +3271,7 @@
 0.0.0.0 pixel.condenastdigital.com
 0.0.0.0 pixel.cpex.cz
 0.0.0.0 pixel.europapress.net
+0.0.0.0 pixel.facebook.com
 0.0.0.0 pixel.fanbridge.com
 0.0.0.0 pixel.glimr.io
 0.0.0.0 pixel.honestjohn.co.uk
@@ -4725,6 +4727,7 @@
 0.0.0.0 tracking.jotform.com
 0.0.0.0 tracking.kdata.fr
 0.0.0.0 tracking.keywee.co
+0.0.0.0 tracking.kurier.at
 0.0.0.0 tracking.ladies.de
 0.0.0.0 tracking.lengow.com
 0.0.0.0 tracking.listhub.net
@@ -5342,6 +5345,6 @@
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easyprivacy.txt
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 5339
+# Total Domains: 5342
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

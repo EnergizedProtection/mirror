@@ -21853,6 +21853,7 @@
 0.0.0.0 c.mobhubrdrms.com
 0.0.0.0 c.mobpartner.mobi
 0.0.0.0 c.mscimg.com
+0.0.0.0 c.msn.com
 0.0.0.0 c.msnbc.com
 0.0.0.0 c.munmedtrflow.com
 0.0.0.0 c.netu.tv
@@ -25722,6 +25723,7 @@
 0.0.0.0 edge.bredg.com
 0.0.0.0 edge.jeetyetmedia.com
 0.0.0.0 edge.mb.gammae.com
+0.0.0.0 edge.quantserve.com
 0.0.0.0 edge.reporo.net
 0.0.0.0 edge.sharethis.com
 0.0.0.0 edgy.demo.sproutinc.com
@@ -27661,6 +27663,7 @@
 0.0.0.0 googleads2.g.doubleclick.net
 0.0.0.0 googleads4.g.doubleclick.net
 0.0.0.0 googleadservices.com
+0.0.0.0 googlesyndication.com
 0.0.0.0 googletagmanager.com
 0.0.0.0 gooool.com
 0.0.0.0 gopacket.goforandroid.com
@@ -32114,6 +32117,7 @@
 0.0.0.0 pixel.bild.de
 0.0.0.0 pixel.despegar.com
 0.0.0.0 pixel.eversttech.net
+0.0.0.0 pixel.facebook.com
 0.0.0.0 pixel.fanbridge.com
 0.0.0.0 pixel.getpaidfordata.com
 0.0.0.0 pixel.gfycat.com
@@ -33417,6 +33421,7 @@
 0.0.0.0 s.zeroredirect.com
 0.0.0.0 s.zeroredirect1.com
 0.0.0.0 s.zeroredirect2.com
+0.0.0.0 s0.2mdn.net
 0.0.0.0 s0.img.awempire.com
 0.0.0.0 s01-delivery.addynamo.net
 0.0.0.0 s01.flagcounter.com
@@ -44316,6 +44321,6 @@
 # Source - https://hosts-file.net/ad_servers.txt
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 44313
+# Total Domains: 44318
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

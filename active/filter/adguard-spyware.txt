@@ -104,6 +104,7 @@
 0.0.0.0 c.imrk.net
 0.0.0.0 c.index.ru
 0.0.0.0 c.ipaddress.com
+0.0.0.0 c.msn.com
 0.0.0.0 c.newsinc.com
 0.0.0.0 c.opinion.com.ua
 0.0.0.0 c.t-online.de
@@ -117,6 +118,7 @@
 0.0.0.0 cdn.tagcommander.com
 0.0.0.0 cdnstats-a.akamaihd.net
 0.0.0.0 cj.madeleine.de
+0.0.0.0 clc.stackoverflow.com
 0.0.0.0 clicks.dealer.com
 0.0.0.0 clicks.hurriyet.com.tr
 0.0.0.0 client.perimeterx.net
@@ -252,6 +254,7 @@
 0.0.0.0 e.reddit.com
 0.0.0.0 e.tw.cx
 0.0.0.0 eclick.baidu.com
+0.0.0.0 edge.quantserve.com
 0.0.0.0 epiv.cardlytics.com
 0.0.0.0 er.mmi.bemobile.ua
 0.0.0.0 err.rambler.ru
@@ -425,6 +428,7 @@
 0.0.0.0 pixel.cdnwidget.com
 0.0.0.0 pixel.condenastdigital.com
 0.0.0.0 pixel.europapress.net
+0.0.0.0 pixel.facebook.com
 0.0.0.0 pixel.parsely.com
 0.0.0.0 pixel.roymorgan.com
 0.0.0.0 pixel.watch
@@ -629,6 +633,7 @@
 0.0.0.0 tracking.deluxe-marketing.com
 0.0.0.0 tracking.epicgames.com
 0.0.0.0 tracking.g2crowd.com
+0.0.0.0 tracking.kurier.at
 0.0.0.0 tracking.lengow.com
 0.0.0.0 tracking.musixmatch.com
 0.0.0.0 tracking.oe24.at
@@ -693,6 +698,6 @@
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-spyware-firstparty.txt
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 690
+# Total Domains: 695
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 
