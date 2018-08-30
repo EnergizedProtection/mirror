@@ -1,7 +1,7 @@
 # phishing-bad-sites Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - http://phishing.mailscanner.info/phishing.bad.sites.conf
-# Last Converted - Thu, 30 Aug 2018 04:58:01 -0400
+# Last Converted - Thu, 30 Aug 2018 05:38:08 -0400
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
