@@ -74,7 +74,6 @@
 0.0.0.0 a.m.shuhuangge.org
 0.0.0.0 a.oadz.com
 0.0.0.0 a.qiao024.com
-0.0.0.0 a.stat.xiaomi.com
 0.0.0.0 a.tac.miaozhen.com
 0.0.0.0 a.tanx.com
 0.0.0.0 a.tribalfusion.com
@@ -106,7 +105,6 @@
 0.0.0.0 aax.amazon-adsystem.com
 0.0.0.0 abc.xtyx918.com
 0.0.0.0 aboluowang.com
-0.0.0.0 abtest.mistat.xiaomi.com
 0.0.0.0 ac.atpanel.com
 0.0.0.0 ac.mmstat.com
 0.0.0.0 ac3.msn.com
@@ -858,7 +856,6 @@
 0.0.0.0 dat.gtags.net
 0.0.0.0 data.ads.oppomobile.com
 0.0.0.0 data.haoma.sogou.com
-0.0.0.0 data.mistat.xiaomi.com
 0.0.0.0 databank.air.yoyi.com.cn
 0.0.0.0 databank.yoyi.com.cn
 0.0.0.0 datax.baidu.com
@@ -1281,7 +1278,6 @@
 0.0.0.0 iisl7wpf.me
 0.0.0.0 image.139y.com
 0.0.0.0 image.atdmt.com
-0.0.0.0 image.box.xiaomi.com
 0.0.0.0 image.haiyunx.com
 0.0.0.0 image.p4p.sogou.com
 0.0.0.0 image.zzd.sm.cn
@@ -1637,7 +1633,6 @@
 0.0.0.0 mix.adsame.com
 0.0.0.0 mlb.did.ijinshan.com
 0.0.0.0 mlog.hiido.com
-0.0.0.0 mlog.search.xiaomi.net
 0.0.0.0 mm.dopa.com.cn
 0.0.0.0 mm.jgchq.com
 0.0.0.0 mo.haloapps.cn
@@ -1741,7 +1736,6 @@
 0.0.0.0 ny7f6goy.bid
 0.0.0.0 o.if.qidian.com
 0.0.0.0 o.minisplat.cn
-0.0.0.0 o2o.api.xiaomi.com
 0.0.0.0 oascentral.sina.com
 0.0.0.0 obeyter.com
 0.0.0.0 oc.umeng.com
@@ -3098,6 +3092,6 @@
 # Source - https://hosts.nfz.moe/full/hosts
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 3095
+# Total Domains: 3089
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

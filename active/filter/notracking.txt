@@ -607,7 +607,6 @@
 0.0.0.0 a.softconsultgroup.com
 0.0.0.0 a.solarmovie.is
 0.0.0.0 a.spicetv.com
-0.0.0.0 a.stat.xiaomi.com
 0.0.0.0 a.tanx.com
 0.0.0.0 a.tempurpedic.com
 0.0.0.0 a.thanksearch.com
@@ -781,7 +780,6 @@
 0.0.0.0 abs.ispsystem.com
 0.0.0.0 abs.proxistore.com
 0.0.0.0 abtest.mistat.intl.xiaomi.com
-0.0.0.0 abtest.mistat.xiaomi.com
 0.0.0.0 abtracker.adultbouncer.com
 0.0.0.0 ac.ajur.info
 0.0.0.0 ac.atpanel.com
@@ -9157,8 +9155,6 @@
 0.0.0.0 data.kamcord.com
 0.0.0.0 data.kataweb.it
 0.0.0.0 data.lockscalecompare.com
-0.0.0.0 data.mistat.intl.xiaomi.com
-0.0.0.0 data.mistat.xiaomi.com
 0.0.0.0 data.nal.usda.gov
 0.0.0.0 data.neuroxmedia.com
 0.0.0.0 data.ninemsn.com.au
@@ -11601,7 +11597,6 @@
 0.0.0.0 global.ekmpinpoint.com
 0.0.0.0 global.ymtrack.com
 0.0.0.0 global.ymtracking.com
-0.0.0.0 globalapi.ad.xiaomi.com
 0.0.0.0 globalmagatrading.nexuscoltd.com
 0.0.0.0 glosowanie.ujm.pl
 0.0.0.0 gma.alicdn.com
@@ -20991,7 +20986,6 @@
 0.0.0.0 store.tv.api.3g.youku.com
 0.0.0.0 store.xl.api.3g.youku.com
 0.0.0.0 store001.mybigcommerce.com
-0.0.0.0 storeconfig.mistat.intl.xiaomi.com
 0.0.0.0 storeconfig.mistat.xiaomi.com
 0.0.0.0 stores-ebav-webaddserberwebportalwebdll.dns05.com
 0.0.0.0 storewidget.pcauthority.com.au
@@ -26427,6 +26421,6 @@
 # Source - https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 26424
+# Total Domains: 26418
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

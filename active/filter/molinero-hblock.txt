@@ -2037,7 +2037,6 @@
 0.0.0.0 a.softconsultgroup.com
 0.0.0.0 a.solarmovie.is
 0.0.0.0 a.spicetv.com
-0.0.0.0 a.stat.xiaomi.com
 0.0.0.0 a.tantella.com
 0.0.0.0 a.teads.tv
 0.0.0.0 a.tempurpedic.com
@@ -2415,7 +2414,6 @@
 0.0.0.0 absoluteclickscom.com
 0.0.0.0 absop.academy
 0.0.0.0 abtest.mistat.intl.xiaomi.com
-0.0.0.0 abtest.mistat.xiaomi.com
 0.0.0.0 abtest.swrve.com
 0.0.0.0 abtokisikaypas.com
 0.0.0.0 abtracker.adultbouncer.com
@@ -9317,7 +9315,6 @@
 0.0.0.0 api.linkgist.com
 0.0.0.0 api.minero.cc
 0.0.0.0 api.minexmr.com
-0.0.0.0 api.miui.security.xiaomi.com
 0.0.0.0 api.mixpanel.com
 0.0.0.0 api.mobojoy.baidu.com
 0.0.0.0 api.mobula.ds.duapps.com
@@ -21570,8 +21567,6 @@
 0.0.0.0 data.kataweb.it
 0.0.0.0 data.mic.com
 0.0.0.0 data.minute.ly
-0.0.0.0 data.mistat.intl.xiaomi.com
-0.0.0.0 data.mistat.xiaomi.com
 0.0.0.0 data.mobclix.com
 0.0.0.0 data.nal.usda.gov
 0.0.0.0 data.namesakeoscilloscopemarquis.com
@@ -32087,7 +32082,6 @@
 0.0.0.0 globaladsales.com
 0.0.0.0 globaladv.net
 0.0.0.0 globalaidsale.ru
-0.0.0.0 globalapi.ad.xiaomi.com
 0.0.0.0 globalautoliners.com
 0.0.0.0 globalcharge.com
 0.0.0.0 globalcns.com
@@ -50169,7 +50163,6 @@
 0.0.0.0 o2.eyereturn.com
 0.0.0.0 o2.hit.gemius.pl
 0.0.0.0 o2adpl.hit.gemius.pl
-0.0.0.0 o2o.api.xiaomi.com
 0.0.0.0 o333o.com
 0.0.0.0 o365.ezyro.com
 0.0.0.0 o4uxrk33.com
@@ -66196,7 +66189,6 @@
 0.0.0.0 store001.mybigcommerce.com
 0.0.0.0 store4everything.com
 0.0.0.0 storebox1.info
-0.0.0.0 storeconfig.mistat.intl.xiaomi.com
 0.0.0.0 storefiles.me
 0.0.0.0 storegiftcardgiveaways.com
 0.0.0.0 storemarked-contact.com
@@ -83150,6 +83142,6 @@
 # Source - https://hblock.molinero.xyz/hosts
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 83147
+# Total Domains: 83139
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

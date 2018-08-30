@@ -3533,7 +3533,6 @@
 0.0.0.0 a.rad.atdmt.com
 0.0.0.0 a.scorecardresearch.com
 0.0.0.0 a.sta.haloapps.com
-0.0.0.0 a.stat.xiaomi.com
 0.0.0.0 a.steepto.com
 0.0.0.0 a.teads.tv
 0.0.0.0 a.trust.zone
@@ -5176,7 +5175,6 @@
 0.0.0.0 abstract.adk2x.com
 0.0.0.0 abtest.goforandroid.com
 0.0.0.0 abtest.mistat.intl.xiaomi.com
-0.0.0.0 abtest.mistat.xiaomi.com
 0.0.0.0 abutil01.touchcommerce.com
 0.0.0.0 abv3-tslogging.touchcommerce.com
 0.0.0.0 ac-gb.mgid.com
@@ -6535,7 +6533,6 @@
 0.0.0.0 api.chartboost.com
 0.0.0.0 api.clickability.com
 0.0.0.0 api.cloudmobi.net
-0.0.0.0 api.comm.miui.com
 0.0.0.0 api.company-target.com
 0.0.0.0 api.content-ad.net
 0.0.0.0 api.content.ad
@@ -6582,7 +6579,6 @@
 0.0.0.0 api.manage.ensighten.com
 0.0.0.0 api.market.pubnative.net
 0.0.0.0 api.mediavoice.com
-0.0.0.0 api.miui.security.xiaomi.com
 0.0.0.0 api.mixpanel.com
 0.0.0.0 api.mobile.cnzz.com
 0.0.0.0 api.mobileapptracking.com
@@ -6824,7 +6820,6 @@
 0.0.0.0 app.link
 0.0.0.0 app.magnetic.com
 0.0.0.0 app.manage.ensighten.com
-0.0.0.0 app.market.xiaomi.com
 0.0.0.0 app.marketo.com
 0.0.0.0 app.mediaplex.com
 0.0.0.0 app.miui.com
@@ -10079,8 +10074,6 @@
 0.0.0.0 data.insert.io
 0.0.0.0 data.livefyre.com
 0.0.0.0 data.mathtag.com
-0.0.0.0 data.mistat.intl.xiaomi.com
-0.0.0.0 data.mistat.xiaomi.com
 0.0.0.0 data.mobilesystemservice.com
 0.0.0.0 data.sec.miui.com
 0.0.0.0 data.stage.insert.io
@@ -13083,7 +13076,6 @@
 0.0.0.0 global.load.exelator.com
 0.0.0.0 global.qc.rtb.quantserve.com
 0.0.0.0 global.ymtracking.com
-0.0.0.0 globalapi.ad.xiaomi.com
 0.0.0.0 globalfastads.afflithium.comtrack.com
 0.0.0.0 globalnews.ca.d1.sc.omtrdc.net
 0.0.0.0 globeandmail.tt.omtrdc.net
@@ -16767,7 +16759,6 @@
 0.0.0.0 mlflpz.mirtesen.ru
 0.0.0.0 mlg-d.openx.net
 0.0.0.0 mlog.hiido.com
-0.0.0.0 mlog.search.xiaomi.net
 0.0.0.0 mlox.brandreachsys.com
 0.0.0.0 mlse.ca1.qualtrics.com
 0.0.0.0 mm.atdmt.com
@@ -17960,7 +17951,6 @@
 0.0.0.0 o2.postmaster.m.getadmiral.com
 0.0.0.0 o25t69h1of.kameleoon.eu
 0.0.0.0 o2freikarte.widget.criteo.com
-0.0.0.0 o2o.api.xiaomi.com
 0.0.0.0 o2onlinede.widget.criteo.com
 0.0.0.0 o3.campaigns2.kissmetrics.com
 0.0.0.0 o4.campaigns1.kissmetrics.com
@@ -23551,7 +23541,6 @@
 0.0.0.0 storage.kameleoon.com
 0.0.0.0 storage.outbrain.com
 0.0.0.0 store.taboola.com
-0.0.0.0 storeconfig.mistat.intl.xiaomi.com
 0.0.0.0 storefront.flurry.com
 0.0.0.0 storesupplywarehouse.d1.sc.omtrdc.net
 0.0.0.0 storesurprise.com
@@ -27799,6 +27788,6 @@
 # Source - https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 27796
+# Total Domains: 27785
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

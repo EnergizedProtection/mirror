@@ -205,7 +205,6 @@
 0.0.0.0 a.soonyou123.com
 0.0.0.0 a.starstar19999.com
 0.0.0.0 a.startui19999.com
-0.0.0.0 a.stat.xiaomi.com
 0.0.0.0 a.tac.miaozhen.com
 0.0.0.0 a.tanx.com
 0.0.0.0 a.tribalfusion.com
@@ -274,7 +273,6 @@
 0.0.0.0 abc.zhiyaspa.com
 0.0.0.0 abcd.zsrt88.cn
 0.0.0.0 abcj.dooccn.com
-0.0.0.0 abtest.mistat.xiaomi.com
 0.0.0.0 ac-gb.mgid.com
 0.0.0.0 ac.atpanel.com
 0.0.0.0 ac.mmstat.com
@@ -1840,7 +1838,6 @@
 0.0.0.0 data.danmu.baofeng.com
 0.0.0.0 data.doodlemobile.com
 0.0.0.0 data.gosquared.com
-0.0.0.0 data.mistat.xiaomi.com
 0.0.0.0 data.yd126.com
 0.0.0.0 data2.doodlemobile.com
 0.0.0.0 data2.gosquared.com
@@ -6589,6 +6586,6 @@
 # Source - https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 6586
+# Total Domains: 6583
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

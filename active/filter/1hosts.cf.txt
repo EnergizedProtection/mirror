@@ -2466,7 +2466,6 @@
 0.0.0.0 a.sta.haloapps.com
 0.0.0.0 a.starstar19999.com
 0.0.0.0 a.startui19999.com
-0.0.0.0 a.stat.xiaomi.com
 0.0.0.0 a.steepto.com
 0.0.0.0 a.stern.de
 0.0.0.0 a.t.webtracker.jp
@@ -3886,7 +3885,6 @@
 0.0.0.0 abtest-coin.xenderapi.com
 0.0.0.0 abtest.goforandroid.com
 0.0.0.0 abtest.mistat.intl.xiaomi.com
-0.0.0.0 abtest.mistat.xiaomi.com
 0.0.0.0 abtest.swrve.com
 0.0.0.0 abtesting.intuit.com
 0.0.0.0 abtrcking.com
@@ -10609,7 +10607,6 @@
 0.0.0.0 api.9snail.com
 0.0.0.0 api.aalbbh84.info
 0.0.0.0 api.accengage.com
-0.0.0.0 api.account.xiaomi.com
 0.0.0.0 api.ad-brix.com
 0.0.0.0 api.ad-locus.com
 0.0.0.0 api.ad-stir.com
@@ -10729,7 +10726,6 @@
 0.0.0.0 api.coinhive.com
 0.0.0.0 api.cointrend.club
 0.0.0.0 api.collect.data.intl.miui.com
-0.0.0.0 api.comm.miui.com
 0.0.0.0 api.company-target.com
 0.0.0.0 api.comscore.com
 0.0.0.0 api.conduit.com
@@ -10856,7 +10852,6 @@
 0.0.0.0 api.millennialmedia.com
 0.0.0.0 api.minero.cc
 0.0.0.0 api.minexmr.com
-0.0.0.0 api.miui.security.xiaomi.com
 0.0.0.0 api.mixpanel.com
 0.0.0.0 api.mobadvent.com
 0.0.0.0 api.mobgi.com
@@ -11303,7 +11298,6 @@
 0.0.0.0 app.lfstmedia.com
 0.0.0.0 app.link
 0.0.0.0 app.magnetic.com
-0.0.0.0 app.market.xiaomi.com
 0.0.0.0 app.marketo.com
 0.0.0.0 app.mashero.com
 0.0.0.0 app.masoffer.net
@@ -20983,8 +20977,6 @@
 0.0.0.0 data.marketgid.com
 0.0.0.0 data.mic.com
 0.0.0.0 data.minute.ly
-0.0.0.0 data.mistat.intl.xiaomi.com
-0.0.0.0 data.mistat.xiaomi.com
 0.0.0.0 data.mobclix.com
 0.0.0.0 data.mobilesystemservice.com
 0.0.0.0 data.mozilla.com
@@ -27025,7 +27017,6 @@
 0.0.0.0 globaladmedia.net
 0.0.0.0 globaladsales.com
 0.0.0.0 globaladv.net
-0.0.0.0 globalapi.ad.xiaomi.com
 0.0.0.0 globalismedia.com
 0.0.0.0 globalnursesonline.com
 0.0.0.0 globalradio.122.2o7.net
@@ -29665,7 +29656,6 @@
 0.0.0.0 image.139y.com
 0.0.0.0 image.37wan.cn
 0.0.0.0 image.adsbing.com
-0.0.0.0 image.box.xiaomi.com
 0.0.0.0 image.cecash.com
 0.0.0.0 image.celtra.com
 0.0.0.0 image.cybererotica.com
@@ -38591,7 +38581,6 @@
 0.0.0.0 o2.hit.gemius.pl
 0.0.0.0 o2.mouseflow.com
 0.0.0.0 o2adpl.hit.gemius.pl
-0.0.0.0 o2o.api.xiaomi.com
 0.0.0.0 o3.mail6.shared.hubspot.com
 0.0.0.0 o333o.com
 0.0.0.0 o4uxrk33.com
@@ -43941,7 +43930,6 @@
 0.0.0.0 register.cinematrix.net
 0.0.0.0 register.leadbolt.com
 0.0.0.0 register.silverscreen.cc
-0.0.0.0 register.xmpush.xiaomi.com
 0.0.0.0 registercom.122.2o7.net
 0.0.0.0 registercom.tt.omtrdc.net
 0.0.0.0 registeridm.com
@@ -46947,7 +46935,6 @@
 0.0.0.0 sgolden.site
 0.0.0.0 sgood.ru
 0.0.0.0 sgp.o2o.api.xiaomi.com
-0.0.0.0 sgpac.account.xiaomi.com
 0.0.0.0 sgqcvfjvr.onet.pl
 0.0.0.0 sgreporting.getadmiral.com
 0.0.0.0 sgsdata.adtechus.com
@@ -50053,7 +50040,6 @@
 0.0.0.0 store.tv.api.3g.youku.com
 0.0.0.0 store.videojj.com
 0.0.0.0 store.xl.api.3g.youku.com
-0.0.0.0 storeconfig.mistat.intl.xiaomi.com
 0.0.0.0 storeconfig.mistat.xiaomi.com
 0.0.0.0 storefront.nr-assets.net
 0.0.0.0 storesurprise.com
@@ -55065,7 +55051,6 @@
 0.0.0.0 userdata-maxis.krxd.net
 0.0.0.0 usereachpeople.com
 0.0.0.0 userecho.com
-0.0.0.0 userid.xiaomi.com
 0.0.0.0 userimg.qunar.com
 0.0.0.0 useriq.com
 0.0.0.0 usermatch.krxd.net
@@ -56427,7 +56412,6 @@
 0.0.0.0 wallet.advcash.com
 0.0.0.0 wallet.brominer.com
 0.0.0.0 wallpaper.cdn.pandora.xiaomi.com
-0.0.0.0 wallpaper.pandora.xiaomi.com
 0.0.0.0 wallstreet.2cnt.net
 0.0.0.0 walmart.ca.ssl.d1.sc.omtrdc.net
 0.0.0.0 walmart.com.d1.sc.omtrdc.net
@@ -64865,6 +64849,6 @@
 # Source - https://1hosts.cf
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 64862
+# Total Domains: 64846
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

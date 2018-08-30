@@ -1108,7 +1108,6 @@
 0.0.0.0 a.shulhanafuh.com
 0.0.0.0 a.softconsultgroup.com
 0.0.0.0 a.spicetv.com
-0.0.0.0 a.stat.xiaomi.com
 0.0.0.0 a.tantella.com
 0.0.0.0 a.teads.tv
 0.0.0.0 a.tempurpedic.com
@@ -1349,7 +1348,6 @@
 0.0.0.0 absoluteclickscom.com
 0.0.0.0 absum.ru
 0.0.0.0 abtest.mistat.intl.xiaomi.com
-0.0.0.0 abtest.mistat.xiaomi.com
 0.0.0.0 abtest.swrve.com
 0.0.0.0 abtesting.intuit.com
 0.0.0.0 abtracker.adultbouncer.com
@@ -13797,8 +13795,6 @@
 0.0.0.0 data.gosquared.com
 0.0.0.0 data.kataweb.it
 0.0.0.0 data.livefyre.com
-0.0.0.0 data.mistat.intl.xiaomi.com
-0.0.0.0 data.mistat.xiaomi.com
 0.0.0.0 data.mobclix.com
 0.0.0.0 data.nal.usda.gov
 0.0.0.0 data.namesakeoscilloscopemarquis.com
@@ -19841,7 +19837,6 @@
 0.0.0.0 global.returnpath.net
 0.0.0.0 global.ymtrack.com
 0.0.0.0 globalaidsale.ru
-0.0.0.0 globalapi.ad.xiaomi.com
 0.0.0.0 globalcharge.com
 0.0.0.0 globalcns.com
 0.0.0.0 globalgutz.com
@@ -39909,7 +39904,6 @@
 0.0.0.0 store.gumgum.com
 0.0.0.0 store.intercom.io
 0.0.0.0 store.taboola.com
-0.0.0.0 storeconfig.mistat.intl.xiaomi.com
 0.0.0.0 storesurprise.com
 0.0.0.0 storknet.us.intellitxt.com
 0.0.0.0 stormyachiever.com
@@ -51628,6 +51622,6 @@
 # Source - http://sbc.io/hosts/hosts
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 51625
+# Total Domains: 51619
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

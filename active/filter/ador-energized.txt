@@ -92,7 +92,6 @@
 0.0.0.0 a.ns.ish.atdmt.com
 0.0.0.0 a.scorecardresearch.com
 0.0.0.0 a.spankbang.com
-0.0.0.0 a.stat.xiaomi.com
 0.0.0.0 a.tribalfusion.com
 0.0.0.0 a.tvpage.com
 0.0.0.0 a02.korrelate.net
@@ -133,7 +132,6 @@
 0.0.0.0 absolute.adswizz.com
 0.0.0.0 absurdwater.com
 0.0.0.0 abtest.mistat.intl.xiaomi.com
-0.0.0.0 abtest.mistat.xiaomi.com
 0.0.0.0 abtest.swrve.com
 0.0.0.0 ac-gb.mgid.com
 0.0.0.0 ac.goodsblock.mgid.com
@@ -972,7 +970,6 @@
 0.0.0.0 api-public.addthis.com
 0.0.0.0 api-sc2.adsymptotic.com
 0.0.0.0 api-touchstorm.bttrack.com
-0.0.0.0 api.account.xiaomi.com
 0.0.0.0 api.ad-locus.com
 0.0.0.0 api.ad.intl.xiaomi.com
 0.0.0.0 api.ad.snappea.com
@@ -1015,7 +1012,6 @@
 0.0.0.0 api.c.uc.cn
 0.0.0.0 api.cloudmobi.net
 0.0.0.0 api.collect.data.intl.miui.com
-0.0.0.0 api.comm.miui.com
 0.0.0.0 api.content.ad
 0.0.0.0 api.crashlytics.com
 0.0.0.0 api.crittercism.com
@@ -1052,7 +1048,6 @@
 0.0.0.0 api.leadbolt.net
 0.0.0.0 api.livefyre.com
 0.0.0.0 api.m.taobao.com
-0.0.0.0 api.miui.security.xiaomi.com
 0.0.0.0 api.mixpanel.com
 0.0.0.0 api.mobadvent.com
 0.0.0.0 api.mobileapptracking.com
@@ -2124,8 +2119,6 @@
 0.0.0.0 data.game.xiaomi.com
 0.0.0.0 data.green-red.com
 0.0.0.0 data.livefyre.com
-0.0.0.0 data.mistat.intl.xiaomi.com
-0.0.0.0 data.mistat.xiaomi.com
 0.0.0.0 data.mixpanel.com
 0.0.0.0 data.mozilla.com
 0.0.0.0 data.sec.intl.miui.com
@@ -2721,7 +2714,6 @@
 0.0.0.0 global.api.tinyhoneybee.com
 0.0.0.0 global.appsflyer.com
 0.0.0.0 global.msads.net
-0.0.0.0 globalapi.ad.xiaomi.com
 0.0.0.0 gloriousbeef.com
 0.0.0.0 glossyads.com
 0.0.0.0 glossysense.com
@@ -2956,7 +2948,6 @@
 0.0.0.0 image-gj.9game.com
 0.0.0.0 image.9game.ucdns.uc.cn
 0.0.0.0 image.atdmt.com
-0.0.0.0 image.box.xiaomi.com
 0.0.0.0 image.game.uc.cn
 0.0.0.0 image.pandora.xiaomi.com
 0.0.0.0 image.uc.cn
@@ -3499,7 +3490,6 @@
 0.0.0.0 mkhoj.com
 0.0.0.0 mktg.tvpage.com
 0.0.0.0 mlb.did.ijinshan.com
-0.0.0.0 mlog.search.xiaomi.net
 0.0.0.0 mm.atdmt.com
 0.0.0.0 mm.chitika.net
 0.0.0.0 mmnetwork.mobi
@@ -3783,7 +3773,6 @@
 0.0.0.0 o.bluekai.com
 0.0.0.0 o1.alerts.flurry.com
 0.0.0.0 o1.outbound.crashlytics.com
-0.0.0.0 o2o.api.xiaomi.com
 0.0.0.0 oad.taptica.com
 0.0.0.0 oadj.taptica.com
 0.0.0.0 oata.ero-advertising.com
@@ -4204,7 +4193,6 @@
 0.0.0.0 reflectivereward.com
 0.0.0.0 regardensy.mobi
 0.0.0.0 register.appsflyer.com
-0.0.0.0 register.xmpush.xiaomi.com
 0.0.0.0 rek.mobi
 0.0.0.0 reklamz.com
 0.0.0.0 relap.io
@@ -4521,7 +4509,6 @@
 0.0.0.0 sg.mmstat.com
 0.0.0.0 sg.napi.ucweb.com
 0.0.0.0 sgp.o2o.api.xiaomi.com
-0.0.0.0 sgpac.account.xiaomi.com
 0.0.0.0 sgpubrtb.onedigitalad.com
 0.0.0.0 sgrtb.onedigitalad.com
 0.0.0.0 sh.wagbridge.wsq.umeng.com
@@ -4780,7 +4767,6 @@
 0.0.0.0 storage.asiandate.com
 0.0.0.0 store.advmob.cn
 0.0.0.0 store.lenzmx.com
-0.0.0.0 storeconfig.mistat.intl.xiaomi.com
 0.0.0.0 storefront.flurry.com
 0.0.0.0 storesurprise.com
 0.0.0.0 stormyachiever.com
@@ -5513,7 +5499,6 @@
 0.0.0.0 usedirect.adsrvr.org
 0.0.0.0 usefb.adsrvr.org
 0.0.0.0 usekahuna.com
-0.0.0.0 userid.xiaomi.com
 0.0.0.0 users.ero-advertising.com
 0.0.0.0 users.quantumgraph.com
 0.0.0.0 usetting.lau1.uae.uc.cn
@@ -5641,7 +5626,6 @@
 0.0.0.0 waframedia20.com
 0.0.0.0 waiads.com
 0.0.0.0 wallpaper.cdn.pandora.xiaomi.com
-0.0.0.0 wallpaper.pandora.xiaomi.com
 0.0.0.0 wap-click.com
 0.0.0.0 wap.game.xiaomi.com
 0.0.0.0 wap.uc123.com
@@ -6062,6 +6046,6 @@
 # Source - https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 6059
+# Total Domains: 6043
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

@@ -1024,7 +1024,6 @@
 0.0.0.0 absolstats.co.za
 0.0.0.0 absolutemedia1.free.fr
 0.0.0.0 abtest.mistat.intl.xiaomi.com
-0.0.0.0 abtest.mistat.xiaomi.com
 0.0.0.0 abtracker.adultbouncer.com
 0.0.0.0 abtrcking.com
 0.0.0.0 abu.corp.fastclick.net
@@ -57265,6 +57264,6 @@
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/mirror/airelle-trc.txt
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 57262
+# Total Domains: 57261
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

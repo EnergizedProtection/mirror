@@ -568,7 +568,6 @@
 0.0.0.0 abs.firstvds.ru
 0.0.0.0 abs.proxistore.com
 0.0.0.0 absolstats.co.za
-0.0.0.0 abtest.mistat.xiaomi.com
 0.0.0.0 abtest.swrve.com
 0.0.0.0 abusieux.com
 0.0.0.0 abxlmhllf.com
@@ -2164,7 +2163,6 @@
 0.0.0.0 api.instabug.com
 0.0.0.0 api.kiip.me
 0.0.0.0 api.leadbolt.net
-0.0.0.0 api.miui.security.xiaomi.com
 0.0.0.0 api.mobojoy.baidu.com
 0.0.0.0 api.mobula.ds.duapps.com
 0.0.0.0 api.mobula.sdk.duapps.com
@@ -4528,8 +4526,6 @@
 0.0.0.0 data-slimspots.com
 0.0.0.0 data.adroll.com
 0.0.0.0 data.adwombat.com
-0.0.0.0 data.mistat.intl.xiaomi.com
-0.0.0.0 data.mistat.xiaomi.com
 0.0.0.0 data.neosmi.ru
 0.0.0.0 data.permittingnorthlandseamen.info
 0.0.0.0 data.sec.miui.com
@@ -9949,7 +9945,6 @@
 0.0.0.0 o.60sk.ru
 0.0.0.0 o.addthis.com
 0.0.0.0 o.gweini.com
-0.0.0.0 o2o.api.xiaomi.com
 0.0.0.0 o333o.com
 0.0.0.0 o4uxrk33.com
 0.0.0.0 oa-stc.zdn.vn
@@ -12988,7 +12983,6 @@
 0.0.0.0 stonecalcom.com
 0.0.0.0 stopphoulplay.com
 0.0.0.0 store-stc.zdn.vn
-0.0.0.0 storeconfig.mistat.intl.xiaomi.com
 0.0.0.0 stormcontainertag.com
 0.0.0.0 stormiq.com
 0.0.0.0 stormyachiever.com
@@ -16083,6 +16077,6 @@
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-domains.txt
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 16080
+# Total Domains: 16074
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

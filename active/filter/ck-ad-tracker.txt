@@ -1660,7 +1660,6 @@
 0.0.0.0 a.shokala.com
 0.0.0.0 a.shulhanafuh.com
 0.0.0.0 a.solarmovie.is
-0.0.0.0 a.stat.xiaomi.com
 0.0.0.0 a.t.webtracker.jp
 0.0.0.0 a.tantella.com
 0.0.0.0 a.teads.tv
@@ -1898,7 +1897,6 @@
 0.0.0.0 absolstats.co.za
 0.0.0.0 absoluteclickscom.com
 0.0.0.0 abtest.mistat.intl.xiaomi.com
-0.0.0.0 abtest.mistat.xiaomi.com
 0.0.0.0 abtest.swrve.com
 0.0.0.0 abusieux.com
 0.0.0.0 abxlmhllf.com
@@ -27339,8 +27337,6 @@
 0.0.0.0 data.lockscalecompare.com
 0.0.0.0 data.logentries.com
 0.0.0.0 data.marketgid.com
-0.0.0.0 data.mistat.intl.xiaomi.com
-0.0.0.0 data.mistat.xiaomi.com
 0.0.0.0 data.mobclix.com
 0.0.0.0 data.neuroxmedia.com
 0.0.0.0 data.ninemsn.com.au
@@ -30495,7 +30491,6 @@
 0.0.0.0 global.reporo.net
 0.0.0.0 global.ymtrack.com
 0.0.0.0 global.ymtracking.com
-0.0.0.0 globalapi.ad.xiaomi.com
 0.0.0.0 globalismedia.com
 0.0.0.0 globalstylis.ru
 0.0.0.0 globaltakeoff.net
@@ -40218,7 +40213,6 @@
 0.0.0.0 storage.psstgccint.com
 0.0.0.0 store.greatdealnews.com
 0.0.0.0 store.lavasoft.com
-0.0.0.0 storeconfig.mistat.intl.xiaomi.com
 0.0.0.0 storedsearch.com
 0.0.0.0 storewidget.pcauthority.com.au
 0.0.0.0 stories-news.com.ua
@@ -50831,6 +50825,6 @@
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/ck-ad-tracker.txt
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 50828
+# Total Domains: 50822
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

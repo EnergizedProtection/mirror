@@ -2795,7 +2795,6 @@
 0.0.0.0 abcd.mdc.akamaized.net
 0.0.0.0 abnad.net
 0.0.0.0 abroad-ad.kingsoft-office-service.com
-0.0.0.0 abtest.mistat.xiaomi.com
 0.0.0.0 abtest.swrve.com
 0.0.0.0 accounts.doubleclick.net
 0.0.0.0 acdn.adnxs.com
@@ -3093,7 +3092,6 @@
 0.0.0.0 api.kiip.me
 0.0.0.0 api.leadbolt.net
 0.0.0.0 api.live.daum.net
-0.0.0.0 api.miui.security.xiaomi.com
 0.0.0.0 api.mixpanel.com
 0.0.0.0 api.mobojoy.baidu.com
 0.0.0.0 api.mobula.ds.duapps.com
@@ -3387,8 +3385,6 @@
 0.0.0.0 da.doubleclick.net
 0.0.0.0 dante2007.com
 0.0.0.0 dar.imrworldwide.com
-0.0.0.0 data.mistat.intl.xiaomi.com
-0.0.0.0 data.mistat.xiaomi.com
 0.0.0.0 data.sec.miui.com
 0.0.0.0 db2-m.tlnk.io
 0.0.0.0 dbs.pushwoosh.com
@@ -3934,7 +3930,6 @@
 0.0.0.0 nxtck.com
 0.0.0.0 nycp-hlb.dvgtm.akadns.net
 0.0.0.0 o0m-u.tlnk.io
-0.0.0.0 o2o.api.xiaomi.com
 0.0.0.0 oc.umeng.com
 0.0.0.0 oclaserver.com
 0.0.0.0 oconner.biz
@@ -4276,7 +4271,6 @@
 0.0.0.0 stats.wp.com
 0.0.0.0 stickyadstv.com
 0.0.0.0 stop.fls.doubleclick.net
-0.0.0.0 storeconfig.mistat.intl.xiaomi.com
 0.0.0.0 storefront.nr-assets.net
 0.0.0.0 sts.batmobi.net
 0.0.0.0 studio.doubleclick.net
@@ -4609,6 +4603,6 @@
 # Source - https://raw.githubusercontent.com/jawz101/MobileAdTrackers/master/hosts
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 4606
+# Total Domains: 4600
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

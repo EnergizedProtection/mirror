@@ -3,7 +3,6 @@
 0.0.0.0 4seeresults.com
 0.0.0.0 a.appbaqend.com
 0.0.0.0 a.bitmango.com
-0.0.0.0 abtest.mistat.xiaomi.com
 0.0.0.0 ad-analytics-bootstrap.metaps.com
 0.0.0.0 adeventtracker.spotify.com
 0.0.0.0 adfuture.cn
@@ -50,7 +49,6 @@
 0.0.0.0 api.gameofwhales.com
 0.0.0.0 api.gimbal.com
 0.0.0.0 api.instabug.com
-0.0.0.0 api.miui.security.xiaomi.com
 0.0.0.0 api.oneaudience.com
 0.0.0.0 api.safedk.com
 0.0.0.0 api.sec.miui.com
@@ -89,8 +87,6 @@
 0.0.0.0 crasheye.cn
 0.0.0.0 crwdcntrl.net
 0.0.0.0 d.applvn.com
-0.0.0.0 data.mistat.intl.xiaomi.com
-0.0.0.0 data.mistat.xiaomi.com
 0.0.0.0 data.sec.miui.com
 0.0.0.0 dc.webtrends.com
 0.0.0.0 decide.mixpanel.com
@@ -167,7 +163,6 @@
 0.0.0.0 nlog.droid4x.cn
 0.0.0.0 npario-inc.net
 0.0.0.0 nrc.tapas.net
-0.0.0.0 o2o.api.xiaomi.com
 0.0.0.0 oc.umeng.com
 0.0.0.0 omni-ads.omni.news
 0.0.0.0 online-metrix.net
@@ -210,7 +205,6 @@
 0.0.0.0 stats.appsflyer.com
 0.0.0.0 stats.popcap.com
 0.0.0.0 stats.unity3d.com
-0.0.0.0 storeconfig.mistat.intl.xiaomi.com
 0.0.0.0 sts.batmobi.net
 0.0.0.0 sync.adotmob.com
 0.0.0.0 sypi.gpshopper.com
@@ -262,6 +256,6 @@
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-mobile-spyware.txt
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 259
+# Total Domains: 253
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 
