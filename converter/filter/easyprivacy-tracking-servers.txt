@@ -1,7 +1,7 @@
 # easyprivacy-tracking-servers Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers.txt
-# Last Converted - Thu, 30 Aug 2018 06:44:29 -0400
+# Last Converted - Thu, 30 Aug 2018 06:48:00 -0400
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
