@@ -1,7 +1,7 @@
 # adguard-domains Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://filters.adtidy.org/extension/chromium/filters/15.txt
-# Last Converted - Thu, 30 Aug 2018 08:08:09 -0400
+# Last Converted - Thu, 30 Aug 2018 09:11:21 -0400
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license

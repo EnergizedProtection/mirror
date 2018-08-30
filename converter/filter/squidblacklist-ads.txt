@@ -1,7 +1,7 @@
 # squidblacklist-ads Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - http://www.squidblacklist.org/downloads/dg-ads.acl
-# Last Converted - Thu, 30 Aug 2018 08:08:19 -0400
+# Last Converted - Thu, 30 Aug 2018 09:11:32 -0400
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -54,7 +54,6 @@
 0.0.0.0 5thfinger.com
 0.0.0.0 600z.com
 0.0.0.0 777partner.com
-0.0.0.0 777seo.com
 0.0.0.0 77tracking.com
 0.0.0.0 7bpeople.com
 0.0.0.0 7pud.com
@@ -250,7 +249,6 @@
 0.0.0.0 adex.alphalab.com
 0.0.0.0 adexchange.io
 0.0.0.0 adex.cloud
-0.0.0.0 adexpose.com
 0.0.0.0 adex.tech
 0.0.0.0 adextent.com
 0.0.0.0 adext.inkclub.com
@@ -630,6 +628,7 @@
 0.0.0.0 ads.boylesports.com
 0.0.0.0 ads.brabys.com
 0.0.0.0 ads.brazzers.com
+0.0.0.0 adsbrook.com
 0.0.0.0 ads.bsplayer.com
 0.0.0.0 adsbtrack.com
 0.0.0.0 ads.bumq.com
@@ -1036,7 +1035,6 @@
 0.0.0.0 ads.urbandictionary.com
 0.0.0.0 adsurve.com
 0.0.0.0 ads.usatoday.com
-0.0.0.0 adsvcs.com
 0.0.0.0 adsvert.com
 0.0.0.0 ads.verticalresponse.com
 0.0.0.0 ads.vgchartz.com
@@ -1211,6 +1209,7 @@
 0.0.0.0 ad.wavu.hu
 0.0.0.0 ad.way.cz
 0.0.0.0 ad.weatherbug.com
+0.0.0.0 ad.where.com
 0.0.0.0 adwitserver.com
 0.0.0.0 adworkmedia.com
 0.0.0.0 adworldmedia.com
@@ -2630,6 +2629,7 @@
 0.0.0.0 large-format.net
 0.0.0.0 laserhairremovalstore.com
 0.0.0.0 launch.adserver.yahoo.com
+0.0.0.0 launchbit.com
 0.0.0.0 lax1-ib.adnxs.com
 0.0.0.0 lax1-mobile.adnxs.com
 0.0.0.0 layer-ad.de
