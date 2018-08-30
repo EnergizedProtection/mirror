@@ -5148,7 +5148,6 @@
 0.0.0.0 geobanner.getiton.com
 0.0.0.0 geobanner.passion.com
 0.0.0.0 geobanner.seniorfriendfinder.com
-0.0.0.0 geobeacon.ign.com
 0.0.0.0 geoip-db.com
 0.0.0.0 geoip-lookup.vice.com
 0.0.0.0 geoip.edagames.com
@@ -12210,6 +12209,6 @@
 # Source - http://winhelp2002.mvps.org/hosts.txt
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 12207
+# Total Domains: 12206
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

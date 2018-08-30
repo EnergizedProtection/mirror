@@ -16474,7 +16474,6 @@
 0.0.0.0 geobanner.sexfinder.com
 0.0.0.0 geobanner.socialflirt.com
 0.0.0.0 geobar.ziffdavisinternational.com
-0.0.0.0 geobeacon.ign.com
 0.0.0.0 geobytes.com
 0.0.0.0 geocean.co.id
 0.0.0.0 geocompteur.com
@@ -20007,7 +20006,6 @@
 0.0.0.0 investigativeconsultantsllc.com
 0.0.0.0 investis.com
 0.0.0.0 investoclub.com
-0.0.0.0 invisioncic.com
 0.0.0.0 invisioncloudstats.com
 0.0.0.0 invitation-new-drive-share-clear.bottlerockethq.com
 0.0.0.0 invite.linescale.com
@@ -43399,6 +43397,6 @@
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/all-in-one-adblocklist.txt
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 43396
+# Total Domains: 43394
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

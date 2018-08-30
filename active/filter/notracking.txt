@@ -11459,7 +11459,6 @@
 0.0.0.0 geobanner.seniorfriendfinder.com
 0.0.0.0 geobanner.sexfinder.com
 0.0.0.0 geobanner.socialflirt.com
-0.0.0.0 geobeacon.ign.com
 0.0.0.0 geofence.sys.miui.com
 0.0.0.0 geoip-lookup.vice.com
 0.0.0.0 geoip.al.com
@@ -26421,6 +26420,6 @@
 # Source - https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 26418
+# Total Domains: 26417
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

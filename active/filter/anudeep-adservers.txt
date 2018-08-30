@@ -5764,6 +5764,7 @@
 0.0.0.0 ads46.stickyadstv.com
 0.0.0.0 ads5-apac-sg.stickyadstv.com
 0.0.0.0 ads5-asia-south1.truecaller.com
+0.0.0.0 ads5-noneu.truecaller.com
 0.0.0.0 ads5-us-east.stickyadstv.com
 0.0.0.0 ads5.stickyadstv.com
 0.0.0.0 ads5.truecaller.com
@@ -9125,6 +9126,7 @@
 0.0.0.0 cld-m.tlnk.io
 0.0.0.0 cld.edg.startappservice.com
 0.0.0.0 cldtrax.com
+0.0.0.0 clean.adups.com
 0.0.0.0 clean.api.hermesccloud.com
 0.0.0.0 cleanportal.tclclouds.com
 0.0.0.0 clearcomb.com
@@ -12597,6 +12599,7 @@
 0.0.0.0 forumla.de.intellitxt.com
 0.0.0.0 forwardpublishing-d.openx.net
 0.0.0.0 foster360.qualtrics.com
+0.0.0.0 fota5.adups.com
 0.0.0.0 fotareliance.adups.com
 0.0.0.0 foto-mozaika.mirtesen.ru
 0.0.0.0 fotokastende.widget.criteo.com
@@ -14593,6 +14596,7 @@
 0.0.0.0 investors.fyber.com
 0.0.0.0 investors.marketo.com
 0.0.0.0 investorshub-d.openx.net
+0.0.0.0 invictioner.club
 0.0.0.0 invisioncloudstats.com
 0.0.0.0 invite.crittercism.com
 0.0.0.0 invite.eu.crittercism.com
@@ -23424,6 +23428,7 @@
 0.0.0.0 stats.jpush.cn
 0.0.0.0 stats.juicyads.com
 0.0.0.0 stats.kaltura.com
+0.0.0.0 stats.kde.org
 0.0.0.0 stats.nextcloud.com
 0.0.0.0 stats.norton.com
 0.0.0.0 stats.ozwebsites.biz
@@ -24879,6 +24884,7 @@
 0.0.0.0 twhg-com-tw.b.appier.net
 0.0.0.0 twi69.01l.xyz
 0.0.0.0 twk1b.voluumtrk.com
+0.0.0.0 tx8t.invictioner.club
 0.0.0.0 txch.media.net
 0.0.0.0 txdot.d1.sc.omtrdc.net
 0.0.0.0 txn-report.crittercism.com
@@ -25670,6 +25676,7 @@
 0.0.0.0 validate.appsflyer.com
 0.0.0.0 valpak.com.102.112.2o7.net
 0.0.0.0 valueadservices.comabest-clic.adk2x.com
+0.0.0.0 valyoo.sc.omtrdc.net
 0.0.0.0 valyria-cdn.polarmobile.com
 0.0.0.0 vampirefreaks.tags.crwdcntrl.net
 0.0.0.0 vanderbiltpolisci.co1.qualtrics.com
@@ -27788,6 +27795,6 @@
 # Source - https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 27785
+# Total Domains: 27792
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

@@ -8792,7 +8792,6 @@
 0.0.0.0 api2.poloniex.com
 0.0.0.0 apicil.d1.sc.omtrdc.net
 0.0.0.0 apimprintsonline.122.2o7.net
-0.0.0.0 apis.ign.com
 0.0.0.0 apis.murdoog.com
 0.0.0.0 aplogocentral.122.2o7.net
 0.0.0.0 aplus.net
@@ -27797,7 +27796,6 @@
 0.0.0.0 igl.net
 0.0.0.0 iglesiacristorefugioeternotoolbar.myforumtoolbar.com
 0.0.0.0 igloofamily.com
-0.0.0.0 ign.com
 0.0.0.0 ign.com.d2.sc.omtrdc.net
 0.0.0.0 ign.ign.us.intellitxt.com
 0.0.0.0 ign.nuggad.net
@@ -51995,7 +51993,6 @@
 0.0.0.0 widgets.cointrend.club
 0.0.0.0 widgets.fbshare.me
 0.0.0.0 widgets.flux.com
-0.0.0.0 widgets.ign.com
 0.0.0.0 widgets.kiosked.com
 0.0.0.0 widgets.outbrain.com
 0.0.0.0 widgets.vast.com
@@ -67613,6 +67610,6 @@
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/mirror/GASB-PE.active.txt
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 67610
+# Total Domains: 67607
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

@@ -282,7 +282,6 @@
 0.0.0.0 geo.kaloo.ga
 0.0.0.0 geo.xcel.io
 0.0.0.0 geo.yahoo.com
-0.0.0.0 geobeacon.ign.com
 0.0.0.0 geoip.herewetest.com
 0.0.0.0 geoip.newsdev.nytimes.com
 0.0.0.0 geoloc.arte.tv
@@ -698,6 +697,6 @@
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-spyware-firstparty.txt
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 695
+# Total Domains: 694
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

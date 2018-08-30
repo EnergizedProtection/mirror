@@ -6163,7 +6163,6 @@
 0.0.0.0 geo.query.yahoo.com
 0.0.0.0 geo.xcel.io
 0.0.0.0 geo.yahoo.com
-0.0.0.0 geobeacon.ign.com
 0.0.0.0 geobytes.com
 0.0.0.0 geocompteur.com
 0.0.0.0 geocontatore.com
@@ -16077,6 +16076,6 @@
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-dns.txt
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 16074
+# Total Domains: 16073
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

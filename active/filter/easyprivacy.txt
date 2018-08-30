@@ -1937,7 +1937,6 @@
 0.0.0.0 geo.xcel.io
 0.0.0.0 geo.yahoo.com
 0.0.0.0 geobar.ziffdavisinternational.com
-0.0.0.0 geobeacon.ign.com
 0.0.0.0 geobytes.com
 0.0.0.0 geocompteur.com
 0.0.0.0 geocontatore.com
@@ -5345,6 +5344,6 @@
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easyprivacy.txt
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 5342
+# Total Domains: 5341
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

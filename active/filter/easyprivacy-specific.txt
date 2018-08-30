@@ -173,7 +173,6 @@
 0.0.0.0 geo.metronews.ca
 0.0.0.0 geo.theawesomer.com
 0.0.0.0 geo.yahoo.com
-0.0.0.0 geobeacon.ign.com
 0.0.0.0 geoip-lookup.vice.com
 0.0.0.0 geoip.al.com
 0.0.0.0 geoip.boredpanda.com
@@ -645,6 +644,6 @@
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easyprivacy-specific.txt
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 642
+# Total Domains: 641
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

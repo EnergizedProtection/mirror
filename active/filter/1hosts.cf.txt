@@ -11117,7 +11117,6 @@
 0.0.0.0 apirelay.ru
 0.0.0.0 apis.adsymptotic.com
 0.0.0.0 apis.appnxt.net
-0.0.0.0 apis.ign.com
 0.0.0.0 apis.murdoog.com
 0.0.0.0 apiservices.krxd.net
 0.0.0.0 apiskywebbercom-a.akamaihd.net
@@ -26666,7 +26665,6 @@
 0.0.0.0 geobanner.germanfriendfinder.com
 0.0.0.0 geobanner.socialflirt.com
 0.0.0.0 geobar.ziffdavisinternational.com
-0.0.0.0 geobeacon.ign.com
 0.0.0.0 geobytes.com
 0.0.0.0 geocdn.unityads.unity3d.com
 0.0.0.0 geoced.smartadserver.com
@@ -29551,7 +29549,6 @@
 0.0.0.0 igetsend.ru
 0.0.0.0 igj5y.yongchanghengyuan.com
 0.0.0.0 igligan.info
-0.0.0.0 ign.com
 0.0.0.0 ignorelist.com
 0.0.0.0 igodigital.com
 0.0.0.0 igogoshare.com
@@ -57194,7 +57191,6 @@
 0.0.0.0 widgets.getglue.com
 0.0.0.0 widgets.getsitecontrol.com
 0.0.0.0 widgets.goldankauf123.de
-0.0.0.0 widgets.ign.com
 0.0.0.0 widgets.kiosked.com
 0.0.0.0 widgets.markosweb.com
 0.0.0.0 widgets.mobilelocalnews.com
@@ -64501,7 +64497,6 @@
 0.0.0.0 zdorovmagazine.ru
 0.0.0.0 zdrawnews.ru
 0.0.0.0 zdrbq.voluumtrk.com
-0.0.0.0 zdstatic.ign.com
 0.0.0.0 zdw.w8.com.cn
 0.0.0.0 ze.zeroredirect1.com
 0.0.0.0 zealotnetworks-d.openx.net
@@ -64849,6 +64844,6 @@
 # Source - https://1hosts.cf
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 64846
+# Total Domains: 64841
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

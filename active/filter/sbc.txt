@@ -19491,7 +19491,6 @@
 0.0.0.0 geobanner.getiton.com
 0.0.0.0 geobanner.passion.com
 0.0.0.0 geobanner.seniorfriendfinder.com
-0.0.0.0 geobeacon.ign.com
 0.0.0.0 geocdn.unityads.unity3d.com
 0.0.0.0 geocounter.net
 0.0.0.0 geofence.sys.miui.com
@@ -51622,6 +51621,6 @@
 # Source - http://sbc.io/hosts/hosts
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 51619
+# Total Domains: 51618
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

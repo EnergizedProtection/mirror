@@ -31461,7 +31461,6 @@
 0.0.0.0 geobanner.seniorfriendfinder.com
 0.0.0.0 geobanner.socialflirt.com
 0.0.0.0 geobar.ziffdavisinternational.com
-0.0.0.0 geobeacon.ign.com
 0.0.0.0 geobytes.com
 0.0.0.0 geocean.co.id
 0.0.0.0 geocompteur.com
@@ -83142,6 +83141,6 @@
 # Source - https://hblock.molinero.xyz/hosts
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 83139
+# Total Domains: 83138
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 
