@@ -1,7 +1,7 @@
 #!/bin/bash
 # Filter - Energized Active List Filtering
 # @adroitadorkhan
-# License: MIT
+# License: CC BY-NC-SA 4.0
 # Methods
 logSource() {
 	printf -- '\033[1;33m[+] Source:\033[0m %s\n' "$@"
