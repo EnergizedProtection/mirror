@@ -2291,6 +2291,7 @@
 0.0.0.0 secure.adnxs.com
 0.0.0.0 secure.fastclick.net
 0.0.0.0 secure.img-cdn.mediaplex.com
+0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 security.browser.miui.com
 0.0.0.0 seen.hgo7r.cn
 0.0.0.0 selfie.snapmobileasia.net
@@ -3099,6 +3100,6 @@
 # Source - https://hosts.nfz.moe/full/hosts
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 3096
+# Total Domains: 3097
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

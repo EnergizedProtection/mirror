@@ -32,6 +32,7 @@
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 secure.quantserve.com
+0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 seen-on-screen.thewhizmarketing.com
 0.0.0.0 server-54-230-216-203.mrs50.r.cloudfront.net
 0.0.0.0 tpc.googlesyndication.com
@@ -49,6 +50,6 @@
 # Source - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/StreamingAds/hosts
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 46
+# Total Domains: 47
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

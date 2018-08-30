@@ -30,6 +30,7 @@
 0.0.0.0 ahjljmxfxuet.com
 0.0.0.0 ahstrelgnh.com
 0.0.0.0 aigysycrmuoetk.com
+0.0.0.0 aikdakxoc.com
 0.0.0.0 aionvpexcmm.com
 0.0.0.0 aiprvqqnhm.com
 0.0.0.0 aitdwhmcvlm.com
@@ -2700,6 +2701,6 @@
 # Source - https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 2697
+# Total Domains: 2698
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

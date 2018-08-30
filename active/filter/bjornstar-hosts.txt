@@ -682,6 +682,7 @@
 0.0.0.0 areasnap.com
 0.0.0.0 arecio.work
 0.0.0.0 arena.altitude-arena.com
+0.0.0.0 arrassley.info
 0.0.0.0 as.casalemedia.com
 0.0.0.0 as.ebz.io
 0.0.0.0 as.eu.angsrvr.com
@@ -5359,6 +5360,6 @@
 # Source - https://raw.githubusercontent.com/bjornstar/hosts/master/hosts
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 5356
+# Total Domains: 5357
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

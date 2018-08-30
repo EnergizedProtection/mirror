@@ -6958,6 +6958,7 @@
 0.0.0.0 arkena.hb.omtrdc.net
 0.0.0.0 arm.c.appier.net
 0.0.0.0 armstrongu.co1.qualtrics.com
+0.0.0.0 arrassley.info
 0.0.0.0 arrkii.co
 0.0.0.0 arsenal.rubiconproject.com
 0.0.0.0 arstechnica.112.2o7.net
@@ -21575,6 +21576,7 @@
 0.0.0.0 secure.quantserve.com
 0.0.0.0 secureaud.solocpm.com
 0.0.0.0 secured-by.rubiconproject.com
+0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 securev4vcapi.adcolony.com
 0.0.0.0 securify.nl
 0.0.0.0 security.browser.intl.miui.com
@@ -27807,6 +27809,6 @@
 # Source - https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 27804
+# Total Domains: 27806
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

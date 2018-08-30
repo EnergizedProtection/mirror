@@ -15518,6 +15518,7 @@
 0.0.0.0 secure.winhundred.com
 0.0.0.0 secure2.segpay.com
 0.0.0.0 securemetrics.apple.com
+0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 secureredirect101.com
 0.0.0.0 securinews.free.fr
 0.0.0.0 securite.01net.com
@@ -19475,6 +19476,6 @@
 # Source - http://sysctl.org/cameleon/hosts
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 19472
+# Total Domains: 19473
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

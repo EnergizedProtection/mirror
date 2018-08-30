@@ -4864,6 +4864,7 @@
 0.0.0.0 arqxxg.com
 0.0.0.0 arraiaame.sslblindado.com
 0.0.0.0 arraialdosamigos.com.br
+0.0.0.0 arrassley.info
 0.0.0.0 arrayed-assemblies.000webhostapp.com
 0.0.0.0 arresearch.com
 0.0.0.0 arretonholidays.co.uk
@@ -43390,6 +43391,6 @@
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/all-in-one-adblocklist.txt
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 43387
+# Total Domains: 43388
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

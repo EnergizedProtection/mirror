@@ -4475,6 +4475,7 @@
 0.0.0.0 secure.leadback.advertising.com
 0.0.0.0 secure.quantserve.com
 0.0.0.0 securemetrics.apple.com
+0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 securev4vcapi.adcolony.com
 0.0.0.0 security-check-551.com
 0.0.0.0 security.taptica.com
@@ -6069,6 +6070,6 @@
 # Source - https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 6066
+# Total Domains: 6067
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

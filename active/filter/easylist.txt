@@ -1487,6 +1487,7 @@
 0.0.0.0 arganostrella.com
 0.0.0.0 arllvzkoh.com
 0.0.0.0 arpelog.info
+0.0.0.0 arrassley.info
 0.0.0.0 artbr.net
 0.0.0.0 artnbnbam.com
 0.0.0.0 artucripkzu.com
@@ -10053,6 +10054,6 @@
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easylist.txt
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 10050
+# Total Domains: 10051
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

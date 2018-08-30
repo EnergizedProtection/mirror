@@ -2283,6 +2283,7 @@
 0.0.0.0 arms.livedoor.net
 0.0.0.0 arpelog.info
 0.0.0.0 arpxs.com
+0.0.0.0 arrassley.info
 0.0.0.0 arrowpushengine.com
 0.0.0.0 artbr.net
 0.0.0.0 artefact.is
@@ -16077,6 +16078,6 @@
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-dns.txt
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 16074
+# Total Domains: 16075
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

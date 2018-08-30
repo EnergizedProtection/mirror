@@ -46426,6 +46426,7 @@
 0.0.0.0 securemetrics.apple.com
 0.0.0.0 securenetsystems.net
 0.0.0.0 securepaths.com
+0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 secureredirect101.com
 0.0.0.0 securerr.com
 0.0.0.0 securerunner.com
@@ -64882,6 +64883,6 @@
 # Source - https://1hosts.cf
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 64879
+# Total Domains: 64880
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

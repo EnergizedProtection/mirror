@@ -4177,6 +4177,7 @@
 0.0.0.0 secure.ironbeast.io
 0.0.0.0 secure.leadback.advertising.com
 0.0.0.0 secure.quantserve.com
+0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 segments.scopely.io
 0.0.0.0 sejs.moatads.com
 0.0.0.0 sekindo.com
@@ -4606,6 +4607,6 @@
 # Source - https://raw.githubusercontent.com/jawz101/MobileAdTrackers/master/hosts
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 4603
+# Total Domains: 4604
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

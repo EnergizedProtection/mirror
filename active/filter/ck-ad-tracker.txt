@@ -38878,6 +38878,7 @@
 0.0.0.0 securejump.net
 0.0.0.0 securemetrics.apple.com
 0.0.0.0 securepaths.com
+0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 securestudies.com
 0.0.0.0 securetracking2.com
 0.0.0.0 secursors.com
@@ -50824,6 +50825,6 @@
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/ck-ad-tracker.txt
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 50821
+# Total Domains: 50822
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 
