@@ -46,7 +46,6 @@
 0.0.0.0 5thfinger.com
 0.0.0.0 600z.com
 0.0.0.0 777partner.com
-0.0.0.0 777seo.com
 0.0.0.0 77tracking.com
 0.0.0.0 7bpeople.com
 0.0.0.0 7pud.com
@@ -335,7 +334,6 @@
 0.0.0.0 adex.cloud
 0.0.0.0 adex.tech
 0.0.0.0 adexchange.io
-0.0.0.0 adexpose.com
 0.0.0.0 adext.inkclub.com
 0.0.0.0 adextent.com
 0.0.0.0 adf01.net
@@ -967,6 +965,7 @@
 0.0.0.0 adsatt.go.starwave.com
 0.0.0.0 adsb4track.com
 0.0.0.0 adsbookie.com
+0.0.0.0 adsbrook.com
 0.0.0.0 adsbtrack.com
 0.0.0.0 adscale.de
 0.0.0.0 adscendmedia.com
@@ -1086,7 +1085,6 @@
 0.0.0.0 adsupply.com
 0.0.0.0 adsupplyssl.com
 0.0.0.0 adsurve.com
-0.0.0.0 adsvcs.com
 0.0.0.0 adsvert.com
 0.0.0.0 adsvids.com
 0.0.0.0 adsxgm.com
@@ -2601,6 +2599,7 @@
 0.0.0.0 large-format.net
 0.0.0.0 laserhairremovalstore.com
 0.0.0.0 launch.adserver.yahoo.com
+0.0.0.0 launchbit.com
 0.0.0.0 lax1-ib.adnxs.com
 0.0.0.0 lax1-mobile.adnxs.com
 0.0.0.0 layer-ad.de
@@ -4490,6 +4489,6 @@
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/squidblacklist-ads.txt
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 4487
+# Total Domains: 4486
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

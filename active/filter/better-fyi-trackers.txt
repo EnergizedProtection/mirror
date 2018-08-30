@@ -137,7 +137,6 @@
 0.0.0.0 condenet.com
 0.0.0.0 connatix.com
 0.0.0.0 connexity.net
-0.0.0.0 content.googleapis.com
 0.0.0.0 contextweb.com
 0.0.0.0 conversionlogic.net
 0.0.0.0 cpx.to
@@ -553,6 +552,6 @@
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/better-fyi-trackers.txt
 # Generated - 30.08.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 550
+# Total Domains: 549
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 
