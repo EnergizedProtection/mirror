@@ -1,7 +1,7 @@
 # adguard-social-popups Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SocialFilter/sections/popups.txt
-# Last Converted - Thu, 30 Aug 2018 05:57:36 -0400
+# Last Converted - Thu, 30 Aug 2018 06:39:55 -0400
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license

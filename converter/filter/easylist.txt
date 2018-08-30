@@ -1,7 +1,7 @@
 # easylist Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://easylist.to/easylist/easylist.txt
-# Last Converted - Thu, 30 Aug 2018 05:57:39 -0400
+# Last Converted - Thu, 30 Aug 2018 06:39:59 -0400
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license

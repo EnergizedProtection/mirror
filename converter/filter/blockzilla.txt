@@ -1,7 +1,7 @@
 # blockzilla Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/zpacman/Blockzilla/master/Blockzilla.txt
-# Last Converted - Thu, 30 Aug 2018 05:57:38 -0400
+# Last Converted - Thu, 30 Aug 2018 06:39:58 -0400
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license

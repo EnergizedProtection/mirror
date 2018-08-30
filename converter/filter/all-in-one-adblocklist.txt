@@ -1,7 +1,7 @@
 # all-in-one-adblocklist Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
-# Last Converted - Thu, 30 Aug 2018 05:57:37 -0400
+# Last Converted - Thu, 30 Aug 2018 06:39:57 -0400
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -85,6 +85,7 @@
 0.0.0.0 aicrgbnswhc.bid
 0.0.0.0 aigysycrmuoetk.com
 0.0.0.0 aiiaqehoqgrj.com
+0.0.0.0 aikdakxoc.com
 0.0.0.0 aionvpexcmm.com
 0.0.0.0 aioxvilwpg.bid
 0.0.0.0 aiprvqqnhm.com
@@ -15025,6 +15026,7 @@
 0.0.0.0 yjijmpezje.com
 0.0.0.0 yjwymbwcjyfed.com
 0.0.0.0 ykixjehac.com
+0.0.0.0 ysljgoytuyfbg.com
 0.0.0.0 yvlhxqxw.com
 0.0.0.0 yvlmcehqt.com
 0.0.0.0 yxbglezas.com
