@@ -1,11 +1,36 @@
 # cybercrime Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://v.firebog.net/hosts/Cybercrime.txt
-# Last Converted - Fri, 24 Aug 2018 09:39:04 -0400
+# Last Converted - Thu, 30 Aug 2018 04:58:00 -0400
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
 
+0.0.0.0 embramedica.com.br
+0.0.0.0 poweringinfluence.com
+0.0.0.0 marketdarkwebs.win
+0.0.0.0 empirestate.ga
+0.0.0.0 or-truuce.tk
+0.0.0.0 forum.somedizzy.com
+0.0.0.0 pldtdsll.net
+0.0.0.0 off335.info
+0.0.0.0 minoutohd.000webhostapp.com
+0.0.0.0 typingone.xyz
+0.0.0.0 odili12.com
+0.0.0.0 blocomplimited.biz
+0.0.0.0 studemplo.com
+0.0.0.0 phcc-india.com
+0.0.0.0 typrat.club
+0.0.0.0 victoralifts.com
+0.0.0.0 addhun.ml
+0.0.0.0 claudfx.win
+0.0.0.0 devhaevents.us
+0.0.0.0 dandoesinternet.com
+0.0.0.0 rhombus-rolen.com
+0.0.0.0 comatprojects.com
+0.0.0.0 jaygarish.com
+0.0.0.0 alpacham.com
+0.0.0.0 hkenngr.com
 0.0.0.0 akarcengal.com
 0.0.0.0 kikidoyoulabme222.ru
 0.0.0.0 imagic-box.com
@@ -69,7 +94,6 @@
 0.0.0.0 winwincustomerservice.com
 0.0.0.0 cloudpoddle.com
 0.0.0.0 equator-motorsport.ml
-0.0.0.0 victoralifts.com
 0.0.0.0 windjutsu.nl
 0.0.0.0 zeesportvissen.be
 0.0.0.0 ziqrah.com
@@ -265,7 +289,6 @@
 0.0.0.0 gsctechnologys.com
 0.0.0.0 lockhome.ml
 0.0.0.0 oilwell.pw
-0.0.0.0 phcc-india.com
 0.0.0.0 oliverrbatlle.com
 0.0.0.0 mclhk-net.com
 0.0.0.0 kaokao-twn.com

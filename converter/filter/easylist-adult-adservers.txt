@@ -1,7 +1,7 @@
 # easylist-adult-adservers Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_adservers.txt
-# Last Converted - Fri, 24 Aug 2018 09:38:57 -0400
+# Last Converted - Thu, 30 Aug 2018 04:57:52 -0400
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -173,6 +173,7 @@
 0.0.0.0 azerbazer.com
 0.0.0.0 aztecash.com
 0.0.0.0 baconaces.pro
+0.0.0.0 baletingo.com
 0.0.0.0 banerator.net
 0.0.0.0 basesclick.ru
 0.0.0.0 baskodenta.com
@@ -1015,6 +1016,7 @@
 0.0.0.0 zboac.com
 0.0.0.0 zenhppyad.com
 0.0.0.0 zenkreka.com
+0.0.0.0 zinhavnpak.com
 0.0.0.0 zinzimo.info
 0.0.0.0 ziphentai.com
 0.0.0.0 zog.link

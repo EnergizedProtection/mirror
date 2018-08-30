@@ -1,7 +1,7 @@
 # squidblacklist-ads Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - http://www.squidblacklist.org/downloads/dg-ads.acl
-# Last Converted - Fri, 24 Aug 2018 09:39:02 -0400
+# Last Converted - Thu, 30 Aug 2018 04:57:58 -0400
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -66,7 +66,6 @@
 0.0.0.0 888promos.com
 0.0.0.0 8s8.eu
 0.0.0.0 8yxupue8.com
-0.0.0.0 9376ec23d50b1.com
 0.0.0.0 97d73lsi.com
 0.0.0.0 980media.com
 0.0.0.0 99count.com
@@ -151,7 +150,6 @@
 0.0.0.0 ad.angel-live.com
 0.0.0.0 ad.anuntis.com
 0.0.0.0 adaos-ads.net
-0.0.0.0 adapd.com
 0.0.0.0 ad.api.kaffnet.com
 0.0.0.0 ad.apps.fm
 0.0.0.0 adapt.tv
@@ -210,7 +208,6 @@
 0.0.0.0 adclickservice.com
 0.0.0.0 adclient1.tucows.com
 0.0.0.0 adclient.uimserv.net
-0.0.0.0 adclix.org
 0.0.0.0 ad.clix.pt
 0.0.0.0 ad.cntrades.com
 0.0.0.0 adcolo.com
@@ -224,7 +221,6 @@
 0.0.0.0 adcrax.com
 0.0.0.0 adcycle.com
 0.0.0.0 addash.co
-0.0.0.0 addelive.com
 0.0.0.0 ad-delivery.net
 0.0.0.0 ad.depo.hu
 0.0.0.0 addfreestats.com
@@ -587,7 +583,6 @@
 0.0.0.0 ads.affiliates.match.com
 0.0.0.0 ads.affiliates-spinit.com
 0.0.0.0 ads.alibaba.com
-0.0.0.0 ads.allvatar.com
 0.0.0.0 ads.alt.com
 0.0.0.0 ads.altitude-arena.com
 0.0.0.0 ads.alwaysphonesex.com
@@ -635,7 +630,6 @@
 0.0.0.0 ads.boylesports.com
 0.0.0.0 ads.brabys.com
 0.0.0.0 ads.brazzers.com
-0.0.0.0 adsbrook.com
 0.0.0.0 ads.bsplayer.com
 0.0.0.0 adsbtrack.com
 0.0.0.0 ads.bumq.com
@@ -966,7 +960,6 @@
 0.0.0.0 ads.rediff.com
 0.0.0.0 ads.redlightcenter.com
 0.0.0.0 ads.redtube.com
-0.0.0.0 adsremote.scrippsnetworks.com
 0.0.0.0 ads.renren.com
 0.0.0.0 ads.resoom.de
 0.0.0.0 ads.returnpath.net
@@ -1235,6 +1228,7 @@
 0.0.0.0 adxprtz.com
 0.0.0.0 adxvalue.com
 0.0.0.0 ad.yahoo.com
+0.0.0.0 ad.yieldpartners.com
 0.0.0.0 ad.yourmedia.com
 0.0.0.0 adzbazar.com
 0.0.0.0 adz.co.zw
@@ -1245,7 +1239,6 @@
 0.0.0.0 adzouk.com
 0.0.0.0 adzpower.com
 0.0.0.0 adzs.nl
-0.0.0.0 aeghae5y.com
 0.0.0.0 af-ad.co.uk
 0.0.0.0 aff.biz
 0.0.0.0 affbot1.com
@@ -1376,7 +1369,6 @@
 0.0.0.0 aprtx.com
 0.0.0.0 apsmediaagency.com
 0.0.0.0 apture.com
-0.0.0.0 apugod.work
 0.0.0.0 apvdr.com
 0.0.0.0 apxlv.com
 0.0.0.0 a.raasnet.com
@@ -1618,7 +1610,6 @@
 0.0.0.0 blogohertz.com
 0.0.0.0 blogtoplist.se
 0.0.0.0 blogtopsites.com
-0.0.0.0 bluandi.com
 0.0.0.0 blueadvertise.com
 0.0.0.0 bluecava.com
 0.0.0.0 bluelithium.com
@@ -1757,6 +1748,7 @@
 0.0.0.0 checkmystats.com.au
 0.0.0.0 checkstat.nl
 0.0.0.0 cherytso.com
+0.0.0.0 chestionar.ro
 0.0.0.0 chitika.com
 0.0.0.0 chronicads.com
 0.0.0.0 cibleclick.com
@@ -2097,7 +2089,6 @@
 0.0.0.0 e-debtconsolidation.com
 0.0.0.0 edgeads.org
 0.0.0.0 edgeio.com
-0.0.0.0 edgualf.com
 0.0.0.0 ednplus.com
 0.0.0.0 effectivemeasure.com
 0.0.0.0 effectivemeasure.net
@@ -2227,8 +2218,6 @@
 0.0.0.0 flomigo.com
 0.0.0.0 fls-fe.amazon-adsystem.com
 0.0.0.0 fls-na.amazon-adsystem.com
-0.0.0.0 fluidads.co
-0.0.0.0 fluxybe.work
 0.0.0.0 flyertown.ca
 0.0.0.0 fmpub.net
 0.0.0.0 fmsads.com
@@ -2397,7 +2386,6 @@
 0.0.0.0 horsered.com
 0.0.0.0 hortestoz.com
 0.0.0.0 hostedads.realitykings.com
-0.0.0.0 hosticanaffiliate.com
 0.0.0.0 hotelscombined.com.au
 0.0.0.0 hot-hits.us
 0.0.0.0 hotkeys.com
@@ -2455,7 +2443,6 @@
 0.0.0.0 imarketservices.com
 0.0.0.0 imatmobile.com
 0.0.0.0 imedia.co.il
-0.0.0.0 imediarevenue.com
 0.0.0.0 imgfeedget.com
 0.0.0.0 img.prohardver.hu
 0.0.0.0 imgpromo.easyrencontre.com
@@ -2587,7 +2574,6 @@
 0.0.0.0 jsretra.com
 0.0.0.0 jssearch.net
 0.0.0.0 js.users.51.la
-0.0.0.0 juarinet.com
 0.0.0.0 juiceadv.com
 0.0.0.0 juiceadv.net
 0.0.0.0 juicyads.com
@@ -2632,7 +2618,6 @@
 0.0.0.0 ktu.sv2.biz
 0.0.0.0 kumpulblogger.com
 0.0.0.0 kzkjewg7.stream
-0.0.0.0 l3op.info
 0.0.0.0 ladbrokesaffiliates.com.au
 0.0.0.0 laim.tv
 0.0.0.0 lakequincy.com
@@ -2732,7 +2717,6 @@
 0.0.0.0 lx2rv.com
 0.0.0.0 lyta.redigy.cz
 0.0.0.0 lzjl.com
-0.0.0.0 m10s8.com
 0.0.0.0 m1.2mdn.net
 0.0.0.0 m1.fwmrm.net
 0.0.0.0 m2.ai
@@ -2839,7 +2823,6 @@
 0.0.0.0 metapelite.com
 0.0.0.0 metavertising.com
 0.0.0.0 methodcash.com
-0.0.0.0 metogo.work
 0.0.0.0 metrics.brightcove.com
 0.0.0.0 metrics.io
 0.0.0.0 metrics.windowsitpro.com
@@ -2916,7 +2899,6 @@
 0.0.0.0 mpnrs.com
 0.0.0.0 mprezchc.com
 0.0.0.0 mpuls.ru
-0.0.0.0 mrperfect.in
 0.0.0.0 mr-rank.de
 0.0.0.0 mrskincash.com
 0.0.0.0 mtrcss.com
@@ -3095,7 +3077,6 @@
 0.0.0.0 onscroll.com
 0.0.0.0 oore.com
 0.0.0.0 oos4l.com
-0.0.0.0 ootloakr.com
 0.0.0.0 opap.co.kr
 0.0.0.0 openads.friendfinder.com
 0.0.0.0 openads.org
@@ -3225,6 +3206,7 @@
 0.0.0.0 platformiq-del.aquaplatform.com
 0.0.0.0 platinumadvertisement.com
 0.0.0.0 play4traffic.com
+0.0.0.0 playhaven.com
 0.0.0.0 playukinternet.com
 0.0.0.0 pleeko.com
 0.0.0.0 plenomedia.com
@@ -3239,7 +3221,6 @@
 0.0.0.0 plusfind.net
 0.0.0.0 plxserve.com
 0.0.0.0 pmpubs.com
-0.0.0.0 poaurtor.com
 0.0.0.0 pointclicktrack.com
 0.0.0.0 pointroll.com
 0.0.0.0 points2shop.com
@@ -3556,7 +3537,6 @@
 0.0.0.0 secure-msntest.serving-sys.com
 0.0.0.0 secure.webconnect.net
 0.0.0.0 sedotracker.com
-0.0.0.0 seiya.work
 0.0.0.0 sekindo.com
 0.0.0.0 selectablemedia.com
 0.0.0.0 selectr.net
@@ -3860,7 +3840,6 @@
 0.0.0.0 tmqhw.us
 0.0.0.0 tntclix.co.uk
 0.0.0.0 toboads.com
-0.0.0.0 todacell.com
 0.0.0.0 tokenads.com
 0.0.0.0 tollfreeforwarding.com
 0.0.0.0 tomekas.com
@@ -3873,7 +3852,6 @@
 0.0.0.0 top20free.com
 0.0.0.0 top90.ro
 0.0.0.0 topad.mobi
-0.0.0.0 topauto10.com
 0.0.0.0 topbarh.box.sk
 0.0.0.0 topbucks.com
 0.0.0.0 top-casting-termine.de
@@ -4242,7 +4220,6 @@
 0.0.0.0 txtimpact.com
 0.0.0.0 tyroo.com
 0.0.0.0 u1hw38x0.com
-0.0.0.0 u223o.com
 0.0.0.0 uarating.com
 0.0.0.0 ubercpm.com
 0.0.0.0 ubermedia.com
@@ -4287,7 +4264,6 @@
 0.0.0.0 utarget.ru
 0.0.0.0 utils.mediageneral.net
 0.0.0.0 v1.cnzz.com
-0.0.0.0 v1n7c.com
 0.0.0.0 v2cigs.com
 0.0.0.0 v3g4s.com
 0.0.0.0 vacwrite.com
@@ -4297,7 +4273,6 @@
 0.0.0.0 valueclick.com
 0.0.0.0 valueclickmedia.com
 0.0.0.0 valuecommerce.com
-0.0.0.0 vamartin.work
 0.0.0.0 vapedia.com
 0.0.0.0 vashoot.com
 0.0.0.0 vaultwrite.com
