@@ -1,7 +1,7 @@
 # adguard-mobile-ads Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
-# Last Converted - Fri, 07 Sep 2018 06:55:00 -0400
+# Last Converted - Fri, 07 Sep 2018 07:07:14 -0400
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
