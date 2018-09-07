@@ -985,7 +985,6 @@
 0.0.0.0 banners.adultfriendfinder.com
 0.0.0.0 banners.amigos.com
 0.0.0.0 banners.asiafriendfinder.com
-0.0.0.0 banners.babylon-x.com
 0.0.0.0 banners.bol.com.br
 0.0.0.0 banners.cams.com
 0.0.0.0 banners.clubseventeen.com
@@ -1085,7 +1084,6 @@
 0.0.0.0 budsinc.com
 0.0.0.0 bullseye.backbeatmedia.com
 0.0.0.0 bumpberam.pro
-0.0.0.0 buyhitscheap.com
 0.0.0.0 buysellads.com
 0.0.0.0 buzzonclick.com
 0.0.0.0 bwp.download.com
@@ -1721,6 +1719,7 @@
 0.0.0.0 mediaarea.eu
 0.0.0.0 mediabridge.cc
 0.0.0.0 mediacharger.com
+0.0.0.0 mediadvertising.ro
 0.0.0.0 mediageneral.com
 0.0.0.0 mediaiqdigital.com
 0.0.0.0 mediamath.com
@@ -2152,7 +2151,6 @@
 0.0.0.0 sexinyourcity.com
 0.0.0.0 sexlist.com
 0.0.0.0 sextracker.com
-0.0.0.0 sexystat.com
 0.0.0.0 shakesea.com
 0.0.0.0 shakytaste.com
 0.0.0.0 shareadspace.com
@@ -2582,6 +2580,6 @@
 # Source - https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&mimetype=plaintext
 # Generated - 07.09.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 2579
+# Total Domains: 2577
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

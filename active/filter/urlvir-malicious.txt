@@ -99,6 +99,7 @@
 0.0.0.0 astariglobal.com.cn
 0.0.0.0 atg-us.org
 0.0.0.0 atgmail.net
+0.0.0.0 atoliyeh.com
 0.0.0.0 auction.aycedev.com
 0.0.0.0 aumre.com
 0.0.0.0 aupperience.com
@@ -700,6 +701,7 @@
 0.0.0.0 njoya.nl
 0.0.0.0 noithatcatdangqc.com
 0.0.0.0 noithatphongthinghiem.com
+0.0.0.0 noithattdc.com
 0.0.0.0 nonglek.net
 0.0.0.0 norsterra.cn
 0.0.0.0 northoutdoors.com
@@ -750,6 +752,7 @@
 0.0.0.0 perdemarket.com
 0.0.0.0 perfectmissmatch.vastglobalsolutions.com
 0.0.0.0 perkasa.undiksha.ac.id
+0.0.0.0 peruwalkingtravel.com
 0.0.0.0 petertretter.com
 0.0.0.0 pfecglobalptecenter.com.au
 0.0.0.0 philipscarbon.com
@@ -767,6 +770,7 @@
 0.0.0.0 ppcpallets.nl
 0.0.0.0 practicasgastronomiafrancia.org
 0.0.0.0 pratimspizza.com
+0.0.0.0 prestashop.inksupport08.com
 0.0.0.0 presto.exigio.com
 0.0.0.0 prettydiamond.larucheduweb.com
 0.0.0.0 prijzen-dakkapel.nl
@@ -788,6 +792,7 @@
 0.0.0.0 puntoyaparteseguros.com
 0.0.0.0 puw-netzwerk.eu
 0.0.0.0 qiankunculture.com
+0.0.0.0 qmco.ir
 0.0.0.0 quadsat.com
 0.0.0.0 r100.youth.tc.edu.tw
 0.0.0.0 r3safety-eliteseller.com
@@ -796,6 +801,7 @@
 0.0.0.0 radiotremp.cat
 0.0.0.0 raidking.com
 0.0.0.0 ramenproducciones.com.ar
+0.0.0.0 raminkb.com
 0.0.0.0 ramshero.com
 0.0.0.0 rapidhrs.com
 0.0.0.0 rassvet-sbm.ru
@@ -803,6 +809,7 @@
 0.0.0.0 reflist.com
 0.0.0.0 regionsnews.net
 0.0.0.0 rekavisitama.indoweb.id
+0.0.0.0 reliablefenceli.wevportfolio.com
 0.0.0.0 remcuahaiduong.com
 0.0.0.0 rest.solid-it.pt
 0.0.0.0 restaurantelataperiadel10.com
@@ -813,6 +820,7 @@
 0.0.0.0 riakom.com
 0.0.0.0 ricecitysonghong.com
 0.0.0.0 righttrackeducation.com
+0.0.0.0 risehe.com
 0.0.0.0 rkschmidt.net
 0.0.0.0 rmapplus.net
 0.0.0.0 robertoramon.com.br
@@ -840,6 +848,7 @@
 0.0.0.0 satyam.cl
 0.0.0.0 schoolworld.dziennikus.pl
 0.0.0.0 scooterinjuries.com
+0.0.0.0 scotiaglenvilledentalcenter.com
 0.0.0.0 sdalirsyad01pwt.sch.id
 0.0.0.0 sdorf.com.br
 0.0.0.0 secondskinart.com
@@ -878,6 +887,7 @@
 0.0.0.0 sight-admissions.com
 0.0.0.0 sigmanqn.com.ar
 0.0.0.0 signsdesigns.com.au
+0.0.0.0 sineplus.com.tr
 0.0.0.0 siprev.net.br
 0.0.0.0 siscop.net
 0.0.0.0 site.jehfilmeseseries.com
@@ -927,6 +937,7 @@
 0.0.0.0 sto11km.ru
 0.0.0.0 stokapp.com
 0.0.0.0 stomkgmu.ru
+0.0.0.0 stoobb.nl
 0.0.0.0 storematica.com
 0.0.0.0 strollingwithus.com
 0.0.0.0 studio-natali.ru
@@ -934,9 +945,11 @@
 0.0.0.0 studiotreffpunkt14a.at
 0.0.0.0 summerlandrockers.org.au
 0.0.0.0 sunday-planning.com
+0.0.0.0 sunrisingleathergoods.com
 0.0.0.0 sunwaterfood.com
 0.0.0.0 suomichef.com
 0.0.0.0 sv-konstanz.info
+0.0.0.0 svitransport.com
 0.0.0.0 swim-mri.com
 0.0.0.0 syntek.net
 0.0.0.0 syonenjump-fun.com
@@ -958,6 +971,7 @@
 0.0.0.0 terichubholgya.com
 0.0.0.0 test-zwangerschap.nl
 0.0.0.0 test.dedigo.fr
+0.0.0.0 test.fratiterrasanta.it
 0.0.0.0 test.mohamedbenslimen.com
 0.0.0.0 test12.dabdemo.com
 0.0.0.0 testbricostone.placarepiatra.ro
@@ -999,6 +1013,7 @@
 0.0.0.0 tresillosmunoz.com
 0.0.0.0 tri-solve.com
 0.0.0.0 trinitydancematrix.com
+0.0.0.0 trip.vncodenavi.com
 0.0.0.0 tristanrineer.com
 0.0.0.0 tropicalislandrealtyofflorida.com
 0.0.0.0 troysumpter.com
@@ -1025,6 +1040,7 @@
 0.0.0.0 uploadedfiles.coastmotorsupply.com
 0.0.0.0 urbannet.co.kr
 0.0.0.0 usanin.info
+0.0.0.0 uvurkhangai-aimag.barilga.com
 0.0.0.0 valletbearings.com
 0.0.0.0 vananh.me
 0.0.0.0 vatlieumoihanoi.com
@@ -1039,9 +1055,11 @@
 0.0.0.0 viapixel.com.br
 0.0.0.0 vii-seas.com
 0.0.0.0 vinastone.com
+0.0.0.0 viniyogahakku.com
 0.0.0.0 vitamine.ch
 0.0.0.0 vnv.vn
 0.0.0.0 voogorn.ru
+0.0.0.0 vpnet2000.com
 0.0.0.0 vps.diyautotune.com
 0.0.0.0 vsedilo.org
 0.0.0.0 vvcbg.com
@@ -1057,10 +1075,13 @@
 0.0.0.0 wellpets.sdcloudlab.com
 0.0.0.0 willbcn.com
 0.0.0.0 wiratechmesin.com
+0.0.0.0 wolnow.com
 0.0.0.0 woodchips.com.ua
 0.0.0.0 woodinhome.ru
 0.0.0.0 wordpress.khinethazin.me
 0.0.0.0 workswell.at
+0.0.0.0 wosa3d.com
+0.0.0.0 woyodev.org
 0.0.0.0 wp1.lukas.fr
 0.0.0.0 wtfonts.com
 0.0.0.0 xinbaolaiyq.com
@@ -1083,6 +1104,6 @@
 # Source - http://www.urlvir.com/export-hosts
 # Generated - 07.09.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 1080
+# Total Domains: 1101
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 
