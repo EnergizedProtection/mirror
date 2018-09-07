@@ -1,7 +1,7 @@
 # easyprivacy-thirdparty Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last Converted - Thu, 30 Aug 2018 09:57:06 -0400
+# Last Converted - Fri, 07 Sep 2018 06:55:19 -0400
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -202,6 +202,7 @@
 0.0.0.0 cgicounter.puretec.de
 0.0.0.0 chanalytics.merchantadvantage.com
 0.0.0.0 chartaca.com.s3.amazonaws.com
+0.0.0.0 clarium.global.ssl.fastly.net
 0.0.0.0 click.appinthestore.com
 0.0.0.0 click.aristotle.net
 0.0.0.0 click.geopaysys.com
@@ -850,6 +851,7 @@
 0.0.0.0 tags.master-perf-tools.com
 0.0.0.0 tags.newscgp.com
 0.0.0.0 target.fark.com
+0.0.0.0 target.mixi.media
 0.0.0.0 targeting.wpdigital.net
 0.0.0.0 tc.airfrance.com
 0.0.0.0 te.supportfreecontent.com
@@ -891,6 +893,7 @@
 0.0.0.0 track.mycliplister.com
 0.0.0.0 track.omg2.com
 0.0.0.0 track.parse.ly
+0.0.0.0 track.prezna.com
 0.0.0.0 track.pricespider.com
 0.0.0.0 track.propelplus.com
 0.0.0.0 track.qcri.org

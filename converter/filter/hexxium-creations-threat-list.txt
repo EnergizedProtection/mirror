@@ -1,11 +1,16 @@
 # hexxium-creations-threat-list Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/HexxiumCreations/threat-list/gh-pages/hexxiumthreatlist.txt
-# Last Converted - Thu, 30 Aug 2018 09:57:00 -0400
+# Last Converted - Fri, 07 Sep 2018 06:55:11 -0400
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
 
+0.0.0.0 creditscheat.com
+0.0.0.0 discountbape.com
+0.0.0.0 musk-surprise.info
+0.0.0.0 tesla-giveaways.org
+0.0.0.0 elonmusk.team
 0.0.0.0 always-dealsx24.blogspot.com
 0.0.0.0 crypto-gifts.ml
 0.0.0.0 musk-share.info

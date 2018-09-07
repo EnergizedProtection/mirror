@@ -1,14 +1,44 @@
 # cybercrime Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://v.firebog.net/hosts/Cybercrime.txt
-# Last Converted - Thu, 30 Aug 2018 09:57:05 -0400
+# Last Converted - Fri, 07 Sep 2018 06:55:17 -0400
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
 
+0.0.0.0 smtgo.ga
+0.0.0.0 xn--bimain-j17b.com
+0.0.0.0 vkoldru.000webhostapp.com
+0.0.0.0 elysium-inc.info
+0.0.0.0 greenb0t.beget.tech
+0.0.0.0 thomsun.ml
+0.0.0.0 seeyouonlineservice.com
+0.0.0.0 smirra.com
+0.0.0.0 pnp-th.com
+0.0.0.0 amatnage.gq
+0.0.0.0 jasonetworks.com
+0.0.0.0 wenacompany.com.ng
+0.0.0.0 rmsalf.com
+0.0.0.0 i87g45ey6-001-site1.ctempurl.com
+0.0.0.0 lnterservice-si.com
+0.0.0.0 pivotbilisim.com
+0.0.0.0 nnpcaids.com.ng
+0.0.0.0 dvpont.com
+0.0.0.0 itwsaelants.com
+0.0.0.0 cbn-ngra.com
+0.0.0.0 coteserca.com.co
+0.0.0.0 bharatenterprise.net
+0.0.0.0 unitedlineins.com
+0.0.0.0 moep.tk
+0.0.0.0 therobot.ga
+0.0.0.0 nestorlmports.com
+0.0.0.0 malka-reklama.com
+0.0.0.0 marketdarkwebs.win
+0.0.0.0 studioraygun.co.uk
+0.0.0.0 bukkylq3.beget.tech
+0.0.0.0 vibecore.ml
 0.0.0.0 embramedica.com.br
 0.0.0.0 poweringinfluence.com
-0.0.0.0 marketdarkwebs.win
 0.0.0.0 empirestate.ga
 0.0.0.0 or-truuce.tk
 0.0.0.0 forum.somedizzy.com
@@ -214,7 +244,6 @@
 0.0.0.0 bharatexpeinternational.com
 0.0.0.0 accessoiriesindia.com
 0.0.0.0 realshow-privat.com
-0.0.0.0 nestorlmports.com
 0.0.0.0 bayazitsigorta.com
 0.0.0.0 videocommercialsforyou.com
 0.0.0.0 videopopups.com
@@ -1239,7 +1268,6 @@
 0.0.0.0 parodadoca.ru
 0.0.0.0 enterwords.ru
 0.0.0.0 forrentinvegas.com
-0.0.0.0 coteserca.com.co
 0.0.0.0 transliop.com
 0.0.0.0 kalakhomes.club
 0.0.0.0 rusvk.ru
