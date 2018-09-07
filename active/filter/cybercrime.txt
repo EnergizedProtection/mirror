@@ -238,6 +238,7 @@
 0.0.0.0 alyacht.com
 0.0.0.0 alysonmf.us
 0.0.0.0 amacseurope.com
+0.0.0.0 amatnage.gq
 0.0.0.0 amazing-health.info
 0.0.0.0 amazonvillage.net
 0.0.0.0 ambliglobal.nut.cc
@@ -470,6 +471,7 @@
 0.0.0.0 bgamakinasi.net
 0.0.0.0 bggranite.ca
 0.0.0.0 bhadas4politician.com
+0.0.0.0 bharatenterprise.net
 0.0.0.0 bharatexpeinternational.com
 0.0.0.0 bharatlitho.com
 0.0.0.0 bhf-host.ml
@@ -603,6 +605,7 @@
 0.0.0.0 buenavistahotel.net
 0.0.0.0 bufore.com
 0.0.0.0 builtbynice.com
+0.0.0.0 bukkylq3.beget.tech
 0.0.0.0 buroodin.com
 0.0.0.0 busgrab.ml
 0.0.0.0 business-rielt.ru
@@ -657,10 +660,10 @@
 0.0.0.0 castro4sucess.biz
 0.0.0.0 catalogobrasil.net
 0.0.0.0 catpawcino.com
-0.0.0.0 cavenaghi-it.com
 0.0.0.0 cayrated.com
 0.0.0.0 cb39666.tmweb.ru
 0.0.0.0 cbiraqi.com
+0.0.0.0 cbn-ngra.com
 0.0.0.0 cc33782.tmweb.ru
 0.0.0.0 cclacolonia.com
 0.0.0.0 ccperiodistas.es
@@ -1030,7 +1033,6 @@
 0.0.0.0 dominicana1.com
 0.0.0.0 dominique.lucquin.free.fr
 0.0.0.0 domnaostrove.biz
-0.0.0.0 domnicpeter.in.net
 0.0.0.0 donejazzy.com
 0.0.0.0 dongsmaster.tk
 0.0.0.0 donmachantprograms.tk
@@ -1084,6 +1086,7 @@
 0.0.0.0 duyabnydusan.ru
 0.0.0.0 dvd-hq.comze.com
 0.0.0.0 dveri.netau.net
+0.0.0.0 dvpont.com
 0.0.0.0 dydz.co.nf
 0.0.0.0 dzon.100sm.ru
 0.0.0.0 e-byturk.com
@@ -1142,6 +1145,7 @@
 0.0.0.0 elkhfoierhgfoeirhgf.info
 0.0.0.0 elowpuki.com
 0.0.0.0 elppete.ir
+0.0.0.0 elysium-inc.info
 0.0.0.0 email-invoice.info
 0.0.0.0 emailsclient.com
 0.0.0.0 emakgroup.de
@@ -1530,6 +1534,7 @@
 0.0.0.0 granvalparaiso.cl
 0.0.0.0 gratefulsoulssa.com
 0.0.0.0 greatfriendsteam.tech
+0.0.0.0 greenb0t.beget.tech
 0.0.0.0 greendos.net
 0.0.0.0 greenfieldfertilizers.com
 0.0.0.0 greenlite.com.sg
@@ -1718,6 +1723,7 @@
 0.0.0.0 hyperviseur.net
 0.0.0.0 i-buy.gr
 0.0.0.0 i042.mobi
+0.0.0.0 i87g45ey6-001-site1.ctempurl.com
 0.0.0.0 i91960v6.beget.tech
 0.0.0.0 i9host.com
 0.0.0.0 iappleblog.net
@@ -1835,6 +1841,7 @@
 0.0.0.0 ithinkitsagoodname.altervista.org
 0.0.0.0 itkulo0w.beget.tech
 0.0.0.0 itsok.ae
+0.0.0.0 itwsaelants.com
 0.0.0.0 itzimar.xaa.pl
 0.0.0.0 ivansaru.418.com1.ru
 0.0.0.0 iwda.org
@@ -1857,6 +1864,7 @@
 0.0.0.0 jankuslegal.com.au
 0.0.0.0 japerindo.com
 0.0.0.0 jasmine.by
+0.0.0.0 jasonetworks.com
 0.0.0.0 jasonstaulo.totalh.net
 0.0.0.0 javelinkay.club
 0.0.0.0 jawedfumigation.com
@@ -2181,6 +2189,7 @@
 0.0.0.0 lmdlm.xyz
 0.0.0.0 lmiseamasters.com
 0.0.0.0 lmmhyg3sv27-001-site1.itempurl.com
+0.0.0.0 lnterservice-si.com
 0.0.0.0 lnvacare.com
 0.0.0.0 loans-bad-credit.us
 0.0.0.0 localhosting.online
@@ -2287,6 +2296,7 @@
 0.0.0.0 malgorzatajablonska.pl
 0.0.0.0 maliciouspixi.favcc1.com
 0.0.0.0 malika.nu
+0.0.0.0 malka-reklama.com
 0.0.0.0 malldot.gq
 0.0.0.0 mallinalto.com
 0.0.0.0 mallorrygroup.com
@@ -2431,6 +2441,7 @@
 0.0.0.0 mobydiick1.mo.ohost.de
 0.0.0.0 modexcloudserver.cf
 0.0.0.0 modexintl.xyz
+0.0.0.0 moep.tk
 0.0.0.0 mohamedghareeb.com
 0.0.0.0 moiparks.in
 0.0.0.0 moitube.net63.net
@@ -2602,6 +2613,7 @@
 0.0.0.0 nkejiukrworld.ru
 0.0.0.0 nkme.ws
 0.0.0.0 nmixer.uphero.com
+0.0.0.0 nnpcaids.com.ng
 0.0.0.0 no-reason.webege.com
 0.0.0.0 nobles-iq.com
 0.0.0.0 nobody7188.net16.net
@@ -2859,6 +2871,7 @@
 0.0.0.0 piramideengenharia.com
 0.0.0.0 piro-crystals.pw
 0.0.0.0 pivetamaqfer.com.br
+0.0.0.0 pivotbilisim.com
 0.0.0.0 pixtecnictradios.pi.funpic.de
 0.0.0.0 pk3r4lif3.host-ed.me
 0.0.0.0 pkurl.com
@@ -2878,6 +2891,7 @@
 0.0.0.0 pluswareltd.tk
 0.0.0.0 pmsway.com
 0.0.0.0 pmxmc.party
+0.0.0.0 pnp-th.com
 0.0.0.0 poel.cba.pl
 0.0.0.0 poeppelmannn.com
 0.0.0.0 pofuduk.org
@@ -3089,6 +3103,7 @@
 0.0.0.0 rm-energroup.info
 0.0.0.0 rma.nwu.ac.za
 0.0.0.0 rmoreira.info
+0.0.0.0 rmsalf.com
 0.0.0.0 rnully.info
 0.0.0.0 roadrunnerexpress.co
 0.0.0.0 roadsofromania.francu.com
@@ -3221,6 +3236,7 @@
 0.0.0.0 securityaspxvalidation.world
 0.0.0.0 seerahmission.com
 0.0.0.0 seerwty.ru
+0.0.0.0 seeyouonlineservice.com
 0.0.0.0 sefanivc.com
 0.0.0.0 seganag.com
 0.0.0.0 seguralawfirm.com
@@ -3341,6 +3357,7 @@
 0.0.0.0 slim.comze.com
 0.0.0.0 slowrust.web44.net
 0.0.0.0 smartnet.taess.net
+0.0.0.0 smirra.com
 0.0.0.0 smoke.theeternalkansascity.com
 0.0.0.0 smokelessbooter.tk
 0.0.0.0 smoothcashout.online
@@ -3348,6 +3365,7 @@
 0.0.0.0 smrlbd.com
 0.0.0.0 smsfavour.com
 0.0.0.0 smsgrabber.url.ph
+0.0.0.0 smtgo.ga
 0.0.0.0 snapdealrightnow.com
 0.0.0.0 snatch.services
 0.0.0.0 sneax.bplaced.de
@@ -3481,6 +3499,7 @@
 0.0.0.0 studemplo.com
 0.0.0.0 studio020.com
 0.0.0.0 studio69.co.id
+0.0.0.0 studioraygun.co.uk
 0.0.0.0 stuttafordszim.com
 0.0.0.0 stviro.hi2.ro
 0.0.0.0 stylee.herobo.com
@@ -3648,6 +3667,7 @@
 0.0.0.0 therenez.com
 0.0.0.0 therikonet.info
 0.0.0.0 thermalhlre.com
+0.0.0.0 therobot.ga
 0.0.0.0 theshangai.info
 0.0.0.0 theshores.tv
 0.0.0.0 thettolethat.com
@@ -3656,6 +3676,7 @@
 0.0.0.0 thewinningchild.ru
 0.0.0.0 thietbikiemdinh.com.vn
 0.0.0.0 thinkrf.com
+0.0.0.0 thomsun.ml
 0.0.0.0 thonsfends.site50.net
 0.0.0.0 thorasgardstorm.com
 0.0.0.0 three-twenty.com
@@ -3819,6 +3840,7 @@
 0.0.0.0 unisolda.net
 0.0.0.0 unitech-lb.com
 0.0.0.0 unitedgp.usa.cc
+0.0.0.0 unitedlineins.com
 0.0.0.0 unseengrace.ru
 0.0.0.0 untigreenville.com
 0.0.0.0 untorsnot.in
@@ -3900,6 +3922,7 @@
 0.0.0.0 verysome.ml
 0.0.0.0 vgvfqjfyt.mywww.biz
 0.0.0.0 vh188.ffox.site
+0.0.0.0 vibecore.ml
 0.0.0.0 vicenttours.com
 0.0.0.0 vicenzadibiasi.me
 0.0.0.0 vicesman.ru
@@ -3946,6 +3969,7 @@
 0.0.0.0 viyanet.com
 0.0.0.0 vizedanismani.net
 0.0.0.0 vjkengineering.com
+0.0.0.0 vkoldru.000webhostapp.com
 0.0.0.0 vkontakte-verify.netau.net
 0.0.0.0 vl2017.com
 0.0.0.0 vlad-poltava.1gb.ua
@@ -4013,6 +4037,7 @@
 0.0.0.0 wehrmachtluftwaffe3213.ru
 0.0.0.0 welfar.kz
 0.0.0.0 welspun.pw
+0.0.0.0 wenacompany.com.ng
 0.0.0.0 wenden.itt21.de
 0.0.0.0 weneedinem.we.ohost.de
 0.0.0.0 wenever.ru
@@ -4245,7 +4270,6 @@
 0.0.0.0 www.detailinvoices.com
 0.0.0.0 www.devatv.ro
 0.0.0.0 www.dhaifinsurance.com
-0.0.0.0 www.dialogosdospovos.org
 0.0.0.0 www.die-smartfahrer.de
 0.0.0.0 www.dietz-mobel.ro
 0.0.0.0 www.diferreirabarbershop.com.br
@@ -4800,6 +4824,7 @@
 0.0.0.0 xmedia1124.ddns.net
 0.0.0.0 xmr-services.net
 0.0.0.0 xn--90afmajeumr0f6a.xn--p1ai
+0.0.0.0 xn--bimain-j17b.com
 0.0.0.0 xn--e1alhsoq4c.xn--p1ai
 0.0.0.0 xn--y0h.co.cc
 0.0.0.0 xnetwork.url.ph
@@ -4905,8 +4930,8 @@
 
 # Hosts - cybercrime
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/cybercrime.txt
-# Generated - 30.08.2018
+# Generated - 07.09.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 4904
+# Total Domains: 4929
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

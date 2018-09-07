@@ -628,7 +628,6 @@
 0.0.0.0 deepattention.com
 0.0.0.0 def-platform.com
 0.0.0.0 delightdriving.com
-0.0.0.0 demandbase.com
 0.0.0.0 demdex.net
 0.0.0.0 dep-x.com
 0.0.0.0 deqwas.net
@@ -642,7 +641,6 @@
 0.0.0.0 die-rankliste.com
 0.0.0.0 differentdesk.com
 0.0.0.0 digdeepdigital.com.au
-0.0.0.0 digidip.net
 0.0.0.0 diginetica.net
 0.0.0.0 digitaloptout.com
 0.0.0.0 digitaltarget.ru
@@ -2434,7 +2432,6 @@
 0.0.0.0 uzrating.com
 0.0.0.0 v3cdn.net
 0.0.0.0 valaffiliates.com
-0.0.0.0 valuedopinions.co.uk
 0.0.0.0 vantage-media.net
 0.0.0.0 vbanalytics.com
 0.0.0.0 vdc.zoomph.com
@@ -2686,8 +2683,8 @@
 
 # Hosts - adguard-tracking
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-tracking-servers.txt
-# Generated - 30.08.2018
+# Generated - 07.09.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 2685
+# Total Domains: 2682
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

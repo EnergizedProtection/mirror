@@ -64,7 +64,6 @@
 0.0.0.0 shoppingate.info
 0.0.0.0 smartsuggestor.net
 0.0.0.0 spigotjs.info
-0.0.0.0 spns.night-hawk.net
 0.0.0.0 srv.mzcdn.com
 0.0.0.0 srv.searchassist.com
 0.0.0.0 ssfiles.com
@@ -90,8 +89,8 @@
 
 # Hosts - adware-filters
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adware-filters.txt
-# Generated - 30.08.2018
+# Generated - 07.09.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 89
+# Total Domains: 88
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

@@ -4,7 +4,6 @@
 0.0.0.0 acceptable.a-ads.com
 0.0.0.0 ad.a-ads.com
 0.0.0.0 antminer-store.com
-0.0.0.0 api.bithumb.com
 0.0.0.0 api.jaxx.io
 0.0.0.0 api.ledgerwallet.com
 0.0.0.0 api.mymonero.com
@@ -23,7 +22,6 @@
 0.0.0.0 bit.cur.lv
 0.0.0.0 bitcore1.trezor.io
 0.0.0.0 bitcore3.trezor.io
-0.0.0.0 bithumb.com
 0.0.0.0 blocked.mymonero.com
 0.0.0.0 blog.a-ads.com
 0.0.0.0 blog.jaxx.io
@@ -90,7 +88,6 @@
 0.0.0.0 hashcoins.ee
 0.0.0.0 hashcoins.ru
 0.0.0.0 headers.electrum.org
-0.0.0.0 hitbtc.com
 0.0.0.0 i2p.emercoin.com
 0.0.0.0 icerockmining.io
 0.0.0.0 ico.icerockmining.io
@@ -124,7 +121,6 @@
 0.0.0.0 mining-rig.de
 0.0.0.0 miningfarmasics.com
 0.0.0.0 mm.a-ads.com
-0.0.0.0 mobile-update.bithumb.com
 0.0.0.0 monero-miner.000webhostapp.com
 0.0.0.0 multipoolminer.io
 0.0.0.0 mx.peerhash.com
@@ -141,14 +137,12 @@
 0.0.0.0 p2pool.in
 0.0.0.0 pandaminer.co
 0.0.0.0 parthk.co.uk
-0.0.0.0 pay.bithumb.com
 0.0.0.0 peerhash.com
 0.0.0.0 pool.emercoin.com
 0.0.0.0 pool2.emercoin.com
 0.0.0.0 pop3.awesomeminer.com
 0.0.0.0 preorder.trezor.io
 0.0.0.0 pricing.jaxx.io
-0.0.0.0 pubapi.bithumb.com
 0.0.0.0 redmine.emercoin.com
 0.0.0.0 rm.cointraffic.io
 0.0.0.0 rpc.myetherwallet.com
@@ -191,7 +185,6 @@
 0.0.0.0 wiki.evergreencoin.org
 0.0.0.0 wiki.trezor.io
 0.0.0.0 ws.ledgerwallet.com
-0.0.0.0 wss.bithumb.com
 0.0.0.0 www.1safe.link
 0.0.0.0 www.803mine.com
 0.0.0.0 www.a-ads.com
@@ -207,7 +200,6 @@
 0.0.0.0 www.bfgminer.org
 0.0.0.0 www.bitcore1.trezor.io
 0.0.0.0 www.bitcore3.trezor.io
-0.0.0.0 www.bithumb.com
 0.0.0.0 www.blog.trezor.io
 0.0.0.0 www.btc-bitcore1.trezor.io
 0.0.0.0 www.btc-bitcore3.trezor.io
@@ -247,7 +239,6 @@
 0.0.0.0 www.hashcoins.com
 0.0.0.0 www.hashcoins.ee
 0.0.0.0 www.hashcoins.ru
-0.0.0.0 www.hitbtc.com
 0.0.0.0 www.icerockmining.io
 0.0.0.0 www.ico.icerockmining.io
 0.0.0.0 www.imperiumminer.com
@@ -302,8 +293,8 @@
 
 # Hosts - zerodot1-coinblockerlists-optional
 # Source - https://zerodot1.gitlab.io/CoinBlockerLists/hosts_optional
-# Generated - 30.08.2018
+# Generated - 07.09.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 301
+# Total Domains: 292
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

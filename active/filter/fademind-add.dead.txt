@@ -24,7 +24,7 @@
 
 # Hosts - fademind-add.dead
 # Source - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Dead/hosts
-# Generated - 30.08.2018
+# Generated - 07.09.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 23
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license

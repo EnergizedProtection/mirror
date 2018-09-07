@@ -518,7 +518,6 @@
 0.0.0.0 michellelalaclark.com
 0.0.0.0 mil.mykiddi.co.uk
 0.0.0.0 mind.indianmedicalsupplies.org
-0.0.0.0 mindstormstudio.ro
 0.0.0.0 minute.askewmag.co.uk
 0.0.0.0 minute.joreynolds.com
 0.0.0.0 miss.doctortoken.com
@@ -1048,8 +1047,8 @@
 
 # Hosts - hosts-file.net-exp
 # Source - https://hosts-file.net/exp.txt
-# Generated - 30.08.2018
+# Generated - 07.09.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 1047
+# Total Domains: 1046
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

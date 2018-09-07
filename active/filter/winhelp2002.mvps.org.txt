@@ -159,7 +159,6 @@
 0.0.0.0 332645.r.axf8.net
 0.0.0.0 33across-d.openx.net
 0.0.0.0 33universal.adprimemedia.com
-0.0.0.0 33video.33universal.com
 0.0.0.0 3415.hittail.com
 0.0.0.0 3459571470.log.optimizely.com
 0.0.0.0 3463.hittail.com
@@ -690,7 +689,6 @@
 0.0.0.0 ad1.doublepimp.com
 0.0.0.0 ad1.emediate.dk
 0.0.0.0 ad1.emediate.se
-0.0.0.0 ad1.nownews.com
 0.0.0.0 ad1.pamedia.com.au
 0.0.0.0 ad1.speedbit.com
 0.0.0.0 ad1.yourmedia.com
@@ -763,7 +761,6 @@
 0.0.0.0 adcache.aftenposten.no
 0.0.0.0 adcache.nymag.com
 0.0.0.0 adcast.deviantart.com
-0.0.0.0 adcdn.33universal.com
 0.0.0.0 adcentre.it-advanced.com
 0.0.0.0 adchimp.com
 0.0.0.0 adclick.hit.gemius.pl
@@ -1879,7 +1876,6 @@
 0.0.0.0 adv.medscape.com
 0.0.0.0 adv.netinfo.bg
 0.0.0.0 adv.p2pbg.com
-0.0.0.0 adv.punto-informatico.it
 0.0.0.0 adv.r7.com
 0.0.0.0 adv.rockstar.bg
 0.0.0.0 adv.sexcounter.com
@@ -4164,7 +4160,6 @@
 0.0.0.0 d1piupybsgr6dr.cloudfront.net
 0.0.0.0 d1v9u0bgi1uimx.cloudfront.net
 0.0.0.0 d1xfq2052q7thw.cloudfront.net
-0.0.0.0 d1z2jf7jlzjs58.cloudfront.net
 0.0.0.0 d1zatounuylvwg.cloudfront.net
 0.0.0.0 d2.zedo.com
 0.0.0.0 d24n15hnbwhuhn.cloudfront.net
@@ -4212,7 +4207,6 @@
 0.0.0.0 data.adsrvr.org
 0.0.0.0 data.alexa.com
 0.0.0.0 data.apn.co.nz
-0.0.0.0 data.captifymedia.com
 0.0.0.0 data.cmcore.com
 0.0.0.0 data.coremetrics.com
 0.0.0.0 data.cpalead.com
@@ -4233,21 +4227,6 @@
 0.0.0.0 date.ventivmedia.com
 0.0.0.0 daylogs.com
 0.0.0.0 db.riskwaters.com
-0.0.0.0 db0.net-filter.com
-0.0.0.0 db0.sitestats.com
-0.0.0.0 db1.sitestats.com
-0.0.0.0 db2.net-filter.com
-0.0.0.0 db2.sitestats.com
-0.0.0.0 db3.net-filter.com
-0.0.0.0 db3.sitestats.com
-0.0.0.0 db4.net-filter.com
-0.0.0.0 db4.sitestats.com
-0.0.0.0 db5.net-filter.com
-0.0.0.0 db5.sitestats.com
-0.0.0.0 db6.net-filter.com
-0.0.0.0 db6.sitestats.com
-0.0.0.0 db7.net-filter.com
-0.0.0.0 db7.sitestats.com
 0.0.0.0 dbadk.nuggad.net
 0.0.0.0 dbg52463.moatads.com
 0.0.0.0 dbs.advertising.com
@@ -4453,7 +4432,6 @@
 0.0.0.0 drdobbs.us.intellitxt.com
 0.0.0.0 dreamad.org
 0.0.0.0 dreamhome.112.2o7.net
-0.0.0.0 drive.videoclick.ru
 0.0.0.0 driverguide.us.intellitxt.com
 0.0.0.0 drs2.veinteractive.com
 0.0.0.0 drugscom.us.intellitxt.com
@@ -4725,7 +4703,6 @@
 0.0.0.0 evbeacon.networksolutions.com
 0.0.0.0 event.2leva.bg
 0.0.0.0 eventbrite.122.2o7.net
-0.0.0.0 eventlogger.soundcloud.com
 0.0.0.0 events.adwidecenter.com
 0.0.0.0 events.boomtrain.com
 0.0.0.0 events.kalooga.com
@@ -5130,7 +5107,6 @@
 0.0.0.0 geo.hyperlinksecure.com
 0.0.0.0 geo.interia.pl
 0.0.0.0 geo.jetpackdigital.com
-0.0.0.0 geo.nbcsports.com
 0.0.0.0 geo.offermatica.com
 0.0.0.0 geo.qualaroo.com
 0.0.0.0 geo.query.yahoo.com
@@ -5148,6 +5124,7 @@
 0.0.0.0 geobanner.getiton.com
 0.0.0.0 geobanner.passion.com
 0.0.0.0 geobanner.seniorfriendfinder.com
+0.0.0.0 geobeacon.ign.com
 0.0.0.0 geoip-db.com
 0.0.0.0 geoip-lookup.vice.com
 0.0.0.0 geoip.edagames.com
@@ -5484,7 +5461,6 @@
 0.0.0.0 hitwastedgarden.com
 0.0.0.0 hitwebcounter.com
 0.0.0.0 hitx.waudit.cz
-0.0.0.0 hj.flxpxl.com
 0.0.0.0 hk.adserver.yahoo.com
 0.0.0.0 hlamedia.adk2x.com
 0.0.0.0 hlok.qertewrt.com
@@ -5978,7 +5954,6 @@
 0.0.0.0 iyogi.demdex.net
 0.0.0.0 j.adlooxtracking.com
 0.0.0.0 j.clickdensity.com
-0.0.0.0 j.flxpxl.com
 0.0.0.0 j.theadsnet.com
 0.0.0.0 j.traffichunt.com
 0.0.0.0 ja.revolvermaps.com
@@ -6989,7 +6964,6 @@
 0.0.0.0 movitex.122.2o7.net
 0.0.0.0 mp.apmebf.com
 0.0.0.0 mp.clicksor.net
-0.0.0.0 mp.pianomedia.eu
 0.0.0.0 mpire.112.2o7.net
 0.0.0.0 mpmotrk.com
 0.0.0.0 mpp.specificclick.net
@@ -8001,7 +7975,6 @@
 0.0.0.0 pixelcounter.elmundo.es
 0.0.0.0 pixelcounter.marca.com
 0.0.0.0 pixels.livingsocial.com
-0.0.0.0 pixels.mentad.com
 0.0.0.0 pixelservice.apphb.com
 0.0.0.0 pixiedust.buzzfeed.com
 0.0.0.0 pixxur.com
@@ -10083,7 +10056,6 @@
 0.0.0.0 tools.ad-net.co.uk
 0.0.0.0 tools.naughtyamerica.com
 0.0.0.0 tools.pacinocash.com
-0.0.0.0 tools.ranker.com
 0.0.0.0 tools.spylog.ru
 0.0.0.0 tools.ztod.com
 0.0.0.0 toon-families.com
@@ -11069,7 +11041,6 @@
 0.0.0.0 www.adtactics.com
 0.0.0.0 www.adtaily.com
 0.0.0.0 www.adtegrity.com
-0.0.0.0 www.adtiger.de
 0.0.0.0 www.adtrade.net
 0.0.0.0 www.adtrade.ro
 0.0.0.0 www.adtraff.ru
@@ -12069,7 +12040,6 @@
 0.0.0.0 xbs.pao.mtree.com
 0.0.0.0 xbs.sea.mtree.com
 0.0.0.0 xch.smrtgs.com
-0.0.0.0 xclusive.ly
 0.0.0.0 xed.pl
 0.0.0.0 xhealth.112.2o7.net
 0.0.0.0 xhealthmobiltools.112.2o7.net
@@ -12207,8 +12177,8 @@
 
 # Hosts - winhelp2002.mvps.org
 # Source - http://winhelp2002.mvps.org/hosts.txt
-# Generated - 30.08.2018
+# Generated - 07.09.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 12206
+# Total Domains: 12176
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

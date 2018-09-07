@@ -1,7 +1,7 @@
 
 # Hosts - moaab
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/moaab.txt
-# Generated - 30.08.2018
+# Generated - 07.09.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 0
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license

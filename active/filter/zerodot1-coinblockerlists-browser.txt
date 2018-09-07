@@ -279,7 +279,6 @@
 0.0.0.0 cvp6.asvoxod.ru
 0.0.0.0 cvp7.asvoxod.ru
 0.0.0.0 cvp8.asvoxod.ru
-0.0.0.0 d-ns.ga
 0.0.0.0 d.cfcdist.gdn
 0.0.0.0 d.cfcnet.gdn
 0.0.0.0 d.cfcnet.top
@@ -299,7 +298,6 @@
 0.0.0.0 deepc.cc
 0.0.0.0 dekoder.ws
 0.0.0.0 dev.cryptobara.com
-0.0.0.0 dev.ratingtoplist.com
 0.0.0.0 developer.jsecoin.com
 0.0.0.0 dexim.space
 0.0.0.0 didnkinrab.com
@@ -445,7 +443,6 @@
 0.0.0.0 hodlers.party
 0.0.0.0 hodling.faith
 0.0.0.0 horrorscopeme.ml
-0.0.0.0 host.d-ns.ga
 0.0.0.0 hostingcloud.accountant
 0.0.0.0 hostingcloud.bid
 0.0.0.0 hostingcloud.date
@@ -521,7 +518,6 @@
 0.0.0.0 kho3au7l4z.me
 0.0.0.0 kickass.cd
 0.0.0.0 kinohabr.net
-0.0.0.0 kippbeak.cf
 0.0.0.0 kissdoujin.com
 0.0.0.0 kisshentai.net
 0.0.0.0 kiwifarms.net
@@ -932,7 +928,6 @@
 0.0.0.0 singapore01.monero.hashvault.pro
 0.0.0.0 site.coinnebula.com
 0.0.0.0 site.flashx.cc
-0.0.0.0 siteverification.site
 0.0.0.0 skencituer.com
 0.0.0.0 sm3na.com
 0.0.0.0 smartoffer.site
@@ -1593,7 +1588,6 @@
 0.0.0.0 www.crypto-pool.fr
 0.0.0.0 www.crypto-webminer.com
 0.0.0.0 www.crypto.csgocpu.com
-0.0.0.0 www.cryptocoinabout.com
 0.0.0.0 www.cryptoloot.pro
 0.0.0.0 www.cryptonoter.com
 0.0.0.0 www.cryptosearch.site
@@ -1609,7 +1603,6 @@
 0.0.0.0 www.datasecu.download
 0.0.0.0 www.dataservices.download
 0.0.0.0 www.deepc.cc
-0.0.0.0 www.dev.ratingtoplist.com
 0.0.0.0 www.dexim.space
 0.0.0.0 www.didnkinrab.com
 0.0.0.0 www.dinastycoin.crypto-webminer.com
@@ -1728,7 +1721,6 @@
 0.0.0.0 www.karbowanec.crypto-webminer.com
 0.0.0.0 www.kedtise.com
 0.0.0.0 www.kinohabr.net
-0.0.0.0 www.kippbeak.cf
 0.0.0.0 www.kisshentai.net
 0.0.0.0 www.kiwifarms.net
 0.0.0.0 www.krb.devphp.org.ua
@@ -1810,7 +1802,6 @@
 0.0.0.0 www.nullrefexcep.com
 0.0.0.0 www.nunu-001.now.sh
 0.0.0.0 www.oei1.gq
-0.0.0.0 www.openkatalog.com
 0.0.0.0 www.papoto.com
 0.0.0.0 www.party-nngvitbizn.now.sh
 0.0.0.0 www.party-vqgdyvoycc.now.sh
@@ -1831,7 +1822,6 @@
 0.0.0.0 www.proxy8.nullrefexcep.com
 0.0.0.0 www.proxy9.nullrefexcep.com
 0.0.0.0 www.punchsub.net
-0.0.0.0 www.ratingtoplist.com
 0.0.0.0 www.rbkshort.info
 0.0.0.0 www.realnetwrk.com
 0.0.0.0 www.reasedoper.pw
@@ -2076,8 +2066,8 @@
 
 # Hosts - zerodot1-coinblockerlists-browser
 # Source - https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
-# Generated - 30.08.2018
+# Generated - 07.09.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 2075
+# Total Domains: 2065
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

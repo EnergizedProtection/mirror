@@ -326,7 +326,6 @@
 0.0.0.0 gosquared.com
 0.0.0.0 gpwebsolutions.co.uk
 0.0.0.0 grapeshot.co.uk
-0.0.0.0 gravity.com
 0.0.0.0 greatestoldupgrading.review
 0.0.0.0 grvcdn.com
 0.0.0.0 gscontxt.net
@@ -822,8 +821,8 @@
 
 # Hosts - quidsup-notrack
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/quidsup-no-track.txt
-# Generated - 30.08.2018
+# Generated - 07.09.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 821
+# Total Domains: 820
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

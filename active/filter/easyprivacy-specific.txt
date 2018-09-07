@@ -150,7 +150,6 @@
 0.0.0.0 ev.kck.st
 0.0.0.0 event-reporting-dot-webylytics.appspot.com
 0.0.0.0 eventlog.jackpot.de
-0.0.0.0 eventlogger.soundcloud.com
 0.0.0.0 events.jora.com
 0.0.0.0 events.privy.com
 0.0.0.0 events.reddit.com
@@ -173,6 +172,7 @@
 0.0.0.0 geo.metronews.ca
 0.0.0.0 geo.theawesomer.com
 0.0.0.0 geo.yahoo.com
+0.0.0.0 geobeacon.ign.com
 0.0.0.0 geoip-lookup.vice.com
 0.0.0.0 geoip.al.com
 0.0.0.0 geoip.boredpanda.com
@@ -211,7 +211,6 @@
 0.0.0.0 inquiries.redhat.com
 0.0.0.0 intelli.ageuk.org.uk
 0.0.0.0 intent.cbsi.com
-0.0.0.0 ip.breitbart.com
 0.0.0.0 ip.pichunter.com
 0.0.0.0 lh.secure.yahoo.com
 0.0.0.0 lilb2.shutterstock.com
@@ -547,7 +546,6 @@
 0.0.0.0 timestrends.timesnow.tv
 0.0.0.0 tk.kargo.com
 0.0.0.0 tkpi.delta.com
-0.0.0.0 tools.ranker.com
 0.0.0.0 top.wn.com
 0.0.0.0 track.briskfile.com
 0.0.0.0 track.catalogs.com
@@ -642,8 +640,8 @@
 
 # Hosts - easyprivacy-specific
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easyprivacy-specific.txt
-# Generated - 30.08.2018
+# Generated - 07.09.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 641
+# Total Domains: 639
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

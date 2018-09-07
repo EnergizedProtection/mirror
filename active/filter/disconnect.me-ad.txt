@@ -792,7 +792,6 @@
 0.0.0.0 advertmedia.de
 0.0.0.0 advertpro.sitepoint.com
 0.0.0.0 advertpro.ya.com
-0.0.0.0 adverts.carltononline.com
 0.0.0.0 advertserve.com
 0.0.0.0 advertstream.com
 0.0.0.0 advertwizard.com
@@ -1124,7 +1123,6 @@
 0.0.0.0 claria.com
 0.0.0.0 clashmobile.com
 0.0.0.0 class-act-clicks.com
-0.0.0.0 click.absoluteagency.com
 0.0.0.0 click.fool.com
 0.0.0.0 click.kmindex.ru
 0.0.0.0 click2freemoney.com
@@ -1252,7 +1250,6 @@
 0.0.0.0 deanmediagroup.com
 0.0.0.0 debtbusterloans.com
 0.0.0.0 dedicatedmedia.com
-0.0.0.0 demandbase.com
 0.0.0.0 di1.shopping.com
 0.0.0.0 dialerporn.com
 0.0.0.0 didtheyreadit.com
@@ -1430,7 +1427,6 @@
 0.0.0.0 googlesyndication.com
 0.0.0.0 gostats.com
 0.0.0.0 gp.dejanews.com
-0.0.0.0 grafstat.ro
 0.0.0.0 greystripe.com
 0.0.0.0 gtop.ro
 0.0.0.0 gtop100.com
@@ -1495,7 +1491,6 @@
 0.0.0.0 iadnet.com
 0.0.0.0 iadsdk.apple.com
 0.0.0.0 iconadserver.com
-0.0.0.0 icptrack.com
 0.0.0.0 idcounter.com
 0.0.0.0 iddiction.com
 0.0.0.0 identads.com
@@ -2495,8 +2490,8 @@
 
 # Hosts - disconnect.me-ad
 # Source - https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Generated - 30.08.2018
+# Generated - 07.09.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 2494
+# Total Domains: 2489
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

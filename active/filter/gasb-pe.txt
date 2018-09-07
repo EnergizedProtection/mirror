@@ -2152,7 +2152,6 @@
 0.0.0.0 ad.brainbuzz.com
 0.0.0.0 ad.burstdirectads.com
 0.0.0.0 ad.ca.doubleclick.net
-0.0.0.0 ad.candybar.co.kr
 0.0.0.0 ad.caos.it
 0.0.0.0 ad.caprofitx.adtdp.com
 0.0.0.0 ad.cctv.com
@@ -3475,7 +3474,6 @@
 0.0.0.0 adforce.adtech.fr
 0.0.0.0 adforce.com
 0.0.0.0 adform.com
-0.0.0.0 adform.net
 0.0.0.0 adfront.com
 0.0.0.0 adfu.slashdot.org
 0.0.0.0 adfuel.com
@@ -4526,7 +4524,6 @@
 0.0.0.0 ads.im
 0.0.0.0 ads.imagine-inc.com
 0.0.0.0 ads.imc-web.de
-0.0.0.0 ads.imdb.org
 0.0.0.0 ads.imeem.com
 0.0.0.0 ads.img.co.za
 0.0.0.0 ads.imgur.com
@@ -4866,7 +4863,6 @@
 0.0.0.0 ads.ocregister.com
 0.0.0.0 ads.oddschecker.com
 0.0.0.0 ads.oddsen.nu
-0.0.0.0 ads.odigo.com
 0.0.0.0 ads.odsol.com
 0.0.0.0 ads.offshoreonly.com
 0.0.0.0 ads.oho.lv
@@ -7423,7 +7419,6 @@
 0.0.0.0 advertpro.sitepoint.com
 0.0.0.0 advertpro.ya.com
 0.0.0.0 adverts.archant.co.uk
-0.0.0.0 adverts.carltononline.com
 0.0.0.0 adverts.freeloader.com
 0.0.0.0 advertserve.com
 0.0.0.0 advertstream.com
@@ -7599,7 +7594,6 @@
 0.0.0.0 affiliate.friendlyduck.com
 0.0.0.0 affiliate.friendsearch.com
 0.0.0.0 affiliate.gamestop.com
-0.0.0.0 affiliate.hitbtc.com
 0.0.0.0 affiliate.icdsoft.com
 0.0.0.0 affiliate.juno.co.uk
 0.0.0.0 affiliate.landsend.com
@@ -8692,7 +8686,6 @@
 0.0.0.0 api.bitcoin.cz
 0.0.0.0 api.bitcoin.de
 0.0.0.0 api.bitgrail.com
-0.0.0.0 api.bithumb.com
 0.0.0.0 api.boomtrain.com
 0.0.0.0 api.changelly.com
 0.0.0.0 api.circularhub.com
@@ -8711,7 +8704,6 @@
 0.0.0.0 api.cryptokitties.co
 0.0.0.0 api.cryptonator.com
 0.0.0.0 api.de.miva.com
-0.0.0.0 api.demandbase.com
 0.0.0.0 api.digitalhomeservices.yahoo.com
 0.0.0.0 api.durinsmine.com
 0.0.0.0 api.ella.mypool.online
@@ -8723,9 +8715,7 @@
 0.0.0.0 api.ethermine.org
 0.0.0.0 api.ethpool.org
 0.0.0.0 api.etn.spacepools.org
-0.0.0.0 api.exchange.coinbase.com
 0.0.0.0 api.exp.mypool.online
-0.0.0.0 api.hitbtc.com
 0.0.0.0 api.intensifier.de
 0.0.0.0 api.iperceptions.com
 0.0.0.0 api.jino.ru
@@ -9053,7 +9043,6 @@
 0.0.0.0 artesvitrales.com
 0.0.0.0 artfact-d.openx.net
 0.0.0.0 artfv.com
-0.0.0.0 arthritis.atspace.com
 0.0.0.0 artick.wen.ru
 0.0.0.0 article19.com
 0.0.0.0 articleavenue.us.intellitxt.com
@@ -9134,7 +9123,6 @@
 0.0.0.0 ase.clmbtech.com
 0.0.0.0 asearchservice.com
 0.0.0.0 asechka.ru
-0.0.0.0 asecureboard.com
 0.0.0.0 asecurecraft.com
 0.0.0.0 asecurity.com
 0.0.0.0 asecurityservice.com
@@ -9262,7 +9250,6 @@
 0.0.0.0 assets.adtomafusion.net
 0.0.0.0 assets.bounceexchange.com
 0.0.0.0 assets.bravenet.com
-0.0.0.0 assets.coinbase.com
 0.0.0.0 assets.coincheck.com
 0.0.0.0 assets.devx.com
 0.0.0.0 assets.elev.io
@@ -9476,7 +9463,6 @@
 0.0.0.0 austinfunds.com
 0.0.0.0 australiansrareavengers.myforumtoolbar.com
 0.0.0.0 austria-chart.at
-0.0.0.0 auth.hitbtc.com
 0.0.0.0 authedmine.com
 0.0.0.0 authedwebmine.cz
 0.0.0.0 authentictaichi.com
@@ -10545,7 +10531,6 @@
 0.0.0.0 banners.guns.ru
 0.0.0.0 banners.gvozdik.ru
 0.0.0.0 banners.hostsul.com.br
-0.0.0.0 banners.hotlinks.net
 0.0.0.0 banners.hotmatch.com
 0.0.0.0 banners.hotqueens.com
 0.0.0.0 banners.hpg.com.br
@@ -11720,7 +11705,6 @@
 0.0.0.0 besttoolbars.net
 0.0.0.0 bestwallpaperworld.com
 0.0.0.0 bestware.net
-0.0.0.0 bestwarezsites.com
 0.0.0.0 bestwatches.20fr.com
 0.0.0.0 bestwealthmanagement.com
 0.0.0.0 bestweb.com
@@ -11739,7 +11723,6 @@
 0.0.0.0 beta-www.omniture.com
 0.0.0.0 beta.adyea.com
 0.0.0.0 beta.chat.msn.com.tw
-0.0.0.0 beta.coinbase.com
 0.0.0.0 beta.coinrail.io
 0.0.0.0 beta.dmz.omniture.com
 0.0.0.0 beta.easy-hit-counters.com
@@ -12049,7 +12032,6 @@
 0.0.0.0 bitgrabber.com
 0.0.0.0 bitgrail.com
 0.0.0.0 bitgravity.cedexis.com
-0.0.0.0 bithumb.com
 0.0.0.0 bitin.us
 0.0.0.0 bitistamp.com
 0.0.0.0 bitmainer.de
@@ -12249,7 +12231,6 @@
 0.0.0.0 blog.bitcoin.de
 0.0.0.0 blog.bitpay.com
 0.0.0.0 blog.changelly.com
-0.0.0.0 blog.coinbase.com
 0.0.0.0 blog.coinfirm.io
 0.0.0.0 blog.compete.com
 0.0.0.0 blog.cryptopay.me
@@ -12257,7 +12238,6 @@
 0.0.0.0 blog.forcedmigration.org
 0.0.0.0 blog.genesis-mining.com
 0.0.0.0 blog.hashflare.io
-0.0.0.0 blog.hitbtc.com
 0.0.0.0 blog.kissmetrics.com
 0.0.0.0 blog.minergate.com
 0.0.0.0 blog.sina.com.cn
@@ -12948,7 +12928,6 @@
 0.0.0.0 buy-vicodin-online.supersite.fr
 0.0.0.0 buy-vicodin.iscool.nl
 0.0.0.0 buy-xanax.aztecaonline.net
-0.0.0.0 buy.coinbase.com
 0.0.0.0 buy.geni.us
 0.0.0.0 buy.soma.webforhumans.com
 0.0.0.0 buyadb.com
@@ -14604,7 +14583,6 @@
 0.0.0.0 click-now.net
 0.0.0.0 click-safe.com
 0.0.0.0 click-to-download.com
-0.0.0.0 click.absoluteagency.com
 0.0.0.0 click.adultsingles.com
 0.0.0.0 click.affiliator.com
 0.0.0.0 click.andomedia.com
@@ -14617,7 +14595,6 @@
 0.0.0.0 click.freewebsitehosting.com
 0.0.0.0 click.holland-billing.com
 0.0.0.0 click.hotlog.ru
-0.0.0.0 click.icptrack.com
 0.0.0.0 click.infospace.com
 0.0.0.0 click.ipc.ru
 0.0.0.0 click.juiceadv.com
@@ -15143,7 +15120,6 @@
 0.0.0.0 codecsoft.net
 0.0.0.0 codei.net
 0.0.0.0 codemag.media-toolbar.com
-0.0.0.0 codemasters.com
 0.0.0.0 codenewbie.us.intellitxt.com
 0.0.0.0 codeproject.us.intellitxt.com
 0.0.0.0 coder3862004.cjb.net
@@ -15327,7 +15303,6 @@
 0.0.0.0 commonnames.com
 0.0.0.0 commonsearch.com
 0.0.0.0 communicate.iwon.com
-0.0.0.0 community.coinbase.com
 0.0.0.0 community.derbiz.com
 0.0.0.0 community.intellicontact.com
 0.0.0.0 community.surfya.com
@@ -16116,7 +16091,6 @@
 0.0.0.0 criticalmass.com
 0.0.0.0 criticalthoughtgames.com
 0.0.0.0 critictruck.com
-0.0.0.0 crl.adobe.com
 0.0.0.0 crm-wtu.ubi.com
 0.0.0.0 crocodile-syllable-reactions.co.cc
 0.0.0.0 crogsz.sites.uol.com.br
@@ -16587,7 +16561,6 @@
 0.0.0.0 curtaincows.com
 0.0.0.0 curulsky.mycitytoolbar.com
 0.0.0.0 curvedspaces.com
-0.0.0.0 custody.coinbase.com
 0.0.0.0 custom-click.com
 0.0.0.0 custom.demos.su
 0.0.0.0 customad.cnn.com
@@ -16788,7 +16761,6 @@
 0.0.0.0 d1ros97qkrwjf5.cloudfront.net
 0.0.0.0 d1xfq2052q7thw.cloudfront.net
 0.0.0.0 d1xnn692s7u6t6.cloudfront.net
-0.0.0.0 d1z2jf7jlzjs58.cloudfront.net
 0.0.0.0 d1zfhhmz4n1jvq.cloudfront.net
 0.0.0.0 d2.c0.b0.a1.top.list.ru
 0.0.0.0 d2.sc.omtrdc.net
@@ -16989,7 +16961,6 @@
 0.0.0.0 data.alexa.com
 0.0.0.0 data.bizographics.com
 0.0.0.0 data.browseraccelerator.com
-0.0.0.0 data.captifymedia.com
 0.0.0.0 data.cmcore.com
 0.0.0.0 data.coremetrics.com
 0.0.0.0 data.countboy.com
@@ -17091,31 +17062,16 @@
 0.0.0.0 daz.com
 0.0.0.0 dazzled.com
 0.0.0.0 db.xmrpool.net
-0.0.0.0 db0.net-filter.com
-0.0.0.0 db0.sitestats.com
 0.0.0.0 db01.test.millennialmedia.com
 0.0.0.0 db1.an.qa.fastclick.net
-0.0.0.0 db1.sitestats.com
 0.0.0.0 db1.utopiad.com
 0.0.0.0 db105.com
 0.0.0.0 db2.collective-media.net
 0.0.0.0 db2.kissmetrics.com
-0.0.0.0 db2.net-filter.com
-0.0.0.0 db2.sitestats.com
 0.0.0.0 db294.fileshare.hop.clickbank.net
 0.0.0.0 db294.mp3advance.hop.clickbank.net
 0.0.0.0 db294.noadware.hop.clickbank.net
-0.0.0.0 db3.net-filter.com
-0.0.0.0 db3.sitestats.com
 0.0.0.0 db3aqu.atdmt.com
-0.0.0.0 db4.net-filter.com
-0.0.0.0 db4.sitestats.com
-0.0.0.0 db5.net-filter.com
-0.0.0.0 db5.sitestats.com
-0.0.0.0 db6.net-filter.com
-0.0.0.0 db6.sitestats.com
-0.0.0.0 db7.net-filter.com
-0.0.0.0 db7.sitestats.com
 0.0.0.0 db8.net-filter.com
 0.0.0.0 db8.sitestats.com
 0.0.0.0 db9.sitestats.com
@@ -17393,12 +17349,10 @@
 0.0.0.0 demdex.nexac.com
 0.0.0.0 demf.org
 0.0.0.0 demi.allowednet.com
-0.0.0.0 demo-api.hitbtc.com
 0.0.0.0 demo.cj.com
 0.0.0.0 demo.crawler.com
 0.0.0.0 demo.entriq.net
 0.0.0.0 demo.findwhat.com
-0.0.0.0 demo.hitbtc.com
 0.0.0.0 demo.perf.overture.com
 0.0.0.0 demo.staging.testandtarget.omniture.com
 0.0.0.0 demo.testandtarget.omniture.com
@@ -17549,7 +17503,6 @@
 0.0.0.0 developer.best--buy.info
 0.0.0.0 developer.compete.com
 0.0.0.0 developerfood.com
-0.0.0.0 developers.coinbase.com
 0.0.0.0 developers.cryptopay.me
 0.0.0.0 developersdex.us.intellitxt.com
 0.0.0.0 devergo.com
@@ -18072,7 +18025,6 @@
 0.0.0.0 docksalmon.com
 0.0.0.0 docplus.ru
 0.0.0.0 docs.companion.yahoo.com
-0.0.0.0 docs.exchange.coinbase.com
 0.0.0.0 docs.real.com
 0.0.0.0 docs1.excite.com
 0.0.0.0 docs1.iwon.com
@@ -18512,7 +18464,6 @@
 0.0.0.0 driji.wap.sh
 0.0.0.0 drinkmy.com
 0.0.0.0 drive-software.com
-0.0.0.0 drive.videoclick.ru
 0.0.0.0 drivecleaner.com
 0.0.0.0 drivelinemedia.com
 0.0.0.0 drivepm.com
@@ -21606,7 +21557,6 @@
 0.0.0.0 einets.com
 0.0.0.0 einfachsaufende.myblogtoolbar.com
 0.0.0.0 einsiders.us.intellitxt.com
-0.0.0.0 eio-feed.exchange.coinbase.com
 0.0.0.0 eipc.0catch.com
 0.0.0.0 eiv.baidu.com
 0.0.0.0 ejelta.com
@@ -21937,7 +21887,6 @@
 0.0.0.0 engine11.iway.na
 0.0.0.0 engine2.adzerk.net
 0.0.0.0 engine54.com
-0.0.0.0 engineering.coinbase.com
 0.0.0.0 engineering.hitbox.com
 0.0.0.0 enginenetwork.com
 0.0.0.0 engineplay.com
@@ -22516,7 +22465,6 @@
 0.0.0.0 event.yoochoose.net
 0.0.0.0 event.zroitracker.com
 0.0.0.0 eventhorizon.biz
-0.0.0.0 eventlogger.soundcloud.com
 0.0.0.0 events.apester.com
 0.0.0.0 events.api.boomtrain.com
 0.0.0.0 events.foreseeresults.com
@@ -22607,14 +22555,12 @@
 0.0.0.0 excelclient.omniture.com
 0.0.0.0 excellenttime.com
 0.0.0.0 excelleweb.intellicontact.com
-0.0.0.0 exceptions.coinbase.com
 0.0.0.0 exch-w.atdmt.com
 0.0.0.0 exchange-it.com
 0.0.0.0 exchange-it.de
 0.0.0.0 exchange-wm.com
 0.0.0.0 exchange.bg
 0.0.0.0 exchange.btcchina.com
-0.0.0.0 exchange.coinbase.com
 0.0.0.0 exchange.findwhat.com
 0.0.0.0 exchange.fwht-fl2.findwhat.com
 0.0.0.0 exchange.iwon.com
@@ -23252,7 +23198,6 @@
 0.0.0.0 fetishcrime.biz
 0.0.0.0 fetishdreams.com
 0.0.0.0 fetishelysium.com
-0.0.0.0 fetishforest.com
 0.0.0.0 fetishscreen.com
 0.0.0.0 fetishtopsite.com
 0.0.0.0 fetishtour.com
@@ -23829,7 +23774,6 @@
 0.0.0.0 forum.bitcoin.de
 0.0.0.0 forum.bitcore.io
 0.0.0.0 forum.clubedohardware.com.br
-0.0.0.0 forum.hitbtc.com
 0.0.0.0 forum.hotplugins.com
 0.0.0.0 forum.krawl.com
 0.0.0.0 forum.minergate.com
@@ -24691,7 +24635,6 @@
 0.0.0.0 galeon.com
 0.0.0.0 galeriesociale.com
 0.0.0.0 galette.com
-0.0.0.0 gall.dcinside.com
 0.0.0.0 galleries.allinternal.com
 0.0.0.0 galleries.dacash.com
 0.0.0.0 galleries.juicybucks.com
@@ -24814,7 +24757,6 @@
 0.0.0.0 gamespot-basic.search.com
 0.0.0.0 gamespot-basic.search.com.com
 0.0.0.0 gamespot-hw-search.search.com
-0.0.0.0 gamespot.com
 0.0.0.0 gamespot.search.com
 0.0.0.0 gamespotdelux.myforumtoolbar.com
 0.0.0.0 gamespotdeluxe.myforumtoolbar.com
@@ -25905,7 +25847,6 @@
 0.0.0.0 graffinrete.net
 0.0.0.0 grafikart.info
 0.0.0.0 grafix.xxxcounter.com
-0.0.0.0 grafstat.ro
 0.0.0.0 graft.network
 0.0.0.0 graft.poolisto.com
 0.0.0.0 graftpool.net
@@ -25959,7 +25900,6 @@
 0.0.0.0 gravitydirect.net
 0.0.0.0 grayds.graymatics.com
 0.0.0.0 grayfire.com
-0.0.0.0 graylog.hotjar.com
 0.0.0.0 graysonwarrenbrown.com
 0.0.0.0 grb1501.com
 0.0.0.0 grbitz.info
@@ -26778,7 +26718,6 @@
 0.0.0.0 hit.webcentre.lycos.co.uk
 0.0.0.0 hit1.hotlog.ru
 0.0.0.0 hit1.vioclicks.com
-0.0.0.0 hit1.xstats.com
 0.0.0.0 hit10.hotlog.ru
 0.0.0.0 hit13.hotlog.ru
 0.0.0.0 hit15.hotlog.ru
@@ -26798,7 +26737,6 @@
 0.0.0.0 hitbox.com
 0.0.0.0 hitboxbenchmarker.com
 0.0.0.0 hitboxcentral.com
-0.0.0.0 hitbtc.com
 0.0.0.0 hitbtc.financial
 0.0.0.0 hitbtc.zone
 0.0.0.0 hitcents.com
@@ -27052,7 +26990,6 @@
 0.0.0.0 hospites.com
 0.0.0.0 host-data.com
 0.0.0.0 host-it.co.uk
-0.0.0.0 host.d-ns.ga
 0.0.0.0 host.sk
 0.0.0.0 host.yumyum.at
 0.0.0.0 host004.findwhat.com
@@ -27638,7 +27575,6 @@
 0.0.0.0 icount.com
 0.0.0.0 icountertop.com
 0.0.0.0 icpbounce.com
-0.0.0.0 icptrack.com
 0.0.0.0 icq.com
 0.0.0.0 icracks.net
 0.0.0.0 ics.hitbox.com
@@ -27999,7 +27935,6 @@
 0.0.0.0 images.casino-on-net.com
 0.0.0.0 images.clickability.com
 0.0.0.0 images.clicktrade.com
-0.0.0.0 images.coinbase.com
 0.0.0.0 images.comscore.com
 0.0.0.0 images.conduit-banners.com
 0.0.0.0 images.content.ignitad.com
@@ -28126,7 +28061,6 @@
 0.0.0.0 img.babylon.com
 0.0.0.0 img.bet-at-home.com
 0.0.0.0 img.bizjournals.com
-0.0.0.0 img.blogsavenue.com
 0.0.0.0 img.cdn.betclick.com
 0.0.0.0 img.centrum.sk
 0.0.0.0 img.clicksagent.com
@@ -28165,7 +28099,6 @@
 0.0.0.0 img.stamps.com
 0.0.0.0 img.szm.sk
 0.0.0.0 img.techweb.com
-0.0.0.0 img.tfd.com
 0.0.0.0 img.thebugs.us
 0.0.0.0 img.tradedoubler.com
 0.0.0.0 img.web.de
@@ -28353,7 +28286,6 @@
 0.0.0.0 independentmediagroup.com
 0.0.0.0 independentreview.com
 0.0.0.0 independentsolutions.com
-0.0.0.0 index.bithumb.com
 0.0.0.0 indexie.com
 0.0.0.0 indexlink.ro
 0.0.0.0 indexstats.com
@@ -30536,7 +30468,6 @@
 0.0.0.0 l5.zedo.com
 0.0.0.0 l8.blogfa.com
 0.0.0.0 l90.com
-0.0.0.0 l9bjkkhaycw6f8f4.soundcloud.com
 0.0.0.0 la01.supportxmr.com
 0.0.0.0 la2onix.ru
 0.0.0.0 la34.info
@@ -31899,7 +31830,6 @@
 0.0.0.0 m.anyfiles.ovh
 0.0.0.0 m.banner.linksynergy.com
 0.0.0.0 m.bitcoin.cz
-0.0.0.0 m.bithumb.com
 0.0.0.0 m.burt.io
 0.0.0.0 m.doubleclick.com
 0.0.0.0 m.doubleclick.net
@@ -32069,7 +31999,6 @@
 0.0.0.0 mail-to-a-friend.com
 0.0.0.0 mail.altpool.pro
 0.0.0.0 mail.bitclub.bz
-0.0.0.0 mail.bithumb.com
 0.0.0.0 mail.btgpool.pro
 0.0.0.0 mail.coinfirm.io
 0.0.0.0 mail.coinhive-manager.com
@@ -32999,7 +32928,6 @@
 0.0.0.0 meskiraanass.myforumtoolbar.com
 0.0.0.0 mess.be
 0.0.0.0 message.aim.com
-0.0.0.0 message.bithumb.com
 0.0.0.0 messageboard693209.aimoo.com
 0.0.0.0 messageboard694307.aimoo.com
 0.0.0.0 messagebroadcaster.net
@@ -33152,7 +33080,6 @@
 0.0.0.0 metrics.nj.com
 0.0.0.0 metrics.npr.org
 0.0.0.0 metrics.nserc.gc.ca
-0.0.0.0 metrics.oovoo.com
 0.0.0.0 metrics.ops.rr.com
 0.0.0.0 metrics.oregonlive.com
 0.0.0.0 metrics.oreilly.com
@@ -38307,7 +38234,6 @@
 0.0.0.0 pay-per-search.com
 0.0.0.0 pay-to-promote.com
 0.0.0.0 pay.3000.it
-0.0.0.0 pay.bithumb.com
 0.0.0.0 pay.day.loan.webforhumans.com
 0.0.0.0 pay4easy.com
 0.0.0.0 pay69.com
@@ -39647,7 +39573,6 @@
 0.0.0.0 portland-dating-agency.servik.com
 0.0.0.0 portland-dating.servik.com
 0.0.0.0 pos-kupang.com
-0.0.0.0 posing.biz
 0.0.0.0 positivebeats.com
 0.0.0.0 positivemedia.intellicontact.com
 0.0.0.0 possibleboats.com
@@ -41356,7 +41281,6 @@
 0.0.0.0 rem-track.bild.de
 0.0.0.0 reminton.com
 0.0.0.0 remix-world.de
-0.0.0.0 remorcicomerciale.ro
 0.0.0.0 remote.speaktechsupport.com
 0.0.0.0 remotead-internal.cnet.com
 0.0.0.0 remotead.cnet.com
@@ -43789,7 +43713,6 @@
 0.0.0.0 sexy18.cc
 0.0.0.0 sexyavenue.com
 0.0.0.0 sexybabesx.com
-0.0.0.0 sexybills.be
 0.0.0.0 sexybustygirls.com
 0.0.0.0 sexycall.com
 0.0.0.0 sexycamteens.com
@@ -44276,7 +44199,6 @@
 0.0.0.0 sitestatz.com
 0.0.0.0 sitetracker.com
 0.0.0.0 sitetroll.com
-0.0.0.0 siteverification.site
 0.0.0.0 sitherwood.com
 0.0.0.0 sitopsi.com
 0.0.0.0 sitsearch.com
@@ -45106,7 +45028,6 @@
 0.0.0.0 spootie.com
 0.0.0.0 sport-gallery.com
 0.0.0.0 sport.fr.intellitxt.com
-0.0.0.0 sport.xoomcounter.com
 0.0.0.0 sport365.fr.intellitxt.com
 0.0.0.0 sportbacon.com
 0.0.0.0 sporterotica.com
@@ -45879,7 +45800,6 @@
 0.0.0.0 stats.wp.com
 0.0.0.0 stats.www.ibm.com
 0.0.0.0 stats.yoox.com
-0.0.0.0 stats.yoursitebar.com
 0.0.0.0 stats0.one.ru
 0.0.0.0 stats02.topix.com
 0.0.0.0 stats1.clicktracks.com
@@ -45908,7 +45828,6 @@
 0.0.0.0 stattrax.com
 0.0.0.0 statum.bitcoin.cz
 0.0.0.0 staturm.bitcoin.cz
-0.0.0.0 status.coinbase.com
 0.0.0.0 status.hashflare.io
 0.0.0.0 status.hashfor.cash
 0.0.0.0 status.minexmr.com
@@ -46324,14 +46243,12 @@
 0.0.0.0 support.bitpay.com
 0.0.0.0 support.bittrex.com
 0.0.0.0 support.bravenet.com
-0.0.0.0 support.coinbase.com
 0.0.0.0 support.coinone.co.kr
 0.0.0.0 support.coinotron.com
 0.0.0.0 support.cryptopay.me
 0.0.0.0 support.faucethub.io
 0.0.0.0 support.give-me-coins.com
 0.0.0.0 support.hashflare.io
-0.0.0.0 support.hitbtc.com
 0.0.0.0 support.icoredb.com
 0.0.0.0 support.isupportcorp.com
 0.0.0.0 support.ledgerwallet.com
@@ -46570,7 +46487,6 @@
 0.0.0.0 swsoft.122.2o7.net
 0.0.0.0 swsoft.intellicontact.com
 0.0.0.0 swsoft1.intellicontact.com
-0.0.0.0 swupmf.adobe.com
 0.0.0.0 sww.24x7help.org
 0.0.0.0 swwelch.com
 0.0.0.0 swww.24x7help.org
@@ -46706,7 +46622,6 @@
 0.0.0.0 t.extreme-dm.com
 0.0.0.0 t.felmat.net
 0.0.0.0 t.flux.com
-0.0.0.0 t.hulu.com
 0.0.0.0 t.insigit.com
 0.0.0.0 t.lkqd.net
 0.0.0.0 t.mashable.com
@@ -47312,7 +47227,6 @@
 0.0.0.0 telemetry-experiment.cdn.mozilla.net
 0.0.0.0 telemetry.appex.bing.net
 0.0.0.0 telemetry.microsoft.com
-0.0.0.0 telemetry.soundcloud.com
 0.0.0.0 telemetry.urs.microsoft.com
 0.0.0.0 telenorstartsiden.112.2o7.net
 0.0.0.0 telespectrum.com
@@ -47463,7 +47377,6 @@
 0.0.0.0 textad.sexsearch.com
 0.0.0.0 textads.biz
 0.0.0.0 textclick.com
-0.0.0.0 textlinkcash.de
 0.0.0.0 textlinks.com
 0.0.0.0 textnchat.com
 0.0.0.0 textomatic.superstats.com
@@ -48687,7 +48600,6 @@
 0.0.0.0 trafficmp.com
 0.0.0.0 trafficmultiplier.com
 0.0.0.0 trafficoverdrive.com
-0.0.0.0 trafficparade.com
 0.0.0.0 trafficprovide.com
 0.0.0.0 trafficpump.com
 0.0.0.0 trafficrank.com
@@ -49808,7 +49720,6 @@
 0.0.0.0 updates.spywarequake.com
 0.0.0.0 updates.virtumonde.com
 0.0.0.0 updates2.express-files.com
-0.0.0.0 updatesantivirus.com
 0.0.0.0 updatescenter.com
 0.0.0.0 updatesgate.com
 0.0.0.0 updatesmicrosoft.net
@@ -49981,7 +49892,6 @@
 0.0.0.0 usachoice.net
 0.0.0.0 usadmm.dotomi.com
 0.0.0.0 usads.futurenet.nl
-0.0.0.0 usads.imdb.nl
 0.0.0.0 usaf.ourtoolbar.com
 0.0.0.0 usafis.org
 0.0.0.0 usage.apps.conduit-services.com
@@ -50603,7 +50513,6 @@
 0.0.0.0 view.binlayer.com
 0.0.0.0 view.jamba.de
 0.0.0.0 view1.vioclicks.com
-0.0.0.0 view1.xstats.com
 0.0.0.0 view4cash.de
 0.0.0.0 viewdot.com
 0.0.0.0 viewindia.com
@@ -52396,7 +52305,6 @@
 0.0.0.0 ws-de-03.rocks.io
 0.0.0.0 ws-de-04.rocks.io
 0.0.0.0 ws-de-05.rocks.io
-0.0.0.0 ws-feed.exchange.coinbase.com
 0.0.0.0 ws-fr-01.rocks.io
 0.0.0.0 ws-fr-02.rocks.io
 0.0.0.0 ws-fr-03.rocks.io
@@ -52407,12 +52315,10 @@
 0.0.0.0 ws.assoc-amazon.com
 0.0.0.0 ws.bitcoin.de
 0.0.0.0 ws.bitgrail.com
-0.0.0.0 ws.coinbase.com
 0.0.0.0 ws.coincheck.com
 0.0.0.0 ws.freebitco.in
 0.0.0.0 ws.indexstock.com
 0.0.0.0 ws.ledgerwallet.com
-0.0.0.0 ws.pusherapp.com
 0.0.0.0 ws.sessioncam.com
 0.0.0.0 ws.tapjoyads.com
 0.0.0.0 ws.websearch.com
@@ -52636,7 +52542,6 @@
 0.0.0.0 wss-gw-2.hitbox.com
 0.0.0.0 wss-gw-4-gig.hitbox.com
 0.0.0.0 wss-snat.hitbox.com
-0.0.0.0 wss.bithumb.com
 0.0.0.0 wss.commerce.atomz.com
 0.0.0.0 wss.hbpl.co.uk
 0.0.0.0 wss.nablabee.com
@@ -53440,7 +53345,6 @@
 0.0.0.0 www.adtechus.com
 0.0.0.0 www.adtegrity.com
 0.0.0.0 www.adteractive.com
-0.0.0.0 www.adtiger.de
 0.0.0.0 www.adtimes.nytimes.com
 0.0.0.0 www.adtoll.com
 0.0.0.0 www.adtology.com
@@ -54615,7 +54519,6 @@
 0.0.0.0 www.bitebang.com
 0.0.0.0 www.bitgrabber.com
 0.0.0.0 www.bitgrail.com
-0.0.0.0 www.bithumb.com
 0.0.0.0 www.bithumbs.com
 0.0.0.0 www.bitlocker.net
 0.0.0.0 www.bitlord.com
@@ -54653,7 +54556,6 @@
 0.0.0.0 www.blackhawksoftware.com
 0.0.0.0 www.blackjack.md
 0.0.0.0 www.blackjackballroom.com
-0.0.0.0 www.blacklightimages.com
 0.0.0.0 www.blacknature.com
 0.0.0.0 www.blackpatrol.com
 0.0.0.0 www.blackplant.com
@@ -54921,7 +54823,6 @@
 0.0.0.0 www.buydomains.com
 0.0.0.0 www.buyer.com
 0.0.0.0 www.buyersport.com
-0.0.0.0 www.buyhitscheap.com
 0.0.0.0 www.buyingedge.com
 0.0.0.0 www.buypcsoft.com
 0.0.0.0 www.buyr.org
@@ -55479,7 +55380,6 @@
 0.0.0.0 www.codebreakers.com
 0.0.0.0 www.codecs-divx.baixar.ws
 0.0.0.0 www.codecsoft.net
-0.0.0.0 www.codemasters.com
 0.0.0.0 www.coder3862004.cjb.net
 0.0.0.0 www.codwellbanker.com
 0.0.0.0 www.codyadams.0catch.com
@@ -56609,7 +56509,6 @@
 0.0.0.0 www.elitecities.com
 0.0.0.0 www.elitegate.de
 0.0.0.0 www.elitemail.org
-0.0.0.0 www.elitemarketing.net
 0.0.0.0 www.elitemediagroup.net
 0.0.0.0 www.elitepasswords.com
 0.0.0.0 www.elitesavers.com
@@ -56725,7 +56624,6 @@
 0.0.0.0 www.epromos.com
 0.0.0.0 www.epsonprinter-drivers.com
 0.0.0.0 www.equalist.net
-0.0.0.0 www.equallyyolked.com
 0.0.0.0 www.equitymarketingsolutions.com
 0.0.0.0 www.ere.org
 0.0.0.0 www.erebates.com
@@ -57839,7 +57737,6 @@
 0.0.0.0 www.gms1.net
 0.0.0.0 www.gnmbc.co.kr
 0.0.0.0 www.gnnet.co.kr
-0.0.0.0 www.gnuetella.com
 0.0.0.0 www.go.com
 0.0.0.0 www.go.net.j-connect.com
 0.0.0.0 www.go2-search.com
@@ -58233,7 +58130,6 @@
 0.0.0.0 www.hitbox.co.jp
 0.0.0.0 www.hitbox.com
 0.0.0.0 www.hitbox.cz
-0.0.0.0 www.hitbtc.com
 0.0.0.0 www.hitcpm.com
 0.0.0.0 www.hitfarm.com
 0.0.0.0 www.hitgo.com
@@ -61868,7 +61764,6 @@
 0.0.0.0 www.qsrch.net
 0.0.0.0 www.qssa.co.uk
 0.0.0.0 www.qsstats.com
-0.0.0.0 www.qualcomm.com
 0.0.0.0 www.qualitycodec.com
 0.0.0.0 www.quallcom.com
 0.0.0.0 www.quantasairlines.com
@@ -62038,7 +61933,6 @@
 0.0.0.0 www.redemptionengine.com
 0.0.0.0 www.redfunny.com
 0.0.0.0 www.redhotchilli.co.uk
-0.0.0.0 www.rediff.com
 0.0.0.0 www.redifmail.com
 0.0.0.0 www.redir.ws
 0.0.0.0 www.redirectme.net
@@ -62473,7 +62367,6 @@
 0.0.0.0 www.searchfish.com
 0.0.0.0 www.searchforge.com
 0.0.0.0 www.searchforporn.org
-0.0.0.0 www.searchgateway.net
 0.0.0.0 www.searchgogo.com
 0.0.0.0 www.searchhelp.com
 0.0.0.0 www.searchhere.com
@@ -63995,7 +63888,6 @@
 0.0.0.0 www.thinkindia.com
 0.0.0.0 www.thinkingsoft.com
 0.0.0.0 www.thinknyc.eu-adcenter.net
-0.0.0.0 www.thinktarget.com
 0.0.0.0 www.thirdforum.org
 0.0.0.0 www.thirdsex.com
 0.0.0.0 www.thirdstreet.com
@@ -64584,7 +64476,6 @@
 0.0.0.0 www.upgradebuddy.com
 0.0.0.0 www.uploadnet.com
 0.0.0.0 www.upperclass.org
-0.0.0.0 www.upproar.com
 0.0.0.0 www.uproar.com
 0.0.0.0 www.uprour.com
 0.0.0.0 www.upskirttoplist.com
@@ -64963,7 +64854,6 @@
 0.0.0.0 www.web-1000.com
 0.0.0.0 www.web-graphic.com
 0.0.0.0 www.web-hosting-options.com
-0.0.0.0 www.web-marketing.8m.com
 0.0.0.0 www.web-promotion.net
 0.0.0.0 www.web-promotions.com
 0.0.0.0 www.web-search.biz
@@ -65722,7 +65612,6 @@
 0.0.0.0 www.yoursearchfinder.com
 0.0.0.0 www.yoursearchspace.com
 0.0.0.0 www.yoursecuritysystem.com
-0.0.0.0 www.yoursitebar.com
 0.0.0.0 www.yourspecialoffers.com
 0.0.0.0 www.yourstats.net
 0.0.0.0 www.yoursystemupdate.com
@@ -66963,7 +66852,6 @@
 0.0.0.0 yarmouthpicturestoolbar.mytowntoolbar.com
 0.0.0.0 yasir.biz
 0.0.0.0 yasmin.ws
-0.0.0.0 yastatic.net
 0.0.0.0 yaty.com
 0.0.0.0 yazelarem.myblogtoolbar.com
 0.0.0.0 yazminx.com
@@ -67608,8 +67496,8 @@
 
 # Hosts - gasb-pe
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/mirror/GASB-PE.active.txt
-# Generated - 30.08.2018
+# Generated - 07.09.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 67607
+# Total Domains: 67495
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

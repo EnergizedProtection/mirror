@@ -51,7 +51,6 @@
 0.0.0.0 api.instabug.com
 0.0.0.0 api.oneaudience.com
 0.0.0.0 api.safedk.com
-0.0.0.0 api.sec.miui.com
 0.0.0.0 api.taplytics.com
 0.0.0.0 api.uca.cloud.unity3d.com
 0.0.0.0 apiv2.moengage.com
@@ -60,7 +59,6 @@
 0.0.0.0 appmetrica.yandex.com
 0.0.0.0 ar.umeng.com
 0.0.0.0 astat.bugly.qq.com
-0.0.0.0 auth.be.sec.miui.com
 0.0.0.0 batsavcdn.ksmobile.net
 0.0.0.0 beacon.carfax.com
 0.0.0.0 beacon.qq.com
@@ -87,7 +85,6 @@
 0.0.0.0 crasheye.cn
 0.0.0.0 crwdcntrl.net
 0.0.0.0 d.applvn.com
-0.0.0.0 data.sec.miui.com
 0.0.0.0 dc.webtrends.com
 0.0.0.0 decide.mixpanel.com
 0.0.0.0 demdex.net
@@ -143,9 +140,7 @@
 0.0.0.0 logupdate.avlyun.sec.miui.com
 0.0.0.0 lp4.io
 0.0.0.0 m.vpadn.com
-0.0.0.0 mazu.sec.miui.com
 0.0.0.0 measuread.com
-0.0.0.0 metok.sys.miui.com
 0.0.0.0 metrics-cbslocal-com.cdn.ampproject.org
 0.0.0.0 metrics.adflake.com
 0.0.0.0 metrics.bestbuy.com
@@ -180,10 +175,10 @@
 0.0.0.0 prugskh.net
 0.0.0.0 puds.ucweb.com
 0.0.0.0 quantcount.com
-0.0.0.0 r.browser.miui.com
 0.0.0.0 rc.dxsvr.com
 0.0.0.0 register.appsflyer.com
 0.0.0.0 report.appmetrica.yandex.net
+0.0.0.0 reporting.aatkit.com
 0.0.0.0 resolver.gslb.mi-idc.com
 0.0.0.0 rlog-api.under9.co
 0.0.0.0 rlog.9gag.com
@@ -198,7 +193,6 @@
 0.0.0.0 sdkconfig.ad.xiaomi.com
 0.0.0.0 sdklogs.avocarrot.com
 0.0.0.0 sdks.stats-locations.com
-0.0.0.0 shenghuo.xiaomi.com
 0.0.0.0 ssl-google-analytics.l.google.com
 0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 stat.duokanbox.com
@@ -225,6 +219,7 @@
 0.0.0.0 tracker.adotmob.com
 0.0.0.0 trackersimulator.org
 0.0.0.0 tracking-server-prod-1.zenmxapps.com
+0.0.0.0 tracking.aatkit.com
 0.0.0.0 tracking.directservices.it
 0.0.0.0 tracking.i2w.io
 0.0.0.0 tracking.intl.miui.com
@@ -254,8 +249,8 @@
 
 # Hosts - adguard-mobile-spyware
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-mobile-spyware.txt
-# Generated - 30.08.2018
+# Generated - 07.09.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 253
+# Total Domains: 248
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

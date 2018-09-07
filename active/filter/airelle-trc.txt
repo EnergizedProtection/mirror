@@ -1023,7 +1023,6 @@
 0.0.0.0 absentvodka.com
 0.0.0.0 absolstats.co.za
 0.0.0.0 absolutemedia1.free.fr
-0.0.0.0 abtest.mistat.intl.xiaomi.com
 0.0.0.0 abtracker.adultbouncer.com
 0.0.0.0 abtrcking.com
 0.0.0.0 abu.corp.fastclick.net
@@ -16969,7 +16968,6 @@
 0.0.0.0 businesspundit.us.intellitxt.com
 0.0.0.0 businessweekpoc.112.2o7.net
 0.0.0.0 bustedcoverage.us.intellitxt.com
-0.0.0.0 bustyasian.beeplog.it
 0.0.0.0 bustymature.beeplog.de
 0.0.0.0 butlercountycsea.com
 0.0.0.0 butterfly-media.co.uk
@@ -17886,7 +17884,6 @@
 0.0.0.0 click-to-celebs.com
 0.0.0.0 click-to-download.com
 0.0.0.0 click-tt.de
-0.0.0.0 click.absoluteagency.com
 0.0.0.0 click.ad.nu-face.jp
 0.0.0.0 click.adcenter.infolinks.com
 0.0.0.0 click.adimmix.com
@@ -19935,7 +19932,6 @@
 0.0.0.0 daiwashoken.112.2o7.net
 0.0.0.0 dalehwest.com
 0.0.0.0 dalemcybermedia.com
-0.0.0.0 damacotrade.vip-global.online
 0.0.0.0 damnclick.com
 0.0.0.0 damnimcute.us.intellitxt.com
 0.0.0.0 danasdirt.us.intellitxt.com
@@ -19968,7 +19964,6 @@
 0.0.0.0 data-vocabulary.org
 0.0.0.0 data.abebooks.com
 0.0.0.0 data.browseraccelerator.com
-0.0.0.0 data.captifymedia.com
 0.0.0.0 data.cmcore.com
 0.0.0.0 data.coremetrics.com
 0.0.0.0 data.countboy.com
@@ -20006,21 +20001,10 @@
 0.0.0.0 dayrates.com
 0.0.0.0 days-left-counters.qarchive.org
 0.0.0.0 db-mediainc.com
-0.0.0.0 db0.net-filter.com
-0.0.0.0 db0.sitestats.com
 0.0.0.0 db01.test.millennialmedia.com
 0.0.0.0 db1.an.qa.fastclick.net
-0.0.0.0 db1.sitestats.com
 0.0.0.0 db2.collective-media.net
 0.0.0.0 db2.kissmetrics.com
-0.0.0.0 db2.net-filter.com
-0.0.0.0 db2.sitestats.com
-0.0.0.0 db3.net-filter.com
-0.0.0.0 db3.sitestats.com
-0.0.0.0 db4.net-filter.com
-0.0.0.0 db4.sitestats.com
-0.0.0.0 db5.net-filter.com
-0.0.0.0 db5.sitestats.com
 0.0.0.0 db5.wns.windows.com
 0.0.0.0 db5sch101100122.wns.windows.com
 0.0.0.0 db5sch101100127.wns.windows.com
@@ -20210,8 +20194,6 @@
 0.0.0.0 db5sch103102610.wns.windows.com
 0.0.0.0 db5sch103102805.wns.windows.com
 0.0.0.0 db5wns1d.wns.windows.com
-0.0.0.0 db6.net-filter.com
-0.0.0.0 db6.sitestats.com
 0.0.0.0 db6sch102090104.wns.windows.com
 0.0.0.0 db6sch102090112.wns.windows.com
 0.0.0.0 db6sch102090116.wns.windows.com
@@ -20265,8 +20247,6 @@
 0.0.0.0 db6sch102091603.wns.windows.com
 0.0.0.0 db6sch102091606.wns.windows.com
 0.0.0.0 db6sch102091607.wns.windows.com
-0.0.0.0 db7.net-filter.com
-0.0.0.0 db7.sitestats.com
 0.0.0.0 db8.sitestats.com
 0.0.0.0 db9.sitestats.com
 0.0.0.0 dbbsrv.com
@@ -20916,7 +20896,6 @@
 0.0.0.0 drindomedia.com
 0.0.0.0 drinkcountercoffee.com
 0.0.0.0 drive.google.com.arablatrade.com
-0.0.0.0 drive.videoclick.ru
 0.0.0.0 driverguide.us.intellitxt.com
 0.0.0.0 driverutilities.com
 0.0.0.0 drivingtraffic.com
@@ -23868,7 +23847,6 @@
 0.0.0.0 engine.letsstat.nl
 0.0.0.0 engine.mobileapptracking.com
 0.0.0.0 engine.pgmediaserve.com
-0.0.0.0 engine.pianomedia.sk
 0.0.0.0 engine.statcount.com
 0.0.0.0 engineering.hitbox.com
 0.0.0.0 englishclassivc.glogspot.com
@@ -25881,7 +25859,6 @@
 0.0.0.0 grabowski.media-toolbar.com
 0.0.0.0 graciousmedia.com
 0.0.0.0 graf.ly
-0.0.0.0 grafstat.ro
 0.0.0.0 grandandtoy.com.102.112.2o7.net
 0.0.0.0 grandcookies.com
 0.0.0.0 grandediffusion.ma
@@ -25897,7 +25874,6 @@
 0.0.0.0 gratiscounter.de
 0.0.0.0 gratisfilms.tradestart.cambonus.com
 0.0.0.0 gratuit-bite.hit.bg
-0.0.0.0 graylog.hotjar.com
 0.0.0.0 graytv.us.intellitxt.com
 0.0.0.0 great-looking-ass.inhit.com
 0.0.0.0 greatarcadehits.com
@@ -30892,7 +30868,6 @@
 0.0.0.0 metrics.nti.nl
 0.0.0.0 metrics.nutrisystem.com
 0.0.0.0 metrics.oclc.org
-0.0.0.0 metrics.oovoo.com
 0.0.0.0 metrics.ops.rr.com
 0.0.0.0 metrics.oreilly.com
 0.0.0.0 metrics.oreillyauto.com
@@ -38529,7 +38504,6 @@
 0.0.0.0 mp.clicksor.net
 0.0.0.0 mp.hits.mylivepage.ru
 0.0.0.0 mp.piano-media.com
-0.0.0.0 mp.pianomedia.eu
 0.0.0.0 mp3.zonebg.com
 0.0.0.0 mp3hitmachine.com
 0.0.0.0 mp3hitzone.com
@@ -39110,7 +39084,6 @@
 0.0.0.0 netscaler-map.hitbox.com
 0.0.0.0 netscaler.hitbox.com
 0.0.0.0 netscoop.media-toolbar.com
-0.0.0.0 netscope.data.marktest.pt
 0.0.0.0 netsdartboards.122.2o7.net
 0.0.0.0 netshaqcom.media-toolbar.com
 0.0.0.0 netshopsglobal.122.2o7.net
@@ -43556,7 +43529,6 @@
 0.0.0.0 sftp.clickability.com
 0.0.0.0 sftrack.searchforce.net
 0.0.0.0 sfux.com
-0.0.0.0 sg.a.stat.mi.com
 0.0.0.0 sgcdn.duplomediaas.netdna-cdn.com
 0.0.0.0 sgifeed2.hitbox.com
 0.0.0.0 sgirls.net
@@ -44177,7 +44149,6 @@
 0.0.0.0 speedtv.us.intellitxt.com
 0.0.0.0 speedyclick.com
 0.0.0.0 speeuclicks.ero-advertising.com
-0.0.0.0 speknekralex.playwrightmedia.com
 0.0.0.0 spencergifts.112.2o7.net
 0.0.0.0 spencersonline.com.102.112.2o7.net
 0.0.0.0 spexaccess.net
@@ -44207,7 +44178,6 @@
 0.0.0.0 spookmedia.nl
 0.0.0.0 sport-trader.com
 0.0.0.0 sport.fr.intellitxt.com
-0.0.0.0 sport.xoomcounter.com
 0.0.0.0 sport365.fr.intellitxt.com
 0.0.0.0 sportaladbg.hit.gemius.pl
 0.0.0.0 sportingnews.122.2o7.net
@@ -45007,7 +44977,6 @@
 0.0.0.0 stats.yme.com
 0.0.0.0 stats.ynet.co.il
 0.0.0.0 stats.yoox.com
-0.0.0.0 stats.yoursitebar.com
 0.0.0.0 stats.z-issue.com
 0.0.0.0 stats.zmags.com
 0.0.0.0 stats1.corusradio.com
@@ -46213,7 +46182,6 @@
 0.0.0.0 tooloftrade.com.au
 0.0.0.0 tools.clicktx.jp
 0.0.0.0 tools.hitbox.com
-0.0.0.0 tools.ranker.com
 0.0.0.0 tools.spylog.ru
 0.0.0.0 tools2.hitbox.com
 0.0.0.0 toolsa.hitbox.com
@@ -46522,7 +46490,6 @@
 0.0.0.0 track.digitalriver.com
 0.0.0.0 track.divx.com
 0.0.0.0 track.dmipartners.com
-0.0.0.0 track.dotsly.com
 0.0.0.0 track.dragonparking.com
 0.0.0.0 track.dreamkelly.com
 0.0.0.0 track.dvdbox.com
@@ -47144,7 +47111,6 @@
 0.0.0.0 tracking.fanbridge.com
 0.0.0.0 tracking.fathomseo.com
 0.0.0.0 tracking.feedmob.com
-0.0.0.0 tracking.feedpress.it
 0.0.0.0 tracking.finanzen.net
 0.0.0.0 tracking.findologic.com
 0.0.0.0 tracking.firstimpression.io
@@ -50533,7 +50499,6 @@
 0.0.0.0 www.affiliation-france.com
 0.0.0.0 www.affistats.com
 0.0.0.0 www.afftrack.com
-0.0.0.0 www.afftracker.info
 0.0.0.0 www.afftrackinglinks.com
 0.0.0.0 www.afftrackpro.com
 0.0.0.0 www.afftrackr.com
@@ -50813,7 +50778,6 @@
 0.0.0.0 www.azcounties.com
 0.0.0.0 www.b3d.com
 0.0.0.0 www.ba-click.com
-0.0.0.0 www.babelogbook.com
 0.0.0.0 www.babelogged.com
 0.0.0.0 www.baberankings.com
 0.0.0.0 www.babymedia.net
@@ -51137,7 +51101,6 @@
 0.0.0.0 www.buttononclick.com
 0.0.0.0 www.buyamonitor.com
 0.0.0.0 www.buycpctraffic.com
-0.0.0.0 www.buyhitscheap.com
 0.0.0.0 www.buyobab.com
 0.0.0.0 www.buysometraffic.com
 0.0.0.0 www.buytraffic.co
@@ -54393,7 +54356,6 @@
 0.0.0.0 www.pisk.com
 0.0.0.0 www.pissing-shitting.com
 0.0.0.0 www.pistolmedia.com
-0.0.0.0 www.pixelmedia.com.hk
 0.0.0.0 www.pixeltrack66.com
 0.0.0.0 www.pkracv.com
 0.0.0.0 www.planete-hit.com
@@ -55379,7 +55341,6 @@
 0.0.0.0 www.teenhit.com
 0.0.0.0 www.teenranking.com
 0.0.0.0 www.teens.sexrated.com
-0.0.0.0 www.teenstocktrader.com
 0.0.0.0 www.teentraffic.com
 0.0.0.0 www.tejasmedia.in
 0.0.0.0 www.telcomtrade.de
@@ -55613,7 +55574,6 @@
 0.0.0.0 www.tobias-wustrack.de
 0.0.0.0 www.todoomasters.com
 0.0.0.0 www.toiletspy.com
-0.0.0.0 www.tokiotrade.com
 0.0.0.0 www.toner38.info
 0.0.0.0 www.tonos.112.2o7.net
 0.0.0.0 www.toolbar3.trafficgeneration.biz
@@ -57262,8 +57222,8 @@
 
 # Hosts - airelle-trc
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/mirror/airelle-trc.txt
-# Generated - 30.08.2018
+# Generated - 07.09.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 57261
+# Total Domains: 57221
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

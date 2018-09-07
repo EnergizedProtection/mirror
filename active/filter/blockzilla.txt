@@ -17,7 +17,6 @@
 0.0.0.0 adcash.com
 0.0.0.0 addroplet.com
 0.0.0.0 adexchangeprediction.com
-0.0.0.0 adform.net
 0.0.0.0 adgebra.co.in
 0.0.0.0 adglare.net
 0.0.0.0 adgrx.com
@@ -127,7 +126,6 @@
 0.0.0.0 crwdcntrl.net
 0.0.0.0 ctnsnet.com
 0.0.0.0 cxense.com
-0.0.0.0 d1z2jf7jlzjs58.cloudfront.net
 0.0.0.0 d3ezl4ajpp2zy8.cloudfront.net
 0.0.0.0 d3tglifpd8whs6.cloudfront.net
 0.0.0.0 d8rk54i4mohrb.cloudfront.net
@@ -187,7 +185,6 @@
 0.0.0.0 googletagservices.com
 0.0.0.0 goroost.com
 0.0.0.0 grapeshot.co.uk
-0.0.0.0 gravity.com
 0.0.0.0 gscontxt.net
 0.0.0.0 gumgum.com
 0.0.0.0 gwallet.com
@@ -429,8 +426,8 @@
 
 # Hosts - blockzilla
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/blockzilla.txt
-# Generated - 30.08.2018
+# Generated - 07.09.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 428
+# Total Domains: 425
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

@@ -131,7 +131,6 @@
 0.0.0.0 bizsolutions.strands.com
 0.0.0.0 blip.bizrate.com
 0.0.0.0 bonsai.internetbrands.com
-0.0.0.0 bright.bncnt.com
 0.0.0.0 bs.yandex.ru
 0.0.0.0 btn.clickability.com
 0.0.0.0 btrace.video.qq.com
@@ -153,6 +152,7 @@
 0.0.0.0 cgicounter.puretec.de
 0.0.0.0 chanalytics.merchantadvantage.com
 0.0.0.0 chartaca.com.s3.amazonaws.com
+0.0.0.0 clarium.global.ssl.fastly.net
 0.0.0.0 click.appinthestore.com
 0.0.0.0 click.aristotle.net
 0.0.0.0 click.rssfwd.com
@@ -232,7 +232,6 @@
 0.0.0.0 d1ssbq1bwjg5ux.cloudfront.net
 0.0.0.0 d1uanozc5el74n.cloudfront.net
 0.0.0.0 d1xfq2052q7thw.cloudfront.net
-0.0.0.0 d1z2jf7jlzjs58.cloudfront.net
 0.0.0.0 d21o24qxwf7uku.cloudfront.net
 0.0.0.0 d22v2nmahyeg2a.cloudfront.net
 0.0.0.0 d23p9gffjvre9v.cloudfront.net
@@ -314,7 +313,6 @@
 0.0.0.0 et.grabnetworks.com
 0.0.0.0 event-listener.air.tv
 0.0.0.0 event.api.drift.com
-0.0.0.0 eventgateway.soundcloud.com
 0.0.0.0 eventlog.inspsearchapi.com
 0.0.0.0 events.air.tv
 0.0.0.0 events.antenna.is
@@ -339,7 +337,6 @@
 0.0.0.0 geo.kontagent.net
 0.0.0.0 geo.q5media.net
 0.0.0.0 geobar.ziffdavisinternational.com
-0.0.0.0 geoip.nekudo.com
 0.0.0.0 geoservice.curse.com
 0.0.0.0 glogger.inspcloud.com
 0.0.0.0 go.optifuze.com
@@ -436,7 +433,6 @@
 0.0.0.0 mlweb.dmlab.hu
 0.0.0.0 mmi.bemobile.ua
 0.0.0.0 mormont.gamer-network.net
-0.0.0.0 mp.pianomedia.eu
 0.0.0.0 mqs.ioam.de
 0.0.0.0 mts.mansion.com
 0.0.0.0 myscoop-tracking.googlecode.com
@@ -642,10 +638,10 @@
 0.0.0.0 tag.myplay.com
 0.0.0.0 tagger.opecloud.com
 0.0.0.0 tags.master-perf-tools.com
+0.0.0.0 target.mixi.media
 0.0.0.0 tc.airfrance.com
 0.0.0.0 te.supportfreecontent.com
 0.0.0.0 telemetry.reembed.com
-0.0.0.0 telemetry.soundcloud.com
 0.0.0.0 thetradedesk-tags.s3.amazonaws.com
 0.0.0.0 tl.tradetracker.net
 0.0.0.0 tm.tradetracker.net
@@ -675,6 +671,7 @@
 0.0.0.0 track.mailerlite.com
 0.0.0.0 track.mycliplister.com
 0.0.0.0 track.omg2.com
+0.0.0.0 track.prezna.com
 0.0.0.0 track.pricespider.com
 0.0.0.0 track.qcri.org
 0.0.0.0 track.qoof.com
@@ -804,8 +801,8 @@
 
 # Hosts - easyprivacy-thirdparty
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easyprivacy-thirdparty.txt
-# Generated - 30.08.2018
+# Generated - 07.09.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 803
+# Total Domains: 800
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

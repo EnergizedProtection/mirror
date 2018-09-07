@@ -2417,7 +2417,6 @@
 0.0.0.0 206.sub-75-207-194.myvzw.com
 0.0.0.0 206.sub-75-212-225.myvzw.com
 0.0.0.0 207-150-133-95.pool.ukrtel.net
-0.0.0.0 207-150-180-36.static.sagonet.net
 0.0.0.0 207-176-216-50.static-ip.ravand.ca
 0.0.0.0 207-226-174-10.pccwglobal.net
 0.0.0.0 207-226-174-107.pccwglobal.net
@@ -2651,7 +2650,6 @@
 0.0.0.0 213-239-212-42.clients.your-server.de
 0.0.0.0 213-241-5-188.mobileinternet.proximus.be
 0.0.0.0 213-33-10-217.adsl.highway.telekom.at
-0.0.0.0 213-65-186-239-no181.tbcn.telia.com
 0.0.0.0 213-67-40-70-no158.tbcn.telia.com
 0.0.0.0 213-74-133-95.pool.ukrtel.net
 0.0.0.0 213-92-184-157.serv-net.pl
@@ -4247,7 +4245,6 @@
 0.0.0.0 63-150-121-24.dia.static.qwest.net
 0.0.0.0 63-206-124-91.pool.ukrtel.net
 0.0.0.0 63-228-205-205.slkc.qwest.net
-0.0.0.0 63-246-133-174.static.sagonet.net
 0.0.0.0 63.sub-70-214-92.myvzw.com
 0.0.0.0 63.sub-70-221-12.myvzw.com
 0.0.0.0 63.sub-75-203-233.myvzw.com
@@ -4259,7 +4256,6 @@
 0.0.0.0 64-130-191-237.pool.dsl.scrtc.com
 0.0.0.0 64-132-156-50.static.twtelecom.net
 0.0.0.0 64-148-8-229.adsl.snet.net
-0.0.0.0 64-16-193-80.static.sagonet.net
 0.0.0.0 64-175-137-108.abps.org
 0.0.0.0 64-189-42-89-cable.canals.ro
 0.0.0.0 64-203-147-202.dmt.ntelos.net
@@ -4301,8 +4297,6 @@
 0.0.0.0 64.sub-75-197-244.myvzw.com
 0.0.0.0 647800.ds.nac.net
 0.0.0.0 65-101-17-156.phnx.qwest.net
-0.0.0.0 65-110-44-160.static.sagonet.net
-0.0.0.0 65-110-46-14.static.sagonet.net
 0.0.0.0 65-111-127-213.dyn.grandenetworks.net
 0.0.0.0 65-36-21-142.dyn.grandenetworks.net
 0.0.0.0 65-36-9-248.dyn.grandenetworks.net
@@ -15027,7 +15021,6 @@
 0.0.0.0 artemisfm.gr
 0.0.0.0 arteponte.org
 0.0.0.0 artezee.com
-0.0.0.0 arthritis.atspace.com
 0.0.0.0 arti.com.pe
 0.0.0.0 articledash.com
 0.0.0.0 artidownloadcomprogramarama.forumtoolbar.com
@@ -15102,7 +15095,6 @@
 0.0.0.0 asdfghjkl.hu.cz
 0.0.0.0 asdhackera.duckdns.org
 0.0.0.0 asearchservice.com
-0.0.0.0 asecureboard.com
 0.0.0.0 asecurityservice.com
 0.0.0.0 asembli.com
 0.0.0.0 asendorf.mycitytoolbar.com
@@ -16570,7 +16562,6 @@
 0.0.0.0 bestvirusremover2008.com
 0.0.0.0 bestwallpaperworld.com
 0.0.0.0 bestwarezblogs.blogspot.com
-0.0.0.0 bestwarezsites.com
 0.0.0.0 bestweblinks.com
 0.0.0.0 bestwifihacker.com
 0.0.0.0 bestwm.info
@@ -21985,7 +21976,6 @@
 0.0.0.0 click-now.net
 0.0.0.0 click-to-download.com
 0.0.0.0 click-tt.de
-0.0.0.0 click.absoluteagency.com
 0.0.0.0 click.adultsingles.com
 0.0.0.0 click.adv.livedoor.com
 0.0.0.0 click.dealshark.com
@@ -23752,7 +23742,6 @@
 0.0.0.0 cracksplanet.com
 0.0.0.0 crackstool.com
 0.0.0.0 crackstuffers.tumblr.com
-0.0.0.0 cracksurl.com
 0.0.0.0 crackswdownload.com
 0.0.0.0 cracksweb.com
 0.0.0.0 crackszilla.com
@@ -24760,15 +24749,8 @@
 0.0.0.0 daz42.neoplus.adsl.tpnet.pl
 0.0.0.0 dazhantai.com
 0.0.0.0 db.ms.kr
-0.0.0.0 db0.net-filter.com
 0.0.0.0 db01.test.millennialmedia.com
 0.0.0.0 db105.com
-0.0.0.0 db2.net-filter.com
-0.0.0.0 db3.net-filter.com
-0.0.0.0 db4.net-filter.com
-0.0.0.0 db5.net-filter.com
-0.0.0.0 db6.net-filter.com
-0.0.0.0 db7.net-filter.com
 0.0.0.0 dbb239.neoplus.adsl.tpnet.pl
 0.0.0.0 dbclix.com
 0.0.0.0 dbclkjapan.122.2o7.net
@@ -25636,7 +25618,6 @@
 0.0.0.0 dirtyseries.com
 0.0.0.0 dirtysickophreak.tumblr.com
 0.0.0.0 dirtystick.com
-0.0.0.0 dirtywarez.com
 0.0.0.0 dirtywarez.ourtoolbar.com
 0.0.0.0 disabilityuk.com
 0.0.0.0 disable-uac.com
@@ -29594,7 +29575,6 @@
 0.0.0.0 fetish-kingdom.net
 0.0.0.0 fetish-line.com
 0.0.0.0 fetishfitnessbabes.com
-0.0.0.0 fetishforest.com
 0.0.0.0 fetishmuscle.com
 0.0.0.0 fetishtour.com
 0.0.0.0 feuerstein.myzel.net
@@ -38368,7 +38348,6 @@
 0.0.0.0 li8bero.it
 0.0.0.0 li9bero.it
 0.0.0.0 liakopoulospellecom.myradiotoolbar.com
-0.0.0.0 liapentruromania.ro
 0.0.0.0 liarz.com
 0.0.0.0 liatrisguzellik.com
 0.0.0.0 lib.cy.co.kr
@@ -39031,7 +39010,6 @@
 0.0.0.0 luczko.pl
 0.0.0.0 ludmila-skripkina.de
 0.0.0.0 luesojz.angelcities.com
-0.0.0.0 luggage-tv.com
 0.0.0.0 luibero.it
 0.0.0.0 luible.net
 0.0.0.0 luke.beotel.net
@@ -40675,7 +40653,6 @@
 0.0.0.0 mindlytix.com
 0.0.0.0 mindmush.com
 0.0.0.0 mindsparkadvertising.com
-0.0.0.0 mindstormstudio.ro
 0.0.0.0 mindsurfer.mention.nl
 0.0.0.0 minecraftcheatshacks.com
 0.0.0.0 minecraftcrackeddownload.com
@@ -40738,7 +40715,6 @@
 0.0.0.0 mirror1.free-downloads.net
 0.0.0.0 mirrors.site50.net
 0.0.0.0 mirrorsearch.speedbit.com
-0.0.0.0 mirrorservice.org
 0.0.0.0 mirstroyki.com.ua
 0.0.0.0 mirtepliz.ru
 0.0.0.0 mirutoku.com
@@ -41961,7 +41937,6 @@
 0.0.0.0 nacirembalagens.com.br
 0.0.0.0 nacjalneg.info
 0.0.0.0 nactx.com
-0.0.0.0 nadaschools.com
 0.0.0.0 nadegda-95.ru
 0.0.0.0 nadiran.myblogtoolbar.com
 0.0.0.0 nadlanbagolan.com
@@ -45583,7 +45558,6 @@
 0.0.0.0 photohackday.appstores.com
 0.0.0.0 photoscape.ch
 0.0.0.0 photoshop.softwarecenterz.com
-0.0.0.0 phpfm.jcatpk.com
 0.0.0.0 phpviet.net
 0.0.0.0 phpwind.0592yt.com
 0.0.0.0 phukiengalaxy.com
@@ -46228,7 +46202,6 @@
 0.0.0.0 rudrakshhandicraft.in
 0.0.0.0 rue-de-champagne.com
 0.0.0.0 ruiyangcn.com
-0.0.0.0 rumblefighterhacks.com
 0.0.0.0 rumog.frost-electric-supply.com
 0.0.0.0 runetki.co
 0.0.0.0 runsearch.com
@@ -47480,7 +47453,6 @@
 0.0.0.0 track.businesstrenders.com
 0.0.0.0 track.clearsender.com
 0.0.0.0 track.cracked.com
-0.0.0.0 track.dotsly.com
 0.0.0.0 track.eg-innovations.net
 0.0.0.0 track.enviodemails.com
 0.0.0.0 track.freemmo2017.com
@@ -47640,7 +47612,6 @@
 0.0.0.0 tscl.com.bd
 0.0.0.0 tsira.net
 0.0.0.0 tspipp.tsu.tula.ru
-0.0.0.0 tt54rfdjhb34rfbnknaerg.milerteddy.com
 0.0.0.0 tu.connect.wunderloop.net
 0.0.0.0 tubberlo.com
 0.0.0.0 tubeadnetwork.com
@@ -47791,7 +47762,6 @@
 0.0.0.0 updates.advert-network.com
 0.0.0.0 updates.joomlastats.co.cc
 0.0.0.0 updates.spywarequake.com
-0.0.0.0 updatesantivirus.com
 0.0.0.0 upload.luckyorange.net
 0.0.0.0 uploads.tmweb.ru
 0.0.0.0 upspiral.com
@@ -48948,7 +48918,6 @@
 0.0.0.0 www.directxex.com
 0.0.0.0 www.dirtydirtylaundry.com
 0.0.0.0 www.dirtyshack.com
-0.0.0.0 www.dirtywarez.com
 0.0.0.0 www.disquesanciens.com
 0.0.0.0 www.divx.it
 0.0.0.0 www.djsrp.com
@@ -49423,7 +49392,6 @@
 0.0.0.0 www.imaginarium.home.ro
 0.0.0.0 www.imp3download.com
 0.0.0.0 www.inari.net
-0.0.0.0 www.inevo.co.il
 0.0.0.0 www.infinitewarez.com
 0.0.0.0 www.inform1ongung.info
 0.0.0.0 www.informaonline.org
@@ -50524,7 +50492,6 @@
 0.0.0.0 www.vpnaffiliates.com
 0.0.0.0 www.wannawatch.com
 0.0.0.0 www.warco.pl
-0.0.0.0 www.warez-bb.org
 0.0.0.0 www.warez-files.com
 0.0.0.0 www.warez-hacker-downloads.ws
 0.0.0.0 www.warez-host.com
@@ -50811,7 +50778,6 @@
 0.0.0.0 xyk.txshi.com
 0.0.0.0 xyzlimited.com
 0.0.0.0 xzwomen.com
-0.0.0.0 y4bxj.adozeuds.com
 0.0.0.0 yakugyoufukushikyousaikai.com
 0.0.0.0 yasuragi-group.com
 0.0.0.0 yawtix.com
@@ -50995,8 +50961,8 @@
 
 # Hosts - airelle-rsk
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/mirror/airelle-rsk.txt
-# Generated - 30.08.2018
+# Generated - 07.09.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 50994
+# Total Domains: 50960
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

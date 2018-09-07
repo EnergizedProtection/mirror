@@ -135,6 +135,7 @@
 0.0.0.0 cpbld.co
 0.0.0.0 crack2games.com
 0.0.0.0 credentialmanager.review
+0.0.0.0 creditscheat.com
 0.0.0.0 critical-failure-alert0079.48mn19047307.kw15pdy8xzt4es2man.bid
 0.0.0.0 criticaldefaulterrorx02158.com
 0.0.0.0 crsafepay.com
@@ -182,6 +183,7 @@
 0.0.0.0 dev-webs-store-free.site
 0.0.0.0 dgbest.win
 0.0.0.0 diko.gdn
+0.0.0.0 discountbape.com
 0.0.0.0 dlflash.net
 0.0.0.0 domoshow.top
 0.0.0.0 downfilejd.com
@@ -217,6 +219,7 @@
 0.0.0.0 elon-musk.me
 0.0.0.0 elon-surprise.blogspot.com
 0.0.0.0 elonmusk-official-giveaway.tumblr.com
+0.0.0.0 elonmusk.team
 0.0.0.0 elvenar.com
 0.0.0.0 epiccodes.com
 0.0.0.0 epicgamesfortnite.com
@@ -559,6 +562,7 @@
 0.0.0.0 musk-prize.blogspot.com
 0.0.0.0 musk-share.info
 0.0.0.0 musk-shares.blogspot.com
+0.0.0.0 musk-surprise.info
 0.0.0.0 muvideo.us
 0.0.0.0 my-pc-cleaner.org
 0.0.0.0 myetherget.info
@@ -801,6 +805,7 @@
 0.0.0.0 televisionfanatic.com
 0.0.0.0 ten-our-prize99.loan
 0.0.0.0 teqfly.com
+0.0.0.0 tesla-giveaways.org
 0.0.0.0 tf2cash.com
 0.0.0.0 tf2crown.com
 0.0.0.0 tf2fact.com
@@ -929,8 +934,8 @@
 
 # Hosts - hexxium-creations-threat-list
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/hexxium-creations-threat-list.txt
-# Generated - 30.08.2018
+# Generated - 07.09.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 928
+# Total Domains: 933
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

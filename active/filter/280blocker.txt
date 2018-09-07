@@ -50,7 +50,6 @@
 0.0.0.0 ad.api.fello.net
 0.0.0.0 ad.atdmt.com
 0.0.0.0 ad.auditude.com
-0.0.0.0 ad.axyzconductor.jp
 0.0.0.0 ad.brainer.jp
 0.0.0.0 ad.cq-andc.jp
 0.0.0.0 ad.dlbooks.to
@@ -75,6 +74,7 @@
 0.0.0.0 ad.somewrite.jp
 0.0.0.0 ad.sp.mbga.jp
 0.0.0.0 ad.tokyo-tube-ad.com
+0.0.0.0 ad.unispire.jp
 0.0.0.0 ad.val.jp
 0.0.0.0 ad.valuecommerce.com
 0.0.0.0 ad.webdice.jp
@@ -178,6 +178,7 @@
 0.0.0.0 advisionwebp.yicha.jp
 0.0.0.0 advnet.xyz
 0.0.0.0 advpic.yicha.jp
+0.0.0.0 advtrack.yicha.jp
 0.0.0.0 adw.addlv.smt.docomo.ne.jp
 0.0.0.0 adxpansion.com
 0.0.0.0 adxxx.org
@@ -287,6 +288,7 @@
 0.0.0.0 bypass.jp
 0.0.0.0 c1exchange.com
 0.0.0.0 ca-conv.jp
+0.0.0.0 candy-network.com
 0.0.0.0 caprofitx.adtop.com
 0.0.0.0 caprofitx.com
 0.0.0.0 cdn-guile.akamaized.net
@@ -348,7 +350,9 @@
 0.0.0.0 d28nwox1gdjlve.cloudfront.net
 0.0.0.0 d2c.ne.jp
 0.0.0.0 deliver.ads2.iid.jp
+0.0.0.0 delivery.adrecover.com
 0.0.0.0 delivery.locari.jp
+0.0.0.0 delivery.satr.jp
 0.0.0.0 deloton.com
 0.0.0.0 deqwas-dsp.net
 0.0.0.0 deqwas.net
@@ -417,7 +421,6 @@
 0.0.0.0 go.onclasrv.com
 0.0.0.0 goodlifess.jp
 0.0.0.0 googleadapis.l.google.com
-0.0.0.0 gravity.com
 0.0.0.0 gsspat.jp
 0.0.0.0 gsspcln.jp
 0.0.0.0 gssprt.jp
@@ -451,9 +454,11 @@
 0.0.0.0 im.seesaa.ov.yahoo.co.jp
 0.0.0.0 image-rentracks.com
 0.0.0.0 image.d-064.com
+0.0.0.0 img-space.net
 0.0.0.0 img.bbchat.tv
 0.0.0.0 img.mobee2.jp
 0.0.0.0 imgcdn01.formulas.jp
+0.0.0.0 imp.asahi.com
 0.0.0.0 imrworldwide.com
 0.0.0.0 in.treasuredata.com
 0.0.0.0 ingameads.gameloft.com
@@ -482,6 +487,7 @@
 0.0.0.0 js.isboost.co.jp
 0.0.0.0 js.mediams.mb.softbank.jp
 0.0.0.0 js.monetize-ssp.com
+0.0.0.0 js.mulan.cloud
 0.0.0.0 js.next-channel.com
 0.0.0.0 js.passaro-de-fogo.biz
 0.0.0.0 js.wizeraz.net
@@ -499,6 +505,7 @@
 0.0.0.0 krxd.net
 0.0.0.0 ktai.pw
 0.0.0.0 ladsp.com
+0.0.0.0 lamp-shade.net
 0.0.0.0 lead-ad.jp
 0.0.0.0 leadin.com
 0.0.0.0 leaffi.jp
@@ -508,6 +515,7 @@
 0.0.0.0 livead.jp
 0.0.0.0 liveads.jp
 0.0.0.0 livelog.biz
+0.0.0.0 liverail.com
 0.0.0.0 lmodr.biz
 0.0.0.0 loading-delivery2.com
 0.0.0.0 loadmill.com
@@ -565,6 +573,8 @@
 0.0.0.0 mtburn.com
 0.0.0.0 mttag.com
 0.0.0.0 mucu.jp
+0.0.0.0 mulan.cloud
+0.0.0.0 multiquicks.net
 0.0.0.0 mxvp-ad-config-prod-1.zenmxapps.com
 0.0.0.0 mxvp-feature-toggle-prod-1.zenmxapps.com
 0.0.0.0 my-softbank-jp.com
@@ -616,6 +626,7 @@
 0.0.0.0 polymorphicads.jp
 0.0.0.0 popads.net
 0.0.0.0 popcash.com
+0.0.0.0 popcash.net
 0.0.0.0 porno-tv.com
 0.0.0.0 potedly.co
 0.0.0.0 poweredbyliquidfire.mobi
@@ -830,6 +841,7 @@
 0.0.0.0 webtrackerplus.com
 0.0.0.0 webtrendslive.com
 0.0.0.0 widget.iid-networkf.jp
+0.0.0.0 wisteria-js.excite.co.jp
 0.0.0.0 ww6z7lrg3a.top
 0.0.0.0 www.agkn.com
 0.0.0.0 www.rakuten-contect-japan-servicc.com
@@ -839,9 +851,11 @@
 0.0.0.0 x3.shinobi.jp
 0.0.0.0 x8.sarashi.com
 0.0.0.0 x9.shinobi.jp
+0.0.0.0 xa.shinobi.jp
 0.0.0.0 xbasfbno.info
 0.0.0.0 xlisting.jp
 0.0.0.0 xlivedoor.com
+0.0.0.0 xn--zuzy24d.co
 0.0.0.0 xseed-digital.jp
 0.0.0.0 xxlargepop.com
 0.0.0.0 yads.yahoo.co.jp
@@ -852,12 +866,11 @@
 0.0.0.0 zenback.jp
 0.0.0.0 ziyu.net
 0.0.0.0 zucks.net
-0.0.0.0 ﻿
 
 # Hosts - 280blocker
 # Source - https://280blocker.net/files/280blocker_host.txt
-# Generated - 30.08.2018
+# Generated - 07.09.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 855
+# Total Domains: 868
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

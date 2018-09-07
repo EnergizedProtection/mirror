@@ -555,7 +555,6 @@
 0.0.0.0 3axis.com
 0.0.0.0 3by3.com
 0.0.0.0 3cube.net
-0.0.0.0 3d-arena.de
 0.0.0.0 3d-ultrasound.com
 0.0.0.0 3danimated.com
 0.0.0.0 3dcampus.com
@@ -2504,7 +2503,6 @@
 0.0.0.0 ad.bwise.ch
 0.0.0.0 ad.ca.doubleclick.be
 0.0.0.0 ad.cacafly.com
-0.0.0.0 ad.candybar.co.kr
 0.0.0.0 ad.caradisiac-publicite.com
 0.0.0.0 ad.cbinews.com
 0.0.0.0 ad.cctv.com
@@ -14112,7 +14110,6 @@
 0.0.0.0 ad.es.doubleclick.net
 0.0.0.0 ad.ettoday.net
 0.0.0.0 ad.exagame.net
-0.0.0.0 ad.extrabanner.com
 0.0.0.0 ad.ezcybersearch.com
 0.0.0.0 ad.ezlive.com.tw
 0.0.0.0 ad.f1.com.tw
@@ -14533,7 +14530,6 @@
 0.0.0.0 ad1.kde.cz
 0.0.0.0 ad1.maxmovie.com
 0.0.0.0 ad1.neodatagroup.com
-0.0.0.0 ad1.nownews.com
 0.0.0.0 ad1.pamedia.com.au
 0.0.0.0 ad1.paycount.com
 0.0.0.0 ad1.peel.comwww.xbn.ru
@@ -17010,7 +17006,6 @@
 0.0.0.0 ads.cantonrep.com
 0.0.0.0 ads.captifymedia.com
 0.0.0.0 ads.careerboard.com
-0.0.0.0 ads.carltononline.com
 0.0.0.0 ads.cars.com
 0.0.0.0 ads.cashsurfers.com
 0.0.0.0 ads.casino770.com
@@ -17520,7 +17515,6 @@
 0.0.0.0 ads.imaging-resource.com
 0.0.0.0 ads.imailo.nl
 0.0.0.0 ads.imarketservices.com
-0.0.0.0 ads.imdb.org
 0.0.0.0 ads.img.co.za
 0.0.0.0 ads.img.globo.com
 0.0.0.0 ads.imguol.com
@@ -17869,7 +17863,6 @@
 0.0.0.0 ads.o2.pl
 0.0.0.0 ads.oddschecker.com
 0.0.0.0 ads.oddsen.nu
-0.0.0.0 ads.odigo.com
 0.0.0.0 ads.odsol.com
 0.0.0.0 ads.off.net.mk
 0.0.0.0 ads.offeroptimizer.com
@@ -20181,7 +20174,6 @@
 0.0.0.0 adverts.4tube.com
 0.0.0.0 adverts.adam4adam.com
 0.0.0.0 adverts.archant.co.uk
-0.0.0.0 adverts.carltononline.com
 0.0.0.0 adverts.eclypsia.com
 0.0.0.0 adverts.freeloader.com
 0.0.0.0 adverts.ie
@@ -22319,7 +22311,6 @@
 0.0.0.0 animedigitalnetwork.fr
 0.0.0.0 animefinder.com
 0.0.0.0 animegame.informe.com
-0.0.0.0 animeheaven.eu
 0.0.0.0 animeimports.com
 0.0.0.0 animeman.com
 0.0.0.0 animemodel.com
@@ -25494,7 +25485,6 @@
 0.0.0.0 banners.hornywife.com
 0.0.0.0 banners.hostsul.com.br
 0.0.0.0 banners.hotforex.com
-0.0.0.0 banners.hotlinks.net
 0.0.0.0 banners.hotmatch.com
 0.0.0.0 banners.icams.com
 0.0.0.0 banners.idg.com.br
@@ -27105,7 +27095,6 @@
 0.0.0.0 bigthink.com
 0.0.0.0 bigtitlinks.net
 0.0.0.0 bigtitsandclits.com
-0.0.0.0 bigtitsponsors.com
 0.0.0.0 bigtitspub.com
 0.0.0.0 bigtittylinks.com
 0.0.0.0 bigtreat.com
@@ -31623,7 +31612,6 @@
 0.0.0.0 click-to-celebs.com
 0.0.0.0 click-to-download.com
 0.0.0.0 click-tt.de
-0.0.0.0 click.absoluteagency.com
 0.0.0.0 click.ad.nu-face.jp
 0.0.0.0 click.adcenter.infolinks.com
 0.0.0.0 click.adimmix.com
@@ -34047,24 +34035,9 @@
 0.0.0.0 dayzmoviea.chatango.com
 0.0.0.0 daz.com
 0.0.0.0 dazereader.com
-0.0.0.0 db0.net-filter.com
-0.0.0.0 db0.sitestats.com
 0.0.0.0 db1.an.qa.fastclick.net
-0.0.0.0 db1.sitestats.com
-0.0.0.0 db2.net-filter.com
-0.0.0.0 db2.sitestats.com
-0.0.0.0 db3.net-filter.com
-0.0.0.0 db3.sitestats.com
 0.0.0.0 db3aqu.atdmt.com
-0.0.0.0 db4.net-filter.com
-0.0.0.0 db4.sitestats.com
-0.0.0.0 db5.net-filter.com
-0.0.0.0 db5.sitestats.com
 0.0.0.0 db52cc91beabf7e8.com
-0.0.0.0 db6.net-filter.com
-0.0.0.0 db6.sitestats.com
-0.0.0.0 db7.net-filter.com
-0.0.0.0 db7.sitestats.com
 0.0.0.0 db8.net-filter.com
 0.0.0.0 db8a41d81b8dfe41de2.com
 0.0.0.0 dbadk.nuggad.net
@@ -34254,7 +34227,6 @@
 0.0.0.0 deltamusik.com
 0.0.0.0 deltasone1g.wackwall.com
 0.0.0.0 deluxelinks.com
-0.0.0.0 demandbase.com
 0.0.0.0 demangler.ea.com
 0.0.0.0 demerit.p2a.pl
 0.0.0.0 demf.org
@@ -35189,7 +35161,6 @@
 0.0.0.0 driesdkc.proboards.com
 0.0.0.0 driftmmo.proboards.com
 0.0.0.0 driftspartner.com
-0.0.0.0 drive.videoclick.ru
 0.0.0.0 drivepm.com
 0.0.0.0 driverdictionary.blogspot.com
 0.0.0.0 driverguide.us.intellitxt.com
@@ -39748,7 +39719,6 @@
 0.0.0.0 flst.com
 0.0.0.0 fluendo.com
 0.0.0.0 fluffymoose.com
-0.0.0.0 fluidads.co
 0.0.0.0 flukeindustrialamericas.122.2o7.net
 0.0.0.0 flukeindustrialamericasprod.122.2o7.net
 0.0.0.0 flukeindustrialasiaprod.122.2o7.net
@@ -41891,7 +41861,6 @@
 0.0.0.0 graffica.info
 0.0.0.0 grafix.com
 0.0.0.0 grafixpublicidad.com
-0.0.0.0 grafstat.ro
 0.0.0.0 gramabam.narod.ru
 0.0.0.0 granada-images.adbureau.net
 0.0.0.0 grand-ads.com
@@ -43648,7 +43617,6 @@
 0.0.0.0 img.store.sogou.com
 0.0.0.0 img.szm.sk
 0.0.0.0 img.techweb.com
-0.0.0.0 img.tfd.com
 0.0.0.0 img.tradedoubler.com
 0.0.0.0 img.tradepub.com
 0.0.0.0 img.users.51.la
@@ -46096,17 +46064,7 @@
 0.0.0.0 link.aa.com
 0.0.0.0 link.ac
 0.0.0.0 link.altova.com
-0.0.0.0 link.alviboard.com
-0.0.0.0 link.alvicut.com
-0.0.0.0 link.alvifly.com
 0.0.0.0 link.alvilink.com
-0.0.0.0 link.alvilite.com
-0.0.0.0 link.alvinewss.com
-0.0.0.0 link.alviopen.com
-0.0.0.0 link.alvisoftt.com
-0.0.0.0 link.ananboard.com
-0.0.0.0 link.ananroot.com
-0.0.0.0 link.anansky.com
 0.0.0.0 link.applesoftupdate.com
 0.0.0.0 link.aps.org
 0.0.0.0 link.argentinatriplex.com
@@ -62522,7 +62480,6 @@
 0.0.0.0 www.10minutelegalforms.com
 0.0.0.0 www.111814.com
 0.0.0.0 www.111mmm.com
-0.0.0.0 www.1133.cc
 0.0.0.0 www.114lm.com
 0.0.0.0 www.114rm.com
 0.0.0.0 www.118-annuaires.com
@@ -64535,7 +64492,6 @@
 0.0.0.0 www.buycigarettesnow.com
 0.0.0.0 www.buyerscams.com
 0.0.0.0 www.buyfemaleviagra.net
-0.0.0.0 www.buyhitscheap.com
 0.0.0.0 www.buying-cigarettes.0catch.com
 0.0.0.0 www.buyobab.com
 0.0.0.0 www.buypbl-paintball.com
@@ -65485,7 +65441,6 @@
 0.0.0.0 www.darwinfoundation.org
 0.0.0.0 www.das-autokino.de
 0.0.0.0 www.data-ero-advertising.com
-0.0.0.0 www.data-eroadvertising.com
 0.0.0.0 www.dataforce.net
 0.0.0.0 www.datais.com
 0.0.0.0 www.datais.net
@@ -65565,7 +65520,6 @@
 0.0.0.0 www.desibaba.ws
 0.0.0.0 www.desiderenzia.net
 0.0.0.0 www.design-paradis.com
-0.0.0.0 www.designbloxlive.com
 0.0.0.0 www.designcommunity.com
 0.0.0.0 www.designfirms.org
 0.0.0.0 www.designpax.com
@@ -65621,7 +65575,6 @@
 0.0.0.0 www.digitaldivide.net
 0.0.0.0 www.digitalnames.net
 0.0.0.0 www.digitizingtalk.com
-0.0.0.0 www.diigo.com
 0.0.0.0 www.dildos-porn-links.com
 0.0.0.0 www.dimeclicks.com
 0.0.0.0 www.dimsumdiaries.com
@@ -71653,7 +71606,6 @@
 0.0.0.0 www.thexfitness.com
 0.0.0.0 www.thick-click.com
 0.0.0.0 www.thinkmobile.it
-0.0.0.0 www.thinktarget.com
 0.0.0.0 www.thinktechno.com
 0.0.0.0 www.thirdsphere.com
 0.0.0.0 www.thisera.com
@@ -73841,8 +73793,8 @@
 
 # Hosts - airelle-pub
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/mirror/airelle-pub.txt
-# Generated - 30.08.2018
+# Generated - 07.09.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 73840
+# Total Domains: 73792
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

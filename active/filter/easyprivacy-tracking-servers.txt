@@ -101,8 +101,8 @@
 0.0.0.0 addfreestats.com
 0.0.0.0 addlvr.com
 0.0.0.0 adelixir.com
-0.0.0.0 adform.net
 0.0.0.0 adfox.ru
+0.0.0.0 adgjl13.com
 0.0.0.0 adgreed.com
 0.0.0.0 adhslx.com
 0.0.0.0 adinsight.co.kr
@@ -658,7 +658,6 @@
 0.0.0.0 deepc.cc
 0.0.0.0 dejavu.mlapps.com
 0.0.0.0 delegatediscussion.com
-0.0.0.0 demandbase.com
 0.0.0.0 demdex.net
 0.0.0.0 deqwas.net
 0.0.0.0 detectdiscovery.com
@@ -1060,7 +1059,6 @@
 0.0.0.0 hodling.faith
 0.0.0.0 hopurl.org
 0.0.0.0 host-tracker.com
-0.0.0.0 host.d-ns.ga
 0.0.0.0 hostingcloud.faith
 0.0.0.0 hostip.info
 0.0.0.0 hotdogsandads.com
@@ -1224,7 +1222,6 @@
 0.0.0.0 kieden.com
 0.0.0.0 killerwebstats.com
 0.0.0.0 kinoprofi.org
-0.0.0.0 kippbeak.cf
 0.0.0.0 kissmetrics.com
 0.0.0.0 kisstesting.com
 0.0.0.0 kitbit.net
@@ -1826,6 +1823,7 @@
 0.0.0.0 responsetap.com
 0.0.0.0 retadint.com
 0.0.0.0 retargetly.com
+0.0.0.0 retargettracker.com
 0.0.0.0 retentionscience.com
 0.0.0.0 reussissonsensemble.fr
 0.0.0.0 revdn.net
@@ -1988,7 +1986,6 @@
 0.0.0.0 sitetagger.co.uk
 0.0.0.0 sitetracker.com
 0.0.0.0 sitetraq.nl
-0.0.0.0 siteverification.site
 0.0.0.0 skencituer.com
 0.0.0.0 skimresources.com
 0.0.0.0 skyglue.com
@@ -2344,7 +2341,6 @@
 0.0.0.0 v12group.com
 0.0.0.0 v3cdn.net
 0.0.0.0 valaffiliates.com
-0.0.0.0 valuedopinions.co.uk
 0.0.0.0 vantage-media.net
 0.0.0.0 vbanalytics.com
 0.0.0.0 vcfs6ip5h6.bid
@@ -2564,8 +2560,8 @@
 
 # Hosts - easyprivacy-tracking-servers
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easyprivacy-tracking-servers.txt
-# Generated - 30.08.2018
+# Generated - 07.09.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 2563
+# Total Domains: 2559
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

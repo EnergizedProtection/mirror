@@ -106,7 +106,6 @@
 0.0.0.0 ads.mopub.com
 0.0.0.0 ads.pdbarea.com
 0.0.0.0 ads.pinger.com
-0.0.0.0 ads.reward.rakuten.jp
 0.0.0.0 ads.tremorhub.com
 0.0.0.0 ads.xlxtra.com
 0.0.0.0 ads.yahoo.com
@@ -791,8 +790,8 @@
 
 # Hosts - adguard-mobile-ads
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-mobile-ads.txt
-# Generated - 30.08.2018
+# Generated - 07.09.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 790
+# Total Domains: 789
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

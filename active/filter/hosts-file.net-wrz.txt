@@ -152,7 +152,6 @@
 0.0.0.0 cracksoftwarez.com
 0.0.0.0 cracksone.com
 0.0.0.0 crackspider.net
-0.0.0.0 cracksurl.com
 0.0.0.0 crackvilla.com
 0.0.0.0 crackway.com
 0.0.0.0 crackzplanet.com
@@ -289,7 +288,6 @@
 0.0.0.0 free-game-downloads.freewishes.com
 0.0.0.0 free-movie-s.com
 0.0.0.0 free-movies-downloads.com
-0.0.0.0 free.appnee.com
 0.0.0.0 free.getlink.vn
 0.0.0.0 freeappstorepc.com
 0.0.0.0 freecrackpatch.com
@@ -347,7 +345,6 @@
 0.0.0.0 getintopc.com
 0.0.0.0 getlink.vn
 0.0.0.0 gigabitwarez.com
-0.0.0.0 gigapurbalingga.net
 0.0.0.0 go2load.com
 0.0.0.0 gold-films.ru
 0.0.0.0 goldpravda.net
@@ -1193,7 +1190,6 @@
 0.0.0.0 www.cracksnow.com
 0.0.0.0 www.cracksoftwarez.com
 0.0.0.0 www.cracksone.com
-0.0.0.0 www.cracksurl.com
 0.0.0.0 www.cracktower.com
 0.0.0.0 www.crackvilla.com
 0.0.0.0 www.crackway.com
@@ -1371,7 +1367,6 @@
 0.0.0.0 www.getlink.vn
 0.0.0.0 www.getporno.org
 0.0.0.0 www.gigabitwarez.com
-0.0.0.0 www.gigapurbalingga.net
 0.0.0.0 www.go2load.com
 0.0.0.0 www.gold-films.ru
 0.0.0.0 www.goldpravda.net
@@ -1870,7 +1865,6 @@
 0.0.0.0 www.wantdownloads.net
 0.0.0.0 www.wapfun.us
 0.0.0.0 www.waplog.net
-0.0.0.0 www.warez-bb.org
 0.0.0.0 www.warez-start.com
 0.0.0.0 www.warez-vislovo.ru
 0.0.0.0 www.warez.loxblog.com
@@ -2015,8 +2009,8 @@
 
 # Hosts - hosts-file.net-wrz
 # Source - https://hosts-file.net/wrz.txt
-# Generated - 30.08.2018
+# Generated - 07.09.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 2014
+# Total Domains: 2008
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

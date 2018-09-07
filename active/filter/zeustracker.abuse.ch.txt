@@ -19,7 +19,6 @@
 0.0.0.0 dereksing.top
 0.0.0.0 dileconme.hotmail.ru
 0.0.0.0 dlauten.bplaced.net
-0.0.0.0 domnicpeter.in.net
 0.0.0.0 dzitech.net
 0.0.0.0 ebesee.com
 0.0.0.0 felceconserve.com
@@ -100,8 +99,8 @@
 
 # Hosts - zeustracker.abuse.ch
 # Source - https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Generated - 30.08.2018
+# Generated - 07.09.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 99
+# Total Domains: 98
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

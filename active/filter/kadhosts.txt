@@ -23,7 +23,6 @@
 0.0.0.0 accessonline.biz
 0.0.0.0 ace.jamba.pl
 0.0.0.0 ace.jamster.pl
-0.0.0.0 adeforsa.pl
 0.0.0.0 adidaspureboost.pl
 0.0.0.0 adpro.futurenet.club
 0.0.0.0 adrianzajewicz.blogspot.com
@@ -114,7 +113,6 @@
 0.0.0.0 boobi.biz
 0.0.0.0 bootstraplugin.com
 0.0.0.0 botifiles.com
-0.0.0.0 botoks-online.pl
 0.0.0.0 bramka-sms-za-darmo.pl
 0.0.0.0 browser-tools.systems
 0.0.0.0 bustcream-pro.com
@@ -240,7 +238,6 @@
 0.0.0.0 downfiles.pl
 0.0.0.0 download-24.pl
 0.0.0.0 download-24.tk
-0.0.0.0 downloaded.adeforsa.pl
 0.0.0.0 downloadfile.eu
 0.0.0.0 downloadfiles.pl
 0.0.0.0 downloads-mobile.com
@@ -348,7 +345,6 @@
 0.0.0.0 filionline.pl
 0.0.0.0 film-base.pl
 0.0.0.0 filmhd.ek1.pl
-0.0.0.0 filmline.pl
 0.0.0.0 filmobox.pl
 0.0.0.0 filmonline.info.pl
 0.0.0.0 filmoo-maniacy.blogspot.com
@@ -779,7 +775,6 @@
 0.0.0.0 pobeiranie.pl
 0.0.0.0 pobieralnia.com.pl
 0.0.0.0 pobierane.pl
-0.0.0.0 pobierz-ebooki.pl
 0.0.0.0 pobierz.biz
 0.0.0.0 pobierz123.pl
 0.0.0.0 pobierzgo.pl
@@ -884,7 +879,6 @@
 0.0.0.0 ruletkasystem.eu
 0.0.0.0 rzeczyzadarmo.pl
 0.0.0.0 sales-express.eu
-0.0.0.0 samnumer.pl
 0.0.0.0 samsung-win-1k.com
 0.0.0.0 samsung-win-2k.com
 0.0.0.0 samsung-win-3k.com
@@ -1055,7 +1049,6 @@
 0.0.0.0 vanssk8hi.pl
 0.0.0.0 vcxz.pl
 0.0.0.0 verifycaptcha.com
-0.0.0.0 veristo.pl
 0.0.0.0 vfastdownload.com
 0.0.0.0 videoinbox.net
 0.0.0.0 videon.com.pl
@@ -1238,7 +1231,6 @@
 0.0.0.0 zmienienie-koloru.blogspot.com
 0.0.0.0 zmienkolorfejsazafree.blogspot.com
 0.0.0.0 zmienkolory.blogspot.com
-0.0.0.0 zmotoryzowani-24.pl
 0.0.0.0 zmotoryzowani24.pl
 0.0.0.0 znajdz-numer.pl
 0.0.0.0 zobacz24.pl
@@ -1250,8 +1242,8 @@
 
 # Hosts - kadhosts
 # Source - https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt
-# Generated - 30.08.2018
+# Generated - 07.09.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 1249
+# Total Domains: 1241
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

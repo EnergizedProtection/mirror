@@ -157,10 +157,10 @@
 0.0.0.0 addfreestats.com
 0.0.0.0 addlvr.com
 0.0.0.0 adelixir.com
-0.0.0.0 adform.net
 0.0.0.0 adfox.ru
 0.0.0.0 adfox.yandex.ru
 0.0.0.0 adgeo.163.com
+0.0.0.0 adgjl13.com
 0.0.0.0 adgreed.com
 0.0.0.0 adhslx.com
 0.0.0.0 adinsight.co.kr
@@ -764,7 +764,6 @@
 0.0.0.0 bravo.israelweather.co.il
 0.0.0.0 brcdn.com
 0.0.0.0 bridgevine.com
-0.0.0.0 bright.bncnt.com
 0.0.0.0 brightedge.com
 0.0.0.0 brilig.com
 0.0.0.0 broaddoor.com
@@ -916,6 +915,7 @@
 0.0.0.0 citypaketet.se
 0.0.0.0 cityua.net
 0.0.0.0 claritytag.com
+0.0.0.0 clarium.global.ssl.fastly.net
 0.0.0.0 clc.stackoverflow.com
 0.0.0.0 clck.yandex.com
 0.0.0.0 cleananalytics.com
@@ -1333,7 +1333,6 @@
 0.0.0.0 d1ssbq1bwjg5ux.cloudfront.net
 0.0.0.0 d1uanozc5el74n.cloudfront.net
 0.0.0.0 d1xfq2052q7thw.cloudfront.net
-0.0.0.0 d1z2jf7jlzjs58.cloudfront.net
 0.0.0.0 d21o24qxwf7uku.cloudfront.net
 0.0.0.0 d22v2nmahyeg2a.cloudfront.net
 0.0.0.0 d23p9gffjvre9v.cloudfront.net
@@ -1426,7 +1425,6 @@
 0.0.0.0 delegatediscussion.com
 0.0.0.0 delidatax.net
 0.0.0.0 deliv.lexpress.fr
-0.0.0.0 demandbase.com
 0.0.0.0 demandmedia.s3.amazonaws.com
 0.0.0.0 demdex.net
 0.0.0.0 denakop.com
@@ -1453,7 +1451,6 @@
 0.0.0.0 die-rankliste.com
 0.0.0.0 dig.ultimedia.com
 0.0.0.0 digdeepdigital.com.au
-0.0.0.0 digidip.net
 0.0.0.0 digital-metric.com
 0.0.0.0 digitaloptout.com
 0.0.0.0 digitaltarget.ru
@@ -1698,10 +1695,8 @@
 0.0.0.0 event.dkb.de
 0.0.0.0 eventbeacon.ca
 0.0.0.0 eventcapture03.com
-0.0.0.0 eventgateway.soundcloud.com
 0.0.0.0 eventlog.inspsearchapi.com
 0.0.0.0 eventlog.jackpot.de
-0.0.0.0 eventlogger.soundcloud.com
 0.0.0.0 eventoptimize.com
 0.0.0.0 events.air.tv
 0.0.0.0 events.antenna.is
@@ -1937,6 +1932,7 @@
 0.0.0.0 geo.xcel.io
 0.0.0.0 geo.yahoo.com
 0.0.0.0 geobar.ziffdavisinternational.com
+0.0.0.0 geobeacon.ign.com
 0.0.0.0 geobytes.com
 0.0.0.0 geocompteur.com
 0.0.0.0 geocontatore.com
@@ -1949,7 +1945,6 @@
 0.0.0.0 geoip.lehighvalleylive.com
 0.0.0.0 geoip.masslive.com
 0.0.0.0 geoip.mlive.com
-0.0.0.0 geoip.nekudo.com
 0.0.0.0 geoip.nj.com
 0.0.0.0 geoip.nola.com
 0.0.0.0 geoip.oregonlive.com
@@ -2163,7 +2158,6 @@
 0.0.0.0 hop.clickbank.net
 0.0.0.0 hopurl.org
 0.0.0.0 host-tracker.com
-0.0.0.0 host.d-ns.ga
 0.0.0.0 hostingcloud.faith
 0.0.0.0 hostip.info
 0.0.0.0 hot-count.com
@@ -2334,7 +2328,6 @@
 0.0.0.0 iogous.com
 0.0.0.0 ip-api.com
 0.0.0.0 ip-label.net
-0.0.0.0 ip.breitbart.com
 0.0.0.0 ip.pichunter.com
 0.0.0.0 ip2location.com
 0.0.0.0 ip2map.com
@@ -2428,7 +2421,6 @@
 0.0.0.0 kiks.auto.ru
 0.0.0.0 killerwebstats.com
 0.0.0.0 kinoprofi.org
-0.0.0.0 kippbeak.cf
 0.0.0.0 kir.jp
 0.0.0.0 kissmetrics.com
 0.0.0.0 kisstesting.com
@@ -2863,7 +2855,6 @@
 0.0.0.0 mousetrace.com
 0.0.0.0 movable-ink-6710.com
 0.0.0.0 mowfruit.com
-0.0.0.0 mp.pianomedia.eu
 0.0.0.0 mparticle.com
 0.0.0.0 mplxtms.com
 0.0.0.0 mps-gba.de
@@ -3573,6 +3564,7 @@
 0.0.0.0 retargeting.biz
 0.0.0.0 retargeting.vistaprint.com
 0.0.0.0 retargetly.com
+0.0.0.0 retargettracker.com
 0.0.0.0 retentionscience.com
 0.0.0.0 retrack.q-divisioncdn.de
 0.0.0.0 reussissonsensemble.fr
@@ -3827,7 +3819,6 @@
 0.0.0.0 sitetistik.com
 0.0.0.0 sitetracker.com
 0.0.0.0 sitetraq.nl
-0.0.0.0 siteverification.site
 0.0.0.0 sk1n.fr
 0.0.0.0 sk8t.fr
 0.0.0.0 skencituer.com
@@ -4402,6 +4393,7 @@
 0.0.0.0 taps.io
 0.0.0.0 tapstream.com
 0.0.0.0 target.mirtesen.ru
+0.0.0.0 target.mixi.media
 0.0.0.0 target.smi2.net
 0.0.0.0 target.smi2.ru
 0.0.0.0 target.ukr.net
@@ -4427,7 +4419,6 @@
 0.0.0.0 tedioustooth.com
 0.0.0.0 telemetry.jivosite.com
 0.0.0.0 telemetry.reembed.com
-0.0.0.0 telemetry.soundcloud.com
 0.0.0.0 telemetry.tradingview.com
 0.0.0.0 telize.com
 0.0.0.0 teljari.is
@@ -4501,7 +4492,6 @@
 0.0.0.0 tokyodrift.ga
 0.0.0.0 tomonline-inc.com
 0.0.0.0 tongji.mafengwo.cn
-0.0.0.0 tools.ranker.com
 0.0.0.0 top-bloggers.com
 0.0.0.0 top-fwz1.mail.ru
 0.0.0.0 top-ro.ro
@@ -4588,6 +4578,7 @@
 0.0.0.0 track.netzero.net
 0.0.0.0 track.ning.com
 0.0.0.0 track.omg2.com
+0.0.0.0 track.prezna.com
 0.0.0.0 track.pricespider.com
 0.0.0.0 track.promptfile.com
 0.0.0.0 track.pushbullet.com
@@ -4971,7 +4962,6 @@
 0.0.0.0 v12group.com
 0.0.0.0 v3cdn.net
 0.0.0.0 valaffiliates.com
-0.0.0.0 valuedopinions.co.uk
 0.0.0.0 vamaker.com
 0.0.0.0 vantage-media.net
 0.0.0.0 variti.net
@@ -5342,8 +5332,8 @@
 
 # Hosts - easyprivacy
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easyprivacy.txt
-# Generated - 30.08.2018
+# Generated - 07.09.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 5341
+# Total Domains: 5331
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

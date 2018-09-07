@@ -68,7 +68,6 @@
 0.0.0.0 a.dounanhuahui.com
 0.0.0.0 a.epinv.com
 0.0.0.0 a.global.msads.net
-0.0.0.0 a.hl.mi.com
 0.0.0.0 a.holagames.com
 0.0.0.0 a.img.static.youmi.net
 0.0.0.0 a.m.shuhuangge.org
@@ -77,7 +76,6 @@
 0.0.0.0 a.tac.miaozhen.com
 0.0.0.0 a.tanx.com
 0.0.0.0 a.tribalfusion.com
-0.0.0.0 a.union.mi.com
 0.0.0.0 a.youdao.com
 0.0.0.0 a1.img.static.youmi.net
 0.0.0.0 a1.openxt.cn
@@ -377,7 +375,6 @@
 0.0.0.0 api.gi.igexin.com
 0.0.0.0 api.iapps.ifeng.com
 0.0.0.0 api.iimedia.cn
-0.0.0.0 api.jr.mi.com
 0.0.0.0 api.koudaikj.com
 0.0.0.0 api.map.baidu.com
 0.0.0.0 api.mobula.sdk.duapps.com
@@ -385,15 +382,12 @@
 0.0.0.0 api.newad.ifeng.com
 0.0.0.0 api.open.uc.cn
 0.0.0.0 api.primecaster.net
-0.0.0.0 api.ra2.xlmc.sec.miui.com
-0.0.0.0 api.sec.miui.com
 0.0.0.0 api.share.baidu.com
 0.0.0.0 api.shuaji.360.cn
 0.0.0.0 api.so.lianmeng.360.cn
 0.0.0.0 api.tongji.today
 0.0.0.0 api.tr.blismedia.com
 0.0.0.0 api.tuisong.baidu.com
-0.0.0.0 api.tw06.xlmc.sec.miui.com
 0.0.0.0 api.viglink.com
 0.0.0.0 api.w.inmobi.com
 0.0.0.0 api.waptest.taobao.com
@@ -469,6 +463,7 @@
 0.0.0.0 b1sync.zemanta.com
 0.0.0.0 badad.googleplex.com
 0.0.0.0 baichuan.baidu.com
+0.0.0.0 baidu.greenxf.cn
 0.0.0.0 bannedbook.org
 0.0.0.0 banner.alimama.com
 0.0.0.0 banner.cooguo.com
@@ -484,7 +479,9 @@
 0.0.0.0 bd-s.baixing.net
 0.0.0.0 bd.soarfi.cn
 0.0.0.0 bd1.dopa.com
+0.0.0.0 bd1.pipaw.com
 0.0.0.0 bd2.dopa.com
+0.0.0.0 bd2.pipaw.com
 0.0.0.0 bdapi.ads.oppomobile.com
 0.0.0.0 bdd.hainan.net
 0.0.0.0 bdfrm.bidvertiser.com
@@ -532,7 +529,6 @@
 0.0.0.0 bro.flyme.cn
 0.0.0.0 bs.l.qq.com
 0.0.0.0 bsiet.husky.sogou.com
-0.0.0.0 bss.pandora.xiaomi.com
 0.0.0.0 btlaunch.baidu.com
 0.0.0.0 bttrack.com
 0.0.0.0 bu1.duba.com
@@ -584,7 +580,6 @@
 0.0.0.0 caing.adsame.com
 0.0.0.0 caixin.adsame.com
 0.0.0.0 cal.meizu.com
-0.0.0.0 calopenupdate.comm.miui.com
 0.0.0.0 canvas.gdt.qq.com
 0.0.0.0 carbonads.net
 0.0.0.0 cas.criteo.com
@@ -871,7 +866,6 @@
 0.0.0.0 dd713.bj.bcebos.com
 0.0.0.0 ddkkrrla.m.qxs.la
 0.0.0.0 ddrrccck.m.qxs.la
-0.0.0.0 de.pandora.xiaomi.com
 0.0.0.0 delivery.dmkt-sp.jp
 0.0.0.0 demo.adsame.com
 0.0.0.0 dev.tg.wan.360.cn
@@ -934,7 +928,6 @@
 0.0.0.0 download.mackeeper.com
 0.0.0.0 download.sd.baidu.com
 0.0.0.0 download.sj.qq.com
-0.0.0.0 download.wooboo.com.cn
 0.0.0.0 download.zhushou.sogou.com
 0.0.0.0 dp.g.doubleclick.net
 0.0.0.0 dp.im.weibo.cn
@@ -955,7 +948,6 @@
 0.0.0.0 dt.adsafeprotected.com
 0.0.0.0 dualstack.adsame-1421766300.ap-southeast-1.elb.amazonaws.com
 0.0.0.0 dup.baidustatic.com
-0.0.0.0 dvb.pandora.xiaomi.com
 0.0.0.0 dvsend.china.com
 0.0.0.0 dvser.china.com
 0.0.0.0 dvser02.china.com
@@ -1024,7 +1016,6 @@
 0.0.0.0 et.w.inmobi.com
 0.0.0.0 etg.qq.com
 0.0.0.0 etl.xlmc.sandai.net
-0.0.0.0 etl.xlmc.sec.miui.com
 0.0.0.0 event.ksosoft.com
 0.0.0.0 event.mackeeper.com
 0.0.0.0 eventlog.beacon.qq.com
@@ -1174,7 +1165,6 @@
 0.0.0.0 hk-cdn.effectivemeasure.net
 0.0.0.0 hk.jtsh123.com
 0.0.0.0 hk.napi.ucweb.com
-0.0.0.0 hl2rcv.adobe.com
 0.0.0.0 hljdnserror1.wo.com.cn
 0.0.0.0 hljdnserror2.wo.com.cn
 0.0.0.0 hljdnserror3.wo.com.cn
@@ -1341,7 +1331,6 @@
 0.0.0.0 info.analysis.kp.sec.miui.com
 0.0.0.0 info.gomlab.com
 0.0.0.0 info.pinyin.sogou.com
-0.0.0.0 info.sec.miui.com
 0.0.0.0 info.yitsoftware.com
 0.0.0.0 infocenter.meizu.com
 0.0.0.0 ini.update.360safe.com
@@ -1372,7 +1361,6 @@
 0.0.0.0 jb.mnkan.com
 0.0.0.0 jct.maptu.cn
 0.0.0.0 jebe.xnimg.cn
-0.0.0.0 jellyfish.pandora.xiaomi.com
 0.0.0.0 jfdaily.adsame.com
 0.0.0.0 jiayi1.oss-cn-shanghai.aliyuncs.com
 0.0.0.0 jifen.2345.com
@@ -1521,7 +1509,6 @@
 0.0.0.0 m.bailingjiankang.com
 0.0.0.0 m.beacon.sina.com.cn
 0.0.0.0 m.breezily168.com
-0.0.0.0 m.bss.pandora.xiaomi.com
 0.0.0.0 m.clkservice.youdao.com
 0.0.0.0 m.ctsywy.com
 0.0.0.0 m.dante2007.com
@@ -1611,16 +1598,13 @@
 0.0.0.0 mediapro.pro.cn
 0.0.0.0 meihua.adsame.com
 0.0.0.0 meitubeauty.meitudata.com
-0.0.0.0 metok.sys.miui.com
 0.0.0.0 mfp.deliver.ifeng.com
 0.0.0.0 mg.games.sina.com.cn
 0.0.0.0 mgr.aduu.cn
 0.0.0.0 mhradio.org
 0.0.0.0 mi.gdt.qq.com
 0.0.0.0 miaozhen.com
-0.0.0.0 migc.g.mi.com
 0.0.0.0 migcreport.g.mi.com
-0.0.0.0 migrate.driveapi.micloud.xiaomi.net
 0.0.0.0 minfo.wps.cn
 0.0.0.0 minghui.com
 0.0.0.0 minghui.org
@@ -1629,7 +1613,7 @@
 0.0.0.0 mini2015.qq.com
 0.0.0.0 minipage.2345.com
 0.0.0.0 mipcache.bdstatic.com
-0.0.0.0 mis.g.mi.com
+0.0.0.0 mivideo.g.mi.com
 0.0.0.0 mix.adsame.com
 0.0.0.0 mlb.did.ijinshan.com
 0.0.0.0 mlog.hiido.com
@@ -1721,7 +1705,6 @@
 0.0.0.0 nichibenren.or.jp
 0.0.0.0 nicorette.co.kr
 0.0.0.0 ninemsn.imrworldwide.com
-0.0.0.0 notice.game.xiaomi.com
 0.0.0.0 notifiter.youmi.net
 0.0.0.0 novelsns.html5.qq.com
 0.0.0.0 npdaqy6x1j.me
@@ -1867,7 +1850,6 @@
 0.0.0.0 post.ra.icast.cn
 0.0.0.0 pptv.adx.admaster.com.cn
 0.0.0.0 pptv.cm.admaster.com.cn
-0.0.0.0 ppurifier.game.xiaomi.com
 0.0.0.0 pr-bh.ybp.yahoo.com
 0.0.0.0 pr.da.netease.com
 0.0.0.0 pr.ybp.yahoo.com
@@ -1879,7 +1861,6 @@
 0.0.0.0 promote.biz.weibo.cn
 0.0.0.0 promotion.aliyun.com
 0.0.0.0 promotion.gomlab.com
-0.0.0.0 proxy.sec.miui.com
 0.0.0.0 ps.haohaowan8.com
 0.0.0.0 ps.map.baidu.com
 0.0.0.0 psfq.gou.sogou.com
@@ -1928,7 +1909,6 @@
 0.0.0.0 quote.51.la
 0.0.0.0 qxm.pluto.sogou.com
 0.0.0.0 r.254a.com
-0.0.0.0 r.browser.miui.com
 0.0.0.0 r.bxb.oupeng.com
 0.0.0.0 r.dmp.sina.cn
 0.0.0.0 r.domob.cn
@@ -1963,7 +1943,6 @@
 0.0.0.0 rdstat.tanx.com
 0.0.0.0 re.m.taobao.com
 0.0.0.0 re.taobao.com
-0.0.0.0 reader.browser.miui.com
 0.0.0.0 rec.g.163.com
 0.0.0.0 recmd.html5.qq.com
 0.0.0.0 redirect.simba.taobao.com
@@ -2284,7 +2263,6 @@
 0.0.0.0 secure.fastclick.net
 0.0.0.0 secure.img-cdn.mediaplex.com
 0.0.0.0 securepubads.g.doubleclick.net
-0.0.0.0 security.browser.miui.com
 0.0.0.0 seen.hgo7r.cn
 0.0.0.0 selfie.snapmobileasia.net
 0.0.0.0 serve.popads.net
@@ -2321,12 +2299,10 @@
 0.0.0.0 setting.snswin.qq.com
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 sg-cdn.effectivemeasure.net
-0.0.0.0 sg.a.stat.mi.com
 0.0.0.0 shadu.baidu.com
 0.0.0.0 shaft.jebe.renren.com
 0.0.0.0 shama5.com
 0.0.0.0 share.baidu.com
-0.0.0.0 shenghuo.xiaomi.com
 0.0.0.0 shenyun.com
 0.0.0.0 shenyun.org
 0.0.0.0 shenyunperformingarts.org
@@ -2370,6 +2346,7 @@
 0.0.0.0 sp3.cndm.com
 0.0.0.0 spd.atdmt.com
 0.0.0.0 spe.atdmt.com
+0.0.0.0 spro.so.com
 0.0.0.0 srch.atdmt.com
 0.0.0.0 srd.simba.taobao.com
 0.0.0.0 sroomafp.allyes.com
@@ -2400,7 +2377,6 @@
 0.0.0.0 sta.jcjk0451.com
 0.0.0.0 stadig.ifeng.com
 0.0.0.0 stadig0.ifeng.com
-0.0.0.0 staging.admin.e.mi.com
 0.0.0.0 stags.bluekai.com
 0.0.0.0 startup.oupeng.com
 0.0.0.0 stat.360safe.com
@@ -2411,7 +2387,6 @@
 0.0.0.0 stat.m.360.cn
 0.0.0.0 stat.m.jd.com
 0.0.0.0 stat.moji.com
-0.0.0.0 stat.pandora.xiaomi.com
 0.0.0.0 stat.simba.taobao.com
 0.0.0.0 stat.tongji.today
 0.0.0.0 stat.v.baidu.com
@@ -2639,7 +2614,6 @@
 0.0.0.0 up4.ucweb.com
 0.0.0.0 update.123juzi.net
 0.0.0.0 update.360safe.com
-0.0.0.0 update.avlyun.sec.miui.com
 0.0.0.0 update.minipage.2345.com
 0.0.0.0 updatecenter.qq.com
 0.0.0.0 upoll.umengcloud.com
@@ -2657,6 +2631,7 @@
 0.0.0.0 ut.gtags.net
 0.0.0.0 utility.baidu.com
 0.0.0.0 utop.umengcloud.com
+0.0.0.0 utp.ucweb.com
 0.0.0.0 uuidapi.yunos.com
 0.0.0.0 uusee.adsame.com
 0.0.0.0 uxip.meizu.com
@@ -2715,7 +2690,11 @@
 0.0.0.0 vpic.video.qq.com
 0.0.0.0 vps.inte.sogou.com
 0.0.0.0 vqq.admaster.com.cn
+0.0.0.0 vs19.gzcu.u3.ucweb.com
 0.0.0.0 vs2.gzcu.u3.ucweb.com
+0.0.0.0 vs7.gzcu.u3.ucweb.com
+0.0.0.0 vs8.gzct.u3.ucweb.com
+0.0.0.0 vs8.gzcu.u3.ucweb.com
 0.0.0.0 vsohu.admaster.com.cn
 0.0.0.0 vt.ipinyou.com
 0.0.0.0 vtechweb.adsame.com
@@ -2950,7 +2929,6 @@
 0.0.0.0 www.keyrun.cn
 0.0.0.0 www.kuguopush.com
 0.0.0.0 www.linezing.com
-0.0.0.0 www.lvjian66.com
 0.0.0.0 www.mhradio.org
 0.0.0.0 www.millwardbrownacsr.com
 0.0.0.0 www.minesage.com
@@ -3090,8 +3068,8 @@
 
 # Hosts - neohost
 # Source - https://hosts.nfz.moe/full/hosts
-# Generated - 30.08.2018
+# Generated - 07.09.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 3089
+# Total Domains: 3067
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

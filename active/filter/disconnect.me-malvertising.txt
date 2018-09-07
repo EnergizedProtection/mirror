@@ -1,5 +1,3 @@
-0.0.0.0 0001.2waky.com
-0.0.0.0 01388.net
 0.0.0.0 029999.com
 0.0.0.0 0871ggw.net
 0.0.0.0 08819.com
@@ -22,7 +20,6 @@
 0.0.0.0 2mdn.net
 0.0.0.0 2o7.net
 0.0.0.0 318x.com
-0.0.0.0 3262111.com
 0.0.0.0 332gm.com
 0.0.0.0 360yield.com
 0.0.0.0 365tc.com
@@ -31,7 +28,6 @@
 0.0.0.0 3cinteractive.com
 0.0.0.0 3dmv.net
 0.0.0.0 3e1.cn
-0.0.0.0 4006868488.cn
 0.0.0.0 4affiliate.net
 0.0.0.0 4d5.net
 0.0.0.0 4info.com
@@ -42,7 +38,6 @@
 0.0.0.0 51lvyu.com
 0.0.0.0 51yes.com
 0.0.0.0 54fangtan.com
-0.0.0.0 54ly.com
 0.0.0.0 5thfinger.com
 0.0.0.0 600z.com
 0.0.0.0 75ww.com
@@ -78,7 +73,6 @@
 0.0.0.0 abacho.net
 0.0.0.0 abbyspanties.com
 0.0.0.0 abc-ads.com
-0.0.0.0 abond.net
 0.0.0.0 absoluteclickscom.com
 0.0.0.0 abz.com
 0.0.0.0 ac.rnm.ca
@@ -830,7 +824,6 @@
 0.0.0.0 advertmedia.de
 0.0.0.0 advertpro.sitepoint.com
 0.0.0.0 advertpro.ya.com
-0.0.0.0 adverts.carltononline.com
 0.0.0.0 advertserve.com
 0.0.0.0 advertstream.com
 0.0.0.0 advertwizard.com
@@ -887,7 +880,6 @@
 0.0.0.0 ah-ha.com
 0.0.0.0 ahalogy.com
 0.0.0.0 aim4media.com
-0.0.0.0 aipp-italia.it
 0.0.0.0 airbrake.io
 0.0.0.0 airpush.com
 0.0.0.0 aistat.net
@@ -912,7 +904,6 @@
 0.0.0.0 amobee.com
 0.0.0.0 amskrupajal.org
 0.0.0.0 amung.us
-0.0.0.0 amusecity.com
 0.0.0.0 an.tacoda.net
 0.0.0.0 anahtars.com
 0.0.0.0 analytics.adpost.org
@@ -933,7 +924,6 @@
 0.0.0.0 appflood.com
 0.0.0.0 appia.com
 0.0.0.0 appier.com
-0.0.0.0 appimmobilier.com
 0.0.0.0 applovin.com
 0.0.0.0 appnexus.com
 0.0.0.0 appolicious.com
@@ -1088,13 +1078,11 @@
 0.0.0.0 belstat.com
 0.0.0.0 belstat.nl
 0.0.0.0 benstock.free.fr
-0.0.0.0 beroepsperformancescan.nl
 0.0.0.0 berp.com
 0.0.0.0 best-pr.info
 0.0.0.0 best-top.ro
 0.0.0.0 bestsearch.net
 0.0.0.0 bhclicks.com
-0.0.0.0 bi2vl.com
 0.0.0.0 bidclix.com
 0.0.0.0 bidclix.net
 0.0.0.0 bidswitch.net
@@ -1143,7 +1131,6 @@
 0.0.0.0 bpath.com
 0.0.0.0 bqbbw.com
 0.0.0.0 braincash.com
-0.0.0.0 brandmeacademy.com
 0.0.0.0 brandreachsys.com
 0.0.0.0 brandschutztechnik-hartmann.de
 0.0.0.0 branovate.com
@@ -1174,7 +1161,6 @@
 0.0.0.0 callfire.com
 0.0.0.0 callloop.com
 0.0.0.0 campaign.bharatmatrimony.com
-0.0.0.0 campus.miim.ac.in
 0.0.0.0 caniamedia.com
 0.0.0.0 carbonads.com
 0.0.0.0 carbonads.net
@@ -1198,7 +1184,6 @@
 0.0.0.0 cbx.net
 0.0.0.0 cctjly.com
 0.0.0.0 ccycny.com
-0.0.0.0 cdmswj.com
 0.0.0.0 cdn.freefacti.com
 0.0.0.0 cecash.com
 0.0.0.0 celltick.com
@@ -1230,7 +1215,6 @@
 0.0.0.0 claria.com
 0.0.0.0 clashmobile.com
 0.0.0.0 class-act-clicks.com
-0.0.0.0 click.absoluteagency.com
 0.0.0.0 click.fool.com
 0.0.0.0 click.kmindex.ru
 0.0.0.0 click2freemoney.com
@@ -1283,7 +1267,6 @@
 0.0.0.0 comboapp.com
 0.0.0.0 comclick.com
 0.0.0.0 commindo-media-ressourcen.de
-0.0.0.0 commissioncrusher.com
 0.0.0.0 commissionmonster.com
 0.0.0.0 compactbanner.com
 0.0.0.0 company-target.com
@@ -1376,9 +1359,7 @@
 0.0.0.0 debtbusterloans.com
 0.0.0.0 dedicatedmedia.com
 0.0.0.0 deltagroup.kz
-0.0.0.0 demandbase.com
 0.0.0.0 dfclamp.com
-0.0.0.0 dgbangyuan.cn
 0.0.0.0 dgboiler.cn
 0.0.0.0 dgdaerxing.com
 0.0.0.0 di1.shopping.com
@@ -1422,7 +1403,6 @@
 0.0.0.0 dtstesting.com
 0.0.0.0 dusmin.com
 0.0.0.0 dwcreations.net
-0.0.0.0 dwdpi.co.kr
 0.0.0.0 dwnloader.com
 0.0.0.0 dynamic.fmpub.net
 0.0.0.0 e-adimages.scrippsnetworks.com
@@ -1454,6 +1434,7 @@
 0.0.0.0 emarketer.com
 0.0.0.0 emediate.dk
 0.0.0.0 emediate.eu
+0.0.0.0 emocoessexshop.com.br
 0.0.0.0 engagebdr.com
 0.0.0.0 engine.espace.netavenir.com
 0.0.0.0 enginenetwork.com
@@ -1562,7 +1543,6 @@
 0.0.0.0 fragmentserv.iac-online.de
 0.0.0.0 freebanner.com
 0.0.0.0 freelogs.com
-0.0.0.0 freemasstraffic.com
 0.0.0.0 freemyapps.com
 0.0.0.0 freeonlineusers.com
 0.0.0.0 freepay.com
@@ -1618,7 +1598,6 @@
 0.0.0.0 gotoip55.com
 0.0.0.0 gp.dejanews.com
 0.0.0.0 gqwhyjh.com
-0.0.0.0 grafstat.ro
 0.0.0.0 greystripe.com
 0.0.0.0 gsimon.edu.free.fr
 0.0.0.0 gtop.ro
@@ -1637,7 +1616,6 @@
 0.0.0.0 hdxxpp.com
 0.0.0.0 heias.com
 0.0.0.0 hentaicounter.com
-0.0.0.0 hentelpower.com
 0.0.0.0 herbalaffiliateprogram.com
 0.0.0.0 here.com
 0.0.0.0 heshenkj.cn
@@ -1702,9 +1680,9 @@
 0.0.0.0 iadnet.com
 0.0.0.0 iadsdk.apple.com
 0.0.0.0 iconadserver.com
-0.0.0.0 icptrack.com
 0.0.0.0 idcounter.com
 0.0.0.0 iddiction.com
+0.0.0.0 ideamasale.com
 0.0.0.0 identads.com
 0.0.0.0 idregie.com
 0.0.0.0 idtargeting.com
@@ -2400,6 +2378,7 @@
 0.0.0.0 sextracker.com
 0.0.0.0 sexystat.com
 0.0.0.0 sezwho.com
+0.0.0.0 sgruber.com.br
 0.0.0.0 shareadspace.com
 0.0.0.0 shareasale.com
 0.0.0.0 sharepointads.com
@@ -2543,7 +2522,6 @@
 0.0.0.0 tatsumi-sys.jp
 0.0.0.0 tcads.net
 0.0.0.0 techclicks.net
-0.0.0.0 tedgenet.com
 0.0.0.0 teenrevenue.com
 0.0.0.0 telephonie-voip.info
 0.0.0.0 teliad.de
@@ -2648,6 +2626,7 @@
 0.0.0.0 trendcounter.com
 0.0.0.0 trhunt.com
 0.0.0.0 tribalfusion.com
+0.0.0.0 trico.stage.harapartners.com
 0.0.0.0 trix.net
 0.0.0.0 truehits.net
 0.0.0.0 truehits1.gits.net.th
@@ -2720,9 +2699,8 @@
 0.0.0.0 vstart.net
 0.0.0.0 vungle.com
 0.0.0.0 w3i.com
-0.0.0.0 walesedu.com
-0.0.0.0 walklight.net
 0.0.0.0 wan4399.com
+0.0.0.0 wantoffer.com
 0.0.0.0 warlog.info
 0.0.0.0 warlog.ru
 0.0.0.0 warp.ly
@@ -2787,7 +2765,6 @@
 0.0.0.0 www.money4exit.de
 0.0.0.0 www.photo-ads.co.uk
 0.0.0.0 www.qqkabb.com
-0.0.0.0 www.unicaitaly.it
 0.0.0.0 www.wwgin.com
 0.0.0.0 www.yserch.com
 0.0.0.0 www8.glam.com
@@ -2804,7 +2781,6 @@
 0.0.0.0 xczys.com
 0.0.0.0 xertive.com
 0.0.0.0 xg4ken.com
-0.0.0.0 xi1111.com
 0.0.0.0 xiazai.dns-vip.net
 0.0.0.0 xin-lian.cn
 0.0.0.0 xinyangmeiye.com
@@ -2872,8 +2848,8 @@
 
 # Hosts - disconnect.me-malvertising
 # Source - https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
-# Generated - 30.08.2018
+# Generated - 07.09.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 2871
+# Total Domains: 2847
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

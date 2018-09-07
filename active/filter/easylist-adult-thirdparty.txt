@@ -50,7 +50,6 @@
 0.0.0.0 cash.femjoy.com
 0.0.0.0 cdncache2-a.akamaihd.net
 0.0.0.0 cdnjke.com
-0.0.0.0 click.absoluteagency.com
 0.0.0.0 clickz.lonelycheatingwives.com
 0.0.0.0 contentcache-a.akamaihd.net
 0.0.0.0 core.queerclick.com
@@ -150,8 +149,8 @@
 
 # Hosts - easylist-adult-thirdparty
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easylist-adult-thirdparty.txt
-# Generated - 30.08.2018
+# Generated - 07.09.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 149
+# Total Domains: 148
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

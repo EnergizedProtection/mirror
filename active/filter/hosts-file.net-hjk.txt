@@ -244,7 +244,7 @@
 
 # Hosts - hosts-file.net-hjk
 # Source - https://hosts-file.net/hjk.txt
-# Generated - 30.08.2018
+# Generated - 07.09.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 243
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license

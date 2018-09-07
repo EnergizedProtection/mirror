@@ -418,7 +418,6 @@
 0.0.0.0 cogivea.com
 0.0.0.0 coldwellbanker.net
 0.0.0.0 collect-us-east-1.tealiumiq.com
-0.0.0.0 collect.tealiumiq.com
 0.0.0.0 collectiable.com
 0.0.0.0 collector-1054.tvsquared.com
 0.0.0.0 collector-pxel3l4xih.perimeterx.net
@@ -1795,11 +1794,9 @@
 0.0.0.0 www.adforati.com
 0.0.0.0 www.adgtracker.com
 0.0.0.0 www.adnetworkperformance.com
-0.0.0.0 www.adobe-flashplayer.com
 0.0.0.0 www.adotube.com
 0.0.0.0 www.adprotect.net
 0.0.0.0 www.adtegrity.com
-0.0.0.0 www.adtiger.de
 0.0.0.0 www.advancedcleaner.com
 0.0.0.0 www.advancedmactools.com
 0.0.0.0 www.aeronautica.gob.pa
@@ -2037,7 +2034,6 @@
 0.0.0.0 www.enigmasoftware.com
 0.0.0.0 www.enoratraffic.com
 0.0.0.0 www.epmads.com
-0.0.0.0 www.equallyyolked.com
 0.0.0.0 www.ertya.com
 0.0.0.0 www.etahub.com
 0.0.0.0 www.evaairline.com
@@ -2114,7 +2110,6 @@
 0.0.0.0 www.getsearchlist.com
 0.0.0.0 www.gilvision.com
 0.0.0.0 www.globalcharge.com
-0.0.0.0 www.gnuetella.com
 0.0.0.0 www.go777site.com
 0.0.0.0 www.goggl.com
 0.0.0.0 www.google-docs.org
@@ -2604,7 +2599,6 @@
 0.0.0.0 www.update-java.kit.net
 0.0.0.0 www.updatesoftwaresend.com
 0.0.0.0 www.updo.nl
-0.0.0.0 www.upproar.com
 0.0.0.0 www.uprour.com
 0.0.0.0 www.uptodatecontent.net
 0.0.0.0 www.valuehost.co.uk
@@ -2856,8 +2850,8 @@
 
 # Hosts - fademind-add.risk
 # Source - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
-# Generated - 30.08.2018
+# Generated - 07.09.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 2855
+# Total Domains: 2849
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

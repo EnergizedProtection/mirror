@@ -22,6 +22,7 @@
 0.0.0.0 alb.reddit.com
 0.0.0.0 amplifypixel.outbrain.com
 0.0.0.0 an.reflektion.com
+0.0.0.0 analysis.afreecatv.com
 0.0.0.0 analytics-ingress.bitmovin.com
 0.0.0.0 analytics-static.ugc.bazaarvoice.com
 0.0.0.0 analytics.archive.org
@@ -197,7 +198,6 @@
 0.0.0.0 d1ros97qkrwjf5.cloudfront.net
 0.0.0.0 d1uy7uzra011au.cloudfront.net
 0.0.0.0 d1xfq2052q7thw.cloudfront.net
-0.0.0.0 d1z2jf7jlzjs58.cloudfront.net
 0.0.0.0 d20duyjzb7cuoc.cloudfront.net
 0.0.0.0 d21o24qxwf7uku.cloudfront.net
 0.0.0.0 d22v2nmahyeg2a.cloudfront.net
@@ -282,8 +282,8 @@
 0.0.0.0 geo.kaloo.ga
 0.0.0.0 geo.xcel.io
 0.0.0.0 geo.yahoo.com
+0.0.0.0 geobeacon.ign.com
 0.0.0.0 geoip.herewetest.com
-0.0.0.0 geoip.newsdev.nytimes.com
 0.0.0.0 geoloc.arte.tv
 0.0.0.0 geoloc.hurriyet.com.tr
 0.0.0.0 geolocation.stroeerdp.de
@@ -421,6 +421,7 @@
 0.0.0.0 pix.telekom.de
 0.0.0.0 pixel.1und1.de
 0.0.0.0 pixel.4players.de
+0.0.0.0 pixel.anyclip.com
 0.0.0.0 pixel.bild.de
 0.0.0.0 pixel.bullion.media
 0.0.0.0 pixel.carambo.la
@@ -559,7 +560,6 @@
 0.0.0.0 tk.kaufda.de
 0.0.0.0 tk.meinprospekt.de
 0.0.0.0 tm.tradetracker.net
-0.0.0.0 tools.ranker.com
 0.0.0.0 top-fwz1.mail.ru
 0.0.0.0 top.gamesby.net
 0.0.0.0 top.hsdn.org
@@ -695,7 +695,7 @@
 
 # Hosts - adguard-spyware
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-spyware-firstparty.txt
-# Generated - 30.08.2018
+# Generated - 07.09.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 694
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license

@@ -79,7 +79,6 @@
 0.0.0.0 stevnxwq.pw
 0.0.0.0 t54ndnku456ngkwsudqer.wallymac.com
 0.0.0.0 tdhyjfxltpj.pw
-0.0.0.0 tt54rfdjhb34rfbnknaerg.milerteddy.com
 0.0.0.0 twbers4hmi6dc65f.onion.cab
 0.0.0.0 twbers4hmi6dc65f.onion.to
 0.0.0.0 twbers4hmi6dc65f.tor2web.org
@@ -97,9 +96,7 @@
 0.0.0.0 www.1axb.com
 0.0.0.0 www.newtonpaiva.br
 0.0.0.0 xvchcbeqxkd.pw
-0.0.0.0 y4bxj.adozeuds.com
 0.0.0.0 yaynawvtuqcarjwc.pw
-0.0.0.0 ytrest84y5i456hghadefdsd.pontogrot.com
 0.0.0.0 yuertao.pw
 0.0.0.0 zjfq4lnfbs7pncr5.onion.to
 0.0.0.0 zjfq4lnfbs7pncr5.tor2web.org
@@ -107,8 +104,8 @@
 
 # Hosts - ransomwaretracker.abuse.ch
 # Source - https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt
-# Generated - 30.08.2018
+# Generated - 07.09.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 106
+# Total Domains: 103
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

@@ -220,7 +220,6 @@
 0.0.0.0 ad.amgdgt.com
 0.0.0.0 ad.aquamediadirect.com
 0.0.0.0 ad.auditude.com
-0.0.0.0 ad.axyzconductor.jp
 0.0.0.0 ad.bannerbank.ru
 0.0.0.0 ad.bannerconnect.net
 0.0.0.0 ad.be.doubleclick.net
@@ -372,7 +371,6 @@
 0.0.0.0 ad1.checkm8.com
 0.0.0.0 ad1.emediate.dk
 0.0.0.0 ad1.emediate.se
-0.0.0.0 ad1.nownews.com
 0.0.0.0 ad1.popcap.com
 0.0.0.0 ad1.yourmedia.com
 0.0.0.0 ad10.bannerbank.ru
@@ -770,7 +768,6 @@
 0.0.0.0 ads.camrecord.com
 0.0.0.0 ads.canoe.ca
 0.0.0.0 ads.cardea.se
-0.0.0.0 ads.carltononline.com
 0.0.0.0 ads.casinocity.com
 0.0.0.0 ads.catholic.org
 0.0.0.0 ads.cavello.com
@@ -1097,6 +1094,7 @@
 0.0.0.0 ads.veloxia.com
 0.0.0.0 ads.ventivmedia.com
 0.0.0.0 ads.veoh.com
+0.0.0.0 ads.viber.com
 0.0.0.0 ads.videoadvertising.com
 0.0.0.0 ads.virginislandsdailynews.com
 0.0.0.0 ads.virtualcountries.com
@@ -1723,6 +1721,7 @@
 0.0.0.0 app1.letitbefaster.website
 0.0.0.0 app1.letmacworkfaster.site
 0.0.0.0 app1.letslowbefast.site
+0.0.0.0 app2.downloadmacsoft.world
 0.0.0.0 app2.letitbefaster.life
 0.0.0.0 app2.letitbefaster.website
 0.0.0.0 app2.letmacworkfaster.site
@@ -1773,7 +1772,6 @@
 0.0.0.0 arrayshift.com
 0.0.0.0 arsconsole.global-intermedia.com
 0.0.0.0 art-offer.com
-0.0.0.0 arthritis.atspace.com
 0.0.0.0 as.adwise.bg
 0.0.0.0 as.casalemedia.com
 0.0.0.0 as.ebz.io
@@ -2442,7 +2440,6 @@
 0.0.0.0 click.adpile.net
 0.0.0.0 click.atdmt.com
 0.0.0.0 click.get-answers-fast.com
-0.0.0.0 click.icptrack.com
 0.0.0.0 click.israelinfo.ru
 0.0.0.0 click.jve.net
 0.0.0.0 click.newviralmobistore.com
@@ -2821,6 +2818,7 @@
 0.0.0.0 d.adxcore.com
 0.0.0.0 d.agkn.com
 0.0.0.0 d.cntv.cn
+0.0.0.0 d.getaccss.com
 0.0.0.0 d.oix.com
 0.0.0.0 d.sspcash.adxcore.com
 0.0.0.0 d1.zedo.com
@@ -2865,7 +2863,6 @@
 0.0.0.0 datingadvertising.com
 0.0.0.0 dawnnationaladvertiser.com
 0.0.0.0 db3aqu.atdmt.com
-0.0.0.0 db4.net-filter.com
 0.0.0.0 dbbsrv.com
 0.0.0.0 dbios.org
 0.0.0.0 dc43.s290.meetrics.net
@@ -3962,6 +3959,7 @@
 0.0.0.0 iesnare.co.uk
 0.0.0.0 iesnare.com
 0.0.0.0 if.bbanner.it
+0.0.0.0 ifwry.yeslaptop.win
 0.0.0.0 ig.fp.oix.net
 0.0.0.0 ign.us.intellitxt.com
 0.0.0.0 ih.adscale.de
@@ -3969,6 +3967,7 @@
 0.0.0.0 ilead.itrack.it
 0.0.0.0 ilinks.industrybrains.com
 0.0.0.0 ilovemobi.com
+0.0.0.0 im.52441.com
 0.0.0.0 im.adtech.de
 0.0.0.0 im.banner.t-online.de
 0.0.0.0 im.of.pl
@@ -4018,6 +4017,7 @@
 0.0.0.0 img-a2.ak.imagevz.net
 0.0.0.0 img-cdn.mediaplex.com
 0.0.0.0 img.alibaba.com
+0.0.0.0 img.awr.im
 0.0.0.0 img.directtrack.com
 0.0.0.0 img.layer-ads.de
 0.0.0.0 img.marketgid.com
@@ -4273,6 +4273,7 @@
 0.0.0.0 jwebbsense.cjt1.net
 0.0.0.0 jxliu.com
 0.0.0.0 jyhfuqoh.info
+0.0.0.0 jyknnhll.yearbrazil.com
 0.0.0.0 jzclick.soso.com
 0.0.0.0 k.intellitxt.com
 0.0.0.0 kaartenhuis.nl.site-id.nl
@@ -4382,7 +4383,6 @@
 0.0.0.0 letssearch.com
 0.0.0.0 levexis.com
 0.0.0.0 lg.brandreachsys.com
-0.0.0.0 liapentruromania.ro
 0.0.0.0 libdgel.net
 0.0.0.0 liberty.gedads.com
 0.0.0.0 licasd.com
@@ -4473,7 +4473,6 @@
 0.0.0.0 lucibad.home.ro
 0.0.0.0 lucklayed.info
 0.0.0.0 lucky-day-uk.com
-0.0.0.0 luxcart.ro
 0.0.0.0 luxpolice.com
 0.0.0.0 luxpolice.net
 0.0.0.0 luxup.ru
@@ -5454,6 +5453,7 @@
 0.0.0.0 playnow.guru
 0.0.0.0 playstream.co
 0.0.0.0 playtime.tubemogul.com
+0.0.0.0 pleasewait.co
 0.0.0.0 ploaz54.com
 0.0.0.0 pm.w55c.net
 0.0.0.0 pmelon.com
@@ -5595,7 +5595,6 @@
 0.0.0.0 prpops.com
 0.0.0.0 ps-us.amazon-adsystem.com
 0.0.0.0 ps.eyeota.net
-0.0.0.0 psorias.atspace.com
 0.0.0.0 psp3d.us.intellitxt.com
 0.0.0.0 pspcave.uk.intellitxt.com
 0.0.0.0 pstatic.datafastguru.info
@@ -5634,6 +5633,7 @@
 0.0.0.0 qip.ru
 0.0.0.0 qitrck.com
 0.0.0.0 qj.us.intellitxt.com
+0.0.0.0 qpqnbnsnosdss.com
 0.0.0.0 qqlogo.qq.com
 0.0.0.0 qring-tms.qq.com
 0.0.0.0 qss-client.qq.com
@@ -5889,6 +5889,7 @@
 0.0.0.0 s5.addthis.com
 0.0.0.0 s7.addthis.com
 0.0.0.0 s7clean.com
+0.0.0.0 s9kkremkr0.com
 0.0.0.0 sact.atdmt.com
 0.0.0.0 sad.sharethis.com
 0.0.0.0 safe.hyperpaysys.com
@@ -6284,7 +6285,6 @@
 0.0.0.0 stat1.z-stat.com
 0.0.0.0 stat2.corp.56.com
 0.0.0.0 statcounter.com
-0.0.0.0 static-eu-cdn.eporner.com
 0.0.0.0 static.2mdn.net
 0.0.0.0 static.adwo.com
 0.0.0.0 static.adzerk.net
@@ -6414,6 +6414,7 @@
 0.0.0.0 storage.trafic.ro
 0.0.0.0 stpetersburgtimes.122.2o7.net
 0.0.0.0 strawpoii.me
+0.0.0.0 stream-direct.co
 0.0.0.0 streamate.com
 0.0.0.0 su.addthis.com
 0.0.0.0 suchaslowmac.tech
@@ -6482,6 +6483,7 @@
 0.0.0.0 t.dynad.net
 0.0.0.0 t.extreme-dm.com
 0.0.0.0 t.frtyg.com
+0.0.0.0 t.info.rezbine.com
 0.0.0.0 t.mdn2015x1.com
 0.0.0.0 t.mdn2015x3.com
 0.0.0.0 t.senaldos.com
@@ -6690,7 +6692,6 @@
 0.0.0.0 track.businesstrenders.com
 0.0.0.0 track.clearsender.com
 0.0.0.0 track.did-it.com
-0.0.0.0 track.dotsly.com
 0.0.0.0 track.e7r.com.br
 0.0.0.0 track.effiliation.com
 0.0.0.0 track.eg-innovations.net
@@ -6774,6 +6775,7 @@
 0.0.0.0 track.zulumarketing.com
 0.0.0.0 track12.offersbymail.com
 0.0.0.0 tracka.businessleadbuilder.com
+0.0.0.0 tracker.awr.im
 0.0.0.0 tracker.bonnint.net
 0.0.0.0 tracker.cl1.fidelizador.com
 0.0.0.0 tracker.clicktrade.com
@@ -7477,7 +7479,7 @@
 0.0.0.0 www.anatol.com
 0.0.0.0 www.annuaire-autosurf.com
 0.0.0.0 www.anrdoezrs.net
-0.0.0.0 www.appafile.com
+0.0.0.0 www.apple.com-clean-macbook.live
 0.0.0.0 www.applelounge.com
 0.0.0.0 www.applicationwiki.com
 0.0.0.0 www.appliedsemantics.com
@@ -7535,7 +7537,6 @@
 0.0.0.0 www.bus-offer.com
 0.0.0.0 www.buttcandy.com
 0.0.0.0 www.buycheapadvertising.com
-0.0.0.0 www.buyhitscheap.com
 0.0.0.0 www.buzzadnetwork.com
 0.0.0.0 www.buzzonclick.com
 0.0.0.0 www.bvfsc.info
@@ -7634,8 +7635,6 @@
 0.0.0.0 www.datatech.es
 0.0.0.0 www.datingadvertising.com
 0.0.0.0 www.dctracking.com
-0.0.0.0 www.defaultinternet.com
-0.0.0.0 www.designbloxlive.com
 0.0.0.0 www.destinationurl.com
 0.0.0.0 www.detroithardcore.com
 0.0.0.0 www.devis-abri-de-piscine.fr
@@ -7740,6 +7739,7 @@
 0.0.0.0 www.googlewordpad.info
 0.0.0.0 www.gopopup.com
 0.0.0.0 www.grabbit-rabbit.com
+0.0.0.0 www.grabflashsign.win
 0.0.0.0 www.greasypalm.com
 0.0.0.0 www.grouphappy.com
 0.0.0.0 www.groupm.com
@@ -7847,7 +7847,6 @@
 0.0.0.0 www.lucky-day-uk.com
 0.0.0.0 www.m2trk.com
 0.0.0.0 www.mac.com-w.net
-0.0.0.0 www.macfillerck.com
 0.0.0.0 www.mangayhentai.com
 0.0.0.0 www.market-buster.com
 0.0.0.0 www.masterspace.biz
@@ -8085,7 +8084,6 @@
 0.0.0.0 www.theprofitsmaker.net
 0.0.0.0 www.thetraderinpajamas.com
 0.0.0.0 www.thewaycloud.com
-0.0.0.0 www.thinktarget.com
 0.0.0.0 www.thruport.com
 0.0.0.0 www.tons-to-see.com
 0.0.0.0 www.toolbarcounter.com
@@ -8226,10 +8224,12 @@
 0.0.0.0 www2.adireland.com
 0.0.0.0 www2.adserverpub.com
 0.0.0.0 www2.counter.bloke.com
+0.0.0.0 www2.doslectionflash.icu
 0.0.0.0 www2.glam.com
 0.0.0.0 www2.gorillavid.in
 0.0.0.0 www2.pagecount.com
 0.0.0.0 www2.pubdirecte.com
+0.0.0.0 www2.smallregularbestflash.club
 0.0.0.0 www210.paypopup.com
 0.0.0.0 www211.paypopup.com
 0.0.0.0 www212.paypopup.com
@@ -8412,7 +8412,7 @@
 
 # Hosts - someonewhocares.org
 # Source - http://someonewhocares.org/hosts/hosts
-# Generated - 30.08.2018
+# Generated - 07.09.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
 # Total Domains: 8411
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
