@@ -61,6 +61,7 @@
 0.0.0.0 porn.sarl
 0.0.0.0 porndabster.com
 0.0.0.0 pornfuror.com
+0.0.0.0 pornhubpremium.com
 0.0.0.0 pornhubselect.com
 0.0.0.0 pornminded.com
 0.0.0.0 pornmummy.com
@@ -127,12 +128,14 @@
 0.0.0.0 www.youjizz.com
 0.0.0.0 www.youporn.com
 0.0.0.0 xhamster.com
+0.0.0.0 xnxx.club
 0.0.0.0 xnxx.fit
 0.0.0.0 xnxx.kim
 0.0.0.0 xnxx.me
 0.0.0.0 xnxx.news
 0.0.0.0 xnxx.pink
 0.0.0.0 xnxx.red
+0.0.0.0 xnxx2017.org
 0.0.0.0 xnxx2018.org
 0.0.0.0 xnxxhamster.net
 0.0.0.0 xnxxpornhub.space
@@ -143,8 +146,8 @@
 
 # Hosts - ador-energized-porn
 # Source - https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts-porn
-# Generated - 07.09.2018
+# Generated - 13.09.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 142
+# Total Domains: 145
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

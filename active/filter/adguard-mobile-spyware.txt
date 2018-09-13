@@ -3,14 +3,17 @@
 0.0.0.0 4seeresults.com
 0.0.0.0 a.appbaqend.com
 0.0.0.0 a.bitmango.com
+0.0.0.0 abtest.mistat.xiaomi.com
 0.0.0.0 ad-analytics-bootstrap.metaps.com
 0.0.0.0 adeventtracker.spotify.com
 0.0.0.0 adfuture.cn
 0.0.0.0 adj.st
 0.0.0.0 adserver.snapads.com
 0.0.0.0 adsunflower.com
+0.0.0.0 adv.sec.miui.com
 0.0.0.0 advmob.cn
 0.0.0.0 aftonbladetnya.sc.omtrdc.net
+0.0.0.0 alog.umeng.co
 0.0.0.0 alog.umeng.com
 0.0.0.0 alog.umengcloud.com
 0.0.0.0 alogs.umeng.com
@@ -33,6 +36,7 @@
 0.0.0.0 analytics.mopub.com
 0.0.0.0 analytics.query.yahoo.com
 0.0.0.0 analytics.rayjump.com
+0.0.0.0 analyzer.omniata.com
 0.0.0.0 andmlb.kshwtj.com
 0.0.0.0 android.bugly.qq.com
 0.0.0.0 api-analytics-bootstrap.metaps.com
@@ -44,21 +48,28 @@
 0.0.0.0 api.appsee.com
 0.0.0.0 api.appsflyer.com
 0.0.0.0 api.apptentive.com
+0.0.0.0 api.branch.io
 0.0.0.0 api.crittercism.com
 0.0.0.0 api.gameanalytics.com
 0.0.0.0 api.gameofwhales.com
 0.0.0.0 api.gimbal.com
 0.0.0.0 api.instabug.com
+0.0.0.0 api.miui.security.xiaomi.com
 0.0.0.0 api.oneaudience.com
 0.0.0.0 api.safedk.com
+0.0.0.0 api.sec.miui.com
+0.0.0.0 api.splkmobile.com
 0.0.0.0 api.taplytics.com
 0.0.0.0 api.uca.cloud.unity3d.com
 0.0.0.0 apiv2.moengage.com
+0.0.0.0 app.adjust.com
 0.0.0.0 app.roximity.com
 0.0.0.0 applog.uc.cn
 0.0.0.0 appmetrica.yandex.com
+0.0.0.0 appmetrica.yandex.net
 0.0.0.0 ar.umeng.com
 0.0.0.0 astat.bugly.qq.com
+0.0.0.0 auth.be.sec.miui.com
 0.0.0.0 batsavcdn.ksmobile.net
 0.0.0.0 beacon.carfax.com
 0.0.0.0 beacon.qq.com
@@ -81,10 +92,14 @@
 0.0.0.0 config.safedk.com
 0.0.0.0 config.uca.cloud.unity3d.com
 0.0.0.0 config2.mparticle.com
+0.0.0.0 counter.hdvb.info
 0.0.0.0 counter.kingsoft.com
 0.0.0.0 crasheye.cn
 0.0.0.0 crwdcntrl.net
 0.0.0.0 d.applvn.com
+0.0.0.0 data.mistat.intl.xiaomi.com
+0.0.0.0 data.mistat.xiaomi.com
+0.0.0.0 data.sec.miui.com
 0.0.0.0 dc.webtrends.com
 0.0.0.0 decide.mixpanel.com
 0.0.0.0 demdex.net
@@ -116,6 +131,7 @@
 0.0.0.0 google-analytics.com
 0.0.0.0 googleadapis.l.google.com
 0.0.0.0 iam-agof-app.irquest.com
+0.0.0.0 iapp-cp.nuggad.net
 0.0.0.0 ilyonanalytics.herokuapp.com
 0.0.0.0 imp.apprevolve.com
 0.0.0.0 imp.startappservice.com
@@ -140,7 +156,9 @@
 0.0.0.0 logupdate.avlyun.sec.miui.com
 0.0.0.0 lp4.io
 0.0.0.0 m.vpadn.com
+0.0.0.0 mazu.sec.miui.com
 0.0.0.0 measuread.com
+0.0.0.0 metok.sys.miui.com
 0.0.0.0 metrics-cbslocal-com.cdn.ampproject.org
 0.0.0.0 metrics.adflake.com
 0.0.0.0 metrics.bestbuy.com
@@ -158,8 +176,11 @@
 0.0.0.0 nlog.droid4x.cn
 0.0.0.0 npario-inc.net
 0.0.0.0 nrc.tapas.net
+0.0.0.0 o2o.api.xiaomi.com
+0.0.0.0 oc.umeng.co
 0.0.0.0 oc.umeng.com
 0.0.0.0 omni-ads.omni.news
+0.0.0.0 onedrive-collection.device.mobileengagement.windows.net
 0.0.0.0 online-metrix.net
 0.0.0.0 open.oneplus.net
 0.0.0.0 openstat.net
@@ -175,11 +196,13 @@
 0.0.0.0 prugskh.net
 0.0.0.0 puds.ucweb.com
 0.0.0.0 quantcount.com
+0.0.0.0 r.browser.miui.com
 0.0.0.0 rc.dxsvr.com
 0.0.0.0 register.appsflyer.com
 0.0.0.0 report.appmetrica.yandex.net
 0.0.0.0 reporting.aatkit.com
 0.0.0.0 resolver.gslb.mi-idc.com
+0.0.0.0 resolver.msg.xiaomi.net
 0.0.0.0 rlog-api.under9.co
 0.0.0.0 rlog.9gag.com
 0.0.0.0 rt.applovin.com
@@ -193,12 +216,16 @@
 0.0.0.0 sdkconfig.ad.xiaomi.com
 0.0.0.0 sdklogs.avocarrot.com
 0.0.0.0 sdks.stats-locations.com
+0.0.0.0 shenghuo.xiaomi.com
 0.0.0.0 ssl-google-analytics.l.google.com
 0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 stat.duokanbox.com
+0.0.0.0 statistics.videofarm.daum.net
 0.0.0.0 stats.appsflyer.com
 0.0.0.0 stats.popcap.com
+0.0.0.0 stats.umsns.com
 0.0.0.0 stats.unity3d.com
+0.0.0.0 storeconfig.mistat.intl.xiaomi.com
 0.0.0.0 sts.batmobi.net
 0.0.0.0 sync.adotmob.com
 0.0.0.0 sypi.gpshopper.com
@@ -232,16 +259,19 @@
 0.0.0.0 tunein.adswizz.com
 0.0.0.0 uc.ucweb.com
 0.0.0.0 ue.flipboard.com
+0.0.0.0 ulink.adjust.com
 0.0.0.0 upalytics.com
 0.0.0.0 upoll.umengcloud.com
 0.0.0.0 ups.ksmobile.net
 0.0.0.0 urbanairship.com
+0.0.0.0 ustat.batmobi.net
 0.0.0.0 utop.umengcloud.com
 0.0.0.0 vortex.data.microsoft.com
 0.0.0.0 ws.ksmobile.net
 0.0.0.0 www-google-analytics.l.google.com
 0.0.0.0 wzrkt.com
 0.0.0.0 xiti.com
+0.0.0.0 xlmc.sec.miui.com
 0.0.0.0 yadro.ru
 0.0.0.0 ymtracking.com
 0.0.0.0 zdbb.net
@@ -249,8 +279,8 @@
 
 # Hosts - adguard-mobile-spyware
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-mobile-spyware.txt
-# Generated - 07.09.2018
+# Generated - 13.09.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 248
+# Total Domains: 278
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

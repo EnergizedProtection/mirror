@@ -30,6 +30,7 @@
 0.0.0.0 pcbutts1-therealtruth.blogspot.com
 0.0.0.0 playlott.com
 0.0.0.0 profitsitesbiz.com
+0.0.0.0 redhotfreebies.co.uk
 0.0.0.0 securesignupoffers.org
 0.0.0.0 stsoftware.biz
 0.0.0.0 tekindustri.upnjatim.ac.id
@@ -74,8 +75,8 @@
 
 # Hosts - fademind-add.spam
 # Source - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
-# Generated - 07.09.2018
+# Generated - 13.09.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 73
+# Total Domains: 74
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 
