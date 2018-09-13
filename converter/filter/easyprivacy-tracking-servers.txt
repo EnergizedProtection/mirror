@@ -1,7 +1,7 @@
 # easyprivacy-tracking-servers Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers.txt
-# Last Converted - Fri, 07 Sep 2018 07:07:22 -0400
+# Last Converted - Thu, 13 Sep 2018 16:17:45 -0400
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -91,12 +91,14 @@
 0.0.0.0 activemeter.com
 0.0.0.0 activeprospects.com
 0.0.0.0 actnx.com
+0.0.0.0 acuityplatform.com
 0.0.0.0 acxiom-online.com
 0.0.0.0 acxiomapac.com
 0.0.0.0 ad-score.com
 0.0.0.0 adabra.com
 0.0.0.0 adalyser.com
 0.0.0.0 adblade.com
+0.0.0.0 adblockrelief.com
 0.0.0.0 adchemix.com
 0.0.0.0 adchemy-content.com
 0.0.0.0 adchemy.com
@@ -580,7 +582,6 @@
 0.0.0.0 d41.co
 0.0.0.0 dable.io
 0.0.0.0 dacounter.com
-0.0.0.0 dadi.technology
 0.0.0.0 dailycaller-alerts.com
 0.0.0.0 dapxl.com
 0.0.0.0 dashboard.io
@@ -1507,6 +1508,7 @@
 0.0.0.0 perimeterx.net
 0.0.0.0 perion.com
 0.0.0.0 permutive.com
+0.0.0.0 personalicanvas.com
 0.0.0.0 personyze.com
 0.0.0.0 petametrics.com
 0.0.0.0 phonalytics.com
@@ -1804,6 +1806,7 @@
 0.0.0.0 silvergamed.com
 0.0.0.0 silverpop.com
 0.0.0.0 silverpush.co
+0.0.0.0 simpleheatmaps.com
 0.0.0.0 simplehitcounter.com
 0.0.0.0 simplereach.com
 0.0.0.0 simpli.fi
@@ -1852,6 +1855,7 @@
 0.0.0.0 sniphub.com
 0.0.0.0 snoobi.com
 0.0.0.0 snowsignal.com
+0.0.0.0 social-sb.com
 0.0.0.0 socialhoney.co
 0.0.0.0 socialprofitmachine.com
 0.0.0.0 socialtrack.co
@@ -2126,6 +2130,7 @@
 0.0.0.0 tw.cx
 0.0.0.0 twcount.com
 0.0.0.0 twopointo.io
+0.0.0.0 txmoadserver.net
 0.0.0.0 tylere.net
 0.0.0.0 tynt.com
 0.0.0.0 tyxo.com
@@ -2722,6 +2727,7 @@
 0.0.0.0 sparechange.io
 0.0.0.0 sparnove.com
 0.0.0.0 static-cnt.bid
+0.0.0.0 static-sb.com
 0.0.0.0 staticsfs.host
 0.0.0.0 statistic.date
 0.0.0.0 stonecalcom.com

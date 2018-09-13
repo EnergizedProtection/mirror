@@ -1,7 +1,7 @@
 # squidblacklist-ads Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - http://www.squidblacklist.org/downloads/dg-ads.acl
-# Last Converted - Fri, 07 Sep 2018 07:07:30 -0400
+# Last Converted - Thu, 13 Sep 2018 16:17:56 -0400
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -49,7 +49,6 @@
 0.0.0.0 4uvjosuc.com
 0.0.0.0 4wnet.com
 0.0.0.0 50websads.com
-0.0.0.0 5advertise.com
 0.0.0.0 5gl1x9qc.com
 0.0.0.0 5thfinger.com
 0.0.0.0 600z.com
@@ -108,8 +107,8 @@
 0.0.0.0 ad01.mediacorpsingapore.com
 0.0.0.0 ad0.bigmir.net
 0.0.0.0 ad.100.tbn.ru
-0.0.0.0 ad120m.com
 0.0.0.0 ad123m.com
+0.0.0.0 ad125m.com
 0.0.0.0 ad128m.com
 0.0.0.0 ad1.emule-project.org
 0.0.0.0 ad1.kde.cz
@@ -345,7 +344,6 @@
 0.0.0.0 adjector.com
 0.0.0.0 ad.jetsoftware.com
 0.0.0.0 adjix.com
-0.0.0.0 ad.jjsoft.hu
 0.0.0.0 adjs.net
 0.0.0.0 adjuggler.com
 0.0.0.0 adjuggler.yourdictionary.com
@@ -381,6 +379,7 @@
 0.0.0.0 adlooxtracking.com
 0.0.0.0 adlpartner.com
 0.0.0.0 ad.lupa.cz
+0.0.0.0 ad.m5prod.net
 0.0.0.0 admagnet.net
 0.0.0.0 ad.mail.ru
 0.0.0.0 admailtiser.com
@@ -430,6 +429,7 @@
 0.0.0.0 admotion.com.ar
 0.0.0.0 admtpmp123.com
 0.0.0.0 admtpmp124.com
+0.0.0.0 admtpmp127.com
 0.0.0.0 admulti.com
 0.0.0.0 ad.musicmatch.com
 0.0.0.0 adm-vids.info
@@ -509,6 +509,7 @@
 0.0.0.0 adresellers.com
 0.0.0.0 adres.internet.com
 0.0.0.0 ad.reunion.com
+0.0.0.0 adrevivify.com
 0.0.0.0 adrevolver.com
 0.0.0.0 adrife.net
 0.0.0.0 adrise.de
@@ -574,6 +575,7 @@
 0.0.0.0 ads.affiliates.match.com
 0.0.0.0 ads.affiliates-spinit.com
 0.0.0.0 ads.alibaba.com
+0.0.0.0 ads.allvatar.com
 0.0.0.0 ads.alt.com
 0.0.0.0 ads.altitude-arena.com
 0.0.0.0 ads.alwaysphonesex.com
@@ -1013,6 +1015,7 @@
 0.0.0.0 ads.tripod.lycos.de
 0.0.0.0 ads.tripod.lycos.es
 0.0.0.0 ads.tripod.lycos.it
+0.0.0.0 ads.tripod.lycos.nl
 0.0.0.0 ads.tripod.spray.se
 0.0.0.0 ads.tso.dennisnet.co.uk
 0.0.0.0 adstuna.com
@@ -1424,6 +1427,7 @@
 0.0.0.0 a.xanga.com
 0.0.0.0 axill.com
 0.0.0.0 ayboll.com
+0.0.0.0 aylarl.com
 0.0.0.0 azfront.com
 0.0.0.0 azjmp.com
 0.0.0.0 b-1st.com
@@ -1557,6 +1561,7 @@
 0.0.0.0 bettingpartners.com
 0.0.0.0 bfast.com
 0.0.0.0 bh3.net
+0.0.0.0 bhclicks.com
 0.0.0.0 bidclix.com
 0.0.0.0 bidgear.com
 0.0.0.0 bidswitch.net
@@ -1728,7 +1733,9 @@
 0.0.0.0 checkstat.nl
 0.0.0.0 cherytso.com
 0.0.0.0 chestionar.ro
+0.0.0.0 chicbuy.info
 0.0.0.0 chitika.com
+0.0.0.0 ci3ixee8.com
 0.0.0.0 cibleclick.com
 0.0.0.0 city-ads.de
 0.0.0.0 cityadspix.com
@@ -2188,6 +2195,7 @@
 0.0.0.0 flomigo.com
 0.0.0.0 fls-fe.amazon-adsystem.com
 0.0.0.0 fls-na.amazon-adsystem.com
+0.0.0.0 fluidads.co
 0.0.0.0 flyertown.ca
 0.0.0.0 fmpub.net
 0.0.0.0 fmsads.com
@@ -2393,6 +2401,7 @@
 0.0.0.0 icptrack.com
 0.0.0.0 idealmedia.com
 0.0.0.0 identads.com
+0.0.0.0 idot.cz
 0.0.0.0 idownloadgalore.com
 0.0.0.0 idreammedia.com
 0.0.0.0 idtargeting.com
@@ -2509,7 +2518,6 @@
 0.0.0.0 it4oop7.bid
 0.0.0.0 itfarm.com
 0.0.0.0 itop.cz
-0.0.0.0 itsptp.com
 0.0.0.0 its-that-easy.com
 0.0.0.0 iu16wmye.com
 0.0.0.0 ivism.org
@@ -2538,7 +2546,6 @@
 0.0.0.0 jque.net
 0.0.0.0 jscount.com
 0.0.0.0 jsretra.com
-0.0.0.0 jssearch.net
 0.0.0.0 js.users.51.la
 0.0.0.0 juiceadv.com
 0.0.0.0 juiceadv.net
@@ -2602,6 +2609,7 @@
 0.0.0.0 layer-ad.org
 0.0.0.0 lbn.ru
 0.0.0.0 lcl2adserver.com
+0.0.0.0 ld82ydd.com
 0.0.0.0 lead-analytics.nl
 0.0.0.0 leadboltads.net
 0.0.0.0 leadbolt.com
@@ -2744,7 +2752,6 @@
 0.0.0.0 media-adrunner.mycomputer.com
 0.0.0.0 mediaarea.eu
 0.0.0.0 mediabrix.com
-0.0.0.0 mediadvertising.ro
 0.0.0.0 mediaffiliation.com
 0.0.0.0 mediaforce.com
 0.0.0.0 mediaforge.com
@@ -2940,6 +2947,7 @@
 0.0.0.0 netshelter.net
 0.0.0.0 netsolads.com
 0.0.0.0 networkplay.in
+0.0.0.0 networkxi.com
 0.0.0.0 networld.hk
 0.0.0.0 neudesicmediagroup.com
 0.0.0.0 new17write.com
@@ -3009,7 +3017,6 @@
 0.0.0.0 objects.tremormedia.com
 0.0.0.0 oceanwebcraft.com
 0.0.0.0 oewa.at
-0.0.0.0 offer.beasau.com
 0.0.0.0 offerforge.com
 0.0.0.0 offermatica.com
 0.0.0.0 offerserve.com
@@ -3511,7 +3518,6 @@
 0.0.0.0 servedbyopenx.com
 0.0.0.0 servemeads.com
 0.0.0.0 serve-sys.com
-0.0.0.0 servicegetbook.net
 0.0.0.0 services.hearstmags.com
 0.0.0.0 serving-system.com
 0.0.0.0 sessionm.com
@@ -4001,6 +4007,7 @@
 0.0.0.0 track.linktech.cn
 0.0.0.0 track.luckylesbians.com
 0.0.0.0 track.mandy-mitchell.com
+0.0.0.0 track.mariam-micol.com
 0.0.0.0 track.maxatin.pl
 0.0.0.0 track.mia-isabella.com
 0.0.0.0 track.mileymason.com
@@ -4332,7 +4339,6 @@
 0.0.0.0 webstat.com
 0.0.0.0 webstat.net
 0.0.0.0 webstats4u.com
-0.0.0.0 webtrackerplus.com
 0.0.0.0 webtraffic.ttinet.com
 0.0.0.0 webtraxx.de
 0.0.0.0 webtrendslive.com
@@ -4365,6 +4371,7 @@
 0.0.0.0 woopra.com
 0.0.0.0 wootmedia.net
 0.0.0.0 wordego.com
+0.0.0.0 wordgetboo.com
 0.0.0.0 worldwidemailer.com
 0.0.0.0 worthathousandwords.com
 0.0.0.0 worthyadvertising.com
@@ -4427,6 +4434,7 @@
 0.0.0.0 yieldmo.com
 0.0.0.0 yieldselect.com
 0.0.0.0 yieldtraffic.com
+0.0.0.0 yiq6p.com
 0.0.0.0 yllix.com
 0.0.0.0 yobr.net
 0.0.0.0 yoc-adserver.com

@@ -1,7 +1,7 @@
 # ck-spotify Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/Corporations/Spotify%20Ad-Free/CK%27s-Spotify-FilterList.txt
-# Last Converted - Fri, 07 Sep 2018 07:07:29 -0400
+# Last Converted - Thu, 13 Sep 2018 16:17:55 -0400
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -796,13 +796,9 @@
 0.0.0.0 christopher.lon.spotify.com
 0.0.0.0 beta.static.tune.com
 0.0.0.0 api.zwizzarmyknife.com
-0.0.0.0 ads.pubmatic.com
-0.0.0.0 gads.pubmatic.com
-0.0.0.0 pubads.g.doubleclick.net
-0.0.0.0 securepubads.g.doubleclick.net
-0.0.0.0 spclient.wg.spotify.com
-0.0.0.0 heads4-ak.spotify.com.edgesuite.net
-0.0.0.0 heads3-ak.spotify.com.edgesuite.net
-0.0.0.0 heads2-ak.spotify.com.edgesuite.net
-0.0.0.0 heads1-ak.spotify.com.edgesuite.net
-0.0.0.0 gcdn.2mdn.net
+0.0.0.0 star-z-mini.c10r.facebook.com
+0.0.0.0 secure-gg.imrworldwide.com
+0.0.0.0 imagesrv.adition.com
+0.0.0.0 ad3.adfarm1.adition.com
+0.0.0.0 a301.w62d.akamai.net
+0.0.0.0 a297.c.akamai.net

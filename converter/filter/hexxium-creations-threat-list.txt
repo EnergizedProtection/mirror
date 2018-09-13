@@ -1,11 +1,60 @@
 # hexxium-creations-threat-list Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/HexxiumCreations/threat-list/gh-pages/hexxiumthreatlist.txt
-# Last Converted - Fri, 07 Sep 2018 07:07:27 -0400
+# Last Converted - Thu, 13 Sep 2018 16:17:53 -0400
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
 
+0.0.0.0 csgodel.com
+0.0.0.0 steamwalletgift.com
+0.0.0.0 nazgyltrade.com
+0.0.0.0 mysteamrewards.com
+0.0.0.0 skins2bet.com
+0.0.0.0 reflexdrops.com
+0.0.0.0 bitfarm.space
+0.0.0.0 bwfj0kyt.ga
+0.0.0.0 skin-detail.com
+0.0.0.0 funanomie.com
+0.0.0.0 dlzoffers.com
+0.0.0.0 sutraplay.com
+0.0.0.0 net-ax40.stream
+0.0.0.0 downloadappmarket.com
+0.0.0.0 rewardexplore.com
+0.0.0.0 surveysandpromotionsusa.com
+0.0.0.0 playsicko.com
+0.0.0.0 retailer-savings.com
+0.0.0.0 funlocket.com
+0.0.0.0 tf2hit.com
+0.0.0.0 idrop.space
+0.0.0.0 urbookdownload.com
+0.0.0.0 eonsmedia.com
+0.0.0.0 hugestfun.com
+0.0.0.0 instantplaygiveawayentry.com
+0.0.0.0 getsamplesonlinenow.com
+0.0.0.0 smoothreward.com
+0.0.0.0 iiisurvey.com
+0.0.0.0 retailrewardsclub.net
+0.0.0.0 consumerproductsusa.com
+0.0.0.0 raisegame.com
+0.0.0.0 zumastar.com
+0.0.0.0 wegotmedia.co
+0.0.0.0 funmarten.com
+0.0.0.0 gifthouse.us.com
+0.0.0.0 primerewardsusa.com
+0.0.0.0 hot2017rewards.com
+0.0.0.0 surveysandpromotionsonline.com
+0.0.0.0 nationaldigitalsurvey.com
+0.0.0.0 publicsurveypanel.com
+0.0.0.0 dlzoffers.com
+0.0.0.0 gadgetcenter.us.com
+0.0.0.0 favgame.net
+0.0.0.0 idownloadsnow.com
+0.0.0.0 loo-tfarm.xyz
+0.0.0.0 popslectionflash.xyz
+0.0.0.0 skinsfarm.space
+0.0.0.0 skinsfarm.top
+0.0.0.0 viral.ltd
 0.0.0.0 creditscheat.com
 0.0.0.0 discountbape.com
 0.0.0.0 musk-surprise.info

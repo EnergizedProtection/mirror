@@ -1,7 +1,7 @@
 # easyprivacy Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://easylist.to/easylist/easyprivacy.txt
-# Last Converted - Fri, 07 Sep 2018 07:07:20 -0400
+# Last Converted - Thu, 13 Sep 2018 16:17:43 -0400
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -95,12 +95,14 @@
 0.0.0.0 activemeter.com
 0.0.0.0 activeprospects.com
 0.0.0.0 actnx.com
+0.0.0.0 acuityplatform.com
 0.0.0.0 acxiom-online.com
 0.0.0.0 acxiomapac.com
 0.0.0.0 ad-score.com
 0.0.0.0 adabra.com
 0.0.0.0 adalyser.com
 0.0.0.0 adblade.com
+0.0.0.0 adblockrelief.com
 0.0.0.0 adchemix.com
 0.0.0.0 adchemy-content.com
 0.0.0.0 adchemy.com
@@ -584,7 +586,6 @@
 0.0.0.0 d41.co
 0.0.0.0 dable.io
 0.0.0.0 dacounter.com
-0.0.0.0 dadi.technology
 0.0.0.0 dailycaller-alerts.com
 0.0.0.0 dapxl.com
 0.0.0.0 dashboard.io
@@ -1511,6 +1512,7 @@
 0.0.0.0 perimeterx.net
 0.0.0.0 perion.com
 0.0.0.0 permutive.com
+0.0.0.0 personalicanvas.com
 0.0.0.0 personyze.com
 0.0.0.0 petametrics.com
 0.0.0.0 phonalytics.com
@@ -1808,6 +1810,7 @@
 0.0.0.0 silvergamed.com
 0.0.0.0 silverpop.com
 0.0.0.0 silverpush.co
+0.0.0.0 simpleheatmaps.com
 0.0.0.0 simplehitcounter.com
 0.0.0.0 simplereach.com
 0.0.0.0 simpli.fi
@@ -1856,6 +1859,7 @@
 0.0.0.0 sniphub.com
 0.0.0.0 snoobi.com
 0.0.0.0 snowsignal.com
+0.0.0.0 social-sb.com
 0.0.0.0 socialhoney.co
 0.0.0.0 socialprofitmachine.com
 0.0.0.0 socialtrack.co
@@ -2130,6 +2134,7 @@
 0.0.0.0 tw.cx
 0.0.0.0 twcount.com
 0.0.0.0 twopointo.io
+0.0.0.0 txmoadserver.net
 0.0.0.0 tylere.net
 0.0.0.0 tynt.com
 0.0.0.0 tyxo.com
@@ -2726,6 +2731,7 @@
 0.0.0.0 sparechange.io
 0.0.0.0 sparnove.com
 0.0.0.0 static-cnt.bid
+0.0.0.0 static-sb.com
 0.0.0.0 staticsfs.host
 0.0.0.0 statistic.date
 0.0.0.0 stonecalcom.com
@@ -3201,6 +3207,7 @@
 0.0.0.0 titag.com
 0.0.0.0 tnsinternet.be
 0.0.0.0 toc.io
+0.0.0.0 tracking.wlscripts.net
 0.0.0.0 trafiz.net
 0.0.0.0 url-stats.net
 0.0.0.0 webcompteur.com
@@ -3639,9 +3646,11 @@
 0.0.0.0 micodigo.com
 0.0.0.0 seedtag.com
 0.0.0.0 adsettings.com
+0.0.0.0 adten.eu
 0.0.0.0 adtlgc.com
 0.0.0.0 adtraction.com
 0.0.0.0 bonnieradnetwork.se
+0.0.0.0 brandmetrics.com
 0.0.0.0 citypaketet.se
 0.0.0.0 dep-x.com
 0.0.0.0 myvisitors.se
@@ -3649,10 +3658,12 @@
 0.0.0.0 publish-int.se
 0.0.0.0 research-int.se
 0.0.0.0 sifomedia.se
+0.0.0.0 suntcontent.se
 0.0.0.0 tidningsnatet.se
 0.0.0.0 tns-sifo.se
 0.0.0.0 vastpaketet.se
 0.0.0.0 webserviceaward.com
+0.0.0.0 worldoftulo.com
 0.0.0.0 d-stats.com
 0.0.0.0 tracker.stats.in.th
 0.0.0.0 truehits.net
@@ -5102,6 +5113,7 @@
 0.0.0.0 tracker.thinkindot.com
 0.0.0.0 collector.schibsted.io
 0.0.0.0 counter.mtgnewmedia.se
+0.0.0.0 evt.klarna.com
 0.0.0.0 stats.dominoplaza.com
 0.0.0.0 vizzit.se
 0.0.0.0 sal.isanook.com
@@ -5562,6 +5574,7 @@
 0.0.0.0 rta2.metro.co.uk
 0.0.0.0 rtn.thestar.com
 0.0.0.0 s.infogr.am
+0.0.0.0 s.infogram.com
 0.0.0.0 s.youtube.com
 0.0.0.0 s2.youtube.com
 0.0.0.0 sa.bbc.co.uk
@@ -6263,8 +6276,10 @@
 0.0.0.0 pixel.europapress.net
 0.0.0.0 stats.milenio.com
 0.0.0.0 ai.idg.se
+0.0.0.0 ax.idg.se
 0.0.0.0 beacon.mtgx.tv
 0.0.0.0 fusion.bonniertidskrifter.se
+0.0.0.0 gx.idg.se
 0.0.0.0 prod-metro-collector.cloudapp.net
 0.0.0.0 stat.nyheter24.se
 0.0.0.0 c.gazetevatan.com

@@ -1,11 +1,47 @@
 # cybercrime Custom Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://v.firebog.net/hosts/Cybercrime.txt
-# Last Converted - Fri, 07 Sep 2018 07:07:32 -0400
+# Last Converted - Thu, 13 Sep 2018 16:17:58 -0400
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
 
+0.0.0.0 samnapkach.com
+0.0.0.0 ace3.legendsbotnet.live
+0.0.0.0 safemann.tk
+0.0.0.0 russianminers.zzz.com.ua
+0.0.0.0 freefreightquote.net
+0.0.0.0 fourwaysgroup.com
+0.0.0.0 www.siyaghasourccing.com
+0.0.0.0 getupandcboz.com
+0.0.0.0 muztarelakop.com
+0.0.0.0 mazeedkyabar.com
+0.0.0.0 mabnibatain.com
+0.0.0.0 kikehraeein.com
+0.0.0.0 fidingonman.com
+0.0.0.0 ajibadatzalim.com
+0.0.0.0 salesgroupmotive.ga
+0.0.0.0 kurarray.com
+0.0.0.0 www.sertencee.xyz
+0.0.0.0 jvl-jp.co
+0.0.0.0 lltagrain.com
+0.0.0.0 siyaghasourccing.com
+0.0.0.0 sewangikakao.com
+0.0.0.0 insignia.co.mw
+0.0.0.0 esperenzaeg.com
+0.0.0.0 bosch-pharmia.com
+0.0.0.0 gyrnta.com
+0.0.0.0 walletcoinminer.com
+0.0.0.0 prodcomplast.ro
+0.0.0.0 alpacham.com
+0.0.0.0 kmnnl.com
+0.0.0.0 tekinkgroup.com
+0.0.0.0 mail.ahcindia.com
+0.0.0.0 asedl.am
+0.0.0.0 thegoldfingerinc.com
+0.0.0.0 mountainviewproductions.ca
+0.0.0.0 freightagents.net
+0.0.0.0 0day4today.com
 0.0.0.0 smtgo.ga
 0.0.0.0 xn--bimain-j17b.com
 0.0.0.0 vkoldru.000webhostapp.com
@@ -59,7 +95,6 @@
 0.0.0.0 rhombus-rolen.com
 0.0.0.0 comatprojects.com
 0.0.0.0 jaygarish.com
-0.0.0.0 alpacham.com
 0.0.0.0 hkenngr.com
 0.0.0.0 akarcengal.com
 0.0.0.0 kikidoyoulabme222.ru
@@ -156,7 +191,6 @@
 0.0.0.0 newskyinternational.com
 0.0.0.0 newskyspaces.us
 0.0.0.0 cofancio.com
-0.0.0.0 bosch-pharmia.com
 0.0.0.0 adirektiva.com
 0.0.0.0 www.jjken.be
 0.0.0.0 seganag.com
@@ -321,7 +355,6 @@
 0.0.0.0 oliverrbatlle.com
 0.0.0.0 mclhk-net.com
 0.0.0.0 kaokao-twn.com
-0.0.0.0 jvl-jp.co
 0.0.0.0 hashitachi-sg.com
 0.0.0.0 grantis.us
 0.0.0.0 enerrpac.com
@@ -354,7 +387,6 @@
 0.0.0.0 blackat-com.gq
 0.0.0.0 avvalves-com.ml
 0.0.0.0 dilinger.ga
-0.0.0.0 insignia.co.mw
 0.0.0.0 blackberryscreens.com
 0.0.0.0 premoldadoslopes.com.br
 0.0.0.0 adohem-me.com
@@ -425,7 +457,6 @@
 0.0.0.0 bugsnewdefined.ml
 0.0.0.0 bwgulld.com
 0.0.0.0 crinz.usa.cc
-0.0.0.0 fourwaysgroup.com
 0.0.0.0 gen2power.com.au
 0.0.0.0 metreco-g.com
 0.0.0.0 naukarilo.com
@@ -539,7 +570,6 @@
 0.0.0.0 alivechannel.org
 0.0.0.0 varde1999.com
 0.0.0.0 shiipco.com
-0.0.0.0 tekinkgroup.com
 0.0.0.0 shamrockmanufacturing.asia
 0.0.0.0 cityhotel.ge
 0.0.0.0 www.lotion3.com
@@ -1609,7 +1639,6 @@
 0.0.0.0 www.panels18.info
 0.0.0.0 nomvibe.ml
 0.0.0.0 shoecaps.su
-0.0.0.0 0day4today.com
 0.0.0.0 www.mmosystem.ga
 0.0.0.0 pakfood-th.co
 0.0.0.0 sicc-italia.cf
