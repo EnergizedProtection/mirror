@@ -73,6 +73,12 @@ $lists = array(
 	
 	// Easylist Adult Specific
 	'easylist-adult-specific' => 'https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_specific_block.txt',
+  
+  // Easylist China
+  'easylist-china' => 'https://easylist-downloads.adblockplus.org/easylistchina.txt',
+  
+  // Gnuzilla
+  'gnuzilla' => 'https://gnuzilla.gnu.org/filters/blacklist.txt',
 	
 	// FanBoy EnhancedStats
 	'fanboy-enhanced-stats' => 'https://www.fanboy.co.nz/enhancedstats.txt',
