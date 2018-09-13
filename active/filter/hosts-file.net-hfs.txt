@@ -283,7 +283,6 @@
 0.0.0.0 www.093.su
 0.0.0.0 www.1000taxi.com
 0.0.0.0 www.10thavenuetheatre.com
-0.0.0.0 www.2joygame.com
 0.0.0.0 www.360indiaonline.com
 0.0.0.0 www.a1autotransport.com
 0.0.0.0 www.aaron-nn.ru
@@ -561,6 +560,6 @@
 # Source - https://hosts-file.net/hfs.txt
 # Generated - 13.09.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 558
+# Total Domains: 557
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

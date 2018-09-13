@@ -5,7 +5,6 @@
 0.0.0.0 9p.cn
 0.0.0.0 active-revenue1.impcodear.xyz
 0.0.0.0 active-revenue2.impcodear2.xyz
-0.0.0.0 activerevenue1.ustest.xyz
 0.0.0.0 adblockerext.com
 0.0.0.0 adblockext.com
 0.0.0.0 adblocktoolext.com
@@ -15,7 +14,6 @@
 0.0.0.0 api.toptenreviews.com
 0.0.0.0 apiurl.org
 0.0.0.0 avgasses.stream
-0.0.0.0 bigbil33.club
 0.0.0.0 bimegg5.info
 0.0.0.0 biology-chidden.stream
 0.0.0.0 booting522-info.ml
@@ -132,11 +130,9 @@
 0.0.0.0 server3.andhugedeal.info
 0.0.0.0 server4.beginanywhere.info
 0.0.0.0 server4.convertsrvr.com
-0.0.0.0 server4.economyinsights.info
 0.0.0.0 server4.inagentleway.info
 0.0.0.0 server4.jeeperskeepers.info
 0.0.0.0 server4.justthinkdifferent.info
-0.0.0.0 server4.maderearth.info
 0.0.0.0 server4.maketodayamazing.info
 0.0.0.0 server4.perfectlyfabulous.info
 0.0.0.0 server4.sticker-happy.com
@@ -243,7 +239,6 @@
 0.0.0.0 www.www4search.net
 0.0.0.0 www4search.net
 0.0.0.0 xml.rxfclk3.com
-0.0.0.0 youngteenporn.proboards89.com
 0.0.0.0 zanthoxylum.stream
 0.0.0.0 zincify.stream
 
@@ -251,6 +246,6 @@
 # Source - https://hosts-file.net/hjk.txt
 # Generated - 13.09.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 248
+# Total Domains: 243
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

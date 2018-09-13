@@ -138,7 +138,6 @@
 0.0.0.0 cathome.org.tw
 0.0.0.0 catiuzmani.com
 0.0.0.0 ccc.5208.cc
-0.0.0.0 cdn.discordapp.com
 0.0.0.0 ceo.org.my
 0.0.0.0 cesimboztepemetal.com
 0.0.0.0 chalesmontanha.com
@@ -234,7 +233,6 @@
 0.0.0.0 dmsta.com
 0.0.0.0 dnyanshree.edu.in
 0.0.0.0 docmagnet.com
-0.0.0.0 docs.google.com
 0.0.0.0 dogtrainingbytiffany.com
 0.0.0.0 dolhun.pl
 0.0.0.0 dongbac-architects.com
@@ -626,7 +624,6 @@
 0.0.0.0 ramshero.com
 0.0.0.0 rapidhrs.com
 0.0.0.0 rassvet-sbm.ru
-0.0.0.0 raw.githubusercontent.com
 0.0.0.0 real-deal.net
 0.0.0.0 reflist.com
 0.0.0.0 regionsnews.net
@@ -865,6 +862,6 @@
 # Source - http://www.urlvir.com/export-hosts
 # Generated - 13.09.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 862
+# Total Domains: 859
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

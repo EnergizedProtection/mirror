@@ -3,7 +3,6 @@
 0.0.0.0 cf-particle-html.eip.telegraph.co.uk
 0.0.0.0 cnil.links-lab.fr
 0.0.0.0 cookie.gazeta.pl
-0.0.0.0 cookie.oup.com
 0.0.0.0 cookie.wieni.be
 0.0.0.0 cookies.fakt.pl
 0.0.0.0 cookies.forbes.pl
@@ -11,8 +10,6 @@
 0.0.0.0 cookies.leadplace.fr
 0.0.0.0 cookies.nos.nl
 0.0.0.0 cookies.unidadeditorial.es
-0.0.0.0 curate.venturebeat.com
-0.0.0.0 d1uh1a7az90pt0.cloudfront.net
 0.0.0.0 d2r1yp2w7bby2u.cloudfront.net
 0.0.0.0 d5k6iufjynyu8.cloudfront.net
 0.0.0.0 dam.bbcchannels.com
@@ -29,7 +26,6 @@
 0.0.0.0 policies.warnerbros.com
 0.0.0.0 privacy.purch.com
 0.0.0.0 privacy.schibsted.com
-0.0.0.0 privacy.totaaltv.nl
 0.0.0.0 privacyportal.fatergroup.com
 0.0.0.0 push.cnnindonesia.com
 0.0.0.0 rodo.agora.pl
@@ -37,7 +33,6 @@
 0.0.0.0 social.dw.de
 0.0.0.0 sp.knowyourmeme.com
 0.0.0.0 thenational-gb.thenational.scot
-0.0.0.0 tmform.azurewebsites.net
 0.0.0.0 twitter-badges.s3.amazonaws.com
 0.0.0.0 widgets.sprinkletxt.com
 0.0.0.0 zgody.infor.pl
@@ -46,6 +41,6 @@
 # Source - https://raw.githubusercontent.com/hectorm/hMirror/master/data/fanboy-annoyance/list.txt
 # Generated - 13.09.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 43
+# Total Domains: 38
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

@@ -1,6 +1,5 @@
 0.0.0.0 a.eporner.com
 0.0.0.0 a.heavy-r.com
-0.0.0.0 a.killergram-girls.com
 0.0.0.0 ad.eporner.com
 0.0.0.0 ad.slutload.com
 0.0.0.0 ad.thisav.com
@@ -11,7 +10,6 @@
 0.0.0.0 b.xcafe.com
 0.0.0.0 banner1.pornhost.com
 0.0.0.0 banners.cams.com
-0.0.0.0 bob.crazyshit.com
 0.0.0.0 brcache.madthumbs.com
 0.0.0.0 bugel.pronpic.org
 0.0.0.0 cams.pornrabbit.com
@@ -26,32 +24,25 @@
 0.0.0.0 dot.eporner.com
 0.0.0.0 dot2.eporner.com
 0.0.0.0 dyn.tnaflix.com
-0.0.0.0 exit.macandbumble.com
 0.0.0.0 fritchy.com
 0.0.0.0 lw1.cdmediaworld.com
-0.0.0.0 media1.realgfporn.com
 0.0.0.0 myashot.txxx.com
 0.0.0.0 newmail.pronpic.org
 0.0.0.0 partners.keezmovies.com
 0.0.0.0 planetsuzy.org
 0.0.0.0 pr-static.empflix.com
-0.0.0.0 pr-static.tnaflix.com
-0.0.0.0 pronpic.org$media
 0.0.0.0 r.radikal.ru
 0.0.0.0 rev.fapdu.com
 0.0.0.0 s.xvideos.com
-0.0.0.0 site.img.4tube.com
 0.0.0.0 static.kinghost.com
 0.0.0.0 t.xtubetv.net
 0.0.0.0 www.youjizz.com
-0.0.0.0 x.eroticity.net
-0.0.0.0 x.vipergirls.to
 0.0.0.0 youjizz.com
 
 # Hosts - easylist-adult-specific
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easylist-adult-specific.txt
 # Generated - 13.09.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 49
+# Total Domains: 40
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

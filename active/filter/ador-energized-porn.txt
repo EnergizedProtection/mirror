@@ -128,14 +128,12 @@
 0.0.0.0 www.youjizz.com
 0.0.0.0 www.youporn.com
 0.0.0.0 xhamster.com
-0.0.0.0 xnxx.club
 0.0.0.0 xnxx.fit
 0.0.0.0 xnxx.kim
 0.0.0.0 xnxx.me
 0.0.0.0 xnxx.news
 0.0.0.0 xnxx.pink
 0.0.0.0 xnxx.red
-0.0.0.0 xnxx2017.org
 0.0.0.0 xnxx2018.org
 0.0.0.0 xnxxhamster.net
 0.0.0.0 xnxxpornhub.space
@@ -148,6 +146,6 @@
 # Source - https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts-porn
 # Generated - 13.09.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 145
+# Total Domains: 143
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

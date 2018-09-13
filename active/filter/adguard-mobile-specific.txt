@@ -1,4 +1,3 @@
-0.0.0.0 afreeca-tag.ad-mapps.com
 0.0.0.0 d27tpsznug51gz.cloudfront.net
 0.0.0.0 etl.tindersparks.com
 0.0.0.0 mtag.mman.kr
@@ -9,6 +8,6 @@
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-mobile-specific.txt
 # Generated - 13.09.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 6
+# Total Domains: 5
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

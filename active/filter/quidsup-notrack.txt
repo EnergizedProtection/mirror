@@ -4,13 +4,11 @@
 0.0.0.0 ad-score.com
 0.0.0.0 ad-serverparc.nl
 0.0.0.0 ad.groupon.co.uk
-0.0.0.0 adblockerkillswebsites.pw
 0.0.0.0 adbutler-tachyon.com
 0.0.0.0 adcash.com
 0.0.0.0 adcentriconline.com
 0.0.0.0 addeluxe.jp
 0.0.0.0 adglare.net
-0.0.0.0 adip.ly
 0.0.0.0 adixo.com
 0.0.0.0 adizio.com
 0.0.0.0 adjug.com
@@ -33,7 +31,6 @@
 0.0.0.0 adrotate.se
 0.0.0.0 adrsp.net
 0.0.0.0 ads-creativesyndicator.com
-0.0.0.0 ads-verify.net
 0.0.0.0 ads.hearstmags.com
 0.0.0.0 ads5-adnow.com
 0.0.0.0 adsafeprotected.com
@@ -42,7 +39,6 @@
 0.0.0.0 adsclean.com
 0.0.0.0 adsensecustomsearchads.com
 0.0.0.0 adsfac.eu
-0.0.0.0 adsignify.net
 0.0.0.0 adsnative.com
 0.0.0.0 adsonar.com
 0.0.0.0 adspdbl.com
@@ -102,7 +98,6 @@
 0.0.0.0 audienceiq.com
 0.0.0.0 auditude.com
 0.0.0.0 augur.io
-0.0.0.0 authorisationimprint.com
 0.0.0.0 aweber.com
 0.0.0.0 awltovhc.com
 0.0.0.0 azalead.com
@@ -127,7 +122,6 @@
 0.0.0.0 blogherads.com
 0.0.0.0 bluebillywig.com
 0.0.0.0 bluelithium.com
-0.0.0.0 bluesnapper.au
 0.0.0.0 bluesnapper.com
 0.0.0.0 bluesnapper.com.au
 0.0.0.0 bluevoice.biz
@@ -146,7 +140,6 @@
 0.0.0.0 brilig.com
 0.0.0.0 britecove.biz
 0.0.0.0 broker.to
-0.0.0.0 btstatic.com
 0.0.0.0 bugherd.com
 0.0.0.0 builfico.de
 0.0.0.0 burstnet.com
@@ -183,7 +176,6 @@
 0.0.0.0 clicks4ads.com
 0.0.0.0 clicktale.net
 0.0.0.0 cmcore.com
-0.0.0.0 cmmeglobal.com
 0.0.0.0 cnzz.com
 0.0.0.0 collective.com
 0.0.0.0 compete.com
@@ -191,7 +183,6 @@
 0.0.0.0 consumerenergyreport.com
 0.0.0.0 content-square.net
 0.0.0.0 content.ad
-0.0.0.0 contentclick.co.uk
 0.0.0.0 contentfeed.net
 0.0.0.0 contentquery.net
 0.0.0.0 contextweb.com
@@ -201,7 +192,6 @@
 0.0.0.0 cookiesync.vertamedia.com
 0.0.0.0 coremetrics.eu
 0.0.0.0 corporate-ir.net
-0.0.0.0 cp1.news.com.au
 0.0.0.0 cq.io
 0.0.0.0 cqcounter.com
 0.0.0.0 cquotient.com
@@ -218,7 +208,6 @@
 0.0.0.0 custhelp.com
 0.0.0.0 d-80-live.com
 0.0.0.0 d09.no
-0.0.0.0 d3ujids68p6xmp.cloudfront.net
 0.0.0.0 da-ads.com
 0.0.0.0 daphnecm.com
 0.0.0.0 dapxl.com
@@ -227,19 +216,14 @@
 0.0.0.0 data.coremetrics.com
 0.0.0.0 datacaciques.com
 0.0.0.0 dcoengine.com
-0.0.0.0 de.coremetrics.com
-0.0.0.0 declaredthoughtfulness.co
 0.0.0.0 deployads.com
-0.0.0.0 device-metrics-us.amazon.com
 0.0.0.0 dianomi.com
-0.0.0.0 directedat.asia
 0.0.0.0 directrev.com
 0.0.0.0 displaymarketplace.com
 0.0.0.0 dl-rms.com
 0.0.0.0 dlqm.net
 0.0.0.0 dmd.metaservices.microsoft.com
 0.0.0.0 dmtracker.com
-0.0.0.0 dmtracking2.alibaba.com
 0.0.0.0 dmtrk.net
 0.0.0.0 dmtry.com
 0.0.0.0 domdex.com
@@ -271,7 +255,6 @@
 0.0.0.0 ensighten.com
 0.0.0.0 epmads.com
 0.0.0.0 eqads.com
-0.0.0.0 erne.co
 0.0.0.0 ero-advertising.com
 0.0.0.0 esearchvision.com
 0.0.0.0 esprima.org
@@ -284,7 +267,6 @@
 0.0.0.0 evergage.com
 0.0.0.0 evisitanalyst.com
 0.0.0.0 exelator.com
-0.0.0.0 exhaustionlaurenbremsstrahlung.info
 0.0.0.0 exoclick.com
 0.0.0.0 exovueplatform.com
 0.0.0.0 exponential.com
@@ -307,7 +289,6 @@
 0.0.0.0 flite.com
 0.0.0.0 fogzyads.com
 0.0.0.0 followistic.com
-0.0.0.0 force.com
 0.0.0.0 forkmedia.in
 0.0.0.0 formalyzer.com
 0.0.0.0 forter.com
@@ -331,7 +312,6 @@
 0.0.0.0 getdrip.com
 0.0.0.0 gettraff.com
 0.0.0.0 ggimg.tapas.net
-0.0.0.0 gigya.com
 0.0.0.0 gldsta-02-or.com
 0.0.0.0 go-mpulse.net
 0.0.0.0 go2cloud.org
@@ -346,14 +326,12 @@
 0.0.0.0 gosquared.com
 0.0.0.0 gpwebsolutions.co.uk
 0.0.0.0 grapeshot.co.uk
-0.0.0.0 gravity.com
 0.0.0.0 greatestoldupgrading.review
 0.0.0.0 grvcdn.com
 0.0.0.0 gscontxt.net
 0.0.0.0 gssprt.jp
 0.0.0.0 gumgum.com
 0.0.0.0 guomob.com
-0.0.0.0 guttastatdk.us
 0.0.0.0 hanapinmarketing.com
 0.0.0.0 hardofhearing.org
 0.0.0.0 heapanalytics.com
@@ -368,7 +346,6 @@
 0.0.0.0 hxtrack.com
 0.0.0.0 hyfffpaint.com
 0.0.0.0 i-transactads.com
-0.0.0.0 iasds01.com
 0.0.0.0 ib-ibi.com
 0.0.0.0 ibillboard.com
 0.0.0.0 icandi.de
@@ -378,17 +355,14 @@
 0.0.0.0 iframes.us
 0.0.0.0 igodigital.com
 0.0.0.0 igsonar.com
-0.0.0.0 imedia.cz
 0.0.0.0 imgclick.net
 0.0.0.0 imiclk.com
 0.0.0.0 impact-ad.com
-0.0.0.0 impact-ad.jp
 0.0.0.0 impact-ad.net
 0.0.0.0 impdesk.com
 0.0.0.0 impressiondesk.com
 0.0.0.0 imrworldwide.com
 0.0.0.0 industrybrains.com
-0.0.0.0 inetwork.directory
 0.0.0.0 infernotions.com
 0.0.0.0 infinity-tracking.net
 0.0.0.0 infolinks.com
@@ -400,14 +374,10 @@
 0.0.0.0 intellitxt.com
 0.0.0.0 intenta.io
 0.0.0.0 intentiq.com
-0.0.0.0 intentmedia.net
 0.0.0.0 interclick.com
-0.0.0.0 intercom.io
 0.0.0.0 intercomassets.com
 0.0.0.0 invitemedia.com
 0.0.0.0 invoc.us
-0.0.0.0 ioam.de
-0.0.0.0 ipccdn.co.uk
 0.0.0.0 ipromote.com
 0.0.0.0 ist-track.com
 0.0.0.0 iu16wmye.com
@@ -421,7 +391,6 @@
 0.0.0.0 jwpltx.com
 0.0.0.0 k-analytix.com
 0.0.0.0 kastatic.com
-0.0.0.0 kau.li
 0.0.0.0 kiosked.com
 0.0.0.0 kissmetrics.com
 0.0.0.0 komoona.com
@@ -438,9 +407,7 @@
 0.0.0.0 liadm.com
 0.0.0.0 lijit.com
 0.0.0.0 likemastr.com
-0.0.0.0 linkbucks.com
 0.0.0.0 linkoffers.net
-0.0.0.0 linksynergy.com
 0.0.0.0 listrakbi.com
 0.0.0.0 liveadexchanger.com
 0.0.0.0 liveadvert.com
@@ -490,7 +457,6 @@
 0.0.0.0 mgid.com
 0.0.0.0 mgsvc.com
 0.0.0.0 micpn.com
-0.0.0.0 milenar-ads.pt
 0.0.0.0 millennialmedia.com
 0.0.0.0 mixpanel.com
 0.0.0.0 mktoresp.com
@@ -515,10 +481,7 @@
 0.0.0.0 mydas.mobi
 0.0.0.0 mystats.in
 0.0.0.0 myswitchads.com
-0.0.0.0 mythings.com
-0.0.0.0 mytrafficvalue.commsedge.net
 0.0.0.0 nanigans.com
-0.0.0.0 net.ar
 0.0.0.0 netcommunities.com
 0.0.0.0 netmng.com
 0.0.0.0 netseer.com
@@ -532,8 +495,6 @@
 0.0.0.0 octonet.com
 0.0.0.0 officemart.ru
 0.0.0.0 offpageads.com
-0.0.0.0 oileddaintiessunset.info
-0.0.0.0 om.au
 0.0.0.0 omessage.com
 0.0.0.0 omnitagjs.com
 0.0.0.0 onclasrv.com
@@ -546,8 +507,6 @@
 0.0.0.0 onstate.co.uk
 0.0.0.0 onstate.com
 0.0.0.0 ontoplist.com
-0.0.0.0 ooyala.com
-0.0.0.0 ophan.co.uk
 0.0.0.0 optilead.co.uk
 0.0.0.0 optinmonster.com
 0.0.0.0 optnmnstr.com
@@ -566,7 +525,6 @@
 0.0.0.0 perfectaudience.com
 0.0.0.0 piksel.com
 0.0.0.0 pingdom.net
-0.0.0.0 pipeaota.com
 0.0.0.0 pixel.brit.co
 0.0.0.0 pixel.honestjohn.co.uk
 0.0.0.0 pixel.reddit.com
@@ -577,7 +535,6 @@
 0.0.0.0 plugerr.com
 0.0.0.0 plymedia.com
 0.0.0.0 pmpubs.com
-0.0.0.0 po.st
 0.0.0.0 pointroll.com
 0.0.0.0 polar.me
 0.0.0.0 polarmobile.com
@@ -600,7 +557,6 @@
 0.0.0.0 pussycash.com
 0.0.0.0 pvtraffic.com
 0.0.0.0 pwrads.net
-0.0.0.0 pxi.pub
 0.0.0.0 pxlad.io
 0.0.0.0 q1mediahydraplatform.com
 0.0.0.0 q4cdn.com
@@ -633,7 +589,6 @@
 0.0.0.0 rfihub.com
 0.0.0.0 rfihub.net
 0.0.0.0 rhythmxchange.com
-0.0.0.0 riceateastcach.us
 0.0.0.0 richrelevance.com
 0.0.0.0 rlcdn.com
 0.0.0.0 roia.biz
@@ -674,7 +629,6 @@
 0.0.0.0 sharethrough.com
 0.0.0.0 shinystat.com
 0.0.0.0 shop2market.com
-0.0.0.0 sid-ads.com
 0.0.0.0 siftscience.com
 0.0.0.0 silkenthreadiness.info
 0.0.0.0 simpleheatmaps.com
@@ -709,7 +663,6 @@
 0.0.0.0 springboardplatform.com
 0.0.0.0 springserve.com
 0.0.0.0 srvntrk.com
-0.0.0.0 stat.alibaba.com
 0.0.0.0 statcounter.com
 0.0.0.0 stats.bbc.co.uk
 0.0.0.0 steelhousemedia.com
@@ -728,7 +681,6 @@
 0.0.0.0 switchadhub.com
 0.0.0.0 switchads.com
 0.0.0.0 swoop.com
-0.0.0.0 sydjyy.com
 0.0.0.0 taboola.com
 0.0.0.0 taboolasyndication.com
 0.0.0.0 tacoda.net
@@ -760,7 +712,6 @@
 0.0.0.0 tl813.com
 0.0.0.0 tns-counter.ru
 0.0.0.0 topfox.co.uk
-0.0.0.0 topquantnetwork.com
 0.0.0.0 tqlkg.com
 0.0.0.0 tqn.com
 0.0.0.0 track-flow.com
@@ -781,7 +732,6 @@
 0.0.0.0 trkyme.com
 0.0.0.0 truste-svc.net
 0.0.0.0 trustedsite.com
-0.0.0.0 ttxm.co.uk
 0.0.0.0 tubemogul.com
 0.0.0.0 tumri.net
 0.0.0.0 turn.com
@@ -804,7 +754,6 @@
 0.0.0.0 userstats.com
 0.0.0.0 userzoom.com
 0.0.0.0 utarget.ru
-0.0.0.0 vcmedia.vn
 0.0.0.0 veille-referencement.com
 0.0.0.0 venturead.com
 0.0.0.0 veoxa.com
@@ -813,14 +762,12 @@
 0.0.0.0 vertmarkets.com
 0.0.0.0 veruta.com
 0.0.0.0 vgwort.de
-0.0.0.0 viafoura.com
 0.0.0.0 viazza.com
 0.0.0.0 viazza.info
 0.0.0.0 videoadex.com
 0.0.0.0 videologygroup.com
 0.0.0.0 vidlux.com
 0.0.0.0 vidmark.com
-0.0.0.0 vidyard.com
 0.0.0.0 viglink.com
 0.0.0.0 vindicosuite.com
 0.0.0.0 visistat.com
@@ -836,15 +783,11 @@
 0.0.0.0 watcheezy.net
 0.0.0.0 wci-fl.com
 0.0.0.0 webgains.com
-0.0.0.0 webmd.com
-0.0.0.0 website-performance-beacon.autotrader.co.uk
 0.0.0.0 websiteperform.com
 0.0.0.0 webvitality.me
 0.0.0.0 whoisvisiting.com
 0.0.0.0 wickhillnews.com
 0.0.0.0 wikia-beacon.com
-0.0.0.0 wistia.com
-0.0.0.0 wistia.net
 0.0.0.0 woopra.com
 0.0.0.0 wowanalytics.co.uk
 0.0.0.0 wrightsmedia.com
@@ -880,6 +823,6 @@
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/quidsup-no-track.txt
 # Generated - 13.09.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 877
+# Total Domains: 820
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

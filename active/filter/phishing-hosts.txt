@@ -63,7 +63,6 @@
 0.0.0.0 bankcretriam.flu.cc
 0.0.0.0 bankguarantee.ru
 0.0.0.0 bankofamerica-com-login-update.dsasdqweqwe.com
-0.0.0.0 bankofamerica.hotelgreenresidency.com
 0.0.0.0 bankofamerica.namaj.info
 0.0.0.0 banoonotash.com
 0.0.0.0 banquepopulaire.fr.kzieoru.com
@@ -74,7 +73,6 @@
 0.0.0.0 bbyapim.com
 0.0.0.0 be89p2ide4i0rdg0io0o.rozan4clerk.com
 0.0.0.0 be89p2ide4i0rdg0io0o.utahelkwhisperer.com
-0.0.0.0 belonging.cf
 0.0.0.0 berenteagi.eu
 0.0.0.0 bestnet.am
 0.0.0.0 bestresumeguide.com
@@ -245,7 +243,6 @@
 0.0.0.0 help-cxdser.ml
 0.0.0.0 help-vjhvhgvghfv.cf
 0.0.0.0 hentech.com.hk
-0.0.0.0 heraldgroup.com.ge
 0.0.0.0 hfjb3zlrgr2qs0a86z1n.rozan4clerk.com
 0.0.0.0 highschooldropouts.info
 0.0.0.0 hlgghjbjn.000webhostapp.com
@@ -269,11 +266,9 @@
 0.0.0.0 inevent.com.ua
 0.0.0.0 info-l.biz
 0.0.0.0 infomarru-me.my-access.usa.cc
-0.0.0.0 interac.emt.online.ref45554.com
 0.0.0.0 intergoods.rs
 0.0.0.0 ioweidjleriogj.rozan4clerk.com
 0.0.0.0 ipjhzidok6peqqb6k8oo.utahelkwhisperer.com
-0.0.0.0 isabellasturmjena-online.de
 0.0.0.0 it-it.gdpr-facebook.com
 0.0.0.0 it-it.gdrp-facebok.com
 0.0.0.0 jagatwebinar.com
@@ -495,7 +490,6 @@
 0.0.0.0 safeguardtravel.com
 0.0.0.0 safetyvillage.ro
 0.0.0.0 sagarncompany.com
-0.0.0.0 saintsxalley.ga
 0.0.0.0 samarax.com
 0.0.0.0 santiagge.ml
 0.0.0.0 sarapropertywala.com
@@ -536,7 +530,6 @@
 0.0.0.0 startc.co
 0.0.0.0 steamrollercontrol.com
 0.0.0.0 stonelinkers.com
-0.0.0.0 students.igg.biz
 0.0.0.0 studiesmadesimple.com
 0.0.0.0 stylechai.com
 0.0.0.0 success.uw.to
@@ -646,7 +639,6 @@
 0.0.0.0 www.bandaekhuda.com
 0.0.0.0 www.barlingschool.es
 0.0.0.0 www.belonging.cf
-0.0.0.0 www.bit.ly
 0.0.0.0 www.bitly.com
 0.0.0.0 www.brianmcivor.com
 0.0.0.0 www.buonagente.com.br
@@ -764,7 +756,6 @@
 0.0.0.0 www.wellsfargo-com.onlinewf.me
 0.0.0.0 www.wfaz-mobile.icu
 0.0.0.0 www.wfaz-mobile.top
-0.0.0.0 www.xn--amazn-mua.com
 0.0.0.0 xcf0bwur66p9kq5ca6lj.utahelkwhisperer.com
 0.0.0.0 xf-clean.com
 0.0.0.0 xnb2m0xioclmqdaqsuqi.utahelkwhisperer.com
@@ -789,6 +780,6 @@
 # Source - https://gitlab.com/Kurobeats/phishing_hosts/raw/master/hosts
 # Generated - 13.09.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 786
+# Total Domains: 777
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 

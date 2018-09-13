@@ -1,5 +1,3 @@
-0.0.0.0 0912701309f8ce.com
-0.0.0.0 307cc283bab2ffdec92.com
 0.0.0.0 adexec.net
 0.0.0.0 adfox.ru
 0.0.0.0 adition.com
@@ -8,7 +6,6 @@
 0.0.0.0 cnbole.net
 0.0.0.0 d3nvrqlo8rj1kw.cloudfront.net
 0.0.0.0 directadvert.ru
-0.0.0.0 fls-na.amazon.com
 0.0.0.0 go.mobiprotg.com
 0.0.0.0 i-vengo.com
 0.0.0.0 jisucn.com
@@ -20,13 +17,10 @@
 0.0.0.0 psmardr.com
 0.0.0.0 qiqiww.com
 0.0.0.0 reactiv.
-0.0.0.0 securewebboard.com
 0.0.0.0 skycdnhost.com
 0.0.0.0 smilered.com
 0.0.0.0 smintmouse.com
 0.0.0.0 tapcreatives.net
-0.0.0.0 v.fwmrm.net
-0.0.0.0 vip.sc386.com
 0.0.0.0 wrmcfyzl.com
 0.0.0.0 xdbwc.com
 
@@ -34,6 +28,6 @@
 # Source - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-safari.txt
 # Generated - 13.09.2018
 # Created with Quizzer by @adroitadorkhan - nayemador.com
-# Total Domains: 31
+# Total Domains: 25
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 
