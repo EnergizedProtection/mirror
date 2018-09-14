@@ -428,6 +428,7 @@
 127.0.0.1 123.230.65.80.er.eaccess.ne.jp
 127.0.0.1 123.greenhome001.com.cn
 127.0.0.1 123.red-88-30-2.staticip.rima-tde.net
+127.0.0.1 123appz.com
 127.0.0.1 123counter.mycomputer.com
 127.0.0.1 123counter.superstats.com
 127.0.0.1 123date.me
@@ -10857,6 +10858,7 @@
 127.0.0.1 ads.evtv1.com
 127.0.0.1 ads.exosrv.com
 127.0.0.1 ads.extube.org
+127.0.0.1 ads.filez.com
 127.0.0.1 ads.financialcontent.com
 127.0.0.1 ads.firstgrand.com
 127.0.0.1 ads.fitpregnancy.com
@@ -24060,6 +24062,7 @@
 127.0.0.1 cracks007.blogspot.com
 127.0.0.1 cracks007.blogspot.in
 127.0.0.1 cracks4all.com
+127.0.0.1 cracks4u.com
 127.0.0.1 cracks4u.us
 127.0.0.1 cracksall.com
 127.0.0.1 cracksandkeygen.com
@@ -33784,7 +33787,6 @@
 127.0.0.1 heim.ifi.uio.no
 127.0.0.1 heitong.gnway.net
 127.0.0.1 helc.firstlight.cn
-127.0.0.1 helesouurusa.cjb.com
 127.0.0.1 helgardmuller.co.za
 127.0.0.1 helios.wildtangent.com
 127.0.0.1 heliozid.com
@@ -39176,6 +39178,7 @@
 127.0.0.1 localdccom.ourtoolbar.com
 127.0.0.1 localdirectory.com
 127.0.0.1 localendar.com
+127.0.0.1 localhost
 127.0.0.1 localicom.112.2o7.net
 127.0.0.1 localportal24de.112.207.net
 127.0.0.1 localscore.com
@@ -45073,7 +45076,6 @@
 127.0.0.1 osc.webroot.com
 127.0.0.1 oscarroscombr.ourtoolbar.com
 127.0.0.1 osimg.nbcuni.com
-127.0.0.1 osint.bambenekconsulting.com
 127.0.0.1 osiristrading.112.2o7.net
 127.0.0.1 ospetroglifos.com
 127.0.0.1 ospkrutyn.pl
@@ -47012,7 +47014,6 @@
 127.0.0.1 seektheglobe.com
 127.0.0.1 seekwell.net
 127.0.0.1 seen-on-screen.thewhizmarketing.com
-127.0.0.1 seet10.jino.ru
 127.0.0.1 seferworld.com
 127.0.0.1 segob.gob.mx
 127.0.0.1 segufin.com.mx
@@ -49421,7 +49422,6 @@
 127.0.0.1 www.codingthewheel.com
 127.0.0.1 www.coinhive.com
 127.0.0.1 www.coinimp.com
-127.0.0.1 www.coloritpak.by
 127.0.0.1 www.colorleft.com
 127.0.0.1 www.comefri.es
 127.0.0.1 www.commentaborderunefille.fr
@@ -49777,6 +49777,7 @@
 127.0.0.1 www.freemoneyhack.com
 127.0.0.1 www.freenew.net
 127.0.0.1 www.freeserialnumber.eu
+127.0.0.1 www.freeserials.com
 127.0.0.1 www.freeserials.net
 127.0.0.1 www.freeserials.us
 127.0.0.1 www.freeserials.ws
