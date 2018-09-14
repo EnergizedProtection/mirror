@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://easylist-downloads.adblockplus.org/ruadlist+easylist.txt
 # Last Converted - 14.09.2018
-# Total Domains - 24216
+# Total Domains - 24226
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -5876,6 +5876,7 @@
 0.0.0.0 da.feedsportal.com
 0.0.0.0 da.mybb.ru
 0.0.0.0 da.rus-atlas.ru
+0.0.0.0 da2db9251cb202b1.com
 0.0.0.0 da5w2k479hyx2.cloudfront.net
 0.0.0.0 da60995df247712.com
 0.0.0.0 da6fda11b2b0ba.com
@@ -7539,6 +7540,7 @@
 0.0.0.0 f45ff72fec5426ae.com
 0.0.0.0 f47cecd3f0a29874f.com
 0.0.0.0 f4906b7c15ba.com
+0.0.0.0 f4fc7e692ee9d99e.com
 0.0.0.0 f4fe214bd563.com
 0.0.0.0 f5080f5cee5a00.com
 0.0.0.0 f54b0c9d6893bda7b9a.com
@@ -11200,6 +11202,7 @@
 0.0.0.0 jzckyzvlxetror.com
 0.0.0.0 jzekquhmaxrk.com
 0.0.0.0 jzeu6qlk.accountant
+0.0.0.0 jzfzgkepkjcf.com
 0.0.0.0 jzfzjss.com
 0.0.0.0 jzgtnetghdc.com
 0.0.0.0 jzigsobgsmxdmr.bid
@@ -14358,6 +14361,7 @@
 0.0.0.0 neytibo.ru
 0.0.0.0 nfaqnqsfhih.bid
 0.0.0.0 nfbjwvmndabthb.com
+0.0.0.0 nfbpcvzj.com
 0.0.0.0 nfdntqlqrgwc.com
 0.0.0.0 nfefwoasiq.bid
 0.0.0.0 nffsg.com
@@ -17612,6 +17616,7 @@
 0.0.0.0 rezbzvrbemeb.bid
 0.0.0.0 rezfubngrzdet.bid
 0.0.0.0 rezilopompa.com
+0.0.0.0 rfbmtfebfcwlgo.com
 0.0.0.0 rfbrceyxthpj.bid
 0.0.0.0 rfdujczogfnc.com
 0.0.0.0 rfecjuzp.bid
@@ -18328,6 +18333,7 @@
 0.0.0.0 schmeler.biz
 0.0.0.0 scjczeqyuqjs.com
 0.0.0.0 sckpttzpnfimba.bid
+0.0.0.0 sckxppzdm.com
 0.0.0.0 scmffjmashzc.com
 0.0.0.0 scofnjymyym.bid
 0.0.0.0 scootloor.com
@@ -19901,6 +19907,7 @@
 0.0.0.0 thoughtsondance.info
 0.0.0.0 thowytaoo.com
 0.0.0.0 thpsflsjw.com
+0.0.0.0 thqwivyhdpoem.com
 0.0.0.0 threedrive.su
 0.0.0.0 thrilamd.net
 0.0.0.0 thrnt.com
@@ -20341,6 +20348,7 @@
 0.0.0.0 tqixovpneycfmk.com
 0.0.0.0 tqlkg.com
 0.0.0.0 tqlkg.net
+0.0.0.0 tqlypenbt.com
 0.0.0.0 tqmricveyxphfo.com
 0.0.0.0 tqpkegddso.com
 0.0.0.0 tqqjk.top
@@ -23065,6 +23073,7 @@
 0.0.0.0 xnkmmbfpyokevaxsjtky.com
 0.0.0.0 xnlxpsbs.com
 0.0.0.0 xnmphtmerao.bid
+0.0.0.0 xnnbvckd.com
 0.0.0.0 xnqlhbddabfsy.com
 0.0.0.0 xnuuzwthzaol.com
 0.0.0.0 xnvsheyceyjv.com
@@ -23273,6 +23282,7 @@
 0.0.0.0 xzwdo.top
 0.0.0.0 xzzcasiospbn.com
 0.0.0.0 y0gasoil.fyi
+0.0.0.0 y1jxiqds7v.com
 0.0.0.0 y1xjgfhp.racing
 0.0.0.0 y5wflt0xibmoufuvsayg1efy80yq0ystkjncf76cqm.com
 0.0.0.0 y72yuyr9.com

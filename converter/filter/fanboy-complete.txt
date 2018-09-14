@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://fanboy.co.nz/r/fanboy-complete.txt
 # Last Converted - 14.09.2018
-# Total Domains - 23804
+# Total Domains - 23810
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -13883,6 +13883,7 @@
 0.0.0.0 nexttime.ovh
 0.0.0.0 nfaqnqsfhih.bid
 0.0.0.0 nfbjwvmndabthb.com
+0.0.0.0 nfbpcvzj.com
 0.0.0.0 nfdntqlqrgwc.com
 0.0.0.0 nfefwoasiq.bid
 0.0.0.0 nfniziqm.com
@@ -16115,6 +16116,7 @@
 0.0.0.0 pv.sohu.com
 0.0.0.0 pv.udn.com
 0.0.0.0 pv.xcar.com.cn
+0.0.0.0 pvclouds.com
 0.0.0.0 pvdrlztojkd.bid
 0.0.0.0 pviztjecuczh.com
 0.0.0.0 pvjhglgpil.bid
@@ -17015,6 +17017,7 @@
 0.0.0.0 rezilopompa.com
 0.0.0.0 reztrack.com
 0.0.0.0 rezync.com
+0.0.0.0 rfbmtfebfcwlgo.com
 0.0.0.0 rfbrceyxthpj.bid
 0.0.0.0 rfdujczogfnc.com
 0.0.0.0 rfecjuzp.bid
@@ -19585,6 +19588,7 @@
 0.0.0.0 thoughtsondance.info
 0.0.0.0 thowytaoo.com
 0.0.0.0 thpsflsjw.com
+0.0.0.0 thqwivyhdpoem.com
 0.0.0.0 thrilamd.net
 0.0.0.0 thrnt.com
 0.0.0.0 thrutime.net
@@ -22785,6 +22789,7 @@
 0.0.0.0 xnkmmbfpyokevaxsjtky.com
 0.0.0.0 xnlxpsbs.com
 0.0.0.0 xnmphtmerao.bid
+0.0.0.0 xnnbvckd.com
 0.0.0.0 xnqlhbddabfsy.com
 0.0.0.0 xnuuzwthzaol.com
 0.0.0.0 xnvsheyceyjv.com
@@ -22972,6 +22977,7 @@
 0.0.0.0 xzwdhymrdxyp.com
 0.0.0.0 xzzcasiospbn.com
 0.0.0.0 y-track.com
+0.0.0.0 y1jxiqds7v.com
 0.0.0.0 y1xjgfhp.racing
 0.0.0.0 y5wflt0xibmoufuvsayg1efy80yq0ystkjncf76cqm.com
 0.0.0.0 y72yuyr9.com

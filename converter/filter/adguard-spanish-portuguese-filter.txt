@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://filters.adtidy.org/extension/chromium/filters/9.txt
 # Last Converted - 14.09.2018
-# Total Domains - 253
+# Total Domains - 254
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -222,6 +222,7 @@
 0.0.0.0 stats.adn.es
 0.0.0.0 stats.folha.com.br
 0.0.0.0 stats.milenio.com
+0.0.0.0 subdo.torrentrapid.com
 0.0.0.0 swi-adserver.com
 0.0.0.0 sworatio.co
 0.0.0.0 tarot-arcano.com

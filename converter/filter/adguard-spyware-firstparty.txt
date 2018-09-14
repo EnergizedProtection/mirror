@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers_firstparty.txt
 # Last Converted - 14.09.2018
-# Total Domains - 825
+# Total Domains - 824
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -527,7 +527,6 @@
 0.0.0.0 pixel.cdnwidget.com
 0.0.0.0 pixel.condenastdigital.com
 0.0.0.0 pixel.europapress.net
-0.0.0.0 pixel.facebook.com
 0.0.0.0 pixel.parsely.com
 0.0.0.0 pixel.quantserve.com
 0.0.0.0 pixel.roymorgan.com

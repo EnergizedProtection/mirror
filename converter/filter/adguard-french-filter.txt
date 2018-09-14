@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://filters.adtidy.org/extension/chromium/filters/16.txt
 # Last Converted - 14.09.2018
-# Total Domains - 6022
+# Total Domains - 6023
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -4981,6 +4981,7 @@
 0.0.0.0 shaexowi.com
 0.0.0.0 shahn2k.bid
 0.0.0.0 shahneman.info
+0.0.0.0 shalleda.com
 0.0.0.0 shanglinli.com
 0.0.0.0 shapeupobliteration.org
 0.0.0.0 shareaholic.com

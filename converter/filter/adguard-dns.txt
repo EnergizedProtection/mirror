@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://filters.adtidy.org/extension/chromium/filters/15.txt
 # Last Converted - 14.09.2018
-# Total Domains - 21569
+# Total Domains - 21593
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -708,6 +708,7 @@
 0.0.0.0 9nl.eu
 0.0.0.0 9pohbga.com
 0.0.0.0 9ts3tpia.com
+0.0.0.0 9utwbj08.top
 0.0.0.0 9vad.com
 0.0.0.0 a-ads.com
 0.0.0.0 a-cast.jp
@@ -2375,6 +2376,7 @@
 0.0.0.0 aidata.io
 0.0.0.0 aigysycrmuoetk.com
 0.0.0.0 aiiaqehoqgrj.com
+0.0.0.0 aiiukvzjtsc.com
 0.0.0.0 aikdakxoc.com
 0.0.0.0 aim4media.com
 0.0.0.0 aimadigital.com
@@ -2943,6 +2945,7 @@
 0.0.0.0 ascstats.iobit.com
 0.0.0.0 asdhit.com
 0.0.0.0 asdorka.com
+0.0.0.0 asdtwttky.com
 0.0.0.0 aseadnet.com
 0.0.0.0 asecxggulyrf.com
 0.0.0.0 asermtawlfs.xyz
@@ -3078,6 +3081,7 @@
 0.0.0.0 autoteaser.ru
 0.0.0.0 autoua.com
 0.0.0.0 auxmoney-partnerprogramm.de
+0.0.0.0 auyyklnpj.com
 0.0.0.0 av-by.ru
 0.0.0.0 avacd.us
 0.0.0.0 avads.co.uk
@@ -4891,6 +4895,7 @@
 0.0.0.0 clubcollector.com
 0.0.0.0 clustrmaps.com
 0.0.0.0 clvw.net
+0.0.0.0 clybtbahdbwkep.com
 0.0.0.0 clyilp.com
 0.0.0.0 clz3.net
 0.0.0.0 cmbestsrv.com
@@ -6569,6 +6574,7 @@
 0.0.0.0 dyntrk.com
 0.0.0.0 dyrxq.rfskbylbsf.xyz
 0.0.0.0 dyunhvev.com
+0.0.0.0 dywqwrtnhegyz.com
 0.0.0.0 dyzha.com
 0.0.0.0 dyzstwcqbgjk.com
 0.0.0.0 dz4ad.com
@@ -8661,6 +8667,7 @@
 0.0.0.0 gziedzbliamx.com
 0.0.0.0 gzkoehgbpozz.com
 0.0.0.0 gzmofmqddajr.com
+0.0.0.0 gzoprhvqhie.com
 0.0.0.0 gzozvhryjcf.com
 0.0.0.0 gzpqlbqyerpb.com
 0.0.0.0 gzrlatbooqmt.com
@@ -9139,6 +9146,7 @@
 0.0.0.0 huejizictcgd.com
 0.0.0.0 huewmezzodzdv.com
 0.0.0.0 hugeincome.cf
+0.0.0.0 huhrxmgiofzna.com
 0.0.0.0 huigyetqu.com
 0.0.0.0 hulahooprect.com
 0.0.0.0 humanclick.com
@@ -10607,6 +10615,7 @@
 0.0.0.0 klert.com
 0.0.0.0 klfqffhvdpkd.com
 0.0.0.0 klhjuuwrmxyjsn.com
+0.0.0.0 klhvqeajy.com
 0.0.0.0 klick4u.de
 0.0.0.0 klicktausch.com
 0.0.0.0 klickthru.com
@@ -12049,6 +12058,7 @@
 0.0.0.0 metrics34.com
 0.0.0.0 metricsdirect.com
 0.0.0.0 metrigo.com
+0.0.0.0 metrika-informer.com
 0.0.0.0 metriweb.be
 0.0.0.0 mevents.trusteer.com
 0.0.0.0 meviodisplayads.com
@@ -13245,6 +13255,7 @@
 0.0.0.0 nvqn0jk0we9.com
 0.0.0.0 nvqsjdvgqnyk.com
 0.0.0.0 nvsey.com
+0.0.0.0 nvztwdkbldp.com
 0.0.0.0 nwave.de
 0.0.0.0 nwdufyamroaf.com
 0.0.0.0 nwfdrxktftep.com
@@ -15158,6 +15169,7 @@
 0.0.0.0 qjpxalhvenbt.com
 0.0.0.0 qjskosdsxanp.com
 0.0.0.0 qjuzjpkihvya.com
+0.0.0.0 qjvullwjz.com
 0.0.0.0 qjwanedlhedm.com
 0.0.0.0 qjwkyhlxa.com
 0.0.0.0 qkarmotdhhgeuy.com
@@ -15332,6 +15344,7 @@
 0.0.0.0 qwzmje9w.com
 0.0.0.0 qxamtnrwxjyy.com
 0.0.0.0 qxbnmdjmymqa.com
+0.0.0.0 qxcibgzsxegxc.com
 0.0.0.0 qxekuavasuzgfc.com
 0.0.0.0 qxfzgftkfgukkp.com
 0.0.0.0 qxnniyuuaxhv.com
@@ -15343,6 +15356,7 @@
 0.0.0.0 qyh7u6wo0c8vz0szdhnvbn.com
 0.0.0.0 qyiiudex.com
 0.0.0.0 qykxbnflqvjxvk.com
+0.0.0.0 qyrzcsoaey.com
 0.0.0.0 qytabshszekf.com
 0.0.0.0 qytuwxcozbk.com
 0.0.0.0 qyvebeos.com
@@ -15768,6 +15782,7 @@
 0.0.0.0 revresda.com
 0.0.0.0 revresponse.com
 0.0.0.0 revresrennab.de
+0.0.0.0 revrtb.com
 0.0.0.0 revsci.net
 0.0.0.0 revstripe.com
 0.0.0.0 revsw.net
@@ -15868,6 +15883,7 @@
 0.0.0.0 rjnkpqax.com
 0.0.0.0 rjnqbphb.com
 0.0.0.0 rjpqbishujeu.com
+0.0.0.0 rjszckwlctpup.com
 0.0.0.0 rjtcrxzd.com
 0.0.0.0 rjxspgol.com
 0.0.0.0 rjyihkorkewq.com
@@ -16377,6 +16393,7 @@
 0.0.0.0 sdmf3f5b.science
 0.0.0.0 sdmfzlswxgzl.com
 0.0.0.0 sdqspuyipbof.com
+0.0.0.0 sdv-m.ru
 0.0.0.0 sdziy.us
 0.0.0.0 sea-nov-1.com
 0.0.0.0 seafox26.com
@@ -17699,6 +17716,7 @@
 0.0.0.0 tbeouuheoyl.com
 0.0.0.0 tbhmqjpm.com
 0.0.0.0 tbjjzhkwfezt.com
+0.0.0.0 tbnnsmwfjzttct.com
 0.0.0.0 tbyzeunvuh.com
 0.0.0.0 tcactivity.net
 0.0.0.0 tcadops.ca
@@ -17951,6 +17969,7 @@
 0.0.0.0 thoughtsondance.info
 0.0.0.0 thowytaoo.com
 0.0.0.0 thpsflsjw.com
+0.0.0.0 thqwivyhdpoem.com
 0.0.0.0 thrilamd.net
 0.0.0.0 thrilling.ru
 0.0.0.0 throattrees.com
@@ -18880,6 +18899,7 @@
 0.0.0.0 uaczwcws.com
 0.0.0.0 uad-api.nicovideo.jp
 0.0.0.0 uadx.com
+0.0.0.0 uafgymcern.com
 0.0.0.0 ual.ocmcbyxm.xyz
 0.0.0.0 uamobile.net
 0.0.0.0 uanbalible.com
@@ -20427,6 +20447,7 @@
 0.0.0.0 wqbvqmremvgp.com
 0.0.0.0 wqgaevqpbwgx.com
 0.0.0.0 wqnxcthitqpf.com
+0.0.0.0 wqobjrevtkqym.com
 0.0.0.0 wqocynupmbad.com
 0.0.0.0 wqpcxujvkvhr.com
 0.0.0.0 wqqqpe.com
@@ -20614,6 +20635,7 @@
 0.0.0.0 xcakezoqgkmj.com
 0.0.0.0 xcelltech.com
 0.0.0.0 xcelsiusadserver.com
+0.0.0.0 xcgebfplttrdg.com
 0.0.0.0 xchangebanners.com
 0.0.0.0 xcjoqraqjwmk.com
 0.0.0.0 xclaimwords.net
@@ -20666,6 +20688,7 @@
 0.0.0.0 xgrfmoisvy.com
 0.0.0.0 xgspfcpxt.com
 0.0.0.0 xgtrznovqaqp.com
+0.0.0.0 xgznkebnjme.com
 0.0.0.0 xgzybmbwfmjd.com
 0.0.0.0 xhdzcofomosh.com
 0.0.0.0 xhewunoklug.com
@@ -21031,6 +21054,7 @@
 0.0.0.0 yigxdcmrgutrjl.com
 0.0.0.0 yikkagezqsob.com
 0.0.0.0 yiklmnmijwlryv.com
+0.0.0.0 yim3eyv5.top
 0.0.0.0 yioklzvjkaumf.com
 0.0.0.0 yiq6p.com
 0.0.0.0 yiudy.com

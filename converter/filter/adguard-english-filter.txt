@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://filters.adtidy.org/extension/chromium/filters/2.txt
 # Last Converted - 14.09.2018
-# Total Domains - 18823
+# Total Domains - 18832
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -338,6 +338,7 @@
 0.0.0.0 4c935d6a244f.com
 0.0.0.0 4d28ae0e559c1ba.webcam
 0.0.0.0 4dcdc.com
+0.0.0.0 4dsbanner.com
 0.0.0.0 4dsply.com
 0.0.0.0 4dtrk.com
 0.0.0.0 4e34b4865905c4.com
@@ -7919,6 +7920,7 @@
 0.0.0.0 huewmezzodzdv.com
 0.0.0.0 hufaymllqce.club
 0.0.0.0 hugeincome.cf
+0.0.0.0 huhrxmgiofzna.com
 0.0.0.0 huigyetqu.com
 0.0.0.0 hulahooprect.com
 0.0.0.0 hulemedia.com
@@ -9289,6 +9291,7 @@
 0.0.0.0 klepuazuxv.com
 0.0.0.0 klfqffhvdpkd.com
 0.0.0.0 klhjuuwrmxyjsn.com
+0.0.0.0 klhvqeajy.com
 0.0.0.0 klickthru.com
 0.0.0.0 klidpcdzfqj.com
 0.0.0.0 klikadvertising.com
@@ -11228,6 +11231,7 @@
 0.0.0.0 nextoptim.com
 0.0.0.0 nfaqnqsfhih.bid
 0.0.0.0 nfbjwvmndabthb.com
+0.0.0.0 nfbpcvzj.com
 0.0.0.0 nfdntqlqrgwc.com
 0.0.0.0 nfefwoasiq.bid
 0.0.0.0 nfniziqm.com
@@ -13833,6 +13837,7 @@
 0.0.0.0 rezbzvrbemeb.bid
 0.0.0.0 rezfubngrzdet.bid
 0.0.0.0 rezilopompa.com
+0.0.0.0 rfbmtfebfcwlgo.com
 0.0.0.0 rfbrceyxthpj.bid
 0.0.0.0 rfdujczogfnc.com
 0.0.0.0 rfecjuzp.bid
@@ -15293,6 +15298,7 @@
 0.0.0.0 tbihymlvb.bid
 0.0.0.0 tbisruladc.bid
 0.0.0.0 tbjjzhkwfezt.com
+0.0.0.0 tbnnsmwfjzttct.com
 0.0.0.0 tbogddyfxl.bid
 0.0.0.0 tbrwhqnle.bid
 0.0.0.0 tbwaaekocue.bid
@@ -15479,6 +15485,7 @@
 0.0.0.0 thoughtsondance.info
 0.0.0.0 thowytaoo.com
 0.0.0.0 thpsflsjw.com
+0.0.0.0 thqwivyhdpoem.com
 0.0.0.0 thrilamd.net
 0.0.0.0 thrnt.com
 0.0.0.0 thrutime.net
@@ -17836,6 +17843,7 @@
 0.0.0.0 xnkmmbfpyokevaxsjtky.com
 0.0.0.0 xnlxpsbs.com
 0.0.0.0 xnmphtmerao.bid
+0.0.0.0 xnnbvckd.com
 0.0.0.0 xnqlhbddabfsy.com
 0.0.0.0 xnuuzwthzaol.com
 0.0.0.0 xnvsheyceyjv.com
@@ -18019,6 +18027,7 @@
 0.0.0.0 xztsmbznuwyo.com
 0.0.0.0 xzwdhymrdxyp.com
 0.0.0.0 xzzcasiospbn.com
+0.0.0.0 y1jxiqds7v.com
 0.0.0.0 y1xjgfhp.racing
 0.0.0.0 y2rmo576.top
 0.0.0.0 y5wflt0xibmoufuvsayg1efy80yq0ystkjncf76cqm.com

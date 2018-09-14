@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://filters.adtidy.org/extension/chromium/filters/3.txt
 # Last Converted - 14.09.2018
-# Total Domains - 3874
+# Total Domains - 3875
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -2046,6 +2046,7 @@
 0.0.0.0 metrics.washingtonpost.com
 0.0.0.0 metricsdirect.com
 0.0.0.0 metrigo.com
+0.0.0.0 metrika-informer.com
 0.0.0.0 metriweb.be
 0.0.0.0 mevents.trusteer.com
 0.0.0.0 mezzobit.com
