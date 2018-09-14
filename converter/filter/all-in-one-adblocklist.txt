@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
 # Last Converted - 14.09.2018
-# Total Domains - 63215
+# Total Domains - 63213
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -8073,6 +8073,7 @@
 0.0.0.0 banners.alt.com
 0.0.0.0 banners.amigos.com
 0.0.0.0 banners.asiafriendfinder.com
+0.0.0.0 banners.babylon-x.com
 0.0.0.0 banners.beevpn.com
 0.0.0.0 banners.beted.com
 0.0.0.0 banners.blacksexmatch.com
@@ -22353,7 +22354,6 @@
 0.0.0.0 fraccbosquesdelzumate.tk
 0.0.0.0 fracesc.altervista.org
 0.0.0.0 fraganza.in
-0.0.0.0 fragmentserv.iac-online.de
 0.0.0.0 frailoffer.com
 0.0.0.0 frame-ur-work.com
 0.0.0.0 frameptp.com
@@ -35098,7 +35098,6 @@
 0.0.0.0 markdisaservice.com
 0.0.0.0 markergot.com
 0.0.0.0 markerly.com
-0.0.0.0 market-buster.com
 0.0.0.0 market.facebook.copycatcashsystem.com
 0.0.0.0 market.facebook.geomotiontv.com
 0.0.0.0 market.facebook.hyperionslg.com
@@ -35567,7 +35566,6 @@
 0.0.0.0 mediacolor-transfer.de
 0.0.0.0 mediacpm.com
 0.0.0.0 mediad2.jp
-0.0.0.0 mediadvertising.ro
 0.0.0.0 mediaessence.net
 0.0.0.0 mediaffiliation.com
 0.0.0.0 mediafilesdownload.com
@@ -53222,6 +53220,7 @@
 0.0.0.0 tbihymlvb.bid
 0.0.0.0 tbisruladc.bid
 0.0.0.0 tbjjzhkwfezt.com
+0.0.0.0 tbnnsmwfjzttct.com
 0.0.0.0 tbogddyfxl.bid
 0.0.0.0 tbrwhqnle.bid
 0.0.0.0 tbs.susfkil.co.uk
@@ -55117,7 +55116,6 @@
 0.0.0.0 tracker.thinkindot.com
 0.0.0.0 tracker.timesgroup.com
 0.0.0.0 tracker.tiu.ru
-0.0.0.0 tracker.trackerfix.com
 0.0.0.0 tracker.twenga.
 0.0.0.0 tracker.twenga.pl
 0.0.0.0 tracker.u-link.me
