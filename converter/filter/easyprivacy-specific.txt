@@ -1,12 +1,15 @@
-# easyprivacy-specific Custom Build
+# easyprivacy-specific Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last Converted - Thu, 13 Sep 2018 16:24:45 -0400
+# Last Converted - 14.09.2018
+# Total Domains - 879
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
 
+0.0.0.0 3gl.net
 0.0.0.0 a.jango.com
+0.0.0.0 a.watchseries.to
 0.0.0.0 aa.avvo.com
 0.0.0.0 aax-us-iad.amazon.com
 0.0.0.0 abeagle-public.buzzfeed.com
@@ -32,6 +35,7 @@
 0.0.0.0 aggregator.inquisitr.com
 0.0.0.0 ai.inmdata.io
 0.0.0.0 ai.iol.io
+0.0.0.0 akamai.net
 0.0.0.0 alb.reddit.com
 0.0.0.0 amp.virginmedia.com
 0.0.0.0 analysis.focalprice.com
@@ -92,6 +96,8 @@
 0.0.0.0 b.huffingtonpost.com
 0.0.0.0 b.imwx.com
 0.0.0.0 b.myspace.com
+0.0.0.0 b.photobucket.com
+0.0.0.0 babator.com
 0.0.0.0 bat.adforum.com
 0.0.0.0 bats.video.yahoo.com
 0.0.0.0 bc.yahoo.com
@@ -113,6 +119,7 @@
 0.0.0.0 bench.uc.cn
 0.0.0.0 bi.medscape.com
 0.0.0.0 bit.ehow.com
+0.0.0.0 bluekai.com
 0.0.0.0 bn.adultempire.com
 0.0.0.0 bulb.76.my
 0.0.0.0 c.ipaddress.com
@@ -124,6 +131,7 @@
 0.0.0.0 cd.musicmass.com
 0.0.0.0 cdnstats.tube8.com
 0.0.0.0 cem.hotelsapi.io
+0.0.0.0 chartbeat.com
 0.0.0.0 chkpt.zdnet.com
 0.0.0.0 chunk.bustle.com
 0.0.0.0 cl.expedia.com
@@ -170,6 +178,8 @@
 0.0.0.0 comms-web-tracking.uswitchinternal.com
 0.0.0.0 confirm-referer.glrsales.com
 0.0.0.0 contadores.bolsamania.com
+0.0.0.0 contentexchange.me
+0.0.0.0 contentspread.net
 0.0.0.0 coolertracks.emailroi.com
 0.0.0.0 count.livetv.ru
 0.0.0.0 count.livetv.sx
@@ -181,7 +191,10 @@
 0.0.0.0 counter.sina.com.cn
 0.0.0.0 counter.theconversation.edu.au
 0.0.0.0 counter.zerohedge.com
+0.0.0.0 cpx.to
+0.0.0.0 crwdcntrl.net
 0.0.0.0 ct.buzzfeed.com
+0.0.0.0 cxense.com
 0.0.0.0 da.virginmedia.com
 0.0.0.0 data.mic.com
 0.0.0.0 data.ryanair.com
@@ -189,6 +202,7 @@
 0.0.0.0 datacollector.coin.scribol.com
 0.0.0.0 dcs.mattel.com
 0.0.0.0 dcs.maxthon.com
+0.0.0.0 de-mi-nis-ner2.info
 0.0.0.0 debug-vp.webmd.com
 0.0.0.0 desa.fkapi.net
 0.0.0.0 desb.fkapi.net
@@ -199,10 +213,15 @@
 0.0.0.0 dl.meliacloud.com
 0.0.0.0 dmeserv.newsinc.com
 0.0.0.0 dmtracking2.alibaba.com
+0.0.0.0 dnn506yrbagrg.cloudfront.net
+0.0.0.0 ds-aksb-a.akamaihd.net
 0.0.0.0 dw.cnet.com
+0.0.0.0 ea.laredoute.
+0.0.0.0 ea.pixmania.
 0.0.0.0 ec2-prod-tracker.babelgum.com
 0.0.0.0 edw.edmunds.com
 0.0.0.0 emarketing.rmauctions.com
+0.0.0.0 emetriq.de
 0.0.0.0 enlightenment.secureshoppingbasket.com
 0.0.0.0 entry-stats.huffingtonpost.com
 0.0.0.0 es.puritan.com
@@ -220,6 +239,8 @@
 0.0.0.0 events.turbosquid.com
 0.0.0.0 eventtracker.elitedaily.com
 0.0.0.0 evisit.exeter.ac.uk
+0.0.0.0 exactag.com
+0.0.0.0 exelator.com
 0.0.0.0 expbl2ro.xbox.com
 0.0.0.0 expdb2.msn.com
 0.0.0.0 f.staticlp.com
@@ -234,7 +255,7 @@
 0.0.0.0 g2a-com.newsletter.com.pl
 0.0.0.0 ga.canoe.ca
 0.0.0.0 ga.nsimg.net
-0.0.0.0 gateway.reddit.com
+0.0.0.0 gateway.reddit.com|
 0.0.0.0 gcpdata.telegraph.co.uk
 0.0.0.0 gekko.spiceworks.com
 0.0.0.0 geo.hltv.org
@@ -273,6 +294,8 @@
 0.0.0.0 heartbeat.flickr.com
 0.0.0.0 hitcount.heraldm.com
 0.0.0.0 hitweb2.chosun.com
+0.0.0.0 hotjar.com
+0.0.0.0 hpr.outbrain.com
 0.0.0.0 hrum.hotelsapi.io
 0.0.0.0 ibeat.indiatimes.com
 0.0.0.0 ibs.indiatimes.com
@@ -282,6 +305,7 @@
 0.0.0.0 imgtrack.domainmarket.com
 0.0.0.0 immassets.s3.amazonaws.com
 0.0.0.0 imonitor.dhgate.com
+0.0.0.0 imrworldwide.com
 0.0.0.0 imx.comedycentral.com
 0.0.0.0 influxer.onion.com
 0.0.0.0 ingest.onion.com
@@ -290,9 +314,12 @@
 0.0.0.0 intent.cbsi.com
 0.0.0.0 ip.breitbart.com
 0.0.0.0 ip.pichunter.com
+0.0.0.0 irqs.ioam.de
 0.0.0.0 jack.allday.com
+0.0.0.0 kiks.yandex.
 0.0.0.0 kinesisproxy.hearstlabs.com
 0.0.0.0 l.5min.com
+0.0.0.0 lcs.naver.
 0.0.0.0 lh.secure.yahoo.com
 0.0.0.0 lilb2.shutterstock.com
 0.0.0.0 linkpuls.idg.no
@@ -305,6 +332,7 @@
 0.0.0.0 log.mappy.net
 0.0.0.0 log.newsvine.com
 0.0.0.0 log.optimizely.com
+0.0.0.0 log.outbrain.com
 0.0.0.0 log.prezi.com
 0.0.0.0 log.snapdeal.com
 0.0.0.0 log.thevideo.me
@@ -326,13 +354,16 @@
 0.0.0.0 marketing.alibaba.com
 0.0.0.0 marketing.kalahari.net
 0.0.0.0 marketing.nodesource.com
+0.0.0.0 meetrics.net
 0.0.0.0 merlin.abc.go.com
+0.0.0.0 met.vgwort.de
 0.0.0.0 meter-svc.nytimes.com
 0.0.0.0 metric-agent.i10c.net
 0.0.0.0 metric.gstatic.com
 0.0.0.0 metric.inetcore.com
 0.0.0.0 metrics.apartments.com
 0.0.0.0 metrics.aws.sitepoint.com
+0.0.0.0 metrics.brightcove.com
 0.0.0.0 metrics.cbn.com
 0.0.0.0 metrics.cbslocal.com
 0.0.0.0 metrics.cnn.com
@@ -369,12 +400,14 @@
 0.0.0.0 mp.twitch.tv
 0.0.0.0 mtoza.vzaar.com
 0.0.0.0 mts-ws.rueducommerce.fr
+0.0.0.0 mxcdn.net
 0.0.0.0 navlog.channel4.com
 0.0.0.0 nb.myspace.com
 0.0.0.0 ned.itv.com
 0.0.0.0 net.haier.com
 0.0.0.0 nm.newegg.com
 0.0.0.0 nmtracking.netflix.com
+0.0.0.0 nuggad.net
 0.0.0.0 oimg.m.cnbc.com
 0.0.0.0 oimg.mobile.cnbc.com
 0.0.0.0 om.cbsi.com
@@ -384,6 +417,7 @@
 0.0.0.0 open.mkt1397.com
 0.0.0.0 ophan.guardian.co.uk
 0.0.0.0 optimize-stats.voxmedia.com
+0.0.0.0 optimizely.com
 0.0.0.0 origin-tracking.trulia.com
 0.0.0.0 origin.chron.com
 0.0.0.0 pageinfo.motorsport.com
@@ -400,8 +434,11 @@
 0.0.0.0 ping.buto.tv
 0.0.0.0 ping.hungama.com
 0.0.0.0 ping.tvmaze.com
+0.0.0.0 pingdom.net
 0.0.0.0 pings.blip.tv
 0.0.0.0 pipeline.realtime.active.com
+0.0.0.0 pippio.com
+0.0.0.0 piti.bplaced.net
 0.0.0.0 pix.eads.com
 0.0.0.0 pix.gfycat.com
 0.0.0.0 pix.nbcuni.com
@@ -421,6 +458,9 @@
 0.0.0.0 pixel.staging.tree.com
 0.0.0.0 pixels.livingsocial.com
 0.0.0.0 pixiedust.buzzfeed.com
+0.0.0.0 play.estream.nu
+0.0.0.0 play.estream.to
+0.0.0.0 play.estream.xyz
 0.0.0.0 pong.gannettdigital.com
 0.0.0.0 pound.buzzfeed.com
 0.0.0.0 presentationtracking.netflix.com
@@ -432,11 +472,13 @@
 0.0.0.0 r.bbci.co.uk
 0.0.0.0 r.my.com
 0.0.0.0 rainbow-uk.mythings.com
+0.0.0.0 rat.rakuten.co.jp
 0.0.0.0 rd.meebo.com
 0.0.0.0 reco.hardsextube.com
 0.0.0.0 recommendation.24.com
 0.0.0.0 redeye.williamhill.com
 0.0.0.0 refer.evine.com
+0.0.0.0 referrer.disqus.com
 0.0.0.0 rel.msn.com
 0.0.0.0 relatable.inquisitr.com
 0.0.0.0 report-zt.allmusic.com
@@ -448,8 +490,10 @@
 0.0.0.0 request.issuu.com
 0.0.0.0 retargeting.vistaprint.com
 0.0.0.0 revsci.tvguide.com
+0.0.0.0 rlcdn.com
 0.0.0.0 rok.com.com
 0.0.0.0 roll.bankofamerica.com
+0.0.0.0 rqtrk.eu
 0.0.0.0 rs.mail.ru
 0.0.0.0 rt.prnewswire.com
 0.0.0.0 rt.rakuten.co.jp
@@ -471,6 +515,7 @@
 0.0.0.0 scout.lexisnexis.com
 0.0.0.0 scout.rollcall.com
 0.0.0.0 scribe.twitter.com
+0.0.0.0 semasio.net
 0.0.0.0 sense.dailymotion.com
 0.0.0.0 servedby.o2.co.uk
 0.0.0.0 servicetick.com
@@ -601,6 +646,7 @@
 0.0.0.0 stat.ruvr.ru
 0.0.0.0 stat.torrentbar.com
 0.0.0.0 stat.xhamsterpremium.com
+0.0.0.0 static.parsely.com
 0.0.0.0 statistics.crowdynews.com
 0.0.0.0 stats.aplus.com
 0.0.0.0 stats.articlesbase.com
@@ -662,8 +708,10 @@
 0.0.0.0 stattrack.0catch.com
 0.0.0.0 stbt.coupons.com
 0.0.0.0 stcollection.moneysupermarket.com
+0.0.0.0 stream.vidzi.tv
 0.0.0.0 streamstats1.blinkx.com
 0.0.0.0 sugar.gameforge.com
+0.0.0.0 support.2giga.link
 0.0.0.0 surveys.cnet.com
 0.0.0.0 t-ak.hulu.com
 0.0.0.0 t.9gag.com
@@ -671,6 +719,7 @@
 0.0.0.0 t.blinkist.com
 0.0.0.0 t.cinemablend.com
 0.0.0.0 t.dailymail.co.uk
+0.0.0.0 t.delfi.
 0.0.0.0 t.eharmony.com
 0.0.0.0 t.kck.st
 0.0.0.0 t.my.jobs
@@ -680,18 +729,23 @@
 0.0.0.0 t2.hulu.com
 0.0.0.0 t2.huluim.com
 0.0.0.0 tag-stats.huffpost.com
+0.0.0.0 tagcommander.laredoute.
 0.0.0.0 tags.msnbc.com
 0.0.0.0 tags.news.com.au
 0.0.0.0 tags.transportdirect.info
 0.0.0.0 tagx.nytimes.com
 0.0.0.0 tck.bangbros.com
+0.0.0.0 tcog.news.com.au
+0.0.0.0 tealiumiq.com
 0.0.0.0 ted.dailymail.co.uk
 0.0.0.0 ted.metro.co.uk
 0.0.0.0 ted1.metro.co.uk
 0.0.0.0 telemetry.tradingview.com
+0.0.0.0 theadex.com
 0.0.0.0 timeslogtn.timesnow.tv
 0.0.0.0 timestrends.indiatimes.com
 0.0.0.0 timestrends.timesnow.tv
+0.0.0.0 tisoomi-services.com
 0.0.0.0 tk.kargo.com
 0.0.0.0 tkpi.delta.com
 0.0.0.0 tools.ranker.com
@@ -723,6 +777,7 @@
 0.0.0.0 track.websiteceo.com
 0.0.0.0 track.wildblue.com
 0.0.0.0 track.workablemetro.com
+0.0.0.0 track.zalando.
 0.0.0.0 track.zomato.com
 0.0.0.0 tracker-api.my.com
 0.0.0.0 tracker.anandtech.com
@@ -740,6 +795,7 @@
 0.0.0.0 tracker.uprinting.com
 0.0.0.0 tracker.washtimes.com
 0.0.0.0 tracker.wordstream.com
+0.0.0.0 tracking-rce.veeseo.com
 0.0.0.0 tracking.ancestry.com
 0.0.0.0 tracking.batanga.com
 0.0.0.0 tracking.battleon.com
@@ -757,6 +813,7 @@
 0.0.0.0 tracking.mycapture.com
 0.0.0.0 tracking.nextdoor.com
 0.0.0.0 tracking.olx-st.com
+0.0.0.0 tracking.olx.
 0.0.0.0 tracking.porndoelabs.com
 0.0.0.0 tracking.pornhd.com
 0.0.0.0 tracking.realtor.com
@@ -790,11 +847,13 @@
 0.0.0.0 ut.ratepoint.com
 0.0.0.0 vertical-stats.huffingtonpost.com
 0.0.0.0 video-stats.video.google.com
+0.0.0.0 video.videos.vidto.me
 0.0.0.0 videotracker.washingtonpost.com
 0.0.0.0 visit.dealspwn.com
 0.0.0.0 visit.mobot.net
 0.0.0.0 visit.theglobeandmail.com
 0.0.0.0 visitors.sourcingmap.com
+0.0.0.0 visualrevenue.com
 0.0.0.0 vitamine.networldmedia.net
 0.0.0.0 vs.target.com
 0.0.0.0 vstat.vidigy.com
@@ -807,25 +866,23 @@
 0.0.0.0 warp.prnewswire.co.uk
 0.0.0.0 watson.live.com
 0.0.0.0 web-t.9gag.com
+0.0.0.0 webengage.sky.com
 0.0.0.0 weblog.strawberrynet.com
 0.0.0.0 weblogger01.data.disney.com
 0.0.0.0 webstats.perfectworld.com
+0.0.0.0 webtrekk.net
 0.0.0.0 whoson.smcorp.com
 0.0.0.0 winter.metacafe.com
+0.0.0.0 worker.salon.com
 0.0.0.0 ws.yellowpages.ca
+0.0.0.0 wt-eu02.net
+0.0.0.0 wt-safetag.com
 0.0.0.0 wtk.db.com
 0.0.0.0 wusstrack.wunderground.com
 0.0.0.0 wzus.askkids.com
 0.0.0.0 wzus1.ask.com
 0.0.0.0 wzus1.reference.com
 0.0.0.0 wzus1.thesaurus.com
+0.0.0.0 xplosion.de
 0.0.0.0 ynuf.alibaba.com
 0.0.0.0 zap.dw-world.de
-0.0.0.0 de-mi-nis-ner2.info
-0.0.0.0 piti.bplaced.net
-0.0.0.0 play.estream.nu
-0.0.0.0 play.estream.to
-0.0.0.0 play.estream.xyz
-0.0.0.0 support.2giga.link
-0.0.0.0 video.videos.vidto.me
-0.0.0.0 worker.salon.com

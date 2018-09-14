@@ -44,7 +44,7 @@ sed -r 's/\s+//g' $wtemp > $whitelist
 rm -f "$wtemp" "$xtemp"
 		
 # Variables
-DATE=$(date +%d.%m.%Y)
+date=$(date +%d.%m.%Y)
 filter=filter
 hosts=$filter/hosts.temp
 temp=$filter/one.temp
@@ -131,8 +131,15 @@ echo "[+] Active Size: $activesize"
 # Echo Divider
 echo "$divider\n"
 
+rm -f $temp $hosts
+
+# Add Header
+echo "# $name Custom Hosts Build\n# Builds Maintainer: Nayem Ador - nayemador.com\n# Converted From - $url\n# Last Converted - $date\n# Total Domains - $totaldomains\n# Energized - ad.porn.malware blocking.\n# https://nayemador.com/energized\n# License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license\n" >> $tem
+
+cat $temp $fresh > $hosts
+mv -f $hosts $fresh
+
 # Append Header
-echo "\n# Hosts - $name\n# Source - $url\n# Generated - $DATE\n# Created with Quizzer by @adroitadorkhan - nayemador.com\n# Total Domains: $totaldomains\n# License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license\n" >> $fresh
 # Uncomment to get HOSTS
 # sed -i '1s/^/# Hosts - $name\n# Source - $url\#Generated - $DATE\n# Created with Quizzer by @adroitadorkhan (nayemador.com)\n# Total Domains: $totaldomains\n/' $active
 

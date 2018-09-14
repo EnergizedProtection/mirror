@@ -1,0 +1,16 @@
+# block-the-eu-cookie-shit-list Custom Hosts Build
+# Builds Maintainer: Nayem Ador - nayemador.com
+# Converted From - https://raw.githubusercontent.com/r4vi/block-the-eu-cookie-shit-list/master/filterlist.txt
+# Last Converted - 14.09.2018
+# Total Domains - 7
+# Energized - ad.porn.malware blocking.
+# https://nayemador.com/energized
+# License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
+
+0.0.0.0 assets.cookieconsent.silktide.com
+0.0.0.0 cookie-script.com
+0.0.0.0 cookieassistant.com
+0.0.0.0 cookieconsent.com
+0.0.0.0 cookieconsent.silktide.com
+0.0.0.0 cookieq.com
+0.0.0.0 cookiereports.com

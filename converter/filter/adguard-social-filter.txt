@@ -1,14 +1,13 @@
-# adguard-social-filter Custom Build
+# adguard-social-filter Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://filters.adtidy.org/extension/chromium/filters/4.txt
-# Last Converted - Thu, 13 Sep 2018 16:24:41 -0400
+# Last Converted - 14.09.2018
+# Total Domains - 46
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
 
-0.0.0.0 usocial.pro
-0.0.0.0 widgets-code.websta.me
-0.0.0.0 widget.pushbullet.com
+0.0.0.0 addthis.com
 0.0.0.0 addthiscdn.com
 0.0.0.0 button.flattr.com
 0.0.0.0 cdn.wibiya.com
@@ -22,12 +21,16 @@
 0.0.0.0 i.po.st
 0.0.0.0 iknopo.ru
 0.0.0.0 img-trkcllcropy.mncdn.com
+0.0.0.0 knopka.fishurl.ru
 0.0.0.0 lessbuttons.com
 0.0.0.0 likebtn.com
 0.0.0.0 linksalpha.com
+0.0.0.0 mailget.net
+0.0.0.0 my.hellobar.com
 0.0.0.0 nwidget.networkedblogs.com
 0.0.0.0 platform.linkedin.com
 0.0.0.0 plusone.google.com
+0.0.0.0 share.baidu.com
 0.0.0.0 share.pluso.ru
 0.0.0.0 share.yandex.net
 0.0.0.0 share.yandex.ru
@@ -40,15 +43,13 @@
 0.0.0.0 sumome-140a.kxcdn.com
 0.0.0.0 taboolasyndication.com
 0.0.0.0 traq.li
-0.0.0.0 twitter-badges.
+0.0.0.0 usocial.pro
 0.0.0.0 w.uptolike.com
 0.0.0.0 weheartit.com
+0.0.0.0 widget.pushbullet.com
+0.0.0.0 widgets-code.websta.me
 0.0.0.0 widgets.bufferapp.com
 0.0.0.0 widgets.getpocket.com
 0.0.0.0 woobox.com
 0.0.0.0 x.pluso.ru
 0.0.0.0 xing-share.com
-0.0.0.0 knopka.fishurl.ru
-0.0.0.0 share.baidu.com
-0.0.0.0 mailget.net
-0.0.0.0 my.hellobar.com

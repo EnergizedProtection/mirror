@@ -1,7 +1,8 @@
-# easylist-adult-adservers Custom Build
+# easylist-adult-adservers Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_adservers.txt
-# Last Converted - Thu, 13 Sep 2018 16:24:45 -0400
+# Last Converted - 14.09.2018
+# Total Domains - 1017
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -13,11 +14,8 @@
 0.0.0.0 123advertising.nl
 0.0.0.0 15yomodels.com
 0.0.0.0 18naked.com
-0.0.0.0 195.228.74.26
 0.0.0.0 1loop.com
 0.0.0.0 1tizer.com
-0.0.0.0 206.217.206.137
-0.0.0.0 212.150.34.117
 0.0.0.0 21sexturycash.com
 0.0.0.0 247teencash.net
 0.0.0.0 24smile.org
@@ -31,7 +29,6 @@
 0.0.0.0 59zs1xei.com
 0.0.0.0 699fy4ne.com
 0.0.0.0 750industries.com
-0.0.0.0 76.76.5.113
 0.0.0.0 777-partner.com
 0.0.0.0 777-partner.net
 0.0.0.0 777-partners.com
@@ -41,9 +38,6 @@
 0.0.0.0 777partners.com
 0.0.0.0 7cxcrejm.com
 0.0.0.0 7vws1j1j.com
-0.0.0.0 80.77.113.200
-0.0.0.0 85.17.210.202
-0.0.0.0 89.248.172.46
 0.0.0.0 8ipztcc1.com
 0.0.0.0 9content.com
 0.0.0.0 aaovn.info
@@ -52,8 +46,11 @@
 0.0.0.0 abakys.ru
 0.0.0.0 abbp1.pw
 0.0.0.0 abbp1.science
+0.0.0.0 abbp1.science.
 0.0.0.0 abbp1.space
+0.0.0.0 abbp1.space.
 0.0.0.0 abbp1.website
+0.0.0.0 abbp1.website.
 0.0.0.0 abbp2.pw
 0.0.0.0 abbp2.website
 0.0.0.0 abgeobalancer.com
@@ -94,6 +91,7 @@
 0.0.0.0 adskape.ru
 0.0.0.0 adspayformy.site
 0.0.0.0 adspayformymortgage.win
+0.0.0.0 adspayformymortgage.win.
 0.0.0.0 adswam.com
 0.0.0.0 adsyst.biz
 0.0.0.0 adtonement.com
@@ -632,6 +630,7 @@
 0.0.0.0 ofapes.com
 0.0.0.0 okeo.ru
 0.0.0.0 omynews.net
+0.0.0.0 onedmp.com.
 0.0.0.0 onhercam.com
 0.0.0.0 onyarysh.ru
 0.0.0.0 ordermc.com
@@ -646,6 +645,7 @@
 0.0.0.0 oxcluster.com
 0.0.0.0 ozelmedikal.com
 0.0.0.0 ozon.ru
+0.0.0.0 ozone.ru
 0.0.0.0 ozonru.eu
 0.0.0.0 p51d20aa4.website
 0.0.0.0 paid-to-promote.net
@@ -670,6 +670,7 @@
 0.0.0.0 plugrush.com
 0.0.0.0 pnads.com
 0.0.0.0 polimantu.com
+0.0.0.0 poolnoodle.tech.
 0.0.0.0 poonproscash.com
 0.0.0.0 pop-bazar.net
 0.0.0.0 popander.biz
@@ -761,6 +762,7 @@
 0.0.0.0 renewads.com
 0.0.0.0 reon.club
 0.0.0.0 replase.gq
+0.0.0.0 reporo.net
 0.0.0.0 reprak.com
 0.0.0.0 retargetpro.net
 0.0.0.0 retoxo.com
@@ -1010,6 +1012,7 @@
 0.0.0.0 yoshatia.com
 0.0.0.0 your-big.com
 0.0.0.0 yourdatelink.com
+0.0.0.0 yourfuckbook.com
 0.0.0.0 ypmadserver.com
 0.0.0.0 yu0123456.com
 0.0.0.0 yuppads.com
@@ -1021,6 +1024,3 @@
 0.0.0.0 zinzimo.info
 0.0.0.0 ziphentai.com
 0.0.0.0 zog.link
-0.0.0.0 reporo.net
-0.0.0.0 00zasdf.pw
-0.0.0.0 00zasdf.pw
