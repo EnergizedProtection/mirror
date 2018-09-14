@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/all-in-one-adblocklist.txt
 # Last Converted - 14.09.2018
-# Total Domains - 41831
+# Total Domains - 41837
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -581,6 +581,7 @@
 0.0.0.0 4d5.net
 0.0.0.0 4dcdc.com
 0.0.0.0 4dgroup.ru
+0.0.0.0 4dsbanner.com
 0.0.0.0 4dsply.com
 0.0.0.0 4dtrk.com
 0.0.0.0 4e34b4865905c4.com
@@ -24001,6 +24002,7 @@
 0.0.0.0 metrics.windowsitpro.com
 0.0.0.0 metricsdirect.com
 0.0.0.0 metrigo.com
+0.0.0.0 metrika-informer.com
 0.0.0.0 metrilo.com
 0.0.0.0 metriweb.be
 0.0.0.0 metrixlablw.customers.luna.net
@@ -25934,6 +25936,7 @@
 0.0.0.0 nez-travelsite.com
 0.0.0.0 nezihonal.com
 0.0.0.0 nfbjwvmndabthb.com
+0.0.0.0 nfbpcvzj.com
 0.0.0.0 nfnxvdds.com
 0.0.0.0 nfqxehrpahqhjf.com
 0.0.0.0 nfwebminer.com
@@ -30867,6 +30870,7 @@
 0.0.0.0 rezydencjaszafran.pl
 0.0.0.0 rezync.com
 0.0.0.0 rfaguvqdurjdout.fgppchg.fgpp.com
+0.0.0.0 rfbmtfebfcwlgo.com
 0.0.0.0 rfconsultancy.co.uk
 0.0.0.0 rfdujczogfnc.com
 0.0.0.0 rfeletro.com.br
@@ -36133,6 +36137,7 @@
 0.0.0.0 thoxinh.ooo
 0.0.0.0 thpqvpken.fgppchg.fgpp.com
 0.0.0.0 thpsflsjw.com
+0.0.0.0 thqwivyhdpoem.com
 0.0.0.0 three381.com
 0.0.0.0 thriftectype.review
 0.0.0.0 thrillcase.com
@@ -40729,6 +40734,7 @@
 0.0.0.0 xn--yetherallet-tv8eu6a.com
 0.0.0.0 xnkmmbfpyokevaxsjtky.com
 0.0.0.0 xnlxpsbs.com
+0.0.0.0 xnnbvckd.com
 0.0.0.0 xnqlhbddabfsy.com
 0.0.0.0 xnxx.com
 0.0.0.0 xoads.com

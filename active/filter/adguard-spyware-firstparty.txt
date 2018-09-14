@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-spyware-firstparty.txt
 # Last Converted - 14.09.2018
-# Total Domains - 696
+# Total Domains - 695
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -439,7 +439,6 @@
 0.0.0.0 pixel.cdnwidget.com
 0.0.0.0 pixel.condenastdigital.com
 0.0.0.0 pixel.europapress.net
-0.0.0.0 pixel.facebook.com
 0.0.0.0 pixel.parsely.com
 0.0.0.0 pixel.roymorgan.com
 0.0.0.0 pixel.watch

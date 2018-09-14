@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/mirror/GASB-PE.active.txt
 # Last Converted - 14.09.2018
-# Total Domains - 67429
+# Total Domains - 67428
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -18227,7 +18227,6 @@
 0.0.0.0 down.my0709.xyz
 0.0.0.0 down.plaxo.com
 0.0.0.0 down2.ucweb.com
-0.0.0.0 down3.ucweb.com
 0.0.0.0 down988.cn
 0.0.0.0 downaload.com
 0.0.0.0 downbt.com

@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - http://www.squidblacklist.org/downloads/dg-ads.acl
 # Last Converted - 14.09.2018
-# Total Domains - 4435
+# Total Domains - 4431
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -252,6 +252,7 @@
 0.0.0.0 ad1.emule-project.org
 0.0.0.0 ad1.kde.cz
 0.0.0.0 ad1.pamedia.com.au
+0.0.0.0 ad120m.com
 0.0.0.0 ad123m.com
 0.0.0.0 ad125m.com
 0.0.0.0 ad128m.com
@@ -392,7 +393,6 @@
 0.0.0.0 adimg.uimserv.net
 0.0.0.0 adimg1.chosun.com
 0.0.0.0 adimgs.sapo.pt
-0.0.0.0 adimise.com
 0.0.0.0 adimmix.com
 0.0.0.0 adimpact.com
 0.0.0.0 adimpression.net
@@ -494,7 +494,6 @@
 0.0.0.0 adnet.vn
 0.0.0.0 adnet.worldreviewer.com
 0.0.0.0 adnetinteractive.com
-0.0.0.0 adnetwork.ai
 0.0.0.0 adnetwork.hadoopfinetech.com
 0.0.0.0 adnews.maddog2000.de
 0.0.0.0 adnext.fr
@@ -882,7 +881,6 @@
 0.0.0.0 ads.totallyfreestuff.com
 0.0.0.0 ads.townhall.com
 0.0.0.0 ads.tripod.com
-0.0.0.0 ads.tripod.lycos.co.uk
 0.0.0.0 ads.tripod.lycos.de
 0.0.0.0 ads.tripod.lycos.es
 0.0.0.0 ads.tripod.lycos.it
@@ -3602,7 +3600,6 @@
 0.0.0.0 sprintrade.com
 0.0.0.0 spylog.com
 0.0.0.0 spywarelabs.com
-0.0.0.0 spywarenuker.com
 0.0.0.0 spywords.com
 0.0.0.0 sq2trk2.com
 0.0.0.0 srbijacafe.org
@@ -4156,7 +4153,6 @@
 0.0.0.0 ultimategracelessness.info
 0.0.0.0 unanimis.co.uk
 0.0.0.0 underclick.ru
-0.0.0.0 undertone.com
 0.0.0.0 unicast.com
 0.0.0.0 unityads.unity3d.com
 0.0.0.0 universityofinternetscience.com

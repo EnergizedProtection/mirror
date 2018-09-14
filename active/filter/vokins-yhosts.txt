@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 # Last Converted - 14.09.2018
-# Total Domains - 6620
+# Total Domains - 6636
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -11,6 +11,7 @@
 0.0.0.0 0.up.qingdaonews.com
 0.0.0.0 0127.adsame.com
 0.0.0.0 018520.com
+0.0.0.0 01daa.lubih.com
 0.0.0.0 01daa.luvbr.com
 0.0.0.0 01daa.luytr.com
 0.0.0.0 1.1010pic.com
@@ -1862,6 +1863,7 @@
 0.0.0.0 dc.ads.linkedin.com
 0.0.0.0 dc.cp21.ott.cibntv.net
 0.0.0.0 dc.csdn.net
+0.0.0.0 dc.liuliang100.com
 0.0.0.0 dc.meitustat.com
 0.0.0.0 dc.xhct66.com
 0.0.0.0 dc2.csdn.net
@@ -2119,11 +2121,13 @@
 0.0.0.0 e.ennmt.com
 0.0.0.0 e.erocw.com
 0.0.0.0 e.fbaix.com
+0.0.0.0 e.fbaot.com
 0.0.0.0 e.fimky.com
 0.0.0.0 e.fkkse.com
 0.0.0.0 e.fkogs.com
 0.0.0.0 e.focuscat.com
 0.0.0.0 e.fstaw.com
+0.0.0.0 e.fwjoi.com
 0.0.0.0 e.fzyda.com
 0.0.0.0 e.gglay.com
 0.0.0.0 e.gxjfh.com
@@ -2207,6 +2211,7 @@
 0.0.0.0 e.rmwdn.com
 0.0.0.0 e.sanitwealth.com
 0.0.0.0 e.shenyunkeji.com
+0.0.0.0 e.sjuqc.com
 0.0.0.0 e.slvtx.com
 0.0.0.0 e.srrux.com
 0.0.0.0 e.szqifu.com
@@ -2784,6 +2789,7 @@
 0.0.0.0 image.yigao.com
 0.0.0.0 imagelx.yidianzixun.com
 0.0.0.0 images.ad7.com
+0.0.0.0 images.avsmt.cn
 0.0.0.0 images.enet.com.cn
 0.0.0.0 images.fastclick.net
 0.0.0.0 images.intellitxt.com
@@ -3406,6 +3412,7 @@
 0.0.0.0 m.addthisedge.com
 0.0.0.0 m.admedia.com
 0.0.0.0 m.adpro.cn
+0.0.0.0 m.afoux.com
 0.0.0.0 m.airpush.com
 0.0.0.0 m.aishowbger.com
 0.0.0.0 m.analytics.126.net
@@ -3477,6 +3484,7 @@
 0.0.0.0 m.ennmt.com
 0.0.0.0 m.erocw.com
 0.0.0.0 m.fbaix.com
+0.0.0.0 m.fbaot.com
 0.0.0.0 m.fcaot.com
 0.0.0.0 m.fcuit.com
 0.0.0.0 m.fecjf.cn
@@ -3491,6 +3499,7 @@
 0.0.0.0 m.fouas.com
 0.0.0.0 m.foumm.com
 0.0.0.0 m.fstaw.com
+0.0.0.0 m.fwjoi.com
 0.0.0.0 m.fzyda.com
 0.0.0.0 m.game.weibo.cn
 0.0.0.0 m.gameyun907.net
@@ -3623,6 +3632,7 @@
 0.0.0.0 m.shenyunkeji.com
 0.0.0.0 m.simba.taobao.com
 0.0.0.0 m.sjaidu.com
+0.0.0.0 m.sjuqc.com
 0.0.0.0 m.slvtx.com
 0.0.0.0 m.smsksx.com
 0.0.0.0 m.srrux.com
@@ -4207,6 +4217,7 @@
 0.0.0.0 ph.qucaigg.com
 0.0.0.0 photo.qianerbai.cn
 0.0.0.0 photo.shyexiang.cn
+0.0.0.0 photo.xunhuaji.cn
 0.0.0.0 photo.zhanhevr.cn
 0.0.0.0 photobucket.adnxs.com
 0.0.0.0 phpad.cqnews.net
@@ -4289,6 +4300,7 @@
 0.0.0.0 popme.163.com
 0.0.0.0 popup.jointreport-switch.com
 0.0.0.0 popup.msn.com
+0.0.0.0 pork.2tumeng.com
 0.0.0.0 pos.baidu.com
 0.0.0.0 post.ra.icast.cn
 0.0.0.0 pp.sxjkc.cn
@@ -4404,6 +4416,7 @@
 0.0.0.0 qlmho.renhengshangmao.com
 0.0.0.0 qp.yunanfuwuqi.com
 0.0.0.0 qq.8368661.com
+0.0.0.0 qq.guansenff.cn
 0.0.0.0 qq.irs01.com
 0.0.0.0 qqshow2-item.qq.com
 0.0.0.0 qqx.cqqytgpt.com
@@ -5909,6 +5922,7 @@
 0.0.0.0 wenku-cms.bj.bcebos.com
 0.0.0.0 wer.bendougou.cn
 0.0.0.0 weyyae.com
+0.0.0.0 wgie.0z5jn.cn
 0.0.0.0 wgo.mmstat.com
 0.0.0.0 whn.star-media.cn
 0.0.0.0 whu.cwpush.com
@@ -6147,6 +6161,7 @@
 0.0.0.0 www.feitianma.com
 0.0.0.0 www.feixin2.com
 0.0.0.0 www.fenqihome.com
+0.0.0.0 www.fenvm.com
 0.0.0.0 www.fjlqqc.com
 0.0.0.0 www.flurry.com
 0.0.0.0 www.fu68.com
@@ -6581,6 +6596,7 @@
 0.0.0.0 zhongzicili.cc
 0.0.0.0 zhtjdl.com
 0.0.0.0 zhushou.2345.com
+0.0.0.0 zhuuv.maoyumao.net
 0.0.0.0 zjjgtz.com
 0.0.0.0 zjm.zzmmkj.com
 0.0.0.0 zjvnet.allyes.com

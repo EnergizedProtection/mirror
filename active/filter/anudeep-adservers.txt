@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
 # Last Converted - 14.09.2018
-# Total Domains - 28072
+# Total Domains - 28070
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -10937,7 +10937,6 @@
 0.0.0.0 douglasde.widget.criteo.com
 0.0.0.0 down2.9apps.com
 0.0.0.0 down2.download.9appsinstall.com
-0.0.0.0 down3.ucweb.com
 0.0.0.0 download-cool-j-apps.com
 0.0.0.0 download-cool-y-apps.com
 0.0.0.0 download.appsflyer.com
@@ -14382,7 +14381,6 @@
 0.0.0.0 img.stage.vidible.tv
 0.0.0.0 img.steepto.com
 0.0.0.0 img.trafficshop.com
-0.0.0.0 img.ucweb.com
 0.0.0.0 img.vserv.mobi
 0.0.0.0 img.wp.teads.tv
 0.0.0.0 img.zog.link

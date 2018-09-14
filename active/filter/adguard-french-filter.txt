@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-french-filter.txt
 # Last Converted - 14.09.2018
-# Total Domains - 5516
+# Total Domains - 5517
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -4556,6 +4556,7 @@
 0.0.0.0 shadofreed.com
 0.0.0.0 shaexowi.com
 0.0.0.0 shahneman.info
+0.0.0.0 shalleda.com
 0.0.0.0 shanglinli.com
 0.0.0.0 shapeupobliteration.org
 0.0.0.0 shareaholic.com

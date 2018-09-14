@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
 # Last Converted - 14.09.2018
-# Total Domains - 2812
+# Total Domains - 2813
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -1766,6 +1766,7 @@
 0.0.0.0 k6r.net
 0.0.0.0 kanoodle.com
 0.0.0.0 kargo.com
+0.0.0.0 karmatags.com
 0.0.0.0 kele1688.web23.badudns.cc
 0.0.0.0 keymedia.hu
 0.0.0.0 keynotedeviceanywhere.com

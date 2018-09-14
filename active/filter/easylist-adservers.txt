@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easylist-adserver.txt
 # Last Converted - 14.09.2018
-# Total Domains - 7983
+# Total Domains - 7990
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -3932,6 +3932,7 @@
 0.0.0.0 jyttehhwlm.com
 0.0.0.0 jyvtidkx.com
 0.0.0.0 jzckyzvlxetror.com
+0.0.0.0 jzfzgkepkjcf.com
 0.0.0.0 jzgtnetghdc.com
 0.0.0.0 jzurzhjqrp.com
 0.0.0.0 k0z09okc.com
@@ -4847,6 +4848,7 @@
 0.0.0.0 nextlandingads.com
 0.0.0.0 nextoptim.com
 0.0.0.0 nfbjwvmndabthb.com
+0.0.0.0 nfbpcvzj.com
 0.0.0.0 nfnxvdds.com
 0.0.0.0 nfqxehrpahqhjf.com
 0.0.0.0 nfzaustkhtkd.com
@@ -5630,6 +5632,7 @@
 0.0.0.0 putrr3.com
 0.0.0.0 putrr8.com
 0.0.0.0 puzzlingfall.com
+0.0.0.0 pvclouds.com
 0.0.0.0 pvpqgjkgvszq.com
 0.0.0.0 pvptwhhkfmog.com
 0.0.0.0 pwdmtyzyq.com
@@ -5960,6 +5963,7 @@
 0.0.0.0 rewartific.com
 0.0.0.0 reytata.ru
 0.0.0.0 rezilopompa.com
+0.0.0.0 rfbmtfebfcwlgo.com
 0.0.0.0 rfdujczogfnc.com
 0.0.0.0 rfghdzcbpogph.com
 0.0.0.0 rfgsi.com
@@ -6635,6 +6639,7 @@
 0.0.0.0 thoughtsondance.info
 0.0.0.0 thowytaoo.com
 0.0.0.0 thpsflsjw.com
+0.0.0.0 thqwivyhdpoem.com
 0.0.0.0 thsfkcymkoce.com
 0.0.0.0 thtlvguaqmkv.com
 0.0.0.0 thxczhfzad.com
@@ -6746,6 +6751,7 @@
 0.0.0.0 tqcxtxglt.com
 0.0.0.0 tqixovpneycfmk.com
 0.0.0.0 tqlkg.com
+0.0.0.0 tqlypenbt.com
 0.0.0.0 tqmricveyxphfo.com
 0.0.0.0 tqpkegddso.com
 0.0.0.0 tqrtxfqvcxkjiv.com
@@ -7582,6 +7588,7 @@
 0.0.0.0 xmsgobwy.com
 0.0.0.0 xnkmmbfpyokevaxsjtky.com
 0.0.0.0 xnlxpsbs.com
+0.0.0.0 xnnbvckd.com
 0.0.0.0 xnqlhbddabfsy.com
 0.0.0.0 xoalt.com
 0.0.0.0 xojwkixxdkx.com

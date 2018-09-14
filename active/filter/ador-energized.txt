@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # Last Converted - 14.09.2018
-# Total Domains - 8168
+# Total Domains - 8165
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -3711,7 +3711,6 @@
 0.0.0.0 img.snaptube.click
 0.0.0.0 img.topddl.net
 0.0.0.0 img.transcoder.opera.com
-0.0.0.0 img.ucweb.com
 0.0.0.0 img.uodoo.com
 0.0.0.0 img.ushareit.com
 0.0.0.0 img0.u.ucfly.com
@@ -7017,10 +7016,8 @@
 0.0.0.0 wap-it.vop.it
 0.0.0.0 wap.mobile4fun.it
 0.0.0.0 wap.mozook.com
-0.0.0.0 wap.uc.cn
 0.0.0.0 wap.uc123.com
 0.0.0.0 wap.ucfly.com
-0.0.0.0 wap.ucweb.com
 0.0.0.0 wap3.ucweb.com
 0.0.0.0 wap4dollar.com
 0.0.0.0 wapdollar.in

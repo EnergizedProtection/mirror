@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt
 # Last Converted - 14.09.2018
-# Total Domains - 738
+# Total Domains - 744
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -275,6 +275,7 @@
 0.0.0.0 goodprotein.ru
 0.0.0.0 googlemare.com
 0.0.0.0 gorgaz.info
+0.0.0.0 grafaman.ru
 0.0.0.0 guardlink.org
 0.0.0.0 guidetopetersburg.com
 0.0.0.0 handicapvantoday.com
@@ -335,12 +336,14 @@
 0.0.0.0 kabinet-online-vtb.ru
 0.0.0.0 kabinet-tinkoff.ru
 0.0.0.0 kabinet-ttk.ru
+0.0.0.0 kakablog.net
 0.0.0.0 kambasoft.com
 0.0.0.0 kamin-sam.ru
 0.0.0.0 karapuz.org.ua
 0.0.0.0 kazka.ru
 0.0.0.0 kazrent.com
 0.0.0.0 kerch.site
+0.0.0.0 kevblog.top
 0.0.0.0 keywords-monitoring-success.com
 0.0.0.0 keywords-monitoring-your-success.com
 0.0.0.0 kharkov.ua
@@ -366,6 +369,7 @@
 0.0.0.0 legalrc.biz
 0.0.0.0 lerporn.info
 0.0.0.0 leto-dacha.ru
+0.0.0.0 lider82.ru
 0.0.0.0 littleberry.ru
 0.0.0.0 livefixer.com
 0.0.0.0 livia-pache.ru
@@ -612,6 +616,7 @@
 0.0.0.0 sportwizard.ru
 0.0.0.0 spravka130.ru
 0.0.0.0 spravkavspb.net
+0.0.0.0 sribno.net
 0.0.0.0 stavimdveri.ru
 0.0.0.0 stiralkovich.ru
 0.0.0.0 stocktwists.com
@@ -729,6 +734,7 @@
 0.0.0.0 xn--c1acygb.xn--p1ai
 0.0.0.0 xn--d1abj0abs9d.in.ua
 0.0.0.0 xn--d1aifoe0a9a.top
+0.0.0.0 xn--e1aaajzchnkg.ru.com
 0.0.0.0 xn--e1agf4c.xn--80adxhks
 0.0.0.0 xz618.com
 0.0.0.0 yaderenergy.ru

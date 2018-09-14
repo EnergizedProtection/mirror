@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/fanboy-complete.txt
 # Last Converted - 14.09.2018
-# Total Domains - 15765
+# Total Domains - 15771
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -9344,6 +9344,7 @@
 0.0.0.0 nextstat.com
 0.0.0.0 nexttime.ovh
 0.0.0.0 nfbjwvmndabthb.com
+0.0.0.0 nfbpcvzj.com
 0.0.0.0 nfnxvdds.com
 0.0.0.0 nfqxehrpahqhjf.com
 0.0.0.0 nfwebminer.com
@@ -10819,6 +10820,7 @@
 0.0.0.0 pv.sohu.com
 0.0.0.0 pv.udn.com
 0.0.0.0 pv.xcar.com.cn
+0.0.0.0 pvclouds.com
 0.0.0.0 pvmax.net
 0.0.0.0 pvpqgjkgvszq.com
 0.0.0.0 pvptwhhkfmog.com
@@ -11381,6 +11383,7 @@
 0.0.0.0 rezilopompa.com
 0.0.0.0 reztrack.com
 0.0.0.0 rezync.com
+0.0.0.0 rfbmtfebfcwlgo.com
 0.0.0.0 rfdujczogfnc.com
 0.0.0.0 rfghdzcbpogph.com
 0.0.0.0 rfgsi.com
@@ -13206,6 +13209,7 @@
 0.0.0.0 thoughtsondance.info
 0.0.0.0 thowytaoo.com
 0.0.0.0 thpsflsjw.com
+0.0.0.0 thqwivyhdpoem.com
 0.0.0.0 thrnt.com
 0.0.0.0 ths9j89.com
 0.0.0.0 thsfkcymkoce.com
@@ -15230,6 +15234,7 @@
 0.0.0.0 xmsgobwy.com
 0.0.0.0 xnkmmbfpyokevaxsjtky.com
 0.0.0.0 xnlxpsbs.com
+0.0.0.0 xnnbvckd.com
 0.0.0.0 xnqlhbddabfsy.com
 0.0.0.0 xnxx.com
 0.0.0.0 xoalt.com
@@ -15322,6 +15327,7 @@
 0.0.0.0 xziqvbico.com
 0.0.0.0 xzismtaelciif.com
 0.0.0.0 y-track.com
+0.0.0.0 y1jxiqds7v.com
 0.0.0.0 y5wflt0xibmoufuvsayg1efy80yq0ystkjncf76cqm.com
 0.0.0.0 y72yuyr9.com
 0.0.0.0 ya88s1yk.com

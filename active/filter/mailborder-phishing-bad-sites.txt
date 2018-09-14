@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/mirror/mailborder.txt
 # Last Converted - 14.09.2018
-# Total Domains - 16433
+# Total Domains - 16432
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -8819,7 +8819,6 @@
 0.0.0.0 payrollupdatepotal.ontrapages.com
 0.0.0.0 pbefebb.edu.digital
 0.0.0.0 pbi-international.com
-0.0.0.0 pbs.twimg.com
 0.0.0.0 pc-adx23.stream
 0.0.0.0 pc.acidrct.com
 0.0.0.0 pc.pyxkfhhw.biz

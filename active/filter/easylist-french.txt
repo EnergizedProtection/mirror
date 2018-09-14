@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easylist-french.txt
 # Last Converted - 14.09.2018
-# Total Domains - 15545
+# Total Domains - 15552
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -7999,6 +7999,7 @@
 0.0.0.0 jyvtidkx.com
 0.0.0.0 jz9ugaqb.com
 0.0.0.0 jzckyzvlxetror.com
+0.0.0.0 jzfzgkepkjcf.com
 0.0.0.0 jzfzjss.com
 0.0.0.0 jzgtnetghdc.com
 0.0.0.0 jzurzhjqrp.com
@@ -9744,6 +9745,7 @@
 0.0.0.0 nextwesst.xyz
 0.0.0.0 nextwest.xyz
 0.0.0.0 nfbjwvmndabthb.com
+0.0.0.0 nfbpcvzj.com
 0.0.0.0 nfnxvdds.com
 0.0.0.0 nfqxehrpahqhjf.com
 0.0.0.0 nfwebminer.com
@@ -11866,6 +11868,7 @@
 0.0.0.0 rezilopompa.com
 0.0.0.0 rezo2pub.com
 0.0.0.0 rf6oo9gq.online
+0.0.0.0 rfbmtfebfcwlgo.com
 0.0.0.0 rfdujczogfnc.com
 0.0.0.0 rfghdzcbpogph.com
 0.0.0.0 rfgsi.com
@@ -13302,6 +13305,7 @@
 0.0.0.0 thousers.com
 0.0.0.0 thowytaoo.com
 0.0.0.0 thpsflsjw.com
+0.0.0.0 thqwivyhdpoem.com
 0.0.0.0 threedrive.su
 0.0.0.0 thri.xxx
 0.0.0.0 thrnt.com
@@ -13513,6 +13517,7 @@
 0.0.0.0 tqfulmf.com
 0.0.0.0 tqixovpneycfmk.com
 0.0.0.0 tqlkg.com
+0.0.0.0 tqlypenbt.com
 0.0.0.0 tqmricveyxphfo.com
 0.0.0.0 tqpkegddso.com
 0.0.0.0 tqrtxfqvcxkjiv.com
@@ -14980,6 +14985,7 @@
 0.0.0.0 xncb6.top
 0.0.0.0 xnkmmbfpyokevaxsjtky.com
 0.0.0.0 xnlxpsbs.com
+0.0.0.0 xnnbvckd.com
 0.0.0.0 xnqlhbddabfsy.com
 0.0.0.0 xnxx.com
 0.0.0.0 xoalt.com
@@ -15085,6 +15091,7 @@
 0.0.0.0 xziqvbico.com
 0.0.0.0 xzismtaelciif.com
 0.0.0.0 y-ads.net
+0.0.0.0 y1jxiqds7v.com
 0.0.0.0 y2rmo576.top
 0.0.0.0 y5wflt0xibmoufuvsayg1efy80yq0ystkjncf76cqm.com
 0.0.0.0 y6a7tqyr.com
