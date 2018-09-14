@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
 # Last Converted - 14.09.2018
-# Total Domains - 63211
+# Total Domains - 63215
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -1449,6 +1449,7 @@
 0.0.0.0 9t8t.ejsqucee.com
 0.0.0.0 9ts3tpia.com
 0.0.0.0 9uj292836745.000webhostapp.com
+0.0.0.0 9utwbj08.top
 0.0.0.0 9ytuml1cj7dvp1940w9fpa0s9w.com
 0.0.0.0 a-ads.com
 0.0.0.0 a-bankieren.com
@@ -27734,6 +27735,7 @@
 0.0.0.0 hugoguar.com
 0.0.0.0 hugosconsultores.com
 0.0.0.0 hugovaldebenito.cl
+0.0.0.0 huhrxmgiofzna.com
 0.0.0.0 huicancan.top
 0.0.0.0 huidakms.com.cn
 0.0.0.0 huigyetqu.com
@@ -31925,6 +31927,7 @@
 0.0.0.0 klfqffhvdpkd.com
 0.0.0.0 klframeshop.com
 0.0.0.0 klhjuuwrmxyjsn.com
+0.0.0.0 klhvqeajy.com
 0.0.0.0 klickthru.com
 0.0.0.0 klidiit.com.br
 0.0.0.0 klidpcdzfqj.com
@@ -61976,6 +61979,7 @@
 0.0.0.0 yikkagezqsob.com
 0.0.0.0 yiklmnmijwlryv.com
 0.0.0.0 yilmaztumay.com
+0.0.0.0 yim3eyv5.top
 0.0.0.0 yincrkvptefw.bid
 0.0.0.0 yinhualeather.com
 0.0.0.0 yinmikbest.com

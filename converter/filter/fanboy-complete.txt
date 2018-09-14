@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://fanboy.co.nz/r/fanboy-complete.txt
 # Last Converted - 14.09.2018
-# Total Domains - 23801
+# Total Domains - 23803
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -9824,6 +9824,7 @@
 0.0.0.0 huewmezzodzdv.com
 0.0.0.0 hufaymllqce.club
 0.0.0.0 hugeincome.cf
+0.0.0.0 huhrxmgiofzna.com
 0.0.0.0 huigyetqu.com
 0.0.0.0 hulahooprect.com
 0.0.0.0 huluads.info
@@ -11424,6 +11425,7 @@
 0.0.0.0 klert.com
 0.0.0.0 klfqffhvdpkd.com
 0.0.0.0 klhjuuwrmxyjsn.com
+0.0.0.0 klhvqeajy.com
 0.0.0.0 klidpcdzfqj.com
 0.0.0.0 klikadvertising.com
 0.0.0.0 kliklink.ru

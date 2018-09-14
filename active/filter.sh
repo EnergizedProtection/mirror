@@ -134,7 +134,7 @@ echo "$divider\n"
 rm -f $temp $hosts
 
 # Add Header
-echo "# $name Custom Hosts Build\n# Builds Maintainer: Nayem Ador - nayemador.com\n# Converted From - $url\n# Last Converted - $date\n# Total Domains - $totaldomains\n# Energized - ad.porn.malware blocking.\n# https://nayemador.com/energized\n# License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license\n" >> $tem
+echo "# $name Custom Hosts Build\n# Builds Maintainer: Nayem Ador - nayemador.com\n# Converted From - $url\n# Last Converted - $date\n# Total Domains - $totaldomains\n# Energized - ad.porn.malware blocking.\n# https://nayemador.com/energized\n# License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license\n" >> $temp
 
 cat $temp $fresh > $hosts
 mv -f $hosts $fresh

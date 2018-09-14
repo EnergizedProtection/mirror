@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://easylist-downloads.adblockplus.org/ruadlist+easylist.txt
 # Last Converted - 14.09.2018
-# Total Domains - 24214
+# Total Domains - 24215
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -11526,6 +11526,7 @@
 0.0.0.0 kletki16.ru
 0.0.0.0 klfqffhvdpkd.com
 0.0.0.0 klhjuuwrmxyjsn.com
+0.0.0.0 klhvqeajy.com
 0.0.0.0 klidpcdzfqj.com
 0.0.0.0 klikadvertising.com
 0.0.0.0 kliklink.ru
