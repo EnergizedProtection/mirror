@@ -35,7 +35,7 @@
   {"name": "easylist-adserver",                  "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt"},
   {"name": "easylist-adult-adservers",           "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_adservers.txt"},
   {"name": "easylist-adult-thirdparty",          "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_thirdparty.txt"},
-  {"name": "easylisy-adult-specific",            "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_specific_block.txt"},
+  {"name": "easylist-adult-specific",            "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_specific_block.txt"},
   {"name": "easylist-brasil",                    "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/easylistbrasil/easylistbrasil/filtro/easylistbrasil.txt"},
   {"name": "easylist-bulgarian",                 "enabled": true,  "format": "plain",   "url": "https://easylist-downloads.adblockplus.org/bulgarian_list+easylist.txt"},
   {"name": "easylist-china",                     "enabled": true,  "format": "plain",   "url": "https://easylist-downloads.adblockplus.org/easylistchina.txt"},

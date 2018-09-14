@@ -1,4 +1,4 @@
-# easylisy-adult-specific Custom Hosts Build
+# easylist-adult-specific Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_specific_block.txt
 # Last Converted - 14.09.2018
