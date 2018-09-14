@@ -105,7 +105,7 @@
   {"name": "kadhosts",                           "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt"},
   {"name": "lightswitch-hosts-extended",         "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt"},
   {"name": "liste-ar",                           "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/liste-ar.txt"},
-  {"name": "mailborder-phising-bad-sites",       "enabled": true,  "format": "plain",   "url": "http://phishing.mailscanner.info/phishing.bad.sites.conf"},
+  {"name": "mailborder-phishing-bad-sites",      "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/EnergizedProtection/mirror/master/mirror/mailborder.txt"},
   {"name": "malwaredomainlist.com",              "enabled": true,  "format": "plain",   "url": "https://www.malwaredomainlist.com/hostslist/hosts.txt"},
   {"name": "malwaredomains.com-immortaldomains", "enabled": true,  "format": "plain",   "url": "https://malwaredomains.usu.edu/immortal_domains.txt"},
   {"name": "malwaredomains.com-justdomains",     "enabled": true,  "format": "plain",   "url": "https://malwaredomains.usu.edu/justdomains"},
