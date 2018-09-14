@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/mirror/airelle-rsk.txt
 # Last Converted - 14.09.2018
-# Total Domains - 50938
+# Total Domains - 50939
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -426,6 +426,7 @@
 0.0.0.0 123.230.65.80.er.eaccess.ne.jp
 0.0.0.0 123.greenhome001.com.cn
 0.0.0.0 123.red-88-30-2.staticip.rima-tde.net
+0.0.0.0 123appz.com
 0.0.0.0 123counter.mycomputer.com
 0.0.0.0 123counter.superstats.com
 0.0.0.0 123date.me
@@ -10658,6 +10659,7 @@
 0.0.0.0 ads.evtv1.com
 0.0.0.0 ads.exosrv.com
 0.0.0.0 ads.extube.org
+0.0.0.0 ads.filez.com
 0.0.0.0 ads.financialcontent.com
 0.0.0.0 ads.firstgrand.com
 0.0.0.0 ads.fitpregnancy.com
@@ -23721,6 +23723,7 @@
 0.0.0.0 cracks007.blogspot.com
 0.0.0.0 cracks007.blogspot.in
 0.0.0.0 cracks4all.com
+0.0.0.0 cracks4u.com
 0.0.0.0 cracks4u.us
 0.0.0.0 cracksall.com
 0.0.0.0 cracksandkeygen.com
@@ -33377,7 +33380,6 @@
 0.0.0.0 heim.ifi.uio.no
 0.0.0.0 heitong.gnway.net
 0.0.0.0 helc.firstlight.cn
-0.0.0.0 helesouurusa.cjb.com
 0.0.0.0 helgardmuller.co.za
 0.0.0.0 helios.wildtangent.com
 0.0.0.0 heliozid.com
@@ -38729,6 +38731,7 @@
 0.0.0.0 localdccom.ourtoolbar.com
 0.0.0.0 localdirectory.com
 0.0.0.0 localendar.com
+0.0.0.0 localhost
 0.0.0.0 localicom.112.2o7.net
 0.0.0.0 localportal24de.112.207.net
 0.0.0.0 localscore.com
@@ -44571,7 +44574,6 @@
 0.0.0.0 osc.webroot.com
 0.0.0.0 oscarroscombr.ourtoolbar.com
 0.0.0.0 osimg.nbcuni.com
-0.0.0.0 osint.bambenekconsulting.com
 0.0.0.0 osiristrading.112.2o7.net
 0.0.0.0 ospetroglifos.com
 0.0.0.0 ospkrutyn.pl
@@ -46448,7 +46450,6 @@
 0.0.0.0 seektheglobe.com
 0.0.0.0 seekwell.net
 0.0.0.0 seen-on-screen.thewhizmarketing.com
-0.0.0.0 seet10.jino.ru
 0.0.0.0 seferworld.com
 0.0.0.0 segob.gob.mx
 0.0.0.0 segufin.com.mx
@@ -48779,7 +48780,6 @@
 0.0.0.0 www.codingthewheel.com
 0.0.0.0 www.coinhive.com
 0.0.0.0 www.coinimp.com
-0.0.0.0 www.coloritpak.by
 0.0.0.0 www.comefri.es
 0.0.0.0 www.commentaborderunefille.fr
 0.0.0.0 www.comohackearfacebook.biz
@@ -49118,6 +49118,7 @@
 0.0.0.0 www.freemoneyhack.com
 0.0.0.0 www.freenew.net
 0.0.0.0 www.freeserialnumber.eu
+0.0.0.0 www.freeserials.com
 0.0.0.0 www.freeserials.net
 0.0.0.0 www.freeserials.us
 0.0.0.0 www.freeserials.ws

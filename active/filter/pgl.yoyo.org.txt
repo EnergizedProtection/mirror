@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&mimetype=plaintext
 # Last Converted - 14.09.2018
-# Total Domains - 2575
+# Total Domains - 2573
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -994,6 +994,7 @@
 0.0.0.0 banners.adultfriendfinder.com
 0.0.0.0 banners.amigos.com
 0.0.0.0 banners.asiafriendfinder.com
+0.0.0.0 banners.babylon-x.com
 0.0.0.0 banners.bol.com.br
 0.0.0.0 banners.cams.com
 0.0.0.0 banners.clubseventeen.com
@@ -1441,7 +1442,6 @@
 0.0.0.0 fpctraffic.com
 0.0.0.0 fpctraffic2.com
 0.0.0.0 fqtag.com
-0.0.0.0 fragmentserv.iac-online.de
 0.0.0.0 free-banners.com
 0.0.0.0 freebanner.com
 0.0.0.0 freelogs.com
@@ -1701,7 +1701,6 @@
 0.0.0.0 mads.cnet.com
 0.0.0.0 madvertise.de
 0.0.0.0 marchex.com
-0.0.0.0 market-buster.com
 0.0.0.0 marketing.888.com
 0.0.0.0 marketing.hearstmagazines.nl
 0.0.0.0 marketing.nyi.net
@@ -2376,7 +2375,6 @@
 0.0.0.0 tracker-pm2.spilleren.com
 0.0.0.0 tracker.icerocket.com
 0.0.0.0 tracker.marinsm.com
-0.0.0.0 tracker.trackerfix.com
 0.0.0.0 tracking.crunchiemedia.com
 0.0.0.0 tracking.gajmp.com
 0.0.0.0 tracking.internetstores.de

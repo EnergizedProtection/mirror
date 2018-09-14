@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/gnuzilla.txt
 # Last Converted - 14.09.2018
-# Total Domains - 15777
+# Total Domains - 15789
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -2032,6 +2032,7 @@
 0.0.0.0 asbqyhrpty.com
 0.0.0.0 ascend.ai
 0.0.0.0 asd.projectfreetv.so
+0.0.0.0 asdtwttky.com
 0.0.0.0 aseadnet.com
 0.0.0.0 aserve.directorym.com
 0.0.0.0 aservices.party
@@ -2131,6 +2132,7 @@
 0.0.0.0 automatedtraffic.com
 0.0.0.0 automateyourlist.com
 0.0.0.0 automoc.net
+0.0.0.0 auyyklnpj.com
 0.0.0.0 avads.co.uk
 0.0.0.0 avalanchers.com
 0.0.0.0 avalhukof.com
@@ -3492,6 +3494,7 @@
 0.0.0.0 clubcollector.com
 0.0.0.0 clustrmaps.com
 0.0.0.0 clvk.viki.io
+0.0.0.0 clybtbahdbwkep.com
 0.0.0.0 clz3.net
 0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 cmap.alibaba.com
@@ -4821,6 +4824,7 @@
 0.0.0.0 dynsrvaba.com
 0.0.0.0 dynsrvwer.com
 0.0.0.0 dyntrk.com
+0.0.0.0 dywqwrtnhegyz.com
 0.0.0.0 dz4ad.com
 0.0.0.0 dzizsih.ru
 0.0.0.0 dzlaodil.com
@@ -6366,6 +6370,7 @@
 0.0.0.0 gyojplgn.com
 0.0.0.0 gzakmhhwrkagg.com
 0.0.0.0 gziedzbliamx.com
+0.0.0.0 gzoprhvqhie.com
 0.0.0.0 gzozvhryjcf.com
 0.0.0.0 gzrlatbooqmt.com
 0.0.0.0 gzumjmvqjkki.com
@@ -6734,6 +6739,7 @@
 0.0.0.0 hueads.com
 0.0.0.0 huewmezzodzdv.com
 0.0.0.0 hugeincome.cf
+0.0.0.0 huhrxmgiofzna.com
 0.0.0.0 huigyetqu.com
 0.0.0.0 huluads.info
 0.0.0.0 humanclick.com
@@ -7715,6 +7721,7 @@
 0.0.0.0 klepuazuxv.com
 0.0.0.0 klert.com
 0.0.0.0 klhjuuwrmxyjsn.com
+0.0.0.0 klhvqeajy.com
 0.0.0.0 klidpcdzfqj.com
 0.0.0.0 klikadvertising.com
 0.0.0.0 kliksaya.com
@@ -10930,6 +10937,7 @@
 0.0.0.0 qjobvxqp.com
 0.0.0.0 qjpxalhvenbt.com
 0.0.0.0 qjuzjpkihvya.com
+0.0.0.0 qjvullwjz.com
 0.0.0.0 qjwanedlhedm.com
 0.0.0.0 qjwkyhlxa.com
 0.0.0.0 qkarmotdhhgeuy.com
@@ -11048,6 +11056,7 @@
 0.0.0.0 qyifd.com
 0.0.0.0 qyiiudex.com
 0.0.0.0 qykxbnflqvjxvk.com
+0.0.0.0 qyrzcsoaey.com
 0.0.0.0 qytabshszekf.com
 0.0.0.0 qytuwxcozbk.com
 0.0.0.0 qyvebeos.com
@@ -11436,6 +11445,7 @@
 0.0.0.0 rjlebzex.com
 0.0.0.0 rjljndfgnkcu.com
 0.0.0.0 rjnqbphb.com
+0.0.0.0 rjszckwlctpup.com
 0.0.0.0 rjtcrxzd.com
 0.0.0.0 rjxspgol.com
 0.0.0.0 rkbldvgcjebh.com
@@ -14034,6 +14044,7 @@
 0.0.0.0 uabicxuyovh.com
 0.0.0.0 uaczwcws.com
 0.0.0.0 uadx.com
+0.0.0.0 uafgymcern.com
 0.0.0.0 uapoisk.net
 0.0.0.0 uarating.com
 0.0.0.0 ubercpm.com
@@ -15159,6 +15170,7 @@
 0.0.0.0 xbzbeffqls.com
 0.0.0.0 xcelltech.com
 0.0.0.0 xcelsiusadserver.com
+0.0.0.0 xcgebfplttrdg.com
 0.0.0.0 xchangebanners.com
 0.0.0.0 xclaimwords.net
 0.0.0.0 xclicks.net

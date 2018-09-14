@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/all-in-one-adblocklist.txt
 # Last Converted - 14.09.2018
-# Total Domains - 41832
+# Total Domains - 41831
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -5724,6 +5724,7 @@
 0.0.0.0 banners.alt.com
 0.0.0.0 banners.amigos.com
 0.0.0.0 banners.asiafriendfinder.com
+0.0.0.0 banners.babylon-x.com
 0.0.0.0 banners.beevpn.com
 0.0.0.0 banners.blacksexmatch.com
 0.0.0.0 banners.bol.com.br
@@ -15193,7 +15194,6 @@
 0.0.0.0 fr4ozoyphhglqoydc66j.mbservicesyorkshire.co.uk
 0.0.0.0 fra-log.com
 0.0.0.0 fraganza.in
-0.0.0.0 fragmentserv.iac-online.de
 0.0.0.0 frailoffer.com
 0.0.0.0 frame-ur-work.com
 0.0.0.0 frameptp.com
@@ -23359,7 +23359,6 @@
 0.0.0.0 markdisaservice.com
 0.0.0.0 markergot.com
 0.0.0.0 markerly.com
-0.0.0.0 market-buster.com
 0.0.0.0 market.space
 0.0.0.0 market2lead.com
 0.0.0.0 marketbanker.com
@@ -35540,6 +35539,7 @@
 0.0.0.0 tbhmqjpm.com
 0.0.0.0 tbhomeinspection.com
 0.0.0.0 tbib.org
+0.0.0.0 tbnnsmwfjzttct.com
 0.0.0.0 tbuzzardsportfolio.com
 0.0.0.0 tbyzeunvuh.com
 0.0.0.0 tc-avrora38.ru
@@ -36871,7 +36871,6 @@
 0.0.0.0 tracker.thinkindot.com
 0.0.0.0 tracker.timesgroup.com
 0.0.0.0 tracker.tiu.ru
-0.0.0.0 tracker.trackerfix.com
 0.0.0.0 tracker.twenga.
 0.0.0.0 tracker.twenga.pl
 0.0.0.0 tracker.u-link.me

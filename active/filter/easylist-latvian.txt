@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easylist-latvian.txt
 # Last Converted - 14.09.2018
-# Total Domains - 10398
+# Total Domains - 10399
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -8624,6 +8624,7 @@
 0.0.0.0 tbeouuheoyl.com
 0.0.0.0 tbhmqjpm.com
 0.0.0.0 tbib.org
+0.0.0.0 tbnnsmwfjzttct.com
 0.0.0.0 tbyzeunvuh.com
 0.0.0.0 tcadops.ca
 0.0.0.0 tchqwqspwjeei.com

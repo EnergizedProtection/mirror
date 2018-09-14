@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/fanboy-complete.txt
 # Last Converted - 14.09.2018
-# Total Domains - 15764
+# Total Domains - 15765
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -13048,6 +13048,7 @@
 0.0.0.0 tbex.ru
 0.0.0.0 tbhmqjpm.com
 0.0.0.0 tbib.org
+0.0.0.0 tbnnsmwfjzttct.com
 0.0.0.0 tbyzeunvuh.com
 0.0.0.0 tc.airfrance.com
 0.0.0.0 tcactivity.net
