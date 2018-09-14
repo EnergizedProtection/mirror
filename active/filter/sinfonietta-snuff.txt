@@ -1,0 +1,19 @@
+# sinfonietta-snuff Custom Hosts Build
+# Builds Maintainer: Nayem Ador - nayemador.com
+# Converted From - https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/snuff-hosts
+# Last Converted - 14.09.2018
+# Total Domains - 10
+# Energized - ad.porn.malware blocking.
+# https://nayemador.com/energized
+# License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
+
+0.0.0.0 bestgore.com
+0.0.0.0 bitcheese.net
+0.0.0.0 deathaddict.com
+0.0.0.0 elblogdelnarco.com
+0.0.0.0 gorebrasil.com
+0.0.0.0 goregrish.com
+0.0.0.0 horriblevideos.com
+0.0.0.0 kaotic.com
+0.0.0.0 miscopy.com
+0.0.0.0 theync.com

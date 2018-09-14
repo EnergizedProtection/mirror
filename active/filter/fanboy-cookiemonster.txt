@@ -1,0 +1,56 @@
+# fanboy-cookiemonster Custom Hosts Build
+# Builds Maintainer: Nayem Ador - nayemador.com
+# Converted From - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/fanboy-cookiemonster.txt
+# Last Converted - 14.09.2018
+# Total Domains - 47
+# Energized - ad.porn.malware blocking.
+# https://nayemador.com/energized
+# License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
+
+0.0.0.0 admiral.mgr.consensu.org
+0.0.0.0 clickio.mgr.consensu.org
+0.0.0.0 clickiocdn.com
+0.0.0.0 cnil.links-lab.fr
+0.0.0.0 consent.cmp.oath.com
+0.0.0.0 cookie-accept.com
+0.0.0.0 cookie-script.com
+0.0.0.0 cookie.gazeta.pl
+0.0.0.0 cookie.support
+0.0.0.0 cookie.wieni.be
+0.0.0.0 cookieassistant.com
+0.0.0.0 cookiebot.com
+0.0.0.0 cookiechoices.org
+0.0.0.0 cookieinformation.com
+0.0.0.0 cookielaw.org
+0.0.0.0 cookiemanager1.contentforces.com
+0.0.0.0 cookieq.com
+0.0.0.0 cookiereports.com
+0.0.0.0 cookies.fakt.pl
+0.0.0.0 cookies.forbes.pl
+0.0.0.0 cookies.innershed.co.uk
+0.0.0.0 cookies.leadplace.fr
+0.0.0.0 cookies.nos.nl
+0.0.0.0 cookies.unidadeditorial.es
+0.0.0.0 cookiescript.info
+0.0.0.0 dam.bbcchannels.com
+0.0.0.0 dmgmediaprivacy.co.uk
+0.0.0.0 gdpr.internetbrands.com
+0.0.0.0 gdpr.prisa.com
+0.0.0.0 iubenda.com
+0.0.0.0 mycookies.it
+0.0.0.0 onetag.mgr.consensu.org
+0.0.0.0 policies.warnerbros.com
+0.0.0.0 privacy-center.org
+0.0.0.0 privacy.purch.com
+0.0.0.0 privacy.schibsted.com
+0.0.0.0 privacyportal.fatergroup.com
+0.0.0.0 rodo.agora.pl
+0.0.0.0 skryptcookies.pl
+0.0.0.0 smartcookies.it
+0.0.0.0 sourcepoint.mgr.consensu.org
+0.0.0.0 sp.knowyourmeme.com
+0.0.0.0 thenational-gb.thenational.scot
+0.0.0.0 thirdfloor.it
+0.0.0.0 trustarc.com
+0.0.0.0 usercentrics.eu
+0.0.0.0 zgody.infor.pl

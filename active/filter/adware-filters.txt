@@ -1,0 +1,38 @@
+# adware-filters Custom Hosts Build
+# Builds Maintainer: Nayem Ador - nayemador.com
+# Converted From - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adware-filters.txt
+# Last Converted - 14.09.2018
+# Total Domains - 29
+# Energized - ad.porn.malware blocking.
+# https://nayemador.com/energized
+# License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
+
+0.0.0.0 addthis.com
+0.0.0.0 badge.empireavenue.com
+0.0.0.0 badge.facebook.com
+0.0.0.0 buzzbuttons.com
+0.0.0.0 doubleclick.net
+0.0.0.0 linksalpha.com
+0.0.0.0 niftybuttons.com
+0.0.0.0 platform.foursquare.com
+0.0.0.0 sharethis.com
+0.0.0.0 socialguide.com
+0.0.0.0 socialize-it.com
+0.0.0.0 sociallist.org
+0.0.0.0 socialmarker.com
+0.0.0.0 socialtwist.com
+0.0.0.0 static.addtoany.com
+0.0.0.0 stumble-upon.com
+0.0.0.0 tinker.com
+0.0.0.0 tweetboard.com
+0.0.0.0 tweetmeme.com
+0.0.0.0 twitbuttons.com
+0.0.0.0 twittercounter.com
+0.0.0.0 twitthis.com
+0.0.0.0 wibiya.com
+0.0.0.0 widgets.dzone.com
+0.0.0.0 widgets.getglue.com
+0.0.0.0 widgets.klout.com
+0.0.0.0 widgets.twimg.com
+0.0.0.0 widgetsplus.com
+0.0.0.0 xing-share.com
