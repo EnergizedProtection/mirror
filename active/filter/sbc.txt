@@ -1,8 +1,8 @@
 # sbc Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - http://sbc.io/hosts/hosts
-# Last Converted - 14.09.2018
-# Total Domains - 49798
+# Last Converted - 15.09.2018
+# Total Domains - 49764
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -1425,7 +1425,6 @@
 0.0.0.0 accounts.qa-ext.livefyre.com
 0.0.0.0 accounts.t402.livefyre.com
 0.0.0.0 accur.biz
-0.0.0.0 accuserveadsystem.com
 0.0.0.0 accuweather.us.intellitxt.com
 0.0.0.0 acd.theappgrader.com
 0.0.0.0 acdn.adnxs.com
@@ -4184,7 +4183,6 @@
 0.0.0.0 adserver.kontextua.com
 0.0.0.0 adserver.kylemedia.com
 0.0.0.0 adserver.lanacion.com.ar
-0.0.0.0 adserver.legacy-network.com
 0.0.0.0 adserver.libero.it
 0.0.0.0 adserver.livejournal.com
 0.0.0.0 adserver.lonuncavisto.com
@@ -4804,7 +4802,6 @@
 0.0.0.0 advplace.com
 0.0.0.0 advs.adgorithms.com
 0.0.0.0 advserver.xyz
-0.0.0.0 advstat.xunlei.com
 0.0.0.0 advt.webindia123.com
 0.0.0.0 advzilla.com
 0.0.0.0 adw.ero-advertising.com
@@ -5150,7 +5147,6 @@
 0.0.0.0 airportsys.com
 0.0.0.0 airpr.com
 0.0.0.0 airvertiseme.com
-0.0.0.0 airzonafederal.org
 0.0.0.0 aisiansex.com
 0.0.0.0 aistat.net
 0.0.0.0 ait7ee.win
@@ -5461,7 +5457,6 @@
 0.0.0.0 allergycenter.info
 0.0.0.0 allerinternett.tns-cs.net
 0.0.0.0 alleron.andree.free.fr
-0.0.0.0 allesliebe.ch
 0.0.0.0 allesohnegirls.net
 0.0.0.0 allesvoorsex.nl
 0.0.0.0 allfet.info
@@ -6679,7 +6674,6 @@
 0.0.0.0 arion-api.staging.us-east-1.kops.kargo.com
 0.0.0.0 aripaadee.hit.gemius.pl
 0.0.0.0 aripaee.adocean.pl
-0.0.0.0 arisonafederal.org
 0.0.0.0 arius.tech
 0.0.0.0 arizona-miner.tk
 0.0.0.0 arizonalionscamp.org
@@ -9177,7 +9171,6 @@
 0.0.0.0 boysau.de
 0.0.0.0 boyscollection.info
 0.0.0.0 boysnextdoor.org
-0.0.0.0 boz8899.com
 0.0.0.0 bozhou.gov.cn
 0.0.0.0 bp.specificclick.net
 0.0.0.0 bp1.eye.to
@@ -12166,7 +12159,6 @@
 0.0.0.0 corporate.crakmedia.com
 0.0.0.0 corps-accord.com
 0.0.0.0 corps.email
-0.0.0.0 correctrade.eu
 0.0.0.0 corta.co
 0.0.0.0 corvus.co.be
 0.0.0.0 corzz.pcloadletter.quhu.info
@@ -14864,7 +14856,6 @@
 0.0.0.0 dynamic2.anandtech.com
 0.0.0.0 dynamicyield.com
 0.0.0.0 dyntraq.mtree.com
-0.0.0.0 dyntrk.com
 0.0.0.0 dynya-may.github.io
 0.0.0.0 dyode.dynamicyield.com
 0.0.0.0 dyode.use.dynamicyield.com
@@ -17540,7 +17531,6 @@
 0.0.0.0 fra-01.braze.eu
 0.0.0.0 fra1-ib.adnxs.com
 0.0.0.0 fraad.adtech.de
-0.0.0.0 fragmentserv.iac-online.de
 0.0.0.0 frankfurt-1.xmrpool.net
 0.0.0.0 frankfurt01.monero.hashvault.pro
 0.0.0.0 franklyinc.com
@@ -18352,7 +18342,6 @@
 0.0.0.0 gamofites.org
 0.0.0.0 gamonig.com
 0.0.0.0 gamroll.com
-0.0.0.0 gamtelfc.gm
 0.0.0.0 gan.doubleclick.net
 0.0.0.0 ganamax.net
 0.0.0.0 gandjaircraft.com
@@ -18377,7 +18366,6 @@
 0.0.0.0 gannett.hb.omtrdc.net
 0.0.0.0 gannettbroadcast.us.intellitxt.com
 0.0.0.0 gannettwisconsin.us.intellitxt.com
-0.0.0.0 gaomalei.com
 0.0.0.0 gap.112.2o7.net
 0.0.0.0 gapl.hit.gemius.pl
 0.0.0.0 gar-tech.com
@@ -18584,7 +18572,6 @@
 0.0.0.0 gdyn.veryfunnyads.com
 0.0.0.0 geek.us.intellitxt.com
 0.0.0.0 geekpai.net
-0.0.0.0 geeksdrivesavers.com
 0.0.0.0 geekstogo.us.intellitxt.com
 0.0.0.0 geekyporno.nu
 0.0.0.0 geezter.com
@@ -21788,7 +21775,6 @@
 0.0.0.0 inringtone.com
 0.0.0.0 ins.track.tappx.com
 0.0.0.0 ins2.track.tappx.com
-0.0.0.0 insane-orgy.president.nu
 0.0.0.0 insanity2.thezeroworld.com
 0.0.0.0 insc.info
 0.0.0.0 inscapedesign.in.cp-3.webhostbox.net
@@ -22434,7 +22420,6 @@
 0.0.0.0 jbqzz.pcloadletter.quhu.info
 0.0.0.0 jbs.co.kr
 0.0.0.0 jc.revolvermaps.com
-0.0.0.0 jcahop.org
 0.0.0.0 jcarter.spinbox.net
 0.0.0.0 jcci.in
 0.0.0.0 jce.ru
@@ -23444,7 +23429,6 @@
 0.0.0.0 krxd.net
 0.0.0.0 krynica.info
 0.0.0.0 kryptochemik.pl
-0.0.0.0 ks1234.com
 0.0.0.0 ksias.adx1.com
 0.0.0.0 ksiazka-telefoniczna-online.pl
 0.0.0.0 ksimdw.ru
@@ -23713,7 +23697,6 @@
 0.0.0.0 lavenderlounge.biz
 0.0.0.0 lavideodujour.fr
 0.0.0.0 lavo.info
-0.0.0.0 lawee.org
 0.0.0.0 lawfirmediscovery.com
 0.0.0.0 laxnws.112.2o7.net
 0.0.0.0 laxprs.112.2o7.net
@@ -27214,7 +27197,6 @@
 0.0.0.0 mysearchweb.net
 0.0.0.0 myseostats.com
 0.0.0.0 mysex-story.com
-0.0.0.0 mysex.pl
 0.0.0.0 mysexpics.ru
 0.0.0.0 myshopmarketim.com
 0.0.0.0 myshovel.com
@@ -27698,7 +27680,6 @@
 0.0.0.0 naturel1001.net
 0.0.0.0 natureworldnews.us.intellitxt.com
 0.0.0.0 naturfoto-abenteuer.de
-0.0.0.0 naturheilpraxis-meixner.de
 0.0.0.0 naturist-photos.com
 0.0.0.0 natursektparty.com
 0.0.0.0 nauczycielkasex.blogspot.com
@@ -32567,7 +32548,6 @@
 0.0.0.0 purethc.com
 0.0.0.0 puretoons.com
 0.0.0.0 purmovies.com
-0.0.0.0 purno.geit.nu
 0.0.0.0 puroclean.com
 0.0.0.0 purplesphere.in
 0.0.0.0 purplestats.com
@@ -32643,7 +32623,6 @@
 0.0.0.0 pustoaice.erotic-place.org
 0.0.0.0 putacasualidad.com
 0.0.0.0 putags.com
-0.0.0.0 putain.be
 0.0.0.0 putain.org
 0.0.0.0 putana-moskva.ru
 0.0.0.0 putariaonline.info
@@ -32954,7 +32933,6 @@
 0.0.0.0 r.xyz1.pl
 0.0.0.0 r.yieldkit.com
 0.0.0.0 r01.ibg.bg
-0.0.0.0 r0ckethost.pl
 0.0.0.0 r1-ads.ace.advertising.com
 0.0.0.0 r1-t.trackedlink.net
 0.0.0.0 r1.ace.advertising.com
@@ -33186,7 +33164,6 @@
 0.0.0.0 realclix.com
 0.0.0.0 realcouponnow.com
 0.0.0.0 realestateeconomywatch.com
-0.0.0.0 realestateschol.org
 0.0.0.0 realfuckingamateurs.com
 0.0.0.0 realgfsbucks.com
 0.0.0.0 realgift.men
@@ -34543,7 +34520,6 @@
 0.0.0.0 sal.aws.branch.io
 0.0.0.0 salamaleyum.com
 0.0.0.0 salasexo.com
-0.0.0.0 salat.pl
 0.0.0.0 sale-japan.com
 0.0.0.0 sales-cloud.com
 0.0.0.0 sales-express.eu
@@ -38338,8 +38314,6 @@
 0.0.0.0 studdedbeltschokerswristbands.com
 0.0.0.0 studentenwerk-augburg.de
 0.0.0.0 studenti.unipa.it
-0.0.0.0 studentsholarshops.org
-0.0.0.0 studentsholarshps.org
 0.0.0.0 studio-aparte.com
 0.0.0.0 studio-content.com
 0.0.0.0 studio-fuer-fitness.de
@@ -40106,7 +40080,6 @@
 0.0.0.0 topdownloads.nl.intellitxt.com
 0.0.0.0 topdownloads.ru
 0.0.0.0 topeighteen.com
-0.0.0.0 topescortpoland.pl
 0.0.0.0 topeuro.biz
 0.0.0.0 topforall.com
 0.0.0.0 topgamesites.net
@@ -40223,7 +40196,6 @@
 0.0.0.0 tourismvictoria.com
 0.0.0.0 toursmaps.com
 0.0.0.0 tousavostapis.ca
-0.0.0.0 toutes-les-videos.fr
 0.0.0.0 toutesdesputes.com
 0.0.0.0 tovaroboom.vast.ru
 0.0.0.0 tovit.de
@@ -40520,7 +40492,6 @@
 0.0.0.0 tracking.10e20.com
 0.0.0.0 tracking.1betternetwork.com
 0.0.0.0 tracking.247search.com
-0.0.0.0 tracking.45-fe6b6-aah.co.uk
 0.0.0.0 tracking.aatkit.com
 0.0.0.0 tracking.absolstats.com
 0.0.0.0 tracking.adalyser.com
@@ -40641,7 +40612,6 @@
 0.0.0.0 tracking.whattoexpect.com
 0.0.0.0 tracking.wisepops.com
 0.0.0.0 tracking.yeehbuy.com
-0.0.0.0 tracking1.euroads.no
 0.0.0.0 tracking101.com
 0.0.0.0 tracking2.channeladvisor.com
 0.0.0.0 tracking2.hittail.com
@@ -41314,7 +41284,6 @@
 0.0.0.0 uac-assets.cdn.inmobi.com
 0.0.0.0 uac.advertising.com
 0.0.0.0 uac.net.au
-0.0.0.0 uadx.com
 0.0.0.0 uaf.no
 0.0.0.0 ualumphuoldi.angelcities.com
 0.0.0.0 uamtrk.com
@@ -41466,7 +41435,6 @@
 0.0.0.0 ultrasponsor.com
 0.0.0.0 ultratotty.com
 0.0.0.0 ultratrck.com
-0.0.0.0 ultrawarez.eu
 0.0.0.0 ultraxamateur.com
 0.0.0.0 ultrayoung.nu
 0.0.0.0 ulundi.co.za
@@ -42520,7 +42488,6 @@
 0.0.0.0 volkswagen.122.2o7.net
 0.0.0.0 vologda-kupi.ru
 0.0.0.0 voloomoney.com
-0.0.0.0 voltrknc1.com
 0.0.0.0 volume-pills.biz
 0.0.0.0 voluumtracker.com
 0.0.0.0 voluumtrk.com
@@ -48453,7 +48420,6 @@
 0.0.0.0 www.yourfuckbook.com
 0.0.0.0 www.yourgiftrewards.com
 0.0.0.0 www.yourhitstats.com
-0.0.0.0 www.youripad4free.com
 0.0.0.0 www.yourlustmedia.com
 0.0.0.0 www.yourrewardzone.com
 0.0.0.0 www.yoursmartrewards.com

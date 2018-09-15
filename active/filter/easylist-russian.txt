@@ -1,8 +1,8 @@
 # easylist-russian Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easylist-russian.txt
-# Last Converted - 14.09.2018
-# Total Domains - 16462
+# Last Converted - 15.09.2018
+# Total Domains - 16475
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -720,7 +720,6 @@
 0.0.0.0 accmgr.com
 0.0.0.0 accouncila.com
 0.0.0.0 accounts.pkr.com
-0.0.0.0 accuserveadsystem.com
 0.0.0.0 acdnpro.com
 0.0.0.0 ace.advertising.com
 0.0.0.0 acf-webmaster.net
@@ -2788,6 +2787,7 @@
 0.0.0.0 bitvene.ru
 0.0.0.0 bitx.tv
 0.0.0.0 bixmarketing.ru
+0.0.0.0 bixolsoqluvzpu.com
 0.0.0.0 bizaes.ru
 0.0.0.0 bizfo.co.uk
 0.0.0.0 bizmix.ru
@@ -2967,7 +2967,6 @@
 0.0.0.0 bovada.lv
 0.0.0.0 box.anchorfree.net
 0.0.0.0 boylesportsreklame.com
-0.0.0.0 bp.blogspot.com
 0.0.0.0 bpglbuxwx.com
 0.0.0.0 bpkk.ru
 0.0.0.0 bpnjigwalqjho.com
@@ -3348,6 +3347,7 @@
 0.0.0.0 cbsfcpciitwcky.com
 0.0.0.0 cbtdjpspjp.com
 0.0.0.0 cbyjjheawrcfq.com
+0.0.0.0 cbzkrwjdskg.com
 0.0.0.0 cc-dt.com
 0.0.0.0 cccpkinocom.ru
 0.0.0.0 cccpkinonet.ru
@@ -4215,6 +4215,7 @@
 0.0.0.0 d2b560qq58menv.cloudfront.net
 0.0.0.0 d2bgg7rjywcwsy.cloudfront.net
 0.0.0.0 d2cgumzzqhgmdu.cloudfront.net
+0.0.0.0 d2d8qsxiai9qwj.cloudfront.net
 0.0.0.0 d2focgxak1cn74.cloudfront.net
 0.0.0.0 d2ghscazvn398x.cloudfront.net
 0.0.0.0 d2mic0r0bo3i6z.cloudfront.net
@@ -5128,6 +5129,7 @@
 0.0.0.0 eptwulil.com
 0.0.0.0 eqads.com
 0.0.0.0 eqegggmtc.com
+0.0.0.0 eqezqqdpjmxbpb.com
 0.0.0.0 eqfgc.com
 0.0.0.0 eqhawyidkdug.com
 0.0.0.0 eqthb.top
@@ -5732,6 +5734,7 @@
 0.0.0.0 fpnxicejwel.com
 0.0.0.0 fpqxcvrewdqd.com
 0.0.0.0 fpriycwxw.com
+0.0.0.0 fqckdxjgle.com
 0.0.0.0 fqgqosvpodxn.com
 0.0.0.0 fqjevuoat.com
 0.0.0.0 fqleehzafh.com
@@ -6567,6 +6570,7 @@
 0.0.0.0 hepuzqrx.com
 0.0.0.0 heqcvweqvqf.com
 0.0.0.0 heqop.ru
+0.0.0.0 her-ber.top
 0.0.0.0 herezera.com
 0.0.0.0 hermiston.biz
 0.0.0.0 herocpm.com
@@ -6955,6 +6959,7 @@
 0.0.0.0 ideibeer.com
 0.0.0.0 idelmxrchrce.com
 0.0.0.0 identads.com
+0.0.0.0 ideprjebdvj.com
 0.0.0.0 idexoro.info
 0.0.0.0 idfybbol.com
 0.0.0.0 idkng.com
@@ -7620,6 +7625,7 @@
 0.0.0.0 jpqmviofsf.com
 0.0.0.0 jprtqxwhtrjejx.com
 0.0.0.0 jpxevzab.com
+0.0.0.0 jqanygfhqne.com
 0.0.0.0 jqfkitrkhpxl.com
 0.0.0.0 jqleeknw.com
 0.0.0.0 jqtsknmobyw.com
@@ -7777,6 +7783,7 @@
 0.0.0.0 kcctsiusemgdl.com
 0.0.0.0 kcitwbcc.com
 0.0.0.0 kcnyhfmowc.com
+0.0.0.0 kcolbda.com
 0.0.0.0 kcpatrack.ru
 0.0.0.0 kcwvkoxn.com
 0.0.0.0 kdfar.space
@@ -8318,6 +8325,7 @@
 0.0.0.0 lifepipenewsdaily.com
 0.0.0.0 lifepromo.biz
 0.0.0.0 liferead.ru
+0.0.0.0 lifeselector.com
 0.0.0.0 lifewild.ru
 0.0.0.0 liftdna.com
 0.0.0.0 ligabklr.com
@@ -8550,7 +8558,6 @@
 0.0.0.0 lookrtb.com
 0.0.0.0 looksmart.com
 0.0.0.0 looksmile.ru
-0.0.0.0 looky.hyves.org
 0.0.0.0 looneynetwork.com
 0.0.0.0 loonylunatic.com
 0.0.0.0 loopmaze.com
@@ -8652,7 +8659,6 @@
 0.0.0.0 luraclhaunxv.com
 0.0.0.0 luredac.com
 0.0.0.0 lusfrsxgxopm.com
-0.0.0.0 lush-rail.club
 0.0.0.0 lushcrush.com
 0.0.0.0 luvcash.com
 0.0.0.0 luvcom.com
@@ -8779,6 +8785,7 @@
 0.0.0.0 makedeal.me
 0.0.0.0 makemole.ru
 0.0.0.0 makemoneyonline.2yu.in
+0.0.0.0 makrohd.net
 0.0.0.0 maks-reklama.com
 0.0.0.0 makschuvaksobakadotkom.ru
 0.0.0.0 malakasonline.com
@@ -10892,6 +10899,7 @@
 0.0.0.0 pictureturn.com
 0.0.0.0 pidarunki.ru
 0.0.0.0 piercial.com
+0.0.0.0 pifsistcwycouc.com
 0.0.0.0 pifvfovy.biz
 0.0.0.0 pikachun.ru
 0.0.0.0 pikalop.com
@@ -12392,6 +12400,7 @@
 0.0.0.0 runreproducerow.com
 0.0.0.0 runslin.com
 0.0.0.0 runwtxeisppmt.com
+0.0.0.0 ruodzaboyf.com
 0.0.0.0 ruorange.org
 0.0.0.0 ruproverrcwc.tk
 0.0.0.0 rus-news.biz
@@ -13338,6 +13347,7 @@
 0.0.0.0 sublimemedia.net
 0.0.0.0 submissing.com
 0.0.0.0 submitexpress.co.uk
+0.0.0.0 subscribering.info
 0.0.0.0 substerrent.co
 0.0.0.0 substraktor.ru
 0.0.0.0 succeedscene.com
@@ -14466,6 +14476,7 @@
 0.0.0.0 uejnzoaayhr.com
 0.0.0.0 uel-uel-fie.com
 0.0.0.0 uelllwrite.com
+0.0.0.0 uemjnvyn.com
 0.0.0.0 uenpibqyjvim.com
 0.0.0.0 ueosdjscxucj.com
 0.0.0.0 ueptzgugtxis.com
@@ -14634,6 +14645,7 @@
 0.0.0.0 ussscmqkjtfsx.com
 0.0.0.0 usstero.com
 0.0.0.0 usswrite.com
+0.0.0.0 ustinvest.ru
 0.0.0.0 usurv.com
 0.0.0.0 utarget.co.uk
 0.0.0.0 utarget.pro
@@ -15531,6 +15543,7 @@
 0.0.0.0 wnzzxwysay.com
 0.0.0.0 wodipaca.com
 0.0.0.0 wodizapt.com
+0.0.0.0 woghqyjpiwddme.com
 0.0.0.0 wogoods.com
 0.0.0.0 wokoq.com
 0.0.0.0 wolist.ru

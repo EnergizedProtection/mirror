@@ -1,8 +1,8 @@
 # gnuzilla Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/gnuzilla.txt
-# Last Converted - 14.09.2018
-# Total Domains - 15798
+# Last Converted - 15.09.2018
+# Total Domains - 15792
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -574,7 +574,6 @@
 0.0.0.0 accn.allocine.net
 0.0.0.0 accouncila.com
 0.0.0.0 accounts.pkr.com
-0.0.0.0 accuserveadsystem.com
 0.0.0.0 ace.advertising.com
 0.0.0.0 acecounter.com
 0.0.0.0 acetrk.com
@@ -2786,7 +2785,6 @@
 0.0.0.0 bowithow.com
 0.0.0.0 box.anchorfree.net
 0.0.0.0 boylesportsreklame.com
-0.0.0.0 bp.blogspot.com
 0.0.0.0 bpglbuxwx.com
 0.0.0.0 bpmonline.com
 0.0.0.0 bpnjigwalqjho.com
@@ -4823,7 +4821,6 @@
 0.0.0.0 dynatracesaas.com
 0.0.0.0 dynsrvaba.com
 0.0.0.0 dynsrvwer.com
-0.0.0.0 dyntrk.com
 0.0.0.0 dywqwrtnhegyz.com
 0.0.0.0 dz4ad.com
 0.0.0.0 dzizsih.ru
@@ -8231,7 +8228,6 @@
 0.0.0.0 lookit-quick.com
 0.0.0.0 lookmy.info
 0.0.0.0 looksmart.com
-0.0.0.0 looky.hyves.org
 0.0.0.0 looneynetwork.com
 0.0.0.0 loopfuse.net
 0.0.0.0 loopmaze.com
@@ -12682,7 +12678,6 @@
 0.0.0.0 stats.solidopinion.com
 0.0.0.0 stats.someecards.com
 0.0.0.0 stats.splinder.com
-0.0.0.0 stats.technopia.it
 0.0.0.0 stats.teledyski.info
 0.0.0.0 stats.topofblogs.com
 0.0.0.0 stats.townnews.com
@@ -14050,7 +14045,6 @@
 0.0.0.0 ua.badongo.com
 0.0.0.0 uabicxuyovh.com
 0.0.0.0 uaczwcws.com
-0.0.0.0 uadx.com
 0.0.0.0 uafgymcern.com
 0.0.0.0 uapoisk.net
 0.0.0.0 uarating.com

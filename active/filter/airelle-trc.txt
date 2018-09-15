@@ -1,8 +1,8 @@
 # airelle-trc Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/mirror/airelle-trc.txt
-# Last Converted - 14.09.2018
-# Total Domains - 57155
+# Last Converted - 15.09.2018
+# Total Domains - 57142
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -14638,7 +14638,6 @@
 0.0.0.0 advnstrdm541231c0esprod.122.2o7.net
 0.0.0.0 advocaatwouters.be
 0.0.0.0 advstat.letitbit.net
-0.0.0.0 advstat.xunlei.com
 0.0.0.0 adware.valueclick.com
 0.0.0.0 adwaredeluxe.com
 0.0.0.0 adwarehitman.com
@@ -16002,7 +16001,6 @@
 0.0.0.0 bagscountto.superweb.tv
 0.0.0.0 bagtrade.com
 0.0.0.0 baitedxxxtrade.tumblr.com
-0.0.0.0 bakercountyflorida.com
 0.0.0.0 bakersfieldmediation.com
 0.0.0.0 baku-media.ru
 0.0.0.0 balconymedia.net
@@ -16054,7 +16052,6 @@
 0.0.0.0 banners.canada.trader.com
 0.0.0.0 banners.canadatrader.com
 0.0.0.0 banners.clickey.com
-0.0.0.0 banners.clickthrucash.com
 0.0.0.0 banners.directnic.com
 0.0.0.0 banners.gametracker.rs
 0.0.0.0 banners.outster.com
@@ -19173,7 +19170,6 @@
 0.0.0.0 corpext.msitadfs.glbdns2.microsoft.com
 0.0.0.0 corporate.crakmedia.com
 0.0.0.0 corral.us.intellitxt.com
-0.0.0.0 correctrade.eu
 0.0.0.0 cosmi.gamerbots.hop.clickbank.net
 0.0.0.0 cosmiclog.msnbc.msn.com
 0.0.0.0 costargroup.112.2o7.net
@@ -43025,7 +43021,6 @@
 0.0.0.0 searchfeed.com
 0.0.0.0 searchfeed.net
 0.0.0.0 searchforce.net
-0.0.0.0 searchgateway.net
 0.0.0.0 searchhealthit.techtarget.com
 0.0.0.0 searching-the-net.com
 0.0.0.0 searchingbooth.com
@@ -43395,7 +43390,6 @@
 0.0.0.0 sextracker.nl
 0.0.0.0 sextrackers.com
 0.0.0.0 sextracks.com
-0.0.0.0 sextracks.startclub.nl
 0.0.0.0 sextrade.de
 0.0.0.0 sextrader.co.za
 0.0.0.0 sextrader.net
@@ -44862,7 +44856,6 @@
 0.0.0.0 stats.superstats.nl
 0.0.0.0 stats.surf-town.net
 0.0.0.0 stats.sysmesh.com
-0.0.0.0 stats.technopia.it
 0.0.0.0 stats.teledyski.info
 0.0.0.0 stats.thaindian.com
 0.0.0.0 stats.theoatmeal.com
@@ -45710,7 +45703,6 @@
 0.0.0.0 thebighits.com
 0.0.0.0 theblemish.us.intellitxt.com
 0.0.0.0 theblogsex.blogtrafic.com
-0.0.0.0 thebluestarmedia.com
 0.0.0.0 thebooking2update.trade
 0.0.0.0 thebooking2updates.trade
 0.0.0.0 thebooking2updating.trade
@@ -46971,7 +46963,6 @@
 0.0.0.0 tracking.1betternetwork.com
 0.0.0.0 tracking.1moretoy.com
 0.0.0.0 tracking.247search.com
-0.0.0.0 tracking.45-fe6b6-aah.co.uk
 0.0.0.0 tracking.4v4jfe79erfxfu8z8.com
 0.0.0.0 tracking.aatkit.com
 0.0.0.0 tracking.ad-brix.com
@@ -47040,7 +47031,6 @@
 0.0.0.0 tracking.esearchvision.com
 0.0.0.0 tracking.euroads.dk
 0.0.0.0 tracking.euroads.fi
-0.0.0.0 tracking.euroads.no
 0.0.0.0 tracking.euroads.se
 0.0.0.0 tracking.everydayhealth.com
 0.0.0.0 tracking.fanbridge.com
@@ -47197,7 +47187,6 @@
 0.0.0.0 tracking.youmint.com
 0.0.0.0 tracking01.walmart.com
 0.0.0.0 tracking01a.clickrover.com
-0.0.0.0 tracking1.euroads.no
 0.0.0.0 tracking100.com
 0.0.0.0 tracking101.com
 0.0.0.0 tracking11.com
@@ -50332,7 +50321,6 @@
 0.0.0.0 www.adclickmedia.com
 0.0.0.0 www.adclickservice.com
 0.0.0.0 www.adclickthru.net
-0.0.0.0 www.adclickxpress.com
 0.0.0.0 www.adclickxpress.is
 0.0.0.0 www.adcreatives.imaginemedia.net
 0.0.0.0 www.addfreestats.com
@@ -51582,7 +51570,6 @@
 0.0.0.0 www.costaud.net
 0.0.0.0 www.count.fr
 0.0.0.0 www.count.fuckunion.com
-0.0.0.0 www.count.im
 0.0.0.0 www.count24.de
 0.0.0.0 www.count4all.com
 0.0.0.0 www.count777.net

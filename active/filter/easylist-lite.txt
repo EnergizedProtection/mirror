@@ -1,8 +1,8 @@
 # easylist-lite Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easylist-lite.txt
-# Last Converted - 14.09.2018
-# Total Domains - 5335
+# Last Converted - 15.09.2018
+# Total Domains - 5334
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -1063,7 +1063,6 @@
 0.0.0.0 borrango.com
 0.0.0.0 boudja.com
 0.0.0.0 box.anchorfree.net
-0.0.0.0 bp.blogspot.com
 0.0.0.0 bpnjigwalqjho.com
 0.0.0.0 br.blackfling.com
 0.0.0.0 br.fling.com

@@ -1,8 +1,8 @@
 # easylist-china Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easylist-china.txt
-# Last Converted - 14.09.2018
-# Total Domains - 3410
+# Last Converted - 15.09.2018
+# Total Domains - 3411
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -803,7 +803,6 @@
 0.0.0.0 borsendental.com
 0.0.0.0 bosiwangzi.cn
 0.0.0.0 boy.fujieace.com
-0.0.0.0 bp.blogspot.com
 0.0.0.0 bpimg.com
 0.0.0.0 breezily168.com
 0.0.0.0 bs777.net
@@ -1456,6 +1455,7 @@
 0.0.0.0 gowinxp.com
 0.0.0.0 gp.jstv.com
 0.0.0.0 gqswg.com
+0.0.0.0 grantt.jandan.net
 0.0.0.0 greenbetterkids.com
 0.0.0.0 greenhouseglobal.cn
 0.0.0.0 gs307.com
@@ -1965,6 +1965,7 @@
 0.0.0.0 kuaipai666.cn
 0.0.0.0 kuaizhan.com
 0.0.0.0 kuaizitech.com
+0.0.0.0 kuangtuiguoo18888.com
 0.0.0.0 kuheju.com
 0.0.0.0 kuhou.com
 0.0.0.0 kuku99.com

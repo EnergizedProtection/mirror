@@ -1,8 +1,8 @@
 # easylist-adult-adservers Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easylist-adult-adservers.txt
-# Last Converted - 14.09.2018
-# Total Domains - 800
+# Last Converted - 15.09.2018
+# Total Domains - 802
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -381,6 +381,7 @@
 0.0.0.0 k9x.net
 0.0.0.0 kadam.ru
 0.0.0.0 kaplay.com
+0.0.0.0 kcolbda.com
 0.0.0.0 kingpinmedia.net
 0.0.0.0 kodicdn.com
 0.0.0.0 kolort.ru
@@ -389,6 +390,7 @@
 0.0.0.0 legendarylars.com
 0.0.0.0 lickbylick.com
 0.0.0.0 lifepromo.biz
+0.0.0.0 lifeselector.com
 0.0.0.0 limon.biz
 0.0.0.0 links-and-traffic.com
 0.0.0.0 livecam.com

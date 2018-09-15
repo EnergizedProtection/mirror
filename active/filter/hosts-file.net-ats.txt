@@ -1,8 +1,8 @@
 # hosts-file.net-ats Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://hosts-file.net/ad_servers.txt
-# Last Converted - 14.09.2018
-# Total Domains - 44159
+# Last Converted - 15.09.2018
+# Total Domains - 44136
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -488,7 +488,6 @@
 0.0.0.0 3252817.r.msn.com
 0.0.0.0 33.6.87.194.dynamic.dol.ru
 0.0.0.0 33526.9243.302br.net
-0.0.0.0 33qx.secoptim.com
 0.0.0.0 34.6.87.194.dynamic.dol.ru
 0.0.0.0 34245.hittail.com
 0.0.0.0 343.bitterstrawberry.com
@@ -15597,7 +15596,6 @@
 0.0.0.0 adglobal.go2cloud.org
 0.0.0.0 adgorithms.com
 0.0.0.0 adgoto.com
-0.0.0.0 adgridwork.com
 0.0.0.0 adgroups.com
 0.0.0.0 adgroups.net
 0.0.0.0 adgrx.moatads.com
@@ -15907,7 +15905,6 @@
 0.0.0.0 ads.123m.valueclick.net
 0.0.0.0 ads.160tracker.com
 0.0.0.0 ads.1a-infosysteme.de
-0.0.0.0 ads.3d.com
 0.0.0.0 ads.51.net
 0.0.0.0 ads.5ci.lt
 0.0.0.0 ads.8833.com
@@ -16261,7 +16258,6 @@
 0.0.0.0 ads.hpg.ig.com.br
 0.0.0.0 ads.hsoub.com
 0.0.0.0 ads.huma.valueclick.net
-0.0.0.0 ads.iac-online.de
 0.0.0.0 ads.iafrica.com
 0.0.0.0 ads.iawsnetwork.com
 0.0.0.0 ads.ibtracking.com
@@ -19686,7 +19682,6 @@
 0.0.0.0 banners.citygridmedia.com
 0.0.0.0 banners.cj.com
 0.0.0.0 banners.classmates.com
-0.0.0.0 banners.clickthrucash.com
 0.0.0.0 banners.clubseventeen.com
 0.0.0.0 banners.clubworldgroup.com
 0.0.0.0 banners.colegialasdesvirgadas.com
@@ -21710,7 +21705,6 @@
 0.0.0.0 bshha.voluumtrk.com
 0.0.0.0 bsitm3.com
 0.0.0.0 bsrv.adohana.com
-0.0.0.0 bt.rcs.it
 0.0.0.0 bt.tt.omtrdc.net
 0.0.0.0 btdirectnav.com
 0.0.0.0 bte5z.voluumtrk.com
@@ -27062,7 +27056,6 @@
 0.0.0.0 fra97.ib.adnxs.com
 0.0.0.0 fra98.ib.adnxs.com
 0.0.0.0 fra99.ib.adnxs.com
-0.0.0.0 fragmentserv.iac-online.de
 0.0.0.0 fraisenyvno.download
 0.0.0.0 france.bpath.com
 0.0.0.0 frantic.com
@@ -27538,7 +27531,6 @@
 0.0.0.0 go.by
 0.0.0.0 go.coxds.com
 0.0.0.0 go.deliverymodo.com
-0.0.0.0 go.doupat.xyz
 0.0.0.0 go.feedxfeed.com
 0.0.0.0 go.goroost.com
 0.0.0.0 go.hd-3.com
@@ -28557,7 +28549,6 @@
 0.0.0.0 images02.netaddress.usa.net
 0.0.0.0 images1.paycounter.com
 0.0.0.0 images2.click-now.co
-0.0.0.0 images2.iac-online.de
 0.0.0.0 imageserv.adtech.fr
 0.0.0.0 imagesrv.adition.com
 0.0.0.0 imagevenue.advertserve.com
@@ -29276,7 +29267,6 @@
 0.0.0.0 kgn3j.voluumtrk.com
 0.0.0.0 khe5q.voluumtrk.com
 0.0.0.0 khkg2.voluumtrk.com
-0.0.0.0 khvx.secoptim.com
 0.0.0.0 ki6fu.voluumtrk.com
 0.0.0.0 kiks.yandex.ru
 0.0.0.0 kikuzip.com
@@ -29848,7 +29838,6 @@
 0.0.0.0 lookest.win
 0.0.0.0 looksa.com
 0.0.0.0 looksmart.com
-0.0.0.0 looky.hyves.org
 0.0.0.0 loopme.biz
 0.0.0.0 loopme.me
 0.0.0.0 lootcrate.go2cloud.org
@@ -33676,6 +33665,7 @@
 0.0.0.0 securejump.net
 0.0.0.0 securemetrics.apple.com
 0.0.0.0 securepaths.com
+0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 securestudies.com
 0.0.0.0 securetracking2.com
 0.0.0.0 secursors.com
@@ -34709,7 +34699,6 @@
 0.0.0.0 stats.superstats.de
 0.0.0.0 stats.superstats.nl
 0.0.0.0 stats.surf-town.net
-0.0.0.0 stats.technopia.it
 0.0.0.0 stats.teledyski.info
 0.0.0.0 stats.tubemogul.com
 0.0.0.0 stats.united-domains.de
@@ -35749,7 +35738,6 @@
 0.0.0.0 tracking.ehavior.net
 0.0.0.0 tracking.ero-advertising.com
 0.0.0.0 tracking.euroads.fi
-0.0.0.0 tracking.euroads.no
 0.0.0.0 tracking.euroads.se
 0.0.0.0 tracking.eurosport.com
 0.0.0.0 tracking.everydayhealth.com
@@ -35848,7 +35836,6 @@
 0.0.0.0 tracking.worldmedia.net
 0.0.0.0 tracking01.walmart.com
 0.0.0.0 tracking1.aleadpay.com
-0.0.0.0 tracking1.euroads.no
 0.0.0.0 tracking101.com
 0.0.0.0 tracking11.com
 0.0.0.0 tracking1112.com
@@ -36403,7 +36390,6 @@
 0.0.0.0 u972.03.spylog.com
 0.0.0.0 u977.40.spylog.com
 0.0.0.0 uac.advertising.com
-0.0.0.0 uadx.com
 0.0.0.0 ubermedia.com
 0.0.0.0 ucaluco.com
 0.0.0.0 uclick.com
@@ -41100,7 +41086,6 @@
 0.0.0.0 www.adcenter.net
 0.0.0.0 www.adcentriconline.com
 0.0.0.0 www.adchoices.com.vn
-0.0.0.0 www.adclickxpress.com
 0.0.0.0 www.adclix.com
 0.0.0.0 www.adclub.net
 0.0.0.0 www.addinto.com
@@ -41657,7 +41642,6 @@
 0.0.0.0 www.cortoonnetwork.com
 0.0.0.0 www.cossiesnkycsr.download
 0.0.0.0 www.cotylebijnutawn.download
-0.0.0.0 www.count.im
 0.0.0.0 www.count24.de
 0.0.0.0 www.counter-gratis.com
 0.0.0.0 www.counter-kostenlos.net
@@ -42150,7 +42134,6 @@
 0.0.0.0 www.hatchmentstnddqlfba.download
 0.0.0.0 www.hatelive.site
 0.0.0.0 www.hatertoupfrcz.download
-0.0.0.0 www.hawkbitsirbzmvsf.download
 0.0.0.0 www.health.searchwho.com
 0.0.0.0 www.heeziewljxpyk.download
 0.0.0.0 www.heiringlxsna.download
@@ -42830,7 +42813,6 @@
 0.0.0.0 www.phylesonqjkilk.download
 0.0.0.0 www.picreel.com
 0.0.0.0 www.pigment-adv.co.il
-0.0.0.0 www.pillowywdgpchl.download
 0.0.0.0 www.ping-fast.com
 0.0.0.0 www.pinguinqeslaj.download
 0.0.0.0 www.piumrtfasiv.download
@@ -42991,7 +42973,6 @@
 0.0.0.0 www.ropnqabtmaths.review
 0.0.0.0 www.rotrk.com
 0.0.0.0 www.rotunddpgyiagb.download
-0.0.0.0 www.rovelrpphyrua.download
 0.0.0.0 www.rowdyishtnhlgiax.download
 0.0.0.0 www.roxyaffiliates.com
 0.0.0.0 www.rpylvksecants.review
@@ -43041,7 +43022,6 @@
 0.0.0.0 www.searchwebresults.com
 0.0.0.0 www.sebgomokos.review
 0.0.0.0 www.sebowelarger.review
-0.0.0.0 www.secoptim.com
 0.0.0.0 www.secrets40.com
 0.0.0.0 www.secureadcenter.com
 0.0.0.0 www.securejump.net
@@ -43360,7 +43340,6 @@
 0.0.0.0 www.unadvertising.info
 0.0.0.0 www.unboxingdotfb.download
 0.0.0.0 www.unbridlingdkkedavk.download
-0.0.0.0 www.uncarefulwrhmgwje.download
 0.0.0.0 www.unfairnesstxucdbqiz.download
 0.0.0.0 www.unfamedooxpcktdb.download
 0.0.0.0 www.universal-traffic.com
@@ -43506,7 +43485,6 @@
 0.0.0.0 www.workfromhome.org
 0.0.0.0 www.workingonline.com
 0.0.0.0 www.workzip.it
-0.0.0.0 www.wouralistvdmttom.download
 0.0.0.0 www.wovxriqartworks.review
 0.0.0.0 www.wpmimkheartfelt.review
 0.0.0.0 www.wqdtzhdstabler.review
@@ -43949,7 +43927,6 @@
 0.0.0.0 yb.torchbrowser.com
 0.0.0.0 ybotvisit.com
 0.0.0.0 yc-ads.s3.amazonaws.com
-0.0.0.0 ycv.secoptim.com
 0.0.0.0 yeahmobi.com
 0.0.0.0 yeahmobi.go2cloud.org
 0.0.0.0 yeahmobi.hasoffers.com

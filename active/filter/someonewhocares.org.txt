@@ -1,8 +1,8 @@
 # someonewhocares.org Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - http://someonewhocares.org/hosts/hosts
-# Last Converted - 14.09.2018
-# Total Domains - 8397
+# Last Converted - 15.09.2018
+# Total Domains - 8393
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -1326,7 +1326,6 @@
 0.0.0.0 adserver.kimia.es
 0.0.0.0 adserver.kylemedia.com
 0.0.0.0 adserver.lanacion.com.ar
-0.0.0.0 adserver.legacy-network.com
 0.0.0.0 adserver.libero.it
 0.0.0.0 adserver.livejournal.com
 0.0.0.0 adserver.lunarpages.com
@@ -1530,7 +1529,6 @@
 0.0.0.0 advmaker.ru
 0.0.0.0 advplace.com
 0.0.0.0 advserver.xyz
-0.0.0.0 advstat.xunlei.com
 0.0.0.0 advt.webindia123.com
 0.0.0.0 advzilla.com
 0.0.0.0 adw.sapo.pt
@@ -6782,7 +6780,6 @@
 0.0.0.0 tracker.twenga.nl
 0.0.0.0 tracker1.leadiya.com
 0.0.0.0 tracking.10e20.com
-0.0.0.0 tracking.45-fe6b6-aah.co.uk
 0.0.0.0 tracking.aatkit.com
 0.0.0.0 tracking.adalyser.com
 0.0.0.0 tracking.adgoon.it
@@ -8188,7 +8185,6 @@
 0.0.0.0 www.yourdvdplayer.com
 0.0.0.0 www.yourfuckbook.com
 0.0.0.0 www.yourgiftrewards.com
-0.0.0.0 www.youripad4free.com
 0.0.0.0 www.yourrewardzone.com
 0.0.0.0 www.yoursmartrewards.com
 0.0.0.0 www.ypmate.com

@@ -1,8 +1,8 @@
 # mailborder-phishing-bad-sites Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/mirror/mailborder.txt
-# Last Converted - 14.09.2018
-# Total Domains - 16432
+# Last Converted - 15.09.2018
+# Total Domains - 16397
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -1467,7 +1467,6 @@
 0.0.0.0 balsamicopremium.com
 0.0.0.0 bamfordguns.co.uk
 0.0.0.0 bancabci.skyoficial.xyz
-0.0.0.0 bancadiechile.com
 0.0.0.0 bancanetempresarial.banamex.com.mx.url4mx.com
 0.0.0.0 bancodebogota.co.com
 0.0.0.0 bancodobrasil.acessocartao.com.br
@@ -1652,7 +1651,6 @@
 0.0.0.0 berlin.startupcup.com
 0.0.0.0 bern33.paks.pk
 0.0.0.0 bernardstwpregionalchamber.org
-0.0.0.0 beroncd8.beget.tech
 0.0.0.0 bervicint.com
 0.0.0.0 besblatnystick.16mb.com
 0.0.0.0 beschange.tw
@@ -1925,7 +1923,6 @@
 0.0.0.0 boconceptla.com
 0.0.0.0 bodguiaume.ga
 0.0.0.0 bodylounge-bna.de
-0.0.0.0 boeasia.pncusa.com
 0.0.0.0 boefhabiba.000a.biz
 0.0.0.0 bogdantr.webd.pl
 0.0.0.0 bogiefamily.info
@@ -2559,7 +2556,6 @@
 0.0.0.0 ckskpcv.ga
 0.0.0.0 ckv40.ru
 0.0.0.0 cl-messages.org
-0.0.0.0 cl-pg-formations.ch
 0.0.0.0 cl-updateid15329.org
 0.0.0.0 cl.1ck.me
 0.0.0.0 cl.s10.exct.net
@@ -2688,8 +2684,6 @@
 0.0.0.0 coinbase.aa-gg.com
 0.0.0.0 coinbase.droppages.com
 0.0.0.0 coinbase.tx-pr0.com
-0.0.0.0 coinbaseboggether.tumblr.com
-0.0.0.0 coinbasespromo.tumblr.com
 0.0.0.0 coingrow.pro
 0.0.0.0 coinleft.org
 0.0.0.0 coinlivetracker.com
@@ -2940,7 +2934,6 @@
 0.0.0.0 crypto-giveaway.xyz
 0.0.0.0 cryptoairdrop.center
 0.0.0.0 cryptoallstarts.com
-0.0.0.0 cryptocurrency-gift.tumblr.com
 0.0.0.0 cryptomonads.info
 0.0.0.0 cryptonewstoday.co
 0.0.0.0 cryptopiahome.blogspot.com
@@ -3149,7 +3142,6 @@
 0.0.0.0 dcd.it
 0.0.0.0 dcs.net.pk
 0.0.0.0 dd.looneytheclown.com
-0.0.0.0 ddostatok-ppodnosom.ml
 0.0.0.0 de-jure-vrnru.415.com1.ru
 0.0.0.0 de-mi-nis-ner2.info
 0.0.0.0 de.rubbertek.cl
@@ -5469,7 +5461,6 @@
 0.0.0.0 hr-imoveis.com
 0.0.0.0 hraminfo.ru
 0.0.0.0 hrmetrics.co.in
-0.0.0.0 hrzgq.uksexdate.club
 0.0.0.0 hscplus.com.au
 0.0.0.0 hsk-hvf.dk
 0.0.0.0 hss.dk
@@ -5482,7 +5473,6 @@
 0.0.0.0 https-login-microsotfonline-com.timbermaterialsfurniture.com
 0.0.0.0 https.login.live.com.login.fwawsignin10rpsnv11533jhgfdcknjhnhgfdfcgvhbjvbdfgbgfetyihgrfygj.troodk.ml
 0.0.0.0 https.secure-links.bloemlight.com
-0.0.0.0 https.www.amazon.com.account.security.update.information.jmscisb.com
 0.0.0.0 httpsmailupbro.my-free.website
 0.0.0.0 httpvk.000webhostapp.com
 0.0.0.0 hu.prettykids.co
@@ -5824,7 +5814,6 @@
 0.0.0.0 interpay.pro
 0.0.0.0 interweaveservices.com
 0.0.0.0 intip.in
-0.0.0.0 intl-community.elbadrystores.com
 0.0.0.0 intl-serviceaccount.sumarry.com
 0.0.0.0 intrahub.intracoastalbank.net
 0.0.0.0 intranet.harrodian.com
@@ -8632,7 +8621,6 @@
 0.0.0.0 pandavillage.org
 0.0.0.0 pandemicpractices.org
 0.0.0.0 panditjimaharaj.com
-0.0.0.0 panel.expasset.com.purchase-user.com
 0.0.0.0 panel.mail-servicios.com
 0.0.0.0 panjangmalam.hol.es
 0.0.0.0 panliang.net
@@ -8961,7 +8949,6 @@
 0.0.0.0 photocoffee.com.au
 0.0.0.0 photogeneralist.com
 0.0.0.0 photopresentations.com.au
-0.0.0.0 photoshow.pe.hu
 0.0.0.0 photosmatch.16mb.com
 0.0.0.0 photosmatchview.16mb.com
 0.0.0.0 photosview.16mb.com
@@ -9405,7 +9392,6 @@
 0.0.0.0 qrnetwork.it
 0.0.0.0 qsbuy.xyz
 0.0.0.0 qsdqsx.ns12-wistee.fr
-0.0.0.0 qss.fangiveaways.net
 0.0.0.0 qstraintglobal-my.sharepoint.com
 0.0.0.0 qtaertres.net
 0.0.0.0 qtaertzresw.net
@@ -10124,7 +10110,6 @@
 0.0.0.0 secure.boa.bank.verify.ref45554.com
 0.0.0.0 secure.btcethgoldmine.com
 0.0.0.0 secure.c0m.li
-0.0.0.0 secure.eth-claim.online
 0.0.0.0 secure.ethdeliver.com
 0.0.0.0 secure.ethgiftnow.com
 0.0.0.0 secure.ethgivers.com
@@ -10689,7 +10674,6 @@
 0.0.0.0 soulsparking.com
 0.0.0.0 soulswest.org
 0.0.0.0 soummya.com
-0.0.0.0 southatlanticchambers.gm
 0.0.0.0 southernstreamlive.com
 0.0.0.0 southgatetruckparts.com
 0.0.0.0 southsidebroadcasting.com
@@ -10854,7 +10838,6 @@
 0.0.0.0 stellar-x.co
 0.0.0.0 stellarterm.org
 0.0.0.0 sten.li
-0.0.0.0 step-community.elbadrystores.com
 0.0.0.0 stephaniersaberan.com
 0.0.0.0 stephenbest.com
 0.0.0.0 stepuptechsite.com
@@ -11363,7 +11346,6 @@
 0.0.0.0 thefashionintern.com
 0.0.0.0 thefashionlaunchpadtv.com
 0.0.0.0 thefitnesspursuit.com
-0.0.0.0 thegambianow.gov.gm
 0.0.0.0 thegifited.com
 0.0.0.0 thegillcompany.com
 0.0.0.0 thegoodvybez.com
@@ -12970,7 +12952,6 @@
 0.0.0.0 www.analyticalinstrumentsmanufacturer.com
 0.0.0.0 www.anaonsaa.com
 0.0.0.0 www.anarkalionline.com
-0.0.0.0 www.anbud-spzoo.eu
 0.0.0.0 www.ancore.com.tw
 0.0.0.0 www.andreasantoconto.x10host.com
 0.0.0.0 www.andreatestifotografo.it
@@ -13120,7 +13101,6 @@
 0.0.0.0 www.bahiadebanderas.gob.mx
 0.0.0.0 www.bairciode.win
 0.0.0.0 www.balasdecocoribeirao.com.br
-0.0.0.0 www.balingevapen.se
 0.0.0.0 www.ballparkproductions.com
 0.0.0.0 www.balticconcierge.eu
 0.0.0.0 www.balum.com.co
@@ -13822,7 +13802,6 @@
 0.0.0.0 www.euromedialondon.co.uk
 0.0.0.0 www.euronext.com.ru
 0.0.0.0 www.europe-asia-documentary.com
-0.0.0.0 www.event-eth.biz
 0.0.0.0 www.everythinghearingaids.co.uk
 0.0.0.0 www.evix.com.br
 0.0.0.0 www.evolution-support.it
@@ -13910,7 +13889,6 @@
 0.0.0.0 www.flowerandcrow.com
 0.0.0.0 www.flyhoneywigs.com
 0.0.0.0 www.fn-international.com
-0.0.0.0 www.foglizo.com
 0.0.0.0 www.fontanadesign.com.au
 0.0.0.0 www.foodungluedgf.com
 0.0.0.0 www.foodxel.com
@@ -13944,7 +13922,6 @@
 0.0.0.0 www.frostycatshow.com
 0.0.0.0 www.fruernes.dk
 0.0.0.0 www.frutiboni.com
-0.0.0.0 www.fs-engineering.com
 0.0.0.0 www.fspools.com.au
 0.0.0.0 www.fudena.org.ve
 0.0.0.0 www.fujairahfreezone.com
@@ -14036,8 +14013,6 @@
 0.0.0.0 www.globalmanagementfirm.com
 0.0.0.0 www.glsword.com
 0.0.0.0 www.glucorade.com
-0.0.0.0 www.gmail-customersupport.com
-0.0.0.0 www.gmail-help-support.com
 0.0.0.0 www.gmailcustomerservice.com
 0.0.0.0 www.gmailrecoveryservice.com
 0.0.0.0 www.gmass.co
@@ -14172,7 +14147,6 @@
 0.0.0.0 www.homoky.com
 0.0.0.0 www.honorshaven.com
 0.0.0.0 www.hooraysport.com
-0.0.0.0 www.hopepharmaltd.com
 0.0.0.0 www.horriblecards.co.uk
 0.0.0.0 www.horseanswerstoday.com
 0.0.0.0 www.horsepowersalesflorida.com
@@ -14186,7 +14160,6 @@
 0.0.0.0 www.hotel-astrid.net
 0.0.0.0 www.hoteldelz.cf
 0.0.0.0 www.hotelmarketingpoint.com
-0.0.0.0 www.hotmailcontactnumber.co.uk
 0.0.0.0 www.houseofvalves.com
 0.0.0.0 www.houstoninternationalarbitration.org
 0.0.0.0 www.howzeha.ir
@@ -14278,7 +14251,6 @@
 0.0.0.0 www.inmobiliariabellavista.cl
 0.0.0.0 www.innov8ive.co
 0.0.0.0 www.innovationalliance.eu
-0.0.0.0 www.insects-killer-box.it
 0.0.0.0 www.insightindia.com
 0.0.0.0 www.inspaceindia.com
 0.0.0.0 www.instafollowers.ga
@@ -14468,7 +14440,6 @@
 0.0.0.0 www.kueoin.com
 0.0.0.0 www.kulturkuria.hu
 0.0.0.0 www.kunalair.com
-0.0.0.0 www.kundenlogin-ppl-notice.net
 0.0.0.0 www.kungfudirect.com
 0.0.0.0 www.kuqoin.com
 0.0.0.0 www.kurzaa.com
@@ -14539,8 +14510,6 @@
 0.0.0.0 www.letstile.com
 0.0.0.0 www.lexingtonobgyn.com
 0.0.0.0 www.lexvidhi.com
-0.0.0.0 www.lgwelding.com
-0.0.0.0 www.lhotmulcon.com
 0.0.0.0 www.lhrc.cn
 0.0.0.0 www.libertynetworksworld.com
 0.0.0.0 www.liceojacopone.it
@@ -14552,7 +14521,6 @@
 0.0.0.0 www.lindysmithphotography.com
 0.0.0.0 www.linedx.top
 0.0.0.0 www.lineei.top
-0.0.0.0 www.linere.top
 0.0.0.0 www.linesx.top
 0.0.0.0 www.linesz.top
 0.0.0.0 www.linfengart.com
@@ -15207,7 +15175,6 @@
 0.0.0.0 www.purespiritwellness.co.uk
 0.0.0.0 www.puretech.com
 0.0.0.0 www.pvcrc.org.au
-0.0.0.0 www.pypl-sicherheitshinweis-privat.net
 0.0.0.0 www.qaswaras.com
 0.0.0.0 www.qayumebel.com
 0.0.0.0 www.qbssupply.com
@@ -15335,7 +15302,6 @@
 0.0.0.0 www.royalbeachnepal.com
 0.0.0.0 www.royalestateteam.com
 0.0.0.0 www.royalkingspizza.com
-0.0.0.0 www.royaltystaffing.org
 0.0.0.0 www.rs6.com
 0.0.0.0 www.rsc-dc.com
 0.0.0.0 www.rsgaropaba.com.br
@@ -15362,7 +15328,6 @@
 0.0.0.0 www.safeoptout.info
 0.0.0.0 www.safnis.is
 0.0.0.0 www.sagam.sn
-0.0.0.0 www.saglikdefteri.com
 0.0.0.0 www.sakthicleaningservice.com
 0.0.0.0 www.saldaodeferiasponto.com
 0.0.0.0 www.saldaodeindependencia.com

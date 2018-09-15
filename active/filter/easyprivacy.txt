@@ -1,8 +1,8 @@
 # easyprivacy Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easyprivacy.txt
-# Last Converted - 14.09.2018
-# Total Domains - 5376
+# Last Converted - 15.09.2018
+# Total Domains - 5373
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -1565,7 +1565,6 @@
 0.0.0.0 dymlo6ffhj97l.cloudfront.net
 0.0.0.0 dynatrace.com
 0.0.0.0 dynatracesaas.com
-0.0.0.0 dyntrk.com
 0.0.0.0 dzizsih.ru
 0.0.0.0 dzmxze7hxwn6b.cloudfront.net
 0.0.0.0 e-goi.com
@@ -4244,7 +4243,6 @@
 0.0.0.0 stats.solidopinion.com
 0.0.0.0 stats.someecards.com
 0.0.0.0 stats.splinder.com
-0.0.0.0 stats.technopia.it
 0.0.0.0 stats.teledyski.info
 0.0.0.0 stats.topofblogs.com
 0.0.0.0 stats.townnews.com
@@ -4944,7 +4942,6 @@
 0.0.0.0 tyxo.com
 0.0.0.0 tz284.com
 0.0.0.0 u5e.com
-0.0.0.0 uadx.com
 0.0.0.0 uapoisk.net
 0.0.0.0 uarating.com
 0.0.0.0 ubertags.com

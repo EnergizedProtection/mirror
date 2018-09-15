@@ -1,8 +1,8 @@
 # adguard-russian-filter Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-russian-filter.txt
-# Last Converted - 14.09.2018
-# Total Domains - 2722
+# Last Converted - 15.09.2018
+# Total Domains - 2721
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -467,7 +467,6 @@
 0.0.0.0 bossmoney.ru
 0.0.0.0 botkano.info
 0.0.0.0 box.rus.porn
-0.0.0.0 bp.blogspot.com
 0.0.0.0 bposterss.net
 0.0.0.0 bqugumvxc.biz
 0.0.0.0 brandarium.net

@@ -1,8 +1,8 @@
 # adguard-tracking Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-tracking-servers.txt
-# Last Converted - 14.09.2018
-# Total Domains - 2690
+# Last Converted - 15.09.2018
+# Total Domains - 2688
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -700,7 +700,6 @@
 0.0.0.0 dwin1.com
 0.0.0.0 dwin2.com
 0.0.0.0 dynatrace.com
-0.0.0.0 dyntrk.com
 0.0.0.0 e-kaiseki.com
 0.0.0.0 e-pagerank.net
 0.0.0.0 e-referrer.com
@@ -2411,7 +2410,6 @@
 0.0.0.0 tynt.com
 0.0.0.0 tyxo.com
 0.0.0.0 u5e.com
-0.0.0.0 uadx.com
 0.0.0.0 uapoisk.net
 0.0.0.0 uarating.com
 0.0.0.0 ubertags.com

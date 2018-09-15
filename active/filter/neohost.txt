@@ -1,8 +1,8 @@
 # neohost Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://hosts.nfz.moe/full/hosts
-# Last Converted - 14.09.2018
-# Total Domains - 3087
+# Last Converted - 15.09.2018
+# Total Domains - 3088
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -2288,6 +2288,7 @@
 0.0.0.0 secure.adnxs.com
 0.0.0.0 secure.fastclick.net
 0.0.0.0 secure.img-cdn.mediaplex.com
+0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 seen.hgo7r.cn
 0.0.0.0 selfie.snapmobileasia.net
 0.0.0.0 serve.popads.net

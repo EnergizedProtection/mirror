@@ -1,8 +1,8 @@
 # ador-energized Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
-# Last Converted - 14.09.2018
-# Total Domains - 8165
+# Last Converted - 15.09.2018
+# Total Domains - 8167
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -110,6 +110,8 @@
 0.0.0.0 883.engine.mobileapptracking.com
 0.0.0.0 888casino.com
 0.0.0.0 888media.net
+0.0.0.0 app3326.take-your-prize22.life
+0.0.0.0 take-your-prize22.life
 0.0.0.0 8c.video-ak.cdn.spotify.com
 0.0.0.0 90.video-ak.cdn.spotify.com
 0.0.0.0 91support.com
@@ -2942,7 +2944,6 @@
 0.0.0.0 dumedia.ru
 0.0.0.0 dyn.atdmt.com
 0.0.0.0 dynaserv.ads360.com
-0.0.0.0 dyntrk.com
 0.0.0.0 dzpu6za66svjl.cloudfront.net
 0.0.0.0 e-9675.adzerk.net
 0.0.0.0 e-hpaces.ero-advertising.com
@@ -3711,6 +3712,7 @@
 0.0.0.0 img.snaptube.click
 0.0.0.0 img.topddl.net
 0.0.0.0 img.transcoder.opera.com
+0.0.0.0 img.ucweb.com
 0.0.0.0 img.uodoo.com
 0.0.0.0 img.ushareit.com
 0.0.0.0 img0.u.ucfly.com
@@ -5652,6 +5654,7 @@
 0.0.0.0 secure.leadback.advertising.com
 0.0.0.0 secure.quantserve.com
 0.0.0.0 securemetrics.apple.com
+0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 securev4vcapi.adcolony.com
 0.0.0.0 security-check-551.com
 0.0.0.0 security.taptica.com
@@ -6557,7 +6560,6 @@
 0.0.0.0 tracking-server-prod-1.zenmxapps.com
 0.0.0.0 tracking-thirdparty.i2w.io
 0.0.0.0 tracking.10e20.com
-0.0.0.0 tracking.45-fe6b6-aah.co.uk
 0.0.0.0 tracking.aatkit.com
 0.0.0.0 tracking.acekoala.com
 0.0.0.0 tracking.adactioninteractive.com
@@ -7016,8 +7018,10 @@
 0.0.0.0 wap-it.vop.it
 0.0.0.0 wap.mobile4fun.it
 0.0.0.0 wap.mozook.com
+0.0.0.0 wap.uc.cn
 0.0.0.0 wap.uc123.com
 0.0.0.0 wap.ucfly.com
+0.0.0.0 wap.ucweb.com
 0.0.0.0 wap3.ucweb.com
 0.0.0.0 wap4dollar.com
 0.0.0.0 wapdollar.in

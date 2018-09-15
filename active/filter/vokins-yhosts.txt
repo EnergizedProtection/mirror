@@ -1,8 +1,8 @@
 # vokins-yhosts Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/vokins/yhosts/master/hosts
-# Last Converted - 14.09.2018
-# Total Domains - 6636
+# Last Converted - 15.09.2018
+# Total Domains - 6637
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -4938,6 +4938,7 @@
 0.0.0.0 secure.mediav.com
 0.0.0.0 secure.quantserve.com
 0.0.0.0 secure.statcounter.com
+0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 seen.h01ce.cn
 0.0.0.0 seen.hgo7r.cn
 0.0.0.0 seen.ttfgames.cn

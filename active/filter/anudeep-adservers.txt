@@ -1,8 +1,8 @@
 # anudeep-adservers Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
-# Last Converted - 14.09.2018
-# Total Domains - 28070
+# Last Converted - 15.09.2018
+# Total Domains - 28072
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -10937,6 +10937,7 @@
 0.0.0.0 douglasde.widget.criteo.com
 0.0.0.0 down2.9apps.com
 0.0.0.0 down2.download.9appsinstall.com
+0.0.0.0 down3.ucweb.com
 0.0.0.0 download-cool-j-apps.com
 0.0.0.0 download-cool-y-apps.com
 0.0.0.0 download.appsflyer.com
@@ -11114,7 +11115,6 @@
 0.0.0.0 dynamyn.go2affise.com
 0.0.0.0 dync.c.appier.net
 0.0.0.0 dync2.c.appier.net
-0.0.0.0 dyntrk.com
 0.0.0.0 dz5il.voluumtrk.com
 0.0.0.0 dzaibatsu.onthe.io
 0.0.0.0 dzch7pxutznj2xbhxtjuxp4hwj6eg1516681425.nuid.imrworldwide.com
@@ -14381,6 +14381,7 @@
 0.0.0.0 img.stage.vidible.tv
 0.0.0.0 img.steepto.com
 0.0.0.0 img.trafficshop.com
+0.0.0.0 img.ucweb.com
 0.0.0.0 img.vserv.mobi
 0.0.0.0 img.wp.teads.tv
 0.0.0.0 img.zog.link
@@ -21762,6 +21763,7 @@
 0.0.0.0 secure.quantserve.com
 0.0.0.0 secureaud.solocpm.com
 0.0.0.0 secured-by.rubiconproject.com
+0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 securev4vcapi.adcolony.com
 0.0.0.0 securify.nl
 0.0.0.0 security-alert.4g6u0qk9st.top

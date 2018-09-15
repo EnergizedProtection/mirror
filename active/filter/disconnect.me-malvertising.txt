@@ -1,8 +1,8 @@
 # disconnect.me-malvertising Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
-# Last Converted - 14.09.2018
-# Total Domains - 2813
+# Last Converted - 15.09.2018
+# Total Domains - 2810
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -250,7 +250,6 @@
 0.0.0.0 adfrut.cl
 0.0.0.0 adgardener.com
 0.0.0.0 adgoto.com
-0.0.0.0 adgridwork.com
 0.0.0.0 adgroups.net
 0.0.0.0 adhese.be
 0.0.0.0 adhese.com
@@ -1530,7 +1529,6 @@
 0.0.0.0 foxionserl.com
 0.0.0.0 fpctraffic.com
 0.0.0.0 fpctraffic2.com
-0.0.0.0 fragmentserv.iac-online.de
 0.0.0.0 freebanner.com
 0.0.0.0 freelogs.com
 0.0.0.0 freemyapps.com
@@ -2734,7 +2732,6 @@
 0.0.0.0 wtdpcb.com
 0.0.0.0 wtlive.com
 0.0.0.0 wtr1.ru
-0.0.0.0 wwgin.com
 0.0.0.0 www-banner.chat.ru
 0.0.0.0 www.banner-link.com.br
 0.0.0.0 www.dnps.com

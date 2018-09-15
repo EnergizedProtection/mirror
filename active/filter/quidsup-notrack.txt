@@ -1,8 +1,8 @@
 # quidsup-notrack Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/quidsup/notrack/master/trackers.txt
-# Last Converted - 14.09.2018
-# Total Domains - 13426
+# Last Converted - 15.09.2018
+# Total Domains - 13424
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -1237,7 +1237,6 @@
 0.0.0.0 dwin1.com
 0.0.0.0 dwin2.com
 0.0.0.0 dynamicyield.com
-0.0.0.0 dyntrk.com
 0.0.0.0 e-mark.nl
 0.0.0.0 e-webtrack.net
 0.0.0.0 e701.net
@@ -13142,7 +13141,6 @@
 0.0.0.0 tyskyt.com
 0.0.0.0 tyskyt.net
 0.0.0.0 tzcccm.com
-0.0.0.0 uadx.com
 0.0.0.0 ubiquitv.com
 0.0.0.0 ubiquitv.net
 0.0.0.0 udmserve.net

@@ -1,8 +1,8 @@
 # 1hosts.cf Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://1hosts.cf
-# Last Converted - 14.09.2018
-# Total Domains - 63968
+# Last Converted - 15.09.2018
+# Total Domains - 63951
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -930,7 +930,6 @@
 0.0.0.0 33across.com
 0.0.0.0 33b.b33r.net
 0.0.0.0 33portala.ru
-0.0.0.0 33qx.secoptim.com
 0.0.0.0 34.gs
 0.0.0.0 340-ct.c3tag.com
 0.0.0.0 3407.tm.zedo.com
@@ -5436,7 +5435,6 @@
 0.0.0.0 adgorithms.com
 0.0.0.0 adgoto.com
 0.0.0.0 adgreed.com
-0.0.0.0 adgridwork.com
 0.0.0.0 adgroups.com
 0.0.0.0 adgroups.net
 0.0.0.0 adgrx.com
@@ -6249,7 +6247,6 @@
 0.0.0.0 ads.2mdnsys.com
 0.0.0.0 ads.359group.com
 0.0.0.0 ads.3bay.bg
-0.0.0.0 ads.3d.com
 0.0.0.0 ads.3e-news.net
 0.0.0.0 ads.3fn.net
 0.0.0.0 ads.3sfmedia.com
@@ -8741,7 +8738,6 @@
 0.0.0.0 advs2sonline.goforandroid.com
 0.0.0.0 advserver.xyz
 0.0.0.0 advsnx.net
-0.0.0.0 advstat.xunlei.com
 0.0.0.0 advt.webindia123.com
 0.0.0.0 advtrack.yicha.jp
 0.0.0.0 advzilla.com
@@ -14461,7 +14457,6 @@
 0.0.0.0 bsyauqwerd.party
 0.0.0.0 bt-chat.com
 0.0.0.0 bt.mediaimpact.de
-0.0.0.0 bt.rcs.it
 0.0.0.0 bt.tt.omtrdc.net
 0.0.0.0 bt.xitongmonitor.com
 0.0.0.0 bta.net.cn
@@ -22620,7 +22615,6 @@
 0.0.0.0 dyntracker.com
 0.0.0.0 dyntracker.de
 0.0.0.0 dyntraq.mtree.com
-0.0.0.0 dyntrk.com
 0.0.0.0 dynya-may.github.io
 0.0.0.0 dyson.whoson.com
 0.0.0.0 dz.optimizely.com
@@ -26749,7 +26743,6 @@
 0.0.0.0 go.data1rtb.com
 0.0.0.0 go.deliverymodo.com
 0.0.0.0 go.digital.exponential.com
-0.0.0.0 go.doupat.xyz
 0.0.0.0 go.eu.bbelements.com
 0.0.0.0 go.ezoic.net
 0.0.0.0 go.gamenet.ru
@@ -31883,7 +31876,6 @@
 0.0.0.0 khomuto.info
 0.0.0.0 khonosta.info
 0.0.0.0 khoteris.ru
-0.0.0.0 khvx.secoptim.com
 0.0.0.0 kiat9cue.emltrk.com
 0.0.0.0 kibaneba.ru
 0.0.0.0 kibirata.ru
@@ -45704,6 +45696,7 @@
 0.0.0.0 securemetrics.apple.com
 0.0.0.0 securenetsystems.net
 0.0.0.0 securepaths.com
+0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 secureredirect101.com
 0.0.0.0 securerr.com
 0.0.0.0 securerunner.com
@@ -49050,7 +49043,6 @@
 0.0.0.0 stats.superstats.com
 0.0.0.0 stats.sysmesh.com
 0.0.0.0 stats.t-online.de
-0.0.0.0 stats.technopia.it
 0.0.0.0 stats.teledyski.info
 0.0.0.0 stats.thaindian.com
 0.0.0.0 stats.the-wedding.jp
@@ -52409,7 +52401,6 @@
 0.0.0.0 tracking-stvde.adsafety.net
 0.0.0.0 tracking-thirdparty.i2w.io
 0.0.0.0 tracking.1betternetwork.com
-0.0.0.0 tracking.45-fe6b6-aah.co.uk
 0.0.0.0 tracking.4v4jfe79erfxfu8z8.com
 0.0.0.0 tracking.aatkit.com
 0.0.0.0 tracking.acekoala.com
@@ -52504,7 +52495,6 @@
 0.0.0.0 tracking.etapestry.com
 0.0.0.0 tracking.euroads.dk
 0.0.0.0 tracking.euroads.fi
-0.0.0.0 tracking.euroads.no
 0.0.0.0 tracking.euroads.se
 0.0.0.0 tracking.eurosport.com
 0.0.0.0 tracking.everydayhealth.com
@@ -52709,7 +52699,6 @@
 0.0.0.0 tracking.zeotap.com
 0.0.0.0 tracking01.walmart.com
 0.0.0.0 tracking1.aleadpay.com
-0.0.0.0 tracking1.euroads.no
 0.0.0.0 tracking1.firstimpression.io
 0.0.0.0 tracking1.marketmind.com
 0.0.0.0 tracking2.channeladvisor.com
@@ -53531,7 +53520,6 @@
 0.0.0.0 uaadi.com
 0.0.0.0 uac.advertising.com
 0.0.0.0 uad-api.nicovideo.jp
-0.0.0.0 uadx.com
 0.0.0.0 uae-2.inf5.uc.cn
 0.0.0.0 uae-2.la4lbg.uc.cn
 0.0.0.0 uaid-linkage.imrworldwide.com
@@ -57490,7 +57478,6 @@
 0.0.0.0 www.adclick.lv
 0.0.0.0 www.adclickmedia.com
 0.0.0.0 www.adclickservice.com
-0.0.0.0 www.adclickxpress.com
 0.0.0.0 www.adclix.com
 0.0.0.0 www.adclub.net
 0.0.0.0 www.adcolony.com
@@ -58594,7 +58581,6 @@
 0.0.0.0 www.coremetrics.com
 0.0.0.0 www.coroflot.com
 0.0.0.0 www.cosmeticscentre.uk.com
-0.0.0.0 www.count.im
 0.0.0.0 www.count24.de
 0.0.0.0 www.counter-go.de
 0.0.0.0 www.counter-hosting.com
@@ -61054,7 +61040,6 @@
 0.0.0.0 www.searchnut.com
 0.0.0.0 www.searchswapper.com
 0.0.0.0 www.seattlechildrens.org
-0.0.0.0 www.secoptim.com
 0.0.0.0 www.secretbehindporn.com
 0.0.0.0 www.secretosx.com
 0.0.0.0 www.secrets40.com
@@ -62197,7 +62182,6 @@
 0.0.0.0 www.youramigo.com
 0.0.0.0 www.yourdailycams.com
 0.0.0.0 www.youredm.com
-0.0.0.0 www.youripad4free.com
 0.0.0.0 www.yourlustmedia.com
 0.0.0.0 www.youronlinechoices.com
 0.0.0.0 www.yourstats.net
@@ -63188,7 +63172,6 @@
 0.0.0.0 yc-ads.s3.amazonaws.com
 0.0.0.0 yceml.net
 0.0.0.0 ychan.pctools.revenuewire.net
-0.0.0.0 ycv.secoptim.com
 0.0.0.0 yddazzul.com
 0.0.0.0 ydeoxwomjpvxoz.com
 0.0.0.0 ydigitalmedia.com

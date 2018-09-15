@@ -1,8 +1,8 @@
 # airelle-pub Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/mirror/airelle-pub.txt
-# Last Converted - 14.09.2018
-# Total Domains - 74728
+# Last Converted - 15.09.2018
+# Total Domains - 74715
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -16663,7 +16663,6 @@
 0.0.0.0 adgoblin.com
 0.0.0.0 adgoto.com
 0.0.0.0 adgrafix.com
-0.0.0.0 adgridwork.com
 0.0.0.0 adgroups.com
 0.0.0.0 adgrx.moatads.com
 0.0.0.0 adhdchild.com
@@ -17169,7 +17168,6 @@
 0.0.0.0 ads.ami-admin.com
 0.0.0.0 ads.amigo.net.gt
 0.0.0.0 ads.amusive.com
-0.0.0.0 ads.animetoysonline.com
 0.0.0.0 ads.answerfinancial.com
 0.0.0.0 ads.antiqnet.com
 0.0.0.0 ads.aol.co.uk
@@ -17843,7 +17841,6 @@
 0.0.0.0 ads.hundejo.de
 0.0.0.0 ads.hurra.de
 0.0.0.0 ads.hustler.com
-0.0.0.0 ads.iac-online.de
 0.0.0.0 ads.iafrica.com
 0.0.0.0 ads.iance.com
 0.0.0.0 ads.iawsnetwork.com
@@ -19234,7 +19231,6 @@
 0.0.0.0 ads2.hpg.ig.com.br
 0.0.0.0 ads2.iwon.com
 0.0.0.0 ads2.jubii.dk
-0.0.0.0 ads2.liteweb.net
 0.0.0.0 ads2.msads.net
 0.0.0.0 ads2.msn.com
 0.0.0.0 ads2.mynet.com
@@ -19914,7 +19910,6 @@
 0.0.0.0 adserver.kissfm.ro
 0.0.0.0 adserver.kontextua.com
 0.0.0.0 adserver.kyoceramita-europe.com
-0.0.0.0 adserver.legacy-network.com
 0.0.0.0 adserver.libero.it
 0.0.0.0 adserver.lonuncavisto.com
 0.0.0.0 adserver.lunarpages.com
@@ -21183,7 +21178,6 @@
 0.0.0.0 advs.adgorithms.com
 0.0.0.0 advserver.xyz
 0.0.0.0 advsl.com
-0.0.0.0 advstat.xunlei.com
 0.0.0.0 advzilla.com
 0.0.0.0 adw.ero-advertising.com
 0.0.0.0 adware.com
@@ -25687,7 +25681,6 @@
 0.0.0.0 bajomundo.proboards.com
 0.0.0.0 bakedgood.com
 0.0.0.0 bakedham.byethost3.com
-0.0.0.0 bakercountyflorida.com
 0.0.0.0 bakerhighes.com
 0.0.0.0 bakeroil.com
 0.0.0.0 bakershotel.com
@@ -26394,7 +26387,6 @@
 0.0.0.0 banners.classmates.com
 0.0.0.0 banners.cleanearclinic.co.uk
 0.0.0.0 banners.clickey.com
-0.0.0.0 banners.clickthrucash.com
 0.0.0.0 banners.clips4sale.com
 0.0.0.0 banners.clubs.nl
 0.0.0.0 banners.clubseventeen.com
@@ -41230,7 +41222,6 @@
 0.0.0.0 fr.xml.clickintext.net
 0.0.0.0 fra1-ib.adnxs.com
 0.0.0.0 fradrokl.easyfreeforum.com
-0.0.0.0 fragmentserv.iac-online.de
 0.0.0.0 fragranceoilsonline.com
 0.0.0.0 fragrancesworld.com
 0.0.0.0 fragrancetrader.com
@@ -56710,7 +56701,6 @@
 0.0.0.0 searchfeed.net
 0.0.0.0 searchfish.com
 0.0.0.0 searchformen.com
-0.0.0.0 searchgateway.net
 0.0.0.0 searchgogo.com
 0.0.0.0 searchin.com
 0.0.0.0 searching-the-net.com
@@ -63898,7 +63888,6 @@
 0.0.0.0 www.adclickmedia.com
 0.0.0.0 www.adclickservice.com
 0.0.0.0 www.adclickthru.net
-0.0.0.0 www.adclickxpress.com
 0.0.0.0 www.adclickxpress.is
 0.0.0.0 www.adcore.ru
 0.0.0.0 www.addictedtogaming.com
@@ -66157,7 +66146,6 @@
 0.0.0.0 www.conduit-banners.com
 0.0.0.0 www.conduit.com
 0.0.0.0 www.confirm-ads-notification.com
-0.0.0.0 www.confirm-advert-support-info.com
 0.0.0.0 www.confirmation-ads.info
 0.0.0.0 www.confusionforums.com
 0.0.0.0 www.connectgroups.org.au
@@ -73577,7 +73565,6 @@
 0.0.0.0 www.youradhere.com
 0.0.0.0 www.yourdvdplayer.com
 0.0.0.0 www.yourfuckbook.com
-0.0.0.0 www.youripad4free.com
 0.0.0.0 www.yourlinkhere.com
 0.0.0.0 www.yourmarket.ro
 0.0.0.0 www.youronlinemovies.net

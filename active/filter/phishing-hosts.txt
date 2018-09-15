@@ -1,8 +1,8 @@
 # phishing-hosts Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://gitlab.com/Kurobeats/phishing_hosts/raw/master/hosts
-# Last Converted - 14.09.2018
-# Total Domains - 777
+# Last Converted - 15.09.2018
+# Total Domains - 772
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -67,7 +67,6 @@
 0.0.0.0 avsolarindia.in
 0.0.0.0 baarrcodeechilee.com
 0.0.0.0 baby-krazy-k.000webhostapp.com
-0.0.0.0 bancadiechile.com
 0.0.0.0 bancosantander.es-enlinea.kongoprovenceconseil.com
 0.0.0.0 bankcretriam.flu.cc
 0.0.0.0 bankguarantee.ru
@@ -238,7 +237,6 @@
 0.0.0.0 grafia.co
 0.0.0.0 granted-candles.000webhostapp.com
 0.0.0.0 grassellicistreet.gq
-0.0.0.0 gtaertz.eu
 0.0.0.0 gx0kkkuf8inydniizfy5.rozan4clerk.com
 0.0.0.0 gycemltda.cl
 0.0.0.0 h62-213-20-50.ip.syzran.ru
@@ -389,7 +387,6 @@
 0.0.0.0 naweyewe.com
 0.0.0.0 ncsite.ca
 0.0.0.0 necessary-security-confirmation.services
-0.0.0.0 necessary-security-confirmation.xyz
 0.0.0.0 neodimio.com.br
 0.0.0.0 newauthen.com
 0.0.0.0 newminimall.com
@@ -667,7 +664,6 @@
 0.0.0.0 www.errictandalex.kenaidanceta.com
 0.0.0.0 www.fantalebooks.com
 0.0.0.0 www.findfashion.ie
-0.0.0.0 www.foglizo.com
 0.0.0.0 www.geomoto.com
 0.0.0.0 www.ghousiasports.com
 0.0.0.0 www.global-sti-community.org
@@ -675,7 +671,6 @@
 0.0.0.0 www.gotrucktrans.com
 0.0.0.0 www.greenpathturf.com
 0.0.0.0 www.h1z1db.net
-0.0.0.0 www.healthdirect.ie
 0.0.0.0 www.help-ghfgujhik.tk
 0.0.0.0 www.hotelspecialsdirect.com
 0.0.0.0 www.htsexpo.in

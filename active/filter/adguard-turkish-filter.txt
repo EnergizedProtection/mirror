@@ -1,8 +1,8 @@
 # adguard-turkish-filter Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-turkish-filter.txt
-# Last Converted - 14.09.2018
-# Total Domains - 263
+# Last Converted - 15.09.2018
+# Total Domains - 262
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -97,7 +97,6 @@
 0.0.0.0 block.s2block.com
 0.0.0.0 bo.facesbet.com
 0.0.0.0 bornobid.com
-0.0.0.0 bp.blogspot.com
 0.0.0.0 bultenler.klscdn.com
 0.0.0.0 burdanhdfilmizle.com
 0.0.0.0 buzzreklam.com

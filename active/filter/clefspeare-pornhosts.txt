@@ -1,8 +1,8 @@
 # clefspeare-pornhosts Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/Clefspeare13/pornhosts/master/0.0.0.0/hosts
-# Last Converted - 14.09.2018
-# Total Domains - 4428
+# Last Converted - 15.09.2018
+# Total Domains - 4427
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -2272,7 +2272,6 @@
 0.0.0.0 www.lacynylon.blogtur.com
 0.0.0.0 www.ladiesofjuarez.com
 0.0.0.0 www.ladycomfort.com.ar
-0.0.0.0 www.ladylust.com
 0.0.0.0 www.ladyofpornconnoisseur.tumblr.com
 0.0.0.0 www.laineygossip.com
 0.0.0.0 www.lanaporno.tumblr.com

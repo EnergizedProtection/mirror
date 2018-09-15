@@ -1,8 +1,8 @@
 # winhelp2002.mvps.org Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - http://winhelp2002.mvps.org/hosts.txt
-# Last Converted - 14.09.2018
-# Total Domains - 12170
+# Last Converted - 15.09.2018
+# Total Domains - 12167
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -439,7 +439,6 @@
 0.0.0.0 ac.ybinst9.ec.yimg.com
 0.0.0.0 ac9d98.r.axf8.net
 0.0.0.0 acckalaharinet.112.2o7.net
-0.0.0.0 accuserveadsystem.com
 0.0.0.0 accuweather.us.intellitxt.com
 0.0.0.0 acdn.adnxs.com
 0.0.0.0 ace-lb.advertising.com
@@ -10298,7 +10297,6 @@
 0.0.0.0 tracking.websitealive.com
 0.0.0.0 tracking.whattoexpect.com
 0.0.0.0 tracking.wisepops.com
-0.0.0.0 tracking1.euroads.no
 0.0.0.0 tracking2.channeladvisor.com
 0.0.0.0 tracking2.hittail.com
 0.0.0.0 tracknet.twyn.com
@@ -10422,7 +10420,6 @@
 0.0.0.0 ua4.hit.stat24.com
 0.0.0.0 ua5.hit.stat24.com
 0.0.0.0 uac.advertising.com
-0.0.0.0 uadx.com
 0.0.0.0 uberads.net
 0.0.0.0 ubergizmo.us.intellitxt.com
 0.0.0.0 ucounter.ucoz.net

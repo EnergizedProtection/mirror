@@ -1,8 +1,8 @@
 # squidblacklist-dg-malicious Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://www.squidblacklist.org/downloads/dg-malicious.acl
-# Last Converted - 14.09.2018
-# Total Domains - 98322
+# Last Converted - 15.09.2018
+# Total Domains - 98313
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -16828,7 +16828,6 @@
 0.0.0.0 bangalibabaji.com
 0.0.0.0 bangaliguruji.com
 0.0.0.0 bangalivashikaran.com
-0.0.0.0 banganucoid.masterweb.id
 0.0.0.0 bangashreetti.org
 0.0.0.0 bangbangning.000webhostapp.com
 0.0.0.0 bangbros.asia
@@ -29208,11 +29207,9 @@
 0.0.0.0 coinbase.pro-fork.com
 0.0.0.0 coinbase.tx-pr0.com
 0.0.0.0 coinbaseblogofficial.tumblr.com
-0.0.0.0 coinbaseboggether.tumblr.com
 0.0.0.0 coinbasegifts.blogspot.com
 0.0.0.0 coinbaselogin.com.ru
 0.0.0.0 coinbaselogin.support
-0.0.0.0 coinbasespromo.tumblr.com
 0.0.0.0 coinbasesupportnumber.com
 0.0.0.0 coinbtc.biz
 0.0.0.0 coinbtcnews.com
@@ -33626,7 +33623,6 @@
 0.0.0.0 cryptocrystals.com
 0.0.0.0 cryptocurrency-accountants.com.au
 0.0.0.0 cryptocurrency-discount-codes.com
-0.0.0.0 cryptocurrency-gift.tumblr.com
 0.0.0.0 cryptoether.info
 0.0.0.0 cryptoexchange.nu
 0.0.0.0 cryptofaze.com
@@ -52307,7 +52303,6 @@
 0.0.0.0 gamagamaa.com
 0.0.0.0 gamale.bget.ru
 0.0.0.0 gamar.com.ar
-0.0.0.0 gambiauniversalliberationchurch.gm
 0.0.0.0 gamblingonlinemagazine.com
 0.0.0.0 gamcc.edu.bd
 0.0.0.0 gamcel.gm
@@ -52395,7 +52390,6 @@
 0.0.0.0 gammi-ltd.ru
 0.0.0.0 gamongtienphong.com.vn
 0.0.0.0 gamovation.nl
-0.0.0.0 gamtelfc.gm
 0.0.0.0 gamtrot.xyz
 0.0.0.0 gamuda-city.net
 0.0.0.0 gamv-automotriz.com
@@ -54561,7 +54555,6 @@
 0.0.0.0 go.co-aa453.stream
 0.0.0.0 go.co-aa566.stream
 0.0.0.0 go.digitalairstrike.com
-0.0.0.0 go.doupat.xyz
 0.0.0.0 go.ether10000.win
 0.0.0.0 go.ethgft.party
 0.0.0.0 go.ethofficialpage.us
@@ -56846,7 +56839,6 @@
 0.0.0.0 hanoitwo.stream
 0.0.0.0 hanoverroad.co.uk
 0.0.0.0 hanpalba.com
-0.0.0.0 hansacademy.gm
 0.0.0.0 hansclothings.com
 0.0.0.0 hansetravel.de
 0.0.0.0 hansetwo.stream
@@ -91552,7 +91544,6 @@
 0.0.0.0 rushmediacommunications.com
 0.0.0.0 rushrepublic.co.uk
 0.0.0.0 rusiyaqatar.com
-0.0.0.0 ruskimv6.beget.tech
 0.0.0.0 ruskype.com
 0.0.0.0 rusredtube.com
 0.0.0.0 russellhoover.com

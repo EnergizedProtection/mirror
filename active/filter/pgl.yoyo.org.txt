@@ -1,8 +1,8 @@
 # pgl.yoyo.org Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&mimetype=plaintext
-# Last Converted - 14.09.2018
-# Total Domains - 2573
+# Last Converted - 15.09.2018
+# Total Domains - 2572
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -1332,7 +1332,6 @@
 0.0.0.0 drumcash.com
 0.0.0.0 dsp.io
 0.0.0.0 dynamic.fmpub.net
-0.0.0.0 dyntrk.com
 0.0.0.0 e-adimages.scrippsnetworks.com
 0.0.0.0 e-bannerx.com
 0.0.0.0 e-debtconsolidation.com

@@ -1,8 +1,8 @@
 # easylist-abpindo Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easylist-abpindo.txt
-# Last Converted - 14.09.2018
-# Total Domains - 17686
+# Last Converted - 15.09.2018
+# Total Domains - 17695
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -819,7 +819,6 @@
 0.0.0.0 accmgr.com
 0.0.0.0 accouncila.com
 0.0.0.0 accounts.pkr.com
-0.0.0.0 accuserveadsystem.com
 0.0.0.0 ace.advertising.com
 0.0.0.0 acelivecasino.com
 0.0.0.0 acerevenue.com
@@ -3740,6 +3739,7 @@
 0.0.0.0 bitterstrawberry.com
 0.0.0.0 bitterstrawberry.org
 0.0.0.0 bitx.tv
+0.0.0.0 bixolsoqluvzpu.com
 0.0.0.0 bizfo.co.uk
 0.0.0.0 bizographics.com
 0.0.0.0 bizrotator.com
@@ -4085,7 +4085,6 @@
 0.0.0.0 boylesports.com
 0.0.0.0 boylesportsreklame.com
 0.0.0.0 boylesportsucp.com
-0.0.0.0 bp.blogspot.com
 0.0.0.0 bpglbuxwx.com
 0.0.0.0 bpnjigwalqjho.com
 0.0.0.0 bposterss.net
@@ -4692,6 +4691,7 @@
 0.0.0.0 cbsfcpciitwcky.com
 0.0.0.0 cbtdjpspjp.com
 0.0.0.0 cbyjjheawrcfq.com
+0.0.0.0 cbzkrwjdskg.com
 0.0.0.0 cc-dt.com
 0.0.0.0 ccdkyvyw.com
 0.0.0.0 ccemeoqbqb.com
@@ -6347,6 +6347,7 @@
 0.0.0.0 eqads.com
 0.0.0.0 eqbets.com
 0.0.0.0 eqegggmtc.com
+0.0.0.0 eqezqqdpjmxbpb.com
 0.0.0.0 eqfgc.com
 0.0.0.0 eqhawyidkdug.com
 0.0.0.0 eradanashop.com
@@ -6889,6 +6890,7 @@
 0.0.0.0 fpnxicejwel.com
 0.0.0.0 fpqxcvrewdqd.com
 0.0.0.0 fpriycwxw.com
+0.0.0.0 fqckdxjgle.com
 0.0.0.0 fqgqosvpodxn.com
 0.0.0.0 fqjevuoat.com
 0.0.0.0 fqleehzafh.com
@@ -8218,6 +8220,7 @@
 0.0.0.0 idealmedia.com
 0.0.0.0 idelmxrchrce.com
 0.0.0.0 identads.com
+0.0.0.0 ideprjebdvj.com
 0.0.0.0 idexoro.info
 0.0.0.0 idfybbol.com
 0.0.0.0 idn55bet.com
@@ -9026,6 +9029,7 @@
 0.0.0.0 jprtqxwhtrjejx.com
 0.0.0.0 jptangkas.com
 0.0.0.0 jpxevzab.com
+0.0.0.0 jqanygfhqne.com
 0.0.0.0 jqb8.com
 0.0.0.0 jqfkitrkhpxl.com
 0.0.0.0 jqk666.com
@@ -9373,6 +9377,7 @@
 0.0.0.0 kcctsiusemgdl.com
 0.0.0.0 kcitwbcc.com
 0.0.0.0 kcnyhfmowc.com
+0.0.0.0 kcolbda.com
 0.0.0.0 kcwvkoxn.com
 0.0.0.0 kdhkjeklzihiwh.com
 0.0.0.0 kdhndryipp.com
@@ -9795,6 +9800,7 @@
 0.0.0.0 lifebonuscode.com
 0.0.0.0 lifepipenewsdaily.com
 0.0.0.0 lifepromo.biz
+0.0.0.0 lifeselector.com
 0.0.0.0 liftdna.com
 0.0.0.0 lig369.com
 0.0.0.0 liga-emas.com
@@ -9971,7 +9977,6 @@
 0.0.0.0 loodyas.com
 0.0.0.0 lookit-quick.com
 0.0.0.0 looksmart.com
-0.0.0.0 looky.hyves.org
 0.0.0.0 looneynetwork.com
 0.0.0.0 loopmaze.com
 0.0.0.0 loopme.me
@@ -12242,6 +12247,7 @@
 0.0.0.0 pictela.net
 0.0.0.0 pictureturn.com
 0.0.0.0 piercial.com
+0.0.0.0 pifsistcwycouc.com
 0.0.0.0 piggspeak.com
 0.0.0.0 pilarqq.com
 0.0.0.0 pilottere.info
@@ -13697,6 +13703,7 @@
 0.0.0.0 runreproducerow.com
 0.0.0.0 runslin.com
 0.0.0.0 runwtxeisppmt.com
+0.0.0.0 ruodzaboyf.com
 0.0.0.0 rushmorecasino.biz
 0.0.0.0 rushmorecasino.info
 0.0.0.0 rushmoreonline.biz
@@ -16053,6 +16060,7 @@
 0.0.0.0 uejnzoaayhr.com
 0.0.0.0 uel-uel-fie.com
 0.0.0.0 uelllwrite.com
+0.0.0.0 uemjnvyn.com
 0.0.0.0 uenpibqyjvim.com
 0.0.0.0 ueosdjscxucj.com
 0.0.0.0 ueptzgugtxis.com
@@ -16928,6 +16936,7 @@
 0.0.0.0 wnzzxwysay.com
 0.0.0.0 wodipaca.com
 0.0.0.0 wodizapt.com
+0.0.0.0 woghqyjpiwddme.com
 0.0.0.0 wolfrunslot.net
 0.0.0.0 won77.asia
 0.0.0.0 won77.net

@@ -1,8 +1,8 @@
 # cameleon Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - http://sysctl.org/cameleon/hosts
-# Last Converted - 14.09.2018
-# Total Domains - 19401
+# Last Converted - 15.09.2018
+# Total Domains - 19393
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -779,7 +779,6 @@
 0.0.0.0 accessoryad.com
 0.0.0.0 accesstracking.com
 0.0.0.0 acckalaharinet.112.2o7.net
-0.0.0.0 accuserveadsystem.com
 0.0.0.0 accuweather.us.intellitxt.com
 0.0.0.0 acdn.adnxs.com
 0.0.0.0 ace-lb.advertising.com
@@ -3465,7 +3464,6 @@
 0.0.0.0 ads.hulu.com
 0.0.0.0 ads.hurra.de
 0.0.0.0 ads.i-am-bored.com
-0.0.0.0 ads.iac-online.de
 0.0.0.0 ads.iafrica.com
 0.0.0.0 ads.iawsnetwork.com
 0.0.0.0 ads.ibtracking.com
@@ -4394,7 +4392,6 @@
 0.0.0.0 ads2.i-kool.com
 0.0.0.0 ads2.iwon.com
 0.0.0.0 ads2.jubii.dk
-0.0.0.0 ads2.liteweb.net
 0.0.0.0 ads2.msads.net
 0.0.0.0 ads2.msn.com
 0.0.0.0 ads2.nextmedia.bg
@@ -5053,7 +5050,6 @@
 0.0.0.0 adserver.kontextua.com
 0.0.0.0 adserver.kyoceramita-europe.com
 0.0.0.0 adserver.lanacion.com.ar
-0.0.0.0 adserver.legacy-network.com
 0.0.0.0 adserver.lonuncavisto.com
 0.0.0.0 adserver.lycos.co.jp
 0.0.0.0 adserver.magazyn.pl
@@ -7023,7 +7019,6 @@
 0.0.0.0 banners.cashring.com
 0.0.0.0 banners.classmates.com
 0.0.0.0 banners.clickon.co.il
-0.0.0.0 banners.clickthrucash.com
 0.0.0.0 banners.clips4sale.com
 0.0.0.0 banners.colegialasdesvirgadas.com
 0.0.0.0 banners.com
@@ -15406,7 +15401,6 @@
 0.0.0.0 searchdiscovered.com
 0.0.0.0 searchforit.com
 0.0.0.0 searchfwding.com
-0.0.0.0 searchgateway.net
 0.0.0.0 searchignited.com
 0.0.0.0 searchmagnified.com
 0.0.0.0 searchmeup.com
@@ -15472,6 +15466,7 @@
 0.0.0.0 secure.winhundred.com
 0.0.0.0 secure2.segpay.com
 0.0.0.0 securemetrics.apple.com
+0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 secureredirect101.com
 0.0.0.0 securinews.free.fr
 0.0.0.0 securite.01net.com
@@ -16856,7 +16851,6 @@
 0.0.0.0 tracking.websitealive.com
 0.0.0.0 tracking.whattoexpect.com
 0.0.0.0 tracking.wisepops.com
-0.0.0.0 tracking1.euroads.no
 0.0.0.0 tracking2.channeladvisor.com
 0.0.0.0 tracking2.hittail.com
 0.0.0.0 trackingmaster.co.cc
@@ -17001,7 +16995,6 @@
 0.0.0.0 ua4.hit.stat24.com
 0.0.0.0 ua5.hit.stat24.com
 0.0.0.0 uac.advertising.com
-0.0.0.0 uadx.com
 0.0.0.0 ubergizmo.us.intellitxt.com
 0.0.0.0 uci.securewebsiteaccess.com
 0.0.0.0 ucounter.ucoz.net
@@ -18323,7 +18316,6 @@
 0.0.0.0 www.kompass-intl.com
 0.0.0.0 www.kontera.com
 0.0.0.0 www.kqzyfj.com
-0.0.0.0 www.ladylust.com
 0.0.0.0 www.layer-ads.de
 0.0.0.0 www.lduhtrp.net
 0.0.0.0 www.leadingedgecash.com

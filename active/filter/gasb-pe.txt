@@ -1,8 +1,8 @@
 # gasb-pe Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/mirror/GASB-PE.active.txt
-# Last Converted - 14.09.2018
-# Total Domains - 67428
+# Last Converted - 15.09.2018
+# Total Domains - 67418
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -3491,7 +3491,6 @@
 0.0.0.0 adgdev.112.2o7.net
 0.0.0.0 adgoblin.com
 0.0.0.0 adgoto.com
-0.0.0.0 adgridwork.com
 0.0.0.0 adgroups.com
 0.0.0.0 adguanggao.eee114.com
 0.0.0.0 adhaero.com
@@ -3872,7 +3871,6 @@
 0.0.0.0 ads.amigos.com
 0.0.0.0 ads.aminews.com
 0.0.0.0 ads.amusive.com
-0.0.0.0 ads.animetoysonline.com
 0.0.0.0 ads.answerfinancial.com
 0.0.0.0 ads.antiqnet.com
 0.0.0.0 ads.aol.co.uk
@@ -4506,7 +4504,6 @@
 0.0.0.0 ads.hustler.com
 0.0.0.0 ads.hustlert.com
 0.0.0.0 ads.i-am-bored.com
-0.0.0.0 ads.iac-online.de
 0.0.0.0 ads.iac.iafrica.com
 0.0.0.0 ads.iafrica.com
 0.0.0.0 ads.iamgame.com
@@ -5953,7 +5950,6 @@
 0.0.0.0 ads2.i-kool.com
 0.0.0.0 ads2.iwon.com
 0.0.0.0 ads2.jubii.dk
-0.0.0.0 ads2.liteweb.net
 0.0.0.0 ads2.msads.net
 0.0.0.0 ads2.narod.co.il
 0.0.0.0 ads2.net-communities.co.uk
@@ -6600,7 +6596,6 @@
 0.0.0.0 adserver.juicyads.com
 0.0.0.0 adserver.kyoceramita-europe.com
 0.0.0.0 adserver.lanacion.com.ar
-0.0.0.0 adserver.legacy-network.com
 0.0.0.0 adserver.libero.it
 0.0.0.0 adserver.lunarpages.com
 0.0.0.0 adserver.matchcraft.com
@@ -7442,7 +7437,6 @@
 0.0.0.0 advolution.de
 0.0.0.0 advsoftware.org
 0.0.0.0 advstat.letitbit.net
-0.0.0.0 advstat.xunlei.com
 0.0.0.0 advt.webindia123.com
 0.0.0.0 adware-2009.com
 0.0.0.0 adware.com
@@ -18227,6 +18221,7 @@
 0.0.0.0 down.my0709.xyz
 0.0.0.0 down.plaxo.com
 0.0.0.0 down2.ucweb.com
+0.0.0.0 down3.ucweb.com
 0.0.0.0 down988.cn
 0.0.0.0 downaload.com
 0.0.0.0 downbt.com
@@ -23878,7 +23873,6 @@
 0.0.0.0 fr4-scripts.downloadv3.com
 0.0.0.0 fractalcoin.miningpoolhub.com
 0.0.0.0 fragantes.serveblog.net
-0.0.0.0 fragmentserv.iac-online.de
 0.0.0.0 fragus-v1-1.cn
 0.0.0.0 frailoffer.com
 0.0.0.0 france.bpath.com
@@ -24936,7 +24930,6 @@
 0.0.0.0 geekersmagazine.com
 0.0.0.0 geeknation.com
 0.0.0.0 geekpedia.uk.intellitxt.com
-0.0.0.0 geeksdrivesavers.com
 0.0.0.0 geeksonservice.com
 0.0.0.0 geeksquares.com
 0.0.0.0 geeksquares247.com
@@ -27997,7 +27990,6 @@
 0.0.0.0 images.windowsmedia.com
 0.0.0.0 images02.netaddress.usa.net
 0.0.0.0 images1.paycounter.com
-0.0.0.0 images2.iac-online.de
 0.0.0.0 images2.robofind.com
 0.0.0.0 images2.soulmatestechnology.com
 0.0.0.0 imagesearch.de.miva.com
@@ -42860,7 +42852,6 @@
 0.0.0.0 searchftps.com
 0.0.0.0 searchfuel.com
 0.0.0.0 searchgalleries.com
-0.0.0.0 searchgateway.net
 0.0.0.0 searchgist.com
 0.0.0.0 searchgreat.com
 0.0.0.0 searchguide.level3.com
@@ -59150,7 +59141,6 @@
 0.0.0.0 www.ladbrokescasino.com
 0.0.0.0 www.ladiestricks.com
 0.0.0.0 www.ladoc.org
-0.0.0.0 www.ladylust.com
 0.0.0.0 www.ladypee.net
 0.0.0.0 www.laexotic.com
 0.0.0.0 www.lafabbricadelleidee.net

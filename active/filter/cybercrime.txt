@@ -1,8 +1,8 @@
 # cybercrime Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://v.firebog.net/hosts/Cybercrime.txt
-# Last Converted - 14.09.2018
-# Total Domains - 4952
+# Last Converted - 15.09.2018
+# Total Domains - 4951
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -2100,7 +2100,6 @@
 0.0.0.0 lagginfo.com
 0.0.0.0 lahtiprecission.com
 0.0.0.0 lahtiprecission.ru
-0.0.0.0 laico-atlantic.gm
 0.0.0.0 laidojimopaslaugos.com
 0.0.0.0 lakeside.ml
 0.0.0.0 lallahome2.ru
