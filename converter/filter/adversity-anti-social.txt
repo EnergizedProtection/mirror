@@ -1,7 +1,7 @@
 # adversity-anti-social Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/Hubird-au/Adversity/master/Antisocial.txt
-# Last Converted - 14.09.2018
+# Last Converted - 15.09.2018
 # Total Domains - 45
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized

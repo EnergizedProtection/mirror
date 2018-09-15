@@ -16,6 +16,7 @@
   {"name": "adguard-safari-filter",              "enabled": true,  "format": "plain",   "url": "https://filters.adtidy.org/extension/chromium/filters/12.txt"},
   {"name": "adguard-social-filter",              "enabled": true,  "format": "plain",   "url": "https://filters.adtidy.org/extension/chromium/filters/4.txt"},
   {"name": "adguard-social-popups",              "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SocialFilter/sections/popups.txt"},
+  {"name": "adguard-social-trackers",            "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SocialFilter/sections/social_trackers.txt"},
   {"name": "adguard-spanish-portuguese-filter",  "enabled": true,  "format": "plain",   "url": "https://filters.adtidy.org/extension/chromium/filters/9.txt"},
   {"name": "adguard-spyware-filter",             "enabled": true,  "format": "plain",   "url": "https://filters.adtidy.org/extension/chromium/filters/3.txt"},
   {"name": "adguard-spyware-firstparty",         "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers_firstparty.txt"},

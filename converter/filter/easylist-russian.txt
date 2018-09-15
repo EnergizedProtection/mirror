@@ -1,8 +1,8 @@
 # easylist-russian Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://easylist-downloads.adblockplus.org/ruadlist+easylist.txt
-# Last Converted - 14.09.2018
-# Total Domains - 24226
+# Last Converted - 15.09.2018
+# Total Domains - 24242
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -3710,6 +3710,7 @@
 0.0.0.0 bitx.tv
 0.0.0.0 biwjfwhxoy.bid
 0.0.0.0 bixmarketing.ru
+0.0.0.0 bixolsoqluvzpu.com
 0.0.0.0 bizaes.ru
 0.0.0.0 bizanti.youwatch.org
 0.0.0.0 bizfo.co.uk
@@ -4543,6 +4544,7 @@
 0.0.0.0 cbxqceuuwnaz.com
 0.0.0.0 cbxtnudkklwh.com
 0.0.0.0 cbyjjheawrcfq.com
+0.0.0.0 cbzkrwjdskg.com
 0.0.0.0 cc-dt.com
 0.0.0.0 ccabzumewfk.bid
 0.0.0.0 ccaypkuiauizuh.bid
@@ -5765,6 +5767,7 @@
 0.0.0.0 d2cgumzzqhgmdu.cloudfront.net
 0.0.0.0 d2cxkkxhecdzsq.cloudfront.net
 0.0.0.0 d2d2lbvq8xirbs.cloudfront.net
+0.0.0.0 d2d8qsxiai9qwj.cloudfront.net
 0.0.0.0 d2dxgm96wvaa5j.cloudfront.net
 0.0.0.0 d2focgxak1cn74.cloudfront.net
 0.0.0.0 d2ghscazvn398x.cloudfront.net
@@ -7208,6 +7211,7 @@
 0.0.0.0 eqads.com
 0.0.0.0 eqcvisodkvphw.bid
 0.0.0.0 eqegggmtc.com
+0.0.0.0 eqezqqdpjmxbpb.com
 0.0.0.0 eqfgc.com
 0.0.0.0 eqhawyidkdug.com
 0.0.0.0 eqkccjinroye.bid
@@ -8100,6 +8104,7 @@
 0.0.0.0 fpvfeyjrwlio.com
 0.0.0.0 fpzxmdjjpphzc.bid
 0.0.0.0 fqazjwxovxlu.com
+0.0.0.0 fqckdxjgle.com
 0.0.0.0 fqemzrkwuiaq.bid
 0.0.0.0 fqesuuyzhxpz.bid
 0.0.0.0 fqgqosvpodxn.com
@@ -9398,6 +9403,7 @@
 0.0.0.0 hepuzqrx.com
 0.0.0.0 heqcvweqvqf.com
 0.0.0.0 heqop.ru
+0.0.0.0 her-ber.top
 0.0.0.0 heracgjcuqmk.com
 0.0.0.0 heravda.com
 0.0.0.0 herezera.com
@@ -10003,6 +10009,7 @@
 0.0.0.0 idejenmqxhy.bid
 0.0.0.0 idelmxrchrce.com
 0.0.0.0 identads.com
+0.0.0.0 ideprjebdvj.com
 0.0.0.0 idexoro.info
 0.0.0.0 idfybbol.com
 0.0.0.0 idiyejpux.bid
@@ -11029,6 +11036,7 @@
 0.0.0.0 jpwvdpvsmhow.com
 0.0.0.0 jpxevzab.com
 0.0.0.0 jpybcyxyepsc.bid
+0.0.0.0 jqanygfhqne.com
 0.0.0.0 jqdfakgwsxvccl.bid
 0.0.0.0 jqdwgguusof.bid
 0.0.0.0 jqfkitrkhpxl.com
@@ -11300,6 +11308,7 @@
 0.0.0.0 kcgmgnejfp.bid
 0.0.0.0 kcitwbcc.com
 0.0.0.0 kcnyhfmowc.com
+0.0.0.0 kcolbda.com
 0.0.0.0 kcpatrack.ru
 0.0.0.0 kcqdidtq.bid
 0.0.0.0 kcwvkoxn.com
@@ -12166,6 +12175,7 @@
 0.0.0.0 lifepipenewsdaily.com
 0.0.0.0 lifepromo.biz
 0.0.0.0 liferead.ru
+0.0.0.0 lifeselector.com
 0.0.0.0 lifewild.ru
 0.0.0.0 liftdna.com
 0.0.0.0 ligabklr.com
@@ -12648,7 +12658,6 @@
 0.0.0.0 luraclhaunxv.com
 0.0.0.0 luredac.com
 0.0.0.0 lusfrsxgxopm.com
-0.0.0.0 lush-rail.club
 0.0.0.0 lushcrush.com
 0.0.0.0 lustigbanner.com
 0.0.0.0 luvcash.com
@@ -12835,6 +12844,7 @@
 0.0.0.0 makemoneymakemoney.net
 0.0.0.0 makemoneyonline.2yu.in
 0.0.0.0 makhhvgdkhwn.com
+0.0.0.0 makrohd.net
 0.0.0.0 maks-reklama.com
 0.0.0.0 makschuvaksobakadotkom.ru
 0.0.0.0 malakasonline.com
@@ -15854,6 +15864,7 @@
 0.0.0.0 pidorg.ru
 0.0.0.0 piercial.com
 0.0.0.0 pifaojvaiofw.com
+0.0.0.0 pifsistcwycouc.com
 0.0.0.0 pifvfovy.biz
 0.0.0.0 pikachun.ru
 0.0.0.0 pikalop.com
@@ -18049,6 +18060,7 @@
 0.0.0.0 runreproducerow.com
 0.0.0.0 runslin.com
 0.0.0.0 runwtxeisppmt.com
+0.0.0.0 ruodzaboyf.com
 0.0.0.0 ruorange.org
 0.0.0.0 ruovcruc.com
 0.0.0.0 ruoypiedfpov.com
@@ -19331,6 +19343,7 @@
 0.0.0.0 submissing.com
 0.0.0.0 submitexpress.co.uk
 0.0.0.0 submitred.freezpic.ru
+0.0.0.0 subscribering.info
 0.0.0.0 substerrent.co
 0.0.0.0 substraktor.ru
 0.0.0.0 succeedscene.com
@@ -20913,6 +20926,7 @@
 0.0.0.0 uejnzoaayhr.com
 0.0.0.0 uel-uel-fie.com
 0.0.0.0 uelllwrite.com
+0.0.0.0 uemjnvyn.com
 0.0.0.0 uenpibqyjvim.com
 0.0.0.0 ueosdjscxucj.com
 0.0.0.0 uepsvcyxxrbs.bid
@@ -21198,6 +21212,7 @@
 0.0.0.0 ussscmqkjtfsx.com
 0.0.0.0 usstero.com
 0.0.0.0 usswrite.com
+0.0.0.0 ustinvest.ru
 0.0.0.0 usuanyzr.bid
 0.0.0.0 usurv.com
 0.0.0.0 usxsp7v.com
@@ -22585,6 +22600,7 @@
 0.0.0.0 wodipaca.com
 0.0.0.0 wodizapt.com
 0.0.0.0 woetwakv.bid
+0.0.0.0 woghqyjpiwddme.com
 0.0.0.0 wogoods.com
 0.0.0.0 wohuuwfektlppp.bid
 0.0.0.0 wokoq.com

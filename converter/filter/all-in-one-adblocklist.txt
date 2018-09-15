@@ -1,8 +1,8 @@
 # all-in-one-adblocklist Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
-# Last Converted - 14.09.2018
-# Total Domains - 63219
+# Last Converted - 15.09.2018
+# Total Domains - 63235
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -5932,6 +5932,7 @@
 0.0.0.0 anymedia.lv
 0.0.0.0 anyoneregistonmay.com
 0.0.0.0 anypbbervqig.com
+0.0.0.0 anyporn.com
 0.0.0.0 anyras.com
 0.0.0.0 anyuwksovtwv.com
 0.0.0.0 anyxp.com
@@ -9300,6 +9301,7 @@
 0.0.0.0 bivatek.com
 0.0.0.0 bivouac-iguana-sahara-merzouga.com
 0.0.0.0 biwjfwhxoy.bid
+0.0.0.0 bixolsoqluvzpu.com
 0.0.0.0 biz-tie.com
 0.0.0.0 biz.verify.apple.com.dgsfotografia.com.br
 0.0.0.0 bizad.nikkeibp.co.jp
@@ -11343,6 +11345,7 @@
 0.0.0.0 cbxqceuuwnaz.com
 0.0.0.0 cbxtnudkklwh.com
 0.0.0.0 cbyjjheawrcfq.com
+0.0.0.0 cbzkrwjdskg.com
 0.0.0.0 cc-cleanup.com
 0.0.0.0 cc-dt.com
 0.0.0.0 cc.calltracking.ru
@@ -19549,6 +19552,7 @@
 0.0.0.0 eqads.com
 0.0.0.0 eqcvisodkvphw.bid
 0.0.0.0 eqegggmtc.com
+0.0.0.0 eqezqqdpjmxbpb.com
 0.0.0.0 eqfgc.com
 0.0.0.0 eqhawyidkdug.com
 0.0.0.0 eqjeurqgrdj.cc
@@ -22317,6 +22321,7 @@
 0.0.0.0 fpvfeyjrwlio.com
 0.0.0.0 fpzxmdjjpphzc.bid
 0.0.0.0 fqazjwxovxlu.com
+0.0.0.0 fqckdxjgle.com
 0.0.0.0 fqemzrkwuiaq.bid
 0.0.0.0 fqesuuyzhxpz.bid
 0.0.0.0 fqgqosvpodxn.com
@@ -29676,6 +29681,7 @@
 0.0.0.0 ironbeast.io
 0.0.0.0 ironforcehack.com
 0.0.0.0 ironhidecheats.com
+0.0.0.0 ironia.ml
 0.0.0.0 irpush.com
 0.0.0.0 irqs.ioam.de
 0.0.0.0 irrhjkuantnaa.bid
@@ -30892,6 +30898,7 @@
 0.0.0.0 jpxevzab.com
 0.0.0.0 jpybcyxyepsc.bid
 0.0.0.0 jq9998.com
+0.0.0.0 jqanygfhqne.com
 0.0.0.0 jqassets.download
 0.0.0.0 jqcdn.download
 0.0.0.0 jqdfakgwsxvccl.bid
@@ -31241,6 +31248,7 @@
 0.0.0.0 jzckyzvlxetror.com
 0.0.0.0 jzekquhmaxrk.com
 0.0.0.0 jzeu6qlk.accountant
+0.0.0.0 jzfzgkepkjcf.com
 0.0.0.0 jzfzjss.com
 0.0.0.0 jzgtnetghdc.com
 0.0.0.0 jzigsobgsmxdmr.bid
@@ -31478,6 +31486,7 @@
 0.0.0.0 kcitwbcc.com
 0.0.0.0 kcjal.com
 0.0.0.0 kcnyhfmowc.com
+0.0.0.0 kcolbda.com
 0.0.0.0 kcqdidtq.bid
 0.0.0.0 kctag.net
 0.0.0.0 kctctour.com
@@ -33211,6 +33220,7 @@
 0.0.0.0 lifenetusa.com
 0.0.0.0 lifepipenewsdaily.com
 0.0.0.0 lifepromo.biz
+0.0.0.0 lifeselector.com
 0.0.0.0 lifestreet.com
 0.0.0.0 lifestyle24h.com
 0.0.0.0 lifestyleagrotech.com
@@ -42366,6 +42376,7 @@
 0.0.0.0 pieterpeach.com
 0.0.0.0 pietexture.com
 0.0.0.0 pifaojvaiofw.com
+0.0.0.0 pifsistcwycouc.com
 0.0.0.0 piggie-chills.000webhostapp.com
 0.0.0.0 piguiqproxy.com
 0.0.0.0 pikepods.com
@@ -47193,6 +47204,7 @@
 0.0.0.0 runvtkk.tel.lv
 0.0.0.0 runwtxeisppmt.com
 0.0.0.0 runzemaoye.com
+0.0.0.0 ruodzaboyf.com
 0.0.0.0 ruovcruc.com
 0.0.0.0 ruoypiedfpov.com
 0.0.0.0 rupanic.webescuela.cl
@@ -54839,6 +54851,7 @@
 0.0.0.0 tqljgkj7qkg69nttemuegf0.review
 0.0.0.0 tqlkg.com
 0.0.0.0 tqlkg.net
+0.0.0.0 tqlypenbt.com
 0.0.0.0 tqmbuying.ml
 0.0.0.0 tqmricveyxphfo.com
 0.0.0.0 tqopkwusf.com
@@ -56300,6 +56313,7 @@
 0.0.0.0 uejuliogarmendia.com
 0.0.0.0 uel-uel-fie.com
 0.0.0.0 uelllwrite.com
+0.0.0.0 uemjnvyn.com
 0.0.0.0 uenpibqyjvim.com
 0.0.0.0 ueosdjscxucj.com
 0.0.0.0 uepsvcyxxrbs.bid
@@ -60145,6 +60159,7 @@
 0.0.0.0 wodipaca.com
 0.0.0.0 wodizapt.com
 0.0.0.0 woetwakv.bid
+0.0.0.0 woghqyjpiwddme.com
 0.0.0.0 wohkamkiyakaregi12.ml
 0.0.0.0 wohuuwfektlppp.bid
 0.0.0.0 woike.download
@@ -61652,6 +61667,7 @@
 0.0.0.0 y.ibsys.com
 0.0.0.0 y.un-technologies.com
 0.0.0.0 y0utube.com.mx
+0.0.0.0 y1jxiqds7v.com
 0.0.0.0 y1xjgfhp.racing
 0.0.0.0 y2rmo576.top
 0.0.0.0 y4k4p54e8nfqvkcalqfk.mbservicesyorkshire.co.uk

@@ -1,8 +1,8 @@
 # easylist-romanian Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://easylist-downloads.adblockplus.org/rolist+easylist.txt
-# Last Converted - 14.09.2018
-# Total Domains - 17527
+# Last Converted - 15.09.2018
+# Total Domains - 17539
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -2776,6 +2776,7 @@
 0.0.0.0 bitterstrawberry.org
 0.0.0.0 bitx.tv
 0.0.0.0 biwjfwhxoy.bid
+0.0.0.0 bixolsoqluvzpu.com
 0.0.0.0 bizanti.youwatch.org
 0.0.0.0 bizfo.co.uk
 0.0.0.0 bizinfoyours.info
@@ -3368,6 +3369,7 @@
 0.0.0.0 cbxqceuuwnaz.com
 0.0.0.0 cbxtnudkklwh.com
 0.0.0.0 cbyjjheawrcfq.com
+0.0.0.0 cbzkrwjdskg.com
 0.0.0.0 cc-dt.com
 0.0.0.0 ccabzumewfk.bid
 0.0.0.0 ccaypkuiauizuh.bid
@@ -5374,6 +5376,7 @@
 0.0.0.0 eqads.com
 0.0.0.0 eqcvisodkvphw.bid
 0.0.0.0 eqegggmtc.com
+0.0.0.0 eqezqqdpjmxbpb.com
 0.0.0.0 eqfgc.com
 0.0.0.0 eqhawyidkdug.com
 0.0.0.0 eqkccjinroye.bid
@@ -6045,6 +6048,7 @@
 0.0.0.0 fpvfeyjrwlio.com
 0.0.0.0 fpzxmdjjpphzc.bid
 0.0.0.0 fqazjwxovxlu.com
+0.0.0.0 fqckdxjgle.com
 0.0.0.0 fqemzrkwuiaq.bid
 0.0.0.0 fqesuuyzhxpz.bid
 0.0.0.0 fqgqosvpodxn.com
@@ -7445,6 +7449,7 @@
 0.0.0.0 idejenmqxhy.bid
 0.0.0.0 idelmxrchrce.com
 0.0.0.0 identads.com
+0.0.0.0 ideprjebdvj.com
 0.0.0.0 idexoro.info
 0.0.0.0 idfybbol.com
 0.0.0.0 idiyejpux.bid
@@ -8235,6 +8240,7 @@
 0.0.0.0 jpwvdpvsmhow.com
 0.0.0.0 jpxevzab.com
 0.0.0.0 jpybcyxyepsc.bid
+0.0.0.0 jqanygfhqne.com
 0.0.0.0 jqdfakgwsxvccl.bid
 0.0.0.0 jqdwgguusof.bid
 0.0.0.0 jqfkitrkhpxl.com
@@ -8451,6 +8457,7 @@
 0.0.0.0 kcgmgnejfp.bid
 0.0.0.0 kcitwbcc.com
 0.0.0.0 kcnyhfmowc.com
+0.0.0.0 kcolbda.com
 0.0.0.0 kcqdidtq.bid
 0.0.0.0 kcwvkoxn.com
 0.0.0.0 kdaskxrcgxhp.com
@@ -9015,6 +9022,7 @@
 0.0.0.0 life.imagepix.org
 0.0.0.0 lifepipenewsdaily.com
 0.0.0.0 lifepromo.biz
+0.0.0.0 lifeselector.com
 0.0.0.0 liftdna.com
 0.0.0.0 ligabklr.com
 0.0.0.0 ligadx.com
@@ -11488,6 +11496,7 @@
 0.0.0.0 pictureturn.com
 0.0.0.0 piercial.com
 0.0.0.0 pifaojvaiofw.com
+0.0.0.0 pifsistcwycouc.com
 0.0.0.0 pikkr.net
 0.0.0.0 piljbvnykkt.bid
 0.0.0.0 pilottere.info
@@ -13133,6 +13142,7 @@
 0.0.0.0 runreproducerow.com
 0.0.0.0 runslin.com
 0.0.0.0 runwtxeisppmt.com
+0.0.0.0 ruodzaboyf.com
 0.0.0.0 ruovcruc.com
 0.0.0.0 ruoypiedfpov.com
 0.0.0.0 ruqckzdjsoe.bid
@@ -14998,6 +15008,7 @@
 0.0.0.0 uejnzoaayhr.com
 0.0.0.0 uel-uel-fie.com
 0.0.0.0 uelllwrite.com
+0.0.0.0 uemjnvyn.com
 0.0.0.0 uenpibqyjvim.com
 0.0.0.0 ueosdjscxucj.com
 0.0.0.0 uepsvcyxxrbs.bid
@@ -16202,6 +16213,7 @@
 0.0.0.0 wodipaca.com
 0.0.0.0 wodizapt.com
 0.0.0.0 woetwakv.bid
+0.0.0.0 woghqyjpiwddme.com
 0.0.0.0 wohuuwfektlppp.bid
 0.0.0.0 wolhopys.bid
 0.0.0.0 wolopiar.com

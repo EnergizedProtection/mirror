@@ -1,8 +1,8 @@
-# adguard-social-filter Custom Hosts Build
+# adguard-social-trackers Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
-# Converted From - https://filters.adtidy.org/extension/chromium/filters/4.txt
+# Converted From - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SocialFilter/sections/social_trackers.txt
 # Last Converted - 15.09.2018
-# Total Domains - 46
+# Total Domains - 42
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -21,16 +21,12 @@
 0.0.0.0 i.po.st
 0.0.0.0 iknopo.ru
 0.0.0.0 img-trkcllcropy.mncdn.com
-0.0.0.0 knopka.fishurl.ru
 0.0.0.0 lessbuttons.com
 0.0.0.0 likebtn.com
 0.0.0.0 linksalpha.com
-0.0.0.0 mailget.net
-0.0.0.0 my.hellobar.com
 0.0.0.0 nwidget.networkedblogs.com
 0.0.0.0 platform.linkedin.com
 0.0.0.0 plusone.google.com
-0.0.0.0 share.baidu.com
 0.0.0.0 share.pluso.ru
 0.0.0.0 share.yandex.net
 0.0.0.0 share.yandex.ru

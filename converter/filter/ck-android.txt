@@ -1,7 +1,7 @@
 # ck-android Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/Android/CK%27s-Android-FilterList.txt
-# Last Converted - 14.09.2018
+# Last Converted - 15.09.2018
 # Total Domains - 1175
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
