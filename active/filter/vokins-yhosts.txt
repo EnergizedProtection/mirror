@@ -1,8 +1,8 @@
 # vokins-yhosts Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/vokins/yhosts/master/hosts
-# Last Converted - 15.09.2018
-# Total Domains - 6637
+# Last Converted - 17.09.2018
+# Total Domains - 6639
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -2021,7 +2021,6 @@
 0.0.0.0 ds-pv.iqu-operation.com
 0.0.0.0 ds.api.baifendian.com
 0.0.0.0 ds.jlbksy.com
-0.0.0.0 ds.missyougame.cn
 0.0.0.0 ds.serving-sys.com
 0.0.0.0 ds10.api.baifendian.com
 0.0.0.0 dsadas.hydp188.com
@@ -2735,7 +2734,6 @@
 0.0.0.0 i.pcbeta.com
 0.0.0.0 i.ssix.io
 0.0.0.0 i.tansuotv.com
-0.0.0.0 i.w.inmobi.com
 0.0.0.0 i.w55c.net
 0.0.0.0 i2.akjunshi.com
 0.0.0.0 i5.akjunshi.com
@@ -3592,6 +3590,7 @@
 0.0.0.0 m.nouaa.com
 0.0.0.0 m.nthtcs.com
 0.0.0.0 m.ntxiangtai.com
+0.0.0.0 m.nuxyz.cn
 0.0.0.0 m.nwxzs.com
 0.0.0.0 m.nxypz.com
 0.0.0.0 m.oesnw.com
@@ -3692,6 +3691,7 @@
 0.0.0.0 m.xmgysweb.com
 0.0.0.0 m.xpjis.com
 0.0.0.0 m.xxkio.com
+0.0.0.0 m.yalayi.com
 0.0.0.0 m.yangjingbang.net
 0.0.0.0 m.ycioo.com
 0.0.0.0 m.yicang8.com
@@ -4148,6 +4148,7 @@
 0.0.0.0 p7.95558000.com
 0.0.0.0 p8.95558000.com
 0.0.0.0 p8u.hinet.net
+0.0.0.0 pad.zhywyl.cn
 0.0.0.0 page.acm.dzwww.com
 0.0.0.0 page.xywy.com
 0.0.0.0 pagead2.googlesyndication.com
@@ -4215,6 +4216,7 @@
 0.0.0.0 pgdt.gtimg.cn
 0.0.0.0 pgdt.ugdtimg.com
 0.0.0.0 ph.qucaigg.com
+0.0.0.0 photo.lyghjzs.cn
 0.0.0.0 photo.qianerbai.cn
 0.0.0.0 photo.shyexiang.cn
 0.0.0.0 photo.xunhuaji.cn

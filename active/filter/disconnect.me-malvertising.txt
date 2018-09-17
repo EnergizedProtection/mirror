@@ -1,8 +1,8 @@
 # disconnect.me-malvertising Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
-# Last Converted - 15.09.2018
-# Total Domains - 2810
+# Last Converted - 17.09.2018
+# Total Domains - 2796
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -31,7 +31,6 @@
 0.0.0.0 360yield.com
 0.0.0.0 365tc.com
 0.0.0.0 384756783900.cn
-0.0.0.0 39m.net
 0.0.0.0 3cinteractive.com
 0.0.0.0 3e1.cn
 0.0.0.0 4affiliate.net
@@ -55,6 +54,7 @@
 0.0.0.0 818tl.com
 0.0.0.0 8883448.com
 0.0.0.0 911718.net
+0.0.0.0 941jz.cn
 0.0.0.0 97boss.com
 0.0.0.0 980media.com
 0.0.0.0 981718.cn
@@ -247,7 +247,6 @@
 0.0.0.0 adflight.com
 0.0.0.0 adforce.com
 0.0.0.0 adform.com
-0.0.0.0 adfrut.cl
 0.0.0.0 adgardener.com
 0.0.0.0 adgoto.com
 0.0.0.0 adgroups.net
@@ -891,7 +890,6 @@
 0.0.0.0 akshatadesigns.in
 0.0.0.0 aktrack.pubmatic.com
 0.0.0.0 akuaba.chez.com
-0.0.0.0 alchenomy.com
 0.0.0.0 alclick.com
 0.0.0.0 alenty.com
 0.0.0.0 alexa-sitestats.s3.amazonaws.com
@@ -943,7 +941,6 @@
 0.0.0.0 arcadebanners.com
 0.0.0.0 ard.xxxblackbook.com
 0.0.0.0 are-ter.com
-0.0.0.0 armazones.com
 0.0.0.0 arouersobesite.free.fr
 0.0.0.0 as.webmd.com
 0.0.0.0 as1.advfn.com
@@ -1301,7 +1298,6 @@
 0.0.0.0 counting.kmindex.ru
 0.0.0.0 counts.tucows.com
 0.0.0.0 coupling-media.de
-0.0.0.0 cpajump.centenr.com
 0.0.0.0 cpalead.com
 0.0.0.0 cpays.com
 0.0.0.0 cpmaffiliation.com
@@ -1557,7 +1553,6 @@
 0.0.0.0 gbanners.hornymatches.com
 0.0.0.0 gclabrelscon.net
 0.0.0.0 gddingtian.com.cn
-0.0.0.0 gdeea.cc
 0.0.0.0 gemius.pl
 0.0.0.0 gen-ever.com
 0.0.0.0 geo.digitalpoint.com
@@ -1568,7 +1563,6 @@
 0.0.0.0 gillingscamps.co.uk
 0.0.0.0 gjysjl.com
 0.0.0.0 globalismedia.com
-0.0.0.0 globalnursesonline.com
 0.0.0.0 globaltakeoff.net
 0.0.0.0 globaltrack.com
 0.0.0.0 globe7.com
@@ -1679,7 +1673,6 @@
 0.0.0.0 ilead.itrack.it
 0.0.0.0 iloopmobile.com
 0.0.0.0 ilovecheating.com
-0.0.0.0 im900.com
 0.0.0.0 imageads.canoe.ca
 0.0.0.0 imagecash.net
 0.0.0.0 images-pw.secureserver.net
@@ -1848,7 +1841,6 @@
 0.0.0.0 madserve.org
 0.0.0.0 madvertise.de
 0.0.0.0 magnetic.com
-0.0.0.0 mail3x.com
 0.0.0.0 malvertisinglistbydisconnect
 0.0.0.0 malware-check.disconnect.me
 0.0.0.0 malware-scan.com
@@ -1856,7 +1848,6 @@
 0.0.0.0 man1234.com
 0.0.0.0 manage.com
 0.0.0.0 mannesoth.com
-0.0.0.0 mans.cnusher.ind.in
 0.0.0.0 maplefarmmedia.com
 0.0.0.0 marchex.com
 0.0.0.0 marco-behrendt.de
@@ -2397,7 +2388,6 @@
 0.0.0.0 sorclan.za.pl
 0.0.0.0 spacash.com
 0.0.0.0 sparkstudios.com
-0.0.0.0 specialistups.com
 0.0.0.0 specificmedia.co.uk
 0.0.0.0 specificpop.com
 0.0.0.0 spezialreporte.de
@@ -2471,7 +2461,6 @@
 0.0.0.0 switchads.com
 0.0.0.0 swordfishdc.com
 0.0.0.0 sympation.com
-0.0.0.0 szdamuzhi.com
 0.0.0.0 sznaucer-figa.nd.e-wro.pl
 0.0.0.0 szzlzn.com
 0.0.0.0 t.insigit.com
@@ -2632,7 +2621,6 @@
 0.0.0.0 urlcash.net
 0.0.0.0 us.a1.yimg.com
 0.0.0.0 usapromotravel.com
-0.0.0.0 user53122.vs.speednames.com
 0.0.0.0 usergrid.com
 0.0.0.0 utarget.co.uk
 0.0.0.0 utils.mediageneral.net
@@ -2739,7 +2727,6 @@
 0.0.0.0 www.kaplanindex.com
 0.0.0.0 www.money4exit.de
 0.0.0.0 www.photo-ads.co.uk
-0.0.0.0 www.qqkabb.com
 0.0.0.0 www.yserch.com
 0.0.0.0 www8.glam.com
 0.0.0.0 wyf003.cn
@@ -2816,4 +2803,3 @@
 0.0.0.0 zintext.com
 0.0.0.0 zmedia.com
 0.0.0.0 zumobi.com
-0.0.0.0 zyjyyy.com

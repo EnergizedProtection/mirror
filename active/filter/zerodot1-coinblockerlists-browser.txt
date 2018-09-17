@@ -1,8 +1,8 @@
 # zerodot1-coinblockerlists-browser Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
-# Last Converted - 15.09.2018
-# Total Domains - 2115
+# Last Converted - 17.09.2018
+# Total Domains - 2113
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -1639,7 +1639,6 @@
 0.0.0.0 www.cryptown.netlify.com
 0.0.0.0 www.darking03.tk
 0.0.0.0 www.darking04.tk
-0.0.0.0 www.darking05.tk
 0.0.0.0 www.darking06.tk
 0.0.0.0 www.darking07.tk
 0.0.0.0 www.darking08.tk
@@ -1878,7 +1877,6 @@
 0.0.0.0 www.realnetwrk.com
 0.0.0.0 www.reasedoper.pw
 0.0.0.0 www.refresh-js.bitbucket.io
-0.0.0.0 www.refreshnerer27.info
 0.0.0.0 www.refreshnerer27rb.info
 0.0.0.0 www.refunevent.com
 0.0.0.0 www.rencohep.com

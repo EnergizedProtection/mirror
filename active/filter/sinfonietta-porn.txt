@@ -1,8 +1,8 @@
 # sinfonietta-porn Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/pornography-hosts
-# Last Converted - 15.09.2018
-# Total Domains - 5996
+# Last Converted - 17.09.2018
+# Total Domains - 5995
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -884,7 +884,6 @@
 0.0.0.0 celebsroulette.com
 0.0.0.0 celebsuncensored.com
 0.0.0.0 celebtaboo.com
-0.0.0.0 cesky-sex.cz
 0.0.0.0 cfnmidol.com
 0.0.0.0 cgi.sexlist.com
 0.0.0.0 cgi1.sexlist.com

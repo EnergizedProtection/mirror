@@ -1,8 +1,8 @@
 # cameleon Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - http://sysctl.org/cameleon/hosts
-# Last Converted - 15.09.2018
-# Total Domains - 19393
+# Last Converted - 17.09.2018
+# Total Domains - 19388
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -6919,7 +6919,6 @@
 0.0.0.0 banner.date.com
 0.0.0.0 banner.e2ads.com
 0.0.0.0 banner.easyspace.com
-0.0.0.0 banner.euroads.no
 0.0.0.0 banner.eurogrand.com
 0.0.0.0 banner.europacasino.com
 0.0.0.0 banner.finn.no
@@ -9004,7 +9003,6 @@
 0.0.0.0 cdn1.adspace.4tube.com
 0.0.0.0 cdn1.clkoffers.com
 0.0.0.0 cdn1.clkrev.com
-0.0.0.0 cdn1.skinected.com
 0.0.0.0 cdn1.smartadserver.com
 0.0.0.0 cdn1.steelhousemedia.com
 0.0.0.0 cdn1.telemetryverification.net
@@ -11964,7 +11962,6 @@
 0.0.0.0 imp.affiliator.com
 0.0.0.0 imp.clickability.com
 0.0.0.0 imp.double.net
-0.0.0.0 imp.euroads.no
 0.0.0.0 imp.tradedoubler.com
 0.0.0.0 impactwrestling.us.intellitxt.com
 0.0.0.0 impat.tradedoubler.com
@@ -14444,7 +14441,6 @@
 0.0.0.0 pool.adhsm.adhese.com
 0.0.0.0 pool.admedo.com
 0.0.0.0 pool.ads.netlog.com
-0.0.0.0 pool.euroads.no
 0.0.0.0 pool.nrc.adhese.com
 0.0.0.0 pool.pebblemedia.adhese.com
 0.0.0.0 pool.persgroep.adhese.com
@@ -16255,7 +16251,6 @@
 0.0.0.0 syndication.jsadapi.com
 0.0.0.0 syndication.traffichaus.com
 0.0.0.0 syndication.trafficreps.com
-0.0.0.0 system.adquick.nl
 0.0.0.0 sz.met.vgwort.de
 0.0.0.0 t-ads.adap.tv
 0.0.0.0 t.254a.com

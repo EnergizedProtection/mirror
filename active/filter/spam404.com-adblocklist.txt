@@ -1,8 +1,8 @@
 # spam404.com-adblocklist Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/spam404-ad.txt
-# Last Converted - 15.09.2018
-# Total Domains - 3381
+# Last Converted - 17.09.2018
+# Total Domains - 3371
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -531,7 +531,6 @@
 0.0.0.0 cracker-nation.com
 0.0.0.0 crackernapper.com
 0.0.0.0 crackfulldownload.com
-0.0.0.0 crackhackkey.com
 0.0.0.0 cracking-world.com
 0.0.0.0 crackkeygengame.com
 0.0.0.0 cracks-serials.com
@@ -795,7 +794,6 @@
 0.0.0.0 doppler-roulette.com
 0.0.0.0 dota-dream.com
 0.0.0.0 dota-spin.com
-0.0.0.0 dota2-exchanger.online
 0.0.0.0 dota2.money
 0.0.0.0 dota2eta.com
 0.0.0.0 dota2exchange.online
@@ -1091,7 +1089,6 @@
 0.0.0.0 filelandworld.com
 0.0.0.0 filelinking.com
 0.0.0.0 fileme.us
-0.0.0.0 filemeweb.com
 0.0.0.0 fileml.com
 0.0.0.0 filemy.net
 0.0.0.0 filenix.com
@@ -1166,7 +1163,6 @@
 0.0.0.0 flixaddict.com
 0.0.0.0 flmtelechargers.com
 0.0.0.0 flstudioflp.com
-0.0.0.0 flycash.org
 0.0.0.0 flyextensions.com
 0.0.0.0 focusfile.com
 0.0.0.0 foldertube.com
@@ -1528,7 +1524,6 @@
 0.0.0.0 gemsclashofclans.com
 0.0.0.0 generaldownload.com
 0.0.0.0 generateurdecodepsn.com
-0.0.0.0 generateursgratuit.com
 0.0.0.0 generatorcoders.com
 0.0.0.0 generatorhacks.com
 0.0.0.0 generatorpad.com
@@ -1583,7 +1578,6 @@
 0.0.0.0 giftcodes.online
 0.0.0.0 giftcodes4u.com
 0.0.0.0 giftsforpoints.info
-0.0.0.0 gigup.pl
 0.0.0.0 giredo.com
 0.0.0.0 gitmovies.com
 0.0.0.0 give-aways.net
@@ -1674,7 +1668,6 @@
 0.0.0.0 gta5moneyglitch.org
 0.0.0.0 gta5moneyhackonline.com
 0.0.0.0 gta5moneyserver.com
-0.0.0.0 gta5onlinednscodes.club
 0.0.0.0 gta5onlinedownload.com
 0.0.0.0 gta5onlinehack.net
 0.0.0.0 gta5onlinemoneygenerator.com
@@ -2155,7 +2148,6 @@
 0.0.0.0 loungeskins.com
 0.0.0.0 loveling.info
 0.0.0.0 loxtk.com
-0.0.0.0 lucky-loot.com
 0.0.0.0 luckybox.pro
 0.0.0.0 luckygamehack.in
 0.0.0.0 luckyhack.com
@@ -3200,7 +3192,6 @@
 0.0.0.0 viperscase.com
 0.0.0.0 viphacks.net
 0.0.0.0 viphackscracked.org
-0.0.0.0 viral-videos-2014.com
 0.0.0.0 viral-videos.xyz
 0.0.0.0 viralgag.net
 0.0.0.0 viralvids.info
@@ -3244,7 +3235,6 @@
 0.0.0.0 wewgaming.com
 0.0.0.0 whatsapp-app.com
 0.0.0.0 whatsappcl.com
-0.0.0.0 whatsapphack.biz
 0.0.0.0 whatsapphack.com
 0.0.0.0 whatsapphack.info
 0.0.0.0 whatsapphacktool.net

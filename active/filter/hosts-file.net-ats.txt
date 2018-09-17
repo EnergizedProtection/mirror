@@ -1,8 +1,8 @@
 # hosts-file.net-ats Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://hosts-file.net/ad_servers.txt
-# Last Converted - 15.09.2018
-# Total Domains - 44136
+# Last Converted - 17.09.2018
+# Total Domains - 44130
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -19545,7 +19545,6 @@
 0.0.0.0 banner.elisa.net
 0.0.0.0 banner.eresmas.com
 0.0.0.0 banner.ero-advertising.com
-0.0.0.0 banner.euroads.no
 0.0.0.0 banner.eurogrand.com
 0.0.0.0 banner.europacasino.com
 0.0.0.0 banner.everestpoker.com
@@ -22420,7 +22419,6 @@
 0.0.0.0 cdn1.kovla.com
 0.0.0.0 cdn1.psdvault.com
 0.0.0.0 cdn1.rhtag.com
-0.0.0.0 cdn1.skinected.com
 0.0.0.0 cdn1.smartadserver.com
 0.0.0.0 cdn1.srv.revdepo.com
 0.0.0.0 cdn1.tags1.revdepo.com
@@ -24570,7 +24568,6 @@
 0.0.0.0 crd1.bannerbank.ru
 0.0.0.0 creafi.com
 0.0.0.0 create.leadid.com
-0.0.0.0 createsend.com
 0.0.0.0 createsend1.com
 0.0.0.0 createsend3.com
 0.0.0.0 createsend4.com
@@ -24823,7 +24820,6 @@
 0.0.0.0 d21o24qxwf7uku.cloudfront.net
 0.0.0.0 d23guct4biwna6.cloudfront.net
 0.0.0.0 d23p9gffjvre9v.cloudfront.net
-0.0.0.0 d27jt7xr4fq3e8.cloudfront.net
 0.0.0.0 d28ethi6slcjbm.cloudfront.net
 0.0.0.0 d29gqcij.com
 0.0.0.0 d29p64779x43zo.cloudfront.net
@@ -28247,7 +28243,6 @@
 0.0.0.0 i.tapit.com
 0.0.0.0 i.txtsrving.info
 0.0.0.0 i.verticalresponse.com
-0.0.0.0 i.w.inmobi.com
 0.0.0.0 i.w55c.net
 0.0.0.0 i.walla.co.il
 0.0.0.0 i.wifi-x.co.uk
@@ -41695,7 +41690,6 @@
 0.0.0.0 www.cpxinteractive.com
 0.0.0.0 www.cqcounter.com
 0.0.0.0 www.crabbierfnffe.download
-0.0.0.0 www.createsend.com
 0.0.0.0 www.creative-mobile.com
 0.0.0.0 www.creoads.com
 0.0.0.0 www.cringersredtdw.download

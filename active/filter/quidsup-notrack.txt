@@ -1,8 +1,8 @@
 # quidsup-notrack Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/quidsup/notrack/master/trackers.txt
-# Last Converted - 15.09.2018
-# Total Domains - 13424
+# Last Converted - 17.09.2018
+# Total Domains - 13422
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -1020,7 +1020,6 @@
 0.0.0.0 crazyegg.com
 0.0.0.0 crealytics.com
 0.0.0.0 createabetterinternet.com
-0.0.0.0 createsend.com
 0.0.0.0 createsend.email
 0.0.0.0 createsend.gallery
 0.0.0.0 createsend.help
@@ -1378,7 +1377,6 @@
 0.0.0.0 euroads.dk
 0.0.0.0 euroads.es
 0.0.0.0 euroads.fi
-0.0.0.0 euroads.no
 0.0.0.0 euroads.se
 0.0.0.0 eventcapture03.com
 0.0.0.0 eventcapture06.com

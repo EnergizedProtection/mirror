@@ -1,8 +1,8 @@
 # cybercrime Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://v.firebog.net/hosts/Cybercrime.txt
-# Last Converted - 15.09.2018
-# Total Domains - 4951
+# Last Converted - 17.09.2018
+# Total Domains - 4972
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -686,6 +686,7 @@
 0.0.0.0 cekyatkanepemobilyatamiri.com
 0.0.0.0 celenit-idiomas.com.br
 0.0.0.0 celitel2.com
+0.0.0.0 cellimark.com
 0.0.0.0 cellinis.net.au
 0.0.0.0 cemeterystories.net
 0.0.0.0 central.pk
@@ -772,6 +773,7 @@
 0.0.0.0 cmbonline.in
 0.0.0.0 cme.z2hospital.com
 0.0.0.0 cms-shipping.com
+0.0.0.0 cn-list.info
 0.0.0.0 cn-people.org
 0.0.0.0 cn09435.tmweb.ru
 0.0.0.0 cng-europ.com
@@ -953,6 +955,7 @@
 0.0.0.0 deamonscentral.no-ip.info
 0.0.0.0 deedasp.ml
 0.0.0.0 deeptin.ga
+0.0.0.0 degea.ga
 0.0.0.0 dehebin.ru
 0.0.0.0 deips.com
 0.0.0.0 deluxearmy.pw
@@ -1157,6 +1160,7 @@
 0.0.0.0 elowpuki.com
 0.0.0.0 elppete.ir
 0.0.0.0 elysium-inc.info
+0.0.0.0 emackgranite.com
 0.0.0.0 email-invoice.info
 0.0.0.0 emailsclient.com
 0.0.0.0 emakgroup.de
@@ -1263,6 +1267,7 @@
 0.0.0.0 eyota.com.sg
 0.0.0.0 eze-bizz.info
 0.0.0.0 ezratyu.gdn
+0.0.0.0 f-sholding.com
 0.0.0.0 f0182637.xsph.ru
 0.0.0.0 f100h.com
 0.0.0.0 facbereau.tk
@@ -1551,8 +1556,10 @@
 0.0.0.0 gratefulsoulssa.com
 0.0.0.0 greatfriendsteam.tech
 0.0.0.0 greenb0t.beget.tech
+0.0.0.0 greenboost.zzz.com.ua
 0.0.0.0 greendos.net
 0.0.0.0 greenfieldfertilizers.com
+0.0.0.0 greenfleld.com
 0.0.0.0 greenlite.com.sg
 0.0.0.0 greenoasis-int.com
 0.0.0.0 greentreee.com
@@ -1708,6 +1715,7 @@
 0.0.0.0 hoststaff.freeiz.com
 0.0.0.0 hostxxxs.com
 0.0.0.0 hotbest-apps.com
+0.0.0.0 hotbloggerslab.usa.cc
 0.0.0.0 hotelesdealtura.com
 0.0.0.0 hotelexcelsior.com.np
 0.0.0.0 hotelpami.com
@@ -1772,6 +1780,7 @@
 0.0.0.0 iiltd.ru
 0.0.0.0 ijabosspanel.tk
 0.0.0.0 ijapersonal.ga
+0.0.0.0 ijelevine.ru
 0.0.0.0 ijitm.com
 0.0.0.0 ike.kenal-cn.com
 0.0.0.0 ike.medai-gruop.com
@@ -2033,6 +2042,7 @@
 0.0.0.0 kingkongtue.club
 0.0.0.0 kingmullerdcib.org
 0.0.0.0 kingtools.no-ip.biz
+0.0.0.0 kingwolrdtyre.com
 0.0.0.0 kioskcantinhodaroca.com.br
 0.0.0.0 kirkuc.com
 0.0.0.0 kisar.co.in
@@ -2146,6 +2156,7 @@
 0.0.0.0 leaveitproject.com
 0.0.0.0 ledelectronics.cn
 0.0.0.0 ledpromotions.com.au
+0.0.0.0 ledteroptyi.xyz
 0.0.0.0 leeshenq.com
 0.0.0.0 leftover.hostoi.com
 0.0.0.0 legalpropiedad.cl
@@ -2294,6 +2305,7 @@
 0.0.0.0 magic3.ml
 0.0.0.0 magic4.ml
 0.0.0.0 magtech.ml
+0.0.0.0 mahkotamaju.com
 0.0.0.0 mail-account-update.publicvm.com
 0.0.0.0 mail.accessoiriesindia.com
 0.0.0.0 mail.ahcindia.com
@@ -2605,6 +2617,7 @@
 0.0.0.0 newlogs.hi2.ro
 0.0.0.0 newposter4season.pw
 0.0.0.0 newprotiles.com
+0.0.0.0 news.intertours.org.rs
 0.0.0.0 news.quenerabh.net
 0.0.0.0 newskyinternational.com
 0.0.0.0 newskyspaces.us
@@ -2956,6 +2969,7 @@
 0.0.0.0 portal.baixadaon.com.br
 0.0.0.0 portaldfm.com.br
 0.0.0.0 portbillingcircusnavaiganata.ml
+0.0.0.0 portlovers.usa.cc
 0.0.0.0 pos.cu.cc
 0.0.0.0 posalive.su
 0.0.0.0 poster.adexcel.co
@@ -3273,6 +3287,7 @@
 0.0.0.0 seler.cc
 0.0.0.0 sellychukwu.ru
 0.0.0.0 selo02.ru
+0.0.0.0 semaprin.info
 0.0.0.0 seml.com.pk
 0.0.0.0 semmelroth.info
 0.0.0.0 semtestcraiova.ro
@@ -3294,6 +3309,7 @@
 0.0.0.0 server4mathg.tk
 0.0.0.0 service-advise.com
 0.0.0.0 service-checker.store
+0.0.0.0 service-mkjfts.com
 0.0.0.0 service-us.ml
 0.0.0.0 serviceinfo.se.funpic.de
 0.0.0.0 servicioylogistica.com
@@ -3341,6 +3357,7 @@
 0.0.0.0 si.no-ip.biz
 0.0.0.0 siazigi.biz
 0.0.0.0 sicc-italia.cf
+0.0.0.0 sierracontrol.club
 0.0.0.0 sierradrift.net46.net
 0.0.0.0 sightgivers.org
 0.0.0.0 signfact.ml
@@ -3938,6 +3955,7 @@
 0.0.0.0 veeam.su
 0.0.0.0 vegantravelshow.com
 0.0.0.0 veige.net
+0.0.0.0 veilamen.com
 0.0.0.0 venom.0xhost.net
 0.0.0.0 ventasmisotrolstgo.cl
 0.0.0.0 venzaguy1.comxa.com
@@ -4011,11 +4029,13 @@
 0.0.0.0 volunteerworksydney.org.au
 0.0.0.0 vopspyder.website
 0.0.0.0 voxpanama.com
+0.0.0.0 vpnserver.sytes.net
 0.0.0.0 vpsamazon.com
 0.0.0.0 vrglongthanh.com.vn
 0.0.0.0 vrouwenvoorfctwente.nl
 0.0.0.0 vsama.com
 0.0.0.0 vsd1.net
+0.0.0.0 vthingsure.gq
 0.0.0.0 vueprivee.com
 0.0.0.0 vxml4.delacon.com.au
 0.0.0.0 vystah.com
@@ -4888,6 +4908,7 @@
 0.0.0.0 yatupaints.com
 0.0.0.0 yellatthemz.com
 0.0.0.0 yelogmahtma.com
+0.0.0.0 yemuraichahuruva.com
 0.0.0.0 yenisatis.com
 0.0.0.0 yeniyildirimkargo.com.tr
 0.0.0.0 yg.kenal-cn.com

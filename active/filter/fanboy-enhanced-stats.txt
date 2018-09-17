@@ -1,8 +1,8 @@
 # fanboy-enhanced-stats Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/fanboy-enhanced-stats.txt
-# Last Converted - 15.09.2018
-# Total Domains - 94
+# Last Converted - 17.09.2018
+# Total Domains - 93
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -29,7 +29,6 @@
 0.0.0.0 fairblocker.com
 0.0.0.0 freestat.hu
 0.0.0.0 geo.query.yahoo.com
-0.0.0.0 global.ssl.fastly.net
 0.0.0.0 google-analytics.com
 0.0.0.0 hitcount.de
 0.0.0.0 hitpage.de

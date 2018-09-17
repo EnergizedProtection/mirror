@@ -1,8 +1,8 @@
 # anudeep-coinminer Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt
-# Last Converted - 15.09.2018
-# Total Domains - 1386
+# Last Converted - 17.09.2018
+# Total Domains - 1354
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -99,7 +99,6 @@
 0.0.0.0 buhxsaifjxupaj.com
 0.0.0.0 buitxcrnucyi.com
 0.0.0.0 bvrkzhtxlgono.com
-0.0.0.0 bvyoekxfjwpa.com
 0.0.0.0 bwoefrhtycp.com
 0.0.0.0 bwssvome.com
 0.0.0.0 bxexufifrsfr.com
@@ -113,7 +112,6 @@
 0.0.0.0 cdn.rocks.io
 0.0.0.0 cesxssavc.com
 0.0.0.0 cfyvrgvopaejx.com
-0.0.0.0 cgjyesqhxzzm.com
 0.0.0.0 chc.suprnova.cc
 0.0.0.0 cirkev.bitcoin.cz
 0.0.0.0 ckfctuaga.com
@@ -285,7 +283,6 @@
 0.0.0.0 fatayvywbebgdn.com
 0.0.0.0 fbafbbujy.com
 0.0.0.0 fdbqwtqdgcsceh.com
-0.0.0.0 fddbdlolkxgc.com
 0.0.0.0 fdvmskmentjob.com
 0.0.0.0 feathercoin.miningpoolhub.com
 0.0.0.0 feedback.poolmining.org
@@ -351,7 +348,6 @@
 0.0.0.0 giyjhogjmfmc.com
 0.0.0.0 gjikkwtrstaku.com
 0.0.0.0 gkiqlocbirh.com
-0.0.0.0 gkvhfryrramj.com
 0.0.0.0 globalboosty.miningpoolhub.com
 0.0.0.0 gmc.suprnova.cc
 0.0.0.0 gncfttutoiwwq.com
@@ -452,12 +448,9 @@
 0.0.0.0 irbkobqlrbtt.com
 0.0.0.0 irc.minemonero.pro
 0.0.0.0 irtxsagfqrg.com
-0.0.0.0 itbiwlsxtigx.com
-0.0.0.0 iupqelechcmj.com
 0.0.0.0 iwanttoearn.money
 0.0.0.0 iygdvith.com
 0.0.0.0 izmwtewwobxy.com
-0.0.0.0 jabcdkwmwnek.com
 0.0.0.0 jackpotcoin.miningpoolhub.com
 0.0.0.0 jaxmbkhyr.com
 0.0.0.0 jboovenoenkh.com
@@ -578,7 +571,6 @@
 0.0.0.0 lwyjxvbcjkstxy.com
 0.0.0.0 lxcfaekywx.com
 0.0.0.0 lyygeitghavmm.com
-0.0.0.0 lzfvonzwjzhz.com
 0.0.0.0 m.bitcoin.cz
 0.0.0.0 map.bitcoin-russia.ru
 0.0.0.0 mavmlkzt.com
@@ -642,7 +634,6 @@
 0.0.0.0 mspaimzv.com
 0.0.0.0 msrwoxdkffcl.com
 0.0.0.0 mtbnqoixmb.com
-0.0.0.0 mtbsdhzpikjt.com
 0.0.0.0 mtklywkg.com
 0.0.0.0 mttyfwtvyumc.com
 0.0.0.0 multicoin.eu
@@ -685,7 +676,6 @@
 0.0.0.0 nodes.bitcoin-russia.ru
 0.0.0.0 nofoxnalt.com
 0.0.0.0 nunmnrbjrbsac.com
-0.0.0.0 nvqsjdvgqnyk.com
 0.0.0.0 nxcxithvcoeh.com
 0.0.0.0 ny1.minez.zone
 0.0.0.0 oaqwxxjhwpyxjd.com
@@ -704,7 +694,6 @@
 0.0.0.0 olthlikechgq.com
 0.0.0.0 olxeziuke.com
 0.0.0.0 ongkidcasarv.com
-0.0.0.0 onvhilwrqdgd.com
 0.0.0.0 ooakwpvbxym.com
 0.0.0.0 oqfoiwjwysbffe.com
 0.0.0.0 osanmeijvqh.com
@@ -954,7 +943,6 @@
 0.0.0.0 thjuvpgdmjj.com
 0.0.0.0 thpsflsjw.com
 0.0.0.0 thumb.pr0gramm.com
-0.0.0.0 tiswsdusmdig.com
 0.0.0.0 tivbpmwvqyyrjc.com
 0.0.0.0 tixzeybm.com
 0.0.0.0 tlfloruou.com
@@ -1064,7 +1052,6 @@
 0.0.0.0 wjkwjcmeymu.com
 0.0.0.0 wkmuxmlk.com
 0.0.0.0 wllxevmlsutfpx.com
-0.0.0.0 wluzajogsxoy.com
 0.0.0.0 wlzohrpjbuq.com
 0.0.0.0 wmxeexfle.com
 0.0.0.0 wo15.coinhive.com
@@ -1307,9 +1294,7 @@
 0.0.0.0 xqrjfouxkrs.com
 0.0.0.0 xsztfrlkphqy.com
 0.0.0.0 xtmuasvldoiz.com
-0.0.0.0 xtozxivyaaex.com
 0.0.0.0 xugnzawkrkvu.com
-0.0.0.0 xwufohrjmvjy.com
 0.0.0.0 xxrniridsnzr.com
 0.0.0.0 xycpjxkkkim.com
 0.0.0.0 xyfrnfoijncmu.com
@@ -1321,31 +1306,22 @@
 0.0.0.0 ybrjldiexlqb.com
 0.0.0.0 yfgietsfti.com
 0.0.0.0 ygyymhfstzuen.com
-0.0.0.0 yhglrmvdxmxm.com
 0.0.0.0 yikkagezqsob.com
 0.0.0.0 yiklmnmijwlryv.com
-0.0.0.0 yjsshralziws.com
-0.0.0.0 ykaonbmjjmyi.com
 0.0.0.0 ykdmtvowoinv.com
-0.0.0.0 ykqpbuqpfjsh.com
 0.0.0.0 ylmnpenjdn.com
 0.0.0.0 ynewcdjtop.com
 0.0.0.0 yogkshigsy.com
 0.0.0.0 yojxoefvnyrc.com
-0.0.0.0 yqhgbmyfiomx.com
 0.0.0.0 yqqxrfhtgcbxz.com
 0.0.0.0 yrgnouqinylg.com
 0.0.0.0 yrxhmallcirx.com
 0.0.0.0 ysdxcrighudjmw.com
 0.0.0.0 yuywwcizs.com
-0.0.0.0 ywxjbwauqznf.com
-0.0.0.0 yxpkzxyajjan.com
 0.0.0.0 yzlwuuzzehjh.com
 0.0.0.0 yzreywobobmw.com
 0.0.0.0 zabbix.minemonero.pro
 0.0.0.0 zavfvuooiqvepj.com
-0.0.0.0 zawvukyxyfmi.com
-0.0.0.0 zbihwbypkany.com
 0.0.0.0 zbmuqkejcfww.com
 0.0.0.0 zcash.deltapool.net
 0.0.0.0 zcash.miningpoolhub.com
@@ -1357,7 +1333,6 @@
 0.0.0.0 zclxwzegqslr.com
 0.0.0.0 zcoin.miningpoolhub.com
 0.0.0.0 zdash.suprnova.cc
-0.0.0.0 zdqsrdamdgmn.com
 0.0.0.0 zec-apac.suprnova.cc
 0.0.0.0 zec-api.suprnova.cc
 0.0.0.0 zec-cn1.dwarfpool.com
@@ -1375,16 +1350,9 @@
 0.0.0.0 zhqzqupvgczom.com
 0.0.0.0 ziaxamkssw.com
 0.0.0.0 ziglpcxcxetsi.com
-0.0.0.0 zijnobynjmcs.com
-0.0.0.0 zjgbpjmqfaow.com
-0.0.0.0 zkezpfdfnthb.com
 0.0.0.0 znnmzggbw.com
-0.0.0.0 zowhxkwzjpta.com
 0.0.0.0 zpfjfwbij.com
-0.0.0.0 zprrfpczfpnh.com
 0.0.0.0 zpzsdmpvqudhsz.com
-0.0.0.0 zrbhyvkpgeyn.com
-0.0.0.0 zrufclmvlsct.com
 0.0.0.0 zrzgnzel.com
 0.0.0.0 zslembevfypr.com
 0.0.0.0 zsxlpdtnyyau.com

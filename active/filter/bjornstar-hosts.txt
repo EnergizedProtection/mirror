@@ -1,8 +1,8 @@
 # bjornstar-hosts Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/bjornstar/hosts/master/hosts
-# Last Converted - 15.09.2018
-# Total Domains - 5353
+# Last Converted - 17.09.2018
+# Total Domains - 5354
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -689,6 +689,7 @@
 0.0.0.0 areasnap.com
 0.0.0.0 arecio.work
 0.0.0.0 arena.altitude-arena.com
+0.0.0.0 arrassley.info
 0.0.0.0 as.casalemedia.com
 0.0.0.0 as.ebz.io
 0.0.0.0 as.eu.angsrvr.com

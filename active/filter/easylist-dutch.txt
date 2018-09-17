@@ -1,8 +1,8 @@
 # easylist-dutch Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easylist-dutch.txt
-# Last Converted - 15.09.2018
-# Total Domains - 83
+# Last Converted - 17.09.2018
+# Total Domains - 82
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -73,7 +73,6 @@
 0.0.0.0 sponsorportaal.nl
 0.0.0.0 stkdx.com
 0.0.0.0 sxad.nl
-0.0.0.0 system.adquick.nl
 0.0.0.0 tel.adversitement.nl
 0.0.0.0 ti.tradetracker.nl
 0.0.0.0 tools.islive.nl

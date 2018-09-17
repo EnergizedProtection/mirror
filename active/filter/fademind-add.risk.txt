@@ -1,8 +1,8 @@
 # fademind-add.risk Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
-# Last Converted - 15.09.2018
-# Total Domains - 2798
+# Last Converted - 17.09.2018
+# Total Domains - 2797
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -615,7 +615,6 @@
 0.0.0.0 favicon.com
 0.0.0.0 fb.cashtraffic.com
 0.0.0.0 fecabook.redirectme.net
-0.0.0.0 federatedstores.com
 0.0.0.0 federicksofhollywood.com
 0.0.0.0 feeds.videosz.com
 0.0.0.0 feedx.bidsystem.com

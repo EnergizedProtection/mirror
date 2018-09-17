@@ -1,8 +1,8 @@
 # adaway.org Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://adaway.org/hosts.txt
-# Last Converted - 15.09.2018
-# Total Domains - 180
+# Last Converted - 17.09.2018
+# Total Domains - 179
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -109,7 +109,6 @@
 0.0.0.0 html5adkit.plusmo.s3.amazonaws.com
 0.0.0.0 hybl9bazbc35.pflexads.com
 0.0.0.0 i.tapit.com
-0.0.0.0 i.w.inmobi.com
 0.0.0.0 iacpromotion.s3.amazonaws.com
 0.0.0.0 im2.smartadserver.com
 0.0.0.0 images.millennialmedia.com

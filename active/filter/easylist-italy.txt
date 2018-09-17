@@ -1,8 +1,8 @@
 # easylist-italy Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easylist-italy.txt
-# Last Converted - 15.09.2018
-# Total Domains - 200
+# Last Converted - 17.09.2018
+# Total Domains - 199
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -70,7 +70,6 @@
 0.0.0.0 coreg-feed.com
 0.0.0.0 creativita.gsf.rcs.it
 0.0.0.0 crmpilot.it
-0.0.0.0 d1a6pzosbglc5p.cloudfront.net
 0.0.0.0 d1oaxhr280l1ho.cloudfront.net
 0.0.0.0 d1yhzddoi8ev99.cloudfront.net
 0.0.0.0 d2moz0h55szev9.cloudfront.net

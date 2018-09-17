@@ -1,8 +1,8 @@
 # phishing-hosts Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://gitlab.com/Kurobeats/phishing_hosts/raw/master/hosts
-# Last Converted - 15.09.2018
-# Total Domains - 772
+# Last Converted - 17.09.2018
+# Total Domains - 771
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -163,7 +163,6 @@
 0.0.0.0 distribuidoraonix2015.com.ve
 0.0.0.0 diversediets.com
 0.0.0.0 dockleng.com
-0.0.0.0 docusignuionveris.gq
 0.0.0.0 doibbzrqjrcrgmqqpes7.rozan4clerk.com
 0.0.0.0 dreammysteries.eu
 0.0.0.0 driest-warranty.000webhostapp.com

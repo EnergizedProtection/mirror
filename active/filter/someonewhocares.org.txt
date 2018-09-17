@@ -1,8 +1,8 @@
 # someonewhocares.org Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - http://someonewhocares.org/hosts/hosts
-# Last Converted - 15.09.2018
-# Total Domains - 8393
+# Last Converted - 17.09.2018
+# Total Domains - 8390
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -161,7 +161,6 @@
 0.0.0.0 ac.rnm.ca
 0.0.0.0 ac.tynt.com
 0.0.0.0 acces.streaming-direct.co
-0.0.0.0 accountprotection.xyz
 0.0.0.0 acglgoa.com
 0.0.0.0 achetezfacile.com
 0.0.0.0 aclick.adhoc2.net
@@ -1970,7 +1969,6 @@
 0.0.0.0 benimreklam.com
 0.0.0.0 best2017games.com
 0.0.0.0 bestadbid.com
-0.0.0.0 bestreview.site
 0.0.0.0 bestshockers.com
 0.0.0.0 bet-at-home.com
 0.0.0.0 beta.easy-hit-counters.com
@@ -2929,7 +2927,6 @@
 0.0.0.0 digitalhomediscountptyltd.122.2o7.net
 0.0.0.0 digitaltrends.us.intellitxt.com
 0.0.0.0 dinsalgsvagt.adservinginternational.com
-0.0.0.0 dir.opank.com
 0.0.0.0 directads.mcafee.com
 0.0.0.0 directleads.com
 0.0.0.0 directrev.cloudapp.net
@@ -3304,7 +3301,6 @@
 0.0.0.0 esg.hitbox.com
 0.0.0.0 etahub.com
 0.0.0.0 ethpolice.com
-0.0.0.0 etr-interac.com
 0.0.0.0 etrk.asus.com
 0.0.0.0 eu-gmtdmp.gd1.mookie1.com
 0.0.0.0 eu-pn4.adserver.yahoo.com
@@ -3932,7 +3928,6 @@
 0.0.0.0 i.static.zaplata.bg
 0.0.0.0 i.track112.site
 0.0.0.0 i.trkjmp.com
-0.0.0.0 i.w.inmobi.com
 0.0.0.0 i1.teaser-goods.ru
 0.0.0.0 i4track.net
 0.0.0.0 iad.anm.co.uk
@@ -4793,6 +4788,7 @@
 0.0.0.0 mobile9.us.intellitxt.com
 0.0.0.0 mobileads.msn.com
 0.0.0.0 mobileanalytics.us-east-1.amazonaws.com
+0.0.0.0 mobileleads.msn.com
 0.0.0.0 mobpushup.com
 0.0.0.0 mobrevflwms.com
 0.0.0.0 mobscan.info
@@ -8216,6 +8212,7 @@
 0.0.0.0 www2.adserverpub.com
 0.0.0.0 www2.counter.bloke.com
 0.0.0.0 www2.doslectionflash.icu
+0.0.0.0 www2.fasterupconcreteflash.icu
 0.0.0.0 www2.glam.com
 0.0.0.0 www2.gorillavid.in
 0.0.0.0 www2.pagecount.com

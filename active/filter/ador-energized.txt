@@ -1,8 +1,8 @@
 # ador-energized Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
-# Last Converted - 15.09.2018
-# Total Domains - 8167
+# Last Converted - 17.09.2018
+# Total Domains - 8173
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -110,8 +110,6 @@
 0.0.0.0 883.engine.mobileapptracking.com
 0.0.0.0 888casino.com
 0.0.0.0 888media.net
-0.0.0.0 app3326.take-your-prize22.life
-0.0.0.0 take-your-prize22.life
 0.0.0.0 8c.video-ak.cdn.spotify.com
 0.0.0.0 90.video-ak.cdn.spotify.com
 0.0.0.0 91support.com
@@ -1342,6 +1340,7 @@
 0.0.0.0 anime.reactor.cc
 0.0.0.0 anners.ero-advertising.com
 0.0.0.0 annualconsumersurvey.com
+0.0.0.0 antinuef.info
 0.0.0.0 antivirus-help.com
 0.0.0.0 antivirus-mobile.club
 0.0.0.0 antivirus-new.com
@@ -1601,6 +1600,7 @@
 0.0.0.0 argyresthia.com
 0.0.0.0 ariseboundary.com
 0.0.0.0 arkonziv.com
+0.0.0.0 arrassley.info
 0.0.0.0 arshika.com
 0.0.0.0 artamarketing.com
 0.0.0.0 artulenia.com
@@ -2538,6 +2538,7 @@
 0.0.0.0 cpu2cash.link
 0.0.0.0 cpxinteractive.com
 0.0.0.0 crabbychin.com
+0.0.0.0 crapads.com
 0.0.0.0 crash-stats.mozilla.org
 0.0.0.0 crashdump.spotify.com
 0.0.0.0 crasheye.cn
@@ -2573,6 +2574,7 @@
 0.0.0.0 crownclam.com
 0.0.0.0 crp-concursos.com
 0.0.0.0 crrepo.com
+0.0.0.0 crtmatix.com
 0.0.0.0 cruyff.alphonso.tv
 0.0.0.0 crwdcntrl.net
 0.0.0.0 crypto-loot.com
@@ -2616,6 +2618,7 @@
 0.0.0.0 cxad.cxense.com
 0.0.0.0 cydia.saurik.com.cdngc.net
 0.0.0.0 cyhners.ero-advertising.com
+0.0.0.0 cyingv.com
 0.0.0.0 czc.adform.net
 0.0.0.0 d-and-h.com
 0.0.0.0 d-cache.microad.jp
@@ -2865,6 +2868,7 @@
 0.0.0.0 docksalmon.com
 0.0.0.0 docs.adjust.com
 0.0.0.0 docs.bugsnag.com
+0.0.0.0 docsconvert.club
 0.0.0.0 documents.supersonicads.com
 0.0.0.0 doghole.ucweb.com
 0.0.0.0 doitmoneyforyou.top
@@ -3622,7 +3626,6 @@
 0.0.0.0 i.t.webtracker.jp
 0.0.0.0 i.tapit.com
 0.0.0.0 i.umeng.com
-0.0.0.0 i.w.inmobi.com
 0.0.0.0 i1.dl-ad.com
 0.0.0.0 i1.services.social.microsoft.com
 0.0.0.0 i18nmmstat.ucweb.com
@@ -3938,7 +3941,6 @@
 0.0.0.0 js.moatads.com
 0.0.0.0 js.mobojoy.baidu.com
 0.0.0.0 js.revsci.net
-0.0.0.0 js.stripe.com
 0.0.0.0 js.w.inmobi.com
 0.0.0.0 js34dc10.gamooga.com
 0.0.0.0 js91.adagionet.com
@@ -3996,6 +3998,7 @@
 0.0.0.0 kjos.vo.llnwd.net
 0.0.0.0 ko.snstatic.fi
 0.0.0.0 kochava.com
+0.0.0.0 kolnewsupdate.info
 0.0.0.0 komoona.com
 0.0.0.0 korea.inmobi.com
 0.0.0.0 koudas.alphonso.tv
@@ -5948,7 +5951,6 @@
 0.0.0.0 stat.kika-backend.com
 0.0.0.0 statcounter.com
 0.0.0.0 statgw2.devtodev.com
-0.0.0.0 static-asm.secure.skypeassets.com
 0.0.0.0 static-hwcdn.exoclick.com
 0.0.0.0 static-opi.fonpit.de
 0.0.0.0 static-src.user-grey.com
@@ -6150,6 +6152,7 @@
 0.0.0.0 tags.news.com.au
 0.0.0.0 tags.onscroll.com
 0.0.0.0 tags.tiqcdn.com
+0.0.0.0 take-your-prize22.life
 0.0.0.0 talab.org
 0.0.0.0 talentedsteel.com
 0.0.0.0 talk99.cn
@@ -6300,6 +6303,7 @@
 0.0.0.0 tiumbs.ero-advertising.com
 0.0.0.0 tizerclik.com
 0.0.0.0 tjd15.cxense.com
+0.0.0.0 tk.cyingv.com
 0.0.0.0 tk.kargo.com
 0.0.0.0 tkcatwalk.aotter.net
 0.0.0.0 tkmbldhj.jounrop.com

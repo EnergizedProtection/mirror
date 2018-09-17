@@ -1,8 +1,8 @@
 # mobile-ad-trackers Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/jawz101/MobileAdTrackers/master/hosts
-# Last Converted - 15.09.2018
-# Total Domains - 1669
+# Last Converted - 17.09.2018
+# Total Domains - 1668
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -549,7 +549,6 @@
 0.0.0.0 cmdts.ksmobile.com
 0.0.0.0 cn.doubleclick.net
 0.0.0.0 cnt.my
-0.0.0.0 cognito-identity.us-east-1.amazonaws.com
 0.0.0.0 coin-hive.com
 0.0.0.0 coinhive.com
 0.0.0.0 collect2567bshds.deltadna.net

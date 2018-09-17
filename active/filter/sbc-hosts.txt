@@ -1,8 +1,8 @@
 # sbc-hosts Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts
-# Last Converted - 15.09.2018
-# Total Domains - 677
+# Last Converted - 17.09.2018
+# Total Domains - 678
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -82,6 +82,7 @@
 0.0.0.0 ads2.servebom.com
 0.0.0.0 ads5.truecaller.com
 0.0.0.0 adsances.ero-advertising.com
+0.0.0.0 adscan.yelabapp.com
 0.0.0.0 adserver.adtech.de
 0.0.0.0 adservice.google.co.in
 0.0.0.0 adservice.google.nl

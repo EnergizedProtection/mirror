@@ -1,8 +1,8 @@
 # easylist-china Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easylist-china.txt
-# Last Converted - 15.09.2018
-# Total Domains - 3411
+# Last Converted - 17.09.2018
+# Total Domains - 3407
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -40,6 +40,7 @@
 0.0.0.0 0x01e7.website
 0.0.0.0 0xiaoshuo.com
 0.0.0.0 0xxd.com
+0.0.0.0 0z5jn.cn
 0.0.0.0 1.1010pic.com
 0.0.0.0 1.11467.com
 0.0.0.0 1.15lu.com
@@ -578,6 +579,7 @@
 0.0.0.0 adxiaozi.com
 0.0.0.0 adytx.com
 0.0.0.0 adyun.com
+0.0.0.0 ae4.ifeng.com
 0.0.0.0 aercxy.com
 0.0.0.0 affiliate.rakuten.co.jp
 0.0.0.0 afjlb.com
@@ -861,8 +863,8 @@
 0.0.0.0 cchfjz.com
 0.0.0.0 ccmdgg.com
 0.0.0.0 cctyly.com
+0.0.0.0 ccunf.com
 0.0.0.0 cd-best.cn
-0.0.0.0 cd3.ifeng.com
 0.0.0.0 cdeme.com
 0.0.0.0 cdfzcz.com
 0.0.0.0 cdgxq.com
@@ -955,6 +957,7 @@
 0.0.0.0 code222.com
 0.0.0.0 code668.com
 0.0.0.0 codejumps.com
+0.0.0.0 codeok.com
 0.0.0.0 codeym.dictall.com
 0.0.0.0 codlw.com
 0.0.0.0 coenr.com
@@ -1288,7 +1291,6 @@
 0.0.0.0 fbmjc.39yst.com
 0.0.0.0 fcaot.com
 0.0.0.0 fccxgjg.com
-0.0.0.0 fcns.jandan.net
 0.0.0.0 fcrdb.com
 0.0.0.0 fcsass.org.cn
 0.0.0.0 fcuit.com
@@ -1354,6 +1356,7 @@
 0.0.0.0 fun8.us
 0.0.0.0 fuz.cc
 0.0.0.0 fv99.com
+0.0.0.0 fwjoi.com
 0.0.0.0 fwt0.com
 0.0.0.0 fxmacd.com
 0.0.0.0 fxtducb.cn
@@ -1437,7 +1440,6 @@
 0.0.0.0 gjghy.com
 0.0.0.0 glasszz.com
 0.0.0.0 gm682.com
-0.0.0.0 gmbh.jandan.net
 0.0.0.0 gnmbd.top
 0.0.0.0 go.hangzhou.com.cn
 0.0.0.0 godloveme.cn
@@ -1455,7 +1457,6 @@
 0.0.0.0 gowinxp.com
 0.0.0.0 gp.jstv.com
 0.0.0.0 gqswg.com
-0.0.0.0 grantt.jandan.net
 0.0.0.0 greenbetterkids.com
 0.0.0.0 greenhouseglobal.cn
 0.0.0.0 gs307.com
@@ -1948,7 +1949,6 @@
 0.0.0.0 kokojia.com
 0.0.0.0 koopei.com
 0.0.0.0 kooyum.com
-0.0.0.0 kos.jandan.net
 0.0.0.0 koukou7.com
 0.0.0.0 kqy1.com
 0.0.0.0 ks67.com
@@ -1994,7 +1994,6 @@
 0.0.0.0 leamain.net
 0.0.0.0 leeyuoxs.com
 0.0.0.0 legozu.com
-0.0.0.0 lensm.jandan.net
 0.0.0.0 letaoxiaochi.com
 0.0.0.0 leturich.org
 0.0.0.0 leztc.com
@@ -2090,6 +2089,7 @@
 0.0.0.0 mall043.com
 0.0.0.0 mamamiyu.com
 0.0.0.0 manage.wdfans.cn
+0.0.0.0 maoyumao.net
 0.0.0.0 market.178.com
 0.0.0.0 market.21cn.com
 0.0.0.0 market.duowan.com
@@ -2222,6 +2222,7 @@
 0.0.0.0 njwxh.com
 0.0.0.0 njxczy.com
 0.0.0.0 nkeo.top
+0.0.0.0 nkscdn.com
 0.0.0.0 nmbtedu.com
 0.0.0.0 nmkgs.cn
 0.0.0.0 nmpcdn.com
@@ -2309,7 +2310,6 @@
 0.0.0.0 pdsjycm.com
 0.0.0.0 pedailyu.com
 0.0.0.0 penggua.com.cn
-0.0.0.0 peppa.jandan.net
 0.0.0.0 petsheying.com
 0.0.0.0 pfizer.com.tw
 0.0.0.0 pfp.sina.com.cn
@@ -2350,7 +2350,6 @@
 0.0.0.0 poxzyu.com
 0.0.0.0 poyang.cn
 0.0.0.0 poyang.com
-0.0.0.0 ppp.jandan.net
 0.0.0.0 ppt.tianya999.com
 0.0.0.0 pptte.com
 0.0.0.0 pr00001.com
@@ -2375,6 +2374,7 @@
 0.0.0.0 pyerc.com
 0.0.0.0 pyzkk.com
 0.0.0.0 qaqact.cn
+0.0.0.0 qat3j.jandan.net
 0.0.0.0 qbyy010.com
 0.0.0.0 qchannel03.cn
 0.0.0.0 qcjslm.com
@@ -2464,7 +2464,6 @@
 0.0.0.0 reliancevalve.com
 0.0.0.0 remotedu.cn
 0.0.0.0 rencai56.com
-0.0.0.0 repor.jandan.net
 0.0.0.0 represented.cn
 0.0.0.0 requested.cn
 0.0.0.0 resetgey.com
@@ -2486,7 +2485,6 @@
 0.0.0.0 rongchengxxw.com
 0.0.0.0 rpaulfrank.com
 0.0.0.0 rqgsf.com
-0.0.0.0 rrr.jandan.net
 0.0.0.0 rrsubway.com
 0.0.0.0 rs1.rensheng5.com
 0.0.0.0 rsccs.com
@@ -2621,6 +2619,7 @@
 0.0.0.0 soonyou123.com
 0.0.0.0 sos0easy.com
 0.0.0.0 souacode.com
+0.0.0.0 soyue.cc
 0.0.0.0 sp96878.com
 0.0.0.0 sphwq.net
 0.0.0.0 sqext.com
@@ -2636,7 +2635,6 @@
 0.0.0.0 ssp.hinet.net
 0.0.0.0 ssp.zf313.com
 0.0.0.0 sspsky.com
-0.0.0.0 sss.jandan.net
 0.0.0.0 sss.sege.xxx
 0.0.0.0 sssgao999.com
 0.0.0.0 sssvd.china.com
@@ -2662,7 +2660,6 @@
 0.0.0.0 sufficient.cn
 0.0.0.0 sums.suning.com
 0.0.0.0 sundxs.com
-0.0.0.0 suo.im
 0.0.0.0 suoooi.cn
 0.0.0.0 super.cat898.com
 0.0.0.0 super.kdnet.net
@@ -2745,7 +2742,6 @@
 0.0.0.0 tg.1155t.cn
 0.0.0.0 tgjkbx.cn
 0.0.0.0 th21333.com
-0.0.0.0 thecrew.jandan.net
 0.0.0.0 thescenseproject.com
 0.0.0.0 thetestpage.39.net
 0.0.0.0 thli43.cn

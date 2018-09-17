@@ -1,8 +1,8 @@
 # easylist-lite Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easylist-lite.txt
-# Last Converted - 15.09.2018
-# Total Domains - 5334
+# Last Converted - 17.09.2018
+# Total Domains - 5322
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -827,6 +827,7 @@
 0.0.0.0 arfttojxv.com
 0.0.0.0 arganostrella.com
 0.0.0.0 arllvzkoh.com
+0.0.0.0 arrassley.info
 0.0.0.0 artnbnbam.com
 0.0.0.0 artucripkzu.com
 0.0.0.0 as.inbox.com
@@ -1230,7 +1231,6 @@
 0.0.0.0 cfvfjsobudwrsn.com
 0.0.0.0 cfzskkkmjg.com
 0.0.0.0 cgbqzfjf.com
-0.0.0.0 cgjyesqhxzzm.com
 0.0.0.0 chandlertreatment.com
 0.0.0.0 chango.com
 0.0.0.0 chargeplatform.com
@@ -2134,7 +2134,6 @@
 0.0.0.0 gkaatcjxwa.com
 0.0.0.0 gkiqlocbirh.com
 0.0.0.0 gkkfirgzrfoxkx.com
-0.0.0.0 gkvhfryrramj.com
 0.0.0.0 gl-cash.com
 0.0.0.0 glbgkmvl.com
 0.0.0.0 glbtrk.com
@@ -2527,7 +2526,6 @@
 0.0.0.0 ispyveemlvygba.com
 0.0.0.0 istripper.com
 0.0.0.0 isvwylcazk.com
-0.0.0.0 itbiwlsxtigx.com
 0.0.0.0 itdise.info
 0.0.0.0 itgfqliqge.com
 0.0.0.0 itmcash.com
@@ -2535,7 +2533,6 @@
 0.0.0.0 itsyuvrlesq.com
 0.0.0.0 iu16wmye.com
 0.0.0.0 iuabiwhclldt.com
-0.0.0.0 iupqelechcmj.com
 0.0.0.0 ivebuyrkn.com
 0.0.0.0 ivitrine.buscape.com
 0.0.0.0 ivnpbikks.com
@@ -2557,7 +2554,6 @@
 0.0.0.0 izmciznsszatv.com
 0.0.0.0 izmwtewwobxy.com
 0.0.0.0 izwzyhlm.com
-0.0.0.0 jabcdkwmwnek.com
 0.0.0.0 jakzpcgrxgda.com
 0.0.0.0 jandolav.com
 0.0.0.0 jango.com
@@ -3346,7 +3342,6 @@
 0.0.0.0 nuvidp.com
 0.0.0.0 nvkkjenz.com
 0.0.0.0 nvnvyikitffcdr.com
-0.0.0.0 nvqsjdvgqnyk.com
 0.0.0.0 nwrgqhjtullyjs.com
 0.0.0.0 nwwuhiukrq.com
 0.0.0.0 nwzexkxx.com
@@ -4460,7 +4455,6 @@
 0.0.0.0 tiller.co
 0.0.0.0 tilosman.com
 0.0.0.0 tinypic.com
-0.0.0.0 tiswsdusmdig.com
 0.0.0.0 tixzeybm.com
 0.0.0.0 tizbmrknb.com
 0.0.0.0 tjaqsjnrvmt.com
@@ -4967,9 +4961,7 @@
 0.0.0.0 wksninbav.com
 0.0.0.0 wkzovkuc.com
 0.0.0.0 wllxevmlsutfpx.com
-0.0.0.0 wlmclzjtd.com
 0.0.0.0 wlqpzcbme.com
-0.0.0.0 wluzajogsxoy.com
 0.0.0.0 wlzohrpjbuq.com
 0.0.0.0 wmeter.ru
 0.0.0.0 wmfsbxjcdsbkrw.com
@@ -5057,7 +5049,6 @@
 0.0.0.0 xgpijbqair.com
 0.0.0.0 xgraph.net
 0.0.0.0 xgrfmoisvy.com
-0.0.0.0 xgspfcpxt.com
 0.0.0.0 xgtrznovqaqp.com
 0.0.0.0 xidx.org
 0.0.0.0 xiebddgbseoxa.com
@@ -5164,7 +5155,6 @@
 0.0.0.0 yfdxyyenovxir.com
 0.0.0.0 yfsgdrxjkzeak.com
 0.0.0.0 ygkovmqdty.com
-0.0.0.0 yhglrmvdxmxm.com
 0.0.0.0 yicainjezma.com
 0.0.0.0 yieldads.com
 0.0.0.0 yieldbuild.com
@@ -5241,7 +5231,6 @@
 0.0.0.0 yxbglezas.com
 0.0.0.0 yxcdiyaidaakp.com
 0.0.0.0 yxjvmjlhyfrp.com
-0.0.0.0 yxpkzxyajjan.com
 0.0.0.0 yycikstmz.com
 0.0.0.0 yycxldhlajjuj.com
 0.0.0.0 yyndmhkv.com
@@ -5267,7 +5256,6 @@
 0.0.0.0 zdafkehcmdcphi.com
 0.0.0.0 zdfyowkafur.com
 0.0.0.0 zdolhnqbtnbcx.com
-0.0.0.0 zdqsrdamdgmn.com
 0.0.0.0 zedo.com
 0.0.0.0 zemanta.com
 0.0.0.0 zenhppyad.com

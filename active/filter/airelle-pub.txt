@@ -1,8 +1,8 @@
 # airelle-pub Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/mirror/airelle-pub.txt
-# Last Converted - 15.09.2018
-# Total Domains - 74715
+# Last Converted - 17.09.2018
+# Total Domains - 74694
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -1440,7 +1440,6 @@
 0.0.0.0 accountingdictionary.com
 0.0.0.0 accountingquiz.com
 0.0.0.0 accountingtaxservices.com
-0.0.0.0 accountprotection.xyz
 0.0.0.0 accreditationagencies.com
 0.0.0.0 accreditedfinancial.com
 0.0.0.0 accruise.com
@@ -14154,7 +14153,6 @@
 0.0.0.0 ad.gate24.ch
 0.0.0.0 ad.gazeta.pl
 0.0.0.0 ad.gedeon.hu
-0.0.0.0 ad.ghura.pl
 0.0.0.0 ad.gigigaga.com
 0.0.0.0 ad.globe7.com
 0.0.0.0 ad.go.com
@@ -17237,7 +17235,6 @@
 0.0.0.0 ads.baycomputers.com
 0.0.0.0 ads.baz.ch
 0.0.0.0 ads.bbcworld.com
-0.0.0.0 ads.bcharrispub.com
 0.0.0.0 ads.bdrs.valueclick.jp
 0.0.0.0 ads.be
 0.0.0.0 ads.be2hand.com
@@ -17511,7 +17508,6 @@
 0.0.0.0 ads.digicon.gr
 0.0.0.0 ads.digital-digest.com
 0.0.0.0 ads.digitalalchemy.tv
-0.0.0.0 ads.digitalinsight-ltd.com
 0.0.0.0 ads.digitalmedianet.com
 0.0.0.0 ads.digitalpoint.com
 0.0.0.0 ads.digitalthrottle.com
@@ -17551,7 +17547,6 @@
 0.0.0.0 ads.dropspam.com
 0.0.0.0 ads.dsschat.com
 0.0.0.0 ads.dsstester.com
-0.0.0.0 ads.dts.mg
 0.0.0.0 ads.duahati.com
 0.0.0.0 ads.dvdreview.com
 0.0.0.0 ads.dvworld.com.tw
@@ -17719,7 +17714,6 @@
 0.0.0.0 ads.gamersrevolt.com
 0.0.0.0 ads.gamesbannernet.com
 0.0.0.0 ads.gameservers.com
-0.0.0.0 ads.gameshownetwork.com
 0.0.0.0 ads.gamespyid.com
 0.0.0.0 ads.gamesurf.com
 0.0.0.0 ads.gameworldnetwork.com
@@ -18081,7 +18075,6 @@
 0.0.0.0 ads.mercedesya.com.ar
 0.0.0.0 ads.mesotheliomaattorneyutah.net
 0.0.0.0 ads.messenger.msdwnld.com
-0.0.0.0 ads.metal.ee
 0.0.0.0 ads.metblogs.com
 0.0.0.0 ads.metrofamilymagazine.com
 0.0.0.0 ads.metromanager.com
@@ -18464,7 +18457,6 @@
 0.0.0.0 ads.scifi.com
 0.0.0.0 ads.scmp.com
 0.0.0.0 ads.scn.valueclick.jp
-0.0.0.0 ads.sconex.com
 0.0.0.0 ads.scotland.net
 0.0.0.0 ads.scottusa.com
 0.0.0.0 ads.scratchcard.com
@@ -18483,7 +18475,6 @@
 0.0.0.0 ads.seniorpages.com
 0.0.0.0 ads.seo4india.com
 0.0.0.0 ads.seriouswheels.com
-0.0.0.0 ads.seriouszone.com
 0.0.0.0 ads.servebom.com
 0.0.0.0 ads.servers.cz
 0.0.0.0 ads.serversure.net
@@ -21048,7 +21039,6 @@
 0.0.0.0 advertising.embarcaderopublishing.com
 0.0.0.0 advertising.entensity.net
 0.0.0.0 advertising.ezanga.com
-0.0.0.0 advertising.finditt.com
 0.0.0.0 advertising.fussball-liveticker.eu
 0.0.0.0 advertising.gammae.com
 0.0.0.0 advertising.gawker.com
@@ -25957,7 +25947,6 @@
 0.0.0.0 banner.ero-advertising.com
 0.0.0.0 banner.erofiles.com
 0.0.0.0 banner.esolution.sk
-0.0.0.0 banner.euroads.no
 0.0.0.0 banner.eventuell.net
 0.0.0.0 banner.fairgame.net
 0.0.0.0 banner.fairpoker.com
@@ -26213,7 +26202,6 @@
 0.0.0.0 bannerbeast.com
 0.0.0.0 bannerbit.com
 0.0.0.0 bannerbizads.com
-0.0.0.0 bannerbox.horrorfind.com
 0.0.0.0 bannerboxes.com
 0.0.0.0 bannerbridge.net
 0.0.0.0 bannercambio.com
@@ -27124,7 +27112,6 @@
 0.0.0.0 bdssuspensions.com
 0.0.0.0 bdsu.com
 0.0.0.0 bdv.bidvertiser.com
-0.0.0.0 be-airfare-smart.com
 0.0.0.0 be.ads.justpremium.com
 0.0.0.0 be.nedstat.net
 0.0.0.0 be2de.122.2o7.net
@@ -27195,7 +27182,6 @@
 0.0.0.0 beast.toad.net
 0.0.0.0 beastes.com
 0.0.0.0 beastily.com
-0.0.0.0 beastlink.com
 0.0.0.0 beasty-links.com
 0.0.0.0 beastysexlinks.com
 0.0.0.0 beat.com
@@ -29836,7 +29822,6 @@
 0.0.0.0 bruceleo.com
 0.0.0.0 brucespingsteen.com
 0.0.0.0 brucesprigsteen.com
-0.0.0.0 brucespringsteeen.com
 0.0.0.0 brueckenkopf.com
 0.0.0.0 bruinalumni.com
 0.0.0.0 brulington.com
@@ -39703,7 +39688,6 @@
 0.0.0.0 euro-cool.com
 0.0.0.0 euro-nt.webmad.de
 0.0.0.0 euroads.fi
-0.0.0.0 euroads.no
 0.0.0.0 eurobusiness.livejournal.com
 0.0.0.0 euroclick.com
 0.0.0.0 eurodanceusa.midishack.net
@@ -46258,7 +46242,6 @@
 0.0.0.0 kintrisaffiliates.go2cloud.org
 0.0.0.0 kiplinger.112.2o7.net
 0.0.0.0 kirif.forum2x2.ru
-0.0.0.0 kiriuminteractive.com
 0.0.0.0 kirkersoft.myteamtoolbar.com
 0.0.0.0 kirkwoodhotel.com
 0.0.0.0 kirov.russgo.com
@@ -46344,7 +46327,6 @@
 0.0.0.0 knology.net
 0.0.0.0 knoppixitalia.ourtoolbar.com
 0.0.0.0 knorex.com
-0.0.0.0 knowyourmeme.com
 0.0.0.0 knowyourmobile.uk.intellitxt.com
 0.0.0.0 knoxvilleshoes.com
 0.0.0.0 koamy.forumotion.net
@@ -49486,7 +49468,6 @@
 0.0.0.0 mirapublicidad.es
 0.0.0.0 mirba.forum2x2.ru
 0.0.0.0 miroshnikov.com
-0.0.0.0 mirror.gozilla.com
 0.0.0.0 mirror.uk.intellitxt.com
 0.0.0.0 mirror1.surf-town.net
 0.0.0.0 mirrorcoukcelebs.skimlinks.com
@@ -54574,7 +54555,6 @@
 0.0.0.0 pub.visicommedia.com
 0.0.0.0 pub.we.bs
 0.0.0.0 pub.weatherbug.com
-0.0.0.0 pub.weborama.fr
 0.0.0.0 pub.zoneados.net
 0.0.0.0 pub1.andyswebtools.com
 0.0.0.0 pub1.bravenet.com
@@ -59205,7 +59185,6 @@
 0.0.0.0 sysadm-at-work.ourtoolbar.com
 0.0.0.0 sysadmin.it.intellitxt.com
 0.0.0.0 sysprobs.us.intellitxt.com
-0.0.0.0 system.adquick.nl
 0.0.0.0 systemsecurityerrorexchangenotificationwarningalert.info
 0.0.0.0 systemsecurityexchangenotificationerrorwarningalert.info
 0.0.0.0 systemsecurityexchangenotificationwarningalert.info

@@ -1,8 +1,8 @@
 # winhelp2002.mvps.org Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - http://winhelp2002.mvps.org/hosts.txt
-# Last Converted - 15.09.2018
-# Total Domains - 12167
+# Last Converted - 17.09.2018
+# Total Domains - 12162
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -1925,7 +1925,6 @@
 0.0.0.0 advertising.embarcaderopublishing.com
 0.0.0.0 advertising.entensity.net
 0.0.0.0 advertising.ezanga.com
-0.0.0.0 advertising.finditt.com
 0.0.0.0 advertising.fussball-liveticker.eu
 0.0.0.0 advertising.goldseek.com
 0.0.0.0 advertising.illinimedia.com
@@ -2573,7 +2572,6 @@
 0.0.0.0 banner.clubdicecasino.com
 0.0.0.0 banner.coza.com
 0.0.0.0 banner.date.com
-0.0.0.0 banner.euroads.no
 0.0.0.0 banner.eurogrand.com
 0.0.0.0 banner.europacasino.com
 0.0.0.0 banner.finn.no
@@ -3407,7 +3405,6 @@
 0.0.0.0 cdn1.adspace.4tube.com
 0.0.0.0 cdn1.clkoffers.com
 0.0.0.0 cdn1.clkrev.com
-0.0.0.0 cdn1.skinected.com
 0.0.0.0 cdn1.smartadserver.com
 0.0.0.0 cdn1.steelhousemedia.com
 0.0.0.0 cdn1.telemetryverification.net
@@ -5795,7 +5792,6 @@
 0.0.0.0 imnotobsessed.us.intellitxt.com
 0.0.0.0 imp.clickability.com
 0.0.0.0 imp.double.net
-0.0.0.0 imp.euroads.no
 0.0.0.0 imp.tradedoubler.com
 0.0.0.0 impactwrestling.us.intellitxt.com
 0.0.0.0 impat.tradedoubler.com
@@ -8041,7 +8037,6 @@
 0.0.0.0 pool.admedo.com
 0.0.0.0 pool.ads.netlog.com
 0.0.0.0 pool.dichtbij.adhese.com
-0.0.0.0 pool.euroads.no
 0.0.0.0 pool.nrc.adhese.com
 0.0.0.0 pool.pebblemedia.adhese.com
 0.0.0.0 pool.persgroep.adhese.com

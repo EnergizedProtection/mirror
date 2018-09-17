@@ -1,8 +1,8 @@
 # zerodot1-coinblockerlists Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://zerodot1.gitlab.io/CoinBlockerLists/hosts
-# Last Converted - 15.09.2018
-# Total Domains - 10093
+# Last Converted - 17.09.2018
+# Total Domains - 10075
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -310,7 +310,6 @@
 0.0.0.0 api.pzoifaum.info
 0.0.0.0 api.staging.cryptokitties.co
 0.0.0.0 api.sumo.spacepools.org
-0.0.0.0 api.test.nicehash.com
 0.0.0.0 api.trtl.unipool.pro
 0.0.0.0 api.ubiq.labaleine.gg
 0.0.0.0 api.ubq.mypool.online
@@ -1699,7 +1698,6 @@
 0.0.0.0 dsh.mypool.name
 0.0.0.0 dsh.mypool.online
 0.0.0.0 dsh.nanopool.org
-0.0.0.0 dsh.pool.minergate.com
 0.0.0.0 dsh.shscrypto.net
 0.0.0.0 dsh.tugae2.com
 0.0.0.0 dsh.xminingpool.com
@@ -2331,7 +2329,6 @@
 0.0.0.0 fc.pool.mn
 0.0.0.0 fcc.thecoin.pw
 0.0.0.0 fcn-bcn.pool.minergate.com
-0.0.0.0 fcn-mro.pool.minergate.com
 0.0.0.0 fcn-xmo.pool.minergate.com
 0.0.0.0 fcn-xmr.pool.minergate.com
 0.0.0.0 fcn-xmr.vip.pool.minergate.com
@@ -2837,7 +2834,6 @@
 0.0.0.0 hors.lightninghash.com
 0.0.0.0 hors.pool.mn
 0.0.0.0 host1.miners.pro
-0.0.0.0 host1.nocroom.com
 0.0.0.0 hostingcloud.accountant
 0.0.0.0 hostingcloud.bid
 0.0.0.0 hostingcloud.date
@@ -3001,7 +2997,6 @@
 0.0.0.0 ja.changelly.com
 0.0.0.0 jackpotcoin.miningpoolhub.com
 0.0.0.0 jade.pool.mn
-0.0.0.0 james.clona.ru
 0.0.0.0 japveny.ru
 0.0.0.0 jasmine.directprimal.com
 0.0.0.0 jasmine.noblock.pro
@@ -3029,7 +3024,6 @@
 0.0.0.0 jp-stratum.btcc.com
 0.0.0.0 jp.kano.is
 0.0.0.0 jp.lapool.me
-0.0.0.0 jp.nicehash.com
 0.0.0.0 jp.pirlpool.eu
 0.0.0.0 jp.stratum.slushpool.com
 0.0.0.0 jqcdn01.herokuapp.com
@@ -3070,7 +3064,6 @@
 0.0.0.0 jurtym.cf
 0.0.0.0 juststatic.info
 0.0.0.0 jw-js1.ppxxmr.com
-0.0.0.0 jwc.clona.ru
 0.0.0.0 jwduahujge.ru
 0.0.0.0 jwwhsqz.ru
 0.0.0.0 jyhfuqoh.info
@@ -3569,7 +3562,6 @@
 0.0.0.0 miner.nablabee.com
 0.0.0.0 miner.nicehash.com
 0.0.0.0 miner.oozing.co
-0.0.0.0 miner.ppxxmr.com
 0.0.0.0 miner.pr0gramm.com
 0.0.0.0 miner2.sighash.info
 0.0.0.0 minercircle.com
@@ -3853,7 +3845,6 @@
 0.0.0.0 mx.pirlpool.eu
 0.0.0.0 mx.thecoin.pw
 0.0.0.0 mx1.coinfirm.io
-0.0.0.0 mx1.epool.io
 0.0.0.0 mx1.poolto.be
 0.0.0.0 mx3.coinfirm.io
 0.0.0.0 mx7.xtrapool.com
@@ -4144,7 +4135,6 @@
 0.0.0.0 ns1.node.dc1.hashfor.cash
 0.0.0.0 ns1.shscrypto.net
 0.0.0.0 ns1.unipool.pro
-0.0.0.0 ns1.webmining.co
 0.0.0.0 ns1.xtrapool.com
 0.0.0.0 ns11.hashvault.pro
 0.0.0.0 ns11.minemonero.pro
@@ -6331,7 +6321,6 @@
 0.0.0.0 vega.minexmr.org
 0.0.0.0 vegas-1.xmrpool.net
 0.0.0.0 vegas-backup.xmrpool.net
-0.0.0.0 vehicle-solutions.clona.ru
 0.0.0.0 veil.pool.mn
 0.0.0.0 veilcoin.miningpoolhub.com
 0.0.0.0 veltor.mine.zpool.ca
@@ -6502,7 +6491,6 @@
 0.0.0.0 web.wafflepool.com
 0.0.0.0 web.xmrpool.eu
 0.0.0.0 web04.bitcoin.com
-0.0.0.0 web101.minertopia.org
 0.0.0.0 webaii.nanopool.org
 0.0.0.0 webassembly.stream
 0.0.0.0 webchain.network
@@ -7221,7 +7209,6 @@
 0.0.0.0 www.bitcoin.cz
 0.0.0.0 www.bitcoin.de
 0.0.0.0 www.bitcoin.jonasschnelli.ch
-0.0.0.0 www.bitcoin.nocroom.com
 0.0.0.0 www.bitcoiner.win
 0.0.0.0 www.bitcoinethereum.eu
 0.0.0.0 www.bitcoinwallet.com
@@ -7548,7 +7535,6 @@
 0.0.0.0 www.d4l.pool.mn
 0.0.0.0 www.darking03.tk
 0.0.0.0 www.darking04.tk
-0.0.0.0 www.darking05.tk
 0.0.0.0 www.darking06.tk
 0.0.0.0 www.darking07.tk
 0.0.0.0 www.darking08.tk
@@ -7572,7 +7558,6 @@
 0.0.0.0 www.dcr.pool.mn
 0.0.0.0 www.dcy.coinwire.eu
 0.0.0.0 www.de.btcguild.com
-0.0.0.0 www.de.etc-poolcrypto.org
 0.0.0.0 www.dec.pool.mn
 0.0.0.0 www.decred.mine.zpool.ca
 0.0.0.0 www.deepc.cc
@@ -8352,7 +8337,6 @@
 0.0.0.0 www.minerpool.net
 0.0.0.0 www.miners.pro
 0.0.0.0 www.minerspool.cc
-0.0.0.0 www.minertopia.org
 0.0.0.0 www.minerxmr.com
 0.0.0.0 www.minexmr.com
 0.0.0.0 www.minexmr.ml
@@ -8794,7 +8778,6 @@
 0.0.0.0 www.reasedoper.pw
 0.0.0.0 www.recycloped.com
 0.0.0.0 www.refresh-js.bitbucket.io
-0.0.0.0 www.refreshnerer27.info
 0.0.0.0 www.refreshnerer27rb.info
 0.0.0.0 www.refunevent.com
 0.0.0.0 www.reliablesurfingext.biz
@@ -9778,7 +9761,6 @@
 0.0.0.0 xmr.pt
 0.0.0.0 xmr.semipool.com
 0.0.0.0 xmr.somec.cc
-0.0.0.0 xmr.spacepools.org
 0.0.0.0 xmr.suprnova.cc
 0.0.0.0 xmr.teracycle.net
 0.0.0.0 xmr.thecoin.pw

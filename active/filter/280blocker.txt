@@ -1,8 +1,8 @@
 # 280blocker Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://280blocker.net/files/280blocker_host.txt
-# Last Converted - 15.09.2018
-# Total Domains - 870
+# Last Converted - 17.09.2018
+# Total Domains - 872
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -493,6 +493,7 @@
 0.0.0.0 js.8-starssp.net
 0.0.0.0 js.ad-trive.jp
 0.0.0.0 js.agkn.com
+0.0.0.0 js.bypass-sys.com
 0.0.0.0 js.gumgum.com
 0.0.0.0 js.impact.ne.jp
 0.0.0.0 js.isboost.co.jp
@@ -579,6 +580,7 @@
 0.0.0.0 monerominer.rocks
 0.0.0.0 moopoemoe.com
 0.0.0.0 moradu.com
+0.0.0.0 mov-c.appli-info.com
 0.0.0.0 mreco0.jp
 0.0.0.0 msg.simeji.baidu.jp
 0.0.0.0 mtburn.com

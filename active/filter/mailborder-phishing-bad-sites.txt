@@ -1,8 +1,8 @@
 # mailborder-phishing-bad-sites Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/mirror/mailborder.txt
-# Last Converted - 15.09.2018
-# Total Domains - 16397
+# Last Converted - 17.09.2018
+# Total Domains - 16393
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -6473,7 +6473,6 @@
 0.0.0.0 kurt.nu
 0.0.0.0 kushal308kumar.maskarea.com
 0.0.0.0 kushalnaik.net
-0.0.0.0 kutt.it
 0.0.0.0 kuveytturk-kampanya.com
 0.0.0.0 kuveytturk.cms.pixelplus.org
 0.0.0.0 kuveytturkfirsat.com
@@ -8918,7 +8917,6 @@
 0.0.0.0 pfssonline.com
 0.0.0.0 pgesscures.000webhostapp.com
 0.0.0.0 pgevmp.getenjoyment.net
-0.0.0.0 pgi.billdesk.com
 0.0.0.0 pgsolx.com
 0.0.0.0 phan.thuchao.free.fr
 0.0.0.0 phantos.com.au
@@ -12388,7 +12386,6 @@
 0.0.0.0 vzt.me
 0.0.0.0 vzturl.com
 0.0.0.0 w-eos.com
-0.0.0.0 w-f.nv-1acc.online
 0.0.0.0 w.bmsupplier.basilnews.com
 0.0.0.0 w1.mssqas.net
 0.0.0.0 w107fm.com
@@ -14025,7 +14022,6 @@
 0.0.0.0 www.go.facebook.view.herbalgalax.com
 0.0.0.0 www.goal-setting-guide.com
 0.0.0.0 www.godomainseolifter.org
-0.0.0.0 www.gofundme.com
 0.0.0.0 www.gok.wladyslawow.pl
 0.0.0.0 www.goldfishandbison.com
 0.0.0.0 www.goldmatcha.com

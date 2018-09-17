@@ -1,8 +1,8 @@
 # airelle-rsk Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/mirror/airelle-rsk.txt
-# Last Converted - 15.09.2018
-# Total Domains - 50936
+# Last Converted - 17.09.2018
+# Total Domains - 50924
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -3446,7 +3446,6 @@
 0.0.0.0 2ndpower.com
 0.0.0.0 2o7.com
 0.0.0.0 2pas.com
-0.0.0.0 2peu.ro
 0.0.0.0 2ppp.com
 0.0.0.0 2rnews.07x.net
 0.0.0.0 2sen.dip.jp
@@ -3716,7 +3715,6 @@
 0.0.0.0 4link.it
 0.0.0.0 4max.pl
 0.0.0.0 4mfnews.blogspot.com
-0.0.0.0 4mpg.com
 0.0.0.0 4netmedia.com
 0.0.0.0 4object.ws
 0.0.0.0 4office.pl
@@ -16489,7 +16487,6 @@
 0.0.0.0 bestamateurgallery.com
 0.0.0.0 bestantispyware.50webs.com
 0.0.0.0 bestappinstalls.com
-0.0.0.0 bestautobmw.co.za
 0.0.0.0 bestblackwomen.com
 0.0.0.0 bestbratcurry.de
 0.0.0.0 bestbuy.com.122.2o7.net
@@ -16997,7 +16994,6 @@
 0.0.0.0 blackpanther.gmxhome.de
 0.0.0.0 blackpatrol.com
 0.0.0.0 blackproxy.com
-0.0.0.0 blackproxy.eu
 0.0.0.0 blacksbar.ourtoolbar.com
 0.0.0.0 blackshot-hacks.com
 0.0.0.0 blacksincracks.com
@@ -21346,7 +21342,6 @@
 0.0.0.0 celib.firstlight.cn
 0.0.0.0 celik-schmuck.de
 0.0.0.0 cellguru.ru
-0.0.0.0 celnetnation.com
 0.0.0.0 cencardelmagdalena.com
 0.0.0.0 cengagecsinfosec.112.2o7.net
 0.0.0.0 cenlabaseball.com
@@ -21395,7 +21390,6 @@
 0.0.0.0 ceoceocompany.gotdns.ch
 0.0.0.0 cepanama.com
 0.0.0.0 cepeduc.com
-0.0.0.0 cepeli.unas.ru
 0.0.0.0 cephx.kattare.com
 0.0.0.0 ceq149.neoplus.adsl.tpnet.pl
 0.0.0.0 cer163.neoplus.adsl.tpnet.pl
@@ -28712,7 +28706,6 @@
 0.0.0.0 etq120.neoplus.adsl.tpnet.pl
 0.0.0.0 etq159.neoplus.adsl.tpnet.pl
 0.0.0.0 etq25.neoplus.adsl.tpnet.pl
-0.0.0.0 etr-interac.com
 0.0.0.0 etr34.neoplus.adsl.tpnet.pl
 0.0.0.0 etrade.122.2o7.net
 0.0.0.0 etraffic.com
@@ -29706,7 +29699,6 @@
 0.0.0.0 fichte-lintfort.de
 0.0.0.0 fickporn.com
 0.0.0.0 fidelitas.heimat.eu
-0.0.0.0 fidoproblems.com
 0.0.0.0 fief.dk
 0.0.0.0 fieldserviceca.net
 0.0.0.0 fifa12key.blogspot.com
@@ -31480,7 +31472,6 @@
 0.0.0.0 gemoney.112.2o7.net
 0.0.0.0 gemoney.co.nz.102.112.2o7.net
 0.0.0.0 gemoney.com.au.102.112.2o7.net
-0.0.0.0 gemoneybank.fr.102.112.2o7.net
 0.0.0.0 gemoneyssgmb.112.2o7.net
 0.0.0.0 gemsvault.com
 0.0.0.0 gemtree.com
@@ -36664,7 +36655,6 @@
 0.0.0.0 jearthreactor.cjt1.net
 0.0.0.0 jebaird.com
 0.0.0.0 jedonkey.cjt1.net
-0.0.0.0 jeepworker.com
 0.0.0.0 jeetyetmedia.com
 0.0.0.0 jeffcohost.com
 0.0.0.0 jeisl.com
@@ -37412,7 +37402,6 @@
 0.0.0.0 kazaa.adserver.co.il
 0.0.0.0 kazaa.com
 0.0.0.0 kazaabronze.com
-0.0.0.0 kazaap.org
 0.0.0.0 kazaar.com
 0.0.0.0 kazaasilver.com
 0.0.0.0 kazimir.net
@@ -48122,7 +48111,6 @@
 0.0.0.0 whathacks.com
 0.0.0.0 whatsapp-hack-groups.com
 0.0.0.0 whatsapp-hack.online
-0.0.0.0 whatsapphack.biz
 0.0.0.0 whatsapphack.com
 0.0.0.0 whatsapphack.info
 0.0.0.0 whatsapphack.validcheats.com

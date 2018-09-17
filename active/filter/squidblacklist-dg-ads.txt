@@ -1,8 +1,8 @@
 # squidblacklist-dg-ads Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - http://www.squidblacklist.org/downloads/dg-ads.acl
-# Last Converted - 15.09.2018
-# Total Domains - 4431
+# Last Converted - 17.09.2018
+# Total Domains - 4423
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -881,6 +881,7 @@
 0.0.0.0 ads.totallyfreestuff.com
 0.0.0.0 ads.townhall.com
 0.0.0.0 ads.tripod.com
+0.0.0.0 ads.tripod.lycos.co.uk
 0.0.0.0 ads.tripod.lycos.de
 0.0.0.0 ads.tripod.lycos.es
 0.0.0.0 ads.tripod.lycos.it
@@ -1617,7 +1618,6 @@
 0.0.0.0 brassrule.com
 0.0.0.0 bravenetmedianetwork.com
 0.0.0.0 brealtime.com
-0.0.0.0 breezybath.com
 0.0.0.0 brickandmobile.com
 0.0.0.0 bridgetrack.com
 0.0.0.0 brighteroption.com
@@ -1651,7 +1651,6 @@
 0.0.0.0 buzzcity.net
 0.0.0.0 buzzonclick.com
 0.0.0.0 buzzparadise.com
-0.0.0.0 bw94.xyz
 0.0.0.0 bwinpartypartners.com
 0.0.0.0 byspot.com
 0.0.0.0 byzoo.org
@@ -2144,7 +2143,6 @@
 0.0.0.0 fb-plus.com
 0.0.0.0 fbgdc.com
 0.0.0.0 fc.webmasterpro.de
-0.0.0.0 fearfulflag.com
 0.0.0.0 featence.com
 0.0.0.0 featurelink.com
 0.0.0.0 feedjit.com
@@ -2177,7 +2175,6 @@
 0.0.0.0 flyertown.ca
 0.0.0.0 fmpub.net
 0.0.0.0 fmsads.com
-0.0.0.0 foamybox.com
 0.0.0.0 fogzyads.com
 0.0.0.0 foo.cosmocode.de
 0.0.0.0 foodieblogroll.com
@@ -2516,7 +2513,6 @@
 0.0.0.0 jobtarget.com
 0.0.0.0 joetec.net
 0.0.0.0 joytocash.com
-0.0.0.0 jque.net
 0.0.0.0 js.users.51.la
 0.0.0.0 jscount.com
 0.0.0.0 jsretra.com
@@ -2734,7 +2730,6 @@
 0.0.0.0 mediageneral.com
 0.0.0.0 medialand.ru
 0.0.0.0 medialets.com
-0.0.0.0 mediamath.com
 0.0.0.0 mediamgr.ugo.com
 0.0.0.0 mediamind.com
 0.0.0.0 mediapeo.com
@@ -2765,7 +2760,6 @@
 0.0.0.0 mentad.com
 0.0.0.0 metaffiliation.com
 0.0.0.0 metanetwork.com
-0.0.0.0 metapelite.com
 0.0.0.0 metavertising.com
 0.0.0.0 methodcash.com
 0.0.0.0 metrics.io
@@ -3731,7 +3725,6 @@
 0.0.0.0 teosredic.com
 0.0.0.0 teracreative.com
 0.0.0.0 terribleturkey.com
-0.0.0.0 teschenite.com
 0.0.0.0 testfilter.com
 0.0.0.0 testnet.nl
 0.0.0.0 text-link-ads.com
@@ -4359,7 +4352,6 @@
 0.0.0.0 xmaswrite.com
 0.0.0.0 xplusone.com
 0.0.0.0 xrea.com
-0.0.0.0 xtendadvert.com
 0.0.0.0 xtremetop100.com
 0.0.0.0 xubob.com
 0.0.0.0 xvika.com
