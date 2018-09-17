@@ -1,8 +1,8 @@
 # adguard-french-filter Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://filters.adtidy.org/extension/chromium/filters/16.txt
-# Last Converted - 15.09.2018
-# Total Domains - 6023
+# Last Converted - 17.09.2018
+# Total Domains - 6024
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -770,6 +770,7 @@
 0.0.0.0 adyou.me
 0.0.0.0 adzbux.com
 0.0.0.0 adzbuzz.com
+0.0.0.0 adzerg.com
 0.0.0.0 adzmath.com
 0.0.0.0 adzs.com
 0.0.0.0 adzzone.com
@@ -962,6 +963,7 @@
 0.0.0.0 apyoth.com
 0.0.0.0 apypxl.com
 0.0.0.0 aqqgli3vle.bid
+0.0.0.0 aquaplatform.com
 0.0.0.0 ar-ads.com
 0.0.0.0 ar-ads.net
 0.0.0.0 arab-ads.com
@@ -2236,7 +2238,6 @@
 0.0.0.0 ds1.nl
 0.0.0.0 dsdsdsf.ovh
 0.0.0.0 dsh1ct2zrfakt.cloudfront.net
-0.0.0.0 dsn-fishki.ru
 0.0.0.0 dsplayme.com
 0.0.0.0 dt51.net
 0.0.0.0 dtyrqq5w0qdc8.cloudfront.net
@@ -2546,7 +2547,6 @@
 0.0.0.0 ffinwwfpqi.gq
 0.0.0.0 fftrk.com
 0.0.0.0 fge9vbrzwt.bid
-0.0.0.0 fghtem.com
 0.0.0.0 fgn.me
 0.0.0.0 fgudqqluv.com
 0.0.0.0 fhmty1lty9.com
@@ -3343,7 +3343,6 @@
 0.0.0.0 kiwys.com
 0.0.0.0 kj2hy.com
 0.0.0.0 kkloud.com
-0.0.0.0 klcheck.com
 0.0.0.0 kong4oh.bid
 0.0.0.0 koodoo.net
 0.0.0.0 koqtrn1b.site
@@ -3490,7 +3489,6 @@
 0.0.0.0 loasdfn.xyz
 0.0.0.0 local-finders.com
 0.0.0.0 login.meexy.com
-0.0.0.0 logx.tamilyogi.fm
 0.0.0.0 loislgibe.top
 0.0.0.0 loktrk.com
 0.0.0.0 lolanime.com
@@ -4250,6 +4248,7 @@
 0.0.0.0 pelis24.com.es
 0.0.0.0 penokeedutchtown.com
 0.0.0.0 penthemi.com
+0.0.0.0 peoplesearchads.com
 0.0.0.0 pepsia.com
 0.0.0.0 perabetads.com
 0.0.0.0 peremoga.xyz
@@ -4413,6 +4412,7 @@
 0.0.0.0 pressburgseptation.info
 0.0.0.0 prestoris.com
 0.0.0.0 primusad.com
+0.0.0.0 priodiss.pro
 0.0.0.0 privetadblock.ru
 0.0.0.0 probiting.info
 0.0.0.0 proche2moi.com
@@ -4514,6 +4514,7 @@
 0.0.0.0 publi.forum.ad
 0.0.0.0 publicideas.com
 0.0.0.0 publike.fr
+0.0.0.0 publy.net
 0.0.0.0 puboclic.com
 0.0.0.0 pubovore.com
 0.0.0.0 pubs.ouedkniss.com
@@ -4658,7 +4659,6 @@
 0.0.0.0 rationalan.pro
 0.0.0.0 ravaynore.com
 0.0.0.0 rbpcomponents.info
-0.0.0.0 rcdn.pro
 0.0.0.0 rd1wc5gi.party
 0.0.0.0 rdsa2013.com
 0.0.0.0 rdsa2014.com
@@ -4783,6 +4783,7 @@
 0.0.0.0 rintinwa.com
 0.0.0.0 ritogaga.com
 0.0.0.0 rliqvcw.xyz
+0.0.0.0 rlnads.net
 0.0.0.0 rmawm7mw.top
 0.0.0.0 rocks.io
 0.0.0.0 rodirola.com
@@ -5076,7 +5077,6 @@
 0.0.0.0 smblockedcontent.org
 0.0.0.0 smcfile-blk.biz
 0.0.0.0 smcfile-blk.org
-0.0.0.0 smcheck.org
 0.0.0.0 smconffile.org
 0.0.0.0 smcontentblk.com
 0.0.0.0 smectapop12.pl
@@ -5104,6 +5104,7 @@
 0.0.0.0 sommons.co
 0.0.0.0 somparazoan.me
 0.0.0.0 sonorecyc.com
+0.0.0.0 soodatmish.com
 0.0.0.0 soosooka.com
 0.0.0.0 soperfonda.com
 0.0.0.0 sopgenusarmillariella.com
@@ -5514,6 +5515,7 @@
 0.0.0.0 tuclother.info
 0.0.0.0 tudou.com
 0.0.0.0 tulip18.com
+0.0.0.0 turbotraff.com
 0.0.0.0 turnsocial.com
 0.0.0.0 tuvvpas.com
 0.0.0.0 tvsggww.com
@@ -6012,7 +6014,6 @@
 0.0.0.0 zlacraft.com
 0.0.0.0 zlx.com.br
 0.0.0.0 zmar.info
-0.0.0.0 zmctrack.net
 0.0.0.0 zmjagawa.com
 0.0.0.0 znjo3h2m.top
 0.0.0.0 zone-telechargement.cc

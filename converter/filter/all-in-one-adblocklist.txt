@@ -1,8 +1,8 @@
 # all-in-one-adblocklist Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
-# Last Converted - 15.09.2018
-# Total Domains - 63235
+# Last Converted - 17.09.2018
+# Total Domains - 63272
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -760,6 +760,7 @@
 0.0.0.0 3sixtyventure.com
 0.0.0.0 3t7euflv.com
 0.0.0.0 3uhm9egl.myutilitydomain.com
+0.0.0.0 3vwp.org
 0.0.0.0 3wnp9.ru
 0.0.0.0 3wr110.net
 0.0.0.0 3wr110.xyz
@@ -1143,6 +1144,7 @@
 0.0.0.0 742eowte.space
 0.0.0.0 743e6b34be13fb105e0.com
 0.0.0.0 744396-deu-prob-angabe-validierung.sicher-sicherheitsabfrage.ml
+0.0.0.0 746fyw2v.com
 0.0.0.0 748410ed2187.racing
 0.0.0.0 74da0fffc981.com
 0.0.0.0 750industries.com
@@ -3786,6 +3788,7 @@
 0.0.0.0 adsrv.deviantart.com
 0.0.0.0 adsrv.eacdn.com
 0.0.0.0 adsrv.iol.co.za
+0.0.0.0 adsrv.kstarplay.tv
 0.0.0.0 adsrv.us
 0.0.0.0 adsrv4k.com
 0.0.0.0 adsrvgateway.com
@@ -7469,6 +7472,7 @@
 0.0.0.0 awpcase.com
 0.0.0.0 awpos.com
 0.0.0.0 awrspmpj.com
+0.0.0.0 awrxkucpfbsq.com
 0.0.0.0 aws-ajax.com
 0.0.0.0 aws2.support
 0.0.0.0 awsatstb.com
@@ -7577,6 +7581,7 @@
 0.0.0.0 azerothland.com
 0.0.0.0 azfilesharing.com
 0.0.0.0 azfmulmqcz.bid
+0.0.0.0 azgwyeyjufdqc.com
 0.0.0.0 azgyzdjexcxg.com
 0.0.0.0 azhacks.com
 0.0.0.0 azhdgruuvllzxg.com
@@ -10625,6 +10630,7 @@
 0.0.0.0 bzlvolaqiy.bid
 0.0.0.0 bznclicks.com
 0.0.0.0 bznmgijglbpr.com
+0.0.0.0 bzotzfcbhomw.com
 0.0.0.0 bzqqaoeufrld.com
 0.0.0.0 bzrvwbsh5o.com
 0.0.0.0 bzsbtfiz.com
@@ -10732,6 +10738,7 @@
 0.0.0.0 caamni-jhgsedg.tk
 0.0.0.0 caananlimited.com
 0.0.0.0 caancel.com
+0.0.0.0 caaqyzbpsbtk.com
 0.0.0.0 cabanaslejanosur.com.ar
 0.0.0.0 cabanero.info
 0.0.0.0 cabaniasmimmo.com.ar
@@ -11698,6 +11705,7 @@
 0.0.0.0 cfmps-impts-aj.com
 0.0.0.0 cfnmking.com
 0.0.0.0 cformanalytics.com
+0.0.0.0 cfpqhrfpccmpq.com
 0.0.0.0 cfrandle.ironside.tk
 0.0.0.0 cfrchildcare.com
 0.0.0.0 cfs1.uzone.id
@@ -12088,6 +12096,7 @@
 0.0.0.0 check.vibearts.ca
 0.0.0.0 check12.cf
 0.0.0.0 check2bill.org
+0.0.0.0 checkabil.com
 0.0.0.0 checkaccountid.ml
 0.0.0.0 checkacctrecovery2018.000webhostapp.com
 0.0.0.0 checkacctrecovery666.000webhostapp.com
@@ -18219,6 +18228,7 @@
 0.0.0.0 dvdkinoteatr.com
 0.0.0.0 dvdrecorders4free.com
 0.0.0.0 dvdsm0rlx65fo.cloudfront.net
+0.0.0.0 dvdyicsndqbqo.com
 0.0.0.0 dveri-pmr.com
 0.0.0.0 dveribo.ru
 0.0.0.0 dverser.ru
@@ -19304,6 +19314,7 @@
 0.0.0.0 emxwkunx.bid
 0.0.0.0 emzorhesco.com
 0.0.0.0 emzotevsto.com
+0.0.0.0 emzxewhgjt.com
 0.0.0.0 en-house-eg.com
 0.0.0.0 en.avatarstinc.com
 0.0.0.0 en.certomni.net
@@ -19997,6 +20008,7 @@
 0.0.0.0 eusta.de
 0.0.0.0 eutimes.net
 0.0.0.0 eutklhuazxlt.com
+0.0.0.0 euuikdao.com
 0.0.0.0 euwidget.imshopping.com
 0.0.0.0 euxisszoyader.com
 0.0.0.0 euxnxohbjbkmqipqmyf.pw
@@ -23281,6 +23293,7 @@
 0.0.0.0 fvbeyduylvgy.com
 0.0.0.0 fvbtqaijuo.com
 0.0.0.0 fvegt3.desio-web.co.at
+0.0.0.0 fveugxikrgrbsh.com
 0.0.0.0 fvffhcyxc.com
 0.0.0.0 fvgfcotnmj.com
 0.0.0.0 fvhxlrcd.com
@@ -23874,6 +23887,7 @@
 0.0.0.0 gbwhqbiiq.com
 0.0.0.0 gbwrjyntqsvr.com
 0.0.0.0 gbwzrcymfmvym.bid
+0.0.0.0 gbybvvfo.com
 0.0.0.0 gcabs.com.au
 0.0.0.0 gcapps.info
 0.0.0.0 gcardriving.com
@@ -25741,6 +25755,7 @@
 0.0.0.0 gxvbogvbcivs.com
 0.0.0.0 gxwjkbxubfjd.com
 0.0.0.0 gxwoiiyfjiz.com
+0.0.0.0 gxxkrzrvy.com
 0.0.0.0 gxxmm.com
 0.0.0.0 gxxsqeqlepva.com
 0.0.0.0 gxxyb.net
@@ -27891,6 +27906,7 @@
 0.0.0.0 hypervre.com
 0.0.0.0 hyperwebads.com
 0.0.0.0 hypestat.com
+0.0.0.0 hyphenion.com
 0.0.0.0 hypnotherapeutamsterdam.com
 0.0.0.0 hypnotherapeute-montreal.ca
 0.0.0.0 hypo-tec.com
@@ -28259,6 +28275,7 @@
 0.0.0.0 identity-upgrade.000webhostapp.com
 0.0.0.0 idently-comm.com
 0.0.0.0 ideoclick.com
+0.0.0.0 ideprjebdvj.com
 0.0.0.0 ideservesomeacollades.gq
 0.0.0.0 idexairdrop.com
 0.0.0.0 idexoro.info
@@ -28343,6 +28360,7 @@
 0.0.0.0 ifactz.com
 0.0.0.0 ifaklabnhplb.com
 0.0.0.0 ifbb.com.pk
+0.0.0.0 ifdmdfqysaacqa.com
 0.0.0.0 iffywords.890m.com
 0.0.0.0 ifghealthmedia.com
 0.0.0.0 ifighi.net
@@ -29655,6 +29673,7 @@
 0.0.0.0 iracingicoaching.com
 0.0.0.0 iraiser.eu
 0.0.0.0 iranbar.org
+0.0.0.0 iranigo.ml
 0.0.0.0 irankvally.online
 0.0.0.0 iraqcrunch.com
 0.0.0.0 irbipwnr.bid
@@ -30467,6 +30486,7 @@
 0.0.0.0 jfhirpq.com
 0.0.0.0 jfhupoqrydm.com
 0.0.0.0 jfhvip.com
+0.0.0.0 jfjuhxfllw.com
 0.0.0.0 jfkfojgkrk.com
 0.0.0.0 jfmd1.com
 0.0.0.0 jfresi.com
@@ -30621,6 +30641,7 @@
 0.0.0.0 jkiicqewzn.com
 0.0.0.0 jkindscorpn.com
 0.0.0.0 jkiwvfgrsythrw.com
+0.0.0.0 jkjcoyeeglunz.com
 0.0.0.0 jkjoxlhkwnxd.com
 0.0.0.0 jkjwifmep.com
 0.0.0.0 jkkernvkrwdr.com
@@ -34557,6 +34578,7 @@
 0.0.0.0 lxghhxdcmumk.com
 0.0.0.0 lxhsf.saqibsiddiqui.com
 0.0.0.0 lxkqybzanzug.com
+0.0.0.0 lxlisrvzz.com
 0.0.0.0 lxoilbm4-site.1tempurl.com
 0.0.0.0 lxpl6t0t.cricket
 0.0.0.0 lxqoxgijpbmrg.bid
@@ -37187,6 +37209,7 @@
 0.0.0.0 mpc.nicequest.com
 0.0.0.0 mpcheckacc.com
 0.0.0.0 mpcoliveira.com.br
+0.0.0.0 mpfzgidlxsqtyt.com
 0.0.0.0 mpgames.org
 0.0.0.0 mpgflvbe.com
 0.0.0.0 mphqfyhswko.bid
@@ -37565,6 +37588,7 @@
 0.0.0.0 mwstats.net
 0.0.0.0 mwtpludn.review
 0.0.0.0 mwtraf.mobi
+0.0.0.0 mwuiykzqwaic.com
 0.0.0.0 mwxurdlzjbuvh.bid
 0.0.0.0 mwxya.dobeat.top
 0.0.0.0 mwztugbv.bid
@@ -37848,6 +37872,7 @@
 0.0.0.0 myewhterallet.net
 0.0.0.0 myextrafiles.com
 0.0.0.0 myezgear.com
+0.0.0.0 myezt1q2il.com
 0.0.0.0 myfaceb00ksecrets.comeze.com
 0.0.0.0 myfacebookstalkers.com
 0.0.0.0 myfastcounter.com
@@ -40902,6 +40927,7 @@
 0.0.0.0 ovicase.com
 0.0.0.0 ovjlgvapqhmpy.com
 0.0.0.0 ovk.xceler8.io
+0.0.0.0 ovkihcbxsbfeo.com
 0.0.0.0 ovoczhahelca.com
 0.0.0.0 ovologodo.xyz
 0.0.0.0 ovomexido.com
@@ -46731,6 +46757,7 @@
 0.0.0.0 rnhcqhagfmjgx.bid
 0.0.0.0 rnhkptivhwhc.com
 0.0.0.0 rnlabs.com
+0.0.0.0 rnlfitypkucbhi.com
 0.0.0.0 rnmd.net
 0.0.0.0 rnmjscsvqql.bid
 0.0.0.0 rnqdlprwd.pw
@@ -49814,6 +49841,7 @@
 0.0.0.0 sinopsisantv.work
 0.0.0.0 sinteryield.win
 0.0.0.0 sinuplastynyc.com
+0.0.0.0 sinyfqrmiqgd.com
 0.0.0.0 siogczwibswm.com
 0.0.0.0 sionny.com
 0.0.0.0 siphic5.top
@@ -56091,6 +56119,7 @@
 0.0.0.0 twmeccosyivi.com
 0.0.0.0 twmvjfatla.com
 0.0.0.0 twniwcnayraxtpljgwp.net
+0.0.0.0 twnkpjhbgcp.com
 0.0.0.0 twnrkedqefhv.com
 0.0.0.0 twocenturyoffice.com
 0.0.0.0 twodemo.com
@@ -60913,6 +60942,7 @@
 0.0.0.0 wziftlp.com
 0.0.0.0 wzismevwhqixlq.com
 0.0.0.0 wzjbvbxldfrn.com
+0.0.0.0 wzlcpagvidi.com
 0.0.0.0 wzlgmbmwq.bid
 0.0.0.0 wzlxc.saqibsiddiqui.com
 0.0.0.0 wznnfwhwwjkp.com
@@ -61256,6 +61286,7 @@
 0.0.0.0 xkawgrrrpszb.com
 0.0.0.0 xkbsohnosdmoa.bid
 0.0.0.0 xkeeqmvs.bid
+0.0.0.0 xkgbbiqqekja.com
 0.0.0.0 xkgitcod.com
 0.0.0.0 xkhxejeaarq.com
 0.0.0.0 xkjlcqbufdlwrq.com
@@ -61368,6 +61399,7 @@
 0.0.0.0 xn--stemcmmunily-09a608b.com
 0.0.0.0 xn--yetherallet-iw8ew5a.com
 0.0.0.0 xn--yetherallet-tv8eu6a.com
+0.0.0.0 xndskrtxkiv.com
 0.0.0.0 xnkmmbfpyokevaxsjtky.com
 0.0.0.0 xnlxpsbs.com
 0.0.0.0 xnmphtmerao.bid
@@ -61801,6 +61833,7 @@
 0.0.0.0 yboesrdsz4uymkan3su.download
 0.0.0.0 ybofeikeckfxh.com
 0.0.0.0 ybotvisit.com
+0.0.0.0 ybqqjrjf.com
 0.0.0.0 ybrjldiexlqb.com
 0.0.0.0 ybrmiemawkawxb.com
 0.0.0.0 ybsonhelenbrown.co.uk
@@ -62291,6 +62324,7 @@
 0.0.0.0 ypmdszuxupnxk.bid
 0.0.0.0 ypppdc.com
 0.0.0.0 ypprr.com
+0.0.0.0 ypreferred.com
 0.0.0.0 ypschool.cn
 0.0.0.0 ypyarwgh.com
 0.0.0.0 yqaywudifu.date
@@ -62900,6 +62934,7 @@
 0.0.0.0 zjgbpjmqfaow.com
 0.0.0.0 zjgswtl.com
 0.0.0.0 zjgygpdfudfu.com
+0.0.0.0 zjhnmbfqylme.com
 0.0.0.0 zjhnyz.com
 0.0.0.0 zjhuashi.net
 0.0.0.0 zjhvbhqp.beget.tech
@@ -62940,6 +62975,7 @@
 0.0.0.0 zltsivah.bid
 0.0.0.0 zlvbqseyjdna.com
 0.0.0.0 zlx.com.br
+0.0.0.0 zlxfpawyyoq.com
 0.0.0.0 zlxwasugtn.com
 0.0.0.0 zm232.com
 0.0.0.0 zmbrweqglexv.com
@@ -63030,6 +63066,7 @@
 0.0.0.0 zortinah.com
 0.0.0.0 zorwrite.com
 0.0.0.0 zospzfvxkshe.com
+0.0.0.0 zoszujvvlu.com
 0.0.0.0 zotabox.com
 0.0.0.0 zotasinc.com
 0.0.0.0 zoukenterprises.com.au

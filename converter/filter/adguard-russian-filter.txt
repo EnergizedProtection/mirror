@@ -1,8 +1,8 @@
 # adguard-russian-filter Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last Converted - 15.09.2018
-# Total Domains - 3568
+# Last Converted - 17.09.2018
+# Total Domains - 3567
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -3564,7 +3564,6 @@
 0.0.0.0 zoomclick.info
 0.0.0.0 zorkabiz.ru
 0.0.0.0 zowlu.xyz
-0.0.0.0 zoy.org
 0.0.0.0 zozocash.biz
 0.0.0.0 zozoter.ru
 0.0.0.0 zqizn.com
