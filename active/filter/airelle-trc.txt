@@ -1,8 +1,8 @@
 # airelle-trc Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/mirror/airelle-trc.txt
-# Last Converted - 17.09.2018
-# Total Domains - 57115
+# Last Converted - 21.09.2018
+# Total Domains - 57077
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -14190,7 +14190,6 @@
 0.0.0.0 ads.accelerator-media.com
 0.0.0.0 ads.aco.valueclick.net
 0.0.0.0 ads.addclic.com
-0.0.0.0 ads.admodus.com
 0.0.0.0 ads.adonion.com
 0.0.0.0 ads.ads.netlog.com
 0.0.0.0 ads.adsrvmedia.com
@@ -14929,7 +14928,6 @@
 0.0.0.0 allwomenstalk.us.intellitxt.com
 0.0.0.0 allworldtrade.com
 0.0.0.0 almedaorg.112.2o7.net
-0.0.0.0 almendreracuraremque.smithcountyliving.org
 0.0.0.0 almond-media.ru
 0.0.0.0 alog.umeng.com
 0.0.0.0 alog773.narod.ru
@@ -15557,7 +15555,6 @@
 0.0.0.0 armyranks.com
 0.0.0.0 arnold.schwarzenegger.mediafetcher.com
 0.0.0.0 aromamedia.hu
-0.0.0.0 aroxmedia.com.pl
 0.0.0.0 arpxs.com
 0.0.0.0 array101-prod.do.dsp.mp.microsoft.com
 0.0.0.0 array102-prod.do.dsp.mp.microsoft.com
@@ -16490,7 +16487,6 @@
 0.0.0.0 biwwltvcom.112.2o7.net
 0.0.0.0 biwwltvcom.122.2o7.net
 0.0.0.0 biyouxxxe.blogtrafic.com
-0.0.0.0 bizarr-counter.de
 0.0.0.0 bizarr-media.de
 0.0.0.0 bizarre-inc-porno-bitches-ft-big-boi-and-lyrics-mp3.kohit.net
 0.0.0.0 biziphonecom.112.2o7.net
@@ -25154,7 +25150,6 @@
 0.0.0.0 gamingpromo.com
 0.0.0.0 gamk.hit.gemius.pl
 0.0.0.0 gang-bang.hit.bg
-0.0.0.0 gangbang-tryout.inhit.com
 0.0.0.0 gangstatgp.com
 0.0.0.0 gangstathuggays.com
 0.0.0.0 gannettbroadcast.us.intellitxt.com
@@ -25533,7 +25528,6 @@
 0.0.0.0 gmlabr.112.2o7.net
 0.0.0.0 gmlaco.112.2o7.net
 0.0.0.0 gmointernet.112.2o7.net
-0.0.0.0 gmonitor.aliimg.com
 0.0.0.0 gmpg.org
 0.0.0.0 gmsaabusa.112.2o7.net
 0.0.0.0 gmsaturn.112.2o7.net
@@ -26181,7 +26175,6 @@
 0.0.0.0 hemorrhoidtreatment854.beeplog.com
 0.0.0.0 henderson.com.102.112.2o7.net
 0.0.0.0 hengemedia.com
-0.0.0.0 hentai-studios.inhit.com
 0.0.0.0 hentai-traffic.com
 0.0.0.0 hentaiclick.com
 0.0.0.0 hentaicounter.com
@@ -26659,7 +26652,6 @@
 0.0.0.0 hollywooddame.us.intellitxt.com
 0.0.0.0 hollywoodstreetking.us.intellitxt.com
 0.0.0.0 hollywoodtuna.us.intellitxt.com
-0.0.0.0 home-sex-network.inhit.com
 0.0.0.0 home.countduhmoney.com
 0.0.0.0 home.hit.stat.pl
 0.0.0.0 home.hit.stat24.com
@@ -26724,16 +26716,11 @@
 0.0.0.0 hostlogr.com
 0.0.0.0 hostpapasupport.com
 0.0.0.0 hostpowermedium.112.2o7.net
-0.0.0.0 hot-asian-cherry.inhit.com
 0.0.0.0 hot-click.de
 0.0.0.0 hot-count.com
-0.0.0.0 hot-ebony-babes.inhit.com
 0.0.0.0 hot-free-xxx-pics.xratedpictures.net
-0.0.0.0 hot-glamour-girls.inhit.com
 0.0.0.0 hot-hits.us
 0.0.0.0 hot-in-25.blogtrafic.com
-0.0.0.0 hot-latina-girls.inhit.com
-0.0.0.0 hot-little-package.inhit.com
 0.0.0.0 hot-sexy-girl.blogtrafic.com
 0.0.0.0 hot-sexyxx.com
 0.0.0.0 hot-trade.com
@@ -27021,7 +27008,6 @@
 0.0.0.0 iesnare.com
 0.0.0.0 iestats.cc
 0.0.0.0 ifcol.exitfuel.com
-0.0.0.0 ifghealthmedia.com
 0.0.0.0 ifilmdfx.hitbox.com
 0.0.0.0 iforgot-apple.click
 0.0.0.0 iframe.adultfriendfinder.com
@@ -28760,7 +28746,6 @@
 0.0.0.0 live-medias.com
 0.0.0.0 live-outlook-acount.com
 0.0.0.0 live-sex.loggy.nl
-0.0.0.0 live-voyeur.inhit.com
 0.0.0.0 live.counterstation.de
 0.0.0.0 live.logaholic.com
 0.0.0.0 live.rads.msn.com
@@ -30344,7 +30329,6 @@
 0.0.0.0 mediartrix.com
 0.0.0.0 medias-gooods.ru
 0.0.0.0 medias.buzzmoica.fr
-0.0.0.0 medias.clicks4ads.com
 0.0.0.0 medias.europacash.com
 0.0.0.0 medias.loofok.com
 0.0.0.0 medias.maxidivx.com
@@ -36938,7 +36922,6 @@
 0.0.0.0 mkt7182.com
 0.0.0.0 mkt7183.com
 0.0.0.0 mkt7184.com
-0.0.0.0 mkt7185.com
 0.0.0.0 mkt7186.com
 0.0.0.0 mkt7187.com
 0.0.0.0 mkt7188.com
@@ -42957,7 +42940,6 @@
 0.0.0.0 se.espotting.com
 0.0.0.0 se.ssl.d1.sc.omtrdc.net
 0.0.0.0 sea.collective-media.net
-0.0.0.0 seaarch.info
 0.0.0.0 seacoastonlinecom.112.2o7.net
 0.0.0.0 seal.ranking.com
 0.0.0.0 sealogcomex.com.br
@@ -43078,7 +43060,6 @@
 0.0.0.0 secure.espotting.com
 0.0.0.0 secure.exoclick.com
 0.0.0.0 secure.fastclick.net
-0.0.0.0 secure.flyingcroc.net
 0.0.0.0 secure.hitbox.com
 0.0.0.0 secure.img-cdn.mediaplex.com
 0.0.0.0 secure.imrworldwide.com
@@ -43557,7 +43538,6 @@
 0.0.0.0 showtubemedia.tumblr.com
 0.0.0.0 shoyukai.122.2o7.net
 0.0.0.0 shping6to2producs6riscount.co.tv
-0.0.0.0 shqads.com
 0.0.0.0 shrankoc.chez.com
 0.0.0.0 shreerajtraders.in
 0.0.0.0 shst.tradedoubler.com
@@ -43826,7 +43806,6 @@
 0.0.0.0 smpl.hit.gemius.pl
 0.0.0.0 smpopmech.112.2o7.net
 0.0.0.0 smrt.as
-0.0.0.0 sms-sofort.com
 0.0.0.0 smselectec.112.2o7.net
 0.0.0.0 smsfree100.de
 0.0.0.0 smspdr.112.2o7.net
@@ -44799,7 +44778,6 @@
 0.0.0.0 stats.qwant.com
 0.0.0.0 stats.rbftpnetworks.net
 0.0.0.0 stats.realcyclist.com
-0.0.0.0 stats.redditmedia.com
 0.0.0.0 stats.redfoxrealty.net
 0.0.0.0 stats.resellerratings.com
 0.0.0.0 stats.rewardingprize.com
@@ -47439,7 +47417,6 @@
 0.0.0.0 traffic.adxprtz.com
 0.0.0.0 traffic.bannerator.com
 0.0.0.0 traffic.biz
-0.0.0.0 traffic.bokecc.com
 0.0.0.0 traffic.buyservices.com
 0.0.0.0 traffic.club
 0.0.0.0 traffic.dnip.net
@@ -47642,7 +47619,6 @@
 0.0.0.0 traffictoadv.com
 0.0.0.0 traffictrack.de
 0.0.0.0 traffictrade.info
-0.0.0.0 traffictrade.life
 0.0.0.0 traffictrade.net
 0.0.0.0 traffictradenetwork.com
 0.0.0.0 traffictrader.net
@@ -47769,7 +47745,6 @@
 0.0.0.0 tritondigitalmedia.com
 0.0.0.0 tritonmedia.com
 0.0.0.0 tritonmedianetworks.com
-0.0.0.0 triumphmedia.ro
 0.0.0.0 triumphrat.us.intellitxt.com
 0.0.0.0 trk.clickon.co.il
 0.0.0.0 trk.email.dynect.net
@@ -51417,7 +51392,6 @@
 0.0.0.0 www.clicpac.fr
 0.0.0.0 www.clicrevenus.com
 0.0.0.0 www.clicschool.it
-0.0.0.0 www.clicsex.com
 0.0.0.0 www.clicsex.net
 0.0.0.0 www.clicsolaire.fr
 0.0.0.0 www.clictrafic.com
@@ -51566,7 +51540,6 @@
 0.0.0.0 www.counter.dreamhost.com
 0.0.0.0 www.counter.gd
 0.0.0.0 www.counter.hitbox.com
-0.0.0.0 www.counter.hitslinks.com
 0.0.0.0 www.counter.mycomputer.com
 0.0.0.0 www.counter.org
 0.0.0.0 www.counter.relmaxtop.com
@@ -53436,7 +53409,6 @@
 0.0.0.0 www.media.100200film.com
 0.0.0.0 www.media.com.tw
 0.0.0.0 www.media.delosnetwork.it
-0.0.0.0 www.media.freeprod.com
 0.0.0.0 www.media.https04.com
 0.0.0.0 www.media.monliveshow.com
 0.0.0.0 www.media.net
@@ -53457,7 +53429,6 @@
 0.0.0.0 www.mediabreakaway.com
 0.0.0.0 www.mediabust.com
 0.0.0.0 www.mediacap.net
-0.0.0.0 www.mediacharger.com
 0.0.0.0 www.mediacircusgroup.com
 0.0.0.0 www.mediacodec.info
 0.0.0.0 www.mediacomtoday.com
@@ -53473,7 +53444,6 @@
 0.0.0.0 www.mediaexpertsshop.co.uk
 0.0.0.0 www.mediaeyenews.com
 0.0.0.0 www.mediafactory.cz
-0.0.0.0 www.mediafaq.com
 0.0.0.0 www.mediafax.ro
 0.0.0.0 www.mediafeel.co
 0.0.0.0 www.mediafetcher.com
@@ -53491,7 +53461,6 @@
 0.0.0.0 www.mediagiraffe.org
 0.0.0.0 www.mediagridwork.com
 0.0.0.0 www.mediahdplayer.co
-0.0.0.0 www.mediaheights.com
 0.0.0.0 www.mediahero.ru
 0.0.0.0 www.mediahighway.net
 0.0.0.0 www.mediahits.com
@@ -53744,7 +53713,6 @@
 0.0.0.0 www.miniend.com
 0.0.0.0 www.miragemedia.com
 0.0.0.0 www.miscmedia.com
-0.0.0.0 www.misinformedia.com
 0.0.0.0 www.misleadingstatistics.com
 0.0.0.0 www.mission2.112.2o7.net
 0.0.0.0 www.missomnimedia.com
@@ -53893,7 +53861,6 @@
 0.0.0.0 www.mysupportmedia.com
 0.0.0.0 www.myteamtraffic.com
 0.0.0.0 www.mytrack.ch
-0.0.0.0 www.mytrafficblast.com
 0.0.0.0 www.mytrafficbuilder.info
 0.0.0.0 www.mytrafficteam.com
 0.0.0.0 www.mywactrack.com
@@ -54176,7 +54143,6 @@
 0.0.0.0 www.pagerank100.net
 0.0.0.0 www.pagerankfree.com
 0.0.0.0 www.paid4clicks.de
-0.0.0.0 www.paidclicksnetwork.com
 0.0.0.0 www.paidhitworld.com
 0.0.0.0 www.pakadtrader.com
 0.0.0.0 www.pakarabtrade.com
@@ -54609,7 +54575,6 @@
 0.0.0.0 www.richardday.112.2o7.net
 0.0.0.0 www.richmediasolutions.com
 0.0.0.0 www.richmetrics.com
-0.0.0.0 www.richwebmedia.com
 0.0.0.0 www.rightmedia.com
 0.0.0.0 www.rightstats.com
 0.0.0.0 www.rileycounty.com
@@ -55184,7 +55149,6 @@
 0.0.0.0 www.support-click247h.stream
 0.0.0.0 www.supportcentral.click
 0.0.0.0 www.supportclick.net
-0.0.0.0 www.supportonclick.com
 0.0.0.0 www.supportstatistics.com
 0.0.0.0 www.supremehits.net
 0.0.0.0 www.surancliketap.xyz
@@ -55541,7 +55505,6 @@
 0.0.0.0 www.track4.com
 0.0.0.0 www.track4cr.com
 0.0.0.0 www.trackaffpix.com
-0.0.0.0 www.trackalyzer.com
 0.0.0.0 www.trackamps.com
 0.0.0.0 www.trackbacksecure.com
 0.0.0.0 www.trackbreakingnews.com
@@ -56353,7 +56316,6 @@
 0.0.0.0 www1.bigbangmedia.com
 0.0.0.0 www1.claxonmedia.com
 0.0.0.0 www1.clickdownloader.com
-0.0.0.0 www1.clicktorrent.info
 0.0.0.0 www1.counter.bloke.com
 0.0.0.0 www1.dimeclicks.com
 0.0.0.0 www1.gohip.com

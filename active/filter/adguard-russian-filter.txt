@@ -1,7 +1,7 @@
 # adguard-russian-filter Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-russian-filter.txt
-# Last Converted - 17.09.2018
+# Last Converted - 21.09.2018
 # Total Domains - 2720
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
@@ -739,6 +739,7 @@
 0.0.0.0 eebcbdca7331314.com
 0.0.0.0 effad.ru
 0.0.0.0 effectfree.net
+0.0.0.0 efngeka8czukzyb.ru
 0.0.0.0 eioxy.top
 0.0.0.0 ejdbebdeghajgdicadc.ru
 0.0.0.0 ejevika.com
@@ -1726,7 +1727,6 @@
 0.0.0.0 plusadv.ru
 0.0.0.0 pmndbsjd.site
 0.0.0.0 pmtdatarow.pro
-0.0.0.0 pnewspages.com
 0.0.0.0 pochasos.ru
 0.0.0.0 pofqm.xyz
 0.0.0.0 pokazuha.pp.ua
@@ -2150,7 +2150,6 @@
 0.0.0.0 t.fileplaneta.com
 0.0.0.0 t.nude-moon.com
 0.0.0.0 t.proext.com
-0.0.0.0 t.pusk.ru
 0.0.0.0 t.xtubetv.net
 0.0.0.0 talkfusion.com
 0.0.0.0 talysu.info
@@ -2294,6 +2293,7 @@
 0.0.0.0 torstytons.pro
 0.0.0.0 torvind.com
 0.0.0.0 toutiles.com
+0.0.0.0 tozovulozi.com
 0.0.0.0 tpjz.tmuurnthtf.xyz
 0.0.0.0 tptrk.ru
 0.0.0.0 tpxur.top

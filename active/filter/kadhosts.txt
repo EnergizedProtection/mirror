@@ -1,8 +1,8 @@
 # kadhosts Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt
-# Last Converted - 17.09.2018
-# Total Domains - 1291
+# Last Converted - 21.09.2018
+# Total Domains - 1289
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -698,7 +698,6 @@
 0.0.0.0 newsy-ben24.ml
 0.0.0.0 nonstopvideos.pl
 0.0.0.0 normour.com
-0.0.0.0 norton.pl
 0.0.0.0 notifications-online.systems
 0.0.0.0 notifyday.com
 0.0.0.0 novumedical.pl
@@ -712,7 +711,6 @@
 0.0.0.0 odliczamy.net
 0.0.0.0 odpowiedzialni-rodzice.pl
 0.0.0.0 oferta4you.com.pl
-0.0.0.0 ofertapromo.pl
 0.0.0.0 offergo.net
 0.0.0.0 offerzone.click
 0.0.0.0 ogladaj.online

@@ -1,8 +1,8 @@
 # easyprivacy Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easyprivacy.txt
-# Last Converted - 17.09.2018
-# Total Domains - 5373
+# Last Converted - 21.09.2018
+# Total Domains - 5368
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -2014,7 +2014,6 @@
 0.0.0.0 glogger.inspcloud.com
 0.0.0.0 gm99.com
 0.0.0.0 gmodmp.jp
-0.0.0.0 gmonitor.aliimg.com
 0.0.0.0 gnezdo.ru
 0.0.0.0 gnpge.com
 0.0.0.0 gnrdomimplementation.com
@@ -2955,7 +2954,6 @@
 0.0.0.0 mystat.it
 0.0.0.0 mystats.nl
 0.0.0.0 mysumo.de
-0.0.0.0 mytestminer.xyz
 0.0.0.0 mytictac.com
 0.0.0.0 myusersonline.com
 0.0.0.0 myvisualiq.net
@@ -3063,7 +3061,6 @@
 0.0.0.0 nstracking.com
 0.0.0.0 ntlab.org
 0.0.0.0 nuconomy.com
-0.0.0.0 nudatasecurity.com
 0.0.0.0 nuggad.net
 0.0.0.0 nuloox.com
 0.0.0.0 numerino.cz
@@ -3239,6 +3236,7 @@
 0.0.0.0 perimeterx.net
 0.0.0.0 perion.com
 0.0.0.0 permutive.com
+0.0.0.0 perr.h-cdn.com
 0.0.0.0 persianstat.com
 0.0.0.0 persianstat.ir
 0.0.0.0 personalicanvas.com
@@ -4227,7 +4225,6 @@
 0.0.0.0 stats.propublica.org
 0.0.0.0 stats.pusher.com
 0.0.0.0 stats.rcsobjects.it
-0.0.0.0 stats.redditmedia.com
 0.0.0.0 stats.sa-as.com
 0.0.0.0 stats.sawlive.tv
 0.0.0.0 stats.searchftps.net
@@ -4401,7 +4398,6 @@
 0.0.0.0 t.paypal.com
 0.0.0.0 t.powerreviews.com
 0.0.0.0 t.pswec.com
-0.0.0.0 t.pusk.ru
 0.0.0.0 t.quisma.com
 0.0.0.0 t.sgc.io
 0.0.0.0 t.sharethis.com
@@ -4844,7 +4840,6 @@
 0.0.0.0 tradescape.biz
 0.0.0.0 trafex.net
 0.0.0.0 traffic.acwebconnecting.com
-0.0.0.0 traffic.bokecc.com
 0.0.0.0 traffic.buyservices.com
 0.0.0.0 traffic.prod.cobaltgroup.com
 0.0.0.0 traffic.shareaholic.com

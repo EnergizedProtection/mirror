@@ -1,8 +1,8 @@
 # zerodot1-coinblockerlists-browser Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
-# Last Converted - 17.09.2018
-# Total Domains - 2113
+# Last Converted - 21.09.2018
+# Total Domains - 2102
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -670,7 +670,6 @@
 0.0.0.0 my-rigs.com
 0.0.0.0 myadstats.com
 0.0.0.0 mysite.irkdsu.ru
-0.0.0.0 mytestminer.xyz
 0.0.0.0 nablabee.com
 0.0.0.0 najsiejfnc.win
 0.0.0.0 nametraff.com
@@ -806,7 +805,6 @@
 0.0.0.0 play1.videos.vidto.me
 0.0.0.0 playe.vidto.se
 0.0.0.0 playerassets.info
-0.0.0.0 plexcoin.info
 0.0.0.0 pocketgolf.host
 0.0.0.0 podrltid.info
 0.0.0.0 pon.ewtuyytdf45.com
@@ -835,7 +833,6 @@
 0.0.0.0 proxy-khlizawelj.now.sh
 0.0.0.0 proxy.ajcryptominer.com
 0.0.0.0 proxy.multikonline.ru
-0.0.0.0 proxy.mytestminer.xyz
 0.0.0.0 proxy.nullrefexcep.com
 0.0.0.0 proxy2.nullrefexcep.com
 0.0.0.0 proxy3.nullrefexcep.com
@@ -1501,9 +1498,7 @@
 0.0.0.0 www.a.proxy5.nullrefexcep.com
 0.0.0.0 www.aba.ae
 0.0.0.0 www.ablen01.tk
-0.0.0.0 www.ablen02.tk
 0.0.0.0 www.ablen03.tk
-0.0.0.0 www.ablen04.tk
 0.0.0.0 www.ablen05.tk
 0.0.0.0 www.ablen06.tk
 0.0.0.0 www.ablen07.tk
@@ -1511,7 +1506,6 @@
 0.0.0.0 www.ablen09.tk
 0.0.0.0 www.ablen10.tk
 0.0.0.0 www.ablen11.tk
-0.0.0.0 www.ablen12.tk
 0.0.0.0 www.acbp0020171456.page.tl
 0.0.0.0 www.ad-miner.com
 0.0.0.0 www.adbtc.top
@@ -1521,9 +1515,6 @@
 0.0.0.0 www.adplusplus.fr
 0.0.0.0 www.aeros01.tk
 0.0.0.0 www.aeros02.tk
-0.0.0.0 www.aeros03.tk
-0.0.0.0 www.aeros04.tk
-0.0.0.0 www.aeros05.tk
 0.0.0.0 www.aeros06.tk
 0.0.0.0 www.aeros07.tk
 0.0.0.0 www.aeros08.tk
@@ -1602,7 +1593,6 @@
 0.0.0.0 www.coinblind.com
 0.0.0.0 www.coiner.site
 0.0.0.0 www.coinerra.com
-0.0.0.0 www.coingive.com
 0.0.0.0 www.coinhive-manager.com
 0.0.0.0 www.coinhive-proxy.party
 0.0.0.0 www.coinhive.com
@@ -1833,7 +1823,6 @@
 0.0.0.0 www.mxcdn2.now.sh
 0.0.0.0 www.my-rigs.com
 0.0.0.0 www.myadstats.com
-0.0.0.0 www.mytestminer.xyz
 0.0.0.0 www.nablabee.com
 0.0.0.0 www.nathetsof.com
 0.0.0.0 www.nebabrop.com

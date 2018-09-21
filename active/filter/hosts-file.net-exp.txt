@@ -1,8 +1,8 @@
 # hosts-file.net-exp Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://hosts-file.net/exp.txt
-# Last Converted - 17.09.2018
-# Total Domains - 1040
+# Last Converted - 21.09.2018
+# Total Domains - 1039
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -1003,7 +1003,6 @@
 0.0.0.0 xaxxr7.pal.wkcengland.co.uk
 0.0.0.0 xco6sv.lol.airporttaxipershore.co.uk
 0.0.0.0 xd3o7t.lero.worldkickboxingcommission.com
-0.0.0.0 xd6vb5.kozer.2ndincome4u.org.uk
 0.0.0.0 xfsghx.shet.eveshamairporttransfers.co.uk
 0.0.0.0 xk9hrf.blow.harrisretreat.com
 0.0.0.0 xm6g25.onl.onlinetrees.co.uk

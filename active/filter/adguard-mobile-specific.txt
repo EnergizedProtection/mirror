@@ -1,12 +1,13 @@
 # adguard-mobile-specific Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-mobile-specific.txt
-# Last Converted - 17.09.2018
-# Total Domains - 15
+# Last Converted - 21.09.2018
+# Total Domains - 16
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
 
+0.0.0.0 api-a.op-mobile.opera.com
 0.0.0.0 api.mobpowertech.com
 0.0.0.0 batmobil.net
 0.0.0.0 cloudservice14.kingsoft-office-service.com

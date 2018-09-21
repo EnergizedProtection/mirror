@@ -1,8 +1,8 @@
 # fademind-add.risk Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
-# Last Converted - 17.09.2018
-# Total Domains - 2797
+# Last Converted - 21.09.2018
+# Total Domains - 2785
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -12,7 +12,6 @@
 0.0.0.0 050005.voodoo.com
 0.0.0.0 0iecfobt.com
 0.0.0.0 0koryu0.easter.ne.jp
-0.0.0.0 1.googlenews.xorg.pl
 0.0.0.0 1.hidemyass.com
 0.0.0.0 1001movies.com
 0.0.0.0 101malls.com
@@ -27,12 +26,10 @@
 0.0.0.0 188838.parkingcrew.net
 0.0.0.0 1gavcom.popunder.ru
 0.0.0.0 1xxx.cqcounter.com
-0.0.0.0 2.googlenews.xorg.pl
 0.0.0.0 2.hidemyass.com
 0.0.0.0 2.rubanners.com
 0.0.0.0 21750.tctm.co
 0.0.0.0 2607.cn
-0.0.0.0 3.googlenews.xorg.pl
 0.0.0.0 3.hidemyass.com
 0.0.0.0 302br.net
 0.0.0.0 32e1dff65ea4eb3627ed-f1ecc94c86a56d3e42e512fcfd192886.r6.cf1.rackcdn.com
@@ -41,7 +38,6 @@
 0.0.0.0 4.collecorvino.org
 0.0.0.0 4.dlevo.com
 0.0.0.0 4.e-why.net
-0.0.0.0 4.googlenews.xorg.pl
 0.0.0.0 4.hidemyass.com
 0.0.0.0 4.whereinitaly.com
 0.0.0.0 4.whereinlazio.com
@@ -62,7 +58,6 @@
 0.0.0.0 4654.2465.primosearch.com
 0.0.0.0 5.estasiatica.com
 0.0.0.0 5.eventiduepuntozero.com
-0.0.0.0 5.googlenews.xorg.pl
 0.0.0.0 5.hidemyass.com
 0.0.0.0 5486.winxp.primosearch.com
 0.0.0.0 5490.spedads.primosearch.com
@@ -712,7 +707,6 @@
 0.0.0.0 gom-player.gooofull.com
 0.0.0.0 google-docs.org
 0.0.0.0 google-hacks.softonic.fr
-0.0.0.0 googlenews.xorg.pl
 0.0.0.0 googlew.com
 0.0.0.0 googlre.com
 0.0.0.0 googlwe.com
@@ -764,7 +758,6 @@
 0.0.0.0 hitwastedgarden.com
 0.0.0.0 hnskorea.co.kr
 0.0.0.0 hoerbird.net
-0.0.0.0 holdhelptime.com
 0.0.0.0 holika.com
 0.0.0.0 homedepoy.com
 0.0.0.0 homrdepot.com
@@ -1338,7 +1331,6 @@
 0.0.0.0 securemypc.co.uk
 0.0.0.0 securetracking2.com
 0.0.0.0 securetrk1.com
-0.0.0.0 securezone33.xorg.pl
 0.0.0.0 secuurity.net
 0.0.0.0 seekinstantly.com
 0.0.0.0 seethisinaction.com
@@ -1600,7 +1592,6 @@
 0.0.0.0 trk4.com
 0.0.0.0 trkingace.com
 0.0.0.0 trqvelocity.com
-0.0.0.0 trueguardscaner33-p.xorg.pl
 0.0.0.0 trusearch.net
 0.0.0.0 trustsoft.com
 0.0.0.0 trvelocity.com
@@ -1970,7 +1961,6 @@
 0.0.0.0 www.cybilling.com
 0.0.0.0 www.dance-alarm.de
 0.0.0.0 www.darley.co.uk
-0.0.0.0 www.dateck.com
 0.0.0.0 www.dcm5.com
 0.0.0.0 www.dddcc.com
 0.0.0.0 www.decografix.com
@@ -2086,7 +2076,6 @@
 0.0.0.0 www.games4u.ws
 0.0.0.0 www.gamesfly.com
 0.0.0.0 www.gamesharck.com
-0.0.0.0 www.gamesharkcentral.com
 0.0.0.0 www.garudaairlines.com
 0.0.0.0 www.gayxperience.com
 0.0.0.0 www.gen2server.com
@@ -2215,7 +2204,6 @@
 0.0.0.0 www.lonelywifehookup.com
 0.0.0.0 www.longtraffic.com
 0.0.0.0 www.lostartofbeingadame.com
-0.0.0.0 www.lottoga.com
 0.0.0.0 www.lprshcsmijfovp.com
 0.0.0.0 www.luchtenbergdecor.com.br
 0.0.0.0 www.lufhansa.com

@@ -1,8 +1,8 @@
 # ador-energized-porn Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts-porn
-# Last Converted - 17.09.2018
-# Total Domains - 143
+# Last Converted - 21.09.2018
+# Total Domains - 145
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -42,6 +42,7 @@
 0.0.0.0 img-hw.xvideos-cdn.com
 0.0.0.0 inhumanity.com
 0.0.0.0 ipornox.xxx
+0.0.0.0 kalporn.com
 0.0.0.0 m.3movs.com
 0.0.0.0 m.4tube.com
 0.0.0.0 m.drtuber.com
@@ -117,6 +118,7 @@
 0.0.0.0 www.hegre.com
 0.0.0.0 www.iknowthatgirl.com
 0.0.0.0 www.inhumanity.com
+0.0.0.0 www.kalporn.com
 0.0.0.0 www.mofos.com
 0.0.0.0 www.naughtyamerica.com
 0.0.0.0 www.porn.com

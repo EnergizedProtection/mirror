@@ -1,8 +1,8 @@
 # hosts-file.net-mmt Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://hosts-file.net/mmt.txt
-# Last Converted - 17.09.2018
-# Total Domains - 3973
+# Last Converted - 21.09.2018
+# Total Domains - 3969
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -2416,7 +2416,6 @@
 0.0.0.0 viewindia.com
 0.0.0.0 villmark.com
 0.0.0.0 vimax.ro
-0.0.0.0 vinceandjoesmarket.com
 0.0.0.0 violetness.noadware.hop.clickbank.net
 0.0.0.0 vioplayer.com
 0.0.0.0 vipdefense.com
@@ -2539,7 +2538,6 @@
 0.0.0.0 worth4you.regfix.hop.clickbank.net
 0.0.0.0 wuya2310.sspykiller.hop.clickbank.net
 0.0.0.0 wvolante.com
-0.0.0.0 ww.beachcam.com
 0.0.0.0 www.010cs.com
 0.0.0.0 www.1-coupons.com
 0.0.0.0 www.14dayrapidfatlossplan.com
@@ -3829,7 +3827,6 @@
 0.0.0.0 www.womanshealthplus.com
 0.0.0.0 www.workingdriver.com
 0.0.0.0 www.worldprofit.com
-0.0.0.0 www.ww.beachcam.com
 0.0.0.0 www.wwwadulto.com
 0.0.0.0 www.wwwblackporn.com
 0.0.0.0 www.wwwsexmovies.com
@@ -3887,7 +3884,6 @@
 0.0.0.0 www.zoranjuric.com
 0.0.0.0 www.zwinky.com
 0.0.0.0 www.zwinkycuties.com
-0.0.0.0 www2.imar.net
 0.0.0.0 www2.xtdl.com
 0.0.0.0 www3.exn.net
 0.0.0.0 www8.tucows.com

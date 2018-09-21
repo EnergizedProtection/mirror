@@ -1,8 +1,8 @@
 # blockzilla Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/blockzilla.txt
-# Last Converted - 17.09.2018
-# Total Domains - 463
+# Last Converted - 21.09.2018
+# Total Domains - 464
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -326,6 +326,7 @@
 0.0.0.0 perfdrive.com
 0.0.0.0 perfectaudience.com
 0.0.0.0 perfecttoolmedia.com
+0.0.0.0 perr.h-cdn.com
 0.0.0.0 petametrics.com
 0.0.0.0 phantom.nudgespot.com
 0.0.0.0 picadmedia.com

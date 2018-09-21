@@ -1,8 +1,8 @@
 # sbc-hosts Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts
-# Last Converted - 17.09.2018
-# Total Domains - 678
+# Last Converted - 21.09.2018
+# Total Domains - 680
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -413,6 +413,7 @@
 0.0.0.0 mx.ero-advertising.com
 0.0.0.0 my.rtmark.net
 0.0.0.0 mybb.ero-advertising.com
+0.0.0.0 myfreecams.com
 0.0.0.0 mysterysnooper.com
 0.0.0.0 mywot.com
 0.0.0.0 mywot.net
@@ -652,6 +653,7 @@
 0.0.0.0 www.imysurvey.com
 0.0.0.0 www.lecap-services.fr
 0.0.0.0 www.movieads.ero-advertising.com
+0.0.0.0 www.myfreecams.com
 0.0.0.0 www.mywot.com
 0.0.0.0 www.mywot.net
 0.0.0.0 www.nikitinskysport.ru

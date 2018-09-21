@@ -1,8 +1,8 @@
 # spam404.com-adblocklist Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/spam404-ad.txt
-# Last Converted - 17.09.2018
-# Total Domains - 3371
+# Last Converted - 21.09.2018
+# Total Domains - 3364
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -638,7 +638,6 @@
 0.0.0.0 csgoknife.top
 0.0.0.0 csgolaurel.com
 0.0.0.0 csgolden.com
-0.0.0.0 csgoldluck.com
 0.0.0.0 csgoleto.com
 0.0.0.0 csgolevar.com
 0.0.0.0 csgolounge.money
@@ -896,7 +895,6 @@
 0.0.0.0 eightmilecreek.us
 0.0.0.0 ekszgamesoft.com
 0.0.0.0 electcase.com
-0.0.0.0 elite-cases.com
 0.0.0.0 elite-cheats.net
 0.0.0.0 elitecases-cs.com
 0.0.0.0 elitecheats24.com
@@ -1785,7 +1783,6 @@
 0.0.0.0 hacks-land.net
 0.0.0.0 hacks-world.com
 0.0.0.0 hacks.2download.eu
-0.0.0.0 hacks24.pl
 0.0.0.0 hacks24h.com
 0.0.0.0 hacks4.com
 0.0.0.0 hacks4.me
@@ -2386,8 +2383,6 @@
 0.0.0.0 onlineclashofclanshack.com
 0.0.0.0 onlinefacebookhacking.com
 0.0.0.0 onlinefbhack.com
-0.0.0.0 onlinegamecheats.net
-0.0.0.0 onlinegamesecret.com
 0.0.0.0 onlinegamesfiles.com
 0.0.0.0 onlinegameshacks.com
 0.0.0.0 onlinegametools.net
@@ -2499,7 +2494,6 @@
 0.0.0.0 portalhacks.com
 0.0.0.0 powerfulcheats.com
 0.0.0.0 powerfulhacks.com
-0.0.0.0 powergaming.us
 0.0.0.0 ppapgame.com
 0.0.0.0 ppdninjas.com
 0.0.0.0 pre-hackedgames.net
@@ -2533,7 +2527,6 @@
 0.0.0.0 progenerators24.website
 0.0.0.0 prohacktools.com
 0.0.0.0 promediasearch.com
-0.0.0.0 promovies.org
 0.0.0.0 ps3emulator.fr
 0.0.0.0 ps3jailbreakdownloadfree.com
 0.0.0.0 ps3jailbreaktuts.net

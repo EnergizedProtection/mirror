@@ -1,8 +1,8 @@
 # bjornstar-hosts Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/bjornstar/hosts/master/hosts
-# Last Converted - 17.09.2018
-# Total Domains - 5354
+# Last Converted - 21.09.2018
+# Total Domains - 5361
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -606,6 +606,7 @@
 0.0.0.0 analyzer.dtiblog.com
 0.0.0.0 analyzer.yourownapps.com
 0.0.0.0 anothere.club
+0.0.0.0 antinuef.info
 0.0.0.0 antivirus-scanner.com
 0.0.0.0 anvil.opentok.com
 0.0.0.0 anx.mywebsearch.com
@@ -812,6 +813,7 @@
 0.0.0.0 banners.wunderground.com
 0.0.0.0 banners.xmatch.com
 0.0.0.0 banners.yllix.com
+0.0.0.0 basepush.com
 0.0.0.0 bat.bing.com
 0.0.0.0 bauffnmtou.com
 0.0.0.0 baypops.com
@@ -1411,7 +1413,6 @@
 0.0.0.0 creative.speednetwork13.com
 0.0.0.0 creative.speednetwork15.com
 0.0.0.0 creative.speednetwork16.com
-0.0.0.0 creative.wwwpromoter.com
 0.0.0.0 creatives.badongo.com
 0.0.0.0 creatives.cdn.commindo.de.lg1.simplecdn.net
 0.0.0.0 creatives.livejasmin.com
@@ -1581,6 +1582,8 @@
 0.0.0.0 dnld.winsecuritydl.com
 0.0.0.0 dnn506yrbagrg.cloudfront.net
 0.0.0.0 dnssearch.rr.com
+0.0.0.0 docsconvert.club
+0.0.0.0 doctoconve.club
 0.0.0.0 dogfood.turbobytes.com
 0.0.0.0 dollarade.com
 0.0.0.0 domainmanager.com
@@ -2811,6 +2814,7 @@
 0.0.0.0 myidm.io
 0.0.0.0 mylikes.com
 0.0.0.0 mymediadownloadsnine.com
+0.0.0.0 myqvhpjyd.com
 0.0.0.0 mysoftwarelive.com
 0.0.0.0 mystartab.com
 0.0.0.0 mywow.userecho.com
@@ -3164,6 +3168,7 @@
 0.0.0.0 pp-serve.newsinc.com
 0.0.0.0 pp.anastasiadate.com
 0.0.0.0 pp.vidcr.com
+0.0.0.0 pptchecker.club
 0.0.0.0 pr-bh.ybp.yahoo.com
 0.0.0.0 pr.prchecker.info
 0.0.0.0 pr.ybp.yahoo.com
@@ -3243,6 +3248,7 @@
 0.0.0.0 pulsemgr.com
 0.0.0.0 pumada.xyz
 0.0.0.0 puserving.com
+0.0.0.0 pushame.com
 0.0.0.0 pushance.com
 0.0.0.0 pushcrew.com
 0.0.0.0 pushno.com
@@ -3700,7 +3706,6 @@
 0.0.0.0 shought-purives.com
 0.0.0.0 show.adclick.lv
 0.0.0.0 showads.pubmatic.com
-0.0.0.0 shqads.com
 0.0.0.0 shulitet.ru
 0.0.0.0 shurkatsa.ru
 0.0.0.0 sic-akamai.33across.com
@@ -4027,6 +4032,7 @@
 0.0.0.0 syndication.traffichaus.com
 0.0.0.0 syndication.trafficreps.com
 0.0.0.0 syndik8ed.com
+0.0.0.0 szlkqxlkcz.com
 0.0.0.0 t.adclr.jp
 0.0.0.0 t.alcvid.com
 0.0.0.0 t.cqq5id8n.com
@@ -4084,7 +4090,6 @@
 0.0.0.0 tag.wigetmedia.com
 0.0.0.0 tagbucket.cc
 0.0.0.0 tags-cdn.deployads.com
-0.0.0.0 tags.bkrtx.com
 0.0.0.0 tags.bluekai.com
 0.0.0.0 tags.crwdcntrl.net
 0.0.0.0 tags.expo9.exponential.com
@@ -4543,6 +4548,7 @@
 0.0.0.0 winsecurity.site
 0.0.0.0 withbinaryoptions.com
 0.0.0.0 withdromnit.pro
+0.0.0.0 witholiced.info
 0.0.0.0 witlee-main.firebaseapp.com
 0.0.0.0 wixi.com
 0.0.0.0 wl1xbet.adsrv.eacdn.com
@@ -4941,6 +4947,7 @@
 0.0.0.0 www.myfreestarbuckscoffee.com
 0.0.0.0 www.myhcgultras.com
 0.0.0.0 www.mypagerank.net
+0.0.0.0 www.myqvhpjyd.com
 0.0.0.0 www.myroitracking.com
 0.0.0.0 www.myseostats.com
 0.0.0.0 www.myvoicenation.com

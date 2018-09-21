@@ -1,8 +1,8 @@
 # easyprivacy-specific Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easyprivacy-specific.txt
-# Last Converted - 17.09.2018
-# Total Domains - 686
+# Last Converted - 21.09.2018
+# Total Domains - 684
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -216,7 +216,6 @@
 0.0.0.0 geoip.viamichelin.com
 0.0.0.0 glassmoni.researchgate.net
 0.0.0.0 glean.pop6.com
-0.0.0.0 gmonitor.aliimg.com
 0.0.0.0 go.theregister.com
 0.0.0.0 h.cliphunter.com
 0.0.0.0 harvester.eu.square-enix.com
@@ -538,7 +537,6 @@
 0.0.0.0 stats.piaggio.com
 0.0.0.0 stats.propublica.org
 0.0.0.0 stats.pusher.com
-0.0.0.0 stats.redditmedia.com
 0.0.0.0 stats.searchftps.net
 0.0.0.0 stats.searchftps.org
 0.0.0.0 stats.sharenet.co.za

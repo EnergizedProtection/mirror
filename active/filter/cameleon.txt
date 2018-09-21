@@ -1,8 +1,8 @@
 # cameleon Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - http://sysctl.org/cameleon/hosts
-# Last Converted - 17.09.2018
-# Total Domains - 19388
+# Last Converted - 21.09.2018
+# Total Domains - 19363
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -52,7 +52,6 @@
 0.0.0.0 1-2-free.com
 0.0.0.0 1-se.com
 0.0.0.0 1.cataloc.msk.ru
-0.0.0.0 1.googlenews.xorg.pl
 0.0.0.0 1.hao929.cn
 0.0.0.0 1.im.cz
 0.0.0.0 1.sharkadnetwork.com
@@ -211,7 +210,6 @@
 0.0.0.0 2-easy.com
 0.0.0.0 2-spyware.com
 0.0.0.0 2.cataloc.msk.ru
-0.0.0.0 2.googlenews.xorg.pl
 0.0.0.0 2.s09.flagcounter.com
 0.0.0.0 20.sharedsource.org
 0.0.0.0 2000charge.com
@@ -295,7 +293,6 @@
 0.0.0.0 2trades.com
 0.0.0.0 2younger.com
 0.0.0.0 3-day-diet.com
-0.0.0.0 3.googlenews.xorg.pl
 0.0.0.0 3.vlogexpert.com
 0.0.0.0 30001.hittail.com
 0.0.0.0 30811.hittail.com
@@ -345,7 +342,6 @@
 0.0.0.0 4-wheelers.com
 0.0.0.0 4.afs.googleadservices.com
 0.0.0.0 4.getredirect.com
-0.0.0.0 4.googlenews.xorg.pl
 0.0.0.0 403.hqhost.net
 0.0.0.0 404.99fh.com
 0.0.0.0 404.cjb.net
@@ -397,7 +393,6 @@
 0.0.0.0 4wheeldrives.com
 0.0.0.0 4wmp.nuggad.net
 0.0.0.0 4x4review.us.intellitxt.com
-0.0.0.0 5.googlenews.xorg.pl
 0.0.0.0 50.6.87.194.dynamic.dol.ru
 0.0.0.0 506.xg4ken.com
 0.0.0.0 50cents.com
@@ -910,7 +905,6 @@
 0.0.0.0 ad.altervista.org
 0.0.0.0 ad.amgdgt.com
 0.0.0.0 ad.antventure.com
-0.0.0.0 ad.aquamediadirect.com
 0.0.0.0 ad.ar.doubleclick.net
 0.0.0.0 ad.asntown.net
 0.0.0.0 ad.at.doubleclick.net
@@ -4932,7 +4926,6 @@
 0.0.0.0 adsense.clicking.com.tw
 0.0.0.0 adserv.aavalue.com
 0.0.0.0 adserv.adbonus.com
-0.0.0.0 adserv.basedvd.com
 0.0.0.0 adserv.brandaffinity.net
 0.0.0.0 adserv.bravenet.com
 0.0.0.0 adserv.exxxit.com
@@ -5808,7 +5801,6 @@
 0.0.0.0 advt.webindia123.com
 0.0.0.0 adware-2009.com
 0.0.0.0 adware-remover.net
-0.0.0.0 adware-spyware-removal.net
 0.0.0.0 adware.com
 0.0.0.0 adware.hu
 0.0.0.0 adware.privacy-solution.com
@@ -6166,7 +6158,6 @@
 0.0.0.0 altoentertainment.com
 0.0.0.0 altogames.com
 0.0.0.0 aluriasoftware.com
-0.0.0.0 alwaysforfriend.land.ru
 0.0.0.0 alwaysgirls.com
 0.0.0.0 alymail.com
 0.0.0.0 alyon.net
@@ -6421,7 +6412,6 @@
 0.0.0.0 antispywareupdates.net
 0.0.0.0 antivermins.com
 0.0.0.0 antivirgear.com
-0.0.0.0 antivirus-database.com
 0.0.0.0 antivirus-scanner.com
 0.0.0.0 antivirus-security.net
 0.0.0.0 antivirus.lv
@@ -6509,7 +6499,6 @@
 0.0.0.0 ap.octopuspop.com
 0.0.0.0 ap.read.mediation.pns.ap.orangeads.fr
 0.0.0.0 ap.www.sabela.com
-0.0.0.0 apbwm6.xorg.pl
 0.0.0.0 apdigitalorg.112.2o7.net
 0.0.0.0 apdigitalorgovn.112.2o7.net
 0.0.0.0 aperture.displaymarketplace.com
@@ -6700,7 +6689,6 @@
 0.0.0.0 atrd.netmng.com
 0.0.0.0 atrk.alexametrics.com
 0.0.0.0 atspace.de.intellitxt.com
-0.0.0.0 attribution.webmarketing123.com
 0.0.0.0 au-cdn.effectivemeasure.net
 0.0.0.0 au.2.cqcounter.com
 0.0.0.0 au.ads.link4ads.com
@@ -9099,7 +9087,6 @@
 0.0.0.0 charter.demdex.net
 0.0.0.0 chatloveonline.com
 0.0.0.0 chchoice.112.2o7.net
-0.0.0.0 cheappillz.ru
 0.0.0.0 cheatcc.us.intellitxt.com
 0.0.0.0 cheatingdome.us.intellitxt.com
 0.0.0.0 checkin101.com
@@ -9829,7 +9816,6 @@
 0.0.0.0 creative.cc-dt.com
 0.0.0.0 creative.clicksor.com
 0.0.0.0 creative.m2pub.com
-0.0.0.0 creative.wwwpromoter.com
 0.0.0.0 creativeby1.unicast.com
 0.0.0.0 creativeby2.unicast.com
 0.0.0.0 creativecdn.com
@@ -10610,7 +10596,6 @@
 0.0.0.0 er20090515.com
 0.0.0.0 eremedia.112.2o7.net
 0.0.0.0 ericablasberg.sexybabesx.com
-0.0.0.0 erie.smartage.net
 0.0.0.0 erofan.com
 0.0.0.0 erosvillage.com
 0.0.0.0 erotic.masterstats.com
@@ -11289,7 +11274,6 @@
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googleads2.g.doubleclick.net
 0.0.0.0 googleads4.g.doubleclick.net
-0.0.0.0 googlenews.xorg.pl
 0.0.0.0 gopopup.com
 0.0.0.0 goreal.at
 0.0.0.0 goserv.com
@@ -12653,7 +12637,6 @@
 0.0.0.0 ls.hit.gemius.pl
 0.0.0.0 lsda.carpediem.fr
 0.0.0.0 lse.uk.intellitxt.com
-0.0.0.0 lstats.qip.ru
 0.0.0.0 lt.adocean.pl
 0.0.0.0 lt.hit.gemius.pl
 0.0.0.0 lt.retargeter.com
@@ -14734,7 +14717,6 @@
 0.0.0.0 r.turn.com
 0.0.0.0 r.yieldkit.com
 0.0.0.0 r1.ace.advertising.com
-0.0.0.0 r1.literotica.com
 0.0.0.0 r1.zedo.com
 0.0.0.0 r5.dir.bg
 0.0.0.0 raahenseutu.jainos.fi
@@ -15331,7 +15313,6 @@
 0.0.0.0 script.opentracker.net
 0.0.0.0 script.tailsweep.com
 0.0.0.0 scripts.chitika.net
-0.0.0.0 scripts.conversionattribution.com
 0.0.0.0 scripts.demandbase.com
 0.0.0.0 scripts.host.bannerflow.com
 0.0.0.0 scripts.kataweb.it
@@ -15364,7 +15345,6 @@
 0.0.0.0 se.monetate.net
 0.0.0.0 se.sitestat.com
 0.0.0.0 sea.effectivemeasure.net
-0.0.0.0 seaarch.info
 0.0.0.0 seacoastonlinecom.112.2o7.net
 0.0.0.0 seal.ranking.com
 0.0.0.0 seal.validatedsite.com
@@ -15619,7 +15599,6 @@
 0.0.0.0 show2.textads.lv
 0.0.0.0 showads.pubmatic.com
 0.0.0.0 showbehind.com
-0.0.0.0 shtozazalupa2.xorg.pl
 0.0.0.0 si.2.cqcounter.com
 0.0.0.0 si.adocean.pl
 0.0.0.0 si.hit.gemius.pl
@@ -16335,7 +16314,6 @@
 0.0.0.0 tag.yieldoptimizer.com
 0.0.0.0 tags-cdn.deployads.com
 0.0.0.0 tags.api.umbel.com
-0.0.0.0 tags.bkrtx.com
 0.0.0.0 tags.bluekai.com
 0.0.0.0 tags.crwdcntrl.net
 0.0.0.0 tags.deployads.com
@@ -17724,7 +17702,6 @@
 0.0.0.0 www.anastasiasaffiliate.com
 0.0.0.0 www.andyhoppe.com
 0.0.0.0 www.angleinteractive.net
-0.0.0.0 www.animacoes.land.ru
 0.0.0.0 www.anrdoezrs.net
 0.0.0.0 www.antaraimedia.com
 0.0.0.0 www.antarasystems.com
@@ -18035,7 +18012,6 @@
 0.0.0.0 www.ek21.com
 0.0.0.0 www.electricroms.com
 0.0.0.0 www.electronic-group.com
-0.0.0.0 www.electronicpromotion.com
 0.0.0.0 www.elitedollars.com
 0.0.0.0 www.ellads.com
 0.0.0.0 www.emjcd.com
@@ -19091,7 +19067,6 @@
 0.0.0.0 www.zugosearch.com
 0.0.0.0 www.zzztech.com
 0.0.0.0 www1.addfreestats.com
-0.0.0.0 www1.clicktorrent.info
 0.0.0.0 www1.kliks.nl
 0.0.0.0 www1.mpnrs.com
 0.0.0.0 www1.paypopup.com

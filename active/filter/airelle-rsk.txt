@@ -1,8 +1,8 @@
 # airelle-rsk Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/mirror/airelle-rsk.txt
-# Last Converted - 17.09.2018
-# Total Domains - 50924
+# Last Converted - 21.09.2018
+# Total Domains - 50897
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -157,7 +157,6 @@
 0.0.0.0 1.17110.com
 0.0.0.0 1.18.broadband7.iol.cz
 0.0.0.0 1.casino-engine.ru
-0.0.0.0 1.googlenews.xorg.pl
 0.0.0.0 1.vg
 0.0.0.0 10-159.031.popsite.net
 0.0.0.0 10-211-133-95.pool.ukrtel.net
@@ -1492,7 +1491,6 @@
 0.0.0.0 2.231.36.72.static.reverse.ltdomains.com
 0.0.0.0 2.66ri.com
 0.0.0.0 2.danielroyce.com
-0.0.0.0 2.googlenews.xorg.pl
 0.0.0.0 2.netster.com
 0.0.0.0 2.red-88-6-203.staticip.rima-tde.net
 0.0.0.0 2.sub-70-198-68.myvzw.com
@@ -3462,7 +3460,6 @@
 0.0.0.0 3.198.36.72.static.reverse.ltdomains.com
 0.0.0.0 3.40.232.72.static.reverse.ltdomains.com
 0.0.0.0 3.co.kr
-0.0.0.0 3.googlenews.xorg.pl
 0.0.0.0 3.red-80-32-119.staticip.rima-tde.net
 0.0.0.0 3.zupload.com
 0.0.0.0 30.134.148.210.dy.bbexcite.jp
@@ -3611,7 +3608,6 @@
 0.0.0.0 4-links.net
 0.0.0.0 4.198.36.72.static.reverse.ltdomains.com
 0.0.0.0 4.bjlt1.crsky.com
-0.0.0.0 4.googlenews.xorg.pl
 0.0.0.0 4.red-88-6-133.staticip.rima-tde.net
 0.0.0.0 4.sub-75-207-172.myvzw.com
 0.0.0.0 40-169-195-217.cust.centrio.cz
@@ -3731,7 +3727,6 @@
 0.0.0.0 4xx4.net
 0.0.0.0 5-170-195-217.cust.centrio.cz
 0.0.0.0 5.198.36.72.static.reverse.ltdomains.com
-0.0.0.0 5.googlenews.xorg.pl
 0.0.0.0 5.sub-75-206-187.myvzw.com
 0.0.0.0 5.zupload.com
 0.0.0.0 50.178.48.60.brk02-home.tm.net.my
@@ -14532,7 +14527,6 @@
 0.0.0.0 antivirenscanner.com
 0.0.0.0 antivirgear.com
 0.0.0.0 antivirgins.com
-0.0.0.0 antivirus-database.com
 0.0.0.0 antivirus-gratis-descarga.blogspot.com
 0.0.0.0 antivirus-scanner.com
 0.0.0.0 antivirus-security.net
@@ -26288,7 +26282,6 @@
 0.0.0.0 downloads-whatsapp.com
 0.0.0.0 downloads.5star-network.com
 0.0.0.0 downloads.exampacs.net
-0.0.0.0 downloads.khinsider.com
 0.0.0.0 downloads.mediaplayer4free.com
 0.0.0.0 downloads.memedia.com
 0.0.0.0 downloads.motilaloswal.com
@@ -32062,10 +32055,8 @@
 0.0.0.0 google4.it
 0.0.0.0 googleads.g.doubleclick.cn.com
 0.0.0.0 googledoc.hpo.biz
-0.0.0.0 googledoc.raganinfotech.com
 0.0.0.0 googledrive.com.securedocument.view.wdvts.be
 0.0.0.0 googlef.it
-0.0.0.0 googlenews.xorg.pl
 0.0.0.0 googler.it
 0.0.0.0 googlerank.info
 0.0.0.0 googles.com.cn
@@ -33032,7 +33023,6 @@
 0.0.0.0 hacks.chartbeat.com
 0.0.0.0 hacks.dlux.hu
 0.0.0.0 hacks.nl
-0.0.0.0 hacks24.pl
 0.0.0.0 hacks4.me
 0.0.0.0 hacks4apps.com
 0.0.0.0 hacks4free.net
@@ -33738,7 +33728,6 @@
 0.0.0.0 hogwatch.org
 0.0.0.0 hohu.spacequadrat.de
 0.0.0.0 hokkatsu6.web.fc2.com
-0.0.0.0 holdhelptime.com
 0.0.0.0 holeporn.com
 0.0.0.0 holidayhops.com
 0.0.0.0 holidayinnbeachside.com
@@ -37517,7 +37506,6 @@
 0.0.0.0 keywordsconnect.com
 0.0.0.0 keywork.info
 0.0.0.0 kf-design.com
-0.0.0.0 kfc.i.illuminationes.com
 0.0.0.0 kfdo.com
 0.0.0.0 kfz-youngtimerservice.de
 0.0.0.0 kg.myuniversitytoolbar.com
@@ -38813,7 +38801,6 @@
 0.0.0.0 lolave.com
 0.0.0.0 lolhack.softwareuninstallerdownload.com
 0.0.0.0 lolihost.com
-0.0.0.0 lolita-pics.info
 0.0.0.0 lolita4all1.xrensmagpost.com
 0.0.0.0 lolitojr.com.mx
 0.0.0.0 lolkiss.info
@@ -43166,7 +43153,6 @@
 0.0.0.0 nycwave.ourtoolbar.com
 0.0.0.0 nydailynews.d1.sc.omtrdc.net
 0.0.0.0 nykredit.122.207.net
-0.0.0.0 nylon-master.com
 0.0.0.0 nylonerotica.net
 0.0.0.0 nylonporn.com
 0.0.0.0 nylonsexy.com
@@ -45900,7 +45886,6 @@
 0.0.0.0 qyfamen.com
 0.0.0.0 qzcpotzdkfyn.com
 0.0.0.0 qzip.cjb.net
-0.0.0.0 r1.literotica.com
 0.0.0.0 r2prod.com
 0.0.0.0 rabunkowyspelimeyer.greenfishlight.net
 0.0.0.0 racker.h3x.eu
@@ -46420,7 +46405,6 @@
 0.0.0.0 securetracking2.com
 0.0.0.0 securetrk1.com
 0.0.0.0 securewebsiteaccess.com
-0.0.0.0 securezone33.xorg.pl
 0.0.0.0 securitybulletin.net
 0.0.0.0 securitycenter-applestrong-clientcare-cracking.com
 0.0.0.0 securitycenteralerts.com
@@ -47568,7 +47552,6 @@
 0.0.0.0 trombocrack.com
 0.0.0.0 trouvainterstreet.militarypopupweddings.com
 0.0.0.0 trqvelocity.com
-0.0.0.0 trueguardscaner33-p.xorg.pl
 0.0.0.0 truehack.net
 0.0.0.0 truepublish.de
 0.0.0.0 trullenterprises.com
@@ -48101,7 +48084,6 @@
 0.0.0.0 wethere.com
 0.0.0.0 wetpeachcash.com
 0.0.0.0 wewillrocknow.com
-0.0.0.0 wfoto.front.ru
 0.0.0.0 whabi.csheaven.com
 0.0.0.0 whacked-out-teenagers.tumblr.com
 0.0.0.0 whackedmedia.com
@@ -48380,7 +48362,6 @@
 0.0.0.0 www.advcash.biz
 0.0.0.0 www.adventa.info
 0.0.0.0 www.advert-network.com
-0.0.0.0 www.adware.pro
 0.0.0.0 www.adwarebazooka.com
 0.0.0.0 www.adwarebot.com
 0.0.0.0 www.adwarecommander.com
@@ -48560,7 +48541,6 @@
 0.0.0.0 www.attackware.com
 0.0.0.0 www.attivita-antroposofiche-roma.org
 0.0.0.0 www.auctiondirectory.org
-0.0.0.0 www.autobargains.org
 0.0.0.0 www.automac.it
 0.0.0.0 www.automoneygenerator.com
 0.0.0.0 www.autotuningportal.com
@@ -48636,7 +48616,6 @@
 0.0.0.0 www.bestsearch.com
 0.0.0.0 www.bestwm.info
 0.0.0.0 www.bestxclips.com
-0.0.0.0 www.bettersearch.biz
 0.0.0.0 www.bfsa.gov.bd
 0.0.0.0 www.bgcwa.org
 0.0.0.0 www.bigalso.com
@@ -49345,7 +49324,6 @@
 0.0.0.0 www.ibcresigum.it
 0.0.0.0 www.icanhazip.com
 0.0.0.0 www.icecars.com
-0.0.0.0 www.icewarez.net
 0.0.0.0 www.ichwillpornos.com
 0.0.0.0 www.iconfessonline.com
 0.0.0.0 www.icp.edu.pk
@@ -49531,7 +49509,6 @@
 0.0.0.0 www.loibero.it
 0.0.0.0 www.lookinglink.info
 0.0.0.0 www.lothaller.net
-0.0.0.0 www.lottoga.com
 0.0.0.0 www.loveadot.com
 0.0.0.0 www.lovecouple.ru
 0.0.0.0 www.lovezest.com
@@ -49857,7 +49834,6 @@
 0.0.0.0 www.painegialle.it
 0.0.0.0 www.pakodak.com
 0.0.0.0 www.panella.org
-0.0.0.0 www.panet.org
 0.0.0.0 www.panetteriagiacosa.it
 0.0.0.0 www.paradisecity.pk
 0.0.0.0 www.parisvoyeur.com
@@ -49986,7 +49962,6 @@
 0.0.0.0 www.red-hacks.com
 0.0.0.0 www.redanchemical.com
 0.0.0.0 www.redimec.com
-0.0.0.0 www.redir.ws
 0.0.0.0 www.redirectme.net
 0.0.0.0 www.reducelnk.com
 0.0.0.0 www.relaxtool.com
@@ -50550,7 +50525,6 @@
 0.0.0.0 www.wntivir.de
 0.0.0.0 www.woai117.cn
 0.0.0.0 www.wolfshavenpictures.net
-0.0.0.0 www.worldray.com
 0.0.0.0 www.writingassociates.com
 0.0.0.0 www.wtftube.tv
 0.0.0.0 www.wvira.de
@@ -50575,7 +50549,6 @@
 0.0.0.0 www.xp-vista-update.net
 0.0.0.0 www.xpsecuritycenter.com
 0.0.0.0 www.xrenoder.com
-0.0.0.0 www.xsec.org
 0.0.0.0 www.xtravideos.com
 0.0.0.0 www.xupiter.com
 0.0.0.0 www.xwebsearch.biz

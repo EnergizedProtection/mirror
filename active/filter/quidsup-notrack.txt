@@ -1,8 +1,8 @@
 # quidsup-notrack Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/quidsup/notrack/master/trackers.txt
-# Last Converted - 17.09.2018
-# Total Domains - 13422
+# Last Converted - 21.09.2018
+# Total Domains - 13418
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -8847,7 +8847,6 @@
 0.0.0.0 mkt7182.com
 0.0.0.0 mkt7183.com
 0.0.0.0 mkt7184.com
-0.0.0.0 mkt7185.com
 0.0.0.0 mkt7186.com
 0.0.0.0 mkt7187.com
 0.0.0.0 mkt7188.com
@@ -12251,7 +12250,6 @@
 0.0.0.0 permission-research.com
 0.0.0.0 permission-research.net
 0.0.0.0 permissionresearch.com
-0.0.0.0 permissionresearch.net
 0.0.0.0 personalizedappsequencer.com
 0.0.0.0 personalizedappsequencer.net
 0.0.0.0 persoo.cz
@@ -12675,7 +12673,6 @@
 0.0.0.0 shopwindowforum.com
 0.0.0.0 shore.li
 0.0.0.0 shore.uno
-0.0.0.0 shqads.com
 0.0.0.0 shrfbdg004.com
 0.0.0.0 shuhenelk.com
 0.0.0.0 shwired.com
@@ -12990,7 +12987,6 @@
 0.0.0.0 technoratimedia.com
 0.0.0.0 technoratimedia.net
 0.0.0.0 tedglynn.com
-0.0.0.0 telemetry-experiment.cdn.mozilla.net
 0.0.0.0 telemetry-in.battle.net
 0.0.0.0 telemetry.api.swiftkey.com
 0.0.0.0 telemetry.battle.net

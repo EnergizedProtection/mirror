@@ -1,8 +1,8 @@
 # adguard-french-filter Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-french-filter.txt
-# Last Converted - 17.09.2018
-# Total Domains - 5517
+# Last Converted - 21.09.2018
+# Total Domains - 5524
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -268,6 +268,7 @@
 0.0.0.0 6ub9kwj.com
 0.0.0.0 6v0dgrcr6q.com
 0.0.0.0 6zw2rcfd.com
+0.0.0.0 7-link.ru
 0.0.0.0 7017042b83a65ea.com
 0.0.0.0 7089e5b41f87.com
 0.0.0.0 70fa9b55f717e1eee.com
@@ -858,6 +859,7 @@
 0.0.0.0 anothere.club
 0.0.0.0 anothinga.com
 0.0.0.0 anrdoezrs.net
+0.0.0.0 antinuef.info
 0.0.0.0 antonymprurience.com
 0.0.0.0 anymad.com
 0.0.0.0 anytheengmedia.com
@@ -1430,7 +1432,6 @@
 0.0.0.0 cnorthcoteparkinsonmunificent.info
 0.0.0.0 coachingminceur.go2cloud.org
 0.0.0.0 coastratonic.com
-0.0.0.0 code.jquery.com
 0.0.0.0 codeonclick.com
 0.0.0.0 coin-cube.com
 0.0.0.0 coin-have.com
@@ -1561,6 +1562,7 @@
 0.0.0.0 creative.stripchat.com
 0.0.0.0 creativesrv.com
 0.0.0.0 credishe.com
+0.0.0.0 creofive.com
 0.0.0.0 crisivelyt.info
 0.0.0.0 critariatele.pro
 0.0.0.0 critishy.info
@@ -2015,6 +2017,7 @@
 0.0.0.0 do67etikr7pwz.cloudfront.net
 0.0.0.0 do69ll745l27z.cloudfront.net
 0.0.0.0 docchastening.org
+0.0.0.0 docsconvert.club
 0.0.0.0 docymas.com
 0.0.0.0 dodgerdecoctionprocess.com
 0.0.0.0 dogrose18.com
@@ -2394,6 +2397,7 @@
 0.0.0.0 forgerhineland.com
 0.0.0.0 formaticul.com
 0.0.0.0 formicafuscasyringavillosa.info
+0.0.0.0 formulawire.com
 0.0.0.0 forsythovalo.com
 0.0.0.0 forterradirect.com
 0.0.0.0 fourtesy.info
@@ -2904,6 +2908,7 @@
 0.0.0.0 ishahguv.com
 0.0.0.0 islesfordponderay.com
 0.0.0.0 istri.it
+0.0.0.0 istric.com
 0.0.0.0 itcfnfi.com
 0.0.0.0 itrks.com
 0.0.0.0 itsup.com
@@ -3537,7 +3542,6 @@
 0.0.0.0 mystreamdeliveroo.club
 0.0.0.0 mystreamdelivery.xyz
 0.0.0.0 mytemplatestorage.com
-0.0.0.0 mytestminer.xyz
 0.0.0.0 myway2ch.com
 0.0.0.0 mywb.fr
 0.0.0.0 mywebsquare.com
@@ -3554,7 +3558,6 @@
 0.0.0.0 naganoadigei.com
 0.0.0.0 nahnoji.cz
 0.0.0.0 nahuntaveradale.com
-0.0.0.0 nakedteens.video
 0.0.0.0 namesakeoscilloscopemarquis.com
 0.0.0.0 nanoadexchange.com
 0.0.0.0 narjesmedia.com
@@ -3643,6 +3646,7 @@
 0.0.0.0 nols-pub.fr
 0.0.0.0 non.li
 0.0.0.0 norgerockingham.com
+0.0.0.0 normour.com
 0.0.0.0 northernscupencountergroup.info
 0.0.0.0 nosmcontent.biz
 0.0.0.0 nostalgicallyoperatingroom.com
@@ -3946,7 +3950,6 @@
 0.0.0.0 playglad.com
 0.0.0.0 playurbano.com
 0.0.0.0 pleasewait.co
-0.0.0.0 plexcoin.info
 0.0.0.0 pluginnetwork.net
 0.0.0.0 plurielmediacenter.com
 0.0.0.0 plusservicepartners.com
@@ -4404,6 +4407,7 @@
 0.0.0.0 rus-por.top
 0.0.0.0 rutheronwenonah.com
 0.0.0.0 rutrk.org
+0.0.0.0 rutvind.com
 0.0.0.0 rvfrm2005.com
 0.0.0.0 rvfrm2010.com
 0.0.0.0 rvnc72k.com
@@ -4580,6 +4584,7 @@
 0.0.0.0 shoppingbox.liberation.fr
 0.0.0.0 shoppytab.com
 0.0.0.0 shopstockoff.com
+0.0.0.0 shortem.com
 0.0.0.0 shortgoo.com
 0.0.0.0 shortinfo.mobi
 0.0.0.0 shortironeastside.net
@@ -4607,7 +4612,7 @@
 0.0.0.0 sirjacobepsteinheracleumsphondylium.com
 0.0.0.0 sirtgenu.com
 0.0.0.0 sistacked.com
-0.0.0.0 site.flashx.cc
+0.0.0.0 site.flashx.
 0.0.0.0 sk1n.fr
 0.0.0.0 sk8t.fr
 0.0.0.0 skencituer.com
@@ -4992,6 +4997,7 @@
 0.0.0.0 trafeeq.com
 0.0.0.0 traffdaq.com
 0.0.0.0 traffe.eu
+0.0.0.0 traffic-c.com
 0.0.0.0 traffic.club
 0.0.0.0 trafficad.net
 0.0.0.0 trafficbee.com
@@ -5049,6 +5055,7 @@
 0.0.0.0 tubeadvertising.eu
 0.0.0.0 tubecorporate.com
 0.0.0.0 tuberavage.com
+0.0.0.0 tubetitties.com
 0.0.0.0 tubicash.biz
 0.0.0.0 tubicash.com
 0.0.0.0 tubuaiislandscliftoniamonophylla.net

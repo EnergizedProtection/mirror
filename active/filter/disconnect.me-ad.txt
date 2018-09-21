@@ -1,8 +1,8 @@
 # disconnect.me-ad Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Last Converted - 17.09.2018
-# Total Domains - 2483
+# Last Converted - 21.09.2018
+# Total Domains - 2481
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -2203,7 +2203,6 @@
 0.0.0.0 switchads.com
 0.0.0.0 swordfishdc.com
 0.0.0.0 t.insigit.com
-0.0.0.0 t.pusk.ru
 0.0.0.0 taboola.com
 0.0.0.0 tacoda.net
 0.0.0.0 tagular.com
@@ -2258,7 +2257,6 @@
 0.0.0.0 top123.ro
 0.0.0.0 top20.com
 0.0.0.0 top20free.com
-0.0.0.0 top66.ro
 0.0.0.0 top90.ro
 0.0.0.0 topbarh.box.sk
 0.0.0.0 topblogarea.se

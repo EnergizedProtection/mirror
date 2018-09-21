@@ -1,8 +1,8 @@
 # adguard-spyware-firstparty Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-spyware-firstparty.txt
-# Last Converted - 17.09.2018
-# Total Domains - 695
+# Last Converted - 21.09.2018
+# Total Domains - 696
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -421,6 +421,7 @@
 0.0.0.0 partner.shareaholic.com
 0.0.0.0 pasta.esfile.duapps.com
 0.0.0.0 pb.i.sogou.com
+0.0.0.0 perr.h-cdn.com
 0.0.0.0 perr.hola.org
 0.0.0.0 pf.newegg.com
 0.0.0.0 phen.fabricmedia.ru

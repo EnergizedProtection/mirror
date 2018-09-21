@@ -1,8 +1,8 @@
 # easylist-lite Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easylist-lite.txt
-# Last Converted - 17.09.2018
-# Total Domains - 5322
+# Last Converted - 21.09.2018
+# Total Domains - 5321
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -293,7 +293,6 @@
 0.0.0.0 ad-stir.com
 0.0.0.0 ad-vice.biz
 0.0.0.0 ad.about.co.kr
-0.0.0.0 ad.aquamediadirect.com
 0.0.0.0 ad.bitbay.net
 0.0.0.0 ad.bitmedia.io
 0.0.0.0 ad.cooks.com

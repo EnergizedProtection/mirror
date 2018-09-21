@@ -1,8 +1,8 @@
 # someonewhocares.org Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - http://someonewhocares.org/hosts/hosts
-# Last Converted - 17.09.2018
-# Total Domains - 8390
+# Last Converted - 21.09.2018
+# Total Domains - 8385
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -225,7 +225,6 @@
 0.0.0.0 ad.agava.tbn.ru
 0.0.0.0 ad.agilemedia.jp
 0.0.0.0 ad.amgdgt.com
-0.0.0.0 ad.aquamediadirect.com
 0.0.0.0 ad.auditude.com
 0.0.0.0 ad.bannerbank.ru
 0.0.0.0 ad.bannerconnect.net
@@ -1708,6 +1707,7 @@
 0.0.0.0 api.optnmnstr.com
 0.0.0.0 api.redshell.io
 0.0.0.0 api.shoppingminds.net
+0.0.0.0 api.simpleanalytics.io
 0.0.0.0 api.tumra.com
 0.0.0.0 api.viglink.com
 0.0.0.0 apis.murdoog.com
@@ -1731,6 +1731,7 @@
 0.0.0.0 app3.letitbefaster.life
 0.0.0.0 app3.letitbefaster.website
 0.0.0.0 app3.letslowbefast.site
+0.0.0.0 app3.makeitworkfaster.life
 0.0.0.0 app4.greatmacsoft.tech
 0.0.0.0 app4.letitbefaster.life
 0.0.0.0 app4.letitbefaster.website
@@ -1799,6 +1800,7 @@
 0.0.0.0 aspesa.info
 0.0.0.0 assets.applovin.com
 0.0.0.0 assets.igapi.com
+0.0.0.0 assets.kromtech.net
 0.0.0.0 assoc-amazon.com
 0.0.0.0 asv.nuggad.net
 0.0.0.0 at-adserver.alltop.com
@@ -2340,6 +2342,7 @@
 0.0.0.0 cdn.onescreen.net
 0.0.0.0 cdn.onthe.io
 0.0.0.0 cdn.sagent.io
+0.0.0.0 cdn.simpleanalytics.io
 0.0.0.0 cdn.static-cnt.bid
 0.0.0.0 cdn.stickyadstv.com
 0.0.0.0 cdn.taboola.com
@@ -2424,6 +2427,7 @@
 0.0.0.0 cityads.telus.net
 0.0.0.0 cjt1.net
 0.0.0.0 ck.juicyads.com
+0.0.0.0 cl96rwprue.com
 0.0.0.0 claimfreerewards.com
 0.0.0.0 classicjack.com
 0.0.0.0 classifiedscanada.112.2o7.net
@@ -4459,7 +4463,6 @@
 0.0.0.0 ls.hit.gemius.pl
 0.0.0.0 lsassoc.com
 0.0.0.0 lstat.youku.com
-0.0.0.0 lstats.qip.ru
 0.0.0.0 lt.andomedia.com
 0.0.0.0 lt.angelfire.com
 0.0.0.0 lucibad.home.ro
@@ -4537,6 +4540,7 @@
 0.0.0.0 main.exosrv.com
 0.0.0.0 main.vodonet.net
 0.0.0.0 make-money.shengen.ru
+0.0.0.0 makeitworkfaster.life
 0.0.0.0 makemoneyrobot.com
 0.0.0.0 manage001.adtech.fr
 0.0.0.0 manage001.adtech.us
@@ -4633,7 +4637,6 @@
 0.0.0.0 medialand.relax.ru
 0.0.0.0 mediamatters.112.2o7.net
 0.0.0.0 mediaoffers.click
-0.0.0.0 medias.clicks4ads.com
 0.0.0.0 medias.europacash.com
 0.0.0.0 mediative.ca
 0.0.0.0 mediative.com
@@ -4807,7 +4810,6 @@
 0.0.0.0 monster.gostats.com
 0.0.0.0 monstersandcritics.uk.intellitxt.com
 0.0.0.0 moodoo.com.cn
-0.0.0.0 moodoocrv.com.cn
 0.0.0.0 morefastermac.trade
 0.0.0.0 morefreecamsecrets.com
 0.0.0.0 morevisits.info
@@ -4885,7 +4887,6 @@
 0.0.0.0 mygreatrewards.com
 0.0.0.0 myhitbox.com
 0.0.0.0 mymediarecommendations.com
-0.0.0.0 myprivateemails.com
 0.0.0.0 mysagagame.com
 0.0.0.0 myseostats.com
 0.0.0.0 mystats.com
@@ -4949,6 +4950,7 @@
 0.0.0.0 newbritmoneymethod.com
 0.0.0.0 newcarnet.uk.intellitxt.com
 0.0.0.0 newclk.com
+0.0.0.0 neweggstats.com
 0.0.0.0 newip427.changeip.net
 0.0.0.0 newjunk4u.com
 0.0.0.0 newlaunches.uk.intellitxt.com
@@ -5059,6 +5061,7 @@
 0.0.0.0 nytrsarasota.112.2o7.net
 0.0.0.0 nytrwilmington.112.2o7.net
 0.0.0.0 nyttechnology.112.2o7.net
+0.0.0.0 o-2-s-f.win
 0.0.0.0 o.addthis.com
 0.0.0.0 o0.winfuture.de
 0.0.0.0 o1.qnsr.com
@@ -5213,6 +5216,8 @@
 0.0.0.0 online-forex.hut1.ru
 0.0.0.0 online-poker.shengen.ru
 0.0.0.0 online1.webcams.com
+0.0.0.0 online2018codeopen.win
+0.0.0.0 online2018softwarefree.win
 0.0.0.0 onlineads.magicvalley.com
 0.0.0.0 onlineindigoca.112.2o7.net
 0.0.0.0 onlineupdate.smallandprecise4update.download
@@ -5271,7 +5276,6 @@
 0.0.0.0 p.ic.tynt.com
 0.0.0.0 p.l.qq.com
 0.0.0.0 p.nexac.com
-0.0.0.0 p0rnuha.com
 0.0.0.0 p2.l.qq.com
 0.0.0.0 p232207.mybestmv.com
 0.0.0.0 p3p.mmstat.com
@@ -5322,7 +5326,6 @@
 0.0.0.0 paypal.112.2o7.net
 0.0.0.0 pb.tynt.com
 0.0.0.0 pbid.pro-market.net
-0.0.0.0 pc-gizmos-ssl.com
 0.0.0.0 pcads.ru
 0.0.0.0 pcadvisor.uk.intellitxt.com
 0.0.0.0 pcgameshardware.de.intellitxt.com
@@ -5580,7 +5583,6 @@
 0.0.0.0 protection.sbpolice.com
 0.0.0.0 protection.skpolice.com
 0.0.0.0 protection.tnpolice.com
-0.0.0.0 protection.topolice.com
 0.0.0.0 protection.vapolice.com
 0.0.0.0 protection.vipolice.com
 0.0.0.0 protonix.shengen.ru
@@ -6259,7 +6261,6 @@
 0.0.0.0 star-advertising.com
 0.0.0.0 star.pulseonclick.com
 0.0.0.0 start.badults.se
-0.0.0.0 start.qip.ru
 0.0.0.0 stat.4u.pl
 0.0.0.0 stat.56.com
 0.0.0.0 stat.blogads.com
@@ -6495,7 +6496,6 @@
 0.0.0.0 tag.webcompteur.com
 0.0.0.0 tag.yieldoptimizer.com
 0.0.0.0 tagpress.oewabox.at
-0.0.0.0 tags.bkrtx.com
 0.0.0.0 tags.bluekai.com
 0.0.0.0 tags.expo9.exponential.com
 0.0.0.0 tags.onscroll.com
@@ -7358,6 +7358,7 @@
 0.0.0.0 www.3dstats.com
 0.0.0.0 www.3guys1hammer.ws
 0.0.0.0 www.3qqq.net
+0.0.0.0 www.3tsdaq8viz.us
 0.0.0.0 www.3turtles.com
 0.0.0.0 www.404errorpage.com
 0.0.0.0 www.4girlsfingerpaint.org
@@ -7949,7 +7950,6 @@
 0.0.0.0 www.popuptraffic.com
 0.0.0.0 www.portaldimensional.com
 0.0.0.0 www.postnewsads.com
-0.0.0.0 www.poxudeli.ru
 0.0.0.0 www.ppoi.org
 0.0.0.0 www.precisioncounter.com
 0.0.0.0 www.predictivadnetwork.com
@@ -8108,7 +8108,6 @@
 0.0.0.0 www.u1trkqf.com
 0.0.0.0 www.ukbanners.com
 0.0.0.0 www.ultimatecounter.com
-0.0.0.0 www.ultimatefashiongifts.com
 0.0.0.0 www.uniqebrokeroffers.com
 0.0.0.0 www.uniqueinternettexasholdempoker.com
 0.0.0.0 www.upgradeexplorer.com
@@ -8191,7 +8190,6 @@
 0.0.0.0 www1.addfreestats.com
 0.0.0.0 www1.adireland.com
 0.0.0.0 www1.belboon.de
-0.0.0.0 www1.clicktorrent.info
 0.0.0.0 www1.counter.bloke.com
 0.0.0.0 www1.mpnrs.com
 0.0.0.0 www1.popinads.com
@@ -8293,7 +8291,6 @@
 0.0.0.0 xbasfbno.info
 0.0.0.0 xch.smrtgs.com
 0.0.0.0 xcnn.com
-0.0.0.0 xfotosx01.fromru.su
 0.0.0.0 xgames-04.com
 0.0.0.0 xhealthmobiletools.112.2o7.net
 0.0.0.0 xl-trk.com
@@ -8314,7 +8311,6 @@
 0.0.0.0 xstatic.nk-net.pl
 0.0.0.0 xsztfrlkphqy.com
 0.0.0.0 xtrasizeoriginal.com.br
-0.0.0.0 xvrxyzba253.hotmail.ru
 0.0.0.0 xxxcounter.com
 0.0.0.0 xyz.freelogs.com
 0.0.0.0 y.cdn.adblade.com
@@ -8379,18 +8375,17 @@
 0.0.0.0 zeroredirect2.com
 0.0.0.0 zeroredirect5.com
 0.0.0.0 zeroredirect6.com
-0.0.0.0 zeroredirect7.com
 0.0.0.0 zeroredirect8.com
 0.0.0.0 zeroredirect9.com
 0.0.0.0 zettapetta.com
 0.0.0.0 zevents.com
-0.0.0.0 zfotos.fromru.su
 0.0.0.0 zhalehziba.com
 0.0.0.0 ziffdavisglobal.112.2o7.net
 0.0.0.0 ziffdavispennyarcade.112.2o7.net
 0.0.0.0 zip.er.cz
 0.0.0.0 zl1.bravo-deg.com
 0.0.0.0 zrh.bewilderinglyalbumin.com
+0.0.0.0 zrrat.31772.club
 0.0.0.0 zsisk.com
 0.0.0.0 ztrf.net
 0.0.0.0 zu1.november-lax.com

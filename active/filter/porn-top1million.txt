@@ -1,8 +1,8 @@
 # porn-top1million Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/chadmayfield/pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list
-# Last Converted - 17.09.2018
-# Total Domains - 20137
+# Last Converted - 21.09.2018
+# Total Domains - 20136
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -14843,7 +14843,6 @@
 0.0.0.0 sakuralive.com
 0.0.0.0 salaespecial.com
 0.0.0.0 salierixxx.com
-0.0.0.0 salope-et-vieille.com
 0.0.0.0 salopeetvieille.net
 0.0.0.0 salopesvideos.com
 0.0.0.0 salutetube.com

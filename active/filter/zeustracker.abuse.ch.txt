@@ -1,7 +1,7 @@
 # zeustracker.abuse.ch Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Last Converted - 17.09.2018
+# Last Converted - 21.09.2018
 # Total Domains - 96
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized

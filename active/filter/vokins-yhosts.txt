@@ -1,8 +1,8 @@
 # vokins-yhosts Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/vokins/yhosts/master/hosts
-# Last Converted - 17.09.2018
-# Total Domains - 6639
+# Last Converted - 21.09.2018
+# Total Domains - 6636
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -12,6 +12,7 @@
 0.0.0.0 0127.adsame.com
 0.0.0.0 018520.com
 0.0.0.0 01daa.lubih.com
+0.0.0.0 01daa.lutci.com
 0.0.0.0 01daa.luvbr.com
 0.0.0.0 01daa.luytr.com
 0.0.0.0 1.1010pic.com
@@ -776,6 +777,7 @@
 0.0.0.0 an.yandex.ru
 0.0.0.0 ana.masky.biddingx.com
 0.0.0.0 ana.stg8.com
+0.0.0.0 ana.tatahn.com
 0.0.0.0 analy.qq.com
 0.0.0.0 analytics.163.com
 0.0.0.0 analytics.21cn.com
@@ -1744,7 +1746,6 @@
 0.0.0.0 cre.mix.sina.com.cn
 0.0.0.0 creatim.qtmojo.cn
 0.0.0.0 creative.jdkic.com
-0.0.0.0 creative.wwwpromoter.com
 0.0.0.0 creatives.ftchinese.com
 0.0.0.0 creatives1.ftimg.net
 0.0.0.0 crm-eve.b2b.alibaba-inc.com
@@ -2024,6 +2025,7 @@
 0.0.0.0 ds.serving-sys.com
 0.0.0.0 ds10.api.baifendian.com
 0.0.0.0 dsadas.hydp188.com
+0.0.0.0 dsjsee.dqgpb.com
 0.0.0.0 dsp-click.youdao.com
 0.0.0.0 dsp-impr.youdao.com
 0.0.0.0 dsp-impr2.youdao.com
@@ -2185,6 +2187,7 @@
 0.0.0.0 e.mqgpo.com
 0.0.0.0 e.mrtuo.com
 0.0.0.0 e.nduop.com
+0.0.0.0 e.nejup.com
 0.0.0.0 e.nfkos.com
 0.0.0.0 e.nmtouzi.com
 0.0.0.0 e.nnfiy.com
@@ -2213,6 +2216,7 @@
 0.0.0.0 e.sjuqc.com
 0.0.0.0 e.slvtx.com
 0.0.0.0 e.srrux.com
+0.0.0.0 e.suehy.com
 0.0.0.0 e.szqifu.com
 0.0.0.0 e.t71q.com
 0.0.0.0 e.tdtsd.com
@@ -2830,7 +2834,6 @@
 0.0.0.0 img.il8r.com
 0.0.0.0 img.jgchq.com
 0.0.0.0 img.jizzads.com
-0.0.0.0 img.kanuxian.cn
 0.0.0.0 img.kuwanpx.com
 0.0.0.0 img.ma.social-touch.com
 0.0.0.0 img.qqgeshou.com
@@ -2844,7 +2847,6 @@
 0.0.0.0 img.toppr.com.cn
 0.0.0.0 img.twcczhu.com
 0.0.0.0 img.users.51.la
-0.0.0.0 img.uyangyong.cn
 0.0.0.0 img.wan.sogou.com
 0.0.0.0 img.wuben56.com
 0.0.0.0 img.xa9t.com
@@ -2854,6 +2856,7 @@
 0.0.0.0 img.yuyue007.cn
 0.0.0.0 img.zsj18.com
 0.0.0.0 img.zuoyebang.cc
+0.0.0.0 img.zx590.com
 0.0.0.0 img0.egou.com
 0.0.0.0 img01.taotaosou.cn
 0.0.0.0 img1.126.net
@@ -2866,7 +2869,6 @@
 0.0.0.0 img2.126.net
 0.0.0.0 img2.578965.com
 0.0.0.0 img2.g.pptv.com
-0.0.0.0 img2.hrccb.com
 0.0.0.0 img2.jiuzhilan.com
 0.0.0.0 img2.km.com
 0.0.0.0 img3.126.net
@@ -3114,7 +3116,6 @@
 0.0.0.0 js.wo-x.cn
 0.0.0.0 js.wu65.com
 0.0.0.0 js.xtgreat.com
-0.0.0.0 js.xuexila.com
 0.0.0.0 js.ydeprint.com
 0.0.0.0 js.yixui.com
 0.0.0.0 js.ylunion.com
@@ -3502,6 +3503,7 @@
 0.0.0.0 m.game.weibo.cn
 0.0.0.0 m.gameyun907.net
 0.0.0.0 m.ganrs.com
+0.0.0.0 m.gcaij.com
 0.0.0.0 m.gglay.com
 0.0.0.0 m.gtiou.com
 0.0.0.0 m.gtnde.com
@@ -3583,6 +3585,7 @@
 0.0.0.0 m.mrtuo.com
 0.0.0.0 m.mxguan.com
 0.0.0.0 m.nduop.com
+0.0.0.0 m.nejup.com
 0.0.0.0 m.nfkos.com
 0.0.0.0 m.niegg.com
 0.0.0.0 m.nmtouzi.com
@@ -3613,7 +3616,6 @@
 0.0.0.0 m.qcw.com
 0.0.0.0 m.qianka.com
 0.0.0.0 m.qingzhencai.net
-0.0.0.0 m.qiyunmuye.com
 0.0.0.0 m.qsove.com
 0.0.0.0 m.quldu.com
 0.0.0.0 m.qulishi.com
@@ -3635,6 +3637,7 @@
 0.0.0.0 m.slvtx.com
 0.0.0.0 m.smsksx.com
 0.0.0.0 m.srrux.com
+0.0.0.0 m.suehy.com
 0.0.0.0 m.sxxca.com
 0.0.0.0 m.symaa.cn
 0.0.0.0 m.symab.cn
@@ -3658,6 +3661,7 @@
 0.0.0.0 m.uissm.com
 0.0.0.0 m.uuopp.com
 0.0.0.0 m.vaxyz.com
+0.0.0.0 m.vbaou.com
 0.0.0.0 m.vbieu.com
 0.0.0.0 m.vbinu.com
 0.0.0.0 m.vichc.com
@@ -3707,6 +3711,7 @@
 0.0.0.0 m.ywbwsm.com
 0.0.0.0 m.yyeks.com
 0.0.0.0 m.yyjhf.com
+0.0.0.0 m.yzjlsb.com
 0.0.0.0 m.zaoss.com
 0.0.0.0 m.zeiaa.com
 0.0.0.0 m.zenffs.cn
@@ -3979,7 +3984,6 @@
 0.0.0.0 new.cnzz.com
 0.0.0.0 new.yokaunion.com
 0.0.0.0 newrelic.com
-0.0.0.0 news-img.51y5.net
 0.0.0.0 news-l.play.aiseet.atianqi.com
 0.0.0.0 news-l.play.cp81.ott.cibntv.net
 0.0.0.0 news-l.play.ott.video.qq.com
@@ -4456,7 +4460,6 @@
 0.0.0.0 ratings.lycos.com
 0.0.0.0 raw.okwan.cn
 0.0.0.0 rayli.adsame.com
-0.0.0.0 rbjs.chinassp.cn
 0.0.0.0 rbp.emea.mxptint.net
 0.0.0.0 rbp.mxptint.net
 0.0.0.0 rbs.haiyunx.com
@@ -4488,7 +4491,6 @@
 0.0.0.0 rec.g.163.com
 0.0.0.0 rec.moviebox.baofeng.net
 0.0.0.0 recreativ.ru
-0.0.0.0 recv-vd.gridsumdissector.cn
 0.0.0.0 recv-vd.gridsumdissector.com
 0.0.0.0 recv-wd.gridsumdissector.com
 0.0.0.0 redirect.simba.taobao.com
@@ -4612,7 +4614,6 @@
 0.0.0.0 s.jlminte.com
 0.0.0.0 s.jpush.cn
 0.0.0.0 s.khgj.cn
-0.0.0.0 s.l8l9.com
 0.0.0.0 s.lianmeng.360.cn
 0.0.0.0 s.maipubao.cn
 0.0.0.0 s.meimeidaren.com
@@ -4741,6 +4742,7 @@
 0.0.0.0 s3.buysellads.com
 0.0.0.0 s3.cnzz.com
 0.0.0.0 s3.pfp.sina.net
+0.0.0.0 s3.rongnews.com
 0.0.0.0 s30.cnzz.com
 0.0.0.0 s31.cnzz.com
 0.0.0.0 s32.cnzz.com
@@ -5236,7 +5238,6 @@
 0.0.0.0 static.snapmobile.asia
 0.0.0.0 static.t.agrantsem.com
 0.0.0.0 static.template.pcbeta.com
-0.0.0.0 static.tv508.com
 0.0.0.0 static.wauee.com
 0.0.0.0 static.wkanx.com
 0.0.0.0 static.wooboo.com.cn
@@ -5391,22 +5392,16 @@
 0.0.0.0 t.ujian.cc
 0.0.0.0 t.uvcourse.net
 0.0.0.0 t.youmi.net
-0.0.0.0 t1.51maiwanju.com
 0.0.0.0 t1.58cdn.com.cn
 0.0.0.0 t1.jzkapp.com
 0.0.0.0 t1.wshufa.com
 0.0.0.0 t188.dazhonghua.cn
-0.0.0.0 t2.51maiwanju.com
 0.0.0.0 t2.58cdn.com.cn
 0.0.0.0 t2.jzkapp.com
 0.0.0.0 t2.vbxx.net
 0.0.0.0 t2.wshufa.com
-0.0.0.0 t3.51maiwanju.com
 0.0.0.0 t3.58cdn.com.cn
-0.0.0.0 t4.51maiwanju.com
 0.0.0.0 t4.agrantsem.com
-0.0.0.0 t5.51maiwanju.com
-0.0.0.0 t6.51maiwanju.com
 0.0.0.0 t75.qyqc4s.com
 0.0.0.0 t7z.cupid.ptqy.gitv.tv
 0.0.0.0 ta.qq.com
@@ -5995,6 +5990,7 @@
 0.0.0.0 ww9.onetad.com
 0.0.0.0 wwv.onetad.com
 0.0.0.0 www-777563.com
+0.0.0.0 www.0086555.com
 0.0.0.0 www.10086.cn.baidu.cdn.yiwk.com
 0.0.0.0 www.100fenlm.com
 0.0.0.0 www.114so.cn
@@ -6225,6 +6221,7 @@
 0.0.0.0 www.jiubuhua.com
 0.0.0.0 www.jizzads.com
 0.0.0.0 www.jj123.com.cn
+0.0.0.0 www.jmxlaser.com
 0.0.0.0 www.jndczg.com
 0.0.0.0 www.jpush.cn
 0.0.0.0 www.jrdkc.com
@@ -6270,7 +6267,6 @@
 0.0.0.0 www.millennialmedia.com
 0.0.0.0 www.millwardbrownacsr.com
 0.0.0.0 www.minesage.com
-0.0.0.0 www.missweike007.com
 0.0.0.0 www.mobfox.com
 0.0.0.0 www.mohecm.com
 0.0.0.0 www.mopub.com
@@ -6555,6 +6551,7 @@
 0.0.0.0 yt-adp.nosdn.127.net
 0.0.0.0 yt.mmstat.com
 0.0.0.0 ytapi1.nagezan.net
+0.0.0.0 ytmx.2r3485.cn
 0.0.0.0 yts.ytsyyey.com
 0.0.0.0 ytsyyey.com
 0.0.0.0 yumcs.xiaohuau.xyz

@@ -1,8 +1,8 @@
 # adguard-mobile-ads Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-mobile-ads.txt
-# Last Converted - 17.09.2018
-# Total Domains - 789
+# Last Converted - 21.09.2018
+# Total Domains - 790
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -739,6 +739,7 @@
 0.0.0.0 trk.glispa.com
 0.0.0.0 tubemogul.com
 0.0.0.0 turn.com
+0.0.0.0 tveta.naver.net
 0.0.0.0 tw.api.vpon.com
 0.0.0.0 u-ad.info
 0.0.0.0 u1hw38x0.com

@@ -1,8 +1,8 @@
 # easylist-china Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easylist-china.txt
-# Last Converted - 17.09.2018
-# Total Domains - 3407
+# Last Converted - 21.09.2018
+# Total Domains - 3411
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -106,7 +106,6 @@
 0.0.0.0 114com.cc
 0.0.0.0 114la.com
 0.0.0.0 114lm.com
-0.0.0.0 114so.cn
 0.0.0.0 114yeah.com
 0.0.0.0 116b.com
 0.0.0.0 118114.cn
@@ -139,7 +138,6 @@
 0.0.0.0 17un.co
 0.0.0.0 17zhaole.com
 0.0.0.0 181lm.net
-0.0.0.0 189so.cn
 0.0.0.0 18tzx.com
 0.0.0.0 1999019.com
 0.0.0.0 1999sg.com
@@ -191,6 +189,7 @@
 0.0.0.0 3.chuanyi5.com
 0.0.0.0 3.ssqzj.com
 0.0.0.0 301848.com
+0.0.0.0 321.jintang114.org
 0.0.0.0 321tui.cn
 0.0.0.0 321tui.com
 0.0.0.0 32414.com
@@ -413,6 +412,7 @@
 0.0.0.0 97kuaixiu.com
 0.0.0.0 97paa.com
 0.0.0.0 980th.com
+0.0.0.0 9898c.com
 0.0.0.0 99909988.com
 0.0.0.0 999d.com
 0.0.0.0 99lolo.com
@@ -513,7 +513,6 @@
 0.0.0.0 ad-img.diyidan.net
 0.0.0.0 ad-plus.cn
 0.0.0.0 ad-survey.com
-0.0.0.0 ad.189so.cn
 0.0.0.0 ad000000.com
 0.0.0.0 ad8.cc
 0.0.0.0 ad9377.com
@@ -742,6 +741,7 @@
 0.0.0.0 bdiae.com
 0.0.0.0 bdimg.com
 0.0.0.0 bdjb.gai001.com
+0.0.0.0 bdjj.bzr99.com
 0.0.0.0 bdjj.makepolo.net
 0.0.0.0 bdjs.163lady.com
 0.0.0.0 bdjs.6822.com
@@ -1281,6 +1281,7 @@
 0.0.0.0 facebookma.cn
 0.0.0.0 fadama.com
 0.0.0.0 fage1.club
+0.0.0.0 family-joy.com
 0.0.0.0 fan.9939.com
 0.0.0.0 fangzi2.top
 0.0.0.0 fanyi100.com.cn
@@ -2097,6 +2098,7 @@
 0.0.0.0 mathtag.com
 0.0.0.0 mbai.cn
 0.0.0.0 mbd.baidu.com
+0.0.0.0 mbjb1.girl13.com
 0.0.0.0 mc.weather.com.cn
 0.0.0.0 md0z4dh.com
 0.0.0.0 medi-8.net
@@ -2151,7 +2153,6 @@
 0.0.0.0 modzj.net
 0.0.0.0 momzs.com
 0.0.0.0 money.qz828.com
-0.0.0.0 moodoocrv.com.cn
 0.0.0.0 moogos.com
 0.0.0.0 moonwish.com.cn
 0.0.0.0 morningpiggy.com
@@ -2317,7 +2318,6 @@
 0.0.0.0 phpad.cqnews.net
 0.0.0.0 piaogj.com
 0.0.0.0 pic.0597kk.com
-0.0.0.0 pic.111cn.net
 0.0.0.0 pic.ea3w.com
 0.0.0.0 pic.zol-img.com.cn
 0.0.0.0 picasion.com
@@ -2342,7 +2342,6 @@
 0.0.0.0 pomkl.com
 0.0.0.0 popads.net
 0.0.0.0 popin.cc
-0.0.0.0 popme.163.com
 0.0.0.0 pos.baidu.com
 0.0.0.0 poster.weather.com.cn
 0.0.0.0 pougg.com
@@ -2373,8 +2372,8 @@
 0.0.0.0 pwjhg.com
 0.0.0.0 pyerc.com
 0.0.0.0 pyzkk.com
+0.0.0.0 qaat3j.jandan.net
 0.0.0.0 qaqact.cn
-0.0.0.0 qat3j.jandan.net
 0.0.0.0 qbyy010.com
 0.0.0.0 qchannel03.cn
 0.0.0.0 qcjslm.com
@@ -2550,7 +2549,6 @@
 0.0.0.0 sgbfjs.info
 0.0.0.0 sgg.southcn.com
 0.0.0.0 sgzs999.com
-0.0.0.0 sh114so.com
 0.0.0.0 shama5.com
 0.0.0.0 shandongkuntuo.com
 0.0.0.0 shanghuitianxia.cn
@@ -2562,7 +2560,6 @@
 0.0.0.0 sharrysweb.com
 0.0.0.0 shbywsd.cn
 0.0.0.0 shenbimall.com
-0.0.0.0 shenleyuni.com
 0.0.0.0 shenyian.net
 0.0.0.0 shenyunkeji.com
 0.0.0.0 shiftrro.com
@@ -2657,6 +2654,7 @@
 0.0.0.0 sub.powerapple.com
 0.0.0.0 subo.me
 0.0.0.0 sucodb.com
+0.0.0.0 suehy.com
 0.0.0.0 sufficient.cn
 0.0.0.0 sums.suning.com
 0.0.0.0 sundxs.com
@@ -2728,6 +2726,7 @@
 0.0.0.0 taohanpai.com
 0.0.0.0 taojingu.cn
 0.0.0.0 taotu001.com
+0.0.0.0 tatahn.com
 0.0.0.0 tbaocdn.com
 0.0.0.0 tbjfw.com
 0.0.0.0 tc600.com
@@ -2889,6 +2888,7 @@
 0.0.0.0 v.xi666.com
 0.0.0.0 v707070.com
 0.0.0.0 vamaker.com
+0.0.0.0 vbaou.com
 0.0.0.0 vbieu.com
 0.0.0.0 vbinu.com
 0.0.0.0 vbtrax.com
@@ -2925,6 +2925,7 @@
 0.0.0.0 w.xiaopiaoyou.com
 0.0.0.0 w010w.com.cn
 0.0.0.0 w1.diaoyou.com
+0.0.0.0 w1.wayqq.com
 0.0.0.0 w11.zhongkaohelp.com
 0.0.0.0 w18.9939.com
 0.0.0.0 w3989.com
@@ -2936,6 +2937,7 @@
 0.0.0.0 wangdaizao.com
 0.0.0.0 wangdddy.com
 0.0.0.0 wangdq.com
+0.0.0.0 wangketuan.com
 0.0.0.0 wangsufast.com
 0.0.0.0 wantaico.com
 0.0.0.0 wantfour.com
@@ -2955,6 +2957,7 @@
 0.0.0.0 wechatpu.com
 0.0.0.0 weddingeeos.com
 0.0.0.0 weekslw.com
+0.0.0.0 weihuiyungou.com
 0.0.0.0 weilianjie.com
 0.0.0.0 weiqiqu.cn
 0.0.0.0 weixiangzu.cn
@@ -2978,6 +2981,7 @@
 0.0.0.0 wit.qq.com
 0.0.0.0 wj.jiancai365.cn
 0.0.0.0 wjdfv.com
+0.0.0.0 wjdjcjcm444.cn
 0.0.0.0 wjguc.com
 0.0.0.0 wka8.com
 0.0.0.0 wkjhd.com

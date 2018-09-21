@@ -1,8 +1,8 @@
 # winhelp2002.mvps.org Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - http://winhelp2002.mvps.org/hosts.txt
-# Last Converted - 17.09.2018
-# Total Domains - 12162
+# Last Converted - 21.09.2018
+# Total Domains - 12148
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -24,7 +24,6 @@
 0.0.0.0 0d7292.r.axf8.net
 0.0.0.0 0f36f3.r.axf8.net
 0.0.0.0 0iecfobt.com
-0.0.0.0 1.googlenews.xorg.pl
 0.0.0.0 1.ofsnetwork.com
 0.0.0.0 10006.hittail.com
 0.0.0.0 100065.hittail.com
@@ -107,7 +106,6 @@
 0.0.0.0 1up.us.intellitxt.com
 0.0.0.0 1us.cqcounter.com
 0.0.0.0 1xxx.cqcounter.com
-0.0.0.0 2.googlenews.xorg.pl
 0.0.0.0 2.rubanners.com
 0.0.0.0 2.s09.flagcounter.com
 0.0.0.0 2001positions.com
@@ -154,7 +152,6 @@
 0.0.0.0 2o7.net
 0.0.0.0 2snaps.us.intellitxt.com
 0.0.0.0 2spyware.us.intellitxt.com
-0.0.0.0 3.googlenews.xorg.pl
 0.0.0.0 30001.hittail.com
 0.0.0.0 30280827a.l2m.net
 0.0.0.0 30811.hittail.com
@@ -186,7 +183,6 @@
 0.0.0.0 3wregie.ezakus.net
 0.0.0.0 3xtraffic.com
 0.0.0.0 4.afs.googleadservices.com
-0.0.0.0 4.googlenews.xorg.pl
 0.0.0.0 403.hqhost.net
 0.0.0.0 404.fuckyoucash.com
 0.0.0.0 404.hqhost.net
@@ -206,7 +202,6 @@
 0.0.0.0 4ur.click
 0.0.0.0 4w-wrestling.us.intellitxt.com
 0.0.0.0 4wmp.nuggad.net
-0.0.0.0 5.googlenews.xorg.pl
 0.0.0.0 506.xg4ken.com
 0.0.0.0 51af72.r.axf8.net
 0.0.0.0 531.xg4ken.com
@@ -508,7 +503,6 @@
 0.0.0.0 ad.allstar.cz
 0.0.0.0 ad.altervista.org
 0.0.0.0 ad.amgdgt.com
-0.0.0.0 ad.aquamediadirect.com
 0.0.0.0 ad.ar.doubleclick.net
 0.0.0.0 ad.asntown.net
 0.0.0.0 ad.at.doubleclick.net
@@ -957,7 +951,6 @@
 0.0.0.0 ads.adhub.co.nz
 0.0.0.0 ads.adiply.com
 0.0.0.0 ads.admaxasia.com
-0.0.0.0 ads.admodus.com
 0.0.0.0 ads.adnet-media.net
 0.0.0.0 ads.adnet.am
 0.0.0.0 ads.adone.com
@@ -2406,7 +2399,6 @@
 0.0.0.0 atrd.netmng.com
 0.0.0.0 atrk.alexametrics.com
 0.0.0.0 atspace.de.intellitxt.com
-0.0.0.0 attribution.webmarketing123.com
 0.0.0.0 au-cdn.effectivemeasure.net
 0.0.0.0 au.2.cqcounter.com
 0.0.0.0 au.adserver.yahoo.com
@@ -4039,7 +4031,6 @@
 0.0.0.0 creative.cc-dt.com
 0.0.0.0 creative.clicksor.com
 0.0.0.0 creative.nscash.com
-0.0.0.0 creative.wwwpromoter.com
 0.0.0.0 creative.xtendmedia.com
 0.0.0.0 creativeby1.unicast.com
 0.0.0.0 creativeby2.unicast.com
@@ -5255,7 +5246,6 @@
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googleads2.g.doubleclick.net
 0.0.0.0 googleads4.g.doubleclick.net
-0.0.0.0 googlenews.xorg.pl
 0.0.0.0 googlus.com
 0.0.0.0 goska.siol.net
 0.0.0.0 gossipcenter.us.intellitxt.com
@@ -6414,7 +6404,6 @@
 0.0.0.0 lrytaslt.adocean.pl
 0.0.0.0 ls.hit.gemius.pl
 0.0.0.0 lse.uk.intellitxt.com
-0.0.0.0 lstats.qip.ru
 0.0.0.0 lt.adocean.pl
 0.0.0.0 lt.hit.gemius.pl
 0.0.0.0 lt.retargeter.com
@@ -8307,7 +8296,6 @@
 0.0.0.0 r01.ibg.bg
 0.0.0.0 r1.ace.advertising.com
 0.0.0.0 r1.affiliatefuel.com
-0.0.0.0 r1.literotica.com
 0.0.0.0 r1.zedo.com
 0.0.0.0 r5.dir.bg
 0.0.0.0 raahenseutu.jainos.fi
@@ -9800,7 +9788,6 @@
 0.0.0.0 tags-cdn.deployads.com
 0.0.0.0 tags.api.umbel.com
 0.0.0.0 tags.bannercde.com
-0.0.0.0 tags.bkrtx.com
 0.0.0.0 tags.bluekai.com
 0.0.0.0 tags.crwdcntrl.net
 0.0.0.0 tags.deployads.com
@@ -11287,7 +11274,6 @@
 0.0.0.0 www.effectivebrand.com
 0.0.0.0 www.effectivemeasure.net
 0.0.0.0 www.efficienttraffic.com
-0.0.0.0 www.electronicpromotion.com
 0.0.0.0 www.eliteconcepts.com
 0.0.0.0 www.ellads.com
 0.0.0.0 www.emjcd.com

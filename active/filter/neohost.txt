@@ -1,8 +1,8 @@
 # neohost Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://hosts.nfz.moe/full/hosts
-# Last Converted - 17.09.2018
-# Total Domains - 3087
+# Last Converted - 21.09.2018
+# Total Domains - 3080
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -2045,7 +2045,6 @@
 0.0.0.0 s.ipinyou.com
 0.0.0.0 s.jghcy.com
 0.0.0.0 s.jlminte.com
-0.0.0.0 s.l8l9.com
 0.0.0.0 s.lianmeng.360.cn
 0.0.0.0 s.mgwcn.com
 0.0.0.0 s.pomhz.com
@@ -2495,15 +2494,9 @@
 0.0.0.0 t.pg.cn.miaozhen.com
 0.0.0.0 t.sj.qq.com
 0.0.0.0 t.youmi.net
-0.0.0.0 t1.51maiwanju.com
 0.0.0.0 t10.baidu.com
 0.0.0.0 t11.baidu.com
 0.0.0.0 t12.baidu.com
-0.0.0.0 t2.51maiwanju.com
-0.0.0.0 t3.51maiwanju.com
-0.0.0.0 t4.51maiwanju.com
-0.0.0.0 t5.51maiwanju.com
-0.0.0.0 t6.51maiwanju.com
 0.0.0.0 ta.qq.com
 0.0.0.0 tags.bluekai.com
 0.0.0.0 tajs.qq.com

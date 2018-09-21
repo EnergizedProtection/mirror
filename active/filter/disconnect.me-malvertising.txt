@@ -1,8 +1,8 @@
 # disconnect.me-malvertising Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
-# Last Converted - 17.09.2018
-# Total Domains - 2796
+# Last Converted - 21.09.2018
+# Total Domains - 2784
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -909,7 +909,6 @@
 0.0.0.0 analytics.live.com
 0.0.0.0 analytics.yahoo.com
 0.0.0.0 ancientroom.com
-0.0.0.0 animeonline.net
 0.0.0.0 anm.intelli-direct.com
 0.0.0.0 annedouglas.com
 0.0.0.0 annonser.dagbladet.no
@@ -1329,7 +1328,6 @@
 0.0.0.0 cubics.com
 0.0.0.0 curiouserdesserts.com
 0.0.0.0 customad.cnn.com
-0.0.0.0 cx81.com
 0.0.0.0 cyberbounty.com
 0.0.0.0 cybermonitor.com
 0.0.0.0 czmlfc.sxtm30.badudns.cc
@@ -1344,7 +1342,6 @@
 0.0.0.0 dataxu.com
 0.0.0.0 dbbsrv.com
 0.0.0.0 dc-storm.com
-0.0.0.0 dd-seo.cn
 0.0.0.0 de17a.com
 0.0.0.0 dealdotcom.com
 0.0.0.0 deanmediagroup.com
@@ -1487,7 +1484,6 @@
 0.0.0.0 f5biz.com
 0.0.0.0 fabiocaminero.com
 0.0.0.0 faloge.com
-0.0.0.0 falsewi.com
 0.0.0.0 fangqianghuaye.com
 0.0.0.0 fas.nirmala.life
 0.0.0.0 fast-adv.it
@@ -1786,8 +1782,6 @@
 0.0.0.0 leadingedgecash.com
 0.0.0.0 leadzupc.com
 0.0.0.0 lean.com
-0.0.0.0 lectscalimertdr43.land.ru
-0.0.0.0 leferinktractors.com
 0.0.0.0 legolas-media.com
 0.0.0.0 lem-computers.net
 0.0.0.0 leonarderickson.chez.com
@@ -1952,7 +1946,6 @@
 0.0.0.0 mobixell.com
 0.0.0.0 mobstac.com
 0.0.0.0 mobuna.com
-0.0.0.0 moby-aa.ru
 0.0.0.0 mobyt.com
 0.0.0.0 mocean.mobi
 0.0.0.0 moceanmobile.com
@@ -2462,9 +2455,7 @@
 0.0.0.0 swordfishdc.com
 0.0.0.0 sympation.com
 0.0.0.0 sznaucer-figa.nd.e-wro.pl
-0.0.0.0 szzlzn.com
 0.0.0.0 t.insigit.com
-0.0.0.0 t.pusk.ru
 0.0.0.0 t2t2.com
 0.0.0.0 taboola.com
 0.0.0.0 tacoda.net
@@ -2527,7 +2518,6 @@
 0.0.0.0 top123.ro
 0.0.0.0 top20.com
 0.0.0.0 top20free.com
-0.0.0.0 top66.ro
 0.0.0.0 top90.ro
 0.0.0.0 topbarh.box.sk
 0.0.0.0 topblogarea.se
@@ -2717,7 +2707,6 @@
 0.0.0.0 wondoads.de
 0.0.0.0 woopra.com
 0.0.0.0 worldwide-cash.net
-0.0.0.0 wtdpcb.com
 0.0.0.0 wtlive.com
 0.0.0.0 wtr1.ru
 0.0.0.0 www-banner.chat.ru
@@ -2799,7 +2788,6 @@
 0.0.0.0 zenzuu.com
 0.0.0.0 zeus.developershed.com
 0.0.0.0 zeusclicks.com
-0.0.0.0 zhongpandz.com
 0.0.0.0 zintext.com
 0.0.0.0 zmedia.com
 0.0.0.0 zumobi.com

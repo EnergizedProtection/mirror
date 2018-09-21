@@ -1,8 +1,8 @@
 # airelle-pub Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/mirror/airelle-pub.txt
-# Last Converted - 17.09.2018
-# Total Domains - 74694
+# Last Converted - 21.09.2018
+# Total Domains - 74657
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -1075,9 +1075,7 @@
 0.0.0.0 a1-bannertausch.de
 0.0.0.0 a1.bing.com
 0.0.0.0 a1.suntimes.com
-0.0.0.0 a10shd.realshieldlinked.com
 0.0.0.0 a1139.oadz.com
-0.0.0.0 a11shd.realshieldlinked.com
 0.0.0.0 a135.wftv.com
 0.0.0.0 a1410.oadz.com
 0.0.0.0 a1491.oadz.com
@@ -1089,7 +1087,6 @@
 0.0.0.0 a1links.com
 0.0.0.0 a1own.com
 0.0.0.0 a1personals.com
-0.0.0.0 a1shd.realshieldlinked.com
 0.0.0.0 a1test.com
 0.0.0.0 a1webhosting.com
 0.0.0.0 a2-antimalware.ojolink.fr
@@ -1105,19 +1102,16 @@
 0.0.0.0 a2ide.a3radio.com
 0.0.0.0 a2k.in
 0.0.0.0 a2pub.com
-0.0.0.0 a2shd.realshieldlinked.com
 0.0.0.0 a2zlinks.com
 0.0.0.0 a2zsexlinks.com
 0.0.0.0 a3.suntimes.com
 0.0.0.0 a333.com
 0.0.0.0 a337b163a0bc.com
-0.0.0.0 a3shd.realshieldlinked.com
 0.0.0.0 a4.bing.com
 0.0.0.0 a4.suntimes.com
 0.0.0.0 a40.suntimes.com
 0.0.0.0 a4power.zeblog.com
 0.0.0.0 a4shared39.lhosting.info
-0.0.0.0 a4shd.realshieldlinked.com
 0.0.0.0 a5.suntimes.com
 0.0.0.0 a50.suntimes.com
 0.0.0.0 a51.suntimes.com
@@ -1125,22 +1119,18 @@
 0.0.0.0 a53.suntimes.com
 0.0.0.0 a54.suntimes.com
 0.0.0.0 a55.suntimes.com
-0.0.0.0 a6shd.realshieldlinked.com
 0.0.0.0 a7.suntimes.com
 0.0.0.0 a751.oadz.com
 0.0.0.0 a777.oadz.com
 0.0.0.0 a7cleaner.com
 0.0.0.0 a7ebktoolbar.ourtoolbar.com
 0.0.0.0 a7lam.com
-0.0.0.0 a7shd.realshieldlinked.com
 0.0.0.0 a8.chancede.com
 0.0.0.0 a814.oadz.com
-0.0.0.0 a8shd.realshieldlinked.com
 0.0.0.0 a9.ads.tp2.yahoo.com0latfee.ero-advertising.com
 0.0.0.0 a940db0846408b2.com
 0.0.0.0 a98spolicies.com
 0.0.0.0 a9d7c19f0282.com
-0.0.0.0 a9shd.realshieldlinked.com
 0.0.0.0 a9you9z1.notlong.com
 0.0.0.0 aa.agkn.com
 0.0.0.0 aa.com.dna-tests.com
@@ -17085,7 +17075,6 @@
 0.0.0.0 ads.administrator.de
 0.0.0.0 ads.admiral.ag
 0.0.0.0 ads.admized.com
-0.0.0.0 ads.admodus.com
 0.0.0.0 ads.adnet-plus.com
 0.0.0.0 ads.adnet.de
 0.0.0.0 ads.adomos.com
@@ -19664,7 +19653,6 @@
 0.0.0.0 adserv.aavalue.com
 0.0.0.0 adserv.adbonus.com
 0.0.0.0 adserv.arrow.com
-0.0.0.0 adserv.basedvd.com
 0.0.0.0 adserv.brandaffinity.net
 0.0.0.0 adserv.co.in
 0.0.0.0 adserv.com
@@ -40291,7 +40279,6 @@
 0.0.0.0 feelupdatingperfect.info
 0.0.0.0 feertor.easyfreeforum.com
 0.0.0.0 feet-links.com
-0.0.0.0 feetlinklist.com
 0.0.0.0 feeuibk.blackapplehost.com
 0.0.0.0 fei.pro-market.net
 0.0.0.0 fekish.forum2x2.ru
@@ -42274,7 +42261,6 @@
 0.0.0.0 getwisdom.io
 0.0.0.0 getyoutubelink.com
 0.0.0.0 getzwinky.com
-0.0.0.0 gewichtsverlusttipp.blogspot.com
 0.0.0.0 gezelim.myblogtoolbar.com
 0.0.0.0 gezinti.com
 0.0.0.0 gffqbbht.blackapplehost.com
@@ -48958,7 +48944,6 @@
 0.0.0.0 mediaprecision.net
 0.0.0.0 mediaraily.com
 0.0.0.0 mediaregad.hit.gemius.pl
-0.0.0.0 medias.clicks4ads.com
 0.0.0.0 medias.meetaffiliate.com
 0.0.0.0 mediasaleads.com
 0.0.0.0 mediascale.de
@@ -50494,7 +50479,6 @@
 0.0.0.0 naj.sk
 0.0.0.0 nakadoo.com
 0.0.0.0 nakedradio.com
-0.0.0.0 nakedteens.video
 0.0.0.0 naltrexones.com
 0.0.0.0 name-dictionary.com
 0.0.0.0 namedidddown.hellospace.org
@@ -52620,7 +52604,6 @@
 0.0.0.0 p.zp265.com
 0.0.0.0 p0.com
 0.0.0.0 p01.com
-0.0.0.0 p0rnuha.com
 0.0.0.0 p1vendor.17link.com
 0.0.0.0 p2.l.qq.com
 0.0.0.0 p2p-exchange.com
@@ -52964,7 +52947,6 @@
 0.0.0.0 partnersprojectinc.net
 0.0.0.0 partnerstrustbank.com
 0.0.0.0 partnersuche-kontaktanzeigen.de
-0.0.0.0 partnersuche-nrw.de
 0.0.0.0 partnersuche-sex.de
 0.0.0.0 partnersuche-singles.de
 0.0.0.0 partnertausch-webcam.de
@@ -53073,7 +53055,6 @@
 0.0.0.0 pc-3link7.stream
 0.0.0.0 pc-ads.com
 0.0.0.0 pc-ads.de
-0.0.0.0 pc-gizmos-ssl.com
 0.0.0.0 pc-infopratique.fr.intellitxt.com
 0.0.0.0 pc-magazin.de.intellitxt.com
 0.0.0.0 pc-tools-antivirus.ojolink.fr
@@ -53089,7 +53070,6 @@
 0.0.0.0 pcamved.freewaywebhost.com
 0.0.0.0 pcastuces.fr.intellitxt.com
 0.0.0.0 pcauto.irs01.com
-0.0.0.0 pcautolink.com
 0.0.0.0 pcbar.mycollegetoolbar.com
 0.0.0.0 pcbolsa.com
 0.0.0.0 pcbutts1.com
@@ -54414,7 +54394,6 @@
 0.0.0.0 protection.sbpolice.com
 0.0.0.0 protection.skpolice.com
 0.0.0.0 protection.tnpolice.com
-0.0.0.0 protection.topolice.com
 0.0.0.0 protection.vapolice.com
 0.0.0.0 protectlinks.com
 0.0.0.0 protectlinks.net
@@ -55381,7 +55360,6 @@
 0.0.0.0 reklam.softreklam.com
 0.0.0.0 reklam.star.com.tr
 0.0.0.0 reklama.onet.pl
-0.0.0.0 reklama.uzeik.net
 0.0.0.0 reklamagaci.com
 0.0.0.0 reklamnative.com
 0.0.0.0 reklamtrk.com
@@ -56054,7 +56032,6 @@
 0.0.0.0 s1.myao.adocean.pl
 0.0.0.0 s1.oglasnikhr.adocean.pl
 0.0.0.0 s1.pracuj.adocean.pl
-0.0.0.0 s1.shard.jp
 0.0.0.0 s1.sk.adocean.pl
 0.0.0.0 s1.skgde.adocean.pl
 0.0.0.0 s1.unionbig.com
@@ -56598,7 +56575,6 @@
 0.0.0.0 se.41kxw.com
 0.0.0.0 se.70pao.com
 0.0.0.0 se.sao82.com
-0.0.0.0 seaarch.info
 0.0.0.0 seacoastonlinecom.112.2o7.net
 0.0.0.0 seacrestcrafts.com
 0.0.0.0 seal.validatedsite.com
@@ -56760,7 +56736,6 @@
 0.0.0.0 secure.espotting.com
 0.0.0.0 secure.exoclick.com
 0.0.0.0 secure.fastclick.net
-0.0.0.0 secure.flyingcroc.net
 0.0.0.0 secure.highspeedweb.net
 0.0.0.0 secure.hitbox.com
 0.0.0.0 secure.img-cdn.mediaplex.com
@@ -61957,7 +61932,6 @@
 0.0.0.0 villmark.com
 0.0.0.0 vils.forumei.com
 0.0.0.0 vimage.com
-0.0.0.0 vinceandjoesmarket.com
 0.0.0.0 vineyardreview.com
 0.0.0.0 vinov.forumotion.net
 0.0.0.0 vintacom.112.2o7.net
@@ -63937,7 +63911,6 @@
 0.0.0.0 www.ads-company.com
 0.0.0.0 www.ads-cpm.com
 0.0.0.0 www.ads-it.com
-0.0.0.0 www.ads-page.co
 0.0.0.0 www.ads-server.net
 0.0.0.0 www.ads-team.ru
 0.0.0.0 www.ads.adflight.com
@@ -65000,7 +64973,6 @@
 0.0.0.0 www.bduste.darmowefora.pl
 0.0.0.0 www.beachdirect.net
 0.0.0.0 www.bearybox.com
-0.0.0.0 www.beastlink.com
 0.0.0.0 www.beathome.com
 0.0.0.0 www.beautifllink.xyz
 0.0.0.0 www.beautifulkerala.com
@@ -65355,7 +65327,6 @@
 0.0.0.0 www.bucuresti.wikiteam.ro
 0.0.0.0 www.buddhaline.net
 0.0.0.0 www.buddhismus-stiftung.com
-0.0.0.0 www.buddylinks.net
 0.0.0.0 www.buehnemann.com
 0.0.0.0 www.buffymaniac.it
 0.0.0.0 www.bugsbanner.it
@@ -66188,7 +66159,6 @@
 0.0.0.0 www.counter-gratis.com
 0.0.0.0 www.counter.bloke.com
 0.0.0.0 www.counter.hitbox.com
-0.0.0.0 www.counter.hitslinks.com
 0.0.0.0 www.counter.superstats.com
 0.0.0.0 www.counter1.sextracker.be
 0.0.0.0 www.counter10.sextracker.be
@@ -69777,7 +69747,6 @@
 0.0.0.0 www.mirkaraito.com
 0.0.0.0 www.mirt.ru
 0.0.0.0 www.misen.wxv.pl
-0.0.0.0 www.misinformedia.com
 0.0.0.0 www.misohoni.com
 0.0.0.0 www.miss-eurasia.com
 0.0.0.0 www.miss-newyork.net
@@ -70524,7 +70493,6 @@
 0.0.0.0 www.pagoporubicacion.com
 0.0.0.0 www.paid2link.com
 0.0.0.0 www.paid4clicks.de
-0.0.0.0 www.paidclicksnetwork.com
 0.0.0.0 www.paidgold.com
 0.0.0.0 www.paintballvimpel.com
 0.0.0.0 www.paintedlady.com
@@ -72220,7 +72188,6 @@
 0.0.0.0 www.supportlink.info
 0.0.0.0 www.supportlink.org
 0.0.0.0 www.supportlinkonline.com
-0.0.0.0 www.supportonclick.com
 0.0.0.0 www.supremescripts.com
 0.0.0.0 www.surfaccuracy.com
 0.0.0.0 www.surfbirder.com
@@ -72510,7 +72477,6 @@
 0.0.0.0 www.thesexlinks.com
 0.0.0.0 www.thesexylinks.com
 0.0.0.0 www.thesharperimage.com
-0.0.0.0 www.thestrongestlinks.com
 0.0.0.0 www.thetraderinpajamas.com
 0.0.0.0 www.thewaycloud.com
 0.0.0.0 www.theworldsmovie.com
@@ -72814,7 +72780,6 @@
 0.0.0.0 www.ulink.cc
 0.0.0.0 www.ulink.net
 0.0.0.0 www.ultimatecarpage.com
-0.0.0.0 www.ultimatefashiongifts.com
 0.0.0.0 www.ultimatejujitsu.com
 0.0.0.0 www.ultimatemoviedownload.com
 0.0.0.0 www.ultimatesexlinks.com
@@ -73416,7 +73381,6 @@
 0.0.0.0 www.wwwgoggle.com
 0.0.0.0 www.wwwgoogles.com
 0.0.0.0 www.wwwhemmings.com
-0.0.0.0 www.wwwjackpot.com
 0.0.0.0 www.wwwjanus.com
 0.0.0.0 www.wwwlastminutetravel.com
 0.0.0.0 www.wwwmarthastewart.com
@@ -73652,7 +73616,6 @@
 0.0.0.0 www1.adv-adserver.com
 0.0.0.0 www1.belboon.de
 0.0.0.0 www1.clickdownloader.com
-0.0.0.0 www1.clicktorrent.info
 0.0.0.0 www1.counter.bloke.com
 0.0.0.0 www1.dimeclicks.com
 0.0.0.0 www1.iwon.com

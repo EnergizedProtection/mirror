@@ -1,8 +1,8 @@
 # hosts-file.net-ats Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://hosts-file.net/ad_servers.txt
-# Last Converted - 17.09.2018
-# Total Domains - 44130
+# Last Converted - 21.09.2018
+# Total Domains - 44108
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -1271,24 +1271,19 @@
 0.0.0.0 a1.admaster.net
 0.0.0.0 a1.dnbizcdn.com
 0.0.0.0 a1.suntimes.com
-0.0.0.0 a10shd.realshieldlinked.com
 0.0.0.0 a11om.voluumtrk.com
-0.0.0.0 a11shd.realshieldlinked.com
 0.0.0.0 a12a30zg8rw248c8bl5o72qweh.hop.clickbank.net
 0.0.0.0 a1599.g.akamai.net
 0.0.0.0 a1767.g.akamai.net
 0.0.0.0 a19.g.akamai.net
-0.0.0.0 a1shd.realshieldlinked.com
 0.0.0.0 a2.suntimes.com
 0.0.0.0 a207.p.f.qz3.net
 0.0.0.0 a2p.go2cloud.org
 0.0.0.0 a2pub.com
-0.0.0.0 a2shd.realshieldlinked.com
 0.0.0.0 a3.suntimes.com
 0.0.0.0 a3339.actonsoftware.com
 0.0.0.0 a39.ac-images.myspacecdn.com
 0.0.0.0 a3hb0.voluumtrk.com
-0.0.0.0 a3shd.realshieldlinked.com
 0.0.0.0 a4.suntimes.com
 0.0.0.0 a40.suntimes.com
 0.0.0.0 a433.com
@@ -1298,7 +1293,6 @@
 0.0.0.0 a4nwz.voluumtrk.com
 0.0.0.0 a4ocm.voluumtrk.com
 0.0.0.0 a4rlj.voluumtrk.com
-0.0.0.0 a4shd.realshieldlinked.com
 0.0.0.0 a5.suntimes.com
 0.0.0.0 a50.suntimes.com
 0.0.0.0 a51.suntimes.com
@@ -1310,17 +1304,13 @@
 0.0.0.0 a615.ac-images.myspacecdn.com
 0.0.0.0 a6522.s3-website-us-east-1.amazonaws.com
 0.0.0.0 a6ba.com
-0.0.0.0 a6shd.realshieldlinked.com
 0.0.0.0 a7.suntimes.com
 0.0.0.0 a71tb.voluumtrk.com
 0.0.0.0 a722-a332-7273-9e88.reporo.net
 0.0.0.0 a76.p.f.qz3.net
-0.0.0.0 a7shd.realshieldlinked.com
 0.0.0.0 a885.ac-images.myspacecdn.com
-0.0.0.0 a8shd.realshieldlinked.com
 0.0.0.0 a9.com
 0.0.0.0 a98dc034c7781a941eba-bac02262202668bbe918ea9fb5289cd2.r58.cf2.rackcdn.com
-0.0.0.0 a9shd.realshieldlinked.com
 0.0.0.0 aa-gb.marketgid.com
 0.0.0.0 aa.adfarm1.adition.com
 0.0.0.0 aa.connextra.com
@@ -2256,7 +2246,6 @@
 0.0.0.0 ad.app-authority.com
 0.0.0.0 ad.appier.net
 0.0.0.0 ad.apps.fm
-0.0.0.0 ad.aquamediadirect.com
 0.0.0.0 ad.ar.doubleclick.net
 0.0.0.0 ad.at.doubleclick.net
 0.0.0.0 ad.atdmt.com
@@ -21856,7 +21845,6 @@
 0.0.0.0 c.spiegel.de
 0.0.0.0 c.statcounter.com
 0.0.0.0 c.t4ft.de
-0.0.0.0 c.teromil.com
 0.0.0.0 c.thanksearch.com
 0.0.0.0 c.us1.dyntrk.com
 0.0.0.0 c.viewsecure.net
@@ -24593,7 +24581,6 @@
 0.0.0.0 creative.metalyzer.com
 0.0.0.0 creative.rev2pub.com
 0.0.0.0 creative.speednetwork6.com
-0.0.0.0 creative.wwwpromoter.com
 0.0.0.0 creative.xtendmedia.com
 0.0.0.0 creative1cdn.mobfox.com
 0.0.0.0 creativeby1.unicast.com
@@ -27507,7 +27494,6 @@
 0.0.0.0 gmads.mookie1.com
 0.0.0.0 gmads.net
 0.0.0.0 gmkxougopsonin.review
-0.0.0.0 gmonitor.aliimg.com
 0.0.0.0 gmoxn.voluumtrk.com
 0.0.0.0 gmtdmp.mookie1.com
 0.0.0.0 gmtracker.com
@@ -29127,7 +29113,6 @@
 0.0.0.0 js.smartredirect.de
 0.0.0.0 js.stormcontainertag.com
 0.0.0.0 js.users.51.la
-0.0.0.0 js.w.inmobi.com
 0.0.0.0 js.wingowin.com
 0.0.0.0 js.worthathousandwords.com
 0.0.0.0 js1.hitbox.com
@@ -34752,7 +34737,6 @@
 0.0.0.0 storage.creative-mobile.com
 0.0.0.0 storage.outbrain.com
 0.0.0.0 storage.psstgccint.com
-0.0.0.0 store.greatdealnews.com
 0.0.0.0 store.lavasoft.com
 0.0.0.0 storedsearch.com
 0.0.0.0 storewidget.pcauthority.com.au
@@ -35070,7 +35054,6 @@
 0.0.0.0 tags-eu.tiqcdn.com
 0.0.0.0 tags.1001spiele.de
 0.0.0.0 tags.api.umbel.com
-0.0.0.0 tags.bkrtx.com
 0.0.0.0 tags.bluekai.com
 0.0.0.0 tags.chitika.net
 0.0.0.0 tags.compuhot.com
@@ -35868,7 +35851,6 @@
 0.0.0.0 traffic.adxprtz.com
 0.0.0.0 traffic.alexa.com
 0.0.0.0 traffic.bannerator.com
-0.0.0.0 traffic.bokecc.com
 0.0.0.0 traffic.buyservices.com
 0.0.0.0 traffic.firstmobilelink.com
 0.0.0.0 traffic.index.hu
@@ -42236,7 +42218,6 @@
 0.0.0.0 www.ifjcpbcontessas.review
 0.0.0.0 www.ifsmarketing.com
 0.0.0.0 www.igain-mail.co.uk
-0.0.0.0 www.ignitad.com
 0.0.0.0 www.igogoshare.com
 0.0.0.0 www.iicdn.com
 0.0.0.0 www.ijxaxlacapacitors.review
@@ -42264,7 +42245,6 @@
 0.0.0.0 www.inetlog.ru
 0.0.0.0 www.ingluvialqsbjgerp.download
 0.0.0.0 www.inhumatesiwqkd.download
-0.0.0.0 www.inkinesspjjpli.download
 0.0.0.0 www.inmobi.com
 0.0.0.0 www.innn.site
 0.0.0.0 www.inspectlet.com
@@ -43256,7 +43236,6 @@
 0.0.0.0 www.track.net
 0.0.0.0 www.track112.com
 0.0.0.0 www.track4.com
-0.0.0.0 www.trackalyzer.com
 0.0.0.0 www.trackbacksecure.com
 0.0.0.0 www.trackedclicks.com
 0.0.0.0 www.tracker.peerclick.io
@@ -43601,7 +43580,6 @@
 0.0.0.0 www2.smartadserver.com
 0.0.0.0 www2.survey-poll.com
 0.0.0.0 www2.surveyfocus.com
-0.0.0.0 www2.telemarque.com
 0.0.0.0 www2.track4.com
 0.0.0.0 www21.a8.net
 0.0.0.0 www22.a8.net

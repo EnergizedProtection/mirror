@@ -1,7 +1,7 @@
 # hosts-file.net-pha Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://hosts-file.net/pha.txt
-# Last Converted - 17.09.2018
+# Last Converted - 21.09.2018
 # Total Domains - 13053
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
@@ -1561,7 +1561,6 @@
 0.0.0.0 cheappharmacy24x7.com
 0.0.0.0 cheapphentermine24x7.com
 0.0.0.0 cheappills365.com
-0.0.0.0 cheappillz.ru
 0.0.0.0 cheapritalin.com
 0.0.0.0 cheaprx-pharmacy.com
 0.0.0.0 cheaprx.ru
@@ -3919,6 +3918,7 @@
 0.0.0.0 medzsalerx.ru
 0.0.0.0 megadelivery.su
 0.0.0.0 megahotsale.ru
+0.0.0.0 megajoya.su
 0.0.0.0 megapharmnorx.com
 0.0.0.0 megapharmnorx.net
 0.0.0.0 megaprecos.win

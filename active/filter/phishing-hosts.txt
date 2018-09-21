@@ -1,8 +1,8 @@
 # phishing-hosts Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://gitlab.com/Kurobeats/phishing_hosts/raw/master/hosts
-# Last Converted - 17.09.2018
-# Total Domains - 771
+# Last Converted - 21.09.2018
+# Total Domains - 769
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -108,7 +108,6 @@
 0.0.0.0 capitalcityconcealedcarrytraining.com
 0.0.0.0 cardionova.in
 0.0.0.0 careeducation.com
-0.0.0.0 ccc.asperahali.com
 0.0.0.0 cebratx22.tripod.com
 0.0.0.0 cecattoalimentos.com.br
 0.0.0.0 cellopaw.com
@@ -643,7 +642,6 @@
 0.0.0.0 www.avilesinos.com
 0.0.0.0 www.bandaekhuda.com
 0.0.0.0 www.barlingschool.es
-0.0.0.0 www.belonging.cf
 0.0.0.0 www.bitly.com
 0.0.0.0 www.brianmcivor.com
 0.0.0.0 www.buonagente.com.br

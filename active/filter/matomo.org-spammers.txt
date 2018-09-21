@@ -1,8 +1,8 @@
 # matomo.org-spammers Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt
-# Last Converted - 17.09.2018
-# Total Domains - 744
+# Last Converted - 21.09.2018
+# Total Domains - 743
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -638,7 +638,6 @@
 0.0.0.0 tattooha.com
 0.0.0.0 td-perimetr.ru
 0.0.0.0 technika-remont.ru
-0.0.0.0 tedxrj.com
 0.0.0.0 tentcomplekt.ru
 0.0.0.0 teplohod-gnezdo.ru
 0.0.0.0 texnika.com.ua
