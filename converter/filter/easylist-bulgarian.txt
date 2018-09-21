@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://easylist-downloads.adblockplus.org/bulgarian_list+easylist.txt
 # Last Converted - 21.09.2018
-# Total Domains - 17554
+# Total Domains - 17555
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -12908,6 +12908,7 @@
 0.0.0.0 rieyjzuyhigobg.bid
 0.0.0.0 rifwhwdsqvgw.com
 0.0.0.0 rigistrar.net
+0.0.0.0 rigoczly.com
 0.0.0.0 rihzsedipaqq.com
 0.0.0.0 rijadpczqbdsvb.com
 0.0.0.0 rikazsjaezda.bid

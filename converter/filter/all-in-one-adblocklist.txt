@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
 # Last Converted - 21.09.2018
-# Total Domains - 63334
+# Total Domains - 63327
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -4509,7 +4509,6 @@
 0.0.0.0 agqguxbm.com
 0.0.0.0 agraeta.com
 0.0.0.0 agreeableprice.com
-0.0.0.0 agreemand.com
 0.0.0.0 agreement4.gdmachinery.net
 0.0.0.0 agreement7.gdmachinery.net
 0.0.0.0 agri-show.co.za
@@ -4738,6 +4737,7 @@
 0.0.0.0 akhmjitext.id
 0.0.0.0 akkinha-resort.com
 0.0.0.0 akkristd.beget.tech
+0.0.0.0 akmihtdbbz.com
 0.0.0.0 akmota.info
 0.0.0.0 aknice.info
 0.0.0.0 aknrvuahd.bid
@@ -11005,7 +11005,6 @@
 0.0.0.0 caonlinesupportusers.selfip.org
 0.0.0.0 cap-cap-pop.com
 0.0.0.0 capacitatec.net
-0.0.0.0 capacitly.com
 0.0.0.0 capacitygrid.com
 0.0.0.0 capadinatrioustreehouse.co.za
 0.0.0.0 cape4down.com
@@ -12315,7 +12314,6 @@
 0.0.0.0 christineflorez.us
 0.0.0.0 christinelebeck.com
 0.0.0.0 christinepantazis.com
-0.0.0.0 christingel.com
 0.0.0.0 christmalicious.com
 0.0.0.0 christmasgiftnow.com
 0.0.0.0 christmasgiftsau.com
@@ -12433,7 +12431,6 @@
 0.0.0.0 cinematrix.net
 0.0.0.0 cinemaxy.com
 0.0.0.0 cineqkifrlxsep.bid
-0.0.0.0 cinstein.com
 0.0.0.0 cint.com
 0.0.0.0 cinta17thn.000webhostapp.com
 0.0.0.0 cintapage69.esy.es
@@ -14600,7 +14597,6 @@
 0.0.0.0 credbgvhijbcj.com
 0.0.0.0 credemc.it
 0.0.0.0 credentialmanager.review
-0.0.0.0 credishe.com
 0.0.0.0 credit-agricole.dhdkuepj.beget.tech
 0.0.0.0 credit-agricolefrance.ga
 0.0.0.0 credit-card.message27.com
@@ -19182,7 +19178,6 @@
 0.0.0.0 elsotoproduction.com
 0.0.0.0 eltawhiedsoft.com
 0.0.0.0 eltepo.ru
-0.0.0.0 elthamely.com
 0.0.0.0 eluhhfyxx.com
 0.0.0.0 eluxer.net
 0.0.0.0 elvate.net
@@ -30856,7 +30851,6 @@
 0.0.0.0 jondfe.co.vu
 0.0.0.0 joneanu.com
 0.0.0.0 jonesboatengministries.net
-0.0.0.0 joneself.com
 0.0.0.0 jonglpan.it
 0.0.0.0 jonnyborgesmusic.com
 0.0.0.0 jonnydev.site
@@ -36882,7 +36876,6 @@
 0.0.0.0 moffsets.com
 0.0.0.0 mofrupteeuqnvc.bid
 0.0.0.0 mofvrnbngcern.bid
-0.0.0.0 moggattice.com
 0.0.0.0 mogointeractive.com
 0.0.0.0 mogrbrydixdvmc.bid
 0.0.0.0 moguldom.com
@@ -38506,7 +38499,6 @@
 0.0.0.0 nepalalternativetreks.com
 0.0.0.0 nepalhimalayantrekking.com
 0.0.0.0 nepalhtml.com
-0.0.0.0 nephritish.com
 0.0.0.0 nepohita.com
 0.0.0.0 nereeapma2.temp.swtest.ru
 0.0.0.0 nererut.com
@@ -56506,6 +56498,7 @@
 0.0.0.0 ujrfwuzv.com
 0.0.0.0 ujtyosgemtnx.com
 0.0.0.0 ujvmzzwsxzrd3.com
+0.0.0.0 ujwdwwfuqcgnv.com
 0.0.0.0 ujxjvpnuwwlj.biz
 0.0.0.0 ujyyciaedxqr.com
 0.0.0.0 ujzeqfkeilro.com
