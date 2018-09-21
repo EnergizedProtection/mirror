@@ -1,8 +1,8 @@
 # adguard-mobile-spyware Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/spyware.txt
-# Last Converted - 17.09.2018
-# Total Domains - 279
+# Last Converted - 21.09.2018
+# Total Domains - 280
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -248,6 +248,7 @@
 0.0.0.0 tkrecorder.aotter.net
 0.0.0.0 tktracker.aotter.net
 0.0.0.0 tns.simba.taobao.com
+0.0.0.0 tr.snapchat.com
 0.0.0.0 track.adform.net
 0.0.0.0 track.appsflyer.com
 0.0.0.0 track.pingstart.com

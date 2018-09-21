@@ -1,8 +1,8 @@
 # easylist-hebrew Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/easylist/EasyListHebrew/master/EasyListHebrew.txt
-# Last Converted - 17.09.2018
-# Total Domains - 295
+# Last Converted - 21.09.2018
+# Total Domains - 296
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -122,6 +122,7 @@
 0.0.0.0 flirthere1.com
 0.0.0.0 forexglobal.top
 0.0.0.0 freehookup.link
+0.0.0.0 freehookupspace.com
 0.0.0.0 g-static.gdn
 0.0.0.0 giftandmore.club
 0.0.0.0 gilorly.leadpages.co

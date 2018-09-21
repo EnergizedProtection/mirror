@@ -1,8 +1,8 @@
 # adguard-french-filter Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://filters.adtidy.org/extension/chromium/filters/16.txt
-# Last Converted - 17.09.2018
-# Total Domains - 6024
+# Last Converted - 21.09.2018
+# Total Domains - 6035
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -286,6 +286,7 @@
 0.0.0.0 6ub9kwj.com
 0.0.0.0 6v0dgrcr6q.com
 0.0.0.0 6zw2rcfd.com
+0.0.0.0 7-link.ru
 0.0.0.0 7017042b83a65ea.com
 0.0.0.0 7089e5b41f87.com
 0.0.0.0 70fa9b55f717e1eee.com
@@ -920,6 +921,7 @@
 0.0.0.0 anothing.info
 0.0.0.0 anothinga.com
 0.0.0.0 anrdoezrs.net
+0.0.0.0 antinuef.info
 0.0.0.0 antonymprurience.com
 0.0.0.0 anymad.com
 0.0.0.0 anytheengmedia.com
@@ -1689,6 +1691,7 @@
 0.0.0.0 creative.stripchat.com
 0.0.0.0 creativesrv.com
 0.0.0.0 credishe.com
+0.0.0.0 creofive.com
 0.0.0.0 crisivelyt.info
 0.0.0.0 critariatele.pro
 0.0.0.0 critishy.info
@@ -2188,6 +2191,7 @@
 0.0.0.0 do67etikr7pwz.cloudfront.net
 0.0.0.0 do69ll745l27z.cloudfront.net
 0.0.0.0 docchastening.org
+0.0.0.0 docsconvert.club
 0.0.0.0 docymas.com
 0.0.0.0 dodgerdecoctionprocess.com
 0.0.0.0 dogrose18.com
@@ -2611,6 +2615,7 @@
 0.0.0.0 forgerhineland.com
 0.0.0.0 formaticul.com
 0.0.0.0 formicafuscasyringavillosa.info
+0.0.0.0 formulawire.com
 0.0.0.0 forsythovalo.com
 0.0.0.0 forterradirect.com
 0.0.0.0 fourtesy.info
@@ -3183,6 +3188,7 @@
 0.0.0.0 isho1xu.top
 0.0.0.0 islesfordponderay.com
 0.0.0.0 istri.it
+0.0.0.0 istric.com
 0.0.0.0 itcfnfi.com
 0.0.0.0 itrks.com
 0.0.0.0 itsup.com
@@ -3985,6 +3991,7 @@
 0.0.0.0 nols-pub.fr
 0.0.0.0 non.li
 0.0.0.0 norgerockingham.com
+0.0.0.0 normour.com
 0.0.0.0 northernscupencountergroup.info
 0.0.0.0 nosmcontent.biz
 0.0.0.0 nostalgicallyoperatingroom.com
@@ -4821,6 +4828,7 @@
 0.0.0.0 rus-por.top
 0.0.0.0 rutheronwenonah.com
 0.0.0.0 rutrk.org
+0.0.0.0 rutvind.com
 0.0.0.0 rvfrm2005.com
 0.0.0.0 rvfrm2010.com
 0.0.0.0 rvnc72k.com
@@ -5006,6 +5014,7 @@
 0.0.0.0 shoppingbox.liberation.fr
 0.0.0.0 shoppytab.com
 0.0.0.0 shopstockoff.com
+0.0.0.0 shortem.com
 0.0.0.0 shortgoo.com
 0.0.0.0 shortinfo.mobi
 0.0.0.0 shortironeastside.net
@@ -5037,7 +5046,7 @@
 0.0.0.0 sis9the.top
 0.0.0.0 sistacked.com
 0.0.0.0 site.elkhabar.com
-0.0.0.0 site.flashx.cc
+0.0.0.0 site.flashx.
 0.0.0.0 siteverification.online
 0.0.0.0 siteverification.site
 0.0.0.0 sk1n.fr
@@ -5449,6 +5458,7 @@
 0.0.0.0 trafeeq.com
 0.0.0.0 traffdaq.com
 0.0.0.0 traffe.eu
+0.0.0.0 traffic-c.com
 0.0.0.0 traffic.club
 0.0.0.0 trafficad.net
 0.0.0.0 trafficbee.com
@@ -5509,6 +5519,7 @@
 0.0.0.0 tubeadvertising.eu
 0.0.0.0 tubecorporate.com
 0.0.0.0 tuberavage.com
+0.0.0.0 tubetitties.com
 0.0.0.0 tubicash.biz
 0.0.0.0 tubicash.com
 0.0.0.0 tubuaiislandscliftoniamonophylla.net

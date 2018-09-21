@@ -62,6 +62,7 @@
   {"name": "fanboy-enhanced-stats",              "enabled": true,  "format": "plain",   "url": "https://www.fanboy.co.nz/enhancedstats.txt"},
   {"name": "fanboy-fake-news",                   "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/ryanbr/fanboy-adblock/master/fake-news.txt"},
   {"name": "fanboy-indian",                      "enabled": true,  "format": "plain",   "url": "https://fanboy.co.nz/fanboy-indian.txt"},
+  {"name": "fanboy-ultimate",                    "enabled": true,  "format": "plain",   "url": "https://fanboy.co.nz/r/fanboy-ultimate.txt"},
   {"name": "gnuzilla",                           "enabled": true,  "format": "plain",   "url": "https://gnuzilla.gnu.org/filters/blacklist.txt"},
   {"name": "hexxium-creations-threat-list",      "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/HexxiumCreations/threat-list/gh-pages/hexxiumthreatlist.txt"},
   {"name": "liste-ar",                           "enabled": true,  "format": "plain",   "url": "https://easylist-downloads.adblockplus.org/Liste_AR.txt"},

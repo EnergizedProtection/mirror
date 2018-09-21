@@ -1,8 +1,8 @@
 # adguard-spyware-filter Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last Converted - 17.09.2018
-# Total Domains - 3874
+# Last Converted - 21.09.2018
+# Total Domains - 3878
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -1512,6 +1512,7 @@
 0.0.0.0 haveamint.com
 0.0.0.0 haymarket.com
 0.0.0.0 hc.uralweb.ru
+0.0.0.0 healte.de
 0.0.0.0 heapanalytics.com
 0.0.0.0 heatmap.it
 0.0.0.0 hellosherpa.com
@@ -2174,6 +2175,7 @@
 0.0.0.0 navilytics.com
 0.0.0.0 navrcholu.cz
 0.0.0.0 naytev.com
+0.0.0.0 nbalive.pw
 0.0.0.0 ndg.io
 0.0.0.0 neatstats.com
 0.0.0.0 nedstat.com
@@ -3002,6 +3004,7 @@
 0.0.0.0 stat.sports.ru
 0.0.0.0 stat.sputnik.ru
 0.0.0.0 stat.tvigle.ru
+0.0.0.0 stat.uitools.space
 0.0.0.0 stat.www.fi
 0.0.0.0 stat.youku.com
 0.0.0.0 stat08.com
@@ -3351,6 +3354,7 @@
 0.0.0.0 track.buybox.click
 0.0.0.0 track.custora.com
 0.0.0.0 track.datescan.info
+0.0.0.0 track.ddmanager.ru
 0.0.0.0 track.dictionary.com
 0.0.0.0 track.effiliation.com
 0.0.0.0 track.express.de

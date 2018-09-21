@@ -1,8 +1,8 @@
 # easyprivacy Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://easylist.to/easylist/easyprivacy.txt
-# Last Converted - 17.09.2018
-# Total Domains - 6308
+# Last Converted - 21.09.2018
+# Total Domains - 6307
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -3576,7 +3576,6 @@
 0.0.0.0 nstracking.com
 0.0.0.0 ntlab.org
 0.0.0.0 nuconomy.com
-0.0.0.0 nudatasecurity.com
 0.0.0.0 nuggad.net
 0.0.0.0 nuloox.com
 0.0.0.0 numerino.cz

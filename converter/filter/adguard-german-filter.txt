@@ -1,8 +1,8 @@
 # adguard-german-filter Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://filters.adtidy.org/extension/chromium/filters/6.txt
-# Last Converted - 17.09.2018
-# Total Domains - 740
+# Last Converted - 21.09.2018
+# Total Domains - 741
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -669,6 +669,7 @@
 0.0.0.0 traffic-hammer.de
 0.0.0.0 trafficlayer.de
 0.0.0.0 traffictrack.de
+0.0.0.0 trbo.com
 0.0.0.0 trendhure.com
 0.0.0.0 trendhure.tv
 0.0.0.0 trocado.at

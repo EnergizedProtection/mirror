@@ -1,8 +1,8 @@
 # adguard-tracking-servers Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers.txt
-# Last Converted - 17.09.2018
-# Total Domains - 2987
+# Last Converted - 21.09.2018
+# Total Domains - 2990
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -1133,6 +1133,7 @@
 0.0.0.0 haraju.co
 0.0.0.0 haveamint.com
 0.0.0.0 haymarket.com
+0.0.0.0 healte.de
 0.0.0.0 heapanalytics.com
 0.0.0.0 heatmap.it
 0.0.0.0 hellosherpa.com
@@ -2367,6 +2368,7 @@
 0.0.0.0 start.ru
 0.0.0.0 startstat.ru
 0.0.0.0 stat.media
+0.0.0.0 stat.uitools.space
 0.0.0.0 stat08.com
 0.0.0.0 stat24.com
 0.0.0.0 stat24.ru
@@ -2587,6 +2589,7 @@
 0.0.0.0 tracetracking.net
 0.0.0.0 traceworks.com
 0.0.0.0 track-web.net
+0.0.0.0 track.ddmanager.ru
 0.0.0.0 track2.me
 0.0.0.0 trackalyzer.com
 0.0.0.0 trackbar.info
