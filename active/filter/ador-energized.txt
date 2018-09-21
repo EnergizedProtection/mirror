@@ -2,13 +2,11 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # Last Converted - 21.09.2018
-# Total Domains - 9069
+# Total Domains - 9072
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
 
-0.0.0.0 adservice.tohsoft.com
-0.0.0.0 site.flashx.cc
 0.0.0.0 000lex4.wcomhost.com
 0.0.0.0 023hysj.com
 0.0.0.0 0latfee.ero-advertising.com
@@ -1137,6 +1135,7 @@
 0.0.0.0 adservice.google.xn--mxtq1m
 0.0.0.0 adservice.google.xn--ngbrx
 0.0.0.0 adservice.google.xn--node
+0.0.0.0 adservice.tohsoft.com
 0.0.0.0 adservingsolutionsinc.adk2.co
 0.0.0.0 adservingsolutionsinc.adk2x.com
 0.0.0.0 adsever.cxad.cxense.com
@@ -6484,6 +6483,7 @@
 0.0.0.0 sionicmedia.com
 0.0.0.0 siovv.voluumtrk.com
 0.0.0.0 site.adform.com
+0.0.0.0 site.flashx.cc
 0.0.0.0 sitecdn.tvpage.com
 0.0.0.0 sitelock.com
 0.0.0.0 sitemaji.com
@@ -7103,6 +7103,7 @@
 0.0.0.0 tns.simba.taobao.com
 0.0.0.0 todigroup.adk2.co
 0.0.0.0 toexten.com
+0.0.0.0 tohapp.com
 0.0.0.0 token.rubiconproject.com
 0.0.0.0 tokfb.adsrvr.org
 0.0.0.0 tokvideo.adsrvr.org

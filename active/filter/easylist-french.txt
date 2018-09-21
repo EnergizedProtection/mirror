@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easylist-french.txt
 # Last Converted - 21.09.2018
-# Total Domains - 15615
+# Total Domains - 15617
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -860,6 +860,7 @@
 0.0.0.0 accesporno.com
 0.0.0.0 access-mc.com
 0.0.0.0 accesssearch.click
+0.0.0.0 accio.ai
 0.0.0.0 accmgr.com
 0.0.0.0 accodongle.com
 0.0.0.0 accommodativepasto.org
@@ -4359,6 +4360,7 @@
 0.0.0.0 d1czd1q73kbu32.cloudfront.net
 0.0.0.0 d1dli2tyorled9.cloudfront.net
 0.0.0.0 d1dqwj4dc78lwy.cloudfront.net
+0.0.0.0 d1e12he7ynr8zq.cloudfront.net
 0.0.0.0 d1ebha2k07asm5.cloudfront.net
 0.0.0.0 d1ejnc60jkzff4.cloudfront.net
 0.0.0.0 d1ewpr7kbabyrj.cloudfront.net
@@ -11962,6 +11964,7 @@
 0.0.0.0 ridgedaletecopa.com
 0.0.0.0 ridingintractable.com
 0.0.0.0 ridleyhuntin.com
+0.0.0.0 rigoczly.com
 0.0.0.0 rijadpczqbdsvb.com
 0.0.0.0 rikhov.ru
 0.0.0.0 rilnali.ru
@@ -12599,7 +12602,6 @@
 0.0.0.0 sisrgcvomn.com
 0.0.0.0 sistacked.com
 0.0.0.0 site-rips.org
-0.0.0.0 site.flashx.
 0.0.0.0 sitebrand.com
 0.0.0.0 siteencore.com
 0.0.0.0 sitescout-video-cdn.edgesuite.net

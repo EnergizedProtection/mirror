@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/mirror/GASB-PE.active.txt
 # Last Converted - 21.09.2018
-# Total Domains - 67049
+# Total Domains - 67048
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -38395,7 +38395,6 @@
 0.0.0.0 permissionpass.com
 0.0.0.0 permissionresearch.com
 0.0.0.0 permissionresearch.org
-0.0.0.0 perr.h-cdn.com
 0.0.0.0 persankitty.com
 0.0.0.0 perseus.safe-order.net
 0.0.0.0 persiankitt.com

@@ -10175,7 +10175,6 @@
 0.0.0.0 perion.com
 0.0.0.0 permanyb.com
 0.0.0.0 permutive.com
-0.0.0.0 perr.h-cdn.com
 0.0.0.0 persevered.com
 0.0.0.0 persianstat.com
 0.0.0.0 persianstat.ir
@@ -11466,6 +11465,7 @@
 0.0.0.0 richwebmedia.com
 0.0.0.0 rick-rick-rob.com
 0.0.0.0 rightstats.com
+0.0.0.0 rigoczly.com
 0.0.0.0 rijadpczqbdsvb.com
 0.0.0.0 rikhov.ru
 0.0.0.0 rimvtigoyajas.com

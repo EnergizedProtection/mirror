@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/gnuzilla.txt
 # Last Converted - 21.09.2018
-# Total Domains - 15841
+# Total Domains - 15840
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -10184,7 +10184,6 @@
 0.0.0.0 perion.com
 0.0.0.0 permanyb.com
 0.0.0.0 permutive.com
-0.0.0.0 perr.h-cdn.com
 0.0.0.0 persevered.com
 0.0.0.0 persianstat.com
 0.0.0.0 persianstat.ir

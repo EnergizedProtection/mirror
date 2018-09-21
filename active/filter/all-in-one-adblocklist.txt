@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/all-in-one-adblocklist.txt
 # Last Converted - 21.09.2018
-# Total Domains - 41689
+# Total Domains - 41680
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -3427,7 +3427,6 @@
 0.0.0.0 agqguxbm.com
 0.0.0.0 agraeta.com
 0.0.0.0 agreeableprice.com
-0.0.0.0 agreemand.com
 0.0.0.0 agricolamarsole.com
 0.0.0.0 agrimmreality.com
 0.0.0.0 agrisolutions.co.ke
@@ -3574,6 +3573,7 @@
 0.0.0.0 akhmjitext.id
 0.0.0.0 akkinha-resort.com
 0.0.0.0 akkristd.beget.tech
+0.0.0.0 akmihtdbbz.com
 0.0.0.0 akmota.info
 0.0.0.0 aknice.info
 0.0.0.0 ako.org
@@ -7674,7 +7674,6 @@
 0.0.0.0 canvashub.com
 0.0.0.0 canyoustreamit.com
 0.0.0.0 cap-cap-pop.com
-0.0.0.0 capacitly.com
 0.0.0.0 capacitygrid.com
 0.0.0.0 capadinatrioustreehouse.co.za
 0.0.0.0 cape4down.com
@@ -8522,7 +8521,6 @@
 0.0.0.0 christineflorez.us
 0.0.0.0 christinelebeck.com
 0.0.0.0 christinepantazis.com
-0.0.0.0 christingel.com
 0.0.0.0 christmalicious.com
 0.0.0.0 christmasgiftnow.com
 0.0.0.0 christmasgiftsau.com
@@ -8591,7 +8589,6 @@
 0.0.0.0 cinemaoi.com
 0.0.0.0 cinematrix.net
 0.0.0.0 cinemaxy.com
-0.0.0.0 cinstein.com
 0.0.0.0 cint.com
 0.0.0.0 cinta17thn.000webhostapp.com
 0.0.0.0 cintsglobal.com
@@ -10086,7 +10083,6 @@
 0.0.0.0 credbgvhijbcj.com
 0.0.0.0 credemc.it
 0.0.0.0 credentialmanager.review
-0.0.0.0 credishe.com
 0.0.0.0 credit-agricolefrance.ga
 0.0.0.0 credit-suisse-uk.com
 0.0.0.0 creditcards15x.tk
@@ -13072,7 +13068,6 @@
 0.0.0.0 elskins.com
 0.0.0.0 elsotoproduction.com
 0.0.0.0 eltawhiedsoft.com
-0.0.0.0 elthamely.com
 0.0.0.0 eluhhfyxx.com
 0.0.0.0 eluxer.net
 0.0.0.0 elvenar.com
@@ -20565,7 +20560,6 @@
 0.0.0.0 jonbdgzs1.000webhostapp.com
 0.0.0.0 jondfe.co.vu
 0.0.0.0 jonesboatengministries.net
-0.0.0.0 joneself.com
 0.0.0.0 jonnyborgesmusic.com
 0.0.0.0 jonnydev.site
 0.0.0.0 jontebusch.com
@@ -24473,7 +24467,6 @@
 0.0.0.0 moengage.com
 0.0.0.0 moevideo.net
 0.0.0.0 mofaenterprises.com
-0.0.0.0 moggattice.com
 0.0.0.0 mogointeractive.com
 0.0.0.0 moguldom.com
 0.0.0.0 mogyang.net
@@ -25589,7 +25582,6 @@
 0.0.0.0 nepalalternativetreks.com
 0.0.0.0 nepalhimalayantrekking.com
 0.0.0.0 nepalhtml.com
-0.0.0.0 nephritish.com
 0.0.0.0 nepohita.com
 0.0.0.0 nererut.com
 0.0.0.0 nerfherdersolo.com
@@ -27888,7 +27880,6 @@
 0.0.0.0 permutive.com
 0.0.0.0 pernikunik.com
 0.0.0.0 perpinshop.com
-0.0.0.0 perr.h-cdn.com
 0.0.0.0 perr.hola.org
 0.0.0.0 perrysfruitnursery.com.au
 0.0.0.0 persevered.com
@@ -32973,7 +32964,6 @@
 0.0.0.0 site-rips.org
 0.0.0.0 site-submit.com.ua
 0.0.0.0 site.domoparis.com
-0.0.0.0 site.flashx.
 0.0.0.0 site2.criaderoeleclipse.co
 0.0.0.0 site24x7rum.com
 0.0.0.0 siteapps.com
@@ -37663,6 +37653,7 @@
 0.0.0.0 ujjwalkranti.com
 0.0.0.0 ujlpbcsx.com
 0.0.0.0 ujrfwuzv.com
+0.0.0.0 ujwdwwfuqcgnv.com
 0.0.0.0 ujxjvpnuwwlj.biz
 0.0.0.0 ujzeqfkeilro.com
 0.0.0.0 uk-netfilx-membership.com

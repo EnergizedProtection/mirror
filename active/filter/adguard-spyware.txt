@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-spyware-filter.txt
 # Last Converted - 21.09.2018
-# Total Domains - 3440
+# Total Domains - 3439
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -2123,7 +2123,6 @@
 0.0.0.0 performtracking.com
 0.0.0.0 perion.com
 0.0.0.0 permutive.com
-0.0.0.0 perr.h-cdn.com
 0.0.0.0 perr.hola.org
 0.0.0.0 persianstat.com
 0.0.0.0 persianstat.ir

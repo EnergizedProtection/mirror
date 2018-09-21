@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/adguard-french-filter.txt
 # Last Converted - 21.09.2018
-# Total Domains - 5524
+# Total Domains - 5523
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -4612,7 +4612,6 @@
 0.0.0.0 sirjacobepsteinheracleumsphondylium.com
 0.0.0.0 sirtgenu.com
 0.0.0.0 sistacked.com
-0.0.0.0 site.flashx.
 0.0.0.0 sk1n.fr
 0.0.0.0 sk8t.fr
 0.0.0.0 skencituer.com

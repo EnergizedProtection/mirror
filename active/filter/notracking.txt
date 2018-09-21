@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
 # Last Converted - 21.09.2018
-# Total Domains - 25804
+# Total Domains - 25803
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -16733,7 +16733,6 @@
 0.0.0.0 perkinss-imac.fgppchg.fgpp.com
 0.0.0.0 perl.villakayenta.com
 0.0.0.0 perpetualmotionmagnet.wordpress.com
-0.0.0.0 perr.h-cdn.com
 0.0.0.0 persiangig.ads.saba-e.com
 0.0.0.0 perso0.free.fr
 0.0.0.0 personajes.paraguay.com

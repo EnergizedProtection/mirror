@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/ck-ad-tracker.txt
 # Last Converted - 21.09.2018
-# Total Domains - 50416
+# Total Domains - 50415
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -36359,7 +36359,6 @@
 0.0.0.0 performercenter.livejasmin.com
 0.0.0.0 permissioninteractiv.tt.omtrdc.net
 0.0.0.0 permissionmedia.com
-0.0.0.0 perr.h-cdn.com
 0.0.0.0 persevered.com
 0.0.0.0 persiangig.ads.saba-e.com
 0.0.0.0 persianstat.com

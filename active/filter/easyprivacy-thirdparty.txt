@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easyprivacy-thirdparty.txt
 # Last Converted - 21.09.2018
-# Total Domains - 804
+# Total Domains - 803
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -475,7 +475,6 @@
 0.0.0.0 pebed.dm.gg
 0.0.0.0 peermapcontent.affino.com
 0.0.0.0 performance.typekit.net
-0.0.0.0 perr.h-cdn.com
 0.0.0.0 petitionermaster.appspot.com
 0.0.0.0 phantom.nudgespot.com
 0.0.0.0 phoenix.untd.com

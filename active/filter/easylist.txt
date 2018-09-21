@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/easylist.txt
 # Last Converted - 21.09.2018
-# Total Domains - 10406
+# Total Domains - 10407
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -7834,6 +7834,7 @@
 0.0.0.0 richmedia247.com
 0.0.0.0 richwebmedia.com
 0.0.0.0 rick-rick-rob.com
+0.0.0.0 rigoczly.com
 0.0.0.0 rijadpczqbdsvb.com
 0.0.0.0 rikhov.ru
 0.0.0.0 rimvtigoyajas.com

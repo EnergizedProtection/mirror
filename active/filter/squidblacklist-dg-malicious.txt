@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://www.squidblacklist.org/downloads/dg-malicious.acl
 # Last Converted - 21.09.2018
-# Total Domains - 98150
+# Total Domains - 98149
 # Energized - ad.porn.malware blocking.
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
@@ -72182,7 +72182,6 @@
 0.0.0.0 m.magnetmarketingllc.com
 0.0.0.0 m.nmphighschool.com
 0.0.0.0 m.prostokuhni.by
-0.0.0.0 m.vk.com
 0.0.0.0 m.wakemobile.bid
 0.0.0.0 m.wakephone.bid
 0.0.0.0 m.wantphone.bid
