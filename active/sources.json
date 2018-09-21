@@ -87,6 +87,7 @@
   {"name": "fanboy-cookiemonster",               "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/fanboy-cookiemonster.txt"},
   {"name": "fanboy-enhanced-stats",              "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/fanboy-enhanced-stats.txt"},
   {"name": "fanboy-indian",                      "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/fanboy-indian.txt"},
+  {"name": "fanboy-ultimate",                    "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/fanboy-ultimate.txt"},
   {"name": "gasb-pe",                            "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/EnergizedProtection/mirror/master/mirror/GASB-PE.active.txt"},
   {"name": "gnuzilla",                           "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/gnuzilla.txt"},
   {"name": "hexxium-creations-threat-list",      "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/EnergizedProtection/mirror/master/converter/filter/hexxium-creations-threat-list.txt"},

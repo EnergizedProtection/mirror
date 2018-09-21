@@ -7,6 +7,8 @@
 # https://nayemador.com/energized
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license
 
+0.0.0.0 adservice.tohsoft.com
+0.0.0.0 site.flashx.cc
 0.0.0.0 000lex4.wcomhost.com
 0.0.0.0 023hysj.com
 0.0.0.0 0latfee.ero-advertising.com
